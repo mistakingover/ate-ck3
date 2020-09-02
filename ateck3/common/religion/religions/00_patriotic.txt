@@ -1,0 +1,228 @@
+patriotic_religion = {
+	family = rf_oldworld
+	
+	doctrine = oldworld_hostility_doctrine
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_consanguinity_restricted
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_shunned
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_crime
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_lay_clergy
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+	doctrine = doctrine_temporal_head #???
+
+	traits = {
+		virtues = { honest brave just }
+		sins = { deceitful craven arbitrary arrogant }
+	}
+	
+	reserved_male_names = {
+		#put weird beltway names here
+	}
+	
+	reserved_female_names = {
+		#put weird beltway names here
+	}
+	
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+	
+	holy_order_names = {
+		{ name = "holy_order_minutemen" }
+		{ name = "holy_order_marine_corps" }
+		{ name = "holy_order_national_guard" }
+	}
+	
+	holy_order_maa = { minuteman }
+	
+		localization = {
+		#HighGod
+		HighGodName = patriotic_high_god_name #Washington
+		HighGodNamePossessive = patriotic_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = islam_high_god_name_alternate
+		HighGodNameAlternatePossessive = islam_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = patriotic_creator_god_name #Washington again
+		CreatorNamePossessive = patriotic_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = patriotic_health_god_name
+		HealthGodNamePossessive = patriotic_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = islam_fertility_god_name
+		FertilityGodNamePossessive = islam_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = patriotic_wealth_god_name
+		WealthGodNamePossessive = patriotic_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = patriotic_household_god_name
+		HouseholdGodNamePossessive = patriotic_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = patriotic_fate_god_name #Providence
+		FateGodNamePossessive = patriotic_fate_god_name_possessive #Providence
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = patriotic_knowledge_god_name #Ben Franklin
+		KnowledgeGodNamePossessive = patriotic_knowledge_god_name_possessive #Ben Franklin
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = patriotic_war_god_name #Washington
+		WarGodNamePossessive = patriotic_war_god_name_possessive #Washington
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = patriotic_trickster_god_name
+		TricksterGodNamePossessive = patriotic_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = patriotic_night_god_name
+		NightGodNamePossessive = patriotic_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = patriotic_water_god_name
+		WaterGodNamePossessive = patriotic_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+
+		PantheonTerm = patriotic_the_founders
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			patriotic_high_god_name
+			HighGodNameAlternate
+			patriotic_good_god_lincoln
+			patriotic_good_god_franklin
+			patriotic_good_god_jefferson
+			patriotic_good_god_roosevelt
+			patriotic_good_god_adams
+			patriotic_good_god_hamilton
+			patriotic_good_god_providence
+			patriotic_good_god_uncle_sam
+			patriotic_good_god_the_flag
+		}
+		DevilName = patriotic_devil_name
+		DevilNamePossessive = patriotic_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			patriotic_evil_god_the_traitor
+		}
+		HouseOfWorship = patriotic_house_of_worship
+		HouseOfWorshipPlural = patriotic_house_of_worship_plural
+		ReligiousSymbol = patriotic_religious_symbol
+		ReligiousText = patriotic_religious_text
+		ReligiousHeadName = patriotic_religious_head_title
+		ReligiousHeadTitleName = patriotic_religious_head_title_name
+		DevoteeMale = patriotic_devotee
+		DevoteeMalePlural = patriotic_devotee_plural
+		DevoteeFemale = patriotic_devotee
+		DevoteeFemalePlural = patriotic_devotee_plural
+		DevoteeNeuter = patriotic_devotee
+		DevoteeNeuterPlural = patriotic_devotee_plural
+		PriestMale = patriotic_priest
+		PriestMalePlural = patriotic_priest_plural
+		PriestFemale = patriotic_priest
+		PriestFemalePlural = patriotic_priest_plural
+		PriestNeuter = patriotic_priest
+		PriestNeuterPlural = patriotic_priest_plural
+		AltPriestTermPlural = patriotic_priest_alternate_plural
+		BishopMale = patriotic_bishop
+		BishopMalePlural = patriotic_bishop_plural
+		BishopFemale = patriotic_bishop
+		BishopFemalePlural = patriotic_bishop_plural
+		BishopNeuter = patriotic_bishop
+		BishopNeuterPlural = patriotic_bishop_plural
+		DivineRealm = patriotic_positive_afterlife
+		PositiveAfterLife = patriotic_positive_afterlife
+		NegativeAfterLife = patriotic_negative_afterlife
+		DeathDeityName = patriotic_death_deity_name
+		DeathDeityNamePossessive = patriotic_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = patriotic_witchgodname_marx
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}
+
+	faiths = {
+		americanist = {
+			color = { 0.3 0.3 0.8 }
+			icon = americanist
+			religious_head = d_americanist #???
+			
+			holy_site = washington
+			holy_site = philadelphia
+			holy_site = new_york
+			holy_site = boston
+			holy_site = rushmore
+			
+			#Tenet
+			doctrine = tenet_legalism
+			doctrine = tenet_interventionism #custom GHW doctrine
+			doctrine = tenet_religious_legal_pronouncements
+			
+			#DOCTRINES
+			#idk
+			
+			#Leadership
+			doctrine = doctrine_temporal_head
+		}
+	}
+}
