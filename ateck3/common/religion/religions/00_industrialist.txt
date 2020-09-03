@@ -207,8 +207,8 @@ industrialist_religion = {
 			
 			#Tenet
 			doctrine = tenet_communal_identity
-			doctrine = tenet_religious_legal_pronouncements #custom doctrine for salvage
-			doctrine = tenet_warmonger
+			doctrine = tenet_salvager
+			doctrine = tenet_interventionism
 			
 			#DOCTRINES
 			#idK
@@ -229,7 +229,7 @@ industrialist_religion = {
 			
 			#Tenet
 			doctrine = tenet_communal_identity
-			doctrine = tenet_consolamentum #custom doctrine for salvage
+			doctrine = tenet_salvager
 			doctrine = tenet_esotericism
 			
 			#DOCTRINES
