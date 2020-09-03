@@ -68,22 +68,25 @@ special_tolerance = {
 		}
 	}
 	
-	special_doctrine_protestant_christian = {
+	special_doctrine_mainstream_protestant = {
         parameters = {
-            hostility_override_special_doctrine_protestant_christian = 1
+            hostility_override_special_doctrine_mainstream_protestant = 1
             hostility_override_special_doctrine_latin_rite = 1
             hostility_override_special_doctrine_byzantine_rite = 1
             hostility_override_special_doctrine_lady_death = 3
+            hostility_override_special_doctrine_lds_fundamentalist = 3
         }
     }
 	
 	special_doctrine_latin_rite = {
 		parameters = {
 			hostility_override_special_doctrine_latin_rite = 1
-            hostility_override_special_doctrine_protestant_christian = 1
+            hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_byzantine_rite = 1
             hostility_override_special_doctrine_catholic_heritage = 1
             hostility_override_special_doctrine_lady_death = 3
+			hostility_override_special_doctrine_lds_fundamentalist = 3
+			hostility_override_special_doctrine_end_of_days = 3
 		}
 	}
 	
@@ -91,9 +94,11 @@ special_tolerance = {
         parameters = {
             hostility_override_special_doctrine_byzantine_rite = 1
 			hostility_override_special_doctrine_latin_rite = 1 #should they be okay with catholic heritage too?
-			hostility_override_special_doctrine_protestant_christian = 1
+			hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_native = 2
             hostility_override_special_doctrine_lady_death = 3
+			hostility_override_special_doctrine_lds_fundamentalist = 3
+			hostility_override_special_doctrine_end_of_days = 3
         }
     }
 	
@@ -134,7 +139,7 @@ special_tolerance = {
 	special_doctrine_latter_day_saints = {
         parameters = {
             hostility_override_special_doctrine_latter_day_saints = 1
-            hostility_override_special_doctrine_protestant_christian = 1 #note how they like other christians, but other christians don't like them. it might be possible to replace this doctrine if you're pushed too hard...
+            hostility_override_special_doctrine_mainstream_protestant = 1 #note how they like other christians, but other christians don't like them. it might be possible to replace this doctrine if you're pushed too hard...
             hostility_override_special_doctrine_latin_rite = 1
             hostility_override_special_doctrine_byzantine_rite = 1
             hostility_override_special_doctrine_lady_death = 3
@@ -145,7 +150,6 @@ special_tolerance = {
 	special_doctrine_lds_fundamentalist = {
 		parameters = {
 			hostility_override_special_doctrine_lds_fundamentalist = 1
-			hostility_override_special_doctrine_latin_rite = 3
 			hostility_override_special_doctrine_catholic_heritage = 3
 			hostility_override_special_doctrine_cult_of_saints = 3
 			hostility_override_special_doctrine_lady_death = 3
@@ -157,7 +161,6 @@ special_tolerance = {
 	special_doctrine_end_of_days = { #for postadventist
 		parameters = {
 			hostility_override_special_doctrine_end_of_days = 1
-			hostility_override_special_doctrine_latin_rite = 3
 			hostility_override_special_doctrine_catholic_heritage = 3
 			hostility_override_special_doctrine_cult_of_saints = 3
 			hostility_override_special_doctrine_lady_death = 3
