@@ -1,5 +1,5 @@
-﻿west_african_orisha_religion = {
-	family = rf_pagan
+﻿orishan_religion = {
+	family = rf_afrosyncretic
 
 	doctrine = pagan_hostility_doctrine
 
@@ -9,7 +9,6 @@
 	doctrine = doctrine_no_head
 	doctrine = doctrine_gender_equal
 	doctrine = doctrine_pluralism_pluralistic
-	doctrine = doctrine_theocracy_temporal
 
 	#Marriage
 	doctrine = doctrine_concubines
@@ -188,22 +187,48 @@
 	}	
 
 	faiths = {
-		west_african_orisha_pagan = {
-			color = { 38 63 125 }
+		lucumi = {
+			color = { 0.6 0.75 0.0 }
 			icon = yoruba
-			reformed_icon = yoruba_reformed
+			#reformed_icon = yoruba_reformed
 
-			holy_site = ife
-			holy_site = igbo
-			holy_site = kumasi
-			holy_site = bono
-			holy_site = kukiya
-
-			doctrine = unreformed_faith_doctrine
+			holy_site = miami
+			holy_site = havana
+			holy_site = sierra_maestra
+			holy_site = santo_domingo
+			holy_site = san_juan
 
 			doctrine = tenet_esotericism
 			doctrine = tenet_reincarnation
 			doctrine = tenet_ancestor_worship
+			
+			#Doctrines
+			doctrine = doctrine_homosexuality_shunned
+			
+			#Leadership
+			doctrine = doctrine_no_head
+		}
+		
+		candomble = {
+			color = { 0.6 0.75 0.2 }
+			icon = yoruba_reformed
+
+			holy_site = caracas
+			holy_site = boa_vista
+			holy_site = amapa
+			holy_site = bogota
+			holy_site = panama
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_reincarnation
+			doctrine = tenet_ancestor_worship
+			
+			#Doctrines
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			
+			#Leadership
+			doctrine = doctrine_no_head
 		}
 	}
 }

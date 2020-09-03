@@ -61,6 +61,12 @@ special_tolerance = {
 			hostility_override_special_doctrine_ecumenical_christian = 1
 		}
 	}
+	
+	special_doctrine_freedom_of_speech = {
+		parameters = {
+			hostility_override_special_doctrine_freedom_of_speech = 1
+		}
+	}
 }
 
 heresy_hostility = {

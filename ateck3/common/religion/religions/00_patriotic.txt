@@ -22,8 +22,8 @@ patriotic_religion = {
 	doctrine = doctrine_temporal_head #???
 
 	traits = {
-		virtues = { honest brave just }
-		sins = { deceitful craven arbitrary arrogant }
+		virtues = { honest brave just ambitious }
+		sins = { deceitful craven arbitrary content }
 	}
 	
 	reserved_male_names = {
@@ -46,15 +46,15 @@ patriotic_religion = {
 	
 	holy_order_maa = { minuteman }
 	
-		localization = {
+	localization = {
 		#HighGod
 		HighGodName = patriotic_high_god_name #Washington
 		HighGodNamePossessive = patriotic_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
 		HighGodHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternate = islam_high_god_name_alternate
-		HighGodNameAlternatePossessive = islam_high_god_name_alternate_possessive
+		HighGodNameAlternate = patriotic_high_god_name_alternate
+		HighGodNameAlternatePossessive = patriotic_high_god_name_alternate_possessive
 
 		#Creator
 		CreatorName = patriotic_creator_god_name #Washington again
@@ -71,8 +71,8 @@ patriotic_religion = {
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = islam_fertility_god_name
-		FertilityGodNamePossessive = islam_fertility_god_name_possessive
+		FertilityGodName = patriotic_fertility_god_name
+		FertilityGodNamePossessive = patriotic_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_HE
 		FertilityGodHerHis = CHARACTER_HERHIS_HIS
 		FertilityGodHerHim = CHARACTER_HERHIM_HIM
@@ -85,18 +85,18 @@ patriotic_religion = {
 		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
-		HouseholdGodName = patriotic_household_god_name
+		HouseholdGodName = patriotic_household_god_name #The Flag
 		HouseholdGodNamePossessive = patriotic_household_god_name_possessive
-		HouseholdGodSheHe = CHARACTER_SHEHE_HE
-		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
-		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+		HouseholdGodSheHe = CHARACTER_SHEHE_IT
+		HouseholdGodHerHis = CHARACTER_HERHIS_ITS
+		HouseholdGodHerHim = CHARACTER_HERHIM_IT
 
 		#FateGod
 		FateGodName = patriotic_fate_god_name #Providence
 		FateGodNamePossessive = patriotic_fate_god_name_possessive #Providence
-		FateGodSheHe = CHARACTER_SHEHE_HE
-		FateGodHerHis = CHARACTER_HERHIS_HIS
-		FateGodHerHim = CHARACTER_HERHIM_HIM
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
 		KnowledgeGodName = patriotic_knowledge_god_name #Ben Franklin
@@ -133,13 +133,12 @@ patriotic_religion = {
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
 
-
-
 		PantheonTerm = patriotic_the_founders
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = {
 			patriotic_high_god_name
-			HighGodNameAlternate
+			patriotic_high_god_name_alternate
+			patriotic_good_god_washington
 			patriotic_good_god_lincoln
 			patriotic_good_god_franklin
 			patriotic_good_god_jefferson
@@ -213,17 +212,145 @@ patriotic_religion = {
 			holy_site = boston
 			holy_site = rushmore
 			
+			#Special Doctrine
+			doctrine = special_doctrine_freedom_of_speech
+			
 			#Tenet
 			doctrine = tenet_legalism
 			doctrine = tenet_interventionism #basically a ripoff of the muslim GHW doctrine
-			doctrine = tenet_religious_legal_pronouncements
-			doctrine = tenet_freedom_of_speech
-			
-			#DOCTRINES
-			#idk
+			doctrine = tenet_literalism
 			
 			#Leadership
 			doctrine = doctrine_temporal_head
+		}
+		
+		libertarian = {
+			color = { 0.4 0.4 0.4 }
+			icon = libertarian
+			religious_head = d_libertarian #???
+			
+			holy_site = washington
+			holy_site = philadelphia
+			holy_site = new_york
+			holy_site = boston
+			holy_site = newark
+			
+			#Special Doctrine
+			doctrine = special_doctrine_freedom_of_speech
+			
+			#Tenet
+			doctrine = tenet_legalism
+			doctrine = tenet_religious_legal_pronouncements
+			doctrine = tenet_pacifism
+			
+			#DOCTRINES
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_homosexuality_accepted
+			ddoctrine = doctrine_witchcraft_shunned
+			doctrine = doctrine_pluralism_righteous
+			
+			#Leadership
+			doctrine = doctrine_temporal_head
+			
+			localization = {
+				#HighGod
+				HighGodName = libertarian_high_god_name
+				HighGodNamePossessive = libertarian_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_SHE
+				HighGodHerselfHimself = CHARACTER_HERSELF
+				HighGodHerHis = CHARACTER_HERHIS_HER
+				HighGodNameAlternate = libertarian_high_god_name_alternate
+				HighGodNameAlternatePossessive = libertarian_high_god_name_alternate_possessive
+
+				#Creator
+				CreatorName = libertarian_high_god_name
+				CreatorNamePossessive = libertarian_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_SHE
+				CreatorHerHis = CHARACTER_HERHIS_HER
+				CreatorHerHim = CHARACTER_HERHIM_HER
+
+				#HealthGod
+				HealthGodName = libertarian_health_god_name
+				HealthGodNamePossessive = libertarian_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+				
+				#FertilityGod
+				FertilityGodName = libertarian_fertility_god_name
+				FertilityGodNamePossessive = libertarian_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = libertarian_wealth_god_name
+				WealthGodNamePossessive = libertarian_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_SHE
+				WealthGodHerHis = CHARACTER_HERHIS_HER
+				WealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#HouseholdGod
+				HouseholdGodName = libertarian_household_god_name
+				HouseholdGodNamePossessive = libertarian_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#FateGod
+				FateGodName = patriotic_fate_god_name
+				FateGodNamePossessive = patriotic_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_IT
+				FateGodHerHis = CHARACTER_HERHIS_ITS
+				FateGodHerHim = CHARACTER_HERHIM_IT
+
+				#KnowledgeGod
+				KnowledgeGodName = libertarian_knowledge_god_name
+				KnowledgeGodNamePossessive = libertarian_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+				#WarGod
+				WarGodName = libertarian_war_god_name
+				WarGodNamePossessive = libertarian_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#TricksterGod
+				TricksterGodName = patriotic_trickster_god_name
+				TricksterGodNamePossessive = patriotic_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = patriotic_night_god_name
+				NightGodNamePossessive = patriotic_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = libertarian_water_god_name
+				WaterGodNamePossessive = libertarian_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+				PantheonTerm = religion_the_gods
+				PantheonTermHasHave = pantheon_term_have
+				GoodGodNames = {
+					libertarian_high_god_name
+					libertarian_high_god_name_alternate
+					libertarian_good_god_lady_liberty
+					patriotic_good_god_providence
+					patriotic_good_god_the_flag
+				}
+			}
 		}
 	}
 }

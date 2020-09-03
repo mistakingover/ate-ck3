@@ -1,0 +1,39 @@
+doctrine_core_tenets = {
+	group = "core_tenets"
+	number_of_picks = 3
+	
+	tenet_interventionism = {
+		icon = core_tenet_sword
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = patriotic_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_high
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_interventionism }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			OR = {
+				religion_tag = patriotic_religion
+				religion_tag = capitalist_religion
+			}
+		}
+
+		parameters = {
+			great_holy_wars_active = yes
+			ghw_no_hof_conversion_buffs_active = yes
+			bonus_holy_war_piety_active = yes
+			pilgrimage_decision_active = yes
+		}
+	}
+}
