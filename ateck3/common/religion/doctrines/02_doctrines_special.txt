@@ -125,7 +125,7 @@ special_tolerance = {
 	
 	special_doctrine_lady_death = { #For Santa Muerte specifically.
         parameters = {
-			hostility_override_special_doctrine_lady_death = 1
+			hostility_override_special_doctrine_lady_death = 0
 			hostility_override_special_doctrine_cult_of_saints = 1
             hostility_override_special_doctrine_catholic_heritage = 1
             hostility_override_special_doctrine_mayan_pluralism = 0
