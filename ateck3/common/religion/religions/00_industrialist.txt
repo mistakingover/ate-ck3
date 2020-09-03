@@ -3,7 +3,7 @@ industrialist_religion = {
 	
 	doctrine = oldworld_hostility_doctrine
 	doctrine = doctrine_monogamy
-	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_gender_equal
 	doctrine = doctrine_consanguinity_restricted
 	doctrine = doctrine_divorce_approval
 	doctrine = doctrine_bastardry_legitimization
@@ -233,7 +233,6 @@ industrialist_religion = {
 			doctrine = tenet_esotericism
 			
 			#DOCTRINES
-			doctrine = doctrine_gender_equal
 			doctrine = doctrine_homosexuality_accepted
 			
 			#Leadership

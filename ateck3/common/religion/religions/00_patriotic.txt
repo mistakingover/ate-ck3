@@ -3,7 +3,7 @@ patriotic_religion = {
 	
 	doctrine = oldworld_hostility_doctrine
 	doctrine = doctrine_monogamy
-	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_gender_equal
 	doctrine = doctrine_consanguinity_restricted
 	doctrine = doctrine_divorce_approval
 	doctrine = doctrine_bastardry_legitimization
@@ -216,9 +216,8 @@ patriotic_religion = {
 			doctrine = special_doctrine_freedom_of_speech
 			
 			#Tenet
-			doctrine = tenet_legalism
+			doctrine = tenet_due_process
 			doctrine = tenet_interventionism #basically a ripoff of the muslim GHW doctrine
-			doctrine = tenet_literalism
 			
 			#Leadership
 			doctrine = doctrine_temporal_head
@@ -239,12 +238,10 @@ patriotic_religion = {
 			doctrine = special_doctrine_freedom_of_speech
 			
 			#Tenet
-			doctrine = tenet_legalism
-			doctrine = tenet_religious_legal_pronouncements
+			doctrine = tenet_due_process
 			doctrine = tenet_pacifism
 			
 			#DOCTRINES
-			doctrine = doctrine_gender_equal
 			doctrine = doctrine_divorce_allowed
 			doctrine = doctrine_homosexuality_accepted
 			ddoctrine = doctrine_witchcraft_shunned

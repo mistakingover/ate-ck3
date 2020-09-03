@@ -2448,46 +2448,320 @@
 	}
 
 	#############################
-	# Empty Template Tenet 		#
+	# After the End Tenets		#
 	#############################
 
-	tenets = {
-		is_shown = {
-			always = no
-		}
-		can_pick = {
-			always = yes
-		}
-
+	tenet_interventionism = {
+		icon = core_tenet_sword
 		piety_cost = {
 			if = {
 				limit = {
-					always = no
+					religion_tag = patriotic_religion
 				}
 				value = faith_tenet_cost_low
 			}
 			else = {
-				value = faith_tenet_cost_massive
+				value = faith_tenet_cost_mid
 			}
 
 			# Multiplier for keeping same tenet
 			if = {
-				limit = { has_doctrine = tenets }
+				limit = { has_doctrine = tenet_interventionism }
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
 
+		is_shown = {
+			has_doctrine = oldworld_hostility_doctrine
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_pacifism_trigger
+				NOT = { flag:tenet_pacifism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_dharmic_pacifism_trigger
+				NOT = { flag:dharmic_pacifism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_armed_pilgrimages_trigger
+				NOT = { flag:tenet_armed_pilgrimages = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_struggle_submission_trigger
+				NOT = { flag:tenet_struggle_submission = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_warmonger_trigger
+				NOT = { flag:tenet_warmonger = { is_in_list = selected_doctrines } }
+			}
+		}
+
 		parameters = {
-			tenets_active = yes
+			great_holy_wars_active = yes
+			ghw_no_hof_conversion_buffs_active = yes
+			bonus_holy_war_piety_active = yes
+			pilgrimage_decision_active = yes
+		}
+	}
+	
+	tenet_due_process = {
+		icon = core_tenet_bigbook
+		piety_cost = {
+			value = faith_tenet_cost_mid
+			
+			else = {
+				value = faith_tenet_cost_high
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_due_process }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			religion_tag = patriotic_religion
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_legalism_trigger
+				NOT = { flag:tenet_legalism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_religious_legal_pronouncements_trigger
+				NOT = { flag:tenet_religious_legal_pronouncements = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_literalism_trigger
+				NOT = { flag:tenet_literalism = { is_in_list = selected_doctrines } }
+			}
+		}
+		
+		traits = {
+			virtues = { just scholar }
+			sins = { arbitrary }
+		}
+
+		parameters = {
+			legalism_modified_law_costs = yes
+			legalism_modified_law_costs_2 = yes
+			literalist_debate_enabled = yes
+			temporal_condemnation_enabled = yes
+			legalism_reduced_faction_virtues = yes
+			legalism_increased_faction_sins = yes
+		}
+	}
+	
+	tenet_salvager = {
+		icon = core_tenet_handcoin #placeholder
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = industrialist_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+			#this should be high for certain religions probably
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_salvager }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		#is_shown = {
+		#	has_doctrine = oldworld_hostility_doctrine
+		#}
+		
+		#can_pick = {
+		#	custom_description = {
+		#		text = incompatible_tenet_mendicant_preachers_trigger
+		#		NOT = { flag:tenet_mendicant_preachers = { is_in_list = selected_doctrines } }
+		#	}
+		#}
+
+		parameters = {
+			salvage_expeditions_unlocked = yes #not defined anywhere yet
+		}
+	}
+	
+	tenet_retail_therapy = {
+		icon = core_tenet_foodsacrifice
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = capitalist_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else_if = {
+				limit = {
+					religion_tag = patriotic_religion
+				}
+				value = faith_tenet_cost_mid
+			}
+			else = {
+				value = faith_tenet_cost_high
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_retail_therapy }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			has_doctrine = oldworld_hostility_doctrine
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_monasticism_trigger
+				NOT = { flag:tenet_monasticism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_mendicant_preachers_trigger
+				NOT = { flag:tenet_mendicant_preachers = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_hedonistic_trigger
+				NOT = { flag:tenet_hedonistic = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_ritual_celebrations
+				NOT = { flag:tenet_ritual_celebrations = { is_in_list = selected_doctrines } }
+			}
+		}
+		
+		traits = {
+			virtues = { gluttonous = 2 }
+			sins = { temperate = 2 }
+		}
+
+		parameters = {
+			piety_from_feasts_active = yes
+			mandatory_feast_attendance = yes
+		}
+		
+		character_modifier = {
+			stress_loss_mult = 0.2
+		}
+	}
+	
+	tenet_multi_level_marketing = {
+		icon = core_tenet_handcoin
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = capitalist_religion
+				}
+				value = faith_tenet_cost_mid
+			}
+			else = {
+				value = faith_tenet_cost_high
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_multi_level_marketing }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
 		}
 
 		character_modifier = {
+			domain_tax_different_faith_mult = 0.2
+			mendicant_preachers_conversion_active = yes
+			levy_reinforcement_rate_different_faith = -0.25
+		}
+	}
+	
+	tenet_atom_worship = {
+		icon = core_tenet_skyshaman #placeholder
+		piety_cost = {
+			value = faith_tenet_cost_mid
 
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_atom_worship }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		is_shown = {
+			religion_tag = scientific_religion
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_monasticism_trigger
+				NOT = { flag:tenet_monasticism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_mendicant_preachers_trigger
+				NOT = { flag:tenet_mendicant_preachers = { is_in_list = selected_doctrines } }
+			}
 		}
 
-		traits = {
-			virtues = { brave = 2}
-			sins = { craven = 2}
+		parameters = {
+			trial_by_sun_active = yes
+			summer_festivals_active = yes
+			atom_blessing_active = yes
+		}
+		
+		character_modifier = {
+			desert_attrition_mult = -0.25
+			desert_mountains_attrition_mult = -0.25
+		}
+	}
+	
+	tenet_free_radical = {
+		icon = core_tenet_prayer #placeholder
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = scientific_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_high
+			}
+			
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_free_radical }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		is_shown = {
+			has_doctrine = oldworld_hostility_doctrine
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_monasticism_trigger
+				NOT = { flag:tenet_monasticism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_mendicant_preachers_trigger
+				NOT = { flag:tenet_mendicant_preachers = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+			pilgrimage_decision_active = yes
+			take_vows_active = yes
 		}
 	}
 }
