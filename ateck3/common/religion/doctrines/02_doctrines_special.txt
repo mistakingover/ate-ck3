@@ -56,7 +56,7 @@ special_tolerance = {
 		always = no # Goes away when creating a new Faith
 	}
 	
-	special_doctrine_ecumenical_christian = {
+	special_doctrine_ecumenical_christian = { #we may not need this
 		parameters = {
 			hostility_override_special_doctrine_ecumenical_christian = 1
 		}
@@ -67,6 +67,92 @@ special_tolerance = {
 			hostility_override_special_doctrine_freedom_of_speech = 1
 		}
 	}
+	
+	special_doctrine_protestant_christian = {
+        parameters = {
+            hostility_override_special_doctrine_protestant_christian = 1
+            hostility_override_special_doctrine_latin_rite = 1
+            hostility_override_special_doctrine_lady_death = 3
+        }
+    }
+	
+	special_doctrine_latin_rite = {
+		parameters = {
+			hostility_override_special_doctrine_latin_rite = 1
+            hostility_override_special_doctrine_protestant_christian = 1
+            hostility_override_special_doctrine_catholic_heritage = 1
+            hostility_override_special_doctrine_lady_death = 3
+		}
+	}
+	
+	special_doctrine_catholic_heritage = {
+        parameters = {
+            hostility_override_special_doctrine_latin_rite = 1
+            hostility_override_special_doctrine_cult_of_saints = 1
+            hostility_override_special_doctrine_lady_death = 1
+        }
+    }
+	
+	special_doctrine_cult_of_saints = {
+        parameters = {
+            hostility_override_special_doctrine_catholic_heritage = 1
+            hostility_override_special_doctrine_cult_of_saints = 1
+            hostility_override_special_doctrine_mayan_pluralism = 1
+            hostility_override_special_doctrine_lady_death = 1
+        }
+    }
+	
+	special_doctrine_lady_death = {
+        parameters = {
+			hostility_override_special_doctrine_lady_death = 1
+            hostility_override_special_doctrine_catholic_heritage = 1
+            hostility_override_special_doctrine_cult_of_saints = 1
+            hostility_override_special_doctrine_mayan_pluralism = 1
+        }
+    }
+	
+	special_doctrine_mayan_pluralism = {
+        parameters = {
+            hostility_override_special_doctrine_mayan_pluralism = 0
+            hostility_override_special_doctrine_cult_of_saints = 1
+            hostility_override_special_doctrine_lady_death = 1
+        }
+    }
+	
+	special_doctrine_latter_day_saints = {
+        parameters = {
+            hostility_override_special_doctrine_latter_day_saints = 1
+            hostility_override_special_doctrine_protestant_christian = 1
+            hostility_override_special_doctrine_latin_rite = 1
+            hostility_override_special_doctrine_lady_death = 3
+        }
+    }
+	
+	special_doctrine_lion_of_zion = {
+        parameters = {
+            hostility_override_special_doctrine_lion_of_zion = 0
+            hostility_override_special_doctrine_afro_syncretic = 1 #don't know if this is how it works
+        }
+    }
+	
+	special_doctrine_afro_syncretic = {
+        parameters = {
+            hostility_override_special_doctrine_lion_of_zion = 1
+        }
+    }
+	
+	special_doctrine_red_road = {
+        parameters = {
+            hostility_override_special_doctrine_red_road = 0
+            hostility_override_special_doctrine_native = 1 #don't know if this is how it works
+        }
+    }
+	
+	special_doctrine_native = {
+        parameters = {
+            hostility_override_special_doctrine_red_road = 1
+        }
+    }
 }
 
 heresy_hostility = {
