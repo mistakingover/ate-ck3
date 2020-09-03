@@ -2510,10 +2510,6 @@
 		icon = core_tenet_bigbook
 		piety_cost = {
 			value = faith_tenet_cost_mid
-			
-			else = {
-				value = faith_tenet_cost_high
-			}
 
 			# Multiplier for keeping same tenet
 			if = {
@@ -2677,9 +2673,12 @@
 			}
 		}
 
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+		}
+		
 		character_modifier = {
 			domain_tax_different_faith_mult = 0.2
-			mendicant_preachers_conversion_active = yes
 			levy_reinforcement_rate_different_faith = -0.25
 		}
 	}
