@@ -68,7 +68,7 @@ special_tolerance = {
 		}
 	}
 	
-	special_doctrine_mainstream_protestant = {
+	special_doctrine_mainstream_protestant = { #For Evangelicals, Anabaptists, Anglicans, etc.
         parameters = {
             hostility_override_special_doctrine_mainstream_protestant = 1
             hostility_override_special_doctrine_latin_rite = 1
@@ -78,7 +78,7 @@ special_tolerance = {
         }
     }
 	
-	special_doctrine_latin_rite = {
+	special_doctrine_latin_rite = { #For Catholics, Ursulines, etc.
 		parameters = {
 			hostility_override_special_doctrine_latin_rite = 1
             hostility_override_special_doctrine_mainstream_protestant = 1
@@ -92,7 +92,7 @@ special_tolerance = {
 		}
 	}
 	
-	special_doctrine_byzantine_rite = { #used for tlingit orthodox
+	special_doctrine_byzantine_rite = { #For Tlingit Orthodox specifically. If we add other Byzantine-type religions we'll need to create a new doctrine.
         parameters = {
             hostility_override_special_doctrine_byzantine_rite = 1
 			hostility_override_special_doctrine_latin_rite = 1 #should they be okay with catholic heritage too?
@@ -106,7 +106,7 @@ special_tolerance = {
         }
     }
 	
-	special_doctrine_catholic_heritage = {
+	special_doctrine_catholic_heritage = { #For Guadalupe, Insular (caribbean), etc.
         parameters = {
             hostility_override_special_doctrine_latin_rite = 1 #should they be okay with byzantine rite too?
             hostility_override_special_doctrine_cult_of_saints = 1
@@ -114,7 +114,7 @@ special_tolerance = {
         }
     }
 	
-	special_doctrine_cult_of_saints = {
+	special_doctrine_cult_of_saints = { #For El Santo, etc.
         parameters = {
             hostility_override_special_doctrine_cult_of_saints = 1
 			hostility_override_special_doctrine_catholic_heritage = 1
@@ -123,7 +123,7 @@ special_tolerance = {
         }
     }
 	
-	special_doctrine_lady_death = {
+	special_doctrine_lady_death = { #For Santa Muerte specifically.
         parameters = {
 			hostility_override_special_doctrine_lady_death = 1
 			hostility_override_special_doctrine_cult_of_saints = 1
@@ -132,7 +132,7 @@ special_tolerance = {
         }
     }
 	
-	special_doctrine_mayan_pluralism = {
+	special_doctrine_mayan_pluralism = { #For many Maya faiths
         parameters = {
             hostility_override_special_doctrine_mayan_pluralism = 0
             hostility_override_special_doctrine_cult_of_saints = 1
@@ -140,7 +140,7 @@ special_tolerance = {
         }
     }
 	
-	special_doctrine_latter_day_saints = {
+	special_doctrine_latter_day_saints = { #For "mainstream" Mormons
         parameters = {
             hostility_override_special_doctrine_latter_day_saints = 1
             hostility_override_special_doctrine_mainstream_protestant = 1 #note how they like other christians, but other christians don't like them. it might be possible to replace this doctrine if you're pushed too hard...
@@ -153,8 +153,7 @@ special_tolerance = {
         }
     }
 	
-	#consider adding more "fundamentalist" doctrines, along the lines of:
-	special_doctrine_lds_fundamentalist = {
+	special_doctrine_lds_fundamentalist = { #For other Mormons and, by decision, "mainstream" Mormons.
 		parameters = {
 			hostility_override_special_doctrine_lds_fundamentalist = 1
 			hostility_override_special_doctrine_latin_rite = 3
@@ -168,7 +167,7 @@ special_tolerance = {
 		}
 	}
 	
-	special_doctrine_end_of_days = { #for postadventist
+	special_doctrine_end_of_days = { #For Postadventists specifically
 		parameters = {
 			hostility_override_special_doctrine_end_of_days = 1
 			hostility_override_special_doctrine_latin_rite = 3
@@ -182,33 +181,33 @@ special_tolerance = {
 		}
 	}
 	
-	special_doctrine_glossolalia = { #only used by Charismatic and Revelationist
+	special_doctrine_glossolalia = { #For Charismatic and Revelationist specifically
 		parameters = {
 			hostility_override_special_doctrine_special_doctrine_glossolalia = 2
 		}
 	}
 	
-	special_doctrine_lion_of_zion = {
+	special_doctrine_rastafari = { #For Rasta Mansions
         parameters = {
-            hostility_override_special_doctrine_lion_of_zion = 0
+            hostility_override_special_doctrine_rastafari = 0
             hostility_override_special_doctrine_afro_syncretic = 1 #don't know if this is how it works
         }
     }
 	
-	special_doctrine_afro_syncretic = {
+	special_doctrine_afro_syncretic = { #Governs Rasta relationships
         parameters = {
-            hostility_override_special_doctrine_lion_of_zion = 1
+            hostility_override_special_doctrine_rastafari = 1
         }
     }
 	
-	special_doctrine_red_road = {
+	special_doctrine_red_road = { #For Peyotists
         parameters = {
             hostility_override_special_doctrine_red_road = 0
             hostility_override_special_doctrine_native = 1 #don't know if this is how it works
         }
     }
 	
-	special_doctrine_native = {
+	special_doctrine_native = { #Governs Peyotist and Byzantine relationships
         parameters = {
             hostility_override_special_doctrine_red_road = 1
             hostility_override_special_doctrine_byzantine_rite = 2
