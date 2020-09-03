@@ -21,8 +21,8 @@ capitalist_religion = {
 	doctrine = doctrine_temporal_head #???
 
 	traits = {
-		virtues = { diligent ambitious greedy }
-		sins = { lazy conent generous }
+		virtues = { diligent ambitious generous }
+		sins = { lazy conent greedy }
 	}
 	
 	reserved_male_names = {
@@ -208,7 +208,7 @@ capitalist_religion = {
 			holy_site = seattle
 			
 			#Tenet
-			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_hedonistic
 			doctrine = tenet_tax_nonbelievers
 			doctrine = tenet_warmonger
 			
@@ -241,7 +241,12 @@ capitalist_religion = {
 			doctrine = doctrine_homosexuality_accepted
 			
 			#Leadership
-			doctrine = doctrine_temporal_head			
+			doctrine = doctrine_temporal_head
+
+			traits = {
+				virtues = { diligent ambitious greedy }
+				sins = { lazy conent generous }
+			}
 		}
 	}
 }
