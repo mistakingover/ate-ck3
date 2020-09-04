@@ -1,0 +1,294 @@
+﻿espiritista_religion = {
+	family = rf_abrahamic
+	graphical_faith = pagan_gfx
+	doctrine = pagan_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_pluralistic
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+
+	traits = {
+		virtues = { compassionate gregarious temperate }
+		sins = { wroth arrogant sadistic }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_guardians_of_divinerealm" }
+		{ name = "holy_order_faithful_of_highgod" }
+		{ name = "holy_order_warriors_of_the_symbol" }
+	}
+
+	holy_order_maa = { bush_hunter }
+
+	localization = {
+		HighGodName = espiritista_high_god_name
+		HighGodNamePossessive = espiritista_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		HighGodHerHis = CHARACTER_HERHIS_ITS
+		HighGodNameAlternate = espiritista_high_god_name_alternate
+		HighGodNameAlternatePossessive = espiritista_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = espiritista_creator_god_name
+		CreatorNamePossessive = espiritista_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_SHEHE_IT
+
+		#HealthGod
+		HealthGodName = espiritista_health_god_name
+		HealthGodNamePossessive = espiritista_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = espiritista_fertility_god_name
+		FertilityGodNamePossessive = espiritista_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = espiritista_wealth_god_name
+		WealthGodNamePossessive = espiritista_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = espiritista_household_god_name
+		HouseholdGodNamePossessive = espiritista_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HER
+		HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+		#FateGod
+		FateGodName = espiritista_fate_god_name
+		FateGodNamePossessive = espiritista_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = espiritista_knowledge_god_name
+		KnowledgeGodNamePossessive = espiritista_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = espiritista_war_god_name
+		WarGodNamePossessive = espiritista_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = espiritista_trickster_god_name
+		TricksterGodNamePossessive = espiritista_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_THEY # Plural they
+		TricksterGodHerHis = CHARACTER_HERHIS_THEIR
+		TricksterGodHerHim = CHARACTER_HERHIM_THEM
+
+		#NightGod
+		NightGodName = espiritista_night_god_name
+		NightGodNamePossessive = espiritista_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = espiritista_water_god_name
+		WaterGodNamePossessive = espiritista_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_THEY # Singular they
+		WaterGodHerHis = CHARACTER_HERHIS_THEIR
+		WaterGodHerHim = CHARACTER_HERHIM_THEM
+
+
+		GoodGodNames = { 
+			espiritista_high_god_name 
+			espiritista_high_god_name_alternate 
+			espiritista_health_god_name 
+			espiritista_fertility_god_name 
+			espiritista_wealth_god_name 
+			espiritista_household_god_name 
+			espiritista_knowledge_god_name 
+			espiritista_war_god_name 
+			espiritista_night_god_name 
+			espiritista_water_god_name 
+		}
+		DevilName = espiritista_devil_name
+		DevilNamePossessive = espiritista_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_THEY
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerselfHimself = espiritista_devil_herselfhimself
+		EvilGodNames = { espiritista_devil_name }
+		HouseOfWorship = espiritista_house_of_worship
+		HouseOfWorshipPlural = espiritista_house_of_worship_plural
+		ReligiousSymbol = espiritista_religious_symbol
+		ReligiousText = espiritista_religious_text
+		ReligiousHeadName = espiritista_religious_head_title
+		ReligiousHeadTitleName = espiritista_religious_head_title_name
+		DevoteeMale = espiritista_devotee
+		DevoteeMalePlural = espiritista_devoteeplural
+		DevoteeFemale = espiritista_devotee
+		DevoteeFemalePlural = espiritista_devoteeplural
+		DevoteeNeuter = espiritista_devotee
+		DevoteeNeuterPlural = espiritista_devoteeplural
+		PriestMale = espiritista_priest
+		PriestMalePlural = espiritista_priest_plural
+		PriestFemale = espiritista_priest
+		PriestFemalePlural = espiritista_priest_plural
+		PriestNeuter = espiritista_priest
+		PriestNeuterPlural = espiritista_priest_plural
+		AltPriestTermPlural = espiritista_priest_alternate_plural
+		BishopMale = espiritista_priest
+		BishopMalePlural = espiritista_priest_plural
+		BishopFemale = espiritista_priest
+		BishopFemalePlural = espiritista_priest_plural
+		BishopNeuter = espiritista_priest
+		BishopNeuterPlural = espiritista_priest_plural
+		DivineRealm = espiritista_divine_realm
+		PositiveAfterLife = espiritista_divine_realm
+		NegativeAfterLife = espiritista_divine_realm
+		DeathDeityName = espiritista_death_name
+		DeathDeityNamePossessive = espiritista_death_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = witchgodname_espiritista
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+
+	faiths = {
+		tres_potencias = {
+			color = hsv { 0.6 0.75 0.1 }
+			icon = espiritista_tres_potencias
+
+			#holy_site = trinidad
+			#holy_site = ciudad_bolivar
+			#holy_site = caracas
+			#holy_site = yaracui
+			#holy_site = san_juan
+
+			doctrine = tenet_asceticism
+			doctrine = tenet_adaptive
+			doctrine = tenet_adorcism
+			
+			doctrine = doctrine_homosexuality_shunned
+
+			doctrine = doctrine_theocracy_temporal
+
+			doctrine = doctrine_clerical_function_control
+			doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+
+			localization = {
+				CreatorName = tres_potencias_creator_god_name
+				CreatorNamePossessive = tres_potencias_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				HealthGodName = tres_potencias_health_god_name
+				HealthGodNamePossessive = tres_potencias_health_god_name_possessive
+		
+				FertilityGodName = tres_potencias_fertility_god_name
+				FertilityGodNamePossessive = tres_potencias_fertility_god_name_possessive
+
+				WealthGodName = tres_potencias_wealth_god_name
+				WealthGodNamePossessive = tres_potencias_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+
+				HouseholdGodName = tres_potencias_household_god_name
+				HouseholdGodNamePossessive = tres_potencias_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				FateGodName = tres_potencias_fate_god_name
+				FateGodNamePossessive = tres_potencias_fate_god_name_possessive
+
+				KnowledgeGodName = tres_potencias_knowledge_god_name
+				KnowledgeGodNamePossessive = tres_potencias_knowledge_god_name_possessive
+
+				WarGodName = tres_potencias_war_god_name
+				WarGodNamePossessive = tres_potencias_war_god_name_possessive
+
+				TricksterGodName = tres_potencias_trickster_god_name
+				TricksterGodNamePossessive = tres_potencias_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				NightGodName = tres_potencias_night_god_name
+				NightGodNamePossessive = tres_potencias_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				WaterGodName = tres_potencias_water_god_name
+				WaterGodNamePossessive = tres_potencias_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				GoodGodNames = { 
+					tres_potencias_health_god_name 
+					tres_potencias_fertility_god_name 
+					tres_potencias_wealth_god_name 
+					tres_potencias_household_god_name 
+					tres_potencias_knowledge_god_name 
+					tres_potencias_war_god_name 
+					tres_potencias_night_god_name 
+					tres_potencias_water_god_name 
+				}
+				HouseOfWorship = tres_potencias_house_of_worship
+				HouseOfWorshipPlural = tres_potencias_house_of_worship_plural
+				DevoteeMale = tres_potencias_devotee
+				DevoteeMalePlural = tres_potencias_devotee_plural
+				DevoteeFemale = tres_potencias_devotee
+				DevoteeFemalePlural = tres_potencias_devotee_plural
+				DevoteeNeuter = tres_potencias_devotee
+				BishopMale = tres_potencias_bishop
+				BishopMalePlural = tres_potencias_bishop_plural
+				BishopFemale = tres_potencias_bishop_female
+				BishopFemalePlural = tres_potencias_bishop_female_plural
+				BishopNeuter = tres_potencias_bishop
+				BishopNeuterPlural = tres_potencias_bishop_plural
+			}	
+
+
+		}	
+	}
+}
