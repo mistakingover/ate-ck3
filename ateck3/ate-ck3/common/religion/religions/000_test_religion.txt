@@ -190,7 +190,7 @@
 	faiths = {
 		test_faith = {
 			#Main Group
-			color = hsv { 0.45 0.6 0.2 }
+			color = { 0.45 0.6 0.2 }
 			icon = custom_faith_2
 
 			doctrine = tenet_adorcism

@@ -1,0 +1,146 @@
+doctrine_core_tenets = {
+	group = "core_tenets"
+	number_of_picks = 3
+
+	################################
+	# Trailwalker Specific	Tenets #
+	################################
+
+	tenet_frontier_riding = {
+		icon = core_tenet_altar
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = trailwalker_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+		
+		parameters = {
+			spirit_possession_active = yes
+		}
+
+		character_modifier = {
+			church_holding_build_speed = -0.33
+			church_holding_build_gold_cost = -0.33
+			church_holding_holding_build_speed = -0.33
+			church_holding_holding_build_gold_cost = -0.33
+		}
+	}
+	
+	################################
+	# Antiquarian Tenets 		   #
+	################################
+	
+	tenet_due_process = {
+		icon = core_tenet_bigbook
+		
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = patriotic_religion
+				}
+				value = faith_tenet_cost_mid
+			}
+			else = {
+				value = faith_tenet_cost_high
+			}
+			
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_due_process }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		is_shown = {
+			has_doctrine = antiquarian_hostility_doctrine
+		}
+		
+		traits = {
+			virtues = { just = 2 }
+			sins = { arbitrary = 2 }
+		}
+		
+		parameters = {
+			legalism_modified_law_costs = yes
+			legalism_modified_law_costs_2 = yes
+			excommunication_active = yes
+			literalist_debate_enabled = yes
+			temporal_condemnation_enabled = yes
+		}
+	}
+	
+	tenet_interventionism = {
+		icon = core_tenet_sword
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = patriotic_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_interventionism }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			has_doctrine = antiquarian_hostility_doctrine
+		}
+
+		parameters = {
+			great_holy_wars_active = yes
+			ghw_no_hof_conversion_buffs_active = yes
+			bonus_holy_war_piety_active = yes
+			pilgrimage_decision_active = yes
+			fervor_per_holy_site = 0.1
+		}
+	}
+	
+	tenet_american_dream = {
+		icon = core_tenet_prayer
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_founder_worship }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			religion_tag = patriotic_religion
+		}
+		
+		traits = {
+			virtues = {
+				ambitious
+			}
+			sins = {
+				content
+			}
+		}
+
+		parameters = {
+			increased_dynasty_prestige_long_reign_mult = 0.5
+			pilgrimage_decision_active = yes
+		}
+
+		character_modifier = {
+			title_creation_cost_mult = -0.5
+		}
+	}
+}
