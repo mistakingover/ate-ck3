@@ -231,6 +231,81 @@
 			doctrine = doctrine_deviancy_accepted
 			doctrine = doctrine_clerical_gender_female_only
 			doctrine = doctrine_spiritual_head
+			
+			localization = {
+				HighGodName = libertarian_high_god_name
+				HighGodNamePossessive = libertarian_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_SHE
+				HighGodHerselfHimself = CHARACTER_HERSELF
+				HighGodHerHis = CHARACTER_HERHIS_HER
+				HighGodNameAlternate = libertarian_high_god_name_alternate
+				HighGodNameAlternatePossessive = libertarian_high_god_name_alternate_possessive
+
+				#HealthGod
+				HealthGodName = libertarian_health_god_name
+				HealthGodNamePossessive =libertarian_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+				
+				#FertilityGod
+				FertilityGodName = libertarian_fertility_god_name
+				FertilityGodNamePossessive = libertarian_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = libertarian_wealth_god_name
+				WealthGodNamePossessive = libertarian_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_SHE
+				WealthGodHerHis = CHARACTER_HERHIS_HER
+				WealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = libertarian_knowledge_god_name
+				KnowledgeGodNamePossessive = libertarian_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+				#WarGod
+				WarGodName = libertarian_war_god_name
+				WarGodNamePossessive = libertarian_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#TricksterGod
+				TricksterGodName = libertarian_trickster_god_name
+				TricksterGodNamePossessive = libertarian_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_SHE
+				TricksterGodHerHis = CHARACTER_HERHIS_HER
+				TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = libertarian_night_god_name
+				NightGodNamePossessive = libertarian_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = libertarian_water_god_name
+				WaterGodNamePossessive = libertarian_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				GoodGodNames = {
+					libertarian_high_god_name
+					libertarian_high_god_name_alternate
+					libertarian_good_god_columbia
+					libertarian_good_god_justitia
+					libertarian_good_god_virginia
+					patriotic_good_god_the_flag
+				}
+			}
 		}
 	}
 }
