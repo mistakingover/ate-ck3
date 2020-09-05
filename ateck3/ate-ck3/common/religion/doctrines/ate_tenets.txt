@@ -242,4 +242,34 @@ doctrine_core_tenets = {
 			same_faith_opinion = 10
 		}
 	}
+	
+	tenet_salvager = {
+		icon = core_tenet_prayer #placeholder
+		
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = industrialist_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_salvager }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		is_shown = {
+			has_doctrine = antiquarian_hostility_doctrine
+		}
+		
+		parameters = {
+			salvage_expeditions_active = yes
+		}
+	}
 }
