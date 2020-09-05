@@ -212,4 +212,34 @@ doctrine_core_tenets = {
 			stress_loss_mult = 0.2
 		}
 	}
+	
+	tenet_united_in_labor = {
+		icon = core_tenet_followers
+		
+		piety_cost = {
+			value = faith_tenet_cost_mid
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_united_in_labor }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		is_shown = {
+			religion_tag = industrialist_religion
+		}
+		
+		parameters = {
+			same_culture_conversion_bonus_active = yes
+			other_culture_conversion_penalty_active = yes
+			legalism_reduced_faction_virtues = yes
+			legalism_increased_faction_sins = yes
+		}
+
+		character_modifier = {
+			name = "tenet_communal_identity_opinion"
+			same_faith_opinion = 10
+		}
+	}
 }
