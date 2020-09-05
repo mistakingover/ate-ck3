@@ -143,4 +143,73 @@ doctrine_core_tenets = {
 			title_creation_cost_mult = -0.5
 		}
 	}
+	
+	tenet_multi_level_marketing = {
+		icon = core_tenet_handcoin
+		piety_cost = {
+			value = faith_tenet_cost_mid
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_multi_level_marketing }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		is_shown = {
+			religion_tag = capitalist_religion
+		}
+		
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+			pilgrimage_decision_active = yes
+		}
+
+		character_modifier = {
+			domain_tax_different_faith_mult = 0.2
+			levy_reinforcement_rate_different_faith = -0.25
+		}
+	}
+	
+	tenet_conspicuous_consumption = {
+		icon = core_tenet_foodsacrifice
+		piety_cost = {
+			value = faith_tenet_cost_low
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_conspicuous_consumption }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			religion_tag = capitalist_religion
+		}
+
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_monasticism_trigger
+				NOT = { flag:tenet_monasticism = { is_in_list = selected_doctrines } }
+			}
+			custom_description = {
+				text = incompatible_tenet_mendicant_preachers_trigger
+				NOT = { flag:tenet_mendicant_preachers = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			piety_from_feasts_active = yes
+			mandatory_feast_attendance = yes
+		}
+
+		traits = {
+			virtues = { gluttonous arrogant generous }
+			sins = { temperate humble greedy }
+		}
+
+		character_modifier = {
+			stress_loss_mult = 0.2
+		}
+	}
 }

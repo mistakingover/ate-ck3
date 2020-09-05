@@ -202,7 +202,7 @@
 
 	faiths = {
 		americanist = {
-			color = { 0.3 0.3 0.8 }
+			color = hsv { 0.3 0.3 0.8 }
 			icon = americanist
 			#no religious head title yet
 			
@@ -214,7 +214,7 @@
 			doctrine = tenet_american_dream
 		}
 		libertarian = {
-			color = { 0.4 0.4 0.4 }
+			color = hsv { 0.4 0.4 0.4 }
 			icon = libertarian
 			#no religious head title yet
 			
