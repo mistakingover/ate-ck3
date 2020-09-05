@@ -11,7 +11,7 @@
 
 	#Marriage
 	doctrine = doctrine_monogamy
-	doctrine = doctrine_divorce_approved
+	doctrine = doctrine_divorce_allowed
 	doctrine = doctrine_bastardry_legitimization
 	doctrine = doctrine_consanguinity_cousins
 
@@ -213,6 +213,9 @@
 			doctrine = tenet_defensive_shield
 			doctrine = tenet_esotericism
 			doctrine = tenet_literalism
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_homosexuality_shunned
+
 			
 			#altered doctrines
 			doctrine = doctrine_spiritual_head
