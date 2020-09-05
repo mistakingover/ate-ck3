@@ -1,0 +1,151 @@
+test_culture_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	southron = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		color = hsv { 0.8 0.4 0.3 }
+		
+		cadet_dynasty_names = {
+			"dynn_Eldridge"
+			"dynn_Claiborne"
+			"dynn_Tazewell"
+			"dynn_Leftwich"
+			"dynn_Hairston"
+			"dynn_Faulcon"
+			"dynn_Slaughter"
+			"dynn_Meredith"
+			"dynn_Butler"
+			"dynn_Loudoun"
+			"dynn_Rudee"
+			"dynn_Buckroe"
+			"dynn_Craney"
+			"dynn_Gwynn"
+			"dynn_Gathland"
+			"dynn_Purcell"
+			"dynn_Randolph"
+			"dynn_Lomax"
+			"dynn_Barbour"
+			"dynn_Echols"
+			"dynn_Colston"
+			"dynn_Pegram"
+			"dynn_Ibelin"
+			"dynn_Mahone"
+			"dynn_Cohee"
+			"dynn_Montfichet"
+			"dynn_Polk"
+			"dynn_Tyler"
+			"dynn_Leeman"
+			"dynn_Clay"
+			"dynn_Linebarger"
+			"dynn_Pulaski"
+		}
+		
+		dynasty_names = {
+			"dynn_Eldridge"
+			"dynn_Claiborne"
+			"dynn_Tazewell"
+			"dynn_Leftwich"
+			"dynn_Hairston"
+			"dynn_Faulcon"
+			"dynn_Slaughter"
+			"dynn_Meredith"
+			"dynn_Butler"
+			"dynn_Loudoun"
+			"dynn_Rudee"
+			"dynn_Buckroe"
+			"dynn_Craney"
+			"dynn_Gwynn"
+			"dynn_Gathland"
+			"dynn_Purcell"
+			"dynn_Randolph"
+			"dynn_Lomax"
+			"dynn_Barbour"
+			"dynn_Echols"
+			"dynn_Colston"
+			"dynn_Pegram"
+			"dynn_Ibelin"
+			"dynn_Mahone"
+			"dynn_Cohee"
+			"dynn_Montfichet"
+			"dynn_Polk"
+			"dynn_Tyler"
+			"dynn_Leeman"
+			"dynn_Clay"
+			"dynn_Linebarger"
+			"dynn_Pulaski"
+		}
+		
+		male_names = {
+			Absalom Achilles Alfred Aloys_Alois Alpheus Ambrose Antipas Armistead Arthur Astolpho Atticus Augustus_Augustus
+			Baldwin Beauregard Bedivere Birkett Bohemond Bradley Brandegoris Brangwin Braxton Breunor Brevard Brutus Bryan Bucephalus Burwell
+			Cadmus Cadwallader Calhoun Catesby Charles Claudius Colvin Constantine Coriolanus Cronus
+			Daniel Danville Davis
+			Ector_Hector Edmund Edward Ellison Eupheus Evander
+			Ferragut Francis Frederick Fulgent Fulwar
+			Ganelon Gareth Geoffrey George-Lee Geraint Gideon Goode Grayson Griflet
+			Hamilcar Hannibal Harold-Lee Heron
+			Isaias_Isaiah
+			Jackson James Jefferson John Joscelin_Jocelyn Joseph Julius Junius Justinian
+			Lamartine Laurentius_Lawrence Lionel Lucan Lucius Lunsford
+			Marcellus_Marcell Marcus_Mark Marmaduke Meleager Mercury Meriwether Merriman Micah Milledge Mosby
+			Nathanael_Nathan Neptune
+			Octavian Oliver
+			Paulus_Paul Pellias Pellinore Percival Pericles Petrus_Peter Philip Pinabel Plato Pluto Polycarpus Pompey Priscus Prudens Publicola Pulcher
+			Quadratus
+			Raleigh Raphael Raynault_Ronald Regulus Rhett Richard Robert Robert-Lee Robin Roland Rufus
+			Sagramore Samuel Saturn Saunder_Alexander Scipio Severus Shelby Singleton Solon Sosipater Stephanus_Stephen Stoughton Superbus Sylvester
+			Tertius Theophilus Thomas Tiberius Timon Titus Trophimus Turpin
+			Ulixes_Ulysses Urban Urien
+			Valerian Vincent Virginius Vitalian
+			Wade Walter Watling William Winfield
+			Zacharias_Zachary
+		}
+
+		female_names = {
+			Alexandra April Alyssa Anastasia Antigone Antonia Artemis Atalanta Augusta
+			Beatrice Belle Blanchet Bradamante
+			Carolina_Caroline Catherine Claudia Clover Clymene Cola Cornelia
+			Dahlia Daisy Dionysia
+			Elaine Elisabeth_Elizabeth Eudoxia
+			Georgia Guinevere Gwendolyn
+			Harriet Helen Henrietta Hera
+			India Iseult
+			Jane Joanna_Joan Jocasta Josephine Juliet June
+			Lucia Lorena Lucilla_Lucille
+			Margaret Mary May Megara Melanie Melantha Melisende_Millicent Michelle Morgana Morgause
+			Pamilia Peach Primrose Primula
+			Rhea Roberta
+			Sarah Scarlett Silvana Susanna_Susan
+			Venus Violet Virginia
+		}
+
+		bastard_dynasty_prefix = "dynnp_Fil"
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+		
+		ethnicities = {
+			5 = caucasian_blond
+			5 = caucasian_ginger
+			55 = caucasian_brown_hair
+			35 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_southern_knights" }
+			{ name = "mercenary_company_freedom_riders" }
+		}
+	}
+}

@@ -1,0 +1,182 @@
+﻿north_atlantic_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	yankee = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+	
+		cadet_dynasty_names = {
+			"dynn_Allen"
+			"dynn_Baker"
+			"dynn_Barnaby"
+			"dynn_Barnard"
+			"dynn_Briden"
+			"dynn_Burgess"
+			"dynn_Chambers"
+			"dynn_Chadwell"
+			"dynn_Cogswell"
+			"dynn_Curwen"
+			"dynn_Gannett"
+			"dynn_Guild"
+			"dynn_Howe"
+			"dynn_Huntington"
+			"dynn_Krebs"
+			"dynn_Newall"
+			"dynn_Mansion"
+			"dynn_Morton"
+			"dynn_Olmstead"
+			"dynn_Packard"
+			"dynn_Pinckney"
+			"dynn_Sewall"
+			"dynn_Storer"
+			"dynn_Swett"
+			"dynn_Temple"
+			"dynn_Tracy"
+			"dynn_Waterston"
+			"dynn_West"
+			"dynn_Whateley"
+			"dynn_Wilmarth"
+		}
+		dynasty_names = {
+			"dynn_Akeley"
+			"dynn_Alsop"
+			"dynn_Appleton"
+			"dynn_Armitage"
+			"dynn_Bates"
+			"dynn_Berkeley"
+			"dynn_Bossidy"
+			"dynn_Boylston"
+			"dynn_Bradlee"
+			"dynn_Buckminster"
+			"dynn_Bulfinch"
+			"dynn_Calderbank"
+			"dynn_Carew"
+			"dynn_Chaffee"
+			"dynn_Choate"
+			"dynn_Coffin"
+			"dynn_Croswell"
+			"dynn_Crowninshield"
+			"dynn_Dana"
+			"dynn_Emerson"
+			"dynn_Endicott"
+			"dynn_Fabens"
+			"dynn_Forbes"
+			"dynn_Gardner"
+			"dynn_Gillett"
+			"dynn_Gobell"
+			"dynn_Greenleaf"
+			"dynn_Hallowell"
+			"dynn_Holmes"
+			"dynn_Lodge"
+			"dynn_Marsh"
+			"dynn_Minot"
+			"dynn_Norcross"
+			"dynn_Oakes"
+			"dynn_Oldham"
+			"dynn_Otis"
+			"dynn_Parkman"
+			"dynn_Peabody"
+			"dynn_Perkins"
+			"dynn_Phillips"
+			"dynn_Putnam"
+			"dynn_Quincy"
+			"dynn_Rice"
+			"dynn_Salisbury"
+			"dynn_Saltonstall"
+			"dynn_Sargent"
+			"dynn_Sedgwick"
+			"dynn_Tarbox"
+			"dynn_Thaxter"
+			"dynn_Thayer"
+			"dynn_Thorndike"
+			"dynn_Thurber"
+			"dynn_Tufts"
+			"dynn_Weld"
+			"dynn_Wigglesworth"
+		}
+		
+		male_names = {
+			Alpheus Adna Albert Abel Adam Abiah Abraham Ahab Abiel Amons Abbott Amasa Americus Apthorp Alonzo Absalom
+			Brooks Benjamin Brinley Bowdin Barnabas Bayard
+			Cleveland Coolidge Caspar Caleb Calvin Cuthbert Cotton Cullen
+			Daniel Dudley Doyle
+			Enoch Eliot Elihu Eleazer Ellery Edwin Edward Elwood Endicott Ebenezer Ezekiel Epes
+			Frederick
+			Gaspar Godfrey Greling Gideon Gurdon
+			Harvey Harrison Hassler Hawthorne Harrod Herbert
+			Ivers Ishmael Israel Increase
+			Joshua Jonathon Judah Jarvis Joseph Josiah
+			Kermit Keziah
+			Lorenzo Lowell Leavitt Luther Lyman Lathrop Levi Leveritt Lucius Ludovicus
+			Moses Maxwell Malachai Mortimer
+			Nathaniel Nicholas Napoleon Norwood Norton Nahum
+			Obed Oliver Otis Owen Onias
+			Putnam Philip Pickering Patrick Percival Pliny Palfrey Phineas
+			Quincy
+			Randolph Rufus Reuben
+			Samuel Sereno Solomon Simon Sylvanus Scofield
+			Thomas Tristram Thaddeus Titus
+			Urian
+			Ward Wendell Webster Winslow
+			Zabdiel Zechariah Zadok
+		}
+		female_names = {
+			Abigail Allison Anne Ava Alexandria Amelia Amity Asenath Agnes
+			Bethia Bela
+			Catherine Clarissa Caroline Cassandra Clara
+			Delilah Deliverance Dorothy
+			Emily Eleanor Eve Elisabeth Eunice Eliza
+			Frances
+			Grisell Gamel
+			Harriet Hannah Helen
+			Isabella
+			Jane Jemima Josephine Judtih Jubilation
+			Louisa Linda Lilith Lydia Lettice Lucretia Lucilla Lavinia
+			Margery Mehitable Mercy Martha Marian Mabel Madeline
+			Noami
+			Olivia
+			Priscilla Prudence Patrience Pamela Patrice
+			Rachel Rhoda Rebecca Rosamund
+			Sarah Sophia Susan Salome
+			Theresa
+			Ursula
+			Violet Victoria
+			Wendy
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		bastard_dynasty_prefix = "dynnp_fitz"
+
+		patronym_suffix_male = "dynnpat_suf_s"
+		patronym_suffix_female = "dynnpat_suf_s"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+			{ name = "mercenary_company_hawkwoods_band" }
+		}
+	}
+}
