@@ -272,4 +272,58 @@ doctrine_core_tenets = {
 			salvage_expeditions_active = yes
 		}
 	}
+	tenet_atom_worship = {
+		icon = core_tenet_skyshaman
+
+		piety_cost = {
+			value = faith_tenet_cost_mid
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_sun_worship }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			religion_tag = scientific_religion
+		}
+
+		parameters = {
+			summer_festivals_active = yes
+			trial_by_sun_active = yes
+			select_personal_god_active = yes
+			atom_blessings_active = yes
+			hostility_override_tenet_defensive_shield = 3
+		}
+
+		character_modifier = {
+			desert_attrition_mult = -0.25
+			desert_mountains_attrition_mult = -0.25
+		}
+
+		piety_cost = faith_tenet_cost_mid
+	}
+	tenet_defensive_shield = {
+		icon = core_tenet_prayer
+		piety_cost = {
+			value = faith_tenet_cost_mid
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_defensive_shield }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		parameters = {
+			hostility_override_tenet_atom_worship = 3
+			granting_titles_gives_stress = yes
+		}
+
+		character_modifier = {
+			learning = 2
+			stewardship = -2
+		}
+	}
+
 }

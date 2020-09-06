@@ -30,7 +30,7 @@
 	doctrine = doctrine_clerical_succession_spiritual_appointment
 
 	traits = {
-		virtues = { ambitious diligent honest calm patient }
+		virtues = { diligent patient calm honest }
 		sins = { lazy deceitful wrathful impatient }
 	}
 
@@ -203,7 +203,7 @@
 
 			doctrine = tenet_atom_worship
 			doctrine = tenet_esotericism
-			doctrine = tenet_literalism
+			doctrine = tenet_inner_journey
 		}
 		aphite = {
 			color = hsv { 0.6 0.4 0.2 }
@@ -211,10 +211,12 @@
 			#no religious head title yet
 			
 			doctrine = tenet_defensive_shield
-			doctrine = tenet_esotericism
 			doctrine = tenet_literalism
+			doctrine = tenet_religious_legal_pronouncements
 			doctrine = doctrine_divorce_approval
 			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_deviancy_shunned
+
 
 			
 			#altered doctrines
@@ -251,6 +253,14 @@
 				WarGodSheHe = CHARACTER_SHEHE_HE
 				WarGodHerHis = CHARACTER_HERHIS_HIS
 				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGodName = aphite_trickster_god_name
+				TricksterGodNamePossessive = aphite_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
 
 				GoodGodNames = {
 					aphite_high_god_name
