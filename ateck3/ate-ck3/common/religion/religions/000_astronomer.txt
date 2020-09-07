@@ -1,0 +1,215 @@
+﻿astronomer_religion = {
+	family = rf_harmonic
+	graphical_faith = pagan_gfx
+	doctrine = pagan_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_temporal_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_restricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_alms_and_pacification
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	traits = {
+		virtues = { diligent patient compassionate }
+		sins = { impatient callous lazy }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_guardians_of_divinerealm" }
+		{ name = "holy_order_faithful_of_highgod" }
+		{ name = "holy_order_warriors_of_the_symbol" }
+	}
+
+	holy_order_maa = { bush_hunter }
+
+	localization = {
+		HighGodName = astronomer_high_god_name
+		HighGodNamePossessive = astronomer_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = astronomer_high_god_name_alternate
+		HighGodNameAlternatePossessive = astronomer_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = astronomer_creator_god_name
+		CreatorNamePossessive = astronomer_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = astronomer_health_god_name
+		HealthGodNamePossessive = astronomer_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_THEY
+		HealthGodHerHis = CHARACTER_HERHIS_THEIR
+		HealthGodHerHim = CHARACTER_HERHIM_THEM
+		
+		#FertilityGod
+		FertilityGodName = astronomer_fertility_god_name
+		FertilityGodNamePossessive = astronomer_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = astronomer_wealth_god_name
+		WealthGodNamePossessive = astronomer_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_THEY
+		WealthGodHerHis = CHARACTER_HERHIS_THEIR
+		WealthGodHerHim = CHARACTER_HERHIM_THEM
+
+		#HouseholdGod
+		HouseholdGodName = astronomer_household_god_name
+		HouseholdGodNamePossessive = astronomer_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+		HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+		HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+		#FateGod
+		FateGodName = astronomer_fate_god_name
+		FateGodNamePossessive = astronomer_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = astronomer_knowledge_god_name
+		KnowledgeGodNamePossessive = astronomer_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = astronomer_war_god_name
+		WarGodNamePossessive = astronomer_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = astronomer_trickster_god_name
+		TricksterGodNamePossessive = astronomer_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = astronomer_night_god_name
+		NightGodNamePossessive = astronomer_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_IT
+		NightGodHerHis = CHARACTER_HERHIS_ITS
+		NightGodHerHim = CHARACTER_HERHIM_IT
+
+		#WaterGod
+		WaterGodName = astronomer_water_god_name
+		WaterGodNamePossessive = astronomer_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		GoodGodNames = { 
+			astronomer_high_god_name 
+			astronomer_high_god_name_alternate 
+			astronomer_health_god_name 
+			astronomer_fertility_god_name 
+			astronomer_wealth_god_name 
+			astronomer_household_god_name 
+			astronomer_knowledge_god_name 
+			astronomer_war_god_name 
+			astronomer_night_god_name 
+			astronomer_water_god_name
+		}
+		PantheonTerm = astronomer_pantheon
+		PantheonTerm = pantheon_term_have
+		DevilName = astronomer_devil_name
+		DevilNamePossessive = astronomer_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_THEY
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerselfHimself = astronomer_devil_herselfhimself
+		EvilGodNames = { astronomer_devil_name }
+		HouseOfWorship = astronomer_house_of_worship
+		HouseOfWorshipPlural = astronomer_house_of_worship_plural
+		ReligiousSymbol = astronomer_religious_symbol
+		ReligiousText = astronomer_religious_text
+		ReligiousHeadName = astronomer_religious_head_title
+		ReligiousHeadTitleName = astronomer_religious_head_title_name
+		DevoteeMale = astronomer_devotee
+		DevoteeMalePlural = astronomer_devoteeplural
+		DevoteeFemale = astronomer_devotee
+		DevoteeFemalePlural = astronomer_devoteeplural
+		DevoteeNeuter = astronomer_devotee
+		DevoteeNeuterPlural = astronomer_devoteeplural
+		PriestMale = astronomer_priest
+		PriestMalePlural = astronomer_priest_plural
+		PriestFemale = astronomer_priest
+		PriestFemalePlural = astronomer_priest_plural
+		PriestNeuter = astronomer_priest
+		PriestNeuterPlural = astronomer_priest_plural
+		AltPriestTermPlural = astronomer_priest_alternate_plural
+		BishopMale = astronomer_priest
+		BishopMalePlural = astronomer_priest_plural
+		BishopFemale = astronomer_priest
+		BishopFemalePlural = astronomer_priest_plural
+		BishopNeuter = astronomer_priest
+		BishopNeuterPlural = astronomer_priest_plural
+		DivineRealm = astronomer_divine_realm
+		PositiveAfterLife = astronomer_divine_realm
+		NegativeAfterLife = astronomer_divine_realm
+		DeathDeityName = astronomer_death_name
+		DeathDeityNamePossessive = astronomer_death_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = witchgodname_astronomer
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+
+	faiths = {
+		camino_estelar = {
+			color = hsv { 0.6 0.75 0.1 }
+			icon = camino_estelar
+
+			#holy_site = trinidad
+			#holy_site = ciudad_bolivar
+			#holy_site = caracas
+			#holy_site = yaracui
+			#holy_site = san_juan
+
+			doctrine = tenet_astrology
+			doctrine = tenet_pentarchy
+			doctrine = tenet_monasticism
+
+		}	
+	}
+}

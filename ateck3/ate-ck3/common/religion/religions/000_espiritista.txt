@@ -1,7 +1,7 @@
 ﻿espiritista_religion = {
 	family = rf_abrahamic
 	graphical_faith = pagan_gfx
-	doctrine = pagan_hostility_doctrine
+	doctrine = abrahamic_hostility_doctrine
 
 	#Main Group
 	doctrine = doctrine_no_head
@@ -142,6 +142,8 @@
 			espiritista_night_god_name 
 			espiritista_water_god_name 
 		}
+		PantheonTerm = espiritista_the_spirits
+		PantheonTermHasHave = pantheon_term_have
 		DevilName = espiritista_devil_name
 		DevilNamePossessive = espiritista_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_THEY
