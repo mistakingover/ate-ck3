@@ -1,9 +1,9 @@
 ﻿ # Santería
- west_african_orisha_religion:0 "Orisha" #If the term changes in code to reference that it's 
- west_african_orisha_religion_adj:0 "Orishan"
- west_african_orisha_religion_adherent:1 "Orishan"
- west_african_orisha_religion_adherent_plural:1 "Orishans"
- west_african_orisha_religion_desc:1 "Though he created the universe and rules heaven, God remains distant from mortal affairs. Practitioners instead pray to the Orishas, innumerable saints who are one with the fundamental aspects of reality and now can aid practitioners and provide advice for adherents to follow the path in their souls." #Not remotely settled on this, just semi-placeholder based on vanilla description
+ orisha_religion:0 "Orisha" #If the term changes in code to reference that it's 
+ orisha_religion_adj:0 "Orishan"
+ orisha_religion_adherent:1 "Orishan"
+ orisha_religion_adherent_plural:1 "Orishans"
+ orisha_religion_desc:1 "Though he created the universe and rules heaven, God remains distant from mortal affairs. Practitioners instead pray to the Orishas, innumerable saints who are one with the fundamental aspects of reality and now can aid practitioners and provide advice for adherents to follow the path in their souls." #Not remotely settled on this, just semi-placeholder based on vanilla description
  
  yoruba_high_god_name:0 "Olorún"
  yoruba_high_god_name_possessive:0 "Olorún's"
@@ -19,6 +19,15 @@
  yoruba_divine_realm:0 "Orún"
  yoruba_afterlife:0 "$yoruba_divine_realm$"
  witchgodname_yoruba_heka:0 "$yoruba_death_deity_name$"
+ yoruba_house_of_worship:0 "house"
+ yoruba_house_of_worship_plural:0 "houses"
+ yoruba_devotee:0 "creyente"
+ yoruba_devotee_plural:0 "creyentes"
+ yoruba_priest_male:0 "santero"
+ yoruba_priest_male_plural:0 "santeros"
+ yoruba_priest_female:0 "santera"
+ yoruba_priest_female_plural:0 "santeras"
+ yoruba_priest_alternate_plural:0 "olorichas"
 
  yoruba_creator_god_name:0 "Olodumare"
  yoruba_creator_god_name_possessive:0 "Olodumare's"
@@ -42,12 +51,11 @@
  yoruba_night_god_name_possessive:0 "Oya's"
  yoruba_water_god_name:0 "Yemayá"
  yoruba_water_god_name_possessive:0 "Yemayá"
+ 
+ yoruba_the_orishas:0 "The Orishas"
 
- west_african_orisha_pagan:0 "Lucumí"
- west_african_orisha_pagan_adj:0 "Lucumí"
- west_african_orisha_pagan_adherent:0 "Lucumí"
- west_african_orisha_pagan_adherent_plural:0 "Lucumí"
- west_african_orisha_pagan_old:0 "Santería" #This shouldn't ever come up since they're not unreformed
- west_african_orisha_pagan_old_adj:0 "Santerían"
- west_african_orisha_pagan_old_adherent:0 "Santero"
- west_african_orisha_pagan_old_adherent_plural:0 "Santeros"
+ lucumi:0 "Lucumí"
+ lucumi_adj:0 "Lucumí"
+ lucumi_adherent:0 "Lucumí"
+ lucumi_adherent_plural:0 "Lucumí"
+ lucumi_desc:0 "Lucumí, or Regla de Ocha, is an Afro-Cuban religion that can be traced back to the Yoruba people of West Africa. Believers worship three aspects of one god; Olodumaré the Creator, Olorun, who manifests as the Sun, and Olofi, who directly communicates with the Orishas - or 'Saints' - and grants them spiritual energy to act as intermediaries between man and God, as well as to help mankind live moral, harmonious lives."
