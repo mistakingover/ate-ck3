@@ -10,4 +10,10 @@ special_tolerance = {
 			hostility_override_special_doctrine_freedom_of_speech = 1
 		}
 	}
+	
+	special_doctrine_shema_yisrael = {
+		parameters = {
+			hostility_override_special_doctrine_shema_yisrael = 1
+		}
+	}
 }
