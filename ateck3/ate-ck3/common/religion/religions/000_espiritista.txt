@@ -25,6 +25,9 @@
 	#Clerical Functions
 	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_clerical_marriage_allowed
+	
+	#Special Doctrines
+	doctrine = special_doctrine_teachings_of_kardec
 
 	traits = {
 		virtues = { compassionate gregarious temperate }
@@ -207,8 +210,6 @@
 			doctrine = tenet_asceticism
 			doctrine = tenet_adaptive
 			doctrine = tenet_adorcism
-			
-			doctrine = special_doctrine_teachings_of_kardec
 
 			doctrine = doctrine_homosexuality_shunned
 
@@ -293,6 +294,63 @@
 			}	
 
 
-		}	
+		}
+
+		kardecist = {
+			color = hsv { 0.6 0.75 0.75 }
+			icon = kardecist
+
+			#holy_site = araxa
+			#holy_site = florianopolis
+			#holy_site = sao_paulo
+			#holy_site = brasilia
+			#holy_site = ?
+
+			doctrine = tenet_reincarnation
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_adorcism
+			
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_clerical_succession_temporal_appointment
+			
+
+			localization = {
+
+				HealthGodName = kardecist_health_god_name #Bezerra de Menezes
+				HealthGodNamePossessive = kardecist_health_god_name_possessive
+
+				KnowledgeGodName = kardecist_knowledge_god_name #Emmanuel
+				KnowledgeGodNamePossessive = kardecist_knowledge_god_name_possessive
+
+				GoodGodNames = { 
+					espiritista_good_god_kardec
+					espiritista_good_god_positive_spirits
+					kardecist_good_god_chico_xavier
+					kardecist_good_god_jesus
+					kardecist_good_god_bezerra_de_menezes
+					kardecist_good_god_emmanuel
+				}
+				DevoteeMale = kardecist_devotee_male
+				DevoteeMalePlural = kardecist_devotee_male_plural
+				DevoteeFemale = kardecist_devotee_female
+				DevoteeFemalePlural = kardecist_devotee_female_plural
+				DevoteeNeuter = kardecist_devotee_neuter
+				DevoteeNeuterPlural = kardecist_devotee_neuter_plural
+				PriestMale = kardecist_priest
+				PriestMalePlural = kardecist_priest_plural
+				PriestFemale = kardecist_priest
+				PriestFemalePlural = kardecist_priest_plural
+				PriestNeuter = kardecist_priest
+				PriestNeuterPlural = kardecist_priest_plural
+				DevilName = kardecist_devil_name
+				DevilNamePossesive = kardecist_devil_name_possessive
+				ReligiousText = kardecist_religious_text
+				
+			}	
+
+
+		}		
 	}
 }
