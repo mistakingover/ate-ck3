@@ -16,4 +16,13 @@ special_tolerance = {
 			hostility_override_special_doctrine_shema_yisrael = 1
 		}
 	}
+
+	special_doctrine_teachings_of_kardec = {
+		parameters = {
+			hostility_same_religion = 1
+			hostility_same_family = 1
+			hostility_others = 2
+		}
+	}
+
 }

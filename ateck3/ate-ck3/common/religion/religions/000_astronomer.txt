@@ -1,7 +1,7 @@
 ﻿astronomer_religion = {
 	family = rf_harmonic
 	graphical_faith = pagan_gfx
-	doctrine = pagan_hostility_doctrine
+	doctrine = harmonic_hostility_doctrine 
 
 	#Main Group
 	doctrine = doctrine_temporal_head
@@ -24,7 +24,7 @@
 	doctrine = doctrine_witchcraft_crime
 
 	#Clerical Functions
-	doctrine = doctrine_clerical_alms_and_pacification
+	doctrine = doctrine_clerical_function_alms_and_pacification
 	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_temporal_appointment
@@ -197,7 +197,7 @@
 
 	faiths = {
 		camino_estelar = {
-			color = hsv { 0.6 0.75 0.1 }
+			color = hsv { 0.70 0.15 0.75 }
 			icon = camino_estelar
 
 			#holy_site = trinidad
