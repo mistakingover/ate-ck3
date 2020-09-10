@@ -1,4 +1,5 @@
-tenet_sanctity_of_nature = {
+doctrine_core_tenets = {
+	tenet_sanctity_of_nature = {
 		icon = core_tenet_holytree
 
 		piety_cost = {
@@ -58,3 +59,4 @@ tenet_sanctity_of_nature = {
 			county_opinion_add = 5
 		}
 	}
+}
