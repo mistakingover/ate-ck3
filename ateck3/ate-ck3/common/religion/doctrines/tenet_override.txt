@@ -1,0 +1,60 @@
+tenet_sanctity_of_nature = {
+		icon = core_tenet_holytree
+
+		piety_cost = {
+			if = {
+				limit = {
+					OR = {
+						religion_tag = hinduism_religion
+					}
+				}
+				value = faith_tenet_cost_high
+			}
+			else_if = {
+				limit = {
+					OR = {
+						has_doctrine = pagan_hostility_doctrine
+					}
+				}
+				value = faith_tenet_cost_low
+			}
+			else_if = {
+				limit = {
+					has_doctrine = abrahamic_hostility_doctrine
+				}
+				value = faith_tenet_cost_massive
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_sanctity_of_nature }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						religion_tag = judaism_religion
+					}
+					desc = tenet_sanctity_of_nature_eretz_amazonia
+				}
+				desc = tenet_sanctity_of_nature_name
+			}
+		}
+
+		character_modifier = {
+			forest_advantage = 5
+			forest_attrition_mult = -0.25
+			taiga_advantage = 5
+			taiga_attrition_mult = -0.25
+			jungle_advantage = 5
+			jungle_attrition_mult = -0.25
+			build_gold_cost = 0.1
+			county_opinion_add = 5
+		}
+	}

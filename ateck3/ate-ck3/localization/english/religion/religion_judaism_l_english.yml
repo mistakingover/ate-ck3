@@ -84,7 +84,15 @@
  meshichist_desc:0 "Meshichism emerged as a distinct branch of the Jewish religion in the chaos following the Event. Meshichists believe that the last great pre-Event Haredi Rebbe is actually Moshiach. The notion of a dead man being Moshiach would contradict most Jewish teachings on this issue, but Meshichists claim that 'the Rebbe' is still 'alive' in a metaphorical sense. Meshichists also place a great deal of importance on the more mystical and esoteric aspects of Jewish belief."
  meshichist_prophet_the_rebbe:0 "The Rebbe"
  
+ #Amazonian
+ amazonian:0 "Edah Amazonah"
+ amazonian_adj:0 "Amazonian"
+ amazonian_adherent:0 "Amazonian Jew"
+ amazonian_adherent_plural:0 "Amazonian Jews"
+ amazonian_desc:0 "Judaism first arrived in the Amazon basin centuries before the Event, brought by migrants from a land called "Maghrib". After centuries of isolation from the rest of the Jewish world, the Amazonian community, or 'Edah Amazonah', has developed an idiosyncratic form of Jewish belief and practice. Amazonian Jews believe that having a spiritual connection with God's creation is just as important as having an intellectual understanding of God's laws."
+ 
  special_doctrine_shema_yisrael_name:0 "Shema Yisrael"
  special_doctrine_shema_yisrael_desc:0 "Although we Jews may disagree on the particulars of each other's practices, we are united in our worship of the One God of Israel. We must set aside our differences in these strange times, for we are all children of Israel."
  
  doctrine_parameter_hostility_override_special_doctrine_shema_yisrael:0 "Considers other Jewish [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!"
+ tenet_sanctity_of_nature_eretz_amazonia:0 "Eretz Amazonia"

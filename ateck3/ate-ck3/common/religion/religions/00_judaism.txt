@@ -259,7 +259,7 @@
 		}
 
 		meshichist = {
-			color = { 0.1 0.5 0.9 }
+			color = { 0.1 0.3 0.7 }
 			icon = kabarism
 
 			#special doctrine
@@ -282,6 +282,25 @@
 					meshichist_prophet_the_rebbe
 				}
 			}
+		}
+		
+		amazonian = { #needs localization
+			color = { 0.3 0.5 0.7 }
+			icon = malabarism
+
+			#special doctrine
+			doctrine = special_doctrine_shema_yisrael
+			
+			#tenets
+			doctrine = tenet_communal_identity
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_adaptive
+			
+			#doctrine overrides
+			doctrine = doctrine_bastardry_legitimization
+
+			#Doctrines
+			doctrine = doctrine_spiritual_head
 		}
 	}
 }
