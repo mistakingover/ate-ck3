@@ -1,0 +1,55 @@
+trailwalker_ways = {
+	group = "not_creatable"
+	trailwalker_everwest = {
+		visible = no
+		parameters = {
+			select_personal_god_active = yes
+		}
+
+		character_modifier = {
+			monthly_prestige_gain_mult = 0.2
+			clan_government_vassal_opinion = -20
+			feudal_government_vassal_opinion = -20
+			republic_government_vassal_opinion = -20
+		}
+	}
+}
+
+trailwalker_hostility_doctrine = {
+	visible = no
+	parameters = {
+		hostility_same_religion = 0
+		hostility_same_family = 1
+		hostility_others = 2
+	}
+}
+
+doctrine_hero = {
+	group = "folk_trail"
+	is_available_on_create = {
+		religion_tag = trailwalker_religion
+	}
+	doctrine_colt = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		parameters = {
+		}
+	}
+
+	doctrine_wild_bill = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		parameters = {
+		}
+	}
+
+	doctrine_the_marshal = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		parameters = {
+		}
+	}
+}

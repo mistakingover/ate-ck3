@@ -1,0 +1,294 @@
+window = {
+	name = "jomini_encyclopedia"
+	size = { 880 850 }
+	resizable = no
+	movable = no
+	parentanchor = center
+	allow_outside = yes
+	layer = top
+
+	state = {
+		name = _show
+		using = Animation_FadeIn_Standard
+	}
+
+	state = {
+		name = _hide
+		using = Animation_FadeOut_Standard
+	}
+
+	using = Window_Background
+	using = Window_Decoration_Spike
+
+	vbox = {
+		using = Window_Margins
+
+		header_pattern = {
+			layoutpolicy_horizontal = expanding
+
+			blockoverride "header_text"
+			{
+				text = "HEADING_ENCYCLOPEDIA"
+			}
+
+			blockoverride "button_close"
+			{
+				tooltip = "TOOLTIP_CLOSE_ENCYCLOPEDIA"
+				onclick = "[Encyclopedia.Hide]"
+			}
+		}
+
+
+		hbox = {
+			name = "main"
+			layoutpolicy_horizontal = expanding
+			layoutpolicy_vertical = expanding
+
+			background = {
+				texture = "gfx/interface/illustrations/event_scenes/study.dds"
+				fittype = end
+				alpha = 0.6
+
+				modify_texture = {
+					texture = "gfx/interface/tiles/stretch_bottom_fade.dds"
+					blend_mode = alphamultiply
+				}
+			}
+
+
+			vbox = {
+				layoutpolicy_vertical = expanding
+				margin_left = 20
+				margin_right = -3
+				margin_top = 60
+
+				button_tab_vertical = {
+					name = "select_page"
+					layoutpolicy_horizontal = expanding
+					size = { 175 35 }
+					text = "ENCYCLOPEDIA_ALL_PAGES"
+					tooltip = "ENCYCLOPEDIA_ALL_PAGES_TOOLTIP"
+					onclick = "[Encyclopedia.ViewAllEntries]"
+					down = "[ObjectsEqual( Encyclopedia.GetCurrentPage, Encyclopedia.GetAllPage )]"
+					default_format = "#clickable"
+				}
+
+				vbox = {
+					name = "entries"
+					datamodel = "[Encyclopedia.AccessPages]"
+					layoutpolicy_horizontal = expanding
+
+					item = {
+						button_tab_vertical = {
+							name = "select_page"
+							layoutpolicy_horizontal = expanding
+							size = { 175 35 }
+							tooltip = "ENCYCLOPEDIA_SELECT_PAGE_TOOLTIP"
+							onclick = "[Encyclopedia.SetCurrentPage( EncyclopediaPage.AccessSelf )]"
+							down = "[ObjectsEqual( Encyclopedia.GetCurrentPage, EncyclopediaPage.Self )]"
+
+							text_single = {
+								visible = "[Not(ObjectsEqual( Encyclopedia.GetCurrentPage, EncyclopediaPage.Self ))]"
+								parentanchor = center
+								text = "[EncyclopediaPage.GetTitle]"
+								align = nobaseline
+								default_format = "#low"
+							}
+
+							text_single = {
+								visible = "[ObjectsEqual( Encyclopedia.GetCurrentPage, EncyclopediaPage.Self )]"
+								parentanchor = center
+								text = "[EncyclopediaPage.GetTitle]"
+								align = nobaseline
+								default_format = "#high"
+							}
+						}
+					}
+				}
+				vbox = {
+					name = "lore"
+					datamodel = "[Encyclopedia.AccessPages]"
+					layoutpolicy_horizontal = expanding
+					
+					button_tab_vertical = {
+						name = "select_lore_page"
+						layoutpolicy_horizontal = expanding
+						size = { 175 35 }
+						text = "ENCYCLOPEDIA_PAGE_LORE"
+						tooltip = "ENCYCLOPEDIA_SELECT_PAGE_TOOLTIP"
+						onclick = "[Encyclopedia.SetCurrentPage( EncyclopediaPage.AccessSelf )]"
+						down = "[ObjectsEqual( Encyclopedia.GetCurrentPage, EncyclopediaPage.Self )]"
+						default_format = "#clickable"
+						
+						text_single = {
+									visible = "[Not(ObjectsEqual( Encyclopedia.GetCurrentPage, EncyclopediaPage.Self ))]"
+									parentanchor = center
+									text = "[EncyclopediaPage.GetTitle]"
+									align = nobaseline
+									default_format = "#low"
+								}
+
+						text_single = {
+							visible = "[ObjectsEqual( Encyclopedia.GetCurrentPage, EncyclopediaPage.Self )]"
+							parentanchor = center
+							text = "[EncyclopediaPage.GetTitle]"
+							align = nobaseline
+							default_format = "#high"
+						}
+					}
+				}
+
+				expand = {}
+			}
+
+			vbox = {
+				name = "current"
+				datacontext = "[Encyclopedia.AccessCurrentPage]"
+				layoutpolicy_horizontal = expanding
+				layoutpolicy_vertical = expanding
+				margin_top = 10
+				spacing = 10
+
+				hbox = {
+					layoutpolicy_horizontal = expanding
+					margin = { 40 0 }
+					spacing = 10
+
+					icon = {
+						size = { 30 30 }
+						using = Master_Button_Modify_Texture
+						texture = "gfx/interface/buttons/button_icons/search.dds"
+						mirror = horizontal
+
+						blockoverride "master_color_frame" {
+							frame = 4
+						}
+					}
+
+					editbox = {
+						name = "search_input" # Do not change name, it is referenced from code
+						layoutpolicy_horizontal = expanding
+						minimumsize = { 0 36 }
+						margin = { 10 10 }
+						margin_bottom = 15
+						alwaystransparent = no
+						focuspolicy = all
+						onreturnpressed = "[EncyclopediaPage.FilterFromText]"
+						default_format = "#high"
+						maxcharacters = 50
+
+						background = {
+							using = Background_Area_Border
+						}
+					}
+
+					hbox = {
+						spacing = 3
+						button_primary = {
+							name = "search_for_input"
+							size = { 80 35 }
+							text = "SEARCH_ENCYCLOPEDIA"
+							tooltip = "SEARCH_ENCYCLOPEDIA_TOOLTIP"
+							onclick = "[EncyclopediaPage.SearchFromEnteredText]"
+						}
+
+						button_standard = {
+							name = "reset_input"
+							size = { 80 35 }
+							text = "RESET_SEARCH_ENCYCLOPEDIA"
+							tooltip = "RESET_SEARCH_ENCYCLOPEDIA_TOOLTIP"
+							onclick = "[EncyclopediaPage.ResetFilter]"
+						}
+					}
+
+					hbox = {
+						button_select_arrow = {
+							mirror = horizontal
+							size = { 25 25 }
+							enabled = "[Encyclopedia.CanFilterFromHistoryBack]"
+							onclick = "[Encyclopedia.FilterFromHistoryBack]"
+							tooltip = "ENCYCLOPEDIA_PREVIOUS_SEARCH_TOOLTIP"
+							using = tooltip_ne
+						}
+
+						button_select_arrow = {
+							size = { 25 25 }
+							enabled = "[Encyclopedia.CanFilterFromHistoryForward]"
+							onclick = "[Encyclopedia.FilterFromHistoryForward]"
+							tooltip = "ENCYCLOPEDIA_NEXT_SEARCH_TOOLTIP"
+							using = tooltip_ne
+						}
+					}
+				}
+
+				scrollbox = {
+					layoutpolicy_horizontal = expanding
+					layoutpolicy_vertical = expanding
+
+					blockoverride "scrollbox_content" {
+
+
+						dynamicgridbox = {
+							name = "entries"
+							datamodel = "[Encyclopedia.GetViewedEntries]"
+
+							item = {
+								vbox = {
+									datacontext = "[EncyclopediaEntryView.Get]"
+									set_parent_size_to_minimum = yes
+									margin_bottom = 45
+									spacing = 10
+
+									background = {
+										using = Background_Area
+									}
+
+									hbox = {
+										layoutpolicy_horizontal = expanding
+										margin = { 20 5 }
+
+										spacing = 10
+
+										background = {
+											using = Background_Area_Dark
+											alpha = 0.4
+										}
+
+										icon = {
+											name = "image"
+											texture = "[EncyclopediaEntry.GetImage]"
+											visible = "[EncyclopediaEntry.HasImage]"
+											size = { 45 45 }
+											framesize = "[EncyclopediaEntry.GetFrameSize]"
+											frame = "[EncyclopediaEntry.GetFrame]"
+										}
+
+										text_single = {
+											name = "title"
+											layoutpolicy_horizontal = expanding
+											text = "[EncyclopediaEntry.GetTitle]"
+											default_format = "#high"
+											using = Font_Size_Medium
+										}
+									}
+
+									text_multi = {
+										name = "body"
+										autoresize = yes
+										max_width = 560
+										min_width = 560
+										text = "[EncyclopediaEntry.GetBody]"
+										margin = { 20 0 }
+									}
+								}
+
+							}
+						}
+
+						expand = {}
+					}
+				}
+			}
+		}
+	}
+}

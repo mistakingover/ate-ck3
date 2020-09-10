@@ -116,8 +116,9 @@
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = trailwalker_trickster_god_name
-		TricksterGodNamePossessive = trailwalker_trickster_god_name_possessive
+		TricksterGodName = { trailwalker_trickster_god_name trailwalker_trickster_roadrunner_god_name }
+		TricksterGodNamePossessive = { trailwalker_trickster_god_name_possessive  trailwalker_trickster_roadrunner_god_name_possessive 
+		}
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
@@ -132,9 +133,9 @@
 		#WaterGod
 		WaterGodName = trailwalker_water_god_name
 		WaterGodNamePossessive = trailwalker_water_god_name_possessive
-		WaterGodSheHe = CHARACTER_SHEHE_HE
-		WaterGodHerHis = CHARACTER_HERHIS_HIS
-		WaterGodHerHim = CHARACTER_HERHIM_HIM
+		WaterGodSheHe = CHARACTER_SHEHE_SHE
+		WaterGodHerHis = CHARACTER_HERHIS_HER
+		WaterGodHerHim = CHARACTER_HERHIM_HER
 
 
 
@@ -192,25 +193,59 @@
 	}
 
 	faiths = {
-		trailwalker_pagan = {
+		real_road = {
 			color = { 0.0 0.2 0.8 }
-			icon = trailwalker
-			reformed_icon = trailwalker
-
-			#holy_site = kara_khorum
-			#holy_site = qayaliq
-			#holy_site = kerch
-			#holy_site = tavan_bogd
-			#holy_site = preslav
+			icon = real_road
+			reformed_icon = real_road
 			
 			doctrine = tenet_ritual_hospitality
 			doctrine = tenet_sanctity_of_nature
 			doctrine = tenet_warmonger
+			
+			doctrine = doctrine_the_marshal
+			
+			localization = {
+				GoodGodNames = { trailwalker_good_god_lewison_clark }
+			}
 
 		}
 		#trailwalker_reformed = {
 		#	color = { 0.1 0.3 0.85 }
 		#	icon = tengri
 		#}
+		
+		eversky = {
+			color = { 0.0 0.2 0.8 }
+			icon = eversky
+			reformed_icon = eversky
+			
+			doctrine = tenet_astrology
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_warmonger
+			
+			doctrine = doctrine_the_marshal
+			
+			localization = {
+				GoodGodNames = { trailwalker_good_god_kelso }
+			}
+
+		}
+		
+		dustrider = {
+			color = { 0.0 0.2 0.8 }
+			icon = dustrider
+			reformed_icon = dustrider
+			
+			doctrine = tenet_ritual_hospitality
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_warmonger
+			
+			doctrine = doctrine_the_marshal
+			
+			localization = {
+				GoodGodNames = { trailwalker_good_god_lewison_clark }
+			}
+
+		}
 	}
 }

@@ -1,5 +1,4 @@
-﻿
-l_english:
+﻿l_english:
 
  trailwalker_religion:1 "Trailwalker"
  trailwalker_religion_adj:1 "Trailwalker"
@@ -13,6 +12,7 @@ l_english:
  trailwalker_high_god_name_alternate_possessive:0 "Spirit of the West's"
  trailwalker_good_god_sacagawea:0 "Sacagawea"
  trailwalker_good_god_lewison_clark:0 "Lewison Clark"
+ trailwalker_good_god_kelso:0 "Kelso"
  trailwalker_devil_name:0 "Bee'Elim"
  trailwalker_devil_name_possessive:0 "Bee'Elim's"
  trailwalker_evil_god_sly_coyote: "$trailwalker_trickster_god_name$"
@@ -44,6 +44,8 @@ l_english:
  trailwalker_war_god_name_possessive:0 "The Colt"
  trailwalker_trickster_god_name:0 "Sly Coyote"
  trailwalker_trickster_god_name_possessive:0 "Sly Coyote's"
+ trailwalker_trickster_roadrunner_god_name:0 "Roadrunner"
+ trailwalker_trickster_roadrunner_god_name_possessive:0 "Roadrunner's"
  trailwalker_night_god_name:0 "Ol' Bear"
  trailwalker_night_god_name_possessive:0 "Ol' Bear's"
  trailwalker_water_god_name:0 "Ol' Miss"
@@ -58,3 +60,27 @@ l_english:
  trailwalker_pagan_old_adj:0 "Old trailwalker"
  trailwalker_pagan_old_adherent:0 "Old trailwalker"
  trailwalker_pagan_old_adherent_plural:1 "Old trailwalker"
+ 
+ trailwalker_pagan:0 "Trailwalker"
+ trailwalker_pagan_adj:0 "Trailwalker"
+ trailwalker_pagan_adherent:1 "trailwalker"
+ trailwalker_pagan_adherent_plural:1 "trailwalker"
+ 
+ eversky:0 "Eversky"
+ eversky_adj:0 "Eversky"
+ eversky_desc:0 "The Eversky faith looks to the wilds of the North for their communion with the powers of the Frontier."
+ eversky_religion_adherent:1 "Skyseer"
+ eversky_adherent_plural:1 "Skyseers"
+ 
+ dustrider:0 "Dustrider"
+ dustrider_adj:0 "Dustrider"
+ dustrider_desc:0 "Out of the deserts of the west, the Trailwalker stories were ancient and long-spoken. They were consumed with the prevention of death and the bringing of rain, and it fills their hearts with longing to this day. "
+ dustrider_adherent:1 "Dustrider"
+ dustrider_adherent_plural:1 "Dustriders"
+ 
+ 
+ real_road:0 "Real Road"
+ real_road_adj:0 "Real Roader"
+ real_road_desc:0 "Real Road lies at the heart of the traditional Trailwalker lands, in the great prairies and mountains of the American West. They take their name from the great Iron Trail that once drove across it, uniting the lands from the Silver to the Golden Gate."
+ real_road_adherent:1 "Traveler"
+ real_road_adherent_plural:1 "Travelers"
