@@ -1,0 +1,224 @@
+karmic_religion = {
+	family = rf_harmonic
+	graphical_faith = dharmic_gfx
+	doctrine = harmonic_hostility_doctrine
+	
+	#Main Group
+	doctrine = doctrine_temporal_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_restricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_alms_and_pacification
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_disallowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	
+	traits = {
+		virtues = {
+			calm
+			chaste
+			diligent
+			forgiving
+			humble
+			just
+			patient
+			temperate
+			scholar
+			theologian
+			mystic_1
+			mystic_2
+			mystic_3
+			administrator
+		}
+		sins = {
+			lustful
+			greedy
+			lazy
+			vengeful
+			greedy
+			arrogant
+			arbitrary
+			impatient
+			gluttonous
+		}
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_golden_bears" }
+	}
+
+	holy_order_maa = { fortyniner }
+
+	localization = {
+		HighGodName = karmic_high_god_name
+		HighGodNamePossessive = karmic_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		HighGodHerHis = CHARACTER_HERHIS_ITS
+		HighGodNameAlternate = karmic_high_god_name_alternate
+		HighGodNameAlternatePossessive = karmic_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = karmic_creator_god_name
+		CreatorNamePossessive = karmic_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_HERHIM_IT
+
+		#HealthGod
+		HealthGodName = karmic_health_god_name
+		HealthGodNamePossessive = karmic_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = karmic_fertility_god_name
+		FertilityGodNamePossessive = karmic_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = karmic_wealth_god_name
+		WealthGodNamePossessive = karmic_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = karmic_household_god_name
+		HouseholdGodNamePossessive = karmic_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+		HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+		HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+		#FateGod
+		FateGodName = karmic_fate_god_name
+		FateGodNamePossessive = karmic_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = karmic_knowledge_god_name
+		KnowledgeGodNamePossessive = karmic_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = karmic_war_god_name
+		WarGodNamePossessive = karmic_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#TricksterGod
+		TricksterGodName = karmic_trickster_god_name
+		TricksterGodNamePossessive = karmic_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = karmic_night_god_name
+		NightGodNamePossessive = karmic_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = karmic_water_god_name
+		WaterGodNamePossessive = karmic_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+		PantheonTerm = karmic_high_god_name
+		PantheonTermHasHave = pantheon_term_has
+		GoodGodNames = {
+			karmic_high_god_name
+			karmic_household_god_name
+		}
+		DevilName = karmic_devil_name
+		DevilNamePossessive = karmic_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = CHARACTER_ITSELF
+		EvilGodNames = { karmic_devil_name }
+		HouseOfWorship = karmic_house_of_worship
+		HouseOfWorshipPlural = karmic_house_of_worship_plural
+		ReligiousSymbol = karmic_religious_symbol
+		ReligiousText = karmic_religious_text
+		ReligiousHeadName = karmic_religious_head_title
+		ReligiousHeadTitleName = karmic_religious_head_title_name
+		DevoteeMale = karmic_devotee
+		DevoteeMalePlural = karmic_devotee_plural
+		DevoteeFemale = karmic_devotee
+		DevoteeFemalePlural = karmic_devotee_plural
+		DevoteeNeuter = karmic_devotee
+		DevoteeNeuterPlural = karmic_devotee_plural
+		PriestMale = karmic_priest
+		PriestMalePlural = karmic_priest_plural
+		PriestFemale = karmic_priest
+		PriestFemalePlural = karmic_priest_plural
+		PriestNeuter = karmic_priest
+		PriestNeuterPlural = karmic_priest_plural
+		AltPriestTermPlural = karmic_priest_plural
+		BishopMale = karmic_priest
+		BishopMalePlural = karmic_priest_plural
+		BishopFemale = karmic_priest
+		BishopFemalePlural = karmic_priest_plural
+		BishopNeuter = karmic_priest
+		BishopNeuterPlural = karmic_priest_plural
+
+		DivineRealm = karmic_divine_realm
+		PositiveAfterLife = karmic_divine_realm
+		NegativeAfterLife = karmic_afterlife_negative
+		DeathDeityName = karmic_death_deity_name
+		DeathDeityNamePossessive = karmic_death_deity_possessive_name
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERHIS_ITS
+		WitchGodName = witchgodname_karmic
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_purification
+		GHWNamePlural = ghw_purifications
+	}
+
+	faiths = {
+		cetic = {
+			color = hsv { 0.7 0.52 0.90 }
+			icon = cetic
+
+			doctrine = tenet_asceticism
+			doctrine = tenet_wisdom_of_gurus
+			doctrine = tenet_legalism			
+		}
+	}
+}

@@ -325,6 +325,46 @@ doctrine_core_tenets = {
 			stewardship = -2
 		}
 	}
+	
+	tenet_wisdom_of_gurus = { #Mix of reincarnation and pacifism rites
+		icon = core_tenet_dharmawheel
+		piety_cost = {
+			value = faith_tenet_cost_mid
+		}
+		
+		is_shown = {
+			religion_tag = karmic_religion
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_gnosticism_trigger
+				NOT = {
+					flag:tenet_gnosticism = { is_in_list = selected_doctrines }
+				}
+			}
+			custom_description = {
+				text = incompatible_tenet_other_syncretism_trigger
+				NOR = {
+					flag:tenet_unreformed_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_eastern_syncretism = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+
+		parameters = {
+			hostility_override_eastern_hostility_doctrine = 2
+			hostility_override_special_doctrine_is_christian_faith = 2 #apparently there's a bunch of other stuff here that needs to be defined in other files?
+			hostility_override_special_doctrine_is_islamic_faith = 2
+			hostility_override_special_doctrine_is_jewish_faith = 2
+			pilgrimage_decision_active = yes #placeholder until we have our special pilgrimage decision
+			select_personal_god_active = yes #placeholder until we add special version for gurus
+		}
+	}
+	
 	tenet_aniconism = {
 		icon = core_tenet_altar
 		piety_cost = {
@@ -1416,6 +1456,7 @@ doctrine_core_tenets = {
 					flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -1446,6 +1487,7 @@ doctrine_core_tenets = {
 					flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -1478,6 +1520,7 @@ doctrine_core_tenets = {
 					flag:tenet_unreformed_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
 				}
 			}
 		}
