@@ -4,18 +4,6 @@ special_tolerance = {
 	is_available_on_create = {
 		always = no # Goes away when creating a new Faith
 	}
-	
-	special_doctrine_freedom_of_speech = {
-		parameters = {
-			hostility_override_special_doctrine_freedom_of_speech = 1
-		}
-	}
-	
-	special_doctrine_shema_yisrael = {
-		parameters = {
-			hostility_override_special_doctrine_shema_yisrael = 1
-		}
-	}
 
 	special_doctrine_teachings_of_kardec = {
 		parameters = {
@@ -24,5 +12,51 @@ special_tolerance = {
 			hostility_others = 2
 		}
 	}
+	
+	special_doctrine_latin_rite = { #this can't be selected on creating a new faith
+		parameters = {
+			hostility_override_special_doctrine_latin_rite = 1
+			hostility_override_special_doctrine_mainstream_protestant = 1
+		}
+	}
+	
+	special_doctrine_mainstream_protestant = { #this can't be selected on creating a new faith
+		parameters = {
+			hostility_override_special_doctrine_mainstream_protestant = 1
+			hostility_override_special_doctrine_latin_rite = 1
+		}
+	}
+}
 
+#doctrine_christian_tolerance = { #put certain tolerance doctrines here
+#	group = "main_group"
+#	is_available_on_create = {
+#		religion_tag = christian_religion
+#	}
+#}
+
+doctrine_patriotic_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = patriotic_religion
+	}
+	
+	special_doctrine_freedom_of_speech = {
+		parameters = {
+			hostility_override_special_doctrine_freedom_of_speech = 1
+		}
+	}
+}
+
+doctrine_jewish_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = jewish_religion
+	}
+	
+	special_doctrine_shema_yisrael = {
+		parameters = {
+			hostility_override_special_doctrine_shema_yisrael = 1
+		}
+	}
 }
