@@ -1,4 +1,4 @@
-doctrine_core_tenets = {
+﻿doctrine_core_tenets = {
 	group = "core_tenets"
 	number_of_picks = 3
 
@@ -362,6 +362,33 @@ doctrine_core_tenets = {
 			hostility_override_special_doctrine_is_jewish_faith = 2
 			pilgrimage_decision_active = yes #placeholder until we have our special pilgrimage decision
 			select_personal_god_active = yes #placeholder until we add special version for gurus
+		}
+	}
+
+	tenet_speaking_to_the_stars = {
+		icon = core_tenet_followers
+
+		piety_cost = {
+			value = faith_tenet_cost_mid
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_speaking_to_the_stars }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		can_pick = {
+			custom_description = {
+				text = doctrine_pluralism_pluralistic_trigger
+				NOT = { flag:doctrine_pluralism_pluralistic = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			fervor_per_holy_site = 0.1
+			pilgrimage_decision_active = yes
+			draw_geoglyph_active = yes
 		}
 	}
 	
