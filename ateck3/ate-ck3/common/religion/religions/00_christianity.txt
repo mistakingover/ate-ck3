@@ -398,8 +398,6 @@
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
 
-
-
 			holy_order_names = {
 				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
 				{ name = "holy_order_national_cathedral_association" coat_of_arms = "ho_national_cathedral_association"  }
@@ -418,12 +416,8 @@
 			doctrine = tenet_monasticism
 			doctrine = tenet_mendicant_preachers
 			
-			doctrine = doctrine_pluralism_pluralistic
-			doctrine = doctrine_clerical_gender_either
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
-		
-
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_saint_patrick" coat_of_arms = "ho_knights_of_saint_patrick" }
