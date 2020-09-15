@@ -391,6 +391,70 @@
 		}
 	}
 	
+	tenet_sola_scriptura = {
+		icon = core_tenet_bigbook
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+
+		parameters = {
+			literalist_debate_enabled = yes
+		}
+		
+		character_modifier = {
+			monthly_learning_lifestyle_xp_gain_mult = 0.1
+		}
+	}
+	
+	tenet_sola_fide = {
+		icon = core_tenet_prayer
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+
+		traits = {
+			virtues = {
+				zealous = 2
+				forgiving = { monthly_piety = -0.5 }
+				compassionate = { monthly_piety = -0.5 }
+				chaste = { monthly_piety = -0.5 }
+			}
+			
+			sins = {
+				cynical = 2
+				vengeful = { monthly_piety = 0.5 }
+				sadistic = { monthly_piety = 0.5 }
+				lustful = { monthly_piety = 0.5 }
+			}
+		}
+	}
+	
+	tenet_open_air_preachers = {
+		icon = core_tenet_missionary
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		can_pick = {
+			religion_tag = christianity_religion
+		}
+
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+			pilgrimage_decision_active = yes
+		}
+	}
+	
+	#############################################################
+	
 	tenet_aniconism = {
 		icon = core_tenet_altar
 		piety_cost = {
