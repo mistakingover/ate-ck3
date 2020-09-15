@@ -435,22 +435,25 @@
 		traits = {
 			virtues = {
 				zealous = 2
-				forgiving = { monthly_piety = -0.5 }
-				compassionate = { monthly_piety = -0.5 }
-				chaste = { monthly_piety = -0.5 }
+				forgiving = { monthly_piety = 0.5 }
+				compassionate = { monthly_piety = 0.5 }
+				chaste = { monthly_piety = 0.5 }
 			}
 			
 			sins = {
 				cynical = 2
-				vengeful = { monthly_piety = 0.5 }
-				sadistic = { monthly_piety = 0.5 }
-				lustful = { monthly_piety = 0.5 }
+				vengeful = { monthly_piety = -0.5 }
+				sadistic = { monthly_piety = -0.5 }
+				lustful = { monthly_piety = -0.5 }
 			}
 		}
 	}
 	
 	tenet_open_air_preachers = {
 		icon = core_tenet_missionary
+		is_shown = {
+			religion_tag = christianity_religion
+		}
 		piety_cost = {
 			value = faith_tenet_cost_low
 		}
