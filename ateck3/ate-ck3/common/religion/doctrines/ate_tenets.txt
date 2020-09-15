@@ -821,6 +821,8 @@
 		parameters = {
 			tenet_esotericism_mystic_education = yes
 		}
+		
+		
 
 	}
 
@@ -1021,6 +1023,18 @@
 
 		is_shown = {
 			always = yes
+		}
+		
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						religion_tag = orisha_religion
+					}
+					desc = tenet_bhakti_personal_orisha
+				}
+				desc = tenet_bhakti_name
+			}
 		}
 
 		parameters = {
