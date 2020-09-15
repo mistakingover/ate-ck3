@@ -400,6 +400,18 @@
 		is_shown = {
 			religion_tag = christianity_religion
 		}
+		
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = anglican
+					}
+					desc = tenet_prima_scriptura
+				}
+				desc = tenet_sola_scriptura_name
+			}
+		}
 
 		parameters = {
 			literalist_debate_enabled = yes
