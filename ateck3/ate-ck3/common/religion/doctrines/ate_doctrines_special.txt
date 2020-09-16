@@ -28,11 +28,14 @@ special_tolerance = {
 	}
 }
 
-doctrine_christian_tolerance = { #put certain tolerance doctrines here
+doctrine_protestant_tolerance = { #put certain tolerance doctrines here
 	group = "main_group"
 	is_available_on_create = {
 		religion_tag = christian_religion
-		doctrine = special_doctrine_mainstream_protestant
+		OR = {
+			doctrine = special_doctrine_mainstream_protestant
+			doctrine = special_doctrine_protestant_heritage
+		}
 	}
 	
 	special_doctrine_protestant_heritage = {
