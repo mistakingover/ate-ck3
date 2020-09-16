@@ -28,12 +28,20 @@ special_tolerance = {
 	}
 }
 
-#doctrine_christian_tolerance = { #put certain tolerance doctrines here
-#	group = "main_group"
-#	is_available_on_create = {
-#		religion_tag = christian_religion
-#	}
-#}
+doctrine_christian_tolerance = { #put certain tolerance doctrines here
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = christian_religion
+		doctrine = special_doctrine_mainstream_protestant
+	}
+	
+	special_doctrine_protestant_heritage = {
+		parameters = {
+			hostility_override_special_doctrine_protestant_heritage = 1
+			hostility_override_special_doctrine_mainstream_protestant = 1
+		}
+	}
+}
 
 doctrine_patriotic_tolerance = {
 	group = "main_group"

@@ -471,5 +471,35 @@
 				{ name = "holy_order_lebanon_brethren" coat_of_arms = "ho_lebanon_brethren" }
 			}
 		}
+		falling_star = {
+			color = { 0.9 0.8 0.3 }
+			graphical_faith = "catholic_gfx"
+			icon = falling_star
+	
+			#Special Tolerance
+			doctrine = special_doctrine_protestant_heritage #other Protestants and syncretic Christians like them, tradcaths don't
+
+			#Tenets
+			doctrine = tenet_communal_identity
+			doctrine = tenet_sola_scriptura
+			doctrine = tenet_ritual_hospitality
+			
+			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
+			doctrine = doctrine_clerical_marriage_allowed
+
+			holy_order_names = {
+				{ name = "holy_order_order_of_brotherhood" coat_of_arms = "ho_order_of_brotherhood" }
+			}
+			
+			localization = {
+				GoodGodNames = {
+					christianity_high_god_name
+					christianity_high_god_name_alternate
+					chistianity_good_god_jesus
+					chistianity_good_god_christ
+					falling_star_good_god_the_fallen_star
+				}
+			}
+		}
 	}
 }
