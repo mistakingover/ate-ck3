@@ -467,6 +467,44 @@
 			pilgrimage_decision_active = yes
 		}
 	}
+
+	tenet_crusading_clergy = {
+		icon = core_tenet_sword
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		can_pick = {
+			religion_tag = christianity_religion
+		}
+
+		parameters = {
+			clergy_can_fight = yes
+			cheaper_holy_wars_active = yes
+			great_holy_wars_active = yes
+		}
+	}
+
+	tenet_monastic_institute = {
+		icon = core_tenet_bigbook
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		can_pick = {
+			religion_tag = christianity_religion
+		}
+
+		character_modifier = {
+			monthly_learning_lifestyle_xp_gain_mult = 0.2
+		}
+	}
 	
 	#############################################################
 	
