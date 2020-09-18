@@ -1,0 +1,26 @@
+doctrine_polygamy_type = {
+	group = "marriage"
+	doctrine_polygamy_equal = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+		}
+	}
+	doctrine_polygamy_male = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+		}
+		can_pick = {
+			NOT = { flag:doctrine_gender_female_dominated = { is_in_list = selected_doctrines } 
+			}
+		}
+	}
+	doctrine_polygamy_female = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+		}
+		can_pick = {
+			NOT = { flag:doctrine_gender_male_dominated = { is_in_list = selected_doctrines } 
+			}
+		}
+	}
+}
