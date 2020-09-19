@@ -1,5 +1,5 @@
 ﻿l_english:
- rastfari_religion:0 "Rastafari"
+ rastafari_religion:0 "Rastafari"
  rastafari_religion_adj:0 "Rasta"
  rastafari_religion_adjerent:0 "Rasta"
  rastafari_religion_adherent_plural:0 "Rastas"
@@ -94,7 +94,7 @@
  tenet_chant_down_babylon_desc:0 "We believe that one may become closer to Jah by celebrating him using the music and rhythms that have been passed down to us for centuries."
  
  doctrine_rastafari_tolerance:0 "Special Tolerance"
- special_doctrine_lion_of_zion:0 "Lion of Zion"
+ special_doctrine_lion_of_zion_name:0 "Lion of Zion"
  special_doctrine_lion_of_zion_desc:0 "Our beliefs are rooted in Jah and the land of Zion. We must not quarrel too harshly with those who can trace their beliefs back to Zion, no matter how misguided they may be."
  doctrine_parameter_hostility_override_special_doctrine_lion_of_zion:0 "Considers [faiths|E] with the Lion of Zion doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  
