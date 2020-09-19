@@ -29,9 +29,9 @@ vodun_religion = {
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_spiritual_appointment
 
-	traits = { #maybe reconsider?
-		virtues = { patient just brave }
-		sins = { impatient deceitful arrogant }
+	traits = {
+		virtues = { brave humble compassionate }
+		sins = { craven arrogant callous }
 	}
 
 	custom_faith_icons = {
