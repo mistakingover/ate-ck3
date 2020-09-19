@@ -18,7 +18,7 @@
  doctrine_parameter_hostility_override_special_doctrine_saintly_spirits:0 "Considers [faiths|E] with the Saintly Spirits doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_juju_name:0 "Juju"
  special_doctrine_juju_desc:0 "Our practices are strange and alarming to some, but they are ultimately done in service of familiar powers."
- doctrine_parameter_hostility_override_special_doctrine_juju_name:0 "Considers [faiths|E] with the Juju doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_juju:0 "Considers [faiths|E] with the Juju doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
 
  tenet_sola_scriptura_name:0 "Sola Scriptura"
  tenet_prima_scriptura:0 "Prima Scriptura"
