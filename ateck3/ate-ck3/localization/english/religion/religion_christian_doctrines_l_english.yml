@@ -9,7 +9,7 @@
  doctrine_parameter_hostility_override_special_doctrine_mainstream_protestant:0 "Considers [faiths|E] with the Mainstream Protestant doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_protestant_heritage_name:0 "Protestant Heritage"
  special_doctrine_protestant_heritage_desc:0 "Although our beliefs have evolved over time, our origins still lie in the ancient Reformation. Other Christians with similar origins view us positively."
- doctrine_parameter_hostility_override_special_doctrine_protestant_heritage:0 "Considers [faiths|E] with the Protestant Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_doctrine_protestant_heritage:1 "Considers [faiths|E] with the Protestant Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_catholic_heritage_name:0 "Catholic Heritage"
  special_doctrine_catholic_heritage_desc:0 "Although our beliefs have evolved over time, our origins still lie in the ancient Church of Saint Peter. Other Christians with similar origins view us positively."
  doctrine_parameter_hostility_override_special_doctrine_catholic_heritage:0 "Considers [faiths|E] with the Catholic Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
