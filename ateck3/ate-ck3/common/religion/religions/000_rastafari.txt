@@ -1,0 +1,264 @@
+rastafari_religion = {
+	family = rf_abrahamic
+	
+	doctrine = abrahamic_hostility_doctrine
+	
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
+	
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+	
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_crime
+	
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_alms_and_pacification
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_spiritual_appointment
+	
+	traits = { #maybe reconsider?
+        virtues = { just humble temperate compassionate }
+        sins = { callous deceitful arrogant gluttonous }
+    }
+	
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_guardians_of_divinerealm" }
+		{ name = "holy_order_faithful_of_highgod" }
+		{ name = "holy_order_warriors_of_the_symbol" }
+	}
+
+	holy_order_maa = { lion_of_judah }
+	
+	localization = {
+		HighGodName = rastafari_high_god_name
+		HighGodNamePossessive = rastafari_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = rastafari_high_god_name_alternate
+		HighGodNameAlternatePossessive = rastafari_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = rastafari_creator_god_name
+		CreatorNamePossessive = rastafari_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = rastafari_health_god_name
+		HealthGodNamePossessive = rastafari_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = rastafari_fertility_god_name
+		FertilityGodNamePossessive = rastafari_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = rastafari_wealth_god_name
+		WealthGodNamePossessive = rastafari_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_SHE
+		WealthGodHerHis = CHARACTER_HERHIS_HER
+		WealthGodHerHim = CHARACTER_HERHIM_HER
+
+		#HouseholdGod
+		HouseholdGodName = rastafari_household_god_name
+		HouseholdGodNamePossessive = rastafari_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = rastafari_fate_god_name
+		FateGodNamePossessive = rastafari_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = rastafari_knowledge_god_name
+		KnowledgeGodNamePossessive = rastafari_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = rastafari_war_god_name
+		WarGodNamePossessive = rastafari_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = rastafari_trickster_god_name
+		TricksterGodNamePossessive = rastafari_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = rastafari_night_god_name
+		NightGodNamePossessive = rastafari_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = rastafari_water_god_name
+		WaterGodNamePossessive = rastafari_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_SHE
+		WaterGodHerHis = CHARACTER_HERHIS_HER
+		WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+		PantheonTerm = rastafari_jah
+		PantheonTermHasHave = pantheon_term_has
+		GoodGodNames = {
+			rastafari_high_god_name
+			rastafari_good_god_ras_tafari
+			rastafari_prophet_garvey
+		}
+		DevilName = rastafari_devil_name
+		DevilNamePossessive = rastafari_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = { rastafari_devil_name }
+		HouseOfWorship = rastafari_house_of_worship #House
+		HouseOfWorshipPlural = rastafari_house_of_worship_plural
+		ReligiousSymbol = rastafari_religious_symbol
+		ReligiousText = rastafari_religious_text
+		ReligiousHeadName = rastafari_religious_head_title
+		ReligiousHeadTitleName = rastafari_religious_head_title_name
+		DevoteeMale = rastafari_devotee
+		DevoteeMalePlural = rastafari_devoteeplural
+		DevoteeFemale = rastafari_devotee
+		DevoteeFemalePlural = rastafari_devoteeplural
+		DevoteeNeuter = rastafari_devotee
+		DevoteeNeuterPlural = rastafari_devoteeplural
+		PriestMale = rastafari_priest
+		PriestMalePlural = rastafari_priest_plural
+		PriestFemale = rastafari_priest
+		PriestFemalePlural = rastafari_priest_plural
+		PriestNeuter = rastafari_priest
+		PriestNeuterPlural = rastafari_priest_plural
+		AltPriestTermPlural = rastafari_priest_plural
+		BishopMale = rastafari_priest
+		BishopMalePlural = rastafari_priest_plural
+		BishopFemale = rastafari_priest
+		BishopFemalePlural = rastafari_priest_plural
+		BishopNeuter = rastafari_priest
+		BishopNeuterPlural = rastafari_priest_plural
+		DivineRealm = rastafari_divine_realm
+		PositiveAfterLife = rastafari_divine_realm
+		NegativeAfterLife = rastafari_negative_afterlife
+		DeathDeityName = rastafari_death_deity_name
+		DeathDeityNamePossessive = rastafari_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = witchgodname_rastafari_satan
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+	
+	faiths = {
+		bobo_ashanti = {
+			color = hsv { 0.9 0.45 0 }
+			icon = bobo_ashanti
+			
+			#special hostility doctrine
+			doctrine = special_doctrine_lion_of_zion
+			
+			doctrine = tenet_communal_identity
+			doctrine = tenet_sacramental_herbs
+			doctrine = tenet_livity
+			
+			localization = {
+				PriestMale = bobo_ashanti_priest
+				PriestMalePlural = bobo_ashanti_priest_plural
+				PriestFemale = bobo_ashanti_priest
+				PriestFemalePlural = bobo_ashanti_priest_plural
+				PriestNeuter = bobo_ashanti_priest
+				PriestNeuterPlural = bobo_ashanti_priest_plural
+				AltPriestTermPlural = bobo_ashanti_priest_plural
+				BishopMale = bobo_ashanti_priest
+				BishopMalePlural = bobo_ashanti_priest_plural
+				BishopFemale = bobo_ashanti_priest
+				BishopFemalePlural = bobo_ashanti_priest_plural
+				BishopNeuter = bobo_ashanti_priest
+				BishopNeuterPlural = bobo_ashanti_priest_plural
+			}
+		}
+		
+		nyabinghi = {
+			color = hsv { 0.7 0.3 0.15 }
+			icon = nyabinghi
+			
+			#special hostility doctrine
+			doctrine = special_doctrine_lion_of_zion
+			
+			doctrine = tenet_chant_down_babylon
+			doctrine = tenet_sacramental_herbs
+			doctrine = tenet_livity
+		}
+		
+		twelve_tribes = {
+			color = hsv { 0.8 0.4 0 }
+			icon = twelve_tribes
+			
+			#special hostility doctrine
+			doctrine = special_doctrine_lion_of_zion
+
+			doctrine = tenet_israelite_identity
+			doctrine = tenet_sacramental_herbs
+			doctrine = tenet_livity
+			
+			doctrine = doctrine_pluralism_pluralistic
+			
+			localization = {
+				#HealthGod
+				HealthGodName = twelve_tribes_health_god_name
+				HealthGodNamePossessive = twelve_tribes_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				ReligiousText = christianity_religious_text	
+				
+				GoodGodNames = {
+					rastafari_high_god_name
+					twelve_tribes_good_god_yesus_kritos
+					twelve_tribes_prophet_gad
+				}
+			}	
+		}
+	}
+}

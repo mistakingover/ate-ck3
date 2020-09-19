@@ -350,6 +350,7 @@
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_eastern_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -559,6 +560,126 @@
 
 		parameters = {
 			create_talismans_active = yes #does nothing right now
+		}
+	}
+	
+	tenet_sacramental_herbs = {
+		icon = core_tenet_nudism
+		
+		piety_cost = {
+			if = {
+				limit = {
+					religion_tag = rastafari_religion
+				}
+				value = faith_tenet_cost_low
+			}
+			else_if = {
+				limit = {
+					religion_tag = islam_religion
+				}
+				value = faith_tenet_cost_massive
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+		}
+		
+		parameters = {
+			sacramental_herbs_active = yes #does nothing right now
+		}
+	}
+	
+	tenet_livity = {
+		icon = core_tenet_meditation
+		
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = rastafari_religion
+		}
+		
+		traits = {
+			virtues = {
+				temperate = 2
+				hashishiyah #???
+			}
+			sins = {
+				gluttonous
+				drunkard = 2
+			}
+		}
+		
+		parameters = {
+			meditation_mechanics_active = yes
+		}
+		
+		character_modifier = {
+			monthly_learning_lifestyle_xp_gain_mult = 0.1
+		}
+	}
+	
+	tenet_israelite_identity = {
+		icon = core_tenet_chalice
+		
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = rastafari_religion
+		}
+		
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_other_syncretism_trigger
+				NOR = {
+					flag:tenet_eastern_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_unreformed_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+				}
+			}
+		}
+
+		parameters = {
+			hostility_override_special_doctrine_is_christian_faith = 2
+			hostility_override_special_doctrine_is_jewish_faith = 2
+			#For loc:
+			is_christian_faith_bilateral_loc_override = 2
+			christian_syncretic_actor_opinion_active = yes
+			jewish_syncretic_actor_opinion_active = yes
+		}
+
+		traits = {
+			virtues = { compassionate }
+			sins = { callous sadistic }
+		}
+	}
+	
+	tenet_chant_down_babylon = {
+		icon = core_tenet_festivities
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = rastafari_religion
+		}
+
+		parameters = {
+			piety_from_feasts_active = yes
+		}
+
+		character_modifier = {
+			vassal_opinion = 5
+			courtier_opinion = 5
+			tyranny_gain_mult = 1.00
+			stress_loss_mult = 0.25
 		}
 	}
 	
@@ -1670,6 +1791,7 @@
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+					flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -1701,6 +1823,7 @@
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+					flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -1734,6 +1857,7 @@
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+					flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -1770,6 +1894,8 @@
 					flag:tenet_unreformed_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_jewish_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+					flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
 				}
 			}
 		}
@@ -1804,6 +1930,8 @@
 					flag:tenet_unreformed_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
 					flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
+					flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+					flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
 				}
 			}
 		}

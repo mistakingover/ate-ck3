@@ -40,12 +40,14 @@ special_tolerance = {
 		parameters = {
 			hostility_override_special_doctrine_catholic_heritage = 1
 			hostility_override_special_doctrine_latin_rite = 2
+			hostility_override_special_doctrine_lion_of_zion = 2
 		}
 	}
 	
 	special_doctrine_juju = { #can't be created right now
 		parameters = {
 			hostility_override_special_doctrine_catholic_heritage = 2
+			hostility_override_special_doctrine_lion_of_zion = 2
 		}
 	}
 }
@@ -97,6 +99,23 @@ doctrine_patriotic_tolerance = {
 	special_doctrine_freedom_of_speech = {
 		parameters = {
 			hostility_override_special_doctrine_freedom_of_speech = 1
+		}
+	}
+}
+
+doctrine_rastafari_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = rastafari_religion
+	}
+	
+	special_doctrine_lion_of_zion = {
+		parameters = {
+			hostility_override_special_doctrine_lion_of_zion = 0
+			hostility_override_special_doctrine_catholic_heritage = 2
+			hostility_override_special_doctrine_protestant_heritage = 2
+			hostility_override_special_doctrine_saintly_spirits = 2
+			hostility_override_special_doctrine_juju = 2
 		}
 	}
 }
