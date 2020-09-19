@@ -1,0 +1,82 @@
+﻿l_english:
+ # Voodoo/Vodou
+ vodun_religion:0 "Vodun" #If the term changes in code to reference that it's 
+ vodun_religion_adj:0 "Vodun"
+ vodun_religion_adherent:1 "Vodunist"
+ vodun_religion_adherent_plural:1 "Vodunists"
+ vodun_religion_desc:1 "Vodun is an umbrella term for the syncretic religions that emerged in the Caribbean and Louisiana during the 18th century. The faiths are similar but distinct, united by their shared belief in Bondyé, the distant creator god, and the loas, who act as intermediaries between humans and the divine in exchange for offerings or service."
+ 
+ vodun_high_god_name:0 "Bondyé"
+ vodun_high_god_name_possessive:0 "Bondyé's"
+ vodun_high_god_name_alternate:0 "The Grand Mèt"
+ vodun_high_god_name_alternate_possessive:0 "The Grand Mèt's"
+ vodun_death_deity_name:0 "Baron Samedi"
+ vodun_death_deity_name_possessive:0 "Baron Samedi's"
+ vodun_religious_symbol:0 "veve"
+ vodun_religious_text:0 "Ginen"
+ vodun_devil_name:0 "Kalfu"
+ vodun_devil_name_possessive:0 "Kalfu's"
+ vodun_the_loas:0 "the Loas"
+ vodun_divine_realm:0 "Heaven" #placeholder
+ vodun_afterlife:0 "$vodun_divine_realm$"
+ witchgodname_vodun_kalfu:0 "$vodun_devil_name$"
+ vodun_house_of_worship:0 "hounfor"
+ vodun_house_of_worship_plural:0 "hounfors"
+ vodun_devotee:0 "sèvitè"
+ vodun_devotee_plural:0 "sèvitès"
+ vodun_priest_male:0 "houngan"
+ vodun_priest_male_plural:0 "houngans"
+ vodun_priest_female:0 "mambos"
+ vodun_priest_female_plural:0 "mambos"
+ vodun_priest_alternate_plural:0 "priests" #placeholder
+
+ vodun_creator_god_name:0 "$vodun_high_god_name$"
+ vodun_creator_god_name_possessive:0 "$vodun_high_god_name_possessive$"
+ vodun_health_god_name:0 "Loko"
+ vodun_health_god_name_possessive:0 "Loko's"
+ vodun_fertility_god_name:0 "La Sirène"
+ vodun_fertility_god_name_possessive:0 "La Sirène's"
+ vodun_wealth_god_name:0 "Ezili Freda" #unsure about this
+ vodun_wealth_god_name_possessive:0 "Ezili Freda's"
+ vodun_household_god_name:0 "Papa Legba"
+ vodun_household_god_name_possessive:0 "Papa Legba"
+ vodun_knowledge_god_name:0 "Damballa"
+ vodun_knowledge_god_name_possessive:0 "Damballa's"
+ vodun_fate_god_name:0 "Damballa"
+ vodun_fate_god_name_possessive:0 "Damballa's"
+ vodun_war_god_name:0 "Ogu"
+ vodun_war_god_name_possessive:0 "Ogu's"
+ vodun_trickster_god_name:0 "Damballa"
+ vodun_trickster_god_name_possessive:0 "Damballa'a"
+ vodun_night_god_name:0 "Baron Samedi"
+ vodun_night_god_name_possessive:0 "Baron Samedi's"
+ vodun_water_god_name:0 "La Sirène"
+ vodun_water_god_name_possessive:0 "La Sirène's"
+ 
+ vodun_the_loas:0 "the loas"
+
+ vodou:0 "Vodou"
+ vodou_adj:0 "Vodou"
+ vodou_adherent:0 "Vodouist"
+ vodou_adherent_plural:0 "Vodouists"
+ vodou_desc:0 "Vodou originated in Haiti, and is a mixture of ancient West African beliefs and Catholicism. Vodouists are distinguished by their lack of formal organization and slightly closer relationship to mainstream Christianity. Vodouists also place less of an emphasis on communication with the dead, focusing instead on worship of the loas."
+ 
+ voodoo:0 "Voodoo"
+ voodoo_adj:0 "Voodoo"
+ voodoo_adherent:0 "Voodooist"
+ voodoo_adherent_plural:0 "Voodooist"
+ voodoo_desc:0 "Voodoo originates in Louisiana, and is highly divergent from Haitian Vodou. Louisiana Voodoo places a large emphasis on communication with the dead and physical symbols and totems as vessels of spiritual power. Louisiana Voodoo has developed a formal religious heirarchy, which has steadily gained more power and influence in the years following the Event."
+
+ tenet_both_hands_name:0 "Service with Both Hands"
+ tenet_both_hands_desc:0 "Although dark magic is frowned upon in our faith, its use is not unheard of. It is shameful, but it can also be useful..."
+ tenet_seances_name:0 "Séances"
+ tenet_seances_desc:0 "Adherents of our faith are encouraged to commune with the dead, for they can provide wisdom and knowledge that would otherwise be inaccessible to the living."
+ tenet_talismans_name:0 "Talismans"
+ tenet_talismans_desc:0 "Our faith does not worship objects, but we do believe that objects can contain great mystical and spiritual power. One should handle such objects with care..."
+ 
+ doctrine_parameter_zombie_creation_active:0 "Characters of this [faith|E] can convince certain priests to turn an acquaintance into a zombie."
+ doctrine_parameter_seances_active:0 "Characters of this [faith|E] can organize séances in an effort to commune with the dead."
+ doctrine_parameter_create_talismans_active:0 "Characters of this [faith|E] can commission the creation of mystical talismans."
+ 
+ voodoo_religious_head_title:0 "Voodoo Kingdom"
+ voodoo_religious_head_title_name:0 "Voodoo King" #need to find a way to gender this

@@ -506,6 +506,62 @@
 		}
 	}
 	
+	tenet_both_hands = {
+		icon = core_tenet_meditation
+		is_shown = {
+			religion_tag = vodun_religion
+		}
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		traits = {
+			virtues = {
+				lifestyle_mystic
+			}
+		}
+
+		parameters = {
+			zombie_creation_active = yes #does nothing right now
+		}
+	}
+	
+	tenet_seances = {
+		icon = core_tenet_adorcism
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = vodun_religion
+		}
+
+		parameters = {
+			seances_active = yes
+		}
+
+		traits = {
+			virtues = { possessed = 2 }
+		}
+	}
+	
+	tenet_talismans = {
+		icon = core_tenet_prayer
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = { #expand for others?
+			religion_tag = vodun_religion
+		}
+
+		parameters = {
+			create_talismans_active = yes #does nothing right now
+		}
+	}
+	
 	#############################################################
 	
 	tenet_aniconism = {
