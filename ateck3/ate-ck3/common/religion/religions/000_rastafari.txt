@@ -145,7 +145,10 @@ rastafari_religion = {
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
-		EvilGodNames = { rastafari_devil_name }
+		EvilGodNames = {
+			rastafari_devil_name
+			rastafari_evil_god_satan
+		}
 		HouseOfWorship = rastafari_house_of_worship #House
 		HouseOfWorshipPlural = rastafari_house_of_worship_plural
 		ReligiousSymbol = rastafari_religious_symbol
@@ -178,7 +181,7 @@ rastafari_religion = {
 		DeathDeityNamePossessive = rastafari_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
-		WitchGodName = witchgodname_rastafari_satan
+		WitchGodName = rastafari_evil_god_satan
 		WitchGodHerHis = CHARACTER_HERHIS_HIS
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HIM

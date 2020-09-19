@@ -568,5 +568,81 @@
 				}
 			}
 		}
+		insular_carribean = {
+			color = { 0.7 0.7 0.65 }
+			graphical_faith = "catholic_gfx"
+			icon = insular
+			
+			#Special Tolerance
+			doctrine = special_doctrine_catholic_heritage
+			
+			#Tenets
+			doctrine = tenet_esotericism
+			doctrine = tenet_pastoral_isolation
+			doctrine = tenet_monasticism
+			
+			#doctrine_overrides
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_no_head
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+			localization = {
+				#HealthGod
+				HealthGodName = insular_caribbean_health_god_name
+				HealthGodNamePossessive = insular_caribbean_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = insular_caribbean_fertility_god_name
+				FertilityGodNamePossessive = insular_caribbean_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = west_christian_wealth_god_name
+				WealthGodNamePossessive = west_christian_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = insular_caribbean_household_god_name
+				HouseholdGodNamePossessive = insular_caribbean_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = insular_caribbean_knowledge_god_name
+				KnowledgeGodNamePossessive = insular_caribbean_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+				#WarGod
+				WarGodName = insular_caribbean_war_god_name
+				WarGodNamePossessive = insular_caribbean_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#TricksterGod
+				TricksterGodName = west_christian_trickster_god_name
+				TricksterGodNamePossessive = west_christian_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = west_christian_water_god_name
+				WaterGodNamePossessive = west_christian_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+			}
+		}
 	}
 }

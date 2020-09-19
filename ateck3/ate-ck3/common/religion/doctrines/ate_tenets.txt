@@ -709,6 +709,7 @@
 
 	tenet_alexandrian_catechism = {
 		icon = core_tenet_bigbook
+		
 		piety_cost = {
 			value = faith_tenet_cost_low
 		}
@@ -1032,6 +1033,17 @@
 
 	tenet_pastoral_isolation = {
 		icon = core_tenet_holytree
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = insular
+					}
+					desc = tenet_tropical_isolation
+				}
+				desc = tenet_pastoral_isolation_name
+			}
+		}
 
 		is_shown = {
 			always = yes
