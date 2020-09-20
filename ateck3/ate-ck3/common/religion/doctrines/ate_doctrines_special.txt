@@ -26,7 +26,7 @@ special_tolerance = {
 		parameters = {
 			hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_latin_rite = 1
-			hostility_override_special_doctrine_protestant_heritage = 1
+			hostility_override_special_doctrine_protestant_background = 1
 		}
 	}
 	
@@ -58,13 +58,13 @@ doctrine_protestant_tolerance = { #put certain tolerance doctrines here
 		religion_tag = christian_religion
 		OR = {
 			doctrine = special_doctrine_mainstream_protestant
-			doctrine = special_doctrine_protestant_heritage
+			doctrine = special_doctrine_protestant_background
 		}
 	}
 	
-	special_doctrine_protestant_heritage = {
+	special_doctrine_protestant_background = {
 		parameters = {
-			hostility_override_special_doctrine_protestant_heritage = 1
+			hostility_override_special_doctrine_protestant_background = 1
 			hostility_override_special_doctrine_mainstream_protestant = 1
 		}
 	}
@@ -113,7 +113,7 @@ doctrine_rastafari_tolerance = {
 		parameters = {
 			hostility_override_special_doctrine_lion_of_zion = 0
 			hostility_override_special_doctrine_catholic_heritage = 2
-			hostility_override_special_doctrine_protestant_heritage = 2
+			hostility_override_special_doctrine_protestant_background = 2
 			hostility_override_special_doctrine_saintly_spirits = 2
 			hostility_override_special_doctrine_juju = 2
 		}
