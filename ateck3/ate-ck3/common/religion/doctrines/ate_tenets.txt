@@ -682,6 +682,66 @@
 			stress_loss_mult = 0.25
 		}
 	}
+
+	tenet_gifts_of_the_spirit = {
+		icon = core_tenet_festivities
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+
+		parameters = {
+			lay_on_hands_enabled = yes
+			pilgrimage_decision_active = yes
+		}
+
+	}
+
+	tenet_spirit_healing = {
+		icon = core_tenet_festivities
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			NOT = {
+				religion_tag = christianity_religion
+			}
+		}
+
+		parameters = {
+			lay_on_hands_enabled = yes
+			pilgrimage_decision_active = yes
+		}
+
+	}
+
+	tenet_spiritual_warfare = {
+		icon = core_tenet_sword
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+
+		parameters = {
+			deliverance_ministry_enabled = yes
+			great_holy_wars_active = yes
+			ghw_no_hof_conversion_buffs_active = yes
+		}
+		traits = {
+			sins = { possessed = 2 }
+		}
+	}
+	
 	
 	#############################################################
 	
@@ -1210,6 +1270,12 @@
 						religion_tag = judaism_religion
 					}
 					desc = tenet_religious_legal_pronouncements_halakha
+				}
+				triggered_desc = {
+					trigger = {
+						icon = charismaticism
+					}
+					desc = tenet_religious_legal_pronouncements_fivefold
 				}
 				desc = tenet_religious_legal_pronouncements_name
 			}
