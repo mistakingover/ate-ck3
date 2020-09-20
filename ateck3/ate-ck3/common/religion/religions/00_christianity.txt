@@ -32,6 +32,7 @@
 
 	#Special Doctrine for Christian Syncretism
 	doctrine = special_doctrine_is_christian_faith
+	doctrine = doctrine_baptism_none
 
 	traits = {
 		virtues = { forgiving compassionate chaste }
@@ -221,6 +222,8 @@
 			doctrine = tenet_communion
 			doctrine = tenet_armed_pilgrimages
 			doctrine = tenet_monasticism
+			#Theology
+			doctrine = doctrine_baptism_infant
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_columbus" coat_of_arms = "ho_knights_of_columbus" }
@@ -292,6 +295,8 @@
 			doctrine = tenet_communion
 			doctrine = tenet_pentarchy
 			doctrine = tenet_monasticism
+			#Theology
+			doctrine = doctrine_baptism_infant
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_aparecida" coat_of_arms = "ho_knights_of_christs_cross" }
@@ -388,6 +393,9 @@
 			doctrine = tenet_consolamentum
 			doctrine = tenet_esotericism
 			doctrine = tenet_gnosticism
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
 
 			#Unique Localization
 			localization = {
@@ -415,6 +423,9 @@
 			doctrine = doctrine_gender_equal
 			doctrine = doctrine_clerical_gender_female_only
 			doctrine = doctrine_adultery_men_crime
+			
+			#Theology
+			doctrine = doctrine_baptism_infant
 
 
 			holy_order_names = {
@@ -482,6 +493,9 @@
 			doctrine = doctrine_adultery_men_crime
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
+			
+			#Theology
+			doctrine = doctrine_baptism_infant
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_st_ursula" coat_of_arms = "ho_knights_of_st_ursula" }
@@ -549,6 +563,9 @@
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
 			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
@@ -573,6 +590,9 @@
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
 			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
@@ -594,6 +614,9 @@
 			
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
+			
+			#Theology
+			doctrine = doctrine_baptism_infant
 
 			holy_order_names = {
 				{ name = "holy_order_knights_of_saint_patrick" coat_of_arms = "ho_knights_of_saint_patrick" }
@@ -617,6 +640,9 @@
 			doctrine = doctrine_homosexuality_crime
 			doctrine = doctrine_adultery_men_crime
 			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
 
 
 
@@ -640,6 +666,9 @@
 			doctrine = doctrine_adultery_men_accepted
 			doctrine = doctrine_polygamy
 			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
 
 
 
@@ -662,6 +691,9 @@
 			doctrine = doctrine_theocracy_lay_clergy
 			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
 			doctrine = doctrine_clerical_marriage_allowed
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
 
 			holy_order_names = {
 				{ name = "holy_order_order_of_brotherhood" coat_of_arms = "ho_order_of_brotherhood" }
@@ -695,6 +727,9 @@
 			doctrine = doctrine_no_head
 			doctrine = doctrine_pluralism_pluralistic
 			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+			
+			#Theology
+			doctrine = doctrine_baptism_infant
 			localization = {
 				#HealthGod
 				HealthGodName = insular_caribbean_health_god_name

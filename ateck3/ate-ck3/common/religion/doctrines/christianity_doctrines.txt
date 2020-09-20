@@ -1,0 +1,42 @@
+doctrine_baptism = {
+	group = "theology"
+	is_available_on_create = {
+		religion_tag = christianity_religion
+	}
+	
+	doctrine_baptism_none = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+	
+	doctrine_baptism_infant = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+
+	doctrine_baptism_accountability = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+
+	doctrine_baptism_believers = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+		}
+		
+		parameters = {
+		}
+	}
+}

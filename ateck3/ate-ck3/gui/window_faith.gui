@@ -584,6 +584,26 @@ window = {
 								widget_doctrine_item = {}
 							}
 						}
+						
+						text_label_left = {
+							layoutpolicy_horizontal = expanding
+							text = "FAITH_DOCTRINES_THEOLOGY"
+							visible = "[Faith.HasDoctrineByKey( 'special_doctrine_is_christian_faith' )]"
+							default_format = "#low"
+						}
+
+						fixedgridbox = {
+							datamodel = "[FaithWindow.GetGroupingHelper( 'theology' ).GetGrouping]"
+							visible = "[Faith.HasDoctrineByKey( 'special_doctrine_is_christian_faith' )]"
+							flipdirection = yes
+							addcolumn = 270
+							addrow = 65
+							datamodel_wrap = 2
+
+							item = {
+								widget_doctrine_item = {}
+							}
+						}
 
 
 						vbox = {

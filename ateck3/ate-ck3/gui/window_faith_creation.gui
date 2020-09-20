@@ -319,13 +319,41 @@ window = {
 									text_label_left = {
 										layoutpolicy_horizontal = expanding
 										text = "FAITH_DOCTRINES_FOLK_TRAILS"
+										visible = "[GetPlayer.GetFaith.HasDoctrineByKey( 'trailwalker_everwest' )]"
 										default_format = "#low"
 									}
 
 									fixedgridbox = {
 										name = "doctrines_grid_folks_trail"
 										datamodel = "[FaithCreationWindow.GetGroupingHelper( 'folk_trail' ).GetGrouping]"
+										visible = "[GetPlayer.GetFaith.HasDoctrineByKey( 'trailwalker_everwest' )]"
 
+										flipdirection = yes
+										addcolumn = 270
+										addrow = 65
+										datamodel_wrap = 2
+
+										item = {
+											widget_doctrine_selection_item = {}
+										}
+									}
+								}
+								vbox = {
+									layoutpolicy_horizontal = expanding
+									spacing = 10
+
+									text_label_left = {
+										layoutpolicy_horizontal = expanding
+										text = "FAITH_DOCTRINES_THEOLOGY"
+										visible = "[Faith.GetPlayer.GetFaith( 'special_doctrine_is_christian_faith' )]"
+										default_format = "#low"
+									}
+
+									fixedgridbox = {
+										name = "doctrines_grid_theology"
+										datamodel = "[FaithCreationWindow.GetGroupingHelper( 'theology' ).GetGrouping]"
+										
+										visible = "[Faith.GetPlayer.GetFaith( 'special_doctrine_is_christian_faith' )]"
 										flipdirection = yes
 										addcolumn = 270
 										addrow = 65

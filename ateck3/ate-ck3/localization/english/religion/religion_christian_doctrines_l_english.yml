@@ -39,6 +39,17 @@
  tenet_religious_legal_pronouncements_fivefold:0 "Five-Fold Ministry"
  tenet_spiritual_warfare_name:0 "Spiritual Warfare"
  tenet_spiritual_warfare_desc:0 "Evil spirits that lead people into the dark path are to be found everywhere. It's the duty of the faithful to deliver salvation to those who are controlled or have been misguided by them."
+ 
+ FAITH_DOCTRINES_THEOLOGY:0 "Theology"
+ doctrine_baptism_name:0 "Baptism"
+ doctrine_baptism_none_name:0 "No Baptism"
+ doctrine_baptism_none_desc:0 "Our faith does not practice the sacrament of Baptism."
+ doctrine_baptism_infant_name:0 "Infant Baptism"
+ doctrine_baptism_infant_desc:0 "Baptism should be practiced on any who may recieve it, even those who are newly born."
+ doctrine_baptism_accountability_name:0 "Accountability Baptism"
+ doctrine_baptism_accountability_desc:0 "The sacrament of Baptism is reserved for those who we may be sure know of good and evil, no later than the age of eight."
+ doctrine_baptism_believers_name:0 "Believer's Baptism"
+ doctrine_baptism_believers_desc:0 "Baptism is only for those who have professed their faith in Christ."
 
 
  doctrine_parameter_lay_on_hands_enabled:0 "May Lay on Hands on the sick and wounded, receiving [piety|E]. If they survive, increases the faith's [fervor|E]."
