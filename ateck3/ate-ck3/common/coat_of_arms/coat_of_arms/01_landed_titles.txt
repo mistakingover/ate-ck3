@@ -3,3 +3,73 @@
 @smLysX = 0.23
 @smLysY = 0.26
 @smCross = 0.22
+
+k_quebec = {
+	pattern = "pattern_cross_01.dds"
+	color1 = "blue"
+	color2 = "white"
+	colored_emblem = {
+		texture = "qc_fleur.dds"
+		color1 = "white"
+		color2 = "white"
+        instance = { position = { 0.25 0.75 } scale = { 0.3 0.3 }  }
+        instance = { position = { 0.25 0.25 } scale = { 0.3 0.3 }  }
+        instance = { position = { 0.75 0.75 } scale = { 0.3 0.3 }  }
+        instance = { position = { 0.75 0.25 } scale = { 0.3 0.3 }  }
+	}
+}
+d_montreal = {
+	pattern = "pattern_cross_circle.dds"
+	color1 = "white"
+	color2 = "red"
+     textured_emblem = {
+        texture = "ce_pine.dds"
+        color1 = "yellow"
+	    color2 = "black"
+    }
+	colored_emblem = {
+		texture = "qc_fleur.dds"
+		color1 = "blue"
+		color2 = "blue"
+        instance = { position = { 0.25 0.75 } scale = { 0.3 0.3 }  }
+	}
+    colored_emblem = {
+    texture = "ce_english_rose.dds"
+	color1 = "green"
+	color2 = "red"
+     instance = { position = { 0.75 0.75 } scale = { 0.3 0.3 }  }
+    }
+    colored_emblem = {
+    texture = "ce_thistle.dds"
+	color1 = "green"
+	color2 = "purple"
+     instance = { position = { 0.25 0.25 } scale = { 0.3 0.3 }  }
+    }
+    colored_emblem = {
+        texture = "ce_shamrock.dds"
+		color1 = "green"
+		color2 = "green"
+        instance = { position = { 0.75 0.25 } scale = { 0.3 0.3 }  }
+    }
+}
+k_columbia = {
+    pattern = "pattern_solid.dds"
+    color1 = "white"
+    color2 = "white"
+    
+    colored_emblem = {
+        texture = "ce_star_05.dds"
+        color1 = "red"
+        color2 = "red"
+        instance = { position = { 0.23 0.2 } scale = { 0.28 0.28 } }
+        instance = { position = { 0.5 0.2 } scale = { 0.28 0.28 } }
+        instance = { position = { 0.77 0.2 } scale = { 0.28 0.28 } }
+    }
+    colored_emblem = {
+        texture = "ce_block_03.dds"
+        color1 = "red"
+        color2 = "red"
+        instance = { position = { 0.5 0.62 } scale = { 1 0.6 } }
+        instance = { position = { 0.5 0.38 } scale = { 1 0.6 } }
+    }    
+}
