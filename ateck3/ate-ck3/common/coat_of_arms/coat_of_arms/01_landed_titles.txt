@@ -22,36 +22,81 @@ d_montreal = {
 	pattern = "pattern_cross_circle.dds"
 	color1 = "white"
 	color2 = "red"
-     textured_emblem = {
+     colored_emblem = {
         texture = "ce_pine.dds"
         color1 = "yellow"
 	    color2 = "black"
+		instance = { position = { 0.50 0.50 } scale = { 0.3 0.3 }  }
     }
 	colored_emblem = {
 		texture = "qc_fleur.dds"
 		color1 = "blue"
 		color2 = "blue"
-        instance = { position = { 0.25 0.75 } scale = { 0.3 0.3 }  }
+        instance = { position = { 0.25 0.25 } scale = { 0.3 0.3 }  }
 	}
     colored_emblem = {
     texture = "ce_english_rose.dds"
 	color1 = "green"
 	color2 = "red"
-     instance = { position = { 0.75 0.75 } scale = { 0.3 0.3 }  }
+     instance = { position = { 0.75 0.25 } scale = { 0.3 0.3 }  }
     }
     colored_emblem = {
     texture = "ce_thistle.dds"
 	color1 = "green"
 	color2 = "purple"
-     instance = { position = { 0.25 0.25 } scale = { 0.3 0.3 }  }
+	 instance = { position = { 0.25 0.75 } scale = { 0.3 0.3 }  }
     }
     colored_emblem = {
         texture = "ce_shamrock.dds"
 		color1 = "green"
 		color2 = "green"
-        instance = { position = { 0.75 0.25 } scale = { 0.3 0.3 }  }
+        instance = { position = { 0.75 0.75 } scale = { 0.3 0.3 }  }
     }
 }
+d_gaspesia = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "black"
+	colored_emblem = {
+		texture = "qc_fleur.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { position = { 0.10 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.30 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.50 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.70 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.90 0.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.00 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.20 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.40 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.60 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.80 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 1.00 0.20 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.10 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.30 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.50 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.70 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.90 0.40 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.00 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.20 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.40 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.60 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.80 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 1.00 0.60 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.10 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.30 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.50 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.70 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.90 0.80 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.00 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.20 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.40 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.60 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 0.80 1.00 } scale = { @smLysX @smLysY }  }
+		instance = { position = { 1.00 1.00 } scale = { @smLysX @smLysY }  }
+	}
+}
+
 k_columbia = {
     pattern = "pattern_solid.dds"
     color1 = "white"
