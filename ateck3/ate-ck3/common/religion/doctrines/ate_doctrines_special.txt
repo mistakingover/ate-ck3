@@ -38,6 +38,7 @@ special_tolerance = {
 	
 	special_doctrine_saintly_spirits = { #can't be created right now
 		parameters = {
+			hostility_override_special_doctrine_saintly_spirits = 1
 			hostility_override_special_doctrine_catholic_heritage = 1
 			hostility_override_special_doctrine_latin_rite = 2
 			hostility_override_special_doctrine_lion_of_zion = 2

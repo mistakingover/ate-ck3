@@ -670,8 +670,6 @@
 			#Theology
 			doctrine = doctrine_baptism_believers
 
-
-
 			holy_order_names = {
 				{ name = "holy_order_lebanon_brethren" coat_of_arms = "ho_lebanon_brethren" }
 			}
@@ -810,6 +808,82 @@
 				WaterGodSheHe = CHARACTER_SHEHE_HE
 				WaterGodHerHis = CHARACTER_HERHIS_HIS
 				WaterGodHerHim = CHARACTER_HERHIM_HIM
+			}
+		}
+		mormon = {
+			color = hsv { 0.75 0.4 0.55 }
+			graphical_faith = "catholic_gfx"
+			icon = mormon
+			
+			#Special Tolerance
+			doctrine = special_doctrine_latter_day_saints #use this to make chaste and drunkard sins
+			
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_mission_service #diligent/lazy
+			
+			#Doctrine overrides
+			doctrine = doctrine_bastardry_none
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_deviancy_shunned #???
+			doctrine = doctrine_kinslaying_close_kin_crime
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+			holy_order_names = {
+				{ name = "holy_order_danites" }
+			}
+			
+			holy_order_maa = { pioneers }
+			
+			localization = { #Default for mormons
+				CreatorGod = mormon_creator_god_name
+				CreatorGodNamePossessive = mormon_creator_god_name_possessive
+				CreatorGodSheHe = CHARACTER_SHEHE_HE
+				CreatorGodHerHis = CHARACTER_HERHIS_HIS
+				CreatorGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				HealthGodName = mormon_fertility_god_name
+				HealthGodNamePossessive = mormon_fertility_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = mormon_fertility_god_name
+				FertilityGodNamePossessive = mormon_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#KnowledgeGod
+				KnowledgeGodName = mormon_knowledge_god_name
+				KnowledgeGodNamePossessive = mormon_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
+				
+				#NightGod
+				NightGodName = mormon_knowledge_god_name
+				NightGodNamePossessive = mormon_knowledge_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					christianity_high_god_name
+					christianity_high_god_name_alternate
+					mormon_good_god_heavenly_father
+					chistianity_good_god_jesus
+					chistianity_good_god_christ
+					mormon_good_god_jehovah
+				}
 			}
 		}
 	}
