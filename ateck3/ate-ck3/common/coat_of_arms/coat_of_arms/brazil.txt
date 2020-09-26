@@ -1,0 +1,365 @@
+####################################
+########Brazilian CoAs##############
+###Most kingdom CoAs will have an "imperial" version and an independent version
+###Imperial versions are cleaner and more standardized
+####################################
+
+###Brazil
+e_brazil = {
+	pattern = "pattern_solid.dds"
+    color1 = "green"
+    color2 = "green"
+	colored_emblem = {
+		texture = "ce_cross_order_of_christ_cross.dds"
+		color1="red"
+		color2="white"
+		instance = { position = { 0.5 0.5 } scale = { 0.66 0.66 }  }
+	}
+	colored_emblem = {
+		texture = "ce_armillary_sphere.dds"
+		color1="yellow"
+		color2="yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
+	}
+}
+
+
+###Veracruz
+e_veracruz = {
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+    color2 = "white"
+	colored_emblem = {
+		texture = "ce_cross_order_of_christ_cross.dds"
+		color1="red"
+		color2="white"
+		instance = { position = { 0.5 0.5 } scale = { 0.66 0.66 }  }
+	}
+	colored_emblem = {
+		texture = "ce_armillary_sphere.dds"
+		color1="yellow"
+		color2="yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
+	}
+}
+
+###Veracruz - MG
+k_minas = { #libertas quae sera tamen
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+    color2 = "white"
+	colored_emblem = {
+		texture = "ce_triangle_eq.dds"
+		color1="red"
+		color2="red"
+		instance = { position = { 0.5 0.4 } scale = { 0.66 0.66 }  }
+	}
+}
+
+k_triangle = { #old MG flag
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+    color2 = "white"
+	colored_emblem = {
+		texture = "ce_triangle_eq.dds"
+		color1="green"
+		color2="green"
+		instance = { position = { 0.5 0.4 } scale = { 0.66 0.66 }  }
+	}
+}
+
+###Veracruz - SP
+k_sao_paulo = { #based on São Paulo state Coat of Arms
+	pattern = "pattern_solid.dds"
+    color1 = "red"
+    color2 = "red"
+	colored_emblem = {
+		texture = "ce_branch.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.66 0.7 } scale = { 0.6 0.6 }  }
+		instance = { position = { 0.33 0.7 } scale = { -0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_sword_simple.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_letter_s.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.3 0.25 } scale = { 0.55 0.55 }  }
+	}
+	colored_emblem = {
+		texture = "ce_letter_p.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.7 0.25 } scale = { 0.55 0.55 }  }
+	}
+}
+
+k_sao_paulo_imperial = { #based on São Paulo sidewalks
+	pattern = "pattern_sao_paulo_3.dds"
+    color1 = "black"
+    color2 = "white"
+	color3 = "red"
+}
+
+d_grande_sao_paulo = { #based on São Paulo city flag
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+    color2 = "red"
+	
+	colored_emblem = {
+		texture = "ce_diamond_01.dds"
+		color1="red"
+		color2="red"
+		instance = { position = { 0.0 0.5 } scale = { 0.5 0.5 }  }
+		instance = { position = { 1.0 0.5 } scale = { 0.5 0.5 }  }
+		instance = { position = { 0.5 0.0 } scale = { 0.5 0.5 } rotation = 90  }
+		instance = { position = { 0.5 1.0 } scale = { 0.5 0.5 } rotation = 90  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_ordinary_cross_thin.dds"
+		color1="red"
+		color2="red"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_mask.dds"
+		color1="red"
+		color2="red"
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_bandeirante_arm.dds"
+		color1="white"
+		color2="red"
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
+	}
+
+}
+
+
+k_santos = { #titular republican title, based on Santos CoA and Sousa family CoA
+	pattern = "pattern_solid.dds"
+    color1 = "white"
+    color2 = "white"
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1="red"
+		color2="red"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_caduceus.dds"
+		color1="yellow"
+		color2="yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.725 0.725 }  }
+	}
+	colored_emblem = {
+		texture = "ce_armillary_sphere.dds"
+		color1="yellow"
+		color2="yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.425 0.425 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_cross_order_of_christ_cross.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.1 0.05 } scale = { 0.08 0.08 }  } #1st row
+		instance = { position = { 0.5 0.05 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.9 0.05 } scale = { 0.08 0.08 }  }
+		
+		instance = { position = { 0.1 0.25 } scale = { 0.08 0.08 }  } #2st row
+		instance = { position = { 0.9 0.25 } scale = { 0.08 0.08 }  }
+		
+		instance = { position = { 0.1 0.45 } scale = { 0.08 0.08 }  } #2st row
+		instance = { position = { 0.9 0.45 } scale = { 0.08 0.08 }  }
+		
+		instance = { position = { 0.15 0.65 } scale = { 0.08 0.08 }  } #3rd row
+		instance = { position = { 0.85 0.65 } scale = { 0.08 0.08 }  }
+		
+		instance = { position = { 0.2 0.85 } scale = { 0.08 0.08 }  } #4rd row
+		instance = { position = { 0.8 0.85 } scale = { 0.08 0.08 }  } #4rd row
+		
+		instance = { position = { 0.5 0.95 } scale = { 0.08 0.08 }  } #5rd row
+	}
+}
+
+k_paulistano = { #either a titular title like in SoA or independent k_sao_paulo controlled by paulistano culture
+	pattern = "pattern_barruly_08.dds"
+    color1 = "black"
+    color2 = "white"
+	
+	colored_emblem = {
+		texture = "ce_circle_mask.dds"
+		color1="red"
+		color2="red"
+		instance = { position = { 0.5 0.45 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_bandeirante_arm.dds"
+		color1="white"
+		color2="red"
+		instance = { position = { 0.5 0.45 } scale = { 0.5 0.5 }  }
+	}
+}
+
+###Veracruz - RJ
+k_fluminense = { #based on RJ's state coat of arms
+	pattern = "pattern_horizontal_split_01.dds"
+    color1 = "brown"
+    color2 = "green"
+	colored_emblem = {
+		texture = "ce_chief_indented_alpha.dds"
+		color1="blue_light"
+		color2="blue_light"
+		instance = { position = { 0.5 0.45 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_hand_blessing.dds"
+		color1="brown"
+		color2="brown"
+		instance = { position = { 0.5 0.3 } scale = { 0.425 0.425 }  }
+	}
+
+	colored_emblem = {
+		texture = "ce_barry_04.dds"
+		color1="blue_light"
+		color2="green"
+		instance = { position = { 0.5 1.0 } scale = { 1.0 0.66 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.5 0.725 } scale = { 0.45 0.45 }  }
+	}
+	colored_emblem = {
+		texture = "ce_cross_order_of_christ_cross.dds"
+		color1="red"
+		color2="white"
+		instance = { position = { 0.5 0.725 } scale = { 0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_armillary_sphere.dds"
+		color1="yellow"
+		color2="yellow"
+		instance = { position = { 0.5 0.725 } scale = { 0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_eagle_imperial_flying.dds"
+		color1="grey"
+		color2="grey"
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
+	}
+}
+
+
+k_fluminense_imperial = { #based on RJ's state flag
+	pattern = "pattern_checkers_01.dds"
+    color1 = "white"
+    color2 = "blue_light"
+	
+}
+
+###Veracruz - ES
+k_espirito_santo = { @based on ES's state flag + a star with a religious building from ES's state CoA
+	pattern = "pattern_tricolor_horizontal_01.dds"
+    color1 = "blue_light"
+    color2 = "white"
+	color3 = hsv360 { 335 35 94 } #I'm not 100% happy with this color, if we ever add pink it could be used instead
+	colored_emblem = {
+		texture = "ce_star_05_pierced.dds"
+		color1="blue"
+		color2="white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_tower.dds"
+		color1="blue"
+		color2="white"
+		instance = { position = { 0.5 0.575 } scale = { 0.25 0.25 }  }
+	}
+	colored_emblem = {
+		texture = "ce_cross_patriarchal.dds"
+		color1="blue"
+		color2="white"
+		instance = { position = { 0.5 0.45 } scale = { 0.15 0.15 }  }
+	}
+}
+
+k_espirito_santo_imperial = {
+	pattern = "pattern_checkers_01.dds"
+	color1 = hsv360 { 335 35 94 }
+    color2 = "blue"
+}
+
+
+###South
+
+e_sulista = {
+	pattern = "pattern_solid.dds"
+    color1 = "blue"
+    color2 = "blue"
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.5 0.25 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.3 0.65 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.7 0.65 } scale = { 0.4 0.4 }  }
+	}
+}
+
+###sulista - PR
+k_parana = { #based on Paraná's CoA + araucaria
+	pattern = "pattern_chief.dds"
+    color1 = "blue"
+    color2 = "red"
+	colored_emblem = {
+		texture = "ce_eagle_harpy.dds"
+		color1="white"
+		color2="black"
+		instance = { position = { 0.5 0.225 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_araucaria.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.5 0.66 } scale = { 0.7 0.7 }  }
+	}
+}
+
+###sulista - SC
+k_santa_catarina = { #could use keys under the eagle
+	pattern = "pattern_solid.dds"
+    color1 = "green_light"
+    color2 = "green_light"
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1="white"
+		color2="white"
+		instance = { position = { 0.5 0.475 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_eagle_imperial_flying.dds"
+		color1="brown"
+		color2="yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.55 0.55 }  }
+	}
+
+}
+
+###sulista - RS
+k_rio_grande_do_sul = { #gaucho tricolor - their flag and CoA
+	pattern = "pattern_tricolor_bend_02.dds"
+    color1 = "green"
+    color2 = "red"
+	color3 = "yellow"
+}
