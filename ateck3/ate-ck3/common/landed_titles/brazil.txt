@@ -35,5 +35,27 @@ e_bahia =
 	k_sao_francisco = {}
 }
 
+e_nordeste =
+{
+	k_ceara = {}
+	k_ceara_imperial = {}
+	k_cabo_norte = {}
+	k_maranhao = {}
+	k_pernambuco = {}
+	k_piaui = {}
+}
 
+e_amazonia = 
+{
+	k_amazonas = {}
+	k_para = {}
+	k_acre = {}
+}
 
+e_cerrado = 
+{
+	k_mato_grosso = {}
+	k_mato_grosso_imperial = {}##remove when we add dynamic flags
+	k_goias = {}
+	k_goias_imperial = {}##remove when we add dynamic flags
+}
