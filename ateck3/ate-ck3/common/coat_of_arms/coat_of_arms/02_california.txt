@@ -1,0 +1,24 @@
+
+e_california = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.5 0.84 } scale = { 1.0 0.33 }  }
+	}
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "brown"
+		color2 = "red"
+		instance = { position = { 0.55 0.5 } scale = { 0.7 0.7 }  }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.25 0.2 } scale = { 0.3 0.3 }  }
+	}
+}
