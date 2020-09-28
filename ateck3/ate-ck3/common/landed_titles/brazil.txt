@@ -48,8 +48,11 @@ e_nordeste =
 e_amazonia = 
 {
 	k_amazonas = {}
+	k_amazonas_imperial = {}##remove when we add dynamic flags
 	k_para = {}
 	k_acre = {}
+	k_amapa = {}
+	k_roraima = {}
 }
 
 e_cerrado = 
