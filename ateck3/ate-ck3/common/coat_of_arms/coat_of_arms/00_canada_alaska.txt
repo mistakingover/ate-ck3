@@ -189,10 +189,10 @@ k_yukon = {
 		texture = "ce_circle.dds"
 		color1 = "yellow"
 		color2 = "yellow"
-		instance = { position = { 0.3 0.6 } scale = { 0.15 0.15 }  }
-		instance = { position = { 0.3 0.7 } scale = { 0.15 0.15 }  }
-		instance = { position = { 0.7 0.6 } scale = { 0.15 0.15 }  }
-		instance = { position = { 0.7 0.7 } scale = { 0.15 0.15 }  }
+		instance = { position = { 0.3 0.6 } scale = { 0.1 0.1 }  }
+		instance = { position = { 0.3 0.68 } scale = { 0.1 0.1 }  }
+		instance = { position = { 0.7 0.6 } scale = { 0.1 0.1 }  }
+		instance = { position = { 0.7 0.68 } scale = { 0.1 0.1 }  }
 	}
 	
 	colored_emblem = {
@@ -214,10 +214,10 @@ k_yukon = {
 		instance = { position = { 0.5 0.17 } scale = { 0.34 0.34 }  }
 	}
 	colored_emblem = {
-		texture = "ce_lozenge_vair.dds"
+		texture = "ce_vairy_circle.dds"
 		color1 = "blue"
 		color2 = "white"
-		instance = { position = { 0.5 0.17 } scale = { 0.3 0.2 }  }
+		instance = { position = { 0.5 0.17 } scale = { 0.4 0.4 }  }
 	}
 }
 
@@ -337,12 +337,12 @@ k_prairieland = {
 	}
 }
 e_cascadia = {
-	pattern = "pattern_chevron_01.dds"
-	color1 = "blue_light"
-	color2 = rgb { 10 100 100 }
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "blue"
+	color2 = "green_light"
 	
 	colored_emblem = {
-		texture = "ce_ordinary_chevron_5.dds"
+		texture = "ce_ordinary_fess_5.dds"
 		color1 = "white"
 		color2 = "white"
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
@@ -350,7 +350,7 @@ e_cascadia = {
 	
 	colored_emblem = {
 		texture = "ce_pine.dds"
-		color1 = "green"
+		color1 = rgb { 10 35 10 }
 		color2 = "black"
 		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
 	}
@@ -363,7 +363,7 @@ d_vancouver = {
 	
 	colored_emblem = {
 		texture = "ce_waves_01.dds"
-		color1 = "blue_light"
+		color1 = "blue"
 		color2 = "white"
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
 	}
@@ -377,12 +377,12 @@ d_vancouver = {
 	
 	colored_emblem = {
 		texture = "ce_ordinary_pile_03.dds"
-		color1 = "green_light"
-		color2 = "green_light"
+		color1 = "green"
+		color2 = "green"
 		instance = { position = { 0.5 0.5 } scale = { 0.7 1.2 }  }
 	}
 	colored_emblem = {
-		texture = "ce_caduceus.dds"
+		texture = "ce_totem_pole_03.dds"
 		color1 = "yellow"
 		color2 = "yellow"
 		instance = { position = { 0.5 0.33 } scale = { 0.45 0.5 }  }
@@ -391,8 +391,20 @@ d_vancouver = {
 	colored_emblem = {
 		texture = "ce_flower.dds"
 		color1 = "white"
-		color2 = "green_light"
-		instance = { position = { 0.25 0.2 } scale = { 0.3 0.3 }  }
-		instance = { position = { 0.75 0.2 } scale = { 0.3 0.3 }  }
+		color2 = "green"
+		instance = { position = { 0.2 0.2 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.8 0.2 } scale = { 0.3 0.3 }  }
+	}
+}
+e_thunderland = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue_light"
+	color2 = "white"
+	
+	colored_emblem = {
+		texture = "ce_thunderland_thunderbird.dds"
+		color1 = "brown"
+		color2 = "black"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
 	}
 }
