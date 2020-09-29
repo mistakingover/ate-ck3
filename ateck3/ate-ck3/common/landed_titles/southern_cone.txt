@@ -1,0 +1,33 @@
+e_la_plata = {
+	k_buenos_aires = {}
+	k_buenos_aires_2 = {}
+	k_paraguay = {}
+	k_la_pampa = {}
+	k_uruguay = {}
+	k_mesopotamia = {}
+
+}
+
+e_interior = {
+	k_cordoba = {}
+	k_cuyo = {}
+	k_gran_chaco = {}
+	k_norte_viejo = {}
+	
+}
+
+e_patagonia = {
+	k_rio_negro = {}
+	k_chubut = {}
+	k_chubut_wales = {}##remove when we add dynamic flags
+	k_santa_cruz_de_patagonia = {}
+	k_falkland = {}
+	k_falkland_malvinas = {}##remove when we add dynamic flags
+	k_magallanes = {}
+}
+
+e_chile = {
+	k_chile = {}
+	k_araucania = {}
+	k_atacama = {}
+}
