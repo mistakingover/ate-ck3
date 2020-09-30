@@ -127,39 +127,6 @@ d_nova_scotia = {
 	}
 }
 
-e_united_kingdom = {
-    pattern = "pattern_solid.dds"
-    color1 = "blue"
-    color2 = "blue"
-    colored_emblem = {
-        texture = "ce_ordinary_saltire_5.dds"
-        color1="white"
-        color2="white"
-        instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-    }
-    colored_emblem = {
-        texture = "ce_bend_thin.dds"
-        color1="red"
-        color2="red"
-        instance = { position = { 0.25 0.3 } scale = { 0.5 0.5 }  }
-        instance = { position = { 0.75 0.2 } scale = { -0.5 0.5 }  }
-        instance = { position = { 0.25 0.8 } scale = { -0.5 0.5 }  }
-        instance = { position = { 0.75 0.7 } scale = { 0.5 0.5 }  }
-    }
-    colored_emblem = {
-        texture = "ce_ordinary_cross_5.dds"
-        color1="white"
-        color2="white"
-        instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-    }
-    colored_emblem = {
-        texture = "ce_ordinary_cross_thinnest.dds"
-        color1="red"
-        color2="red"
-        instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-    }
-}
-
 k_yukon = {
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
@@ -445,15 +412,15 @@ e_borealia = {
 		texture = "ce_malamute.dds"
 		color1 = "white"
 		color2 = "black"
-		instance = { position = { 0.25 0.25 } scale = { -0.3 0.3 }  }
-		instance = { position = { 0.75 0.75 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.2 0.2 } scale = { -0.3 0.3 }  }
+		instance = { position = { 0.8 0.8 } scale = { 0.3 0.3 }  }
 	}
 	colored_emblem = {
 		texture = "ce_star_08.dds"
 		color1 = "white"
 		color2 = "black"
-		instance = { position = { 0.75 0.25 } scale = { 0.3 0.3 }  }
-		instance = { position = { 0.25 0.75 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.8 0.2 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.2 0.8 } scale = { 0.3 0.3 }  }
 	}
 }
 
@@ -580,7 +547,7 @@ k_maritimes = {
 		texture = "ce_lion_passant_random.dds"
 		color1 = "yellow"
 		color2 = "blue"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 0.9 }  }
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.8 }  }
 	}
 	colored_emblem = {
 		texture = "ce_crown_head.dds"
