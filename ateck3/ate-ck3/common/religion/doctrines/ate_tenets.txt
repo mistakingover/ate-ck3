@@ -1,4 +1,4 @@
-﻿doctrine_core_tenets = {
+doctrine_core_tenets = {
 	group = "core_tenets"
 	number_of_picks = 3
 
@@ -742,6 +742,52 @@
 		}
 	}
 
+
+	tenet_fragments_of_inkarri = {
+		icon = core_tenet_cabal
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = inca_religion
+		}
+
+		parameters = {
+			inkarri_expeditions_enabled = yes
+		}
+	}
+
+	tenet_truth_of_the_huaca = {
+		icon = core_tenet_prayer
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = inca_religion
+		}
+
+		parameters = {
+			consult_the_huacas_enabled = yes
+		}
+		character_modifier = {
+			mountain_advantage = 5
+			mountain_attrition_mult = -0.25
+			desert_advantage = 5
+			desert_attrition_mult = -0.25
+			jungle_advantage = 5
+			jungle_attrition_mult = -0.25
+			church_holding_build_speed = -0.1
+			church_holding_build_gold_cost = -0.1
+			church_holding_holding_build_speed = -0.1
+			church_holding_holding_build_gold_cost = -0.1
+		}		
+	}
+
+
 	#############################################################
 	
 	tenet_aniconism = {
@@ -1271,6 +1317,12 @@
 				}
 				triggered_desc = {
 					trigger = {
+						religion_tag = inca_religion
+					}
+					desc = tenet_religious_legal_pronouncements_sun
+				}				
+				triggered_desc = {
+					trigger = {
 						icon = charismaticism
 					}
 					desc = tenet_religious_legal_pronouncements_fivefold
@@ -1794,6 +1846,18 @@
 
 	tenet_sun_worship = {
 		icon = core_tenet_skyshaman
+
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						religion_tag = inca_religion
+					}
+					desc = tenet_inti_raymi
+				}
+				desc = tenet_sun_worship_name
+			}
+		}
 
 		piety_cost = {
 			value = faith_tenet_cost_low
