@@ -50,7 +50,7 @@ e_atlantica_americanist = {
 k_hudsonia = {
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = "blue"
-	color2 = "orange"
+	color2 = hsv {		0.064 	0.75 	0.8 	}
 	colored_emblem = {
 		texture = "ce_shield_01.dds"
 		color1 = "white"
@@ -58,31 +58,12 @@ k_hudsonia = {
 		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
 	}
 	colored_emblem = {
-		texture = "ce_beaver_rampant.dds"
-		color1 = "brown"
+		texture = "ce_beaver_armed.dds"
+		color1 = "black"
 		color2 = "yellow"
-		instance = { position = { 0.45 0.45 } scale = { -0.4 0.5 }  }
+		instance = { position = { 0.5 0.5 } scale = { 0.7 0.7 }  }
 	}
 
-}
-
-k_hudsonia_new = {
-	pattern = "pattern_vertical_split_01.dds"
-	color1 = "white"
-	color2 = "orange"
-	
-	colored_emblem = {
-		texture = "ce_beaver_rampant.dds"
-		color1 = "blue"
-		color2 = "blue"
-		instance = { position = { 0.225 0.4 } scale = { -0.45 0.6 }  }
-	}
-	colored_emblem = {
-		texture = "ce_beaver_rampant.dds"
-		color1 = "white"
-		color2 = "white"
-		instance = { position = { 0.775 0.4 } scale = { 0.45 0.6 }  }
-	}
 }
 
 k_hudsonia_americanist = {
@@ -130,8 +111,8 @@ k_new_york = {
 	}
 	colored_emblem = {
 		texture = "ce_ordinary_saltire_5.dds"
-		color1 = "orange"
-		color2 = "orange"
+		color1 = hsv {		0.064 	0.75 	0.8 	}
+		color2 = hsv {		0.064 	0.75 	0.8 	}
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
 	}
 	colored_emblem = {
@@ -248,8 +229,8 @@ k_new_jersey = {
 		color1 = "yellow"
 		color2 = "white"
 		instance = { position = { 0.5 0.25 } scale = { 0.5 0.4 }  }
-		instance = { position = { 0.5 0.45 } scale = { 0.5 0.4 }  }
-		instance = { position = { 0.5 0.65 } scale = { 0.5 0.4 }  }
+		instance = { position = { 0.5 0.45 } scale = { 0.45 0.4 }  }
+		instance = { position = { 0.5 0.65 } scale = { 0.4 0.4 }  }
 	}
 	colored_emblem = {
 		texture = "ce_border_shield.dds"
