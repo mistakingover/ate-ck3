@@ -1,26 +1,29 @@
 e_grand_virginia = {
-k_tennessee = {}
-k_west_virginia = {}
-k_appalachia = {}
-k_appalachia_stars = {}
-k_old_dominion = {}
-k_booneland = {}
-k_booneland_bluegrass = {}
+	k_tennessee = {}
+	k_west_virginia = {}
+	k_appalachia = {}
+	k_appalachia_stars = {}
+	k_old_dominion = {}
+	k_booneland = {}
+	k_booneland_bluegrass = {}
 }
 e_gulfcoast = {
-k_louisiana = {}
-k_florida = {}
+	k_louisiana = {}
+	k_florida = {}
 }
 
 e_dixie = {
-k_georgia = {}
-k_tuskegee = {}
-k_tuskegee_dixie = {}
-k_palmetto = {}
-k_tarheel = {}
-k_tarheel_river = {}
-k_magnolia = {}
-k_magnolia_dixie = {}
+	k_georgia = {}
+	k_tuskegee = {}
+	k_tuskegee_alabama = {}
+	k_palmetto = {}
+	k_tarheel = {}
+	k_tarheel_river = {}
+	k_magnolia = {}
+	
 }
 
-e_dixie_dixie = {}
+e_dixie_dixie = {
+	k_magnolia_dixie = {}
+	k_tuskegee_dixie = {}
+}

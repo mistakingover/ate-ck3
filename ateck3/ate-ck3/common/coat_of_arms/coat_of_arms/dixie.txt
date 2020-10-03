@@ -80,6 +80,48 @@ k_georgia = {
 		instance = { position = { 0.7 0.5 } scale = { 0.4 0.4 } }
 	}
 }
+
+k_tuskegee = {
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "blue"
+	color2 = "blue"
+	
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 1 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_per_bend_nebuly.dds"
+		color1 = "blue"
+		color2 = "yellow"
+		mask = {1}
+		instance = { position = { 0.5 0.25 } scale = { 1 1 } rotation = -45 }
+	}
+	colored_emblem = {
+		texture = "ce_per_bend_nebuly.dds"
+		color1 = "yellow"
+		color2 = "blue"
+		mask = {2}
+		instance = { position = { 0.5 0.75 } scale = { 1 1 } rotation = -45 }
+	}
+	
+	colored_emblem = {
+		texture = "ce_cougar.dds"
+		color1 = "black"
+		color2 = "red"
+		instance = { position = { 0.5 0.5 } scale = { 0.675 0.65 } }
+	}
+	
+	colored_emblem = {
+		texture = "ce_mongol_flame.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.225 0.41 } scale = { 0.35 0.2 } rotation = -90 }
+	}
+}
+
 k_tuskegee_dixie = {
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -116,7 +158,7 @@ k_tuskegee_dixie = {
 	}
 }
 
-k_tuskegee = {
+k_tuskegee_alabama = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
