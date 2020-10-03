@@ -28,6 +28,13 @@ e_grand_virginia = { #turkey
 		mask = { 1 }
 		instance = { position = { 0.5 0.5 } scale = { 0.7 0.7 }  }
 	}
+	
+	colored_emblem = {
+		texture = "ce_crown_head.dds"
+		color1 = "white"
+		color2 = "red"
+		instance = { position = { 0.5 0.275 } scale = { 0.125 0.15 }  }
+	}
 }
 k_tennessee = {
 	pattern = "pattern_solid.dds"
