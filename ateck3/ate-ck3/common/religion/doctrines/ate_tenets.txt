@@ -1,4 +1,4 @@
-doctrine_core_tenets = {
+﻿doctrine_core_tenets = {
 	group = "core_tenets"
 	number_of_picks = 3
 
@@ -767,7 +767,10 @@ doctrine_core_tenets = {
 		}
 		
 		is_shown = {
-			religion_tag = inca_religion
+			OR = {
+				religion_tag = inca_religion
+				religion_tag = tiwanaku_religion
+			}
 		}
 
 		parameters = {
@@ -775,11 +778,11 @@ doctrine_core_tenets = {
 		}
 		character_modifier = {
 			mountain_advantage = 5
-			mountain_attrition_mult = -0.25
+			mountain_attrition_mult = -0.1
 			desert_advantage = 5
-			desert_attrition_mult = -0.25
+			desert_attrition_mult = -0.1
 			jungle_advantage = 5
-			jungle_attrition_mult = -0.25
+			jungle_attrition_mult = -0.1
 			church_holding_build_speed = -0.1
 			church_holding_build_gold_cost = -0.1
 			church_holding_holding_build_speed = -0.1
@@ -787,6 +790,54 @@ doctrine_core_tenets = {
 		}		
 	}
 
+	tenet_pacha_ayni = {
+		icon = core_tenet_holytree
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			OR = {
+				religion_tag = inca_religion
+				religion_rag = tiwanaku_religion
+			}
+		}
+		character_modifier = {
+			county_opinion_add = 5
+			mountain_advantage = 5
+			mountain_attrition_mult = -0.25
+			forest_advantage = 5
+			forest_attrition_mult = -0.25
+			jungle_advantage = 5
+			jungle_attrition_mult = -0.25
+			build_gold_cost = 0.1
+		}		
+	}
+
+	tenet_challa = {
+		icon = core_tenet_cabal
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			OR = {
+				religion_tag = inca_religion
+				religion_tag = tiwanaku_religion
+			}
+		}
+
+		parameters = {
+			summer_festivals_active = yes
+			challa_ritual_enabled = yes
+		}
+		character_modifier = {
+			vassal_opinion = 5
+			courtier_opinion = 5
+		}		
+	}
 
 	#############################################################
 	

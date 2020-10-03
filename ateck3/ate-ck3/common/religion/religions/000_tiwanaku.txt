@@ -1,0 +1,221 @@
+﻿tiwanaku_religion = {
+	family = rf_andean
+	graphical_faith = pagan_gfx
+	doctrine = andean_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_gender_equal
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_shunned
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+
+	traits = {
+		virtues = { gregarious forgiving generous }
+		sins = { shy vengeful greedy }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_guardians_of_divinerealm" }
+		{ name = "holy_order_faithful_of_highgod" }
+		{ name = "holy_order_warriors_of_the_symbol" }
+	}
+
+	holy_order_maa = { bush_hunter }
+
+	localization = {
+		HighGodName = tiwanaku_high_god_name
+		HighGodNamePossessive = tiwanaku_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_SHE
+		HighGodHerselfHimself = CHARACTER_HERSELF
+		HighGodHerHis = CHARACTER_HERHIS_HER
+		HighGodNameAlternate = tiwanaku_high_god_name_alternate
+		HighGodNameAlternatePossessive = tiwanaku_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = tiwanaku_creator_god_name
+		CreatorNamePossessive = tiwanaku_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = tiwanaku_health_god_name
+		HealthGodNamePossessive = tiwanaku_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = tiwanaku_fertility_god_name
+		FertilityGodNamePossessive = tiwanaku_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = tiwanaku_wealth_god_name
+		WealthGodNamePossessive = tiwanaku_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = tiwanaku_household_god_name
+		HouseholdGodNamePossessive = tiwanaku_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = tiwanaku_fate_god_name
+		FateGodNamePossessive = tiwanaku_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_HE
+		FateGodHerHis = CHARACTER_HERHIS_HIS
+		FateGodHerHim = CHARACTER_HERHIM_HIM
+
+		#KnowledgeGod
+		KnowledgeGodName = tiwanaku_knowledge_god_name
+		KnowledgeGodNamePossessive = tiwanaku_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = tiwanaku_war_god_name
+		WarGodNamePossessive = tiwanaku_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = tiwanaku_trickster_god_name
+		TricksterGodNamePossessive = tiwanaku_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = tiwanaku_night_god_name
+		NightGodNamePossessive = tiwanaku_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_SHE
+		NightGodHerHis = CHARACTER_HERHIS_HER
+		NightGodHerHim = CHARACTER_HERHIM_HER
+
+		#WaterGod
+		WaterGodName = tiwanaku_water_god_name
+		WaterGodNamePossessive = tiwanaku_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		GoodGodNames = { 
+			tiwanaku_high_god_name 
+			tiwanaku_high_god_name_alternate 
+			tiwanaku_health_god_name 
+			tiwanaku_fertility_god_name 
+			tiwanaku_wealth_god_name 
+			tiwanaku_household_god_name 
+			tiwanaku_knowledge_god_name 
+			tiwanaku_war_god_name 
+			tiwanaku_night_god_name 
+		}
+		PantheonTerm = tiwanaku_pantheon
+		PantheonTerm = pantheon_term_have
+		DevilName = tiwanaku_devil_name
+		DevilNamePossessive = tiwanaku_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HERSELFHIMSELF_HIMSELF
+		EvilGodNames = { tiwanaku_devil_name }
+		HouseOfWorship = tiwanaku_house_of_worship
+		HouseOfWorshipPlural = tiwanaku_house_of_worship_plural
+		ReligiousSymbol = tiwanaku_religious_symbol
+		ReligiousText = tiwanaku_religious_text
+		ReligiousHeadName = tiwanaku_religious_head_title
+		ReligiousHeadTitleName = tiwanaku_religious_head_title_name
+		DevoteeMale = tiwanaku_devotee
+		DevoteeMalePlural = tiwanaku_devoteeplural
+		DevoteeFemale = tiwanaku_devotee
+		DevoteeFemalePlural = tiwanaku_devoteeplural
+		DevoteeNeuter = tiwanaku_devotee
+		DevoteeNeuterPlural = tiwanaku_devoteeplural
+		PriestMale = tiwanaku_priest
+		PriestMalePlural = tiwanaku_priest_plural
+		PriestFemale = tiwanaku_priest
+		PriestFemalePlural = tiwanaku_priest_plural
+		PriestNeuter = tiwanaku_priest
+		PriestNeuterPlural = tiwanaku_priest_plural
+		AltPriestTermPlural = tiwanaku_priest_plural
+		BishopMale = tiwanaku_priest
+		BishopMalePlural = tiwanaku_priest_plural
+		BishopFemale = tiwanaku_priest
+		BishopFemalePlural = tiwanaku_priest_plural
+		BishopNeuter = tiwanaku_priest
+		BishopNeuterPlural = tiwanaku_priest_plural
+		DivineRealm = tiwanaku_divine_realm
+		PositiveAfterLife = tiwanaku_positive_afterlife
+		NegativeAfterLife = tiwanaku_negative_afterlife
+		DeathDeityName = tiwanaku_death_name
+		DeathDeityNamePossessive = tiwanaku_death_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERHIS_ITS
+		WitchGodName = witchgodname_tiwanaku
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+
+	faiths = {
+		pachamama_religion = {
+			color = hsv { 0.04 0.75 0.17 }
+			icon = pachamama
+
+			#holy_site = trinidad
+			#holy_site = ciudad_bolivar
+			#holy_site = caracas
+			#holy_site = yaracui
+			#holy_site = san_juan
+
+			#Special Doctrines
+			doctrine = special_doctrine_earth_mother
+
+			doctrine = tenet_pacha_ayni
+			doctrine = tenet_challa
+			doctrine = tenet_pacifism
+
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_pluralism_pluralistic
+
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+	
+
+		}	
+	}
+}

@@ -5,6 +5,13 @@ special_tolerance = {
 		always = no # Goes away when creating a new Faith
 	}
 
+	special_doctrine_earth_mother = {
+		parameters = {
+			hostility_override_special_doctrine_earth_mother = 1
+			hostility_override_special_doctrine_naked_priests = 1
+		}
+	}
+
 	special_doctrine_crown_of_the_andes = {
 		parameters = {
 			hostility_same_family = 1
