@@ -19,7 +19,7 @@ k_alaska = {
 	}
 }
 
-e_canada = {
+e_canada_smaller = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -28,6 +28,33 @@ e_canada = {
 		color1 = "red"
 		color2 = "yellow"
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+}
+
+e_canada = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "white"
+	sub = {
+		parent = "e_canada_smaller"
+		instance = { offset = { 0.1 0.5 } scale = { 0.8 0.5 }  }
+	}
+	
+	sub = {
+		parent = "k_england_norman"
+		instance = { offset = { 0.0 0.0 } scale = { 0.5 0.25 }  }
+	}
+	sub = {
+		parent = "k_scotland"
+		instance = { offset = { 0.5 0.0 } scale = { 0.5 0.25 }  }
+	}
+	sub = {
+		parent = "k_ireland"
+		instance = { offset = { 0.0 0.25 } scale = { 0.5 0.25 }  }
+	}
+	sub = {
+		parent = "e_france"
+		instance = { offset = { 0.5 0.25 } scale = { 0.5 0.25 }  }
 	}
 }
 
@@ -957,5 +984,91 @@ k_lincoln = {
 		color1 = "yellow"
 		color2 = "yellow"
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 }  }
+	}
+}
+
+k_big_sky = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"
+	
+	colored_emblem = {
+		texture = "ce_ordinary_pile_03_inverted.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.3 0.55 } scale = { 0.8 0.8 }  }
+		instance = { position = { 0.7 0.55 } scale = { 0.8 0.8 }  }
+	}
+	colored_emblem = {
+		texture = "ce_ordinary_pile_03_inverted.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.3 0.6 } scale = { 0.7 0.7 }  }
+		instance = { position = { 0.7 0.6 } scale = { 0.7 0.7 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "yellow_light"
+		color2 = "yellow_light"
+		instance = { position = { 0.5 0.33 } scale = { 0.6 0.6 }  }
+	}
+}
+k_lakotah = {
+	pattern = "pattern_solid.dds"
+	color1 = "red"
+	color2 = "red"
+	
+	colored_emblem = {
+		texture = "ce_lakotah_circle.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 0.7 0.7 }  }
+	}
+}
+k_lakotah_americanist = {
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "blue"
+	color2 = "blue"
+	
+	colored_emblem = {
+		texture = "ce_sun_india.dds"
+		color1 = "yellow_light"
+		color2 = "yellow_light"
+		mask = { 1 }
+		instance = { position = { 0.5 0.5 } scale = { 1.2 1.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_mask.dds"
+		color1 = "blue"
+		color2 = "blue"
+		mask = { 1 }
+		instance = { position = { 0.5 0.5 } scale = { 0.7 0.7 }  }
+	}
+	colored_emblem = {
+		texture = "ce_stars_13.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		mask = { 1 }
+		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 }  }
+		instance = { position = { 0.5 0.5 } scale = { 0.55 0.55 }  }
+	}
+	colored_emblem = {
+		texture = "ce_motto_banner.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
+	}
+	colored_emblem = {
+		texture = "ce_motto_banner.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 }  }
+	}
+	colored_emblem = {
+		texture = "ce_eagle_american_bald.dds"
+		color1 = "brown"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.66 } scale = { 0.6 0.6 }  }
 	}
 }
