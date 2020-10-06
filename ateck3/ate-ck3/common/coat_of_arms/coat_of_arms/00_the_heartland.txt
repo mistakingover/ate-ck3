@@ -1,5 +1,5 @@
 
-e_heartland = {
+e_heartland = {  #credit to Null
     pattern = "pattern_tricolor_bend_01.dds"
     color1 = "blue"
     color2 = "white"
@@ -8,8 +8,9 @@ e_heartland = {
     colored_emblem = {
         texture = "ce_crown.dds"
         color1 = "yellow"
-        color2 = "green_light"
-        instance = { position = { 0.75 0.25 } scale = { 0.35 0.35 }  }
+        color2 = "green"
+        instance = { position = { 0.75 0.15 } scale = { 0.25 0.25 }  }
+        instance = { position = { 0.75 0.3 } scale = { 0.25 0.25 }  }
     }
     colored_emblem = {
         texture = "ce_grain.dds"
@@ -42,8 +43,8 @@ k_iowa = {
 		color1 = "blue"
 		color2 = "blue"
 		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
-		instance = { position = { 0.54 0.55 } scale = { 0.4 0.4 }  }
-		instance = { position = { 0.45 0.6 } scale = { 0.35 0.35 }  }
+		instance = { position = { 0.5 0.55 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.5 0.6 } scale = { 0.35 0.35 }  }
 	}
 	colored_emblem = {
 		texture = "ce_eagle_american_bald_flying.dds"

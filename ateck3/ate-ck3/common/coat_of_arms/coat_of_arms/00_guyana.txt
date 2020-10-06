@@ -1,0 +1,82 @@
+
+e_guyana = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_guyana_lilypad.dds"
+		color1 = "green"
+		color2 = "red"
+		#color3 = rgb { 255 255 255 }
+		instance = { position = { 0.5 0.33 } scale = { 1.0 1.1 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_04.dds"
+		color1 = "blue_light"
+		color2 = "blue_light"
+		instance = { position = { 0.5 0.66 } scale = { 1.2 1.2 }  }
+	}
+}
+k_fr_guiana = {
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "blue"
+	color2 = "red"
+	color3 = "green_light"
+	colored_emblem = {
+		texture = "ce_lotus_flower.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.33 0.70 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.66 0.70 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.50 0.80 } scale = { 0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_ship_mast.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { position = { 0.5 0.5 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_fleur.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.2 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.25 0.2 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.75 0.2 } scale = { 0.25 0.25 }  }
+	}
+}
+k_suriname = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_waves_02.dds"
+		color1 = "white"
+		color2 = "blue"
+		instance = { position = { 0.25 0.5 } scale = { 0.5 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_02.dds"
+		color1 = "green"
+		color2 = "white"
+		instance = { position = { 0.75 0.5 } scale = { 0.5 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "green"
+		color2 = "white"
+		instance = { position = { 0.75 0.775 } scale = { 0.5 0.45 }  }
+	}
+	colored_emblem = {
+		texture = "ce_palm_tree.dds"
+		color1 = "green"
+		color2 = "white"
+		instance = { position = { 0.75 0.35 } scale = { 0.5 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_ship_lymphad.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.25 0.35 } scale = { 0.5 0.6 }  }
+	}
+}
