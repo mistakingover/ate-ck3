@@ -1,6 +1,7 @@
 ﻿l_english:
  doctrine_protestant_tolerance:0 "Special Tolerance"
  doctrine_catholic_tolerance:0 "Special Tolerance"
+ doctrine_mormon_tolerance:0 "Special Tolerance"
  special_doctrine_latin_rite_name:0 "Latin Rite"
  special_doctrine_latin_rite_desc:0 "Our faith directly descends from the ancient Church of Saint Peter. We respect other Christians who have similarly ancient origins - or who can trace their heritage back to us."
  doctrine_parameter_hostility_override_special_doctrine_latin_rite:0 "Considers [faiths|E] with the Latin Rite doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
@@ -19,6 +20,12 @@
  special_doctrine_juju_desc:0 "Our practices are strange and alarming to some, but they are ultimately done in service of familiar powers."
  doctrine_parameter_hostility_override_special_doctrine_juju:0 "Considers [faiths|E] with the Juju doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  doctrine_parameter_hostility_override_special_doctrine_protestant_heritage:0 "Considers [faiths|E] with the Protestant Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ special_doctrine_latter_day_saints_name:0 "Latter-Day Saints"
+ special_doctrine_latter_day_saints_desc:0 "We trace our spiritual heritage back to Joseph Smith and the divine revelation he received from the golden plates. Our unique views have caused other Christians to view us with disdain, meaning that those who accept Smith's teachings must retain good relations."
+ doctrine_parameter_hostility_override_special_doctrine_latter_day_saints:0 "Considers [faiths|E] with the Latter-Day Saints doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ special_doctrine_original_church_name:0 "Original Church"
+ special_doctrine_original_church_desc:0 "Although we trace our spiritual heritage back to Joseph Smith and the golden plates, we have also gone to great lengths to maintain harmony with our fellow Christians. These efforts have paid off, for the most part."
+ doctrine_parameter_hostility_override_special_doctrine_original_church:0 "Considers [faiths|E] with the Original Church doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
 
  tenet_sola_scriptura_name:0 "Sola Scriptura"
  tenet_prima_scriptura:0 "Prima Scriptura"
@@ -52,6 +59,10 @@
  doctrine_baptism_believers_name:0 "Believer's Baptism"
  doctrine_baptism_believers_desc:0 "Baptism is only for those who have professed their faith in Christ."
 
-
  doctrine_parameter_lay_on_hands_enabled:0 "May Lay on Hands on the sick and wounded, receiving [piety|E]. If they survive, increases the faith's [fervor|E]."
  doctrine_parameter_deliverance_ministry_enabled:0 "May enact a deliverance ministry on Possessed people."
+ 
+ tenet_mission_service_name:0 "Mission Service"
+ tenet_mission_service_desc:0 "Our faith expects every young man to spend time preaching the faith to nonbelievers. When done right, this can cause huge numbers of people to join our flock very quickly."
+ tenet_doctrine_and_covenants_name:0 "Doctrine and Covenants"
+ tenet_doctrine_and_covenants_desc:0 "Our faith continually updates our doctrine and covenants, creating a large and codified body of practices which are unique to our faith."

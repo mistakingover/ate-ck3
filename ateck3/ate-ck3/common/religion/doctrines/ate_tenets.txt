@@ -741,6 +741,61 @@
 			sins = { possessed = 2 }
 		}
 	}
+	
+	tenet_mission_service = {
+		icon = core_tenet_missionary
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+		
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_hedonistic_trigger
+				NOT = { flag:tenet_hedonistic = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+			pilgrimage_decision_active = yes
+		}
+		traits = {
+			virtues = { diligent }
+			sins = { lazy }
+		}
+	}
+	
+	tenet_doctrine_and_covenants = {
+		icon = core_tenet_bigbook
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+		
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		can_pick = {
+			always = yes
+		}
+		
+		traits = {
+			virtues = { diligent }
+			sins = { lazy }
+		}
+		
+		character_modifier = {
+			monthly_learning_lifestyle_xp_gain_mult = 0.2
+		}
+	}
 
 
 	tenet_fragments_of_inkarri = {
