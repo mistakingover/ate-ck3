@@ -4,11 +4,48 @@ e_brazil_rep = {}
 
 e_veracruz = {
 
-	k_minas = {}
+	k_minas = {
+		d_belzonte = {}
+		d_alto_medio = {}
+		d_paracatu = {}
+		d_barreiro_grande = {}
+		d_piranga = {}
+		d_ferroquadro = {}
+		d_divinopolis = {}
+		d_guarapiranga = {}
+		d_paraibuna = {}
+		d_serra_da_noruega = {}
+		d_serra_do_cipo = {}
+		d_serra_dos_aimores = {}
+		d_caparao = {}
+		d_tormenta = {}
+		d_vale_do_aco = {}
+		d_vale_do_rio_doce = {}
+		d_vale_do_jequitinhonha = {}
+		d_verde_grande = {}
+		d_serra_nova = {}
+		d_vertentes = {}
+		d_aguas_virt = {}
+	
+	}
 	k_triangle = {}
 
 	k_sao_paulo = {
 		d_grande_sao_paulo = {}
+		d_alto_paraiba = {}
+		d_santos = {}
+		d_campinas = {}
+		d_mogi = {}
+		d_piracicaba = {}
+		d_medio_tiete = {}
+		d_sorocaba = {}
+		d_itapeva = {}
+		d_rio_pardo = {}
+		d_rio_preto = {}
+		d_alto_pontal = {}
+		d_marilia = {}
+		d_aracatuba = {}
+		d_ribeira = {}
 	}
 	k_sao_paulo_imperial = {}##remove when we add dynamic flags
 	k_santos = {}
