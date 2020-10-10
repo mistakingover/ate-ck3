@@ -28,7 +28,11 @@ e_veracruz = {
 		d_aguas_virt = {}
 	
 	}
-	k_triangle = {}
+	k_triangle = {
+		d_uberlands = {}
+		d_araxas = {}
+		d_pontal_da_prata = {}
+	}
 
 	k_sao_paulo = {
 		d_grande_sao_paulo = {}
@@ -51,53 +55,178 @@ e_veracruz = {
 	k_santos = {}
 	k_paulistano = {}
 	
-	k_fluminense = {}
+	k_fluminense = {
+		d_grande_rio = {}
+		d_costa_do_sol = {}
+		d_costa_verde = {}
+		d_goytacazia = {}
+		d_medio_paraiba = {}
+		d_serra_dos_orgaos = {}
+	}
 	k_fluminense_imperial = {}##remove when we add dynamic flags
 	
-	k_espirito_santo = {}
+	k_espirito_santo = {
+		d_costa_capixaba = {}
+		d_pomerania = {}
+		d_soorotema = {}
+	}
 	k_espirito_santo_imperial = {}##remove when we add dynamic flags
 
 }
 
 e_sulista = 
 {
-	k_parana = {}
-	k_santa_catarina = {}
-	k_rio_grande_do_sul = {}
+	k_parana = {
+		d_curitiba = {}
+		d_guayra = {}
+		d_nova_rutenia = {}
+		d_paranapanema = {}
+		d_vale_do_iguacu = {}
+		
+	}
+	k_santa_catarina = {
+		d_ararangua = {}
+		d_constestado = {}
+		d_greater_florianopolis = {}
+		d_lages = {}
+		d_passo_do_principe = {}
+		d_vale_do_itajai = {}
+	}
+	k_rio_grande_do_sul = {
+		d_porto_alegre = {}
+		d_alto_uruguai = {}
+		d_arapei = {}
+		d_boca_do_monte = {}
+		d_campanha = {}
+		d_campos_de_vacaria = {}
+		d_costa_doce = {}
+		d_coxilhas = {}
+		d_missoes = {}
+		d_tapes = {}
+		d_vale_do_rio_pardo = {}
+		
+		
+	
+	}
 }
 
 e_bahia =
 {
-	k_salvador = {}
-	k_ilheus = {}
+	k_salvador = {
+		d_paraguacu = {}
+		d_angelim = {}
+		d_capivari = {}
+		d_jeremoabo = {}
+		d_rio_real = {}
+		d_sergipe = {}
+
+	}
+	k_ilheus = {
+		d_tres_bracos = {}
+		d_diamantina = {}
+		d_porto_seguro = {}
+		d_valenca = {}
+	}
 	k_ilheus_imperial = {}##remove when we add dynamic flags
-	k_sao_francisco = {}
+	k_sao_francisco = {
+		d_brumado = {}
+		d_barreiras = {}
+		d_carinhanha = {}
+		d_lapa = {}
+		d_macaubas = {}
+		d_rio_grande = {}
+		d_santa_maria = {}
+		d_sobrado = {}
+	}
 }
 
 e_nordeste =
 {
-	k_ceara = {}
+	k_ceara = {
+		d_morro_branco = {}
+		d_ibiapaba = {}
+		d_jaguaribe = {}
+	}
 	k_ceara_imperial = {}
-	k_cabo_norte = {}
-	k_maranhao = {}
-	k_pernambuco = {}
-	k_piaui = {}
+	k_cabo_norte = {
+		d_paraiba = {}
+		d_itamaraca = {}
+		d_leste_potiguar = {}
+		d_sertao_potiguar = {}
+	}
+	k_maranhao = {
+		d_lencois = {}
+		d_gurupi = {}
+		d_itapecuru = {}
+		d_mearim = {}
+		d_parnaiba_poente = {}
+		d_porto_franco = {}
+	}
+	k_pernambuco = {
+		d_recife = {}
+		d_alagoas = {}
+		d_capibaribe = {}
+		d_fernando_de_noronha = {}
+		d_francisca = {}
+		d_sertao_pernambucano = {}
+	}
+	k_piaui = {
+		d_teresina = {}
+		d_alto_parnaiba = {}
+		d_baixo_parnaiba = {}
+		d_medio_parnaiba = {}
+	}
 }
 
 e_amazonia = 
 {
-	k_amazonas = {}
+	k_amazonas = {
+		d_manaus = {}
+		d_aironia = {}
+		d_copea = {}
+		d_igarape_mamoria = {}
+		d_itacotiara = {}
+		d_roraima = {}
+		d_the_dogs_head = {}
+		d_vale_do_bia = {}
+		d_vale_do_javari = {}
+	}
 	k_amazonas_imperial = {}##remove when we add dynamic flags
-	k_para = {}
-	k_acre = {}
+	k_acre = {
+		d_lesser_acre = {}
+		d_taumaturgia = {}
+	}
+	k_para = {
+		d_belem = {}
+		d_altamira = {}
+		d_carajas = {}
+		d_marajo = {}
+		d_pamboapy = {}
+		d_tapajos = {}
+		d_tucuria = {}
+	}
 	k_amapa = {}
 	k_roraima = {}
 }
 
 e_cerrado = 
 {
-	k_mato_grosso = {}
+	k_mato_grosso = {
+			d_guimarania = {}
+			d_barra_das_garcas = {}
+			d_guapore = {}
+			d_maracaju = {}
+			d_pantanal = {}
+			d_sinopia = {}
+	}
 	k_mato_grosso_imperial = {}##remove when we add dynamic flags
-	k_goias = {}
+	k_goias = {
+			d_the_district = {}
+			d_araguaia = {}
+			d_catalonia = {}
+			d_planalto_central = {}
+			d_rio_verde = {}
+			d_tocantins = {}
+	}
 	k_goias_imperial = {}##remove when we add dynamic flags
 }
