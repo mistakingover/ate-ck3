@@ -894,6 +894,24 @@
 		}		
 	}
 
+	tenet_crop_circles = {
+		icon = core_tenet_cabal
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = astronomer
+		}
+
+		parameters = {
+			construct_crop_circles_enabled = yes
+			mendicant_preachers_conversion_active = yes
+		}		
+	}
+
+
 	#############################################################
 	
 	tenet_aniconism = {
