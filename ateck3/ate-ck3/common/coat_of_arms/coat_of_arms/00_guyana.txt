@@ -1,5 +1,36 @@
 
 e_guyana = {
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "red"
+	color2 = "green_light"
+	
+	colored_emblem = {
+		texture = "ce_jaguar_shield_03.dds"
+		color1 = "yellow"
+		color2 = "blue"
+		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 }  }
+	}
+	#colored_emblem = {
+	#	texture = "ce_lotus.dds"
+	#	color1 = green
+	#	color2 = green
+	#	instance = { position = { 0.37 0.52 } scale = { 0.35 0.35 }  rotation = 350 }
+	#}
+	colored_emblem = {
+		texture = "ce_lotus_flower.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.37 0.52 } scale = { 0.35 0.35 }  rotation = 350 }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.2 0.2 } scale = { 0.3 0.3 } }
+	}
+}
+
+k_guyana = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -8,16 +39,23 @@ e_guyana = {
 		color1 = "green"
 		color2 = "red"
 		#color3 = rgb { 255 255 255 }
-		instance = { position = { 0.5 0.33 } scale = { 1.0 1.1 }  }
+		instance = { position = { 0.5 0.22 } scale = { 0.9 1.0 }  }
 	}
 	colored_emblem = {
 		texture = "ce_waves_04.dds"
 		color1 = "blue_light"
 		color2 = "blue_light"
-		instance = { position = { 0.5 0.66 } scale = { 1.2 1.2 }  }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_canje_pheasant.dds"
+		color1 = "brown"
+		color2 = "blue_light"
+		instance = { position = { 0.5 0.75 } scale = { 0.65 0.65 }  }
 	}
 }
-k_fr_guiana = {
+
+k_cayenne = {
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "blue"
 	color2 = "red"
