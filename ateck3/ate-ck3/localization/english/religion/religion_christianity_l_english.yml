@@ -96,6 +96,13 @@
  neognostic_priest_neuter:0 "perfect"
  neognostic_priest_neuter_plural:0 "perfecti"
 
+ particularism:0 "Particularism"
+ particularism_adj:0 "Particularist"
+ particularism_adherent:0 "Particularist"
+ particularism_adherent_plural:0 "Particularists"
+ particularism_desc:0 "Particularists are descended from the once by far dominant faith of the continent, Catholicism, which was battered by the chaos and the change brought by the Event. In need of greater unity and direction than ever, the archbishops of South America brought their political differences aside and decided to unite as a Particular Catholic Church, and elected the Patriarch of South America to lead them. Originally based in Buenos Aires, the rise of other faiths has displaced the Patriarchy to Santiago. While the Particularists have maintained their catholic latin rites, folk practices such as the veneration of shrines of the tragically departed have become part of the traditional rites, as well, and belief in the influences of the restless souls and their link to God permeates society."
+
+
  ursuline:0 "Ursuline Order"
  ursuline_adj:0 "Ursuline"
  ursuline_adherent:0 "Ursuline"
@@ -119,6 +126,13 @@
  charismaticism_adherent:0 "Neo-Charismatic"
  charismaticism_adherent_plural:0 "Neo-Charismatics"
  charismaticism_desc:0 "Neo-Charismatics are not known as such because of their charm, but rather their belief that 'charismata', gifts of the Holy Spirit manifested in miracles and signs, are still available to all believers simply by baptism and faith in the Holy Spirit. Considering themselves to carry the Third Wave of the Holy Spirit beyond traditional Charismatics and Pentecostals, they too, believe in the availability of gifts including the ability to speak in tongues, miraculous healing of the cripples, gifts of prophecy and more events often considered extraordinary, but they also desire a structural renewal where apostles and prophets will lead the church to the Kingdom of God. This radical push for an Apostolic Renewal against the hierarchy of the Evangelical Convention has lead them to declare these beliefs heretical, but the Neo-Charismatic faith continues to thrive outside the jurisdiction of the Holy Columbian Confederacy."
+
+ neopentecostalism:0 "Neo-Pentecostalism"
+ neopentecostalism_adj:0 "Neo-Pentecostal"
+ neopentecostalism_adherent:0 "Neo-Pentecostal"
+ neopentecostalism_adherent_plural:0 "Neo-Pentecostals"
+ neopentecostalism_desc:0 "Neo-Pentecostals comprise the third wave of movements that have coalesced together in the belief that the gifts of the Holy Spirit, such as speaking in tongues and faith healing, are still available to those who believe in Jesus Christ as their savior. While originally part of the South American Evangelical Convention conformed by other groups, the Neo-Pentecostals rose to lead the Convention, and casted all the other denominations who denied their Apostolic Renewal as heretics."
+
 
  anglican:0 "Anglicanism"
  anglican_adj:0 "Anglican"
@@ -220,7 +234,20 @@
  apostolicism_night_god_name:0 "St. John of the Bonfire"
  apostolicism_night_god_name_possessive:0 "St. John of the Bonfire's"
  
-
+ particularism_household_god_name:0 "La Difunta Correa"
+ particularism_household_god_name_possessive:0 "La Difunta Correa's"
+ particularism_health_god_name:0 "St. Teresa of Los Andes"
+ particularism_health_god_name_possessive:0 "St. Teresa of Los Andes's"
+ particularism_wealth_god_name:0 "El Padre Hurtado"
+ particularism_wealth_god_name_possessive:0 "El Padre Hurtado's" 
+ particularism_knowledge_god_name:0 "St. Benito de Jesús"
+ particularism_knowledge_god_name_possessive:0 "St. Benito de Jesús's"
+ particularism_night_god_name:0 "Elvirita Guillén"
+ particularism_night_god_name_possessive:0 "Elvirita Guillén's"
+ particularism_trickster_god_name:0 "Émile Dubois"
+ particularism_trickster_god_name_possessive:0 "Émile Dubois's" 
+ particularism_fertility_god_name:0 "Ceferino Namuncurá"
+ particularism_fertility_god_name_possessive:0 "Ceferino Namuncurá's" 
  #insular_celtic_religious_head_title:0 "Arch-Abbot"
  #insular_celtic_religious_head_title_female: "Arch-Abbess"
  #insular_celtic_religious_head_title_name:0 "Church Council"

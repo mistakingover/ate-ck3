@@ -47,7 +47,12 @@
  tenet_spiritual_warfare_name:0 "Spiritual Warfare"
  tenet_spiritual_warfare_desc:0 "Evil spirits that lead people into the dark path are to be found everywhere. It's the duty of the faithful to deliver salvation to those who are controlled or have been misguided by them."
  tenet_lovefeasts:0 "Lovefeast Tradition"
- 
+ tenet_tithe_name:0 "Tithe"
+ tenet_tithe_desc:0 "We consider it's not only through the practical rites of our faith that we are blessed, rather, the faithful should support the faith's cause and our leaders, paying a ritual tithe."
+ tenet_hallowed_shrines_name:0 "Hallowed Shrines"
+ tenet_hallowed_shrines_desc:0 "From time to time, tragedies happen, and the souls of those who the tragedy has befallen are distinct from those who find a natural death. We believe that through shrines we can venerate and help these souls in contact with God, just as they can give us their blessing."
+
+
  FAITH_DOCTRINES_THEOLOGY:0 "Theology"
  doctrine_baptism_name:0 "Baptism"
  doctrine_baptism_none_name:0 "No Baptism"
@@ -61,7 +66,8 @@
 
  doctrine_parameter_lay_on_hands_enabled:0 "May Lay on Hands on the sick and wounded, receiving [piety|E]. If they survive, increases the faith's [fervor|E]."
  doctrine_parameter_deliverance_ministry_enabled:0 "May enact a deliverance ministry on Possessed people."
- 
+ doctrine_parameter_build_tragedy_shrine_enabled:0 "May construct a shrine to venerate a dynasty member who did not die of old age. If your capital is located in such a shrine, you can visit it sporadically as a decision."
+  
  tenet_mission_service_name:0 "Mission Service"
  tenet_mission_service_desc:0 "Our faith expects every young man to spend time preaching the faith to nonbelievers. When done right, this can cause huge numbers of people to join our flock very quickly."
  tenet_doctrine_and_covenants_name:0 "Doctrine and Covenants"

@@ -367,6 +367,92 @@
 				NightGodHerHis = CHARACTER_HERHIS_HIM
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 			}
+		}
+		particularism = {
+			color = { 0.85 0.85 0.4 }
+			icon = particularist
+			religious_head = d_patriarchy_particular
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_latin_rite
+
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_hallowed_shrines
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_columbus" coat_of_arms = "ho_knights_of_columbus" }
+				{ name = "holy_order_knights_of_peter_claver" coat_of_arms = "ho_knights_of_peter_claver"  }
+			}
+
+			localization = { # A mix of Chilean/Argentinian Saints and Blessed People with some Animitas 
+				#HealthGod
+				HealthGodName = particularism_health_god_name
+				HealthGodNamePossessive = particularism_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = particularism_fertility_god_name
+				FertilityGodNamePossessive = particularism_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = particularism_wealth_god_name
+				WealthGodNamePossessive = particularism_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = particularism_household_god_name
+				HouseholdGodNamePossessive = particularism_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = particularism_knowledge_god_name
+				KnowledgeGodNamePossessive = particularism_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = west_christian_war_god_name
+				WarGodNamePossessive = west_christian_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = particularism_trickster_god_name
+				TricksterGodNamePossessive = particularism_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGod = particularism_night_god_name
+				NightGodNamePossessive = particularism_night_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = west_christian_water_god_name
+				WaterGodNamePossessive = west_christian_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+			}
 		}				
 		neognostic = {
 			color = { 0.9 0.9 0.5 }
@@ -573,7 +659,7 @@
 			}
 		}
 		charismaticism = {
-			color = { 0.5 0.8 0.8 }
+			color = { 0.55 0.7 0.8 }
 			graphical_faith = "catholic_gfx"
 			icon = charismaticism
 						
@@ -582,6 +668,33 @@
 
 			#Tenets
 			doctrine = tenet_spiritual_warfare
+			doctrine = tenet_religious_legal_pronouncements
+			doctrine = tenet_gifts_of_the_spirit
+			
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
+				{ name = "holy_order_national_cathedral_association" coat_of_arms = "ho_national_cathedral_association"  }
+			}
+		}	
+		neopentecostalism = {
+			color = { 0.6 0.6 0.8 }
+			graphical_faith = "catholic_gfx"
+			icon = neopentecostal
+						
+			#Special Tolerance
+			doctrine = special_doctrine_protestant_heritage
+
+			#Tenets
+			doctrine = tenet_tithe
 			doctrine = tenet_religious_legal_pronouncements
 			doctrine = tenet_gifts_of_the_spirit
 			

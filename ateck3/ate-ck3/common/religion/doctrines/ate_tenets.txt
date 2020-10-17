@@ -911,6 +911,40 @@
 		}		
 	}
 
+	tenet_tithe = {
+		icon = core_tenet_handcoin
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			always = yes
+		}
+
+		character_modifier = {
+			domain_tax_same_faith_mult = 0.1
+		}		
+	}
+
+	tenet_hallowed_shrines = {
+		icon = core_tenet_followers
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			always = yes
+		}
+
+		parameters = {
+			fervor_per_holy_site = 0.05
+			pilgrimage_decision_active = yes
+			build_tragedy_shrine_enabled = yes
+		}		
+	}
+
 
 	#############################################################
 	
@@ -1447,7 +1481,10 @@
 				}				
 				triggered_desc = {
 					trigger = {
-						icon = charismaticism
+						OR = {
+							icon = charismaticism
+							icon = neopentecostal
+						}
 					}
 					desc = tenet_religious_legal_pronouncements_fivefold
 				}
