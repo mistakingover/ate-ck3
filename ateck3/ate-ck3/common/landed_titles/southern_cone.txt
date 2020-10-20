@@ -1,34 +1,116 @@
 e_la_plata = {
-	k_buenos_aires = {}
+	k_buenos_aires = {
+		d_baires = {}
+		d_azul = {}
+		d_blanca = {}
+		d_dolores = {}
+		d_junin = {}
+		d_lagunas = {}
+		d_lujan = {}
+		d_mardel = {}
+		d_plata = {}
+		d_tandil = {}
+	}
 	k_buenos_aires_2 = {}
-	k_paraguay = {}
-	k_la_pampa = {}
-	k_uruguay = {}
-	k_mesopotamia = {}
-
+	k_uruguay = {
+		d_montevideo = {}
+		d_atlantico = {}
+		d_interior = {}
+		d_litoral = {}
+	}
+	k_la_pampa = {
+		d_la_pampa = {}
+		d_patagones = {}
+		d_trenque_lauquen = {}
+	}
+	k_mesopotamia = {
+		d_enterrios = {}
+		d_corrientes = {}
+		d_misiones = {}
+	}
+	k_paraguay = {
+		d_paraguay = {}
+		d_lower_parana = {}
+		d_upper_paraguay = {}
+		d_upper_parana = {}
+	}
 }
 
 e_interior = {
-	k_cordoba = {}
-	k_cuyo = {}
-	k_gran_chaco = {}
-	k_norte_viejo = {}
+	k_cordoba = {
+		d_cordoba = {}
+		d_anejo = {}
+		d_santa_fe = {}
+		d_rosario = {}
+		}
+	k_cuyo = {
+		d_mendoza = {}
+		d_la_rioja = {}
+		d_san_juan = {}
+		d_san_luis = {}
+		}
+	k_gran_chaco = {
+		d_chaco = {}
+		d_chaco_oriental = {}
+		d_formosa = {}
+		}
+	k_norte_viejo = {
+		d_tucuman = {}
+		d_salta = {}
+		}
 	
 }
 
 e_patagonia = {
-	k_rio_negro = {}
-	k_chubut = {}
 	k_chubut_wales = {}##remove when we add dynamic flags
-	k_santa_cruz_de_patagonia = {}
-	k_falkland = {}
 	k_falkland_malvinas = {}##remove when we add dynamic flags
-	k_magallanes = {}
+	k_rio_negro = {
+		d_viedma = {}
+		d_jacobacci = {}
+ 		d_bariloche = {}
+ 		d_general_roca = {}
+ 		d_neuquen = {}
+		}
+ 	k_chubut = {
+ 		d_biedma = {}
+ 		d_escalante = {}
+ 		d_esquel = {}
+		}
+ 	k_santa_cruz_de_patagonia = {
+ 		d_santa_cruz_de_patagonia = {}
+ 		d_deseado = {}
+ 		d_lago_argentino = {}
+		}
+ 	k_falkland = {
+ 		d_falkland_islands = {}
+		}
+ 	k_magallanes = {
+ 		d_tierra_del_fuego = {}
+ 		d_aysen = {}
+ 		d_magallanes = {}
+		}
 }
 
 e_chile = {
-	k_chile = {}
-	k_araucania = {}
-	k_araucania_ayp = {}
-	k_atacama = {}
+	k_chile = {
+		d_santiago = {}
+		d_maule = {}
+		d_nuble = {}
+		d_ohiggins = {}
+		d_valparaiso = {}
+	}
+	k_araucania = {
+		d_biobio = {}
+		d_araucania = {}
+		d_los_lagos = {}
+		d_los_rios = {}
+	}
+	k_atacama = {
+		d_antofagasta = {}
+		d_huasco = {}
+		d_copiapo = {}
+		d_coquimbo = {}
+		d_choapa = {}
+		d_tarapaca = {}
+	}
 }
