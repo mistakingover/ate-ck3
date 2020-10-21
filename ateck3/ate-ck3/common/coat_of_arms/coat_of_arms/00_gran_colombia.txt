@@ -329,31 +329,7 @@ k_panama = {
 	}
 }
 
-k_ecuador = {
-    pattern = "pattern_solid.dds"
-    color1 = "blue_light"
-    color2 = "blue"
-    colored_emblem = {
-        texture = "ce_tamgha_regular_circle_frame.dds"
-        color1 = "white"
-        color2 = "white"
-        instance = { position = { 0.5 1.0 } scale = { 1.5 1.5 }  }
-    }
-    colored_emblem = {
-        texture = "ce_sun.dds"
-        color1 = "yellow_light"
-        color2 = "white"
-        instance = { position = { 0.5 0.35 } scale = { 0.5 0.5 }  }
-    }
-    colored_emblem = {
-        texture = "ce_ordinary_pile_03_inverted.dds"
-        color1 = "green"
-        color2 = "green"
-        instance = { position = { 0.25 0.8 } scale = { 1.0 1.0 }  }
-        instance = { position = { 0.5 0.75 } scale = { 1.0 1.0 }  }
-        instance = { position = { 0.75 0.8 } scale = { 1.0 1.0 }  }
-    }
-}
+
 
 ####Venezuela
 
@@ -579,3 +555,4 @@ k_bolivar = {
 		
 	}
 }
+

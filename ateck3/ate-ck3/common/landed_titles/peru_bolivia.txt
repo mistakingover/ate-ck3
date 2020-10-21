@@ -1,14 +1,60 @@
 e_bolivia = {
-	k_bolivia = {}
+	#k_bolivia = {}
 	k_bolivia_wiphala = {}
-	k_grigota = {}
+	#k_grigota = {}
+	
+	k_bolivia = {
+		d_potosi = {}
+		d_chuquisaca = {}
+		d_cochabamba = {}
+		d_la_paz = {}
+		d_yungas = {}
+	}
+	k_grigota = {
+		d_santa_cruz = {}
+		d_beni = {}
+		d_cordillera = {}
+		d_nuflo = {}
+	}
 }
 
 e_peru = {
-	k_omagua = {}
-	k_pachacamac = {}
-	k_sipan = {}
-	k_vilcabamba = {}
+	k_ecuador = {
+		d_quito = {}
+		d_cuenca = {}
+		d_galapagos = {}
+		d_guayas = {}
+		d_morona = {}
+		d_narino = {}
+		d_tungurahua = {}
+	}
+	k_omagua = {
+		d_loreto = {}
+		d_amazonas = {}
+		d_tambopata = {}
+		d_ucayali = {}
+	}
+	k_pachacamac = {
+		d_lima = {}
+		d_chanchamayo = {}
+		d_ica = {}
+		d_mantaro = {}
+	}
+	k_sipan = {
+		d_moche = {}
+		d_amotape = {}
+ 		d_ancash = {}
+ 		d_chaparri = {}
+ 		d_huanaco = {}
+	}
+ 	k_vilcabamba = {
+ 		d_choquequirao = {}
+ 		d_arequipa = {}
+ 		d_ayacucho = {}
+ 		d_puno = {}
+ 		d_vilcanota = {}
+	}
+	
 }
 
 e_peru_inca = {}
