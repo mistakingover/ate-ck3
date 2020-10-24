@@ -1,10 +1,34 @@
 e_centroamerica = {
-	k_guatemala = {}
-	k_el_salvador = {}
-	k_honduras = {}
-	k_mosquito = {}
-	k_nicaragua = {}
-	k_gran_nicoya = {}
+	#k_guatemala = {}
+	#k_el_salvador = {}
+	#k_honduras = {}
+	#k_mosquito = {}
+	#k_nicaragua = {}
+	#k_gran_nicoya = {}
+ 	k_guatemala = {
+		d_guatemala = {}
+		d_pacifico = {}
+ 		d_los_altos = {}
+ 		d_verapazes = {}
+	}
+ 	k_el_salvador = {
+ 		d_salvador = {}
+	}
+ 	k_honduras = {
+ 		d_atlantida = {}
+ 		d_altas_honduras = {}
+ 		d_colon = {}
+	}
+ 	k_mosquito = {
+ 		d_mosquito = {}
+ 		d_mosquito_norte = {}
+ 		d_las_brumas = {}
+ 		d_isla_de_san_andres = {}
+	}
+ 	k_gran_nicoya = {
+ 		d_costa_rica = {}
+ 		d_nicaragua = {}
+	}
 }
 
 e_yucatan = {

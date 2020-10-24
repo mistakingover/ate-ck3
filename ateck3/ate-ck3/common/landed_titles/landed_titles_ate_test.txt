@@ -1,0 +1,346 @@
+@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+# test titles
+d_ciudad_de_mexico = {
+	color = { 210 115 35 }
+	color2 = { 255 255 255 }
+}
+d_turks_and_caicos = {
+	color = { 110 215 35 }
+	color2 = { 255 255 255 }
+}
+e_california = {
+	color = { 15 215 50 }
+	color2 = { 255 255 255 }
+	k_gran_francisco = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_socal = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_socal_alt = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_jefferson = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_jefferson_alt = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_baja_california = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+		
+		d_baja = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_baja_sur = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_ensenada = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+	}
+	k_the_valley = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_sacramento = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+	k_death_valley = {
+		color = { 15 50 200 }
+		color2 = { 255 255 255 }
+	}
+}
+e_canada = {
+	color = { 205 20 20 }
+	color2 = { 255 255 255 }
+	
+	k_ontario = {
+		color = { 155 60 60 }
+		color2 = { 255 255 255 }
+	}
+	k_aurora = {
+		color = { 155 60 60 }
+		color2 = { 255 255 255 }
+	}
+	k_acadia = {
+		color = { 155 60 60 }
+		color2 = { 255 255 255 }
+	}
+	k_quebec = {
+		color = { 155 60 60 }
+		color2 = { 255 255 255 }
+	}
+	k_maritimes = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+		
+		d_nova_scotia = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_new_brunswick = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_prince_edward = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+	}
+}
+
+
+e_cascadia = {
+	color = { 115 200 220 }
+	color2 = { 255 255 255 }
+	
+	k_cascadia = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_vancouver = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+		
+		d_victoria = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+	}
+	k_great_coast = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_great_coast_haida = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_caledonia = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_caledonia_alt = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_lincoln = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_washington = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+	k_oregon = {
+		color = { 11 20 150 }
+		color2 = { 255 255 255 }
+	}
+}
+e_thunderland = {
+	color = { 115 100 120 }
+	color2 = { 255 255 255 }
+	k_manitoba = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_prairieland = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_big_sky = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_lakotah = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_lakotah_americanist = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+}
+e_borealia = {
+	color = { 115 100 120 }
+	color2 = { 255 255 255 }
+	k_peace = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_keewatin = {
+		color = { 15 15 50 }
+		color2 = { 255 255 255 }
+	}
+	k_great_slave = {
+		color = { 15 15 50 }
+		color2 = { 255 255 255 }
+	}
+}
+e_alaska = 
+	color = { 115 100 120 }
+	color2 = { 255 255 255 }
+	k_yukon = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_alaska = {
+		color = { 15 15 50 }
+		color2 = { 255 255 255 }
+	}	
+	k_panhandle = {
+		color = { 15 15 50 }
+		color2 = { 255 255 255 }
+	}
+}
+
+e_nunavut = {
+	color = { 15 60 160 }
+	color2 = { 255 255 255 }
+	
+	k_nunavut = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_nunavik = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_kalaalliy = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_kalaalliy_alt = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_inupiat = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+}
+
+e_rockies = {
+	color = { 15 60 160 }
+	color2 = { 255 255 255 }
+	
+	k_deseret = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_yellowstone = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_colorado = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_idaho = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_navajoland = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+}
+
+e_great_lakes = {
+	color = { 15 60 160 }
+	color2 = { 255 255 255 }
+	
+	k_michigan = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_michigan_rust_cult = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_ohio = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_chicagoland = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_chicagoland_rust_cult = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_superior = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_allegheny = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_allegheny_rust_cult = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+}
+
+e_heartland = {
+	color = { 15 60 160 }
+	color2 = { 255 255 255 }
+	
+	k_iowa = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_ozarks = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_platte = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_missouri = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+}
+
+e_arctica = {
+	color = { 15 60 160 }
+	color2 = { 255 255 255 }
+	
+	k_newfoundland = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+		d_labrador = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+	}
+	k_saguenay = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_jamesie = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+	k_cote_nord = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+	}
+}
