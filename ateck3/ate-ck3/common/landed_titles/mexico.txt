@@ -1,21 +1,82 @@
 e_mexico = {
-	k_bajio = {}
-	k_gran_chichimeca = {}
-	k_jalisco = {}
+	
+	k_bajio = {
+		d_bajio_occidente = {}
+		d_guanajuato = {}
+		d_queretaro = {}
+	}
+	k_gran_chichimeca = {
+		d_salado = {}
+		d_san_luis_potosi = {}
+		d_zacatecas = {}
+	}
+	k_jalisco = {
+		d_jalisco = {}
+		d_costalegre = {}
+		d_colima = {}
+	}
 	k_mexico = {
+		d_hidalgo = {}
+		d_huasteca = {}
+		d_edomex = {}
 		d_mexico = {}
+		d_olmeca = {}
+		d_puebla = {}
+		d_veracruz = {}
 	}
 	k_mexico_cdmx = {}
-	k_michoacan = {}
-	k_mixteca = {}
-	k_oaxaca = {}
+	k_michoacan = {
+		d_michoacan = {}
+		d_costa_grande = {}
+ 		d_tierra_caliente = {}
+	}
+ 	k_mixteca = {
+ 		d_mixteca = {}
+ 		d_costa_chica = {}
+ 		d_guerrero = {}
+	}
+ 	k_oaxaca = {	
+ 		d_oaxaca = {}
+ 		d_istmo = {}
+	}
+	
+
 }
 #c_ciudad_de_mexico = {}
 #
 e_aztlan = {
-	k_arixo = {}
-	k_sonora = {}
-	k_sinaloa = {}
-	k_sierra_madre = {}
-	k_rio_bravo = {}
+	#k_arixo = {}
+	#k_sonora = {}
+	#k_sinaloa = {}
+	#k_sierra_madre = {}
+	#k_rio_bravo = {}
+ 	k_arixo = {
+		d_gadsden = {}
+		d_arizona = {}
+ 		d_colorado_river = {}
+ 		d_mogollon = {}
+	}
+ 	k_sonora = {
+ 		d_altar = {}
+ 		d_sonora = {}
+ 		d_yaqui = {}
+	}
+ 	k_sinaloa = {
+ 		d_sinaloa = {}
+ 		d_mazatlan = {}
+ 		d_nayarit = {}
+	}
+ 	k_sierra_madre = {
+ 		d_chihuahua = {}
+ 		d_casas_altas = {}
+ 		d_durango = {}
+	}
+ 	k_rio_bravo = {
+ 		d_coahuila = {}
+ 		d_nuevo_leon = {}
+ 		d_nueva_extremadura = {}
+ 		d_tamaulipas = {}
+ 		d_rio_bravo_del_norte = {}
+	}
 }
+

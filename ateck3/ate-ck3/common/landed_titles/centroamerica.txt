@@ -32,11 +32,31 @@ e_centroamerica = {
 }
 
 e_yucatan = {
-	k_yucatan = {}
+	#k_yucatan = {}
 	k_yucatan_new = {}
-	k_chiapas = {}
-	k_peten = {}
+	#k_chiapas = {}
+	#k_peten = {}
 	k_peten_maya = {}
+	k_yucatan = {
+		d_quintana_roo = {}
+ 		d_chan_santa_cruz = {}
+ 		d_campeche = {}
+ 		d_laguna_de_terminos = {}
+ 		d_tabasco = {}
+ 		d_yucatan = {}
+ 		d_mayapan = {}
+	}
+ 	k_chiapas = {
+ 		d_zapata = {}
+ 		d_chiapas = {}
+	}
+ 	k_peten = {
+ 		d_peten = {}
+ 		d_belize = {}
+ 		d_lacandon = {}
+	}
 }
-
 e_yucatan_maya = {}
+
+
+	
