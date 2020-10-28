@@ -1,12 +1,52 @@
 e_atlantica = {
-	k_hudsonia = {}
+	#k_hudsonia = {}
 	k_hudsonia_americanist = {}
-	k_new_york = {}
+	#k_new_york = {}
 	k_new_york_americanist = {}
-	k_columbia = {}
-	k_deitscherei = {}
-	k_new_england = {}
+	#k_columbia = {}
+	#k_deitscherei = {}
+	#k_new_england = {}
 	k_new_jersey = {}
+	
+	
+	k_hudsonia = {
+		d_adirondack = {}
+		d_finger_lakes = {}
+		d_onondaga = {}
+		d_mohawk_valley = {}
+		d_hudson_valley = {}
+		d_champlain = {}
+		d_catskill = {}
+	}
+	k_new_york = {
+		d_new_york = {}
+		d_long_island = {}
+		d_north_jersey = {}
+		d_jersey = {}
+		d_connecticut = {}
+	}
+	k_columbia = { #
+		d_delaware_valley = {}
+ 		d_delmarva = {}
+ 		d_maryland = {}
+ 		d_capital = {}
+	}
+ 	k_deitscherei = {
+ 		d_coalland = {}
+ 		d_upper_susquehanna = {}
+ 		d_lower_susquehanna = {}
+	}
+ 	k_new_england = {
+ 		d_green_mountains = {}
+ 		d_massachusetts = {}
+ 		d_boston = {}
+ 		d_white_mountains = {}
+ 		d_maine = {}
+ 		d_penobscot = {}
+ 		d_aroostook = {}
+	}
+	
+	
 }
 
 e_atlantica_americanist = {}

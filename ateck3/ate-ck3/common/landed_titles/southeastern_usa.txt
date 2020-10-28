@@ -1,15 +1,52 @@
 e_grand_virginia = {
 	k_tennessee = {}
 	k_west_virginia = {}
-	k_appalachia = {}
+	k_appalachia = {
+		d_clinch = {}
+		d_cumberland = {}
+		d_east_tennessee = {}
+		d_vandalia = {}
+		d_blue_ridge = {}
+	}
 	k_appalachia_stars = {}
-	k_old_dominion = {}
-	k_booneland = {}
+	k_old_dominion = {
+		d_shenandoah = {}
+		d_piedmont = {}
+		d_tidewater = {}
+		d_southside = {}
+	}
+	k_booneland = {
+		d_bluegrass = {}
+		d_pennyrile = {}
+		d_middle_tennessee = {}
+		d_west_tennessee = {}
+		d_little_egypt = {}
+ 		d_kentuckiana = {}
+	}
 	k_booneland_bluegrass = {}
 }
+	
+	
+	
+
+
 e_gulfcoast = {
-	k_louisiana = {}
-	k_florida = {}
+	k_louisiana={ 
+ 		d_orleans = {}
+ 		d_acadiana = {}
+ 		d_alexandria = {}
+ 		d_ouachita = {}
+ 		d_west_florida = {}
+	}
+ 	k_florida = {
+ 		d_muskogee = {}
+ 		d_citriana = {}
+ 		d_mobile = {}
+ 		d_timucua = {}
+ 		d_first_coast = {}
+ 		d_suncoast = {}
+ 		d_miami = {}
+	}
 }
 
 e_dixie = {
