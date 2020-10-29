@@ -64,44 +64,6 @@ e_california = {
 		color2 = { 255 255 255 }
 	}
 }
-e_canada = {
-	color = { 205 20 20 }
-	color2 = { 255 255 255 }
-	
-	k_ontario = {
-		color = { 155 60 60 }
-		color2 = { 255 255 255 }
-	}
-	k_aurora = {
-		color = { 155 60 60 }
-		color2 = { 255 255 255 }
-	}
-	k_acadia = {
-		color = { 155 60 60 }
-		color2 = { 255 255 255 }
-	}
-	k_quebec = {
-		color = { 155 60 60 }
-		color2 = { 255 255 255 }
-	}
-	k_maritimes = {
-		color = { 15 60 160 }
-		color2 = { 255 255 255 }
-		
-		d_nova_scotia = {
-			color = { 15 60 160 }
-			color2 = { 255 255 255 }
-		}
-		d_new_brunswick = {
-			color = { 15 60 160 }
-			color2 = { 255 255 255 }
-		}
-		d_prince_edward = {
-			color = { 15 60 160 }
-			color2 = { 255 255 255 }
-		}
-	}
-}
 
 
 e_cascadia = {

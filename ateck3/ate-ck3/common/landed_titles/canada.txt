@@ -1,0 +1,36 @@
+e_canada = {
+
+	k_ontario = {
+		d_talbot = {}
+		d_golden_horseshoe = {}
+		d_huronia = {}
+		d_trent = {}
+		d_rideau = {}
+		d_madawaska = {}
+	}
+	k_aurora = {
+		d_nipissing = {}
+		d_nickel_belt = {}
+		d_algoma = {}
+		d_thunder = {}
+		d_rainy_river = {}
+	}
+
+	k_quebec = {
+		d_estrie = {}
+		d_montreal = {}
+		d_gaspesia = {}
+	}
+	k_acadia = {}##remove when we add dynamic flags
+	
+	k_maritimes = {
+		d_nova_scotia = {}
+		d_new_brunswick = {}
+		d_prince_edward_island = {}
+		d_cape_breton = {}
+		d_north_nova = {}
+		d_petitcodiac = {}
+		d_miramichi = {}
+		d_restigouche = {}
+	}
+}
