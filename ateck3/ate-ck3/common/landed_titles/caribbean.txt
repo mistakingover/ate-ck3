@@ -1,12 +1,35 @@
 e_caribbean = {
-k_cuba = {}
-k_cuba_key = {}
-k_west_indies = {}
-k_west_indies_local = {}
-k_antilles = {}
-k_hispaniola = {}
-k_hispaniola_haiti = {}
-k_hispaniola_phoenix = {}
+	k_cuba_key = {}
+	k_cuba = {
+		d_havana = {}
+		d_las_villas = {}
+		d_camaguey = {}
+		d_oriente = {}
+	}
+	k_west_indies = {
+		d_jamaica = {}
+		d_bahama = {}
+		d_grand_cayman = {}
+	}
+	k_west_indies_local = {}
+	k_antilles = {
+		color = { 15 60 160 }
+		color2 = { 255 255 255 }
+		d_french_antilles = {}
+		d_windward_isles = {}
+		d_trinidad_and_tobago = {}
+		d_leeward_isles = {}
+		d_leeward_antilles = {}
+	}
+	k_hispaniola = {
+		d_haiti = {}
+		d_tortuga = {}
+		d_santo_domingo = {}
+		d_el_cibao = {}
+		d_puerto_rico = {}
+	}
+	k_hispaniola_haiti = {}
+	k_hispaniola_phoenix = {}
 }
 
 e_seven_seas = {
