@@ -17,10 +17,47 @@ e_california = {
 	k_gran_francisco = {
 		color = { 15 50 200 }
 		color2 = { 255 255 255 }
+		
+		d_goldengate = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_east_bay = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_salinas = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_wineland = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_socal = {
 		color = { 15 50 200 }
 		color2 = { 255 255 255 }
+		d_los_angeles = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_berdoo = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_salton = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_los_padres = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_mojave = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_socal_alt = {
 		color = { 15 50 200 }
@@ -29,6 +66,23 @@ e_california = {
 	k_jefferson = {
 		color = { 15 50 200 }
 		color2 = { 255 255 255 }
+		
+		d_nevada = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_north_jefferson = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_shasta_cascade = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_redwoods = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_jefferson_alt = {
 		color = { 15 50 200 }
@@ -54,6 +108,23 @@ e_california = {
 	k_the_valley = {
 		color = { 15 50 200 }
 		color2 = { 255 255 255 }
+		
+		d_central_valley = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_kern = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_motherlode = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
+		d_north_valley = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_sacramento = {
 		color = { 15 50 200 }
@@ -62,6 +133,10 @@ e_california = {
 	k_death_valley = {
 		color = { 15 50 200 }
 		color2 = { 255 255 255 }
+		d_death_valley = {
+			color = { 15 50 200 }
+			color2 = { 255 255 255 }
+		}
 	}
 }
 
@@ -73,6 +148,23 @@ e_cascadia = {
 	k_cascadia = {
 		color = { 11 20 150 }
 		color2 = { 255 255 255 }
+		
+		d_willamette = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_portlandia = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_olympus = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_puget = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_vancouver = {
 		color = { 11 20 150 }
@@ -82,10 +174,26 @@ e_cascadia = {
 			color = { 11 20 150 }
 			color2 = { 255 255 255 }
 		}
+		d_fraser = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_up_island = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_dire_straits = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_great_coast = {
 		color = { 11 20 150 }
 		color2 = { 255 255 255 }
+		d_haida_gwaii = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_great_coast_haida = {
 		color = { 11 20 150 }
@@ -94,6 +202,22 @@ e_cascadia = {
 	k_caledonia = {
 		color = { 11 20 150 }
 		color2 = { 255 255 255 }
+		d_cariboo = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_kootenay = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_okanagan = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_omineca = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_caledonia_alt = {
 		color = { 11 20 150 }
@@ -102,6 +226,26 @@ e_cascadia = {
 	k_lincoln = {
 		color = { 11 20 150 }
 		color2 = { 255 255 255 }
+		d_colville = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_columbia_valley = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_horse_heaven = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_blue_mountains = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_clearwater = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_washington = {
 		color = { 11 20 150 }
@@ -118,24 +262,129 @@ e_thunderland = {
 	k_manitoba = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_winnipeg = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_kenora = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_parkland = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_prairieland = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_assiniboia = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_palliser = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_saskatchewan = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_chinook = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_great_bow = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_alberta = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_big_sky = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_golden_valley = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_custer = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_peck_lake = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_chouteau = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_glacier = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_deer_lodge = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_lakotah = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_minnesota = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_blue_earth = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_pembina = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_yankton = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_coteau = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_wichiyena = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_brule = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_badlands = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_sheyenne = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_bismarck = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_roosevelt = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_lakotah_americanist = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
 	}
 }
+
 e_borealia = {
 	color = { 115 100 120 }
 	color2 = { 255 255 255 }
@@ -199,25 +448,105 @@ e_rockies = {
 	color = { 15 60 160 }
 	color2 = { 255 255 255 }
 	
-	k_deseret = {
+	k_utah = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_wasatch = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_canyonlands = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_corridor = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_zions = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_box_elder = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_uintah = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_yellowstone = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_sweetwater = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_highland_springs = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_wyoming = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_beartooth = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_colorado = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_boulder = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_denver = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_pueblo = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_western_slope = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_idaho = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_west_snake = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_highdesert = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_east_snake = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_northern_basin = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
+		d_silver_bow = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_navajoland = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_hopi = {
+			color = { 11 20 150 }
+			color2 = { 255 255 255 }
+		}
 	}
 }
 
@@ -228,6 +557,34 @@ e_great_lakes = {
 	k_michigan = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_toledo_strip = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_detroit = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_saginaw = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_michiana = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_midmichigan = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_west_michigan = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_upnorth = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_michigan_rust_cult = {
 		color = { 15 60 160 }
@@ -236,10 +593,62 @@ e_great_lakes = {
 	k_ohio = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_ohio = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_reserve = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_maumee = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_cincy = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_miami_valley = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_upper_ohio = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_chicagoland = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_cook = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_outer_chicagoland = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_indianapolis = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_illinois = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_wabash = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_coulee = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_badgerland = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_chicagoland_rust_cult = {
 		color = { 15 60 160 }
@@ -248,10 +657,58 @@ e_great_lakes = {
 	k_superior = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_soo = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_marquette = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_copperland = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_green_bay = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_northwoods = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_superior = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_chippewa = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_arrowhead = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_twin_cities = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_allegheny = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_niagara = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_wilds = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_westsylvania = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_allegheny_rust_cult = {
 		color = { 15 60 160 }
@@ -266,18 +723,106 @@ e_heartland = {
 	k_iowa = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_driftless = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_quad_cities = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_iowa = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_moingona = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_ozarks = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_arkansas = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_turner_ward_knob = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_salem = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_arkansas_delta = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_sequoyah = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_platte = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_kansas = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_verdigris = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_chisholm = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_smoky_hills = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_nebraska = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_kickatus = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 	k_missouri = {
 		color = { 15 60 160 }
 		color2 = { 255 255 255 }
+		d_gateway = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_great_river = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_boonslick = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_lead_belt = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_twain = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_chariton = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
+		d_forgottonia = {
+			color = { 15 60 160 }
+			color2 = { 255 255 255 }
+		}
 	}
 }
 
