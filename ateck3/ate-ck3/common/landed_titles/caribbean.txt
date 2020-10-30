@@ -33,6 +33,10 @@ e_caribbean = {
 }
 
 e_seven_seas = {
-	k_grand_bermuda = {}
-	k_grand_equinox = {}
+	k_grand_bermuda = {
+		d_bermuda = {}
+	}
+	k_grand_equinox = {
+		d_equinox_isles = {}
+	}
 }

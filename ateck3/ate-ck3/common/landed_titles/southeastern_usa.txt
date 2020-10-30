@@ -50,14 +50,46 @@ e_gulfcoast = {
 }
 
 e_dixie = {
-	k_georgia = {}
-	k_tuskegee = {}
+	#k_georgia = {}
+	#k_tuskegee = {}
 	k_tuskegee_alabama = {}
-	k_palmetto = {}
-	k_tarheel = {}
+	#k_palmetto = {}
+	#k_tarheel = {}
 	k_tarheel_river = {}
-	k_magnolia = {}
+	#k_magnolia = {}
+ 	k_georgia = {
+		d_peachtree = {}
+		d_augusta = {}
+		d_savannah = {}
+		d_altamaha = {}
+		d_sowega = {}
+	}
+	k_tuskegee = { 
+		d_black_belt = {}
+		d_wiregrass = {}
+		d_birmingham = {}
+		d_nickajack = {}
+	}
+	k_palmetto = { #Potential stem duchy, placed here to avoid gaps in de jure map once formed
+		d_lowcountry = {}
+		d_midcountry = {}
+		d_santee = {}
+	}
+	k_tarheel = { #Potential stem duchy, placed here to avoid gaps in de jure map once formed
+		d_outer_banks = {}
+ 		d_inner_banks = {}
+ 		d_triangle = {}
+ 		d_piedmont_crescent = {}
+ 		d_cape_fear = {}
+	}
+ 	k_magnolia = {
+ 		d_pine_belt = {}
+ 		d_natchez = {}
+ 		d_yazoo = {}
+ 		d_chickasaw = {}
+ 		d_choctaw = {}
 	
+	}
 }
 
 e_dixie_dixie = {
