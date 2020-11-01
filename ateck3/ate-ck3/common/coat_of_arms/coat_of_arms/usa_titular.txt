@@ -40,33 +40,34 @@ e_usa_seal = {
 		color1 = "white"
 		color2 = "white"
 		colored_emblem = {
-			texture = "ce_eagle_american_bald.dds"
-			color1 = "brown"
-			color2 = "yellow"
-			instance = { position = { 0.5 0.5 } scale = { 0.65 0.65 }  }
-		}
-		colored_emblem = {
 			texture = "ce_branch.dds"
 			color1 = "green"
 			color2 = "green"
-			instance = { position = { 0.3 0.6 } scale = { -0.2 0.2 }  }
+			instance = { position = { 0.2 0.6 } scale = { -0.2 0.2 } rotation = 20  }
 		}
 		colored_emblem = {
 			texture = "ce_arrow.dds"
 			color1 = "grey"
 			color2 = "grey"
-			instance = { position = { 0.7 0.65 } scale = { 0.3 0.3 } rotation = -210  }
-		}colored_emblem = {
+			instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 130  }
+		}
+		colored_emblem = {
+			texture = "ce_eagle_american_bald.dds"
+			color1 = "brown"
+			color2 = "yellow"
+			instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }
+		}
+		colored_emblem = {
 			texture = "ce_circle_mask.dds"
 			color1 = "yellow"
 			color2 = "yellow"
-			instance = { position = { 0.5 0.2 } scale = { 0.2 0.2 }  }
+			instance = { position = { 0.5 0.13 } scale = { 0.2 0.2 }  }
 		}
 		colored_emblem = {
 			texture = "ce_star_06.dds"
 			color1 = "blue"
 			color2 = "blue"
-			instance = { position = { 0.5 0.2 } scale = { 0.2 0.2 }  }
+			instance = { position = { 0.5 0.13 } scale = { 0.2 0.2 }  }
 		}
 		
 		instance = { offset = { 0 0 } scale = { 1 1 } }
