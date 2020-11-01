@@ -565,6 +565,282 @@ colored_emblem_texture_lists = {
 			5000 = "ce_tamgha_baruun.dds"
 			5000 = "ce_tamgha_aarlud.dds"
 		}
+		
+		special_selection = {
+			trigger = {
+				#coa_brazilian_southern_trigger = yes
+				#has_faith = faith:test_faith
+				always = yes
+			}
+			50 = "ce_araucaria.dds"
+			50 = "ce_armillary_sphere_random.dds"
+			50 = "ce_bandeirante_arm.dds"
+			50 = "ce_bandeirante_vest.dds"
+			50 = "ce_tree_spade.dds"
+			100 = "ce_cougar.dds"
+			100 = "ce_jaguar_passant.dds"
+			100 = "ce_jaguar_rampant.dds"
+			25 = "ce_ostritch.dds"
+			25 = "ce_capybara.dds"
+			25 = "ce_corn.dds"
+			25 = "ce_ship_caravel.dds"
+			25 = "ce_orange.dds"
+			25 = "ce_crane.dds"
+			10 = "ce_crocodile.dds"
+			10 = "ce_jaguar_shield_03.dds"
+			10 = "ce_gate.dds"
+			10 = "ce_phoenix_02.dds"
+			10 = "ce_lightining.dds"
+			10 = "ce_eagle_imperial.dds"
+			10 = "ce_pickaxe_hammer.dds"
+			10 = "ce_horseman.dds"
+			10 = "ce_cotton.dds"
+			10 = "ce_condor.dds"
+			10 = "ce_grapes.dds"
+			10 = "ce_branch.dds"
+			10 = "ce_eagle_harpy.dds"
+			10 = "ce_snake_vertical.dds"
+			10 = "ce_cornucopia_vertical.dds"
+			10 = "ce_book_open.dds"
+			10 = "ce_caduceus_2.dds"
+			10 = "ce_fountain.dds"
+			10 = "ce_triangle_eq_random.dds"
+			10 = "ce_parrot_01.dds"
+			10 = "ce_parrot_02.dds"
+			
+			10 = "ce_mena_sun.dds"
+			10 = "ce_palm_tree.dds"
+			10 = "ce_african_fern.dds"
+			10 = "ce_bow_single.dds"
+			10 = "ce_religion_melieism.dds"
+			10 = "ce_religion_pagan_hellenic.dds"
+			10 = "ce_shield_portugal.dds"
+			10 = "ce_wildman.dds"
+			25 = "ce_bull_passant_humped.dds"
+			
+		}
+		
+		special_selection = {
+			trigger = {
+				#coa_brazilian_northern_trigger = yes
+				#has_faith = faith:test_faith
+				always = yes
+			}
+			#50 = "ce_araucaria.dds"
+			25 = "ce_armillary_sphere_random.dds"
+			25 = "ce_bandeirante_arm.dds"
+			25 = "ce_bandeirante_vest.dds"
+			25 = "ce_tree_spade.dds"
+			50 = "ce_cougar.dds"
+			50 = "ce_jaguar_passant.dds"
+			50 = "ce_jaguar_rampant.dds"
+			#25 = "ce_ostritch.dds"
+			25 = "ce_capybara.dds"
+			25 = "ce_corn.dds"
+			25 = "ce_ship_caravel.dds"
+			25 = "ce_orange.dds"
+			25 = "ce_crane.dds"
+			10 = "ce_crocodile.dds"
+			10 = "ce_jaguar_shield_03.dds"
+			#10 = "ce_gate.dds"
+			#10 = "ce_phoenix_02.dds"
+			10 = "ce_lightining.dds"
+			10 = "ce_eagle_imperial.dds"
+			10 = "ce_pickaxe_hammer.dds"
+			10 = "ce_horseman.dds"
+			10 = "ce_cotton.dds"
+			10 = "ce_condor.dds"
+			#10 = "ce_grapes.dds"
+			10 = "ce_branch.dds"
+			10 = "ce_eagle_harpy.dds"
+			10 = "ce_snake_vertical.dds"
+			10 = "ce_cornucopia_vertical.dds"
+			10 = "ce_book_open.dds"
+			10 = "ce_caduceus_2.dds"
+			#10 = "ce_fountain.dds"
+			10 = "ce_triangle_eq_random.dds"
+			50 = "ce_parrot_01.dds"
+			50 = "ce_parrot_02.dds"
+			25 = "ce_cactus_01.dds"
+			10 = "ce_pumpkin.dds"
+			10 = "ce_crab.dds"
+			10 = "ce_preaching_man.dds"
+			
+			100 = "ce_mena_sun.dds"
+			100 = "ce_palm_tree.dds"
+			25 = "ce_african_fern.dds"
+			10 = "ce_bow_single.dds"
+			10 = "ce_religion_melieism.dds"
+			10 = "ce_shield_portugal.dds"
+			10 = "ce_african_bird.dds"
+			10 = "ce_african_ceremonial_mask_02.dds"
+			10 = "ce_african_ceremonial_mask.dds"
+			25 = "ce_african_takrur.dds"
+			10 = "ce_african_gecko.dds"
+			10 = "ce_india_small_dagger.dds"
+			10 = "ce_mena_double_bow.dds"
+			10 = "ce_moors_head.dds"
+			10 = "ce_religion_pagan_westafrican.dds"
+			10 = "ce_religion_vodun.dds"
+			10 = "ce_religion_yoruba.dds"
+			25 = "ce_bull_passant_humped.dds"
+			
+		}
+		
+		special_selection = {
+			trigger = {
+				#AND = {
+				#	has_religion = religion:christian_religion
+				#	OR = {
+				#		coa_brazilian_southern_trigger = yes
+				#		coa_brazilian_northern_trigger = yes
+				#	}
+				#}
+				always = yes
+			}
+			100 = "ce_cross_order_of_christ_cross_random.dds"
+			50 = "ce_saint_virgin_mary_02.dds"
+			50 = "ce_saint_virgin_mary.dds"
+			50 = "ce_church_01.dds"
+		}
+		
+		special_selection = {
+			trigger = {
+				#coa_platinean_trigger = yes
+				always = yes
+			}
+			100 = "ce_phrygian_cap.dds"
+			100 = "ce_phrygian_cap_side.dds"
+			100 = "ce_sun_of_may_argentina.dds"
+			100 = "ce_handshake.dds"
+			100 = "ce_condor.dds"
+			
+			50 = "ce_araucaria.dds"
+			50 = "ce_sun_of_may_uruguay.dds"
+			50 = "ce_cornucopia_vertical.dds"
+			50 = "ce_eagle_harpy.dds"
+			
+			25 = "ce_horseman.dds"
+			25 = "ce_saint_virgin_mary.dds"
+			25 = "ce_corn.dds"
+			25 = "ce_capybara.dds"
+			25 = "ce_church_01.dds"
+			
+			10 = "ce_farrapo_horseman.dds"
+			10 = "ce_grapes.dds"
+			10 = "ce_tree_spade.dds"
+			10 = "ce_mapuche_guemil.dds"
+			10 = "ce_condor_california.dds"
+			10 = "ce_cotton.dds"
+			10 = "ce_cougar.dds"
+			10 = "ce_pickaxe_hammer.dds"
+			10 = "ce_penguin.dds"
+			10 = "ce_soldier.dds"
+			10 = "ce_lion_sitting.dds"
+			
+			10 = "ce_peacock_01.dds"
+			10 = "ce_palm_tree.dds"
+			25 = "ce_pomegranate.dds"
+			10 = "ce_religion_pagan_hellenic.dds"
+			10 = "ce_wildman.dds"
+			10 = "ce_dragon.dds"
+		}
+		
+		special_selection = {
+			trigger = {
+				#coa_peru_bolivian_trigger = yes
+				always = yes
+			}
+			100 = "ce_condor.dds"
+			100 = "ce_sun_of_may_argentina.dds"
+			100 = "ce_llama.dds"
+			
+			50 = "ce_cornucopia_vertical.dds"
+			50 = "ce_mapuche_guemil.dds"
+			50 = "ce_pickaxe_hammer.dds"
+			50 = "ce_cross_chakana.dds"
+			50 = "ce_cornucopia_vertical.dds"
+			
+			25 = "ce_sun_of_may_uruguay.dds"
+			25 = "ce_eagle_harpy.dds"
+			25 = "ce_cougar.dds"
+			25 = "ce_jaguar_rampant.dds"
+			25 = "ce_jaguar_passant.dds"
+			25 = "ce_tree_spade.dds"
+			
+			10 = "ce_phrygian_cap.dds"
+			10 = "ce_araucaria.dds"
+			10 = "ce_phrygian_cap_side.dds"
+			10 = "ce_corn.dds"
+			10 = "ce_horseman.dds"
+			10 = "ce_column.dds"
+			10 = "ce_condor_california.dds"
+			10 = "ce_torch.dds"
+			10 = "ce_snake_rattlesnake.dds"
+			10 = "ce_snake_half_coiled.dds"
+			10 = "ce_caduceus_2.dds"
+			10 = "ce_book_open.dds"
+			10 = "ce_branch.dds"
+			
+			10 = "ce_bull_passant_humped.dds"
+			10 = "ce_humped_bull.dds"
+			10 = "ce_molette.dds"
+			100 = "ce_mena_sun.dds"
+			10 = "ce_norse_spirals.dds"
+			10 = "ce_palm_tree.dds"
+			25 = "ce_religion_pagan_zunist.dds"
+			25 = "ce_star_16.dds"
+		}
+		
+		special_selection = {
+			trigger = {
+				#coa_grancolombian_trigger = yes
+				always = yes
+			}
+			100 = "ce_condor.dds"
+			100 = "ce_phrygian_cap.dds"
+			100 = "ce_phrygian_cap_side.dds"
+			100 = "ce_cornucopia_vertical.dds"
+			
+			50 = "ce_sun_of_may_uruguay.dds"
+			50 = "ce_sun_of_may_argentina.dds"
+			50 = "ce_torch.dds"
+			50 = "ce_jaguar_rampant.dds"
+			50 = "ce_jaguar_passant.dds"
+			50 = "ce_corn.dds"
+
+			
+			25 = "ce_caduceus_2.dds"
+			25 = "ce_book_open.dds"
+			25 = "ce_handshake.dds"
+			25 = "ce_eagle_harpy.dds"
+			25 = "ce_tree_spade.dds"
+			25 = "ce_condor_california.dds"
+
+			
+			10 = "ce_pickaxe_hammer.dds"
+			10 = "ce_horseman.dds"
+			10 = "ce_gate.dds"
+			10 = "ce_ship_caravel.dds"
+			10 = "ce_church_01.dds"
+			10 = "ce_woman_01.dds"
+			10 = "ce_woman_02.dds"
+			10 = "ce_woman_03.dds"
+
+			
+			10 = "ce_bull_passant_humped.dds"
+			10 = "ce_eastern_sun.dds"
+			10 = "ce_humped_bull.dds"
+			10 = "ce_palm_tree.dds"
+			10 = "ce_religion_custom_faith_7.dds"
+			10 = "ce_religion_magyar.dds"
+			10 = "ce_wildman.dds"
+			10 = "ce_mena_sun.dds"
+			
+
+		}
+		
+		
 	}
 	
 	# thirds that are designed to line up propely with Mena tricolours

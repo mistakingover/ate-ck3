@@ -2,22 +2,27 @@ coat_of_arms_template_lists = {
 	all = {
 		# Simple catch all
 		
-		3 = basic_charge_01
-		3 = basic_charge_01b
-		3 = basic_ordinary_01
-		3 = basic_ordinary_01_inverted
+		5 = basic_charge_01
+		5 = basic_charge_01b
+		#3 = basic_ordinary_01
+		#3 = basic_ordinary_01_inverted
 		
-		#500 = basic_charge_02
-		#50000 = basic_charge_03
-		#1 = basic_charge_04
-		#50000 = basic_charge_05
-		#3 = basic_charge_06
+		3 = basic_charge_03
+		3 = basic_charge_05
+		2 = basic_charge_07
+		2 = basic_charge_08
+		1 = basic_charge_09
+		1 = basic_charge_10
+		1 = basic_charge_11
+		1 = basic_charge_12
+		1 = basic_charge_13
+		#1 = basic_charge_13b
 		
 		# Turned off
 		#1 = basic_charge_13
 		#1 = basic_charge_13_b		
-		#1 = border_01
-		#1 = border_01_metal
+		5 = border_01
+		5 = border_01_metal
 		#1 = basic_ordinary_02
 		#1 = basic_ordinary_02_b		
 		#1 = dynasty_godwin
@@ -36,7 +41,7 @@ coat_of_arms_template_lists = {
 		# Crosses
 		special_selection = {
 			trigger = {
-				always = yes
+				always = no #yes
 			}
 			1 = basic_ordinary_cross_01
 			3 = basic_ordinary_cross_02
@@ -60,7 +65,7 @@ coat_of_arms_template_lists = {
 		# European Paganism - Single, Circle, Senester
 		special_selection = {
 			trigger = {
-				always = yes
+				always = no #yes
 			}
 			# Weights are temps
 			16000 = basic_pagan_template

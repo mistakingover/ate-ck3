@@ -26,6 +26,35 @@ color_lists = {
 		}
 		special_selection = {
 			trigger = {
+				#coa_brazilian_southern_trigger = yes
+				always = no#yes
+			}
+			20 = "red"
+			15 = "blue"
+			15 = "blue_light"
+			5 = "black"			
+			30 = "green"
+			15 = "green_light"
+			1 = "grey"
+			1 = "orange"
+			1 = "yellow_light"
+			5 = "brown"
+		}
+		special_selection = {
+			trigger = {
+				#coa_brazilian_northern_trigger = yes
+				always = no#yes
+			}
+			10 = "red"
+			10 = "blue"
+			20 = "blue_light"
+			10 = "black"			
+			15 = "green"
+			30 = "green_light"
+			5 = "brown"
+		}
+		special_selection = {
+			trigger = {
 				always = no
 			}
 			20 = "red"
@@ -179,6 +208,14 @@ color_lists = {
 	metal_colors = {
 		24 = "yellow"
 		26 = "white"
+		special_selection = {
+			trigger = {
+				#coa_brazilian_southern_trigger = yes
+				always = yes
+			}
+			35 = "yellow"
+			20 = "white"
+		}
 		special_selection = {
 			trigger = {
 				always = no
