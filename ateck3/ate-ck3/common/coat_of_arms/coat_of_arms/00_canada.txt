@@ -310,6 +310,11 @@ d_madawaska = {
 		color1="blue"
 		color2="blue"
 		instance = { position = { 0.5 0.25 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_03.dds"
+		color1="blue"
+		color2="blue"
 		instance = { position = { 0.5 0.6 } scale = { -1.0 0.6 }  }
 	}
 	colored_emblem = {
@@ -318,6 +323,23 @@ d_madawaska = {
 		color2 = "green"
 		instance = { position = { 0.25 0.48 } scale = { 0.3 0.3 }  }
 		instance = { position = { 0.75 0.72 } scale = { 0.3 0.3 }  }
+	}
+}
+d_golden_horseshoe = {
+	pattern = "pattern_vertical_split_01.dds"
+	color1 = "blue"
+	color2 = "blue"}
+	colored_emblem = {
+		texture = "ce_raccoon_rampant.dds"
+		color1="black"
+		color2="grey"
+		instance = { position = { 0.7 0.45 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_horse_shoe.dds"
+		color1="yellow"
+		color2="yellow"
+		instance = { position = { 0.3 0.45 } scale = { 0.5 0.5 }  }
 	}
 }
 
