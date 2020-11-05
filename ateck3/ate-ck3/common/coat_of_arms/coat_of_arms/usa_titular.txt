@@ -9,13 +9,6 @@ e_usa = {
 		mask = {2}
 		instance = { position = { 0.5 0.5 } scale = { 1.134 1.0 }	rotation = 90 }
 	}
-	#colored_emblem = { #five stripes
-	#	texture = "ce_vertical_stripes_01.dds"
-	#	color1 = "white"
-	#	color2 = "red"
-	#	mask = {2}
-	#	instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	#}
 }
 e_usa_coa = {
 	sub = {
@@ -94,12 +87,6 @@ e_usa_betsy_flag = {
 		color2 = "red"
 		instance = { position = { 0.5 1.0 } scale = { 1.134 1.0 }	rotation = 90 }
 	}
-	#colored_emblem = { #five stripes
-	#	texture = "ce_vertical_stripes_01.dds"
-	#	color1 = "white"
-	#	color2 = "red"
-	#	instance = { position = { 0.5 1.0 } scale = { 1.0 1.0 } }
-	#}
 	colored_emblem = {
 		texture = "ce_stars_13.dds"
 		color1 = "white"
@@ -118,13 +105,6 @@ e_usa_flag = {
 		mask = {2}
 		instance = { position = { 0.5 0.5 } scale = { 1.134 1.0 }	rotation = 90 }
 	}
-	#colored_emblem = { #five stripes
-	#	texture = "ce_vertical_stripes_01.dds"
-	#	color1 = "white"
-	#	color2 = "red"
-	#	mask = {2}
-	#	instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	#}
 	colored_emblem = {
 		texture = "ce_starry.dds"
 		color1 = "blue"
