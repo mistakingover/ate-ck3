@@ -507,11 +507,11 @@ k_idaho = {
 		instance = { position = { 0.5 0.5 } scale = { 1.0 0.5 }  }
 	}
 	colored_emblem = {
-		texture = "ce_waves_04_vertical.dds"
+		texture = "ce_waves_04.dds"
 		color1 = "white"
 		color2 = "white"
 		mask = { 2 }
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }	rotation = 90 }
 	}
 	colored_emblem = {
 		texture = "ce_cornucopia_vertical.dds"

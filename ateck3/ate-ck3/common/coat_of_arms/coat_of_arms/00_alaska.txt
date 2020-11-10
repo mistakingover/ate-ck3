@@ -52,10 +52,10 @@ k_yukon = {
 	color2 = "blue"
 	
 	colored_emblem = {
-		texture = "ce_waves_04_vertical.dds"
+		texture = "ce_waves_04"
 		color1 = "white"
 		color2 = "white"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }	rotation = 90 }
 	}
 	colored_emblem = {
 		texture = "ce_ordinary_pile_03_inverted.dds"
