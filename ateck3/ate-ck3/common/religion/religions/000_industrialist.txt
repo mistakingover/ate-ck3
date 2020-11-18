@@ -200,9 +200,9 @@
 	}	
 
 	faiths = {
-		foundryman = {
+		galvanist = {
 			color = hsv { 0.7 0.35 0.2 }
-			icon = foundryman
+			icon = galvanist
 			#no religious head title yet
 
 			doctrine = tenet_salvager
