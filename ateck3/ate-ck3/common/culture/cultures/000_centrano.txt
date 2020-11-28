@@ -1,0 +1,308 @@
+﻿centranp_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	istmeno = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+	
+		cadet_dynasty_names = {
+			"dynn_Delgado"
+			"dynn_BuitrO_n"
+			"dynn_SantamarI_a"
+			"dynn_CedeN_o"
+			"dynn_Vives"
+			"dynn_BosE_"
+			"dynn_Rey"
+			"dynn_Riascos"
+			"dynn_SolI_s"
+			"dynn_Bello"
+			"dynn_Solano"
+			"dynn_ON_ate"
+			"dynn_Tafoya"
+			"dynn_Orozco"
+			"dynn_Rossel"
+			"dynn_Triana"
+			"dynn_Arguijo"
+			"dynn_VE_lez"
+			"dynn_Caballero"
+			"dynn_TuN_O_n"
+			"dynn_Fabela"
+			"dynn_Aranda"
+			"dynn_Samaniego"
+			"dynn_Moralez"
+			"dynn_PittI_"
+			"dynn_Patarroyo"
+			"dynn_Cerrud"
+			"dynn_Camarena"
+			"dynn_del_Sol"
+			"dynn_Salazar"
+			"dynn_AraU_jo"
+			"dynn_Gibson"
+			"dynn_Sarmiento"
+			"dynn_Quintero"
+			"dynn_Chiari"
+			"dynn_BriceN_o"
+			"dynn_Arosemena"
+			"dynn_BazA_n"
+			"dynn_Boyd"
+			"dynn_Arias"
+			"dynn_Grimaldo"
+			"dynn_Trejos"
+			"dynn_Montenegro"
+			"dynn_FA_brega"
+			"dynn_Samudio"
+			"dynn_Coparropa"
+			"dynn_Britton"
+			"dynn_Atencio"
+			"dynn_Berenguer"
+			"dynn_Madrid"
+			"dynn_Hurtado"
+			"dynn_Roux"
+			"dynn_Orillac"
+			"dynn_Gaskin"
+			"dynn_Ozores"
+			"dynn_Campos"
+			"dynn_Beker"
+			"dynn_Lezcano"
+			"dynn_Alveo"
+			"dynn_FrI_as"
+			"dynn_Carpintero"
+			"dynn_Tejada"
+			"dynn_AparI_cio"
+			"dynn_Tenorio"
+			"dynn_Browne"
+			"dynn_Adames"
+			"dynn_Arcia"
+			"dynn_Mosquera"
+			"dynn_Beckford"
+			"dynn_Cobham"
+			"dynn_Montezuma"
+			"dynn_A_brego"
+			"dynn_Linares"
+			"dynn_Yau"
+			"dynn_Matamoros"
+			"dynn_Mendieta"
+			"dynn_Endara"
+			"dynn_SaldaN_a"
+			"dynn_Isaza"
+			"dynn_Beitia"
+			"dynn_Sinclair"
+			"dynn_Zambrano"
+			"dynn_Ford"
+			"dynn_Urriola"
+			"dynn_Williams"
+			"dynn_Rosales"
+			"dynn_Altamiranda"
+			"dynn_Gil"
+			"dynn_GordO_n"
+			"dynn_Quiel"
+			"dynn_MorA_n"
+			"dynn_Prado"
+			"dynn_Chiru"
+			"dynn_JaE_n"
+			"dynn_Coronado"
+			"dynn_Illueca"
+			"dynn_MirO_"
+			"dynn_Carew"
+			"dynn_Delvalle"
+			"dynn_Barahona"
+			"dynn_Ojo"
+			"dynn_SanguillE_n"
+			"dynn_Sanjur"
+			"dynn_Regueira"
+			"dynn_Cuevas"
+			"dynn_Ling"
+			"dynn_Bosquez"
+			"dynn_DurA_n"
+			"dynn_Pineda"
+			"dynn_Bejerano"
+		}
+		dynasty_names = {
+			"dynn_Delgado"
+			"dynn_BuitrO_n"
+			"dynn_SantamarI_a"
+			"dynn_CedeN_o"
+			"dynn_Vives"
+			"dynn_BosE_"
+			"dynn_Rey"
+			"dynn_Riascos"
+			"dynn_SolI_s"
+			"dynn_Bello"
+			"dynn_Solano"
+			"dynn_ON_ate"
+			"dynn_Tafoya"
+			"dynn_Orozco"
+			"dynn_Rossel"
+			"dynn_Triana"
+			"dynn_Arguijo"
+			"dynn_VE_lez"
+			"dynn_Caballero"
+			"dynn_TuN_O_n"
+			"dynn_Fabela"
+			"dynn_Aranda"
+			"dynn_Samaniego"
+			"dynn_Moralez"
+			"dynn_PittI_"
+			"dynn_Patarroyo"
+			"dynn_Cerrud"
+			"dynn_Camarena"
+			"dynn_del_Sol"
+			"dynn_Salazar"
+			"dynn_AraU_jo"
+			"dynn_Gibson"
+			"dynn_Sarmiento"
+			"dynn_Quintero"
+			"dynn_Chiari"
+			"dynn_BriceN_o"
+			"dynn_Arosemena"
+			"dynn_BazA_n"
+			"dynn_Boyd"
+			"dynn_Arias"
+			"dynn_Grimaldo"
+			"dynn_Trejos"
+			"dynn_Montenegro"
+			"dynn_FA_brega"
+			"dynn_Samudio"
+			"dynn_Coparropa"
+			"dynn_Britton"
+			"dynn_Atencio"
+			"dynn_Berenguer"
+			"dynn_Madrid"
+			"dynn_Hurtado"
+			"dynn_Roux"
+			"dynn_Orillac"
+			"dynn_Gaskin"
+			"dynn_Ozores"
+			"dynn_Campos"
+			"dynn_Beker"
+			"dynn_Lezcano"
+			"dynn_Alveo"
+			"dynn_FrI_as"
+			"dynn_Carpintero"
+			"dynn_Tejada"
+			"dynn_AparI_cio"
+			"dynn_Tenorio"
+			"dynn_Browne"
+			"dynn_Adames"
+			"dynn_Arcia"
+			"dynn_Mosquera"
+			"dynn_Beckford"
+			"dynn_Cobham"
+			"dynn_Montezuma"
+			"dynn_A_brego"
+			"dynn_Linares"
+			"dynn_Yau"
+			"dynn_Matamoros"
+			"dynn_Mendieta"
+			"dynn_Endara"
+			"dynn_SaldaN_a"
+			"dynn_Isaza"
+			"dynn_Beitia"
+			"dynn_Sinclair"
+			"dynn_Zambrano"
+			"dynn_Ford"
+			"dynn_Urriola"
+			"dynn_Williams"
+			"dynn_Rosales"
+			"dynn_Altamiranda"
+			"dynn_Gil"
+			"dynn_GordO_n"
+			"dynn_Quiel"
+			"dynn_MorA_n"
+			"dynn_Prado"
+			"dynn_Chiru"
+			"dynn_JaE_n"
+			"dynn_Coronado"
+			"dynn_Illueca"
+			"dynn_MirO_"
+			"dynn_Carew"
+			"dynn_Delvalle"
+			"dynn_Barahona"
+			"dynn_Ojo"
+			"dynn_SanguillE_n"
+			"dynn_Sanjur"
+			"dynn_Regueira"
+			"dynn_Cuevas"
+			"dynn_Ling"
+			"dynn_Bosquez"
+			"dynn_DurA_n"
+			"dynn_Pineda"
+			"dynn_Bejerano"
+		}
+		
+		male_names = {
+			Aaron Abdiel Abdul AdA_n Adelmo Adolfo Alberto Alejandro Alfonso Alfredo Allan Alonso A_lvaro AmI_lcar Amir AndrE_s A_ngel A_ngel_Luis AnI_bal Anthony Aquileo Ariel Armando Arnulfo Arsenio Arturo Azmahar
+			Bayano Belisario Benicio Bernardino Braulio Brian
+			Carlos Celestino CE_sar Chafil Clodomiro Cornelio Crispiano
+			Daniel DarI_o Darryn Darwin David Davis Demetrio Diego Domingo
+			E_dgar Edison Edmundo Edwardo Edwin ElI_as EliE_cer Enrique Eric Ernesto Escolastico Esteban Eusebio Everardo Eybir Ezequiel
+			Federico Felipe FE_lix Fernando Florencio Floyd Fortunato Francisco Franklin
+			Gabriel Gaspar Genaro Gerardo Grego Greivin Guillermo Gustavo Gustavo_Adolfo
+			Harding Harmodio Harold HE_ctor Herasto Hilario Hugo Humberto
+			Ignacio Ildefonso Irving Isidro Ismael
+			JaciA_n Jaime Jairo Javier JeremI_as JoaquI_n Joel Jonathan Jordan Jorge JosE_ JosE__Domingo JosE__Gabriel JosE__Gilberto JosE__Luis JosE__MarI_a Juan Juan_Alberto Juan_Carlos Juan_Manuel Juan_RamO_n Julio
+			Kaiser Kevin Keylor
+			Laurentino Leonardo Leopoldo Levi Luis Luis_Ernesto Luis_Rafael
+			Manuel Marcelo Marco Marco_Aurelio Mariano Marlon MartI_n Mateo Mauricio Melchor Miguel MoisE_s
+			NeftalI_ Nelson NicolA_s Nidio
+			Olmedo Omar O_scar Oziel
+			Pablo Pedrarias Pedro PE_rcival
+			Rafael Ramiro RamO_n RaU_l Reginald Reinaldo Ricardo Roberto Rodolfo Rolando RomA_n Romeo Rommel RO_mulo Ronald RubE_n
+			Salazar Samuel SaU_l Sergio SevastiA_n Severino Sherman Stuart
+			Teodorico TomA_s
+			Valeriano Vicente VI_ctor VI_ctor_Manuel Victoriano
+		}
+		female_names = {
+			Adolfa Adriana AI_da Aileen Alessandra Alicia Alina Amarelis Ana Anabela Ana_Luisa Ana_MarI_a Ana_Matilde A_ngela
+			Balbina
+			Carlota Carmen Carolina Clara Consuelo Corina
+			Diana
+			Edilma Enriqueta Erica Esmeralda Estela Esther
+			Farissa Fatima
+			Gabriela GE_nesis Georgina Giselle Gladys Gloria Graciela Gumercinda
+			Ildaura InE_s Isabella Ivette
+			Jordana
+			Karen Kendra
+			Laura LI_a Lourdes Luisa
+			MarI_a MarI_a_Alessandra MarI_a_Luisa MarI_a_Olimpia MarI_a_SofI_a Marta Matilde Mayra Melva Mercedes Mireya Miryam
+			Natalia Nicole
+			Ofelia Olga
+			Paola Patricia Petita
+			Raiza Rebeca Reina Rosa Rosa_MarI_a
+			Sandra Sara Sheldry Silvia SofI_a Sorangel Stefanie Susana
+			Tanya
+			Virginia Vivian
+			Yamilka Yanibel YazmI_n Yesenia Yomatzy
+			Zoraida Zulay
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		patronym_prefix_male = "dynnpat_pre_hijo_de"
+		patronym_prefix_female = "dynnpat_pre_hija_de"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

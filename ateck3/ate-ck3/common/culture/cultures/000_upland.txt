@@ -1,0 +1,867 @@
+﻿upland_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	appalachian = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.95 0.62 0.15 }
+	
+		cadet_dynasty_names = {
+			"dynn_Withers"
+			"dynn_Hogg"
+			"dynn_Pyle"
+			"dynn_Strate"
+			"dynn_Atkins"
+			"dynn_Bogguss"
+			"dynn_Kay"
+			"dynn_Hayward"
+			"dynn_Flatt"
+			"dynn_Scruggs"
+			"dynn_Stanley"
+			"dynn_Lewey"
+			"dynn_Busby"
+			"dynn_Fleck"
+			"dynn_York"
+			"dynn_Hay"
+			"dynn_Delmore"
+			"dynn_Dickey"
+			"dynn_Gibson"
+			"dynn_Akeman"
+			"dynn_Macon"
+			"dynn_Lyle"
+			"dynn_Smiley"
+			"dynn_Eanes"
+			"dynn_Coury"
+			"dynn_Wakefield"
+			"dynn_Grisman"
+			"dynn_Betts"
+			"dynn_Skaggs"
+			"dynn_Sparks"
+			"dynn_Clinch"
+			"dynn_Eldredge"
+			"dynn_Cherryholmes"
+			"dynn_Hart"
+			"dynn_Munde"
+			"dynn_Jarman"
+			"dynn_Holston"
+			"dynn_McPoyle"
+			"dynn_Harland"
+			"dynn_Clapp"
+			"dynn_Cope"
+			"dynn_Spiegel"
+			"dynn_Pettimore"
+			"dynn_Harris"
+			"dynn_Hatfield"
+			"dynn_McCoy"
+			"dynn_Roy"
+			"dynn_McLaren"
+			"dynn_Withrow"
+			"dynn_Inghram"
+			"dynn_Neely"
+			"dynn_Cable"
+			"dynn_Mollohan"
+			"dynn_Staggers"
+			"dynn_Murfree"
+			"dynn_Inman"
+			"dynn_Mooney"
+			"dynn_Kenna"
+			"dynn_McKinley"
+			"dynn_Revercomb"
+			"dynn_Laird"
+			"dynn_Kee"
+			"dynn_Hagans"
+			"dynn_Canady"
+			"dynn_Babbitt"
+			"dynn_Caudill"
+			"dynn_Grayson"
+			"dynn_Bracken"
+			"dynn_Offutt"
+			"dynn_Foster"
+			"dynn_Dooley"
+			"dynn_McCurry"
+			"dynn_Ashley"
+			"dynn_Lunsford"
+			"dynn_Lomax"
+			"dynn_Ramey"
+			"dynn_Stringfield"
+			"dynn_Bowman"
+			"dynn_Monroe"
+			"dynn_Connelly"
+			"dynn_Clowers"
+			"dynn_Cockerham"
+			"dynn_McCrumb"
+			"dynn_Hammons"
+			"dynn_Diller"
+			"dynn_Agee"
+			"dynn_McCumbers"
+			"dynn_Shumate"
+			"dynn_Parton"
+			"dynn_Ledford"
+			"dynn_Whitter"
+			"dynn_Tackett"
+			"dynn_Wallin"
+			"dynn_Carver"
+			"dynn_McClung"
+			"dynn_McElroy"
+			"dynn_Carson"
+			"dynn_Kinney"
+			"dynn_Kincaid"
+			"dynn_Propps"
+		}
+		dynasty_names = {
+			"dynn_Withers"
+			"dynn_Hogg"
+			"dynn_Pyle"
+			"dynn_Strate"
+			"dynn_Atkins"
+			"dynn_Bogguss"
+			"dynn_Kay"
+			"dynn_Hayward"
+			"dynn_Flatt"
+			"dynn_Scruggs"
+			"dynn_Stanley"
+			"dynn_Lewey"
+			"dynn_Busby"
+			"dynn_Fleck"
+			"dynn_York"
+			"dynn_Hay"
+			"dynn_Delmore"
+			"dynn_Dickey"
+			"dynn_Gibson"
+			"dynn_Akeman"
+			"dynn_Macon"
+			"dynn_Lyle"
+			"dynn_Smiley"
+			"dynn_Eanes"
+			"dynn_Coury"
+			"dynn_Wakefield"
+			"dynn_Grisman"
+			"dynn_Betts"
+			"dynn_Skaggs"
+			"dynn_Sparks"
+			"dynn_Clinch"
+			"dynn_Eldredge"
+			"dynn_Cherryholmes"
+			"dynn_Hart"
+			"dynn_Munde"
+			"dynn_Jarman"
+			"dynn_Holston"
+			"dynn_McPoyle"
+			"dynn_Harland"
+			"dynn_Clapp"
+			"dynn_Cope"
+			"dynn_Spiegel"
+			"dynn_Pettimore"
+			"dynn_Harris"
+			"dynn_Hatfield"
+			"dynn_McCoy"
+			"dynn_Roy"
+			"dynn_McLaren"
+			"dynn_Withrow"
+			"dynn_Inghram"
+			"dynn_Neely"
+			"dynn_Cable"
+			"dynn_Mollohan"
+			"dynn_Staggers"
+			"dynn_Murfree"
+			"dynn_Inman"
+			"dynn_Mooney"
+			"dynn_Kenna"
+			"dynn_McKinley"
+			"dynn_Revercomb"
+			"dynn_Laird"
+			"dynn_Kee"
+			"dynn_Hagans"
+			"dynn_Canady"
+			"dynn_Babbitt"
+			"dynn_Caudill"
+			"dynn_Grayson"
+			"dynn_Bracken"
+			"dynn_Offutt"
+			"dynn_Foster"
+			"dynn_Dooley"
+			"dynn_McCurry"
+			"dynn_Ashley"
+			"dynn_Lunsford"
+			"dynn_Lomax"
+			"dynn_Ramey"
+			"dynn_Stringfield"
+			"dynn_Bowman"
+			"dynn_Monroe"
+			"dynn_Connelly"
+			"dynn_Clowers"
+			"dynn_Cockerham"
+			"dynn_McCrumb"
+			"dynn_Hammons"
+			"dynn_Diller"
+			"dynn_Agee"
+			"dynn_McCumbers"
+			"dynn_Shumate"
+			"dynn_Parton"
+			"dynn_Ledford"
+			"dynn_Whitter"
+			"dynn_Tackett"
+			"dynn_Wallin"
+			"dynn_Carver"
+			"dynn_McClung"
+			"dynn_McElroy"
+			"dynn_Carson"
+			"dynn_Kinney"
+			"dynn_Kincaid"
+			"dynn_Propps"
+		}
+		
+		male_names = {
+			Alan Adam Abel Anse Asa Alvin Am
+			Buck Billy Blue Barnabas Bo Boone Bud Bethuel Bobby
+			Constantine Caiaphas Corey Chuck Carter Cain Colt Celeron Cabell Calvin Chet Cedric Clarence Corky
+			Don Del
+			Elliot Edd Ephraim Ellison Earl
+			Freddy Foster Frank Frost Freeland
+			Grover Gordon George Greg Garth Goodell Gaither
+			Howard Hamblen Haywood Huff Horace Hap Herm Hugh Hylo Hasil Homer
+			Jethro Jebediah Jedediah Jules Jeptha Jimmy Jack Jesse Jeffson Josh Jeff Jamie Johnse Jere John-Henry Jesco
+			Kenneth Kirksey
+			Larry Lance Lee Lew Lorenzo Lilburn Lester Lamar Lonnie
+			Malcolm Marvin Mark Mike Morris Merle
+			Neal Nat Nimrod
+			Paul Pete Pharmer Pliant
+			Rick Ralph Red Ronnie Ray Randy Rutherford Radford Roland Rudy Roscoe
+			Silas Simon Simms Sterling Stokely Sid Selkirk Sander
+			Tim Tweedy Tom Thorton Travis Tucker Tellico Tryon Tolbert Tennis
+			Vernon Virgil Vance Vassar
+			Woody Willie Wolf Wall
+			York
+			Zackquill
+		}
+		female_names = {
+			Alifair Alyssa Adelaide Alison Ashley Alice
+			Bertha Betty Bride Belle Brittany Becky
+			Courtnee Caroline Crystal
+			Dawn Diane Daisy Debbie
+			Ellie Eula Estelle
+			Fanny
+			Grace Gemma Gale Ginger
+			Jane Jessie Jewel Josephine Jana
+			Kay Korie
+			Lisa Linda Lottie Loretta
+			Marsha Margie Martina Mary Martha Mathilda Mailssa Molly May
+			Nancy Naomi
+			Peg Phoebe Patty Polly-Anne
+			Ruth Ruby Rosie Rose-Belle
+			Shelby Sarah_Sarah Suzy Sandy
+			Tanya Trinvilla
+			Venus
+			Wynnona
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	melungeon = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.84 0.69 0.24 }
+	
+		cadet_dynasty_names = {
+			"dynn_Bowlin"
+			"dynn_Breedlove"
+			"dynn_Barnett"
+			"dynn_Mize"
+			"dynn_Starnes"
+			"dynn_Fleenor"
+			"dynn_Elliott"
+			"dynn_Crumley"
+			"dynn_Kinsler"
+			"dynn_Denham"
+			"dynn_Gibson"
+			"dynn_Goins"
+			"dynn_Goodman"
+			"dynn_Donathan"
+			"dynn_Manis"
+			"dynn_Rayle"
+			"dynn_Mullins"
+			"dynn_Boltons"
+			"dynn_Macguffin"
+			"dynn_Collins"
+			"dynn_Williams"
+			"dynn_Moore"
+			"dynn_Perkins"
+			"dynn_Hawcock"
+			"dynn_Callahan"
+			"dynn_Eldridge"
+			"dynn_Cole"
+			"dynn_Burchett"
+			"dynn_Bell"
+			"dynn_Nichols"
+			"dynn_Trent"
+			"dynn_Hurd"
+			"dynn_Sullivan"
+			"dynn_Portygee"
+			"dynn_Minor"
+			"dynn_Menley"
+			"dynn_Morning"
+			"dynn_Riddle"
+			"dynn_Sizemore"
+			"dynn_Shumake"
+			"dynn_Dromgoole"
+			"dynn_Seal"
+			"dynn_Livesay"
+			"dynn_Hopkins"
+			"dynn_Mallett"
+			"dynn_Hankins"
+			"dynn_Drinnon"
+			"dynn_Bunch"
+			"dynn_Cowlins"
+			"dynn_Louthan"
+		}
+		dynasty_names = {
+			"dynn_Bowlin"
+			"dynn_Breedlove"
+			"dynn_Barnett"
+			"dynn_Mize"
+			"dynn_Starnes"
+			"dynn_Fleenor"
+			"dynn_Elliott"
+			"dynn_Crumley"
+			"dynn_Kinsler"
+			"dynn_Denham"
+			"dynn_Gibson"
+			"dynn_Goins"
+			"dynn_Goodman"
+			"dynn_Donathan"
+			"dynn_Manis"
+			"dynn_Rayle"
+			"dynn_Mullins"
+			"dynn_Boltons"
+			"dynn_Macguffin"
+			"dynn_Collins"
+			"dynn_Williams"
+			"dynn_Moore"
+			"dynn_Perkins"
+			"dynn_Hawcock"
+			"dynn_Callahan"
+			"dynn_Eldridge"
+			"dynn_Cole"
+			"dynn_Burchett"
+			"dynn_Bell"
+			"dynn_Nichols"
+			"dynn_Trent"
+			"dynn_Hurd"
+			"dynn_Sullivan"
+			"dynn_Portygee"
+			"dynn_Minor"
+			"dynn_Menley"
+			"dynn_Morning"
+			"dynn_Riddle"
+			"dynn_Sizemore"
+			"dynn_Shumake"
+			"dynn_Dromgoole"
+			"dynn_Seal"
+			"dynn_Livesay"
+			"dynn_Hopkins"
+			"dynn_Mallett"
+			"dynn_Hankins"
+			"dynn_Drinnon"
+			"dynn_Bunch"
+			"dynn_Cowlins"
+			"dynn_Louthan"
+		}
+		
+		male_names = {
+			Arwin Andy Adam Allen Aaron Anderson Arch
+			Benjamin Buck Bryson Brock Bartlett Boone
+			Cable Caldwell Claiborne Carter Claude Charles Crispor Corbin Cleland
+			Dominick Davis Dudley Darrell
+			Ezra Edmund Elijah Esau Embrey Even Ephraim
+			Freelin Fountain Flower
+			Kermit
+			George Gulford Green Gideon Garrett
+			Hunter Henry Harrison Hezekiah Hannibal Humble Harvey Harden
+			Isom Isaac Ishmael
+			Jackson Jacob Joshua Jesse James Jordan Joseph Joel
+			Lewis Levi Laborn Lee Lambert Luke
+			Mahom Moses Mitchell Martin Micager Mihill Miles Millenton
+			Neal Needham Ned
+			Obediah Owen
+			Paul Peter Preston Phillip
+			Ross Russell Rubin Randolph
+			Shepard Solomon Sullivan Spencer Shadrack Sterling Simpson Samuel Simeon Sherod
+			Silas Sol
+			Tucker Trotwood Thomas Timothy Turk Tandy
+			Vardy Valentine
+			Wyatt Washington
+			Zephaniah Zar Zack Zander
+		}
+		female_names = {
+			Ariela Aletha Agga Amyx Agnes Ashley
+			Becky
+			Catharine Cynthia Clabe
+			Dido Dianna Doris Druanna
+			Elizabeth Emmalee Emily
+			Flora Franky Fannie
+			Georgia Gincie
+			Hannah Heather Hazel
+			Janet Jemima Jencie Jane Judy
+			Kimber
+			Lillian Lavina Lana Lisa Lydia
+			Mahala Martha Mary Minta Millie Malena Melissa Merky
+			Penny Polly Prossa Peggy
+			Roberta Ruth Rusty Rachel
+			Sylvia Saundra Sheba Shirley Salley Sukie
+			Tammy Theda
+			Virginia Vina
+			Wanda
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 5
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 10
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	riverlander = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 1.0 0.72 0.0 }
+	
+		cadet_dynasty_names = {
+			"dynn_Allman"
+			"dynn_Jennings"
+			"dynn_Morris"
+			"dynn_Barnes"
+			"dynn_Orbison"
+			"dynn_VanZandt"
+			"dynn_Hooker"
+			"dynn_Baggett"
+			"dynn_Parker"
+			"dynn_Shelton"
+			"dynn_Darnell"
+			"dynn_Hensley"
+			"dynn_Yarbrough"
+			"dynn_Burkhart"
+			"dynn_Matlock"
+			"dynn_Groves"
+			"dynn_Sutton"
+			"dynn_Osborne"
+			"dynn_Westmoreland"
+			"dynn_Bowers"
+			"dynn_Adkins"
+			"dynn_Benefield"
+			"dynn_Greenwell"
+			"dynn_Slone"
+			"dynn_Bagwell"
+			"dynn_Cornett"
+			"dynn_Blair"
+			"dynn_Davidson"
+			"dynn_Riley"
+			"dynn_Bigham"
+			"dynn_Vaughn"
+			"dynn_Welch"
+			"dynn_Killebrew"
+			"dynn_Mattingly"
+			"dynn_McDaniel"
+			"dynn_Belknap"
+			"dynn_Blevins"
+			"dynn_Pennington"
+			"dynn_Wilkerson"
+			"dynn_Bryant"
+			"dynn_Spalding"
+			"dynn_Huddleston"
+			"dynn_Neuhauser"
+			"dynn_Farris"
+			"dynn_Vick"
+			"dynn_Bridges"
+			"dynn_Poole"
+			"dynn_McCullough"
+			"dynn_Turnbow"
+			"dynn_Huff"
+			"dynn_Scopes"
+			"dynn_Hazelwood"
+			"dynn_Mayberry"
+			"dynn_McCrite"
+			"dynn_Keeling"
+			"dynn_Collier"
+			"dynn_Purdiman"
+			"dynn_Bernheim"
+			"dynn_Baugher"
+			"dynn_Dillow"
+		}
+		dynasty_names = {
+			"dynn_Allman"
+			"dynn_Jennings"
+			"dynn_Morris"
+			"dynn_Barnes"
+			"dynn_Orbison"
+			"dynn_VanZandt"
+			"dynn_Hooker"
+			"dynn_Baggett"
+			"dynn_Parker"
+			"dynn_Shelton"
+			"dynn_Darnell"
+			"dynn_Hensley"
+			"dynn_Yarbrough"
+			"dynn_Burkhart"
+			"dynn_Matlock"
+			"dynn_Groves"
+			"dynn_Sutton"
+			"dynn_Osborne"
+			"dynn_Westmoreland"
+			"dynn_Bowers"
+			"dynn_Adkins"
+			"dynn_Benefield"
+			"dynn_Greenwell"
+			"dynn_Slone"
+			"dynn_Bagwell"
+			"dynn_Cornett"
+			"dynn_Blair"
+			"dynn_Davidson"
+			"dynn_Riley"
+			"dynn_Bigham"
+			"dynn_Vaughn"
+			"dynn_Welch"
+			"dynn_Killebrew"
+			"dynn_Mattingly"
+			"dynn_McDaniel"
+			"dynn_Belknap"
+			"dynn_Blevins"
+			"dynn_Pennington"
+			"dynn_Wilkerson"
+			"dynn_Bryant"
+			"dynn_Spalding"
+			"dynn_Huddleston"
+			"dynn_Neuhauser"
+			"dynn_Farris"
+			"dynn_Vick"
+			"dynn_Bridges"
+			"dynn_Poole"
+			"dynn_McCullough"
+			"dynn_Turnbow"
+			"dynn_Huff"
+			"dynn_Scopes"
+			"dynn_Hazelwood"
+			"dynn_Mayberry"
+			"dynn_McCrite"
+			"dynn_Keeling"
+			"dynn_Collier"
+			"dynn_Purdiman"
+			"dynn_Bernheim"
+			"dynn_Baugher"
+			"dynn_Dillow"
+		}
+		
+		male_names = {
+			Allen Adam Abel Alexander Andrew
+			Boone Burnie Bixby Benton Bruce Beauregard Burton
+			Calhoun Clifton Clyde Claude Collier Cowin Curlew Caleb Cain Clarence Campion Clemens Curtis
+			Dodge Davis
+			Eolus Ellis Earl
+			Finn Fulton Fitch
+			Gregor
+			Hannibal Hank Horace Hull
+			Jake Jim Judah Josiah
+			Lee Leon Louis Lorton Langhorne Laurel
+			Mark Micaiah Marshall Morris Morgan Mouton
+			Nathaniel Napoleon Nereus Niphon
+			Orion
+			Porter Pleasant Perry Patrick Putnam Preston
+			Quintin
+			Ross
+			Sid Squire Simon Sampson Samuel Stirling Segar Sherod
+			Theodore Twain Tom Trigg Todd
+			Vick
+			William Winslow Winfield Webb Wheeler
+			Yadkin
+		}
+		female_names = {
+			Amy Antona Arletta Amanda Azalea Alexandra Adriana Annabelle Annie
+			Becky Beth Belle Bluebell
+			Camelia Charlotte Clover Cymophane Caroline Clara Connie
+			Daisy Dinah Dorothy Daffodil Dahlia
+			Estrella Emma Ellen
+			Fanny Fairy Fawn Fortune Fuchsia
+			Galatea Gem Georgiana
+			Helen Harriet
+			Ivy Ina Iris
+			Julia Juniper
+			Linda Lilac Lily Lucille
+			Mary Minnie Matilda Magnolia Myrtle Maisy May Mollie
+			Polly Pamela Petrita Pinola Poppy
+			Rose
+			Sarah Selma Susy Sophronia Spirea
+			Theodora Tritonia Tulip
+			Violet Virginia Varuna Victoria
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	ozark = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.85 0.8 0.08 }
+	
+		cadet_dynasty_names = {
+			"dynn_Stice"
+			"dynn_O_Quinn"
+			"dynn_Massey"
+			"dynn_McDaniels"
+			"dynn_Warnock"
+			"dynn_Broyles"
+			"dynn_Jennings"
+			"dynn_Splan"
+			"dynn_Shore"
+			"dynn_Stith"
+			"dynn_Lorance"
+			"dynn_Maddux"
+			"dynn_Fertick"
+			"dynn_Burdell"
+			"dynn_Rouse"
+			"dynn_Nabney"
+			"dynn_Kewpie"
+			"dynn_Hough"
+			"dynn_Pollock"
+			"dynn_McKinnis"
+			"dynn_Goss"
+			"dynn_Danvorn"
+			"dynn_Dickson"
+			"dynn_Guisinger"
+			"dynn_Blythe"
+			"dynn_Nash"
+			"dynn_Dillard"
+			"dynn_McClure"
+			"dynn_Jayne"
+			"dynn_Yewdall"
+			"dynn_Hamlin"
+			"dynn_Hubble"
+			"dynn_Gentry"
+			"dynn_Nemmers"
+			"dynn_Stiles"
+			"dynn_Barker"
+			"dynn_Hayems"
+			"dynn_Hutton"
+			"dynn_Nunley"
+			"dynn_Canaday"
+			"dynn_Howitt"
+			"dynn_McHaffie"
+			"dynn_Atchley"
+			"dynn_Hembree"
+			"dynn_Holt"
+			"dynn_Colman"
+			"dynn_Marsh"
+			"dynn_Hawkins"
+			"dynn_McMillon"
+			"dynn_Walton"
+			"dynn_Boyce"
+			"dynn_Clampett"
+			"dynn_Woodrell"
+			"dynn_Wagoner"
+			"dynn_McKee"
+			"dynn_Littleton"
+			"dynn_Walker"
+			"dynn_Foley"
+			"dynn_Mahaffey"
+			"dynn_Lathman"
+			"dynn_Aleshire"
+			"dynn_Randolph"
+			"dynn_Siman"
+			"dynn_Haworth"
+			"dynn_Stamper"
+			"dynn_Rutledge"
+			"dynn_Gailey"
+			"dynn_Caddell"
+			"dynn_Bradson"
+			"dynn_Pritchard"
+		}
+		dynasty_names = {
+			"dynn_Stice"
+			"dynn_O_Quinn"
+			"dynn_Massey"
+			"dynn_McDaniels"
+			"dynn_Warnock"
+			"dynn_Broyles"
+			"dynn_Jennings"
+			"dynn_Splan"
+			"dynn_Shore"
+			"dynn_Stith"
+			"dynn_Lorance"
+			"dynn_Maddux"
+			"dynn_Fertick"
+			"dynn_Burdell"
+			"dynn_Rouse"
+			"dynn_Nabney"
+			"dynn_Kewpie"
+			"dynn_Hough"
+			"dynn_Pollock"
+			"dynn_McKinnis"
+			"dynn_Goss"
+			"dynn_Danvorn"
+			"dynn_Dickson"
+			"dynn_Guisinger"
+			"dynn_Blythe"
+			"dynn_Nash"
+			"dynn_Dillard"
+			"dynn_McClure"
+			"dynn_Jayne"
+			"dynn_Yewdall"
+			"dynn_Hamlin"
+			"dynn_Hubble"
+			"dynn_Gentry"
+			"dynn_Nemmers"
+			"dynn_Stiles"
+			"dynn_Barker"
+			"dynn_Hayems"
+			"dynn_Hutton"
+			"dynn_Nunley"
+			"dynn_Canaday"
+			"dynn_Howitt"
+			"dynn_McHaffie"
+			"dynn_Atchley"
+			"dynn_Hembree"
+			"dynn_Holt"
+			"dynn_Colman"
+			"dynn_Marsh"
+			"dynn_Hawkins"
+			"dynn_McMillon"
+			"dynn_Walton"
+			"dynn_Boyce"
+			"dynn_Clampett"
+			"dynn_Woodrell"
+			"dynn_Wagoner"
+			"dynn_McKee"
+			"dynn_Littleton"
+			"dynn_Walker"
+			"dynn_Foley"
+			"dynn_Mahaffey"
+			"dynn_Lathman"
+			"dynn_Aleshire"
+			"dynn_Randolph"
+			"dynn_Siman"
+			"dynn_Haworth"
+			"dynn_Stamper"
+			"dynn_Rutledge"
+			"dynn_Gailey"
+			"dynn_Caddell"
+			"dynn_Bradson"
+			"dynn_Pritchard"
+		}
+		
+		male_names = {
+			Adonias Alf Art Ashford Abibo Allen Arach Aram Azor Amon Asaph
+			Baptist Boston Burris Benet Backus Barret Byron
+			Clark Chester Cotter Conway Chanute Coop Calhoun Caiaphas Cran Cyrus
+			Darter Dwayne Dedan
+			Emery Elvin Elwood Elishah Elam Eber Ezra
+			Griffin Guire Glenn Gene Gamaliel Gomer Gyges Gether Garrah Galba
+			Harris Hunt Hillel Heron Hyrcan Herod Hul Hadoram Hodiah
+			Ilroy
+			Jesse Jordan Jedediah Jethro Joezer Jochanan Japtheth Javan Jerah Jobab Joel Jotham Jairus Jubal
+			Kelley
+			Lamar Leggett Levi Lud
+			Milburn Mul Melchi
+			Natan Nahum Noah
+			Orel Origer Obal Ophir Obed
+			Porter Powell Pyatt Pollion Perachiah Peleg
+			Quantrill
+			Russell Riley Rubin Rainie Rufe Rhoder Redbone Reed Ross Riphath
+			Siloam Slim Shetach Sanders Sturkie Seth Sheleph Sirach
+			Turner Ty Truman Taber Tarf Tucker Tiras Tubal
+			Urias Uzziel
+			Walden Wilson Withrow Witt Wharton
+			Yell
+			Zechariah Zemah Zerub Zarephath
+		}
+		female_names = {
+			Alexa Avoca Alma Ava Aurora Adah Asenath Azubah
+			Bea Berry Bethel Brook Basemeth Bithiah Bilhah
+			Caryn Clemintine Cassidy Carleen Candace
+			Diana Daisy Donna Doris Della Dora Damaris Deborah Dinah
+			Elly Esther Eunice Ephah
+			Fay
+			Gravette Georgia Goliasa
+			Holly Hannah Hagar Huldah Holga Helah Hamutal
+			Iscah
+			Juniper Jethrine Janet Janice Joyce Jaybird Justine Joanna Jehoaddan Jochebed Judith June Jerioth
+			Kyra Karla
+			Lois Loma Leah Lydia
+			Mabel Mae Mary Marleen Mahalath Martha Mehetabel Miriam Milcah Merab
+			Nancy Naomi
+			Orpah Ophelia
+			Pearl Phoebe Priscilla Puah
+			Ruth Ruby Rachel Rebekah Rhoda Reumah
+			Salome Sapphira Sarah Shelomit Shiphrah
+			Teresa Tamar
+			Violet Vashti Vesta
+			Winona
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 35
+		mat_grf_name_chance = 10
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 30
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

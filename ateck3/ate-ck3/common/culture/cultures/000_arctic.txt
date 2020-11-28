@@ -1,0 +1,944 @@
+﻿arctic_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	inuit = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+	
+		cadet_dynasty_names = {
+			"dynn_Tootoo"
+			"dynn_Sammurtok"
+			"dynn_Okalik"
+			"dynn_Kilabuk"
+			"dynn_Nakoolak"
+			"dynn_Putulik"
+			"dynn_Kogvik"
+			"dynn_Idlout"
+			"dynn_Kusugak"
+			"dynn_Aglukkaq"
+			"dynn_Oyukuluk"
+			"dynn_Qrunnut"
+			"dynn_Kalluk"
+			"dynn_Tiktaalaaq"
+			"dynn_Tanuyak"
+			"dynn_Arnatsiaq"
+			"dynn_Aitaok"
+			"dynn_Angulalik"
+			"dynn_Evalik"
+			"dynn_Tucktoo"
+			"dynn_Eetuk"
+			"dynn_Alagalak"
+			"dynn_Okpik"
+			"dynn_Qaunaq"
+			"dynn_Alaralak"
+			"dynn_Ugyuk"
+			"dynn_Etuangat"
+			"dynn_Pijamini"
+			"dynn_Ipkarnak"
+			"dynn_Uttak"
+			"dynn_Okatsiak"
+			"dynn_Nuqingaq"
+			"dynn_Nirlungayuk"
+			"dynn_Ungalaq"
+			"dynn_Iqaqrialu"
+			"dynn_Attagutsiak"
+			"dynn_Ningark"
+			"dynn_Qaqqasiq"
+			"dynn_Evyagotailak"
+			"dynn_Angu"
+			"dynn_Puqiqnak"
+			"dynn_Komoartok"
+			"dynn_Innuksuk"
+			"dynn_Keyootak"
+			"dynn_Qajaakuttuk"
+			"dynn_Nutarariaq"
+			"dynn_Akeeagok"
+			"dynn_Nakashuk"
+			"dynn_Sivuarapik"
+			"dynn_Evaloarjuk"
+			"dynn_Pitsiulak"
+			"dynn_Qirngnuq"
+			"dynn_Kamingoak"
+			"dynn_Adjukak"
+			"dynn_Ehaloak"
+			"dynn_Ivalu"
+			"dynn_Angrnaqquaq"
+			"dynn_Savikataaq"
+			"dynn_Qinnuayuaq"
+			"dynn_Qamaniq"
+			"dynn_Tullaugaq"
+			"dynn_Irqittuq"
+			"dynn_Qumaluk"
+			"dynn_Amagoalik"
+			"dynn_Kunuk"
+			"dynn_Igloliorte"
+			"dynn_Pootoogook"
+			"dynn_Ashoona"
+			"dynn_Ittinuar"
+			"dynn_Kattuk"
+			"dynn_Mapsalak"
+			"dynn_Qumaq"
+			"dynn_Ulayuruluk"
+			"dynn_Enuaraq"
+			"dynn_Angutautuk"
+			"dynn_Keenainak"
+			"dynn_Suluk"
+			"dynn_Angnakak"
+			"dynn_Tapardjuk"
+			"dynn_Merkosak"
+			"dynn_Qaqqaq"
+			"dynn_Oshuitoq"
+			"dynn_Nakimayak"
+			"dynn_Karetak"
+			"dynn_Ejesiak"
+			"dynn_Allakariallak"
+			"dynn_Taqqaugaq"
+			"dynn_Qappik"
+			"dynn_Oonark"
+			"dynn_Arnaquq"
+			"dynn_Sheutiapik"
+			"dynn_Appaqaq"
+			"dynn_Kudloo"
+			"dynn_Nutarak"
+			"dynn_Tagaq"
+			"dynn_Akumalik"
+			"dynn_Quassa"
+			"dynn_Etidlooie"
+			"dynn_Aariak"
+			"dynn_Arnaktauyok"
+			"dynn_Maksagak"
+			"dynn_Panigoniak"
+			"dynn_Irniq"
+			"dynn_Qaulluaryuk"
+			"dynn_Kaludjak"
+			"dynn_Ipeelie"
+			"dynn_Piugattuk"
+			"dynn_Simailak"
+			"dynn_Erkloo"
+			"dynn_Atagotaaluk"
+			"dynn_Kaviok"
+			"dynn_Eetoolook"
+			"dynn_Allurut"
+			"dynn_Aupaluktuq"
+			"dynn_Oshutapik"
+			"dynn_Paniloo"
+			"dynn_Akesuk"
+			"dynn_Kanayuk"
+			"dynn_Tulugarjuk"
+			"dynn_Arvaluk"
+			"dynn_Akkitirq"
+			"dynn_Uyarak"
+			"dynn_Mamnguqsualuk"
+			"dynn_Kigusiuq"
+			"dynn_Iqqaqsaq"
+			"dynn_Pudlat"
+			"dynn_Allooloo"
+			"dynn_Mikkigak"
+			"dynn_Tongelik"
+			"dynn_Igiu"
+			"dynn_Omik"
+			"dynn_Iqalukjuak"
+			"dynn_Saumik"
+			"dynn_Ashevak"
+			"dynn_Uppik"
+			"dynn_Kotierk"
+			"dynn_Oolateeta"
+			"dynn_Shooyook"
+			"dynn_Angilirq"
+			"dynn_Sikkuark"
+			"dynn_Arlooktoo"
+			"dynn_Kritaqliluk"
+			"dynn_Ikkidluak"
+			"dynn_Quppapik"
+			"dynn_Qulaut"
+			"dynn_Angottitauruq"
+			"dynn_Akoak"
+			"dynn_Pudluk"
+			"dynn_Teevee"
+			"dynn_Qiyuk"
+			"dynn_Akavak"
+			"dynn_Alakannuark"
+			"dynn_Qitsualik"
+			"dynn_Pukingrnak"
+			"dynn_Qayuaryuk"
+			"dynn_Ishulutaq"
+			"dynn_Alikatuktuk"
+			"dynn_Paneak"
+			"dynn_Illupalik"
+			"dynn_Toolooktook"
+		}
+		dynasty_names = {
+			"dynn_Tootoo"
+			"dynn_Sammurtok"
+			"dynn_Okalik"
+			"dynn_Kilabuk"
+			"dynn_Nakoolak"
+			"dynn_Putulik"
+			"dynn_Kogvik"
+			"dynn_Idlout"
+			"dynn_Kusugak"
+			"dynn_Aglukkaq"
+			"dynn_Oyukuluk"
+			"dynn_Qrunnut"
+			"dynn_Kalluk"
+			"dynn_Tiktaalaaq"
+			"dynn_Tanuyak"
+			"dynn_Arnatsiaq"
+			"dynn_Aitaok"
+			"dynn_Angulalik"
+			"dynn_Evalik"
+			"dynn_Tucktoo"
+			"dynn_Eetuk"
+			"dynn_Alagalak"
+			"dynn_Okpik"
+			"dynn_Qaunaq"
+			"dynn_Alaralak"
+			"dynn_Ugyuk"
+			"dynn_Etuangat"
+			"dynn_Pijamini"
+			"dynn_Ipkarnak"
+			"dynn_Uttak"
+			"dynn_Okatsiak"
+			"dynn_Nuqingaq"
+			"dynn_Nirlungayuk"
+			"dynn_Ungalaq"
+			"dynn_Iqaqrialu"
+			"dynn_Attagutsiak"
+			"dynn_Ningark"
+			"dynn_Qaqqasiq"
+			"dynn_Evyagotailak"
+			"dynn_Angu"
+			"dynn_Puqiqnak"
+			"dynn_Komoartok"
+			"dynn_Innuksuk"
+			"dynn_Keyootak"
+			"dynn_Qajaakuttuk"
+			"dynn_Nutarariaq"
+			"dynn_Akeeagok"
+			"dynn_Nakashuk"
+			"dynn_Sivuarapik"
+			"dynn_Evaloarjuk"
+			"dynn_Pitsiulak"
+			"dynn_Qirngnuq"
+			"dynn_Kamingoak"
+			"dynn_Adjukak"
+			"dynn_Ehaloak"
+			"dynn_Ivalu"
+			"dynn_Angrnaqquaq"
+			"dynn_Savikataaq"
+			"dynn_Qinnuayuaq"
+			"dynn_Qamaniq"
+			"dynn_Tullaugaq"
+			"dynn_Irqittuq"
+			"dynn_Qumaluk"
+			"dynn_Amagoalik"
+			"dynn_Kunuk"
+			"dynn_Igloliorte"
+			"dynn_Pootoogook"
+			"dynn_Ashoona"
+			"dynn_Ittinuar"
+			"dynn_Kattuk"
+			"dynn_Mapsalak"
+			"dynn_Qumaq"
+			"dynn_Ulayuruluk"
+			"dynn_Enuaraq"
+			"dynn_Angutautuk"
+			"dynn_Keenainak"
+			"dynn_Suluk"
+			"dynn_Angnakak"
+			"dynn_Tapardjuk"
+			"dynn_Merkosak"
+			"dynn_Qaqqaq"
+			"dynn_Oshuitoq"
+			"dynn_Nakimayak"
+			"dynn_Karetak"
+			"dynn_Ejesiak"
+			"dynn_Allakariallak"
+			"dynn_Taqqaugaq"
+			"dynn_Qappik"
+			"dynn_Oonark"
+			"dynn_Arnaquq"
+			"dynn_Sheutiapik"
+			"dynn_Appaqaq"
+			"dynn_Kudloo"
+			"dynn_Nutarak"
+			"dynn_Tagaq"
+			"dynn_Akumalik"
+			"dynn_Quassa"
+			"dynn_Etidlooie"
+			"dynn_Aariak"
+			"dynn_Arnaktauyok"
+			"dynn_Maksagak"
+			"dynn_Panigoniak"
+			"dynn_Irniq"
+			"dynn_Qaulluaryuk"
+			"dynn_Kaludjak"
+			"dynn_Ipeelie"
+			"dynn_Piugattuk"
+			"dynn_Simailak"
+			"dynn_Erkloo"
+			"dynn_Atagotaaluk"
+			"dynn_Kaviok"
+			"dynn_Eetoolook"
+			"dynn_Allurut"
+			"dynn_Aupaluktuq"
+			"dynn_Oshutapik"
+			"dynn_Paniloo"
+			"dynn_Akesuk"
+			"dynn_Kanayuk"
+			"dynn_Tulugarjuk"
+			"dynn_Arvaluk"
+			"dynn_Akkitirq"
+			"dynn_Uyarak"
+			"dynn_Mamnguqsualuk"
+			"dynn_Kigusiuq"
+			"dynn_Iqqaqsaq"
+			"dynn_Pudlat"
+			"dynn_Allooloo"
+			"dynn_Mikkigak"
+			"dynn_Tongelik"
+			"dynn_Igiu"
+			"dynn_Omik"
+			"dynn_Iqalukjuak"
+			"dynn_Saumik"
+			"dynn_Ashevak"
+			"dynn_Uppik"
+			"dynn_Kotierk"
+			"dynn_Oolateeta"
+			"dynn_Shooyook"
+			"dynn_Angilirq"
+			"dynn_Sikkuark"
+			"dynn_Arlooktoo"
+			"dynn_Kritaqliluk"
+			"dynn_Ikkidluak"
+			"dynn_Quppapik"
+			"dynn_Qulaut"
+			"dynn_Angottitauruq"
+			"dynn_Akoak"
+			"dynn_Pudluk"
+			"dynn_Teevee"
+			"dynn_Qiyuk"
+			"dynn_Akavak"
+			"dynn_Alakannuark"
+			"dynn_Qitsualik"
+			"dynn_Pukingrnak"
+			"dynn_Qayuaryuk"
+			"dynn_Ishulutaq"
+			"dynn_Alikatuktuk"
+			"dynn_Paneak"
+			"dynn_Illupalik"
+			"dynn_Toolooktook"
+		}
+		
+		male_names = {
+			Adamie Alootook Amaqjuaq Apayata Atanarjuat Auyaluk
+			Charlie
+			Elizirie Enoki Etyguyakjua
+			Gideonie Gooteleah
+			Ipirvik
+			Jamasie Joanassie Jobie Joelie Josephie Juatan
+			Kadlarjuk Kananginak Karoo Kenojuak Kiakshuk Kiugak Kiviaq Kumaglak
+			Levi Lootie
+			Manasie Markoosie Mosha
+			Natar
+			Ohotaq Oki Olayuk Orpingalik Osuitok
+			Pakak Pauloosie Piita Pudlo
+			Qiqituk Qulitalik
+			Sakiasie Salomonie Sauri Sedluk Simeonie
+			Tagak Takpaugni Toomasie Tulimaq Tungajuaq
+			Ushuakjuk
+			
+			Abraham
+			Cain
+			David
+			Elijah
+			Hezekiah
+			Judas
+			Natan
+			Obed
+			Uriah
+			Zacharias
+		}
+		female_names = {
+			Aaju Aggeok Alasie Aluki Anirnik Annie Atuat Aviaq
+			Ekateelik Elisapie
+			Jeannie
+			Kenojuak Kikkik
+			Laakkuluk Liuna Lusie
+			Manitok Marie Mitiarjuk Mumilaaq
+			Napachie Natsiq Naullaq Ningeeuga Ningiukulu Niriuniq Nyla
+			Omalluq Oopik Oviloo
+			Panikpak Pitaloosie  Pitseolak Puja
+			Qapik Qaunak Qiqituk
+			Shuvinai Siasi Silaqi Suusan
+			Ulayu Uluriaq Uvavnuk
+			
+			Rebekah
+			Zipporah
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	kalaaleq = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+	
+		cadet_dynasty_names = {
+			"dynn_Kangeq"
+			"dynn_BrO_nlund"
+			"dynn_Waldau"
+			"dynn_GrO_nkjA_r"
+			"dynn_Fontain"
+			"dynn_Hammeken"
+			"dynn_Lynge"
+			"dynn_Eriksen"
+			"dynn_RO_de"
+			"dynn_Hendrik"
+			"dynn_Kleist"
+			"dynn_Lenner"
+			"dynn_Lyberth"
+			"dynn_Abelsen"
+			"dynn_Nakinngi"
+			"dynn_Petersen"
+			"dynn_Olsen"
+			"dynn_Kuko"
+			"dynn_Jensen"
+			"dynn_Nielsen"
+			"dynn_Anguupisen"
+			"dynn_Eipi"
+			"dynn_Larsen"
+			"dynn_Berthelsen"
+			"dynn_Egede"
+			"dynn_Heilmann"
+			"dynn_Jeremiassen"
+			"dynn_Eertaaq"
+			"dynn_Angubesen"
+			"dynn_Kilimi"
+			"dynn_Coster"
+			"dynn_Mikkiki"
+			"dynn_Nujappik"
+			"dynn_JO_rgensen"
+			"dynn_Nuuku"
+			"dynn_Palleq"
+			"dynn_Davidsen"
+			"dynn_Qatsa"
+			"dynn_Josefsen"
+			"dynn_Qisuk"
+			"dynn_Miunngi"
+			"dynn_Thomassen"
+			"dynn_Suersaq"
+			"dynn_Motzfeldt"
+			"dynn_Sandgreen"
+			"dynn_Tuneq"
+			"dynn_Qujanarteq"
+			"dynn_Lundblad"
+			"dynn_MO_lgaard"
+			"dynn_Mikaelsen"
+			"dynn_GrO_nvold"
+			"dynn_Skifte"
+			"dynn_Holm"
+			"dynn_Karlsen"
+			"dynn_Matthiassen"
+			"dynn_Frederiksen"
+			"dynn_Nappaattooq"
+			"dynn_Kristensen"
+			"dynn_Jakobsen"
+			"dynn_Keldsen"
+			"dynn_Qujaukitsoq"
+			"dynn_MO_rch"
+			"dynn_Chemnitz"
+			"dynn_Uldum"
+			"dynn_Nathanielsen"
+			"dynn_HO_egh"
+			"dynn_Steenholdt"
+			"dynn_Narup"
+			"dynn_Kreutzmann"
+			"dynn_Broberg"
+			"dynn_Rasmussen"
+			"dynn_Taunajik"
+			"dynn_Ottosen"
+			"dynn_Geisler"
+			"dynn_Nuko"
+			"dynn_Enoksen"
+			"dynn_Olsvig"
+			"dynn_Immanuelsen"
+			"dynn_Rosing"
+			"dynn_Vestergaard"
+		}
+		dynasty_names = {
+			"dynn_Kangeq"
+			"dynn_BrO_nlund"
+			"dynn_Waldau"
+			"dynn_GrO_nkjA_r"
+			"dynn_Fontain"
+			"dynn_Hammeken"
+			"dynn_Lynge"
+			"dynn_Eriksen"
+			"dynn_RO_de"
+			"dynn_Hendrik"
+			"dynn_Kleist"
+			"dynn_Lenner"
+			"dynn_Lyberth"
+			"dynn_Abelsen"
+			"dynn_Nakinngi"
+			"dynn_Petersen"
+			"dynn_Olsen"
+			"dynn_Kuko"
+			"dynn_Jensen"
+			"dynn_Nielsen"
+			"dynn_Anguupisen"
+			"dynn_Eipi"
+			"dynn_Larsen"
+			"dynn_Berthelsen"
+			"dynn_Egede"
+			"dynn_Heilmann"
+			"dynn_Jeremiassen"
+			"dynn_Eertaaq"
+			"dynn_Angubesen"
+			"dynn_Kilimi"
+			"dynn_Coster"
+			"dynn_Mikkiki"
+			"dynn_Nujappik"
+			"dynn_JO_rgensen"
+			"dynn_Nuuku"
+			"dynn_Palleq"
+			"dynn_Davidsen"
+			"dynn_Qatsa"
+			"dynn_Josefsen"
+			"dynn_Qisuk"
+			"dynn_Miunngi"
+			"dynn_Thomassen"
+			"dynn_Suersaq"
+			"dynn_Motzfeldt"
+			"dynn_Sandgreen"
+			"dynn_Tuneq"
+			"dynn_Qujanarteq"
+			"dynn_Lundblad"
+			"dynn_MO_lgaard"
+			"dynn_Mikaelsen"
+			"dynn_GrO_nvold"
+			"dynn_Skifte"
+			"dynn_Holm"
+			"dynn_Karlsen"
+			"dynn_Matthiassen"
+			"dynn_Frederiksen"
+			"dynn_Nappaattooq"
+			"dynn_Kristensen"
+			"dynn_Jakobsen"
+			"dynn_Keldsen"
+			"dynn_Qujaukitsoq"
+			"dynn_MO_rch"
+			"dynn_Chemnitz"
+			"dynn_Uldum"
+			"dynn_Nathanielsen"
+			"dynn_HO_egh"
+			"dynn_Steenholdt"
+			"dynn_Narup"
+			"dynn_Kreutzmann"
+			"dynn_Broberg"
+			"dynn_Rasmussen"
+			"dynn_Taunajik"
+			"dynn_Ottosen"
+			"dynn_Geisler"
+			"dynn_Nuko"
+			"dynn_Enoksen"
+			"dynn_Olsvig"
+			"dynn_Immanuelsen"
+			"dynn_Rosing"
+			"dynn_Vestergaard"
+		}
+		
+		male_names = {
+			Aaliksi Aataaliannquaq Agpak Aipak Akamak Aluusaq Anaukak Aqqaluk
+			Benjamini Bentiaraq Bajare Barselaj
+			Daavi
+			Eerik Eertaaq Ejvind Ekitagak Eko Eqqamaq
+			Faliitalik Fiilissi Fintarik Fine
+			Gutivfarik
+			Haansi Haralte Henninngi Hermane
+			Ialimi Igimarasussussuaq Igpinguak Iikkajippaat Ikkaq
+			Jaakupi Jenseraq Juuserfi Juunataat
+			Kaanngitsukkaaq Kaali Ka'jartalik Kajok Kuupik
+			Laavarissi Laarsi Lutivik Lutse
+			Maakajik Maasinnguaq Maleraq Malik Manu Mikile
+			Nakataq Naqqoq Nikkulaat Nivineq Norsaq
+			Okalikak Oquna Ortusi Oungortok
+			Paalusi Paluk Pekilak Pilagaq
+			Qaaqquk Qisuk Qorsuk Quppersimat Quuik
+			Raasimuusi Riinki Ruluk Ruutuulfi
+			Saalumuut Sanngisooq Sikunnguaq Stormi
+			Taaraq Tappinngaajik Tiliunguak Tukuttanngaaq
+			Uiaqoq Ujukku Umaamii Ussarkak Utdlarik
+			Vaaltimaat Viiliimi
+		}
+		female_names = {
+			Aaja Aakooq Aila Ajorna
+			Biggi Bilha Bulata
+			Dagmar Dukarse
+			Eelisi Ekarina Eqqimmaalaaq Ernutannquaq
+			Fariitariika
+			Hansigne Helga Hine Hiuleqatuk
+			Iaajannquaq Igaq Iilinni Ikingut
+			Jatsi Juaannannguaq Juutitta
+			Kaartaaq Kiistiina Kuka Kuutaq
+			Laatsiaq Lispitsi Luuvi
+			Maaria Maliinannguaq Mekunguak Miillaaraq
+			Naaluk Nguujuk Ningaattoq Nivikka Nukaka
+			Omeg Orsiina Orpik
+			Paarma Paajoq Paqoq Piilla Pilok
+			Qaaqqortooq Qajuinnaq Quanna Quniik
+			Riiki Ruluk Rutse
+			Saamik Sanninga Sardlik Siissi Sujotona
+			Taaneqaq Tammaq Teriina Tikkalaatsiaq
+			Uiloq Uinneq Ukalina Ullorikka Utaat
+			Varannguaq
+		}
+		dynasty_of_location_prefix = "dynnp_af"
+		
+		patronym_suffix_male = "dynnpat_suf_sen"
+		patronym_suffix_female = "dynnpat_suf_sdatter"
+		always_use_patronym = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	svalbarder = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+	
+		cadet_dynasty_names = {
+			"dynn_Sverdrup"
+			"dynn_Elvedahl"
+			"dynn_Romanovsky"
+			"dynn_Askholt"
+			"dynn_Ingstad"
+			"dynn_Beichmann"
+			"dynn_Wendt"
+			"dynn_Eldring"
+			"dynn_SO_reide"
+			"dynn_Lavrov"
+			"dynn_RO_reksen"
+			"dynn_Trifonenko"
+			"dynn_Hovland"
+			"dynn_Amundsen"
+			"dynn_BA_rdseth"
+			"dynn_Albrigtsen"
+			"dynn_Gerasimov"
+			"dynn_Prestvold"
+			"dynn_Ivanov"
+			"dynn_Zachariassen"
+			"dynn_Kvammen"
+			"dynn_Schellinkhout"
+			"dynn_Igorsen"
+			"dynn_Brandal"
+			"dynn_Sudarev"
+			"dynn_Woldstad"
+			"dynn_Karapetrov"
+			"dynn_Nikolaev"
+			"dynn_Nerdrum"
+			"dynn_Ranter"
+			"dynn_IdA_s"
+			"dynn_Tikhonov"
+			"dynn_EidsvA_g"
+			"dynn_Alekseyev"
+			"dynn_Torell"
+			"dynn_Khamhuaiyae"
+			"dynn_Rambech"
+			"dynn_Dallmann"
+			"dynn_Korotkin"
+			"dynn_WA_gan"
+			"dynn_Edge"
+			"dynn_Nathorst"
+			"dynn_Akimov"
+			"dynn_Keilhau"
+			"dynn_Kononuchenko"
+			"dynn_Vikhamar"
+			"dynn_Smedal"
+			"dynn_Leonov"
+			"dynn_Sinpru"
+			"dynn_Rabot"
+			"dynn_Orvin"
+			"dynn_Inchai"
+			"dynn_Bjerrang"
+			"dynn_Troldmyr"
+			"dynn_NO_is"
+			"dynn_Kuznetsov"
+			"dynn_WalO_r"
+			"dynn_Melting"
+			"dynn_Ekroll"
+			"dynn_Devold"
+			"dynn_Wilhelmsen"
+			"dynn_DO_lmo"
+			"dynn_Tarasov"
+			"dynn_Sefland"
+			"dynn_Ruud"
+			"dynn_Tungland"
+			"dynn_Antipov"
+			"dynn_Rogozin"
+			"dynn_Landsverk"
+			"dynn_Imjai"
+			"dynn_Sidorov"
+			"dynn_Hesthammer"
+			"dynn_Boholm"
+			"dynn_Kamenyev"
+			"dynn_IngerO_"
+			"dynn_Sverkmo"
+			"dynn_Bruun"
+			"dynn_FasoongnO_n"
+			"dynn_FagernA_s"
+			"dynn_VA_tvik"
+			"dynn_Brochmann"
+			"dynn_Limstrand"
+			"dynn_Strebkov"
+			"dynn_BassO_e"
+			"dynn_Arlov"
+			"dynn_Kirkemoen"
+			"dynn_Srikhram"
+			"dynn_ForA_s"
+			"dynn_Jarlsberg"
+			"dynn_Stange"
+			"dynn_Vinogradov"
+			"dynn_Ulfstein"
+			"dynn_Hacquebord"
+			"dynn_Sergeyev"
+			"dynn_Umbreit"
+			"dynn_GangsA_s"
+			"dynn_Tamstein"
+			"dynn_Sheremetyev"
+			"dynn_Sangkharak"
+			"dynn_Gerhardsen"
+			"dynn_Mehren"
+			"dynn_Dyrkolbotn"
+			"dynn_Lockert"
+			"dynn_Henningsen"
+			"dynn_Aunevik"
+			"dynn_Haug"
+			"dynn_RO_svik"
+			"dynn_Brataas"
+			"dynn_Vegsund"
+			"dynn_Wiersen"
+		}
+		dynasty_names = {
+			"dynn_Sverdrup"
+			"dynn_Elvedahl"
+			"dynn_Romanovsky"
+			"dynn_Askholt"
+			"dynn_Ingstad"
+			"dynn_Beichmann"
+			"dynn_Wendt"
+			"dynn_Eldring"
+			"dynn_SO_reide"
+			"dynn_Lavrov"
+			"dynn_RO_reksen"
+			"dynn_Trifonenko"
+			"dynn_Hovland"
+			"dynn_Amundsen"
+			"dynn_BA_rdseth"
+			"dynn_Albrigtsen"
+			"dynn_Gerasimov"
+			"dynn_Prestvold"
+			"dynn_Ivanov"
+			"dynn_Zachariassen"
+			"dynn_Kvammen"
+			"dynn_Schellinkhout"
+			"dynn_Igorsen"
+			"dynn_Brandal"
+			"dynn_Sudarev"
+			"dynn_Woldstad"
+			"dynn_Karapetrov"
+			"dynn_Nikolaev"
+			"dynn_Nerdrum"
+			"dynn_Ranter"
+			"dynn_IdA_s"
+			"dynn_Tikhonov"
+			"dynn_EidsvA_g"
+			"dynn_Alekseyev"
+			"dynn_Torell"
+			"dynn_Khamhuaiyae"
+			"dynn_Rambech"
+			"dynn_Dallmann"
+			"dynn_Korotkin"
+			"dynn_WA_gan"
+			"dynn_Edge"
+			"dynn_Nathorst"
+			"dynn_Akimov"
+			"dynn_Keilhau"
+			"dynn_Kononuchenko"
+			"dynn_Vikhamar"
+			"dynn_Smedal"
+			"dynn_Leonov"
+			"dynn_Sinpru"
+			"dynn_Rabot"
+			"dynn_Orvin"
+			"dynn_Inchai"
+			"dynn_Bjerrang"
+			"dynn_Troldmyr"
+			"dynn_NO_is"
+			"dynn_Kuznetsov"
+			"dynn_WalO_r"
+			"dynn_Melting"
+			"dynn_Ekroll"
+			"dynn_Devold"
+			"dynn_Wilhelmsen"
+			"dynn_DO_lmo"
+			"dynn_Tarasov"
+			"dynn_Sefland"
+			"dynn_Ruud"
+			"dynn_Tungland"
+			"dynn_Antipov"
+			"dynn_Rogozin"
+			"dynn_Landsverk"
+			"dynn_Imjai"
+			"dynn_Sidorov"
+			"dynn_Hesthammer"
+			"dynn_Boholm"
+			"dynn_Kamenyev"
+			"dynn_IngerO_"
+			"dynn_Sverkmo"
+			"dynn_Bruun"
+			"dynn_FasoongnO_n"
+			"dynn_FagernA_s"
+			"dynn_VA_tvik"
+			"dynn_Brochmann"
+			"dynn_Limstrand"
+			"dynn_Strebkov"
+			"dynn_BassO_e"
+			"dynn_Arlov"
+			"dynn_Kirkemoen"
+			"dynn_Srikhram"
+			"dynn_ForA_s"
+			"dynn_Jarlsberg"
+			"dynn_Stange"
+			"dynn_Vinogradov"
+			"dynn_Ulfstein"
+			"dynn_Hacquebord"
+			"dynn_Sergeyev"
+			"dynn_Umbreit"
+			"dynn_GangsA_s"
+			"dynn_Tamstein"
+			"dynn_Sheremetyev"
+			"dynn_Sangkharak"
+			"dynn_Gerhardsen"
+			"dynn_Mehren"
+			"dynn_Dyrkolbotn"
+			"dynn_Lockert"
+			"dynn_Henningsen"
+			"dynn_Aunevik"
+			"dynn_Haug"
+			"dynn_RO_svik"
+			"dynn_Brataas"
+			"dynn_Vegsund"
+			"dynn_Wiersen"
+		}
+		
+		male_names = {
+			Alexander Anatoly Andrey Anton Arild Artur
+			Baltzar BA_rd BjO_rn Bogdan Boris
+			Chadwick Cornelius
+			Daniel Didrik Dimitri
+			Edvard Einar Erik Eskil Evgeny
+			Fartein Fjodor Fredrik Fridtjof
+			Galileo Gennady Grigor Gunnar
+			HA_kon Hallvard Hans Harald Harro Helge Hilmar Hvaldimir
+			Igor Ilya Inge Ivan
+			Jakob Jarisleif Joakim Johannes
+			Karl Kirill Kittiphong Konstantin
+			Lambert Leif Leonid
+			Maksim Mikhail Morten
+			Newton Nikolaj
+			Odd O_ivind Olav Oleg
+			Per
+			Radomir Ratimir Roald Robert RO_rek Runar Ruslan Rustem
+			Tollef Tomas TorbjO_rn Tore Tormod Trond
+			SchjO_lberg Sergei Simen SO_ren Stanisleif
+			Vadim Vasilij Vidar Viktor Vladimir Vladisleif
+			Yuri
+		}
+		female_names = {
+			Anastasia Anna Ann-Kristin Aurora
+			Cecilie Ceres Charlotte Christiane
+			Daria
+			Ekaterina Elina Elvira
+			Grete
+			Irene Ivanna
+			Karoline Kjerstin
+			Line Lise Ludmila
+			Maria Marianne Michelle Milena
+			Natalya Natasha
+			Oda Oksana Olga
+			Peranee Pernille Pia
+			Ruslana
+			Sofia SO_lvi Svetlana
+			Tamara Tanya Tatiana
+			Urassaya
+			Valentina
+			Wanny
+		}
+		dynasty_of_location_prefix = "dynnp_av"
+		
+		patronym_suffix_male = "dynnpat_suf_sson"
+		patronym_suffix_female = "dynnpat_suf_sdatter"
+		always_use_patronym = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

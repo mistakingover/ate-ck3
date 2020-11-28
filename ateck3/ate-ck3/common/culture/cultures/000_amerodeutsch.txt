@@ -1,0 +1,435 @@
+﻿amerodeutsch_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	deitsch = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.4 0.4 0.3 }
+	
+		cadet_dynasty_names = {
+			"dynn_Yoder"
+			"dynn_Stoltzfus"
+			"dynn_Groff"
+			"dynn_Zook"
+			"dynn_Beiler"
+			"dynn_Schertzinger"
+			"dynn_Hostetler"
+			"dynn_Miller"
+			"dynn_Gingerich"
+			"dynn_Schmucker"
+			"dynn_Kraybill"
+			"dynn_Stauffer"
+			"dynn_Hershberger"
+			"dynn_Troyer"
+			"dynn_York"
+			"dynn_Zimmerman"
+			"dynn_Schwartz"
+			"dynn_Kreider"
+			"dynn_Wenger"
+			"dynn_Bender"
+			"dynn_Kline"
+			"dynn_Erb"
+			"dynn_Graber"
+			"dynn_Schrock"
+			"dynn_Weaver"
+			"dynn_Schrute"
+			"dynn_Lapp"
+			"dynn_Schlabach"
+			"dynn_Mast"
+			"dynn_King"
+			"dynn_Bontrager"
+			"dynn_Wittmer"
+			"dynn_Fisher"
+			"dynn_Burkholder"
+			"dynn_Raber"
+			"dynn_Esh"
+			"dynn_Horst"
+			"dynn_Kauffman"
+			"dynn_Good"
+			"dynn_Shenk"
+			"dynn_Lehman"
+			"dynn_Beachy"
+			"dynn_Hoover"
+			"dynn_Nafziger"
+			"dynn_Schwartzentruber"
+			"dynn_Sensenig"
+			"dynn_Amstutz"
+			"dynn_Schowalter"
+			"dynn_Rohrer"
+			"dynn_Landis"
+			"dynn_Brubacher"
+			"dynn_Nolt"
+			"dynn_Snyder"
+			"dynn_Sauder"
+			"dynn_Glick"
+			"dynn_Coblentz"
+			"dynn_Lambright"
+			"dynn_Hersch"
+			"dynn_Stutzman"
+			"dynn_Lengacher"
+			"dynn_Lantz"
+			"dynn_Nissley"
+			"dynn_Farmwald"
+			"dynn_Kanagy"
+			"dynn_Neuenschwander"
+			"dynn_Hilty"
+			"dynn_Liechty"
+			"dynn_Kurtz"
+			"dynn_Longenecker"
+			"dynn_Donnermeyer"
+		}
+		dynasty_names = {
+			"dynn_Yoder"
+			"dynn_Stoltzfus"
+			"dynn_Groff"
+			"dynn_Zook"
+			"dynn_Beiler"
+			"dynn_Schertzinger"
+			"dynn_Hostetler"
+			"dynn_Miller"
+			"dynn_Gingerich"
+			"dynn_Schmucker"
+			"dynn_Kraybill"
+			"dynn_Stauffer"
+			"dynn_Hershberger"
+			"dynn_Troyer"
+			"dynn_York"
+			"dynn_Zimmerman"
+			"dynn_Schwartz"
+			"dynn_Kreider"
+			"dynn_Wenger"
+			"dynn_Bender"
+			"dynn_Kline"
+			"dynn_Erb"
+			"dynn_Graber"
+			"dynn_Schrock"
+			"dynn_Weaver"
+			"dynn_Schrute"
+			"dynn_Lapp"
+			"dynn_Schlabach"
+			"dynn_Mast"
+			"dynn_King"
+			"dynn_Bontrager"
+			"dynn_Wittmer"
+			"dynn_Fisher"
+			"dynn_Burkholder"
+			"dynn_Raber"
+			"dynn_Esh"
+			"dynn_Horst"
+			"dynn_Kauffman"
+			"dynn_Good"
+			"dynn_Shenk"
+			"dynn_Lehman"
+			"dynn_Beachy"
+			"dynn_Hoover"
+			"dynn_Nafziger"
+			"dynn_Schwartzentruber"
+			"dynn_Sensenig"
+			"dynn_Amstutz"
+			"dynn_Schowalter"
+			"dynn_Rohrer"
+			"dynn_Landis"
+			"dynn_Brubacher"
+			"dynn_Nolt"
+			"dynn_Snyder"
+			"dynn_Sauder"
+			"dynn_Glick"
+			"dynn_Coblentz"
+			"dynn_Lambright"
+			"dynn_Hersch"
+			"dynn_Stutzman"
+			"dynn_Lengacher"
+			"dynn_Lantz"
+			"dynn_Nissley"
+			"dynn_Farmwald"
+			"dynn_Kanagy"
+			"dynn_Neuenschwander"
+			"dynn_Hilty"
+			"dynn_Liechty"
+			"dynn_Kurtz"
+			"dynn_Longenecker"
+			"dynn_Donnermeyer"
+		}
+		
+		male_names = {
+			Aaron Abner Abram Absalom Albert Amos Andreas Asher
+			Bartel Benjamin
+			Caleb Christian Christopher Clement
+			Daniel David
+			Elam Eli Elmer Elmo Ernst Eugen Ezekiel
+			Frantz Friedrich
+			Gabriel Georg Gideon
+			Heinrich Hezekiah Hiram
+			Iddo Immanuel Isaac Isaiah Ishmael Israel
+			Jakob Jeremiah Jesse Jethro Johannes Jonas Jonathan Joseph Joshua
+			Karl Kasper
+			Leroy Levi Lorentz Lukas
+			Mark Martin Matthias Mervin Micah Michael Monroe Moses
+			Nathan Noah
+			Obadiah
+			Paul Peter Philip
+			Richard
+			Samson Samuel Simon Solomon Stephen
+			Thomas
+			Ulrich Uriah
+			Viktor
+			Walter Wilhelm Willis
+			Zachariah Zephaniah
+		}
+		female_names = {
+			Abigail Anna
+			Barbara
+			Deborah
+			Elizabeth Emma Esther
+			Fannie
+			Gretchen
+			Hannah Helen
+			Judith
+			Klara
+			Lavina Leah
+			Marian Martha Mary Miriam
+			Naomi
+			Rachel Rebecca Ruth
+			Sarah Susanna
+		}
+		dynasty_of_location_prefix = "dynnp_vun"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	adelsverer = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.6 0.3 0.3 }
+	
+		cadet_dynasty_names = {
+			"dynn_Nimitz"
+			"dynn_Eisenhower"
+			"dynn_Kuechler"
+			"dynn_Kilian"
+			"dynn_Spiess"
+			"dynn_Herff"
+			"dynn_Dresel"
+			"dynn_Miller"
+			"dynn_Frels"
+			"dynn_Petri"
+			"dynn_Fischer"
+			"dynn_Hardberger"
+			"dynn_Strubberg"
+			"dynn_Kleberg"
+			"dynn_Lindheimer"
+			"dynn_Schieffer"
+			"dynn_Selig"
+			"dynn_Adolph"
+			"dynn_Dethard"
+			"dynn_Zink"
+			"dynn_Wohlgemuth"
+			"dynn_Machemehl"
+			"dynn_Glau"
+			"dynn_Furstenfeld"
+			"dynn_Roeder"
+			"dynn_Parker"
+			"dynn_Diercks"
+			"dynn_Loeffler"
+			"dynn_Ernst"
+			"dynn_Ney"
+			"dynn_Wurzbach"
+			"dynn_Meusebach"
+			"dynn_Kirschbaum"
+			"dynn_Krueger"
+			"dynn_Stahl"
+			"dynn_Reichardt"
+			"dynn_Degener"
+			"dynn_Rauschenberg"
+			"dynn_Krauskopf"
+			"dynn_Neugebauer"
+			"dynn_Cappes"
+			"dynn_Schleicher"
+			"dynn_Lungkwitz"
+			"dynn_Meier"
+			"dynn_Harring"
+			"dynn_Marx"
+			"dynn_Holekamp"
+			"dynn_Mutscher"
+			"dynn_Siemering"
+			"dynn_Abbethern"
+			"dynn_Herring"
+			"dynn_Amelung"
+			"dynn_Backofen"
+			"dynn_Zoeller"
+			"dynn_Kattmann"
+			"dynn_Deichert"
+			"dynn_Flach"
+			"dynn_Hoerner"
+			"dynn_Wundt"
+			"dynn_Kappelhoff"
+			"dynn_Merding"
+			"dynn_Lerch"
+			"dynn_Schlenning"
+			"dynn_Neff"
+			"dynn_Schuze"
+			"dynn_Wahrenberger"
+			"dynn_Bickler"
+			"dynn_Nohl"
+			"dynn_Eiband"
+			"dynn_Koebig"
+		}
+		dynasty_names = {
+			"dynn_Nimitz"
+			"dynn_Eisenhower"
+			"dynn_Kuechler"
+			"dynn_Kilian"
+			"dynn_Spiess"
+			"dynn_Herff"
+			"dynn_Dresel"
+			"dynn_Miller"
+			"dynn_Frels"
+			"dynn_Petri"
+			"dynn_Fischer"
+			"dynn_Hardberger"
+			"dynn_Strubberg"
+			"dynn_Kleberg"
+			"dynn_Lindheimer"
+			"dynn_Schieffer"
+			"dynn_Selig"
+			"dynn_Adolph"
+			"dynn_Dethard"
+			"dynn_Zink"
+			"dynn_Wohlgemuth"
+			"dynn_Machemehl"
+			"dynn_Glau"
+			"dynn_Furstenfeld"
+			"dynn_Roeder"
+			"dynn_Parker"
+			"dynn_Diercks"
+			"dynn_Loeffler"
+			"dynn_Ernst"
+			"dynn_Ney"
+			"dynn_Wurzbach"
+			"dynn_Meusebach"
+			"dynn_Kirschbaum"
+			"dynn_Krueger"
+			"dynn_Stahl"
+			"dynn_Reichardt"
+			"dynn_Degener"
+			"dynn_Rauschenberg"
+			"dynn_Krauskopf"
+			"dynn_Neugebauer"
+			"dynn_Cappes"
+			"dynn_Schleicher"
+			"dynn_Lungkwitz"
+			"dynn_Meier"
+			"dynn_Harring"
+			"dynn_Marx"
+			"dynn_Holekamp"
+			"dynn_Mutscher"
+			"dynn_Siemering"
+			"dynn_Abbethern"
+			"dynn_Herring"
+			"dynn_Amelung"
+			"dynn_Backofen"
+			"dynn_Zoeller"
+			"dynn_Kattmann"
+			"dynn_Deichert"
+			"dynn_Flach"
+			"dynn_Hoerner"
+			"dynn_Wundt"
+			"dynn_Kappelhoff"
+			"dynn_Merding"
+			"dynn_Lerch"
+			"dynn_Schlenning"
+			"dynn_Neff"
+			"dynn_Schuze"
+			"dynn_Wahrenberger"
+			"dynn_Bickler"
+			"dynn_Nohl"
+			"dynn_Eiband"
+			"dynn_Koebig"
+		}
+		
+		male_names = {
+			Alexander Anselm Antonie August
+			Burchard
+			Chester Clark
+			David Dewey Dwight
+			Earl Edgar Edward Engelbert Ernest
+			Ferdinand Francis Franklin Friedrich
+			Georg Gustav
+			Hans Harry Heinrich Hermann Homer
+			Jacob Johann Julius Justin Justus
+			Karl Kel
+			Ludolph Ludwig
+			Milton Newton
+			Nikolaus
+			Ottfried Otto Ovie
+			Paul Phil
+			Ralph Randy Raymond Richard Robert Rudolph
+			Stover
+			Tom
+			Viktor
+			William
+			Zachary
+		}
+		female_names = {
+			
+			Abby Aganetha Allison Anna
+			Barbara Becky Betty
+			Candice Carrie Cindy
+			Dora Doris Dotty
+			Edna Elizabeth Emma Erna Esther
+			Gertrude Greta
+			Hannah Harriet Helena Henrietta
+			Ingrid
+			Jane Janice Judith Judy Julia
+			Katherina
+			Lilly Lisa Lois Lynette
+			Magdalena Maggy Marge Maria Martha Michelle
+			Nancy
+			Rachel Rebecca Robyn
+			Sarah Sophie Suzy
+			Trudy
+			Wanda
+		}
+		dynasty_of_location_prefix = "dynnp_von"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

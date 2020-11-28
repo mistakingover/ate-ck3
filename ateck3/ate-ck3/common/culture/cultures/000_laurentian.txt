@@ -1,0 +1,516 @@
+﻿laurentian_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	lacustrine = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.1 0.6 0.15 }
+	
+		cadet_dynasty_names = {
+			"dynn_Mennen"
+			"dynn_Satterthwaite"
+			"dynn_Snydholm"
+			"dynn_Groesbeck"
+			"dynn_Begole"
+			"dynn_Schweigert"
+			"dynn_Sigler"
+			"dynn_Odgers"
+			"dynn_Wisner"
+			"dynn_Giddings"
+			"dynn_Movenpick"
+			"dynn_Mackinac"
+			"dynn_Manistee"
+			"dynn_Barre"
+			"dynn_Greysolon"
+			"dynn_Durantaye"
+			"dynn_Ignace"
+			"dynn_Louvigny"
+			"dynn_Cadilac"
+			"dynn_Vandyke"
+			"dynn_Hubbard"
+			"dynn_Mayewski"
+			"dynn_Beyrle"
+			"dynn_Scagel"
+			"dynn_Beaumont"
+			"dynn_Kincheloe"
+			"dynn_Heston"
+			"dynn_DeVos"
+			"dynn_Boisblanc"
+			"dynn_Macomb"
+			"dynn_Levine"
+			"dynn_Kowalski"
+			"dynn_Agree"
+			"dynn_Majerle"
+			"dynn_Lathers"
+			"dynn_Oosterhouse"
+			"dynn_Routsong"
+			"dynn_Guisewite"
+			"dynn_Bullough"
+			"dynn_Overbeek"
+			"dynn_Greiner"
+			"dynn_Bargowski"
+			"dynn_Brunvand"
+			"dynn_DePree"
+			"dynn_Mikolowski"
+			"dynn_Potvin"
+			"dynn_Deyoung"
+			"dynn_Beierwaltes"
+			"dynn_Rifenburg"
+			"dynn_Labadie"
+			"dynn_Orvis"
+			"dynn_Meijer"
+			"dynn_Fenlon"
+			"dynn_Haverdink"
+			"dynn_Bogardus"
+			"dynn_Catton"
+			"dynn_Lewandowski"
+			"dynn_Carre"
+			"dynn_LaCross"
+			"dynn_Grambau"
+			"dynn_Witkowski"
+			"dynn_Behning"
+			"dynn_Marlatt"
+			"dynn_Nahorodny"
+			"dynn_Deboer"
+			"dynn_Raaphorst"
+			"dynn_Charon"
+			"dynn_Musselwhite"
+			"dynn_Andree"
+			"dynn_Snyder"
+		}
+		dynasty_names = {
+			"dynn_Mennen"
+			"dynn_Satterthwaite"
+			"dynn_Snydholm"
+			"dynn_Groesbeck"
+			"dynn_Begole"
+			"dynn_Schweigert"
+			"dynn_Sigler"
+			"dynn_Odgers"
+			"dynn_Wisner"
+			"dynn_Giddings"
+			"dynn_Movenpick"
+			"dynn_Mackinac"
+			"dynn_Manistee"
+			"dynn_Barre"
+			"dynn_Greysolon"
+			"dynn_Durantaye"
+			"dynn_Ignace"
+			"dynn_Louvigny"
+			"dynn_Cadilac"
+			"dynn_Vandyke"
+			"dynn_Hubbard"
+			"dynn_Mayewski"
+			"dynn_Beyrle"
+			"dynn_Scagel"
+			"dynn_Beaumont"
+			"dynn_Kincheloe"
+			"dynn_Heston"
+			"dynn_DeVos"
+			"dynn_Boisblanc"
+			"dynn_Macomb"
+			"dynn_Levine"
+			"dynn_Kowalski"
+			"dynn_Agree"
+			"dynn_Majerle"
+			"dynn_Lathers"
+			"dynn_Oosterhouse"
+			"dynn_Routsong"
+			"dynn_Guisewite"
+			"dynn_Bullough"
+			"dynn_Overbeek"
+			"dynn_Greiner"
+			"dynn_Bargowski"
+			"dynn_Brunvand"
+			"dynn_DePree"
+			"dynn_Mikolowski"
+			"dynn_Potvin"
+			"dynn_Deyoung"
+			"dynn_Beierwaltes"
+			"dynn_Rifenburg"
+			"dynn_Labadie"
+			"dynn_Orvis"
+			"dynn_Meijer"
+			"dynn_Fenlon"
+			"dynn_Haverdink"
+			"dynn_Bogardus"
+			"dynn_Catton"
+			"dynn_Lewandowski"
+			"dynn_Carre"
+			"dynn_LaCross"
+			"dynn_Grambau"
+			"dynn_Witkowski"
+			"dynn_Behning"
+			"dynn_Marlatt"
+			"dynn_Nahorodny"
+			"dynn_Deboer"
+			"dynn_Raaphorst"
+			"dynn_Charon"
+			"dynn_Musselwhite"
+			"dynn_Andree"
+			"dynn_Snyder"
+		}
+		
+		male_names = {
+			Alexander Alvin Anders Abel Ahab Abram
+			Burbot Benson Bollard Bogdan
+			Clark Carl Cyrus Christian Cable Cyril
+			Dexter Davit Dodge Dromond Dale
+			Elmhart Edmund Elisha Edsel Eric
+			Fitzgerald Fardage Frederick Franklin
+			Glenlyon Griffon George Gudgeon Gideon Gybe Gordon Gregory Guy
+			Hamilton Henry Hyac Hydrus Hackett Halyard Hannibal Hugh
+			Isaac Irvin Ishmail
+			Jeffrey Jack James
+			Kedge
+			Lawrence Lewis Lazaret Lorne
+			Madison Martin Mather Michael Mark Marin Mammut
+			Ned
+			Owen Oakum Oliver Odocoil
+			Pike Paul Peter Picton Pinus
+			Robert Richard Rogday Rubin Roband Reeve Robin Roger
+			Sculpin Steffan Scotiadoc Sullivan Stemson Stevedore Seymour Spencer Salvelin
+			Tim Theodore Thaddeus Townsend
+			Will Walleye Wyandot Wyatt
+			Zachary
+		}
+		female_names = {
+			Ann Arbora Alma Algoma Alyssa Acacia Aurora
+			Bee Barbara Brook Blossom
+			Chelsea Chippewa Charlotte Columbia Cobia Casey Clair Crystal Cecilia
+			Doloma Dawn
+			Edna Edith
+			Gladys Georgia Genoa
+			Haida Hagar
+			Iris Isabelle
+			Josephine
+			Marjorie Margaret Marie Moira Marielle Melissa
+			Nancy Norgoma
+			Perch Petra
+			Rose Rachel
+			Sylph Stephanie Sprite Sarnia Shanty
+			Vienna Vanessa Veronica
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 10
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	steelfolk = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.6 0.55 0.45 }
+	
+		cadet_dynasty_names = {
+			"dynn_Weber"
+			"dynn_Burgholm"
+			"dynn_Steiger"
+			"dynn_Brennendhand"
+			"dynn_Day"
+			"dynn_Packhardt"
+			"dynn_Hicksford"
+			"dynn_Gretson"
+			"dynn_Potrusk"
+			"dynn_Braun"
+			"dynn_Murrough"
+			"dynn_Teller"
+			"dynn_Lentz"
+			"dynn_Hartman"
+			"dynn_Oxgrill"
+			"dynn_Benzrigger"
+			"dynn_Parker"
+			"dynn_Blankenship"
+			"dynn_Thermastecker"
+			"dynn_Ironmane"
+			"dynn_Dampblast"
+			"dynn_Farkas"
+			"dynn_Hardrick"
+			"dynn_Weaver"
+			"dynn_Fleischmann"
+			"dynn_Duranck"
+			"dynn_Diebold"
+			"dynn_Napton"
+			"dynn_Brennaman"
+			"dynn_Farell"
+			"dynn_Rickenbacker"
+			"dynn_Loehr"
+			"dynn_Shepherd"
+			"dynn_Emhardt"
+			"dynn_Schneider"
+			"dynn_Baxtresser"
+			"dynn_Donahue"
+			"dynn_Kosuth"
+			"dynn_Steelbender"
+			"dynn_Heisman"
+			"dynn_Gronkowski"
+			"dynn_Hudnut"
+			"dynn_Krantz"
+			"dynn_Wurlitzer"
+			"dynn_Scudder"
+			"dynn_Hofstadter"
+			"dynn_Meyer"
+			"dynn_Grauman"
+			"dynn_Dellinger"
+			"dynn_Kettering"
+			"dynn_Heinz"
+			"dynn_Heimlich"
+			"dynn_Hersteller"
+			"dynn_Greatbatch"
+			"dynn_Lasky"
+			"dynn_Rollingmill"
+			"dynn_Giesler"
+			"dynn_Oberlin"
+			"dynn_Slaghauler"
+			"dynn_Mengeling"
+			"dynn_Carpenter"
+			"dynn_Spitulski"
+			"dynn_Nemeth"
+			"dynn_Sheetmaker"
+			"dynn_Cronauer"
+			"dynn_Studebaker"
+			"dynn_Slezak"
+			"dynn_Muransky"
+			"dynn_Murphy"
+			"dynn_Strassberger"
+			"dynn_Closterman"
+			"dynn_Clancy"
+			"dynn_Ibold"
+			"dynn_Allhauer"
+			"dynn_Osterloh"
+			"dynn_Deutsch"
+			"dynn_Sundermann"
+			"dynn_Steenrod"
+			"dynn_Folzenlogen"
+			"dynn_Schembechler"
+			"dynn_Gewehrman"
+			"dynn_Doherty"
+			"dynn_Argetsinger"
+			"dynn_Ehrmann"
+			"dynn_Bellamy"
+			"dynn_Sullinger"
+			"dynn_Buchwalter"
+			"dynn_Wagner"
+			"dynn_Druckenmiller"
+			"dynn_Fellers"
+			"dynn_Kovacs"
+			"dynn_Fineforger"
+			"dynn_Derringer"
+			"dynn_Schulman"
+			"dynn_Conley"
+			"dynn_Huberbreaker"
+			"dynn_Mohrlock"
+			"dynn_Nowak"
+			"dynn_Sternberger"
+			"dynn_Flanigan"
+			"dynn_Rieveschl"
+			"dynn_Oberholtzer"
+			"dynn_Welder"
+			"dynn_Ostrosky"
+			"dynn_Kaufmann"
+			"dynn_Westinghouse"
+			"dynn_Zimmermann"
+			"dynn_Murdock"
+			"dynn_Fisher"
+			"dynn_Greatbatch"
+		}
+		dynasty_names = {
+			"dynn_Weber"
+			"dynn_Burgholm"
+			"dynn_Steiger"
+			"dynn_Brennendhand"
+			"dynn_Day"
+			"dynn_Packhardt"
+			"dynn_Hicksford"
+			"dynn_Gretson"
+			"dynn_Potrusk"
+			"dynn_Braun"
+			"dynn_Murrough"
+			"dynn_Teller"
+			"dynn_Lentz"
+			"dynn_Hartman"
+			"dynn_Oxgrill"
+			"dynn_Benzrigger"
+			"dynn_Parker"
+			"dynn_Blankenship"
+			"dynn_Thermastecker"
+			"dynn_Ironmane"
+			"dynn_Dampblast"
+			"dynn_Farkas"
+			"dynn_Hardrick"
+			"dynn_Weaver"
+			"dynn_Fleischmann"
+			"dynn_Duranck"
+			"dynn_Diebold"
+			"dynn_Napton"
+			"dynn_Brennaman"
+			"dynn_Farell"
+			"dynn_Rickenbacker"
+			"dynn_Loehr"
+			"dynn_Shepherd"
+			"dynn_Emhardt"
+			"dynn_Schneider"
+			"dynn_Baxtresser"
+			"dynn_Donahue"
+			"dynn_Kosuth"
+			"dynn_Steelbender"
+			"dynn_Heisman"
+			"dynn_Gronkowski"
+			"dynn_Hudnut"
+			"dynn_Krantz"
+			"dynn_Wurlitzer"
+			"dynn_Scudder"
+			"dynn_Hofstadter"
+			"dynn_Meyer"
+			"dynn_Grauman"
+			"dynn_Dellinger"
+			"dynn_Kettering"
+			"dynn_Heinz"
+			"dynn_Heimlich"
+			"dynn_Hersteller"
+			"dynn_Greatbatch"
+			"dynn_Lasky"
+			"dynn_Rollingmill"
+			"dynn_Giesler"
+			"dynn_Oberlin"
+			"dynn_Slaghauler"
+			"dynn_Mengeling"
+			"dynn_Carpenter"
+			"dynn_Spitulski"
+			"dynn_Nemeth"
+			"dynn_Sheetmaker"
+			"dynn_Cronauer"
+			"dynn_Studebaker"
+			"dynn_Slezak"
+			"dynn_Muransky"
+			"dynn_Murphy"
+			"dynn_Strassberger"
+			"dynn_Closterman"
+			"dynn_Clancy"
+			"dynn_Ibold"
+			"dynn_Allhauer"
+			"dynn_Osterloh"
+			"dynn_Deutsch"
+			"dynn_Sundermann"
+			"dynn_Steenrod"
+			"dynn_Folzenlogen"
+			"dynn_Schembechler"
+			"dynn_Gewehrman"
+			"dynn_Doherty"
+			"dynn_Argetsinger"
+			"dynn_Ehrmann"
+			"dynn_Bellamy"
+			"dynn_Sullinger"
+			"dynn_Buchwalter"
+			"dynn_Wagner"
+			"dynn_Druckenmiller"
+			"dynn_Fellers"
+			"dynn_Kovacs"
+			"dynn_Fineforger"
+			"dynn_Derringer"
+			"dynn_Schulman"
+			"dynn_Conley"
+			"dynn_Huberbreaker"
+			"dynn_Mohrlock"
+			"dynn_Nowak"
+			"dynn_Sternberger"
+			"dynn_Flanigan"
+			"dynn_Rieveschl"
+			"dynn_Oberholtzer"
+			"dynn_Welder"
+			"dynn_Ostrosky"
+			"dynn_Kaufmann"
+			"dynn_Westinghouse"
+			"dynn_Zimmermann"
+			"dynn_Murdock"
+			"dynn_Fisher"
+			"dynn_Greatbatch"
+		}
+		
+		male_names = {
+			Abram Adam Albert Alexander Alfred Anthony Armstrong Art
+			Benjamin Bentley Berick Bessemer Boris Brendan Bruce Burrill
+			Casimir Christian Conrad
+			Daniel Dave Dean Dexter Dominick Donald
+			Edgar Edward Edmund Elwood Emerick Emerson Emmett Erick Eugene
+			Filip Frank Fritz
+			George Gerald Gilbert Glenn Greg Gustav
+			Hal Harley Henry Herman Howard Hudson Hugo
+			Irvin Isaac
+			Jakob Jerome John Joseph Julian
+			Karl Kirk Kurt
+			Ladislaus Larry Laszlo Leonard Lewis Lofton Luman Luther
+			Manning Marklin Marshall Martin Maynard Mike
+			Nathan Neil Norman
+			Oliver Orvil Otto
+			Paul Payton Pete Preston
+			Ralph Randy Reynolds Rickard Robert Roger Ron Roosevelt Ross
+			Schuyler Scott Sherod Stanford Stanislaus Stanley Steppen Stewart
+			Terry Theodor Thomm Tim
+			Viktor
+			Walther Wayne Wilbur William Wolf Woodward
+			Yaroslav
+			Zachary
+		}
+		female_names = {
+			Adela Alexandra Allison Alyssa Amanda Angelica Ann Antonia Aurora
+			Betty
+			Cathy Celia Chelsea Cheryl Corvette Courtney
+			Daniela Dawn Debby Diane Dorothy
+			Eleanor Ellen Emma Erika Esther Evelyn
+			Gabriella Gertrude Gladys Gretchen
+			Hailey Heather Helen
+			Isabella Ivanna
+			Janet
+			Kathleen Kristina
+			Lenore Lois Lorelei
+			Madge Margaret Martha Mary Maxine Melissa Michelle
+			Nancy Natalie Nicole Noma
+			Pamela Paula
+			Rachel Rebecca Regina Rita Rosa Roxy Ruth
+			Sara Sofia Steffi Susan
+			Tamara
+			Viktoria Violet Virginia
+			Wendy Willa
+			Yvette
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}
