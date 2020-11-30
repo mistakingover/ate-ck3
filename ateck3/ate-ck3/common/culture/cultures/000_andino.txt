@@ -299,22 +299,22 @@
 		}
 		
 		male_names = {
-			AarO_n Abel AdriA_n Agapito Agaton Alba Alcides Alejandro A_lvaro Andolin AndrE_s AndrociO_n Angelo Antíoco Aquiles Argiro Aristides Aristio Aristipo AristO_teles AtenA_goras
+			AarO_n Abel AdriA_n Agapito Alcides Alejandro A_lvaro AndrE_s AndrociO_n Angelo AntI_oco Aquiles Argiro Aristides Aristio Aristipo AristO_teles AtenA_goras
 			Baldomero Belisario Bernardo
 			Camilo Carlos CE_sar ClI_maco CristiA_n Cristofer
 			Daniel DarI_o Decio
 			E_der EfraI_n Elkin Emiliano Epifanio Ernio Errando
 			FabiA_n Felipe FE_lix Fernando Florentino Francisco
-			Gabriel Gaio Gaitan Gaston Gilberto Gildardo Giron Gustavo
-			HE_ctor Helibelton Heliodoro HE_racles HernA_n Herodoto Holguin Honor Hugo Humberto
+			Gabriel Gaio Gaston Gilberto Gildardo Gustavo
+			HE_ctor Helibelton Heliodoro HE_racles HernA_n Herodoto Honor Hugo Humberto
 			Idomeneo Isidoro IvA_n
-			Jaider Jairo JA_mison Jefferson Jeison Jerrald Jhon Jonathan JosE_ Josue Juan Justo
+			Jaider Jairo JA_mison Jefferson Jeison Jerrald Jhon Jonathan JosE_ JosuE_ Juan Justo
 			Lantz Leano LeO_n Leonel Luis
 			Macario Manuel Mariano Matro Mauricio Menelao Metelo Montealegre Montrel
-			Neider Nelson NE_stor Nicanor Nicátor Nizias
+			Neider Nelson NE_stor Nicanor NicA_tor Nizias
 			O_scar
-			Pablo PalE_fato Pancho Parmenio Pedro Pirro Plutarco PlutO_n Porfiro Pupieno
-			Radamel Rafael Ramone Remedios RenE_ Rodrigo Rubiano
+			Pablo PalE_fato Pancho Parmenio Pedro Plutarco PlutO_n Porfirio Pupieno
+			Radamel Rafael RamO_n Remedios RenE_ Rodrigo Rubiano
 			Sabino Santiago SebastiA_n Sejano Seleuco Sergio SimO_n SO_crates Stefan
 			TemI_stocles TeO_filo TimoleO_n TomA_s Tulio
 			VI_ctor Victorino Vladimir
@@ -322,14 +322,14 @@
 			YE_iler YuliA_n
 		}
 		female_names = {
-			Agripina AlbalucI_a Albira Alejandra Anastasia Ana Arburua Artemisa Atenea
+			Agripina AlbalucI_a Albira Alejandra Ana Anastasia Artemisa Atenea
 			Basa Beatriz Belita Bethania
-			CarmiN_a Carola Carlotta Cassandra Catalina Clareta Cristina
+			Carlotta CarmiN_a Carola Cassandra Catalina Clareta Cristina
 			Daniela DE_bora Delia DemE_ter Despena Diana Digna Dita Dulcea
 			EstefanI_a Eugenia Eulalia EurI_nome Eva
 			Fausta Filomela Freya Frontera
 			Helena
-			Ignacia Iria Iris Isabella Isidora
+			Ignacia Iria Iris Isabel Isidora
 			Jessenia Juanita
 			Katalin
 			Landrada Laura Lavina Leocadia Lina Lourdes
@@ -341,7 +341,7 @@
 			Tatiana Teodora Teresa Thalia
 			Victoria Victoriana
 			Ximena Xiomara
-			Zepeda Zilia Zorione Zutoia
+			Zepeda Zilia Zorione
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -559,7 +559,7 @@
 		
 		male_names = {
 			Abelardo Alano Alberto Alvino Anderson A_ngel Antonio
-			Carlos CE_sar Chucho Cipriano Cristoval
+			Carlos CE_sar Chucho Cipriano CristO_val
 			Daniel Dante Didier Diego DiO_genes
 			E_dgar Eduardo Engelbert Eustoquio
 			Francisco Fruto
@@ -572,26 +572,26 @@
 			Manuel Marco Marcos Maurice Miguel
 			NapoleO_n Nelson Noel
 			Palben Pedro
-			Rafael Ramón Raúl Ricardo Rubén
+			Rafael RamO_n RaU_l Ricardo RubE_n
 			Sergio SimO_n
 			Timoteo Tulio
 			Victorio
 			William
 		}
 		female_names = {
-			Adriana Alejandrina Alexandra Alyz Amalia Andrea Angela Aura
+			Adriana Alejandrina Alexandra Alyz Amalia Andrea A_ngela Aura
 			Blanca Bono
 			Catherine Christina Clarisa
-			Daniela Debora Dreena
-			Edymar Elian Elizabeth Elvita Emma Ester
-			Federica Francis Francisca
+			Daniela DE_bora Dreena
+			Edymar EliA_n Elizabeth Elvita Emma Ester
+			Federica Francisca
 			Gabriela Galante
 			Hilda
 			Irene Iris Isabela
 			Jacqueline Judith
 			Karen
 			Laksmi Lolita
-			Margarita Maria Marjorie Mendi Michelle Miriam Monica
+			Margarita MarI_a Marjorie Mendi Michelle Miriam MO_nica
 			Natalia
 			Patricia
 			Scarlet Senalda Stephanie Susan
@@ -893,9 +893,9 @@
 		}
 		
 		male_names = {
-			Alberto AgustI_n Alfonso Alfredo Almir A_lvaro Anacleto AndrE_s Antanas Armando Arnoldo Arturo Ayron 
+			AgustI_n Alberto Alfonso Alfredo Almir A_lvaro Anacleto AndrE_s Antanas Armando Arnoldo Arturo Ayron 
 			BenjamI_n Bonner Breiner
-			Carlos CE_sar Claudio Cristian
+			Carlos CE_sar Claudio CristiA_n
 			Daniel Deivy Dionisio
 			Eduardo Enrique Ernesto Esteban
 			Fainer Felipe Fernando Francisco
@@ -908,7 +908,7 @@
 			NicolA_s
 			Omar Orles O_scar
 			Patricio Pedro
-			Rafael Rodrigo Rodolfo Rufino
+			Rafael Rodolfo Rodrigo Rufino
 			Santiago SebastiA_n SimO_n
 			Virgilio
 		}
@@ -921,14 +921,14 @@
 			Fabiola Fanny Felicia Fernanda Florencia Francisca
 			Gabriela Gavy Geraldine Giovinna Gisela
 			HipO_lita
-			Ilana Ines Isabella
+			Ilana InE_s Isabela
 			Jessica Josefa Josefina Juana Julieth
 			Karen Katherin Korina
 			Lady Laura Leicy Leidy Lina Linda Lizeth Lucero Luz
-			Magali Manuela Marcela María Mariana Marta Mayra Michell Milena
+			Magali Manuela Marcela MarI_a Mariana Marta Mayra Michell Milena
 			Nancy Natalia Natasha Nayerly Nicole
 			Paola Patricia Paula
-			Sandra Sara Sofía Stefany Stephanie
+			Sandra Sara SofI_a Stefany Stephanie
 			Teresa
 			Valentina Valeria Vanessa Viverly
 			Wendy
@@ -1173,7 +1173,7 @@
 			Bernardo
 			Camilo Carlos CE_sar Cristian
 			Daniel Darwin David DE_iber DuvA_n
-			Eder Edison Eduardo Edwin Ezequiel
+			E_der Edison Eduardo Edwin Ezequiel
 			Felipe Fernando Foad
 			Gabriel Gerardo Gilberto Giovanni
 			Harold HE_ctor HermA_n Hugo Humberto
@@ -1200,7 +1200,7 @@
 			Ingrid Isabel Isabella
 			Jessica Jimena Jobana Johana Jordana Josefina Juana Julieta
 			Karime Kelly
-			Laura Leidy Leysy Liliana Linda Livia Lizeth Lucia Lupe
+			Laura Leidy Leysy Liliana Linda Livia Lizeth LucI_a Lupe
 			Manuela Marcela MarI_a Maureen Maya Melanie Michelle Miguela MO_nica
 			Natalia Natalina Nayerly
 			Ospina
