@@ -1,0 +1,453 @@
+﻿aridomerican_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	raramuri = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.2 0.5 0.8 }
+	
+		cadet_dynasty_names = {
+			"dynn_Cubesare"
+			"dynn_KI_mare"
+			"dynn_Sisoguichic"
+			"dynn_Vela"
+			"dynn_Balleza"
+			"dynn_Castillo"
+			"dynn_Rehogochi"
+			"dynn_Recalache"
+			"dynn_Lojero"
+			"dynn_Sorichique"
+			"dynn_FrI_as"
+			"dynn_Munerachi"
+			"dynn_SatevO_"
+			"dynn_Ocampo"
+			"dynn_Nariachi"
+			"dynn_Cachihuichi"
+			"dynn_Montes"
+			"dynn_Bachotigori"
+			"dynn_Chabochi"
+			"dynn_Urike"
+			"dynn_Bustillos"
+			"dynn_BajichI_"
+			"dynn_Baquiriachi"
+			"dynn_Baldenegro"
+			"dynn_Sahueachi"
+			"dynn_BachI_niva"
+			"dynn_BasasachI_"
+			"dynn_Aboreachi"
+			"dynn_Guerrero"
+			"dynn_Lucianachi"
+			"dynn_Norihue"
+			"dynn_Pahuiranachi"
+			"dynn_Jariz"
+			"dynn_Uripachi"
+			"dynn_EstorbellI_n"
+			"dynn_Nararachi"
+			"dynn_Cuchiverachi"
+			"dynn_Bahuichivo"
+			"dynn_RamI_rez"
+			"dynn_Batuibo"
+			"dynn_BotO_rachi"
+			"dynn_Rosanachi"
+			"dynn_Guevara"
+			"dynn_Bocoyna"
+			"dynn_Caborachi"
+			"dynn_Yahuirachi"
+			"dynn_CarichI_"
+			"dynn_Cochapare"
+			"dynn_CusA_rare"
+			"dynn_Quimare"
+			"dynn_ChorE_achi"
+			"dynn_Ronquillo"
+			"dynn_Orimboa"
+			"dynn_Coyachi"
+			"dynn_ChinatU_"
+			"dynn_Cabada"
+			"dynn_Sarabeachi"
+			"dynn_Pandito"
+			"dynn_Casillas"
+			"dynn_Gasisuchi"
+			"dynn_Chihuachi"
+			"dynn_Norogachi"
+			"dynn_MatachI_"
+			"dynn_LabA_chi"
+			"dynn_Ilachi"
+			"dynn_Temechi"
+			"dynn_PapajI_chi"
+			"dynn_PahuichI_que"
+			"dynn_Rocoroybo"
+			"dynn_Herrada"
+		}
+		dynasty_names = {
+			"dynn_Cubesare"
+			"dynn_KI_mare"
+			"dynn_Sisoguichic"
+			"dynn_Vela"
+			"dynn_Balleza"
+			"dynn_Castillo"
+			"dynn_Rehogochi"
+			"dynn_Recalache"
+			"dynn_Lojero"
+			"dynn_Sorichique"
+			"dynn_FrI_as"
+			"dynn_Munerachi"
+			"dynn_SatevO_"
+			"dynn_Ocampo"
+			"dynn_Nariachi"
+			"dynn_Cachihuichi"
+			"dynn_Montes"
+			"dynn_Bachotigori"
+			"dynn_Chabochi"
+			"dynn_Urike"
+			"dynn_Bustillos"
+			"dynn_BajichI_"
+			"dynn_Baquiriachi"
+			"dynn_Baldenegro"
+			"dynn_Sahueachi"
+			"dynn_BachI_niva"
+			"dynn_BasasachI_"
+			"dynn_Aboreachi"
+			"dynn_Guerrero"
+			"dynn_Lucianachi"
+			"dynn_Norihue"
+			"dynn_Pahuiranachi"
+			"dynn_Jariz"
+			"dynn_Uripachi"
+			"dynn_EstorbellI_n"
+			"dynn_Nararachi"
+			"dynn_Cuchiverachi"
+			"dynn_Bahuichivo"
+			"dynn_RamI_rez"
+			"dynn_Batuibo"
+			"dynn_BotO_rachi"
+			"dynn_Rosanachi"
+			"dynn_Guevara"
+			"dynn_Bocoyna"
+			"dynn_Caborachi"
+			"dynn_Yahuirachi"
+			"dynn_CarichI_"
+			"dynn_Cochapare"
+			"dynn_CusA_rare"
+			"dynn_Quimare"
+			"dynn_ChorE_achi"
+			"dynn_Ronquillo"
+			"dynn_Orimboa"
+			"dynn_Coyachi"
+			"dynn_ChinatU_"
+			"dynn_Cabada"
+			"dynn_Sarabeachi"
+			"dynn_Pandito"
+			"dynn_Casillas"
+			"dynn_Gasisuchi"
+			"dynn_Chihuachi"
+			"dynn_Norogachi"
+			"dynn_MatachI_"
+			"dynn_LabA_chi"
+			"dynn_Ilachi"
+			"dynn_Temechi"
+			"dynn_PapajI_chi"
+			"dynn_PahuichI_que"
+			"dynn_Rocoroybo"
+			"dynn_Herrada"
+		}
+		
+		male_names = {
+			Abi AbijI_ AcA_ AcE_nisa Acmu AhuI_ AhU_mari AmI_ AnahuI_ AnE_ AreponA_puchi ArI_ ArihuA_ AriO_sibA_ Arturo AsA_ri AsE_siN_ Atisi AwA_scina AwI_rsiniri AyA_simi
+			BaarI_ BacA_ Bahi BahI_ncina Bene BenE_rsina BichihuA_ BinE_ Binori BiquiyA_ BirE_ BirinA_ BitebA_ BitechI_ BotonA_ma BuchI_ BucurI_ Bure Burito 
+			CandameN_a CA_ndido Caniri Capi CapO_ Carari CarichI_ CarihuE_ Carlos ChabE_ Chibi ChicU_ri CI_ba Cota Cristian Cuta
+			Echi ElI_as
+			GamE_ GarA_ GerE_rami 
+			HuE_ HuiyE_ 
+			IcI_nsima Isi IsI_insia IyE_
+			Jabu JesU_s Jicuri JO_rsinila JosE_ JuliA_n Julio Juri
+			KacI_siniri KA_wi KE_chicaniri Kobisi Kobi KO_ci KorU_tisimi Kupa
+			Maci MaparI_ MarI_ MartI_n Mateo Muchari MunE_ Muquira Muripi Musena
+			NaharA_pnima NahuajI_ Napari NapE_ NapI_ciu NaquI_ NarA_kuri NarcurI_ NarE_ NarI_huani NarU_ciri Nata Nira Noca NoE_ Noko
+			Ohi Omero OpE_scanaro OpE_sciniro Osa O_scar
+			Paco PagO_tami PakO_tami PA_ksinima Pamachi Pancho ParaE_rciniro PicI_ra Pura
+			QuI_mare
+			Rahui RajA_ Ree RemE_ncani RicibU_rsiri RihibA_nsa RinE_ RokO_ RopokO_kiri Roque RorO_oncani
+			SapA_rsimi SatE_ SaU_l Seba Seka SimA_snura SinA_scina Siwa Sokoruame Soma Sopori Soru SumE_ SurE_ SU_rniri
+			TarI_ Teporaca TicI_ksima TomA_s Tonachi TorE_cani Toribio
+			Uba UbA_scani UrI_
+			Wari Wasa WikarA_ncane WikuwA_scina Wiri
+		}
+		female_names = {
+			AbE_ Abi AcA_ Adela AhuI_ AmI_gohua Ana AnayA_huari ArI_ ArichE_ ArihuA_ ArihuE_ ArihuiA_ AtI_scanara AwA_scina
+			BacA_ BajI_ Basaseachi BimorI_ Binori BiquiyA_ BirE_ BirE_tari BirinA_ BitE_ BitebA_ BO_isi BucurI_ Burito BusI_
+			CabI_ Capi Caraba CarE_ CE_rami CerewA_ka ChabE_ ChA_ti Coi 
+			GamE_ Guada
+			HuE_
+			IcarE_ InE_s IyE_ Iyena
+			Jabu Janiri JI_pi Juana Julia
+			KirI_sina KorA_ci KorimE_ni KorU_tisimi
+			Laura Lila Lisa LohuI_ Luisa
+			Macarehua MachI_ MahuiyA_ ManA_ MarI_a Mariana MorI_ MU_ci MunI_ MurA_ MU_ri Muripi Musena
+			NapA_ca NA_risimi Nata NibI_ra NijI_ NirU_ Noca
+			Ohi Osa
+			PagO_tami PA_ksinimi Paola ParaE_rcanaro Paz Perla Pewa PorA_ptiniri
+			RahuI_ Raqiel Raramnu RarA_muri Ree RemE_ncani Rita Rono RucuchU_ri
+			SahuI_ SehuE_ SikA_ra SinA_scina SipU_ca Soma Suku SupA_niri SurE_
+			Teresa TicI_ksima TurI_o
+			Uba UbA_sniri Uku
+			Wari Wasa
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	#Credit to Mr_Badaniel
+	cahita = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.6 0.8 0.9 }
+	
+		cadet_dynasty_names = {
+			"dynn_Buitimea"
+			"dynn_ArA_mbula"
+			"dynn_Estrella"
+			"dynn_Yoquique"
+			"dynn_ZuN_iga"
+			"dynn_A_vila"
+			"dynn_Nebuay"
+			"dynn_Mutosa"
+			"dynn_Aki"
+			"dynn_Cmiique"
+			"dynn_Alamea"
+			"dynn_Sarabia"
+			"dynn_Ringo"
+			"dynn_Huiqui"
+			"dynn_Cano"
+			"dynn_Bacasegua"
+			"dynn_Batwe"
+			"dynn_Basopoli"
+			"dynn_TE_llez"
+			"dynn_PeN_U_N_uri"
+			"dynn_Camacho"
+			"dynn_Somochi"
+			"dynn_Trillo"
+			"dynn_Baysewa"
+			"dynn_Tori"
+			"dynn_Castellano"
+			"dynn_Betemea"
+			"dynn_Siarqui"
+			"dynn_Arenas"
+			"dynn_Esquer"
+			"dynn_Anguamea"
+			"dynn_Buichileme"
+			"dynn_Moroyoqui"
+			"dynn_Chuumujji"
+			"dynn_Elesuqui"
+			"dynn_Sotomea"
+			"dynn_Siqueiros"
+			"dynn_Granillo"
+			"dynn_Buenamea"
+			"dynn_Yoquigui"
+			"dynn_Bainori"
+			"dynn_Yolimea"
+			"dynn_Yucupico"
+			"dynn_ObregO_n"
+			"dynn_Jocobi"
+			"dynn_Yoquihui"
+			"dynn_Mumulmea"
+			"dynn_Ubamea"
+			"dynn_Sialiqui"
+			"dynn_Flores"
+			"dynn_Leyba"
+			"dynn_Yevismea"
+			"dynn_Calles"
+			"dynn_Gocobachi"
+			"dynn_Fimbres"
+			"dynn_Moya"
+			"dynn_Oximea"
+			"dynn_Balmea"
+			"dynn_Jatomea"
+			"dynn_Cozarit"
+			"dynn_Jitamea"
+			"dynn_Sanaba"
+			"dynn_Valenzuela"
+			"dynn_Jichiumea"
+			"dynn_Fierro"
+			"dynn_Kutabocha"
+			"dynn_Jupamea"
+			"dynn_Matus"
+			"dynn_Bedoya"
+			"dynn_Machijisa"
+			"dynn_Aguilar"
+			"dynn_Yautmea"
+			"dynn_Jusacamea"
+			"dynn_A_lvarez"
+			"dynn_GarcI_a"
+			"dynn_Ojeda"
+			"dynn_Neyoy"
+			"dynn_Omokoli"
+			"dynn_Ontamucha"
+			"dynn_Tamayo"
+		}
+		dynasty_names = {
+			"dynn_Buitimea"
+			"dynn_ArA_mbula"
+			"dynn_Estrella"
+			"dynn_Yoquique"
+			"dynn_ZuN_iga"
+			"dynn_A_vila"
+			"dynn_Nebuay"
+			"dynn_Mutosa"
+			"dynn_Aki"
+			"dynn_Cmiique"
+			"dynn_Alamea"
+			"dynn_Sarabia"
+			"dynn_Ringo"
+			"dynn_Huiqui"
+			"dynn_Cano"
+			"dynn_Bacasegua"
+			"dynn_Batwe"
+			"dynn_Basopoli"
+			"dynn_TE_llez"
+			"dynn_PeN_U_N_uri"
+			"dynn_Camacho"
+			"dynn_Somochi"
+			"dynn_Trillo"
+			"dynn_Baysewa"
+			"dynn_Tori"
+			"dynn_Castellano"
+			"dynn_Betemea"
+			"dynn_Siarqui"
+			"dynn_Arenas"
+			"dynn_Esquer"
+			"dynn_Anguamea"
+			"dynn_Buichileme"
+			"dynn_Moroyoqui"
+			"dynn_Chuumujji"
+			"dynn_Elesuqui"
+			"dynn_Sotomea"
+			"dynn_Siqueiros"
+			"dynn_Granillo"
+			"dynn_Buenamea"
+			"dynn_Yoquigui"
+			"dynn_Bainori"
+			"dynn_Yolimea"
+			"dynn_Yucupico"
+			"dynn_ObregO_n"
+			"dynn_Jocobi"
+			"dynn_Yoquihui"
+			"dynn_Mumulmea"
+			"dynn_Ubamea"
+			"dynn_Sialiqui"
+			"dynn_Flores"
+			"dynn_Leyba"
+			"dynn_Yevismea"
+			"dynn_Calles"
+			"dynn_Gocobachi"
+			"dynn_Fimbres"
+			"dynn_Moya"
+			"dynn_Oximea"
+			"dynn_Balmea"
+			"dynn_Jatomea"
+			"dynn_Cozarit"
+			"dynn_Jitamea"
+			"dynn_Sanaba"
+			"dynn_Valenzuela"
+			"dynn_Jichiumea"
+			"dynn_Fierro"
+			"dynn_Kutabocha"
+			"dynn_Jupamea"
+			"dynn_Matus"
+			"dynn_Bedoya"
+			"dynn_Machijisa"
+			"dynn_Aguilar"
+			"dynn_Yautmea"
+			"dynn_Jusacamea"
+			"dynn_A_lvarez"
+			"dynn_GarcI_a"
+			"dynn_Ojeda"
+			"dynn_Neyoy"
+			"dynn_Omokoli"
+			"dynn_Ontamucha"
+			"dynn_Tamayo"
+		}
+		
+		male_names = {
+			A_bai Alejandro A_lvaro Anastasio Antonio
+			Ba_am Baawe Bachi Beojko Bonifacio
+			CajemE_ Calixto Cho_awe Chucho
+			David
+			ElI_as Emiliano Esteban
+			FE_lix Fernando Francisco
+			GermA_n
+			Heeka Hitebi Huya_ania
+			LilI_chi Loreto Lucero Lucio Luis
+			Isaac Ingnacio
+			Jakia JesU_s Jiapsi JosE_ JosE__MarI_a Juan Juan_Calixto Julio
+			Kaje_eme Kawi
+			Maaso Machia Marcelo Marcos Mario Maukaa Miguel Muni
+			Nacho
+			Octaviano O_scar
+			Pa_aria Panco Pancho PrO_spero
+			RamO_n Refugio
+			Sawa Semalulukut Siari Sikiri SimO_n Sotero Suawaka SulA__amay Surem
+			Teca Teejam Temastian TeO_filo Tetabiate Tetaviecti TomA_s Tosali Tuka_ania Tutu_uli
+			Uriel Ute_a
+			Yaitowi Yaut Yazicue Yoania Yooko
+		}
+		female_names = {
+			Adela Adelita Alejandra Ana Ana_Gabriela Anastasia Antonia
+			Bachia Beojko Bianca
+			Catalina Chelsi Choki ChU_nahka Cruzita
+			Daniela Diana Dolores Dorita
+			Elena Emilia Estela
+			Flor
+			Gabriela
+			Josefina
+			Kawi
+			LilI_chi Lucera Lucha Luchita Luz
+			Machia Margarita MarI_a MarI_a_JesU_s Mariana Mecha_Bemela Mechabili Micaela
+			Naamu Naawa
+			Paola Paulina Pilar
+			Rosa RumuI_
+			Sawa Seahaumut Seakarakte
+			Teejam Teresa Tosali TukA_aria Tutu_uli
+			Valentina Victoria Virgen
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}
