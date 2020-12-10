@@ -575,4 +575,324 @@
 			25 = caucasian_dark_hair
 		}
 	}
+	chicagoan = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.6 0.55 0.45 }
+	
+		cadet_dynasty_names = {
+			"dynn_Woods"
+			"dynn_Griffin"
+			"dynn_Bailey"
+			"dynn_Guzman"
+			"dynn_Murphy"
+			"dynn_Madigan"
+			"dynn_Stevenson"
+			"dynn_Edens"
+			"dynn_Addams"
+			"dynn_Pullman"
+			"dynn_Morton"
+			"dynn_Busse"
+			"dynn_Brookfield"
+			"dynn_Malnati"
+			"dynn_Janowski"
+			"dynn_Giordano"
+			"dynn_Karpis"
+			"dynn_Kaminski"
+			"dynn_Wazowski"
+			"dynn_McCallister"
+			"dynn_Wrigley"
+			"dynn_Halloran"
+			"dynn_Mantegna"
+			"dynn_Englewood"
+			"dynn_Milkovich"
+			"dynn_McCormick"
+			"dynn_Kowalski"
+			"dynn_Rudkus"
+			"dynn_Burnham"
+			"dynn_Walsh"
+			"dynn_Daley"
+			"dynn_O_Neill"
+			"dynn_Marcinkus"
+			"dynn_Metzger"
+			"dynn_Pawlikowski"
+			"dynn_Tiggs"
+			"dynn_Murray"
+			"dynn_Moy"
+			"dynn_O_Connor"
+			"dynn_Kowalczyk"
+			"dynn_Reily"
+			"dynn_Valenti"
+			"dynn_O_Malley"
+			"dynn_McCarthy"
+			"dynn_Rao"
+			"dynn_Wisniewski"
+			"dynn_Naik"
+			"dynn_Lin"
+			"dynn_Fitzgerald"
+			"dynn_Fitzpatrick"
+			"dynn_Bianchi"
+			"dynn_Malinowski"
+			"dynn_Diorio"
+			"dynn_Palka"
+			"dynn_Zbyszko"
+			"dynn_Crichton"
+			"dynn_Romanelli"
+			"dynn_Savegnago"
+			"dynn_O_Donnell"
+			"dynn_McGuire"
+			"dynn_Duggan"
+			"dynn_Kaplan"
+			"dynn_Byrne"
+			"dynn_Calderone"
+			"dynn_Cermak"
+			"dynn_McNally"
+			"dynn_Czaja"
+			"dynn_Budrys"
+			"dynn_Hemingway"
+			"dynn_Radtke"
+			"dynn_Castellaneta"
+			"dynn_Lombardo"
+			"dynn_Muszynski"
+			"dynn_Schuch"
+			"dynn_Finnegan"
+			"dynn_Coughlin"
+			"dynn_Regan"
+			"dynn_Fermi"
+			"dynn_Wiley"
+			"dynn_Butkus"
+			"dynn_Kucharski"
+			"dynn_Kaczmarczyk"
+			"dynn_Rivera"
+			"dynn_Alvarez"
+			"dynn_McDormand"
+			"dynn_Rodriguez"
+			"dynn_Mendoza"
+			"dynn_Arroyo"
+			"dynn_Wojcik"
+			"dynn_McMahon"
+			"dynn_O_Hare"
+			"dynn_Nolan"
+			"dynn_Martino"
+			"dynn_Silverstein"
+			"dynn_Cesario"
+			"dynn_Messina"
+			"dynn_Kedzie"
+			"dynn_Rago"
+			"dynn_Keating"
+			"dynn_Dolan"
+			"dynn_Schafer"
+			"dynn_Comiskey"
+			"dynn_Mulaney"
+			"dynn_Roth"
+			"dynn_Lyons"
+			"dynn_Avelar"
+			"dynn_Jaworski"
+			"dynn_Lawler"
+			"dynn_Petkus"
+			"dynn_Bradbury"
+			"dynn_Ostrowski"
+			"dynn_Pisano"
+			"dynn_Ranieri"
+			"dynn_Rimkus"
+			"dynn_Wielgus"
+			"dynn_Hanna"
+			"dynn_Mikulski"
+			"dynn_Cahill"
+			"dynn_Mack"
+			"dynn_Tomczyk"
+		}
+		dynasty_names = {
+			"dynn_Woods"
+			"dynn_Griffin"
+			"dynn_Bailey"
+			"dynn_Guzman"
+			"dynn_Murphy"
+			"dynn_Madigan"
+			"dynn_Stevenson"
+			"dynn_Edens"
+			"dynn_Addams"
+			"dynn_Pullman"
+			"dynn_Morton"
+			"dynn_Busse"
+			"dynn_Brookfield"
+			"dynn_Malnati"
+			"dynn_Janowski"
+			"dynn_Giordano"
+			"dynn_Karpis"
+			"dynn_Kaminski"
+			"dynn_Wazowski"
+			"dynn_McCallister"
+			"dynn_Wrigley"
+			"dynn_Halloran"
+			"dynn_Mantegna"
+			"dynn_Englewood"
+			"dynn_Milkovich"
+			"dynn_McCormick"
+			"dynn_Kowalski"
+			"dynn_Rudkus"
+			"dynn_Burnham"
+			"dynn_Walsh"
+			"dynn_Daley"
+			"dynn_O_Neill"
+			"dynn_Marcinkus"
+			"dynn_Metzger"
+			"dynn_Pawlikowski"
+			"dynn_Tiggs"
+			"dynn_Murray"
+			"dynn_Moy"
+			"dynn_O_Connor"
+			"dynn_Kowalczyk"
+			"dynn_Reily"
+			"dynn_Valenti"
+			"dynn_O_Malley"
+			"dynn_McCarthy"
+			"dynn_Rao"
+			"dynn_Wisniewski"
+			"dynn_Naik"
+			"dynn_Lin"
+			"dynn_Fitzgerald"
+			"dynn_Fitzpatrick"
+			"dynn_Bianchi"
+			"dynn_Malinowski"
+			"dynn_Diorio"
+			"dynn_Palka"
+			"dynn_Zbyszko"
+			"dynn_Crichton"
+			"dynn_Romanelli"
+			"dynn_Savegnago"
+			"dynn_O_Donnell"
+			"dynn_McGuire"
+			"dynn_Duggan"
+			"dynn_Kaplan"
+			"dynn_Byrne"
+			"dynn_Calderone"
+			"dynn_Cermak"
+			"dynn_McNally"
+			"dynn_Czaja"
+			"dynn_Budrys"
+			"dynn_Hemingway"
+			"dynn_Radtke"
+			"dynn_Castellaneta"
+			"dynn_Lombardo"
+			"dynn_Muszynski"
+			"dynn_Schuch"
+			"dynn_Finnegan"
+			"dynn_Coughlin"
+			"dynn_Regan"
+			"dynn_Fermi"
+			"dynn_Wiley"
+			"dynn_Butkus"
+			"dynn_Kucharski"
+			"dynn_Kaczmarczyk"
+			"dynn_Rivera"
+			"dynn_Alvarez"
+			"dynn_McDormand"
+			"dynn_Rodriguez"
+			"dynn_Mendoza"
+			"dynn_Arroyo"
+			"dynn_Wojcik"
+			"dynn_McMahon"
+			"dynn_O_Hare"
+			"dynn_Nolan"
+			"dynn_Martino"
+			"dynn_Silverstein"
+			"dynn_Cesario"
+			"dynn_Messina"
+			"dynn_Kedzie"
+			"dynn_Rago"
+			"dynn_Keating"
+			"dynn_Dolan"
+			"dynn_Schafer"
+			"dynn_Comiskey"
+			"dynn_Mulaney"
+			"dynn_Roth"
+			"dynn_Lyons"
+			"dynn_Avelar"
+			"dynn_Jaworski"
+			"dynn_Lawler"
+			"dynn_Petkus"
+			"dynn_Bradbury"
+			"dynn_Ostrowski"
+			"dynn_Pisano"
+			"dynn_Ranieri"
+			"dynn_Rimkus"
+			"dynn_Wielgus"
+			"dynn_Hanna"
+			"dynn_Mikulski"
+			"dynn_Cahill"
+			"dynn_Mack"
+			"dynn_Tomczyk"
+		}
+		
+		male_names = {
+			Adam Adolfas Aiden Albert Albin Aldo Alfonse Anatol Angelo Anton Arthur Ashburn
+			Belmont Bernard Boris Brian Brooks Bruno
+			Carl Carter Clarendon Clement Colin Connor Constantine Cormick Cragin Cyrus
+			Daniel Douglas
+			Earl Edgar Edward Elsdon Elwood Emil Emmet Erik
+			David Dominick Donald
+			Felix Fergus Filip Frank Fred Frederick Fuller Fulton
+			Garfield Gene Gormdan Grant Greg
+			Harold Harrison Herman
+			Irving Izaack
+			Jack James Jan Jeff Jersey Jim John Jozef
+			Kenneth Kevin
+			Larry Leck Lee Leon Leonard Leroy Liam Lincoln Logan Lorenzo Louis Ludvick
+			Marcus Mario Marshall Marty Michael Milburn Milton Morgan Myron
+			Nathan Neil Nelson Nick
+			Oscar Otis Otto
+			Patrick Paul Pawel Peter
+			Ralph Raymond Reuben Rick Robert Rocco Roger Roman Roscoe Russ Ryan
+			Samuel Saul Scott Serge Seymour Sheridan Sherman Stanislaus Stefan
+			Teodor Terrel Tim Tomas Tony
+			Victor Vincent
+			William
+			Xavier
+		}
+		female_names = {
+			Ada Agnes Aisling Alberta Albina Anka Apolonia
+			Barbara Bedelia Beverly Bianca Blanca Boguala
+			Caitlin Camilla Cassandra Catherine Cecylia Chevonne Clarie
+			Daniela Daria Dominica
+			Edith Emilia Esther Eugenia Eva
+			Fabia Fiona Frances Francisca
+			Gabriela Gale Gertrude Gloria Grace
+			Hanna Helena Hillary
+			Irene Isabella
+			Jane Janet Josephine Justina
+			Karen Kristina
+			Laima Lily Lucia
+			Magdalena Mandy Marcelina Maria Moira Monica
+			Natalia Nicole Nola
+			Olga Ona
+			Patricia Petra
+			Riona Ruth
+			Stacy
+			Tania Teresa Teta
+			Ursula
+			Valeria Veronica Violetta
+			Wilhelmina
+			Zita
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
 }
