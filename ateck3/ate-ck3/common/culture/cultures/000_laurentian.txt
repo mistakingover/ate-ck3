@@ -301,7 +301,6 @@
 			"dynn_Gillis"
 			"dynn_Grauman"
 			"dynn_Greatbatch"
-			"dynn_Greatbatch"
 			"dynn_Gretson"
 			"dynn_Grissom"
 			"dynn_Gronkowski"
@@ -388,6 +387,7 @@
 			"dynn_Studebaker"
 			"dynn_Sullinger"
 			"dynn_Sundermann"
+			"dynn_Takacs"
 			"dynn_Teller"
 			"dynn_Thermastecker"
 			"dynn_Todoroff"
@@ -463,7 +463,6 @@
 			"dynn_Gillis"
 			"dynn_Grauman"
 			"dynn_Greatbatch"
-			"dynn_Greatbatch"
 			"dynn_Gretson"
 			"dynn_Grissom"
 			"dynn_Gronkowski"
@@ -550,6 +549,7 @@
 			"dynn_Studebaker"
 			"dynn_Sullinger"
 			"dynn_Sundermann"
+			"dynn_Takacs"
 			"dynn_Teller"
 			"dynn_Thermastecker"
 			"dynn_Todoroff"
@@ -948,6 +948,305 @@
 		pat_grm_name_chance = 10
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	motowner = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.3 0.15 0.5 }
+	
+		cadet_dynasty_names = {
+			"dynn_Ahmed"
+			"dynn_Ajami"
+			"dynn_Alford"
+			"dynn_Ashford"
+			"dynn_Austin"
+			"dynn_Belgrave"
+			"dynn_Biggs"
+			"dynn_Bird"
+			"dynn_Blevins"
+			"dynn_Brooks"
+			"dynn_Chambers"
+			"dynn_Chatman"
+			"dynn_Childs"
+			"dynn_Clemons"
+			"dynn_Cobb"
+			"dynn_Cochran"
+			"dynn_Cole"
+			"dynn_Combs"
+			"dynn_Covington"
+			"dynn_Curry"
+			"dynn_Daniels"
+			"dynn_DeBarge"
+			"dynn_Dickerson"
+			"dynn_Dillard"
+			"dynn_Drains"
+			"dynn_Elliott"
+			"dynn_Frazier"
+			"dynn_Gibson"
+			"dynn_Greer"
+			"dynn_Gregory"
+			"dynn_Hankins"
+			"dynn_Hardy"
+			"dynn_Hatcher"
+			"dynn_Hendricks"
+			"dynn_Higgins"
+			"dynn_Hines"
+			"dynn_Howell"
+			"dynn_Hussein"
+			"dynn_Irons"
+			"dynn_Jennings"
+			"dynn_Joiner"
+			"dynn_Kelly"
+			"dynn_Khan"
+			"dynn_Lane"
+			"dynn_LeFlore"
+			"dynn_Leonard"
+			"dynn_Lewandowski"
+			"dynn_Lightsey"
+			"dynn_Love"
+			"dynn_Lowery"
+			"dynn_Lucas"
+			"dynn_McCarter"
+			"dynn_McClendon"
+			"dynn_McGee"
+			"dynn_McKinney"
+			"dynn_Michael"
+			"dynn_Miles"
+			"dynn_Monette"
+			"dynn_Morse"
+			"dynn_Mullins"
+			"dynn_Nichols"
+			"dynn_Norfleet"
+			"dynn_Norris"
+			"dynn_O_Bryant"
+			"dynn_Odom"
+			"dynn_Osborne"
+			"dynn_Pace"
+			"dynn_Patton"
+			"dynn_Perdue"
+			"dynn_Pettway"
+			"dynn_Phillinganes"
+			"dynn_Pitts"
+			"dynn_Pope"
+			"dynn_Powell"
+			"dynn_Price"
+			"dynn_Pritchett"
+			"dynn_Pruitt"
+			"dynn_Pryor"
+			"dynn_Ramsey"
+			"dynn_Rathborn"
+			"dynn_Reese"
+			"dynn_Robinson"
+			"dynn_Rustin"
+			"dynn_Rutkowski"
+			"dynn_Ryder"
+			"dynn_Sampson"
+			"dynn_Seely"
+			"dynn_Shah"
+			"dynn_Sheard"
+			"dynn_Sparks"
+			"dynn_Spivey"
+			"dynn_Sweed"
+			"dynn_Tackett"
+			"dynn_Terrell"
+			"dynn_Thomas"
+			"dynn_Thornton"
+			"dynn_Tolbert"
+			"dynn_Trimble"
+			"dynn_Troxler"
+			"dynn_Turner"
+			"dynn_Utsler"
+			"dynn_Van_Dyke"
+			"dynn_Vitale"
+			"dynn_Wakefield"
+			"dynn_Wallace"
+			"dynn_Warren"
+			"dynn_Wiley"
+			"dynn_Winans"
+			"dynn_Wozniak"
+			"dynn_Yancey"
+		}
+		dynasty_names = {
+			"dynn_Ahmed"
+			"dynn_Ajami"
+			"dynn_Alford"
+			"dynn_Ashford"
+			"dynn_Austin"
+			"dynn_Belgrave"
+			"dynn_Biggs"
+			"dynn_Bird"
+			"dynn_Blevins"
+			"dynn_Brooks"
+			"dynn_Chambers"
+			"dynn_Chatman"
+			"dynn_Childs"
+			"dynn_Clemons"
+			"dynn_Cobb"
+			"dynn_Cochran"
+			"dynn_Cole"
+			"dynn_Combs"
+			"dynn_Covington"
+			"dynn_Curry"
+			"dynn_Daniels"
+			"dynn_DeBarge"
+			"dynn_Dickerson"
+			"dynn_Dillard"
+			"dynn_Drains"
+			"dynn_Elliott"
+			"dynn_Frazier"
+			"dynn_Gibson"
+			"dynn_Greer"
+			"dynn_Gregory"
+			"dynn_Hankins"
+			"dynn_Hardy"
+			"dynn_Hatcher"
+			"dynn_Hendricks"
+			"dynn_Higgins"
+			"dynn_Hines"
+			"dynn_Howell"
+			"dynn_Hussein"
+			"dynn_Irons"
+			"dynn_Jennings"
+			"dynn_Joiner"
+			"dynn_Kelly"
+			"dynn_Khan"
+			"dynn_Lane"
+			"dynn_LeFlore"
+			"dynn_Leonard"
+			"dynn_Lewandowski"
+			"dynn_Lightsey"
+			"dynn_Love"
+			"dynn_Lowery"
+			"dynn_Lucas"
+			"dynn_McCarter"
+			"dynn_McClendon"
+			"dynn_McGee"
+			"dynn_McKinney"
+			"dynn_Michael"
+			"dynn_Miles"
+			"dynn_Monette"
+			"dynn_Morse"
+			"dynn_Mullins"
+			"dynn_Nichols"
+			"dynn_Norfleet"
+			"dynn_Norris"
+			"dynn_O_Bryant"
+			"dynn_Odom"
+			"dynn_Osborne"
+			"dynn_Pace"
+			"dynn_Patton"
+			"dynn_Perdue"
+			"dynn_Pettway"
+			"dynn_Phillinganes"
+			"dynn_Pitts"
+			"dynn_Pope"
+			"dynn_Powell"
+			"dynn_Price"
+			"dynn_Pritchett"
+			"dynn_Pruitt"
+			"dynn_Pryor"
+			"dynn_Ramsey"
+			"dynn_Rathborn"
+			"dynn_Reese"
+			"dynn_Robinson"
+			"dynn_Rustin"
+			"dynn_Rutkowski"
+			"dynn_Ryder"
+			"dynn_Sampson"
+			"dynn_Seely"
+			"dynn_Shah"
+			"dynn_Sheard"
+			"dynn_Sparks"
+			"dynn_Spivey"
+			"dynn_Sweed"
+			"dynn_Tackett"
+			"dynn_Terrell"
+			"dynn_Thomas"
+			"dynn_Thornton"
+			"dynn_Tolbert"
+			"dynn_Trimble"
+			"dynn_Troxler"
+			"dynn_Turner"
+			"dynn_Utsler"
+			"dynn_Van_Dyke"
+			"dynn_Vitale"
+			"dynn_Wakefield"
+			"dynn_Wallace"
+			"dynn_Warren"
+			"dynn_Wiley"
+			"dynn_Winans"
+			"dynn_Wozniak"
+			"dynn_Yancey"
+		}
+		
+		male_names = {
+			Aaron Abdul Abraham Ahmed Alexander Ali Alvin Amir Amos Andre Anthony Aristo Arthur Autry
+			Barry Bayard Billy Bruce Burwell Byron
+			Carl Cassius Clarence Clay Cliff Coleman Cornell Crathman Curtis
+			Damian Darell Deangelo Delray Dennis Denzel Derek Desmond Dewitt Dixon Donovan Dorsey Doug Duane Dubois Durrell
+			Earl Eddie Edwin Elbridge Eli Emerson Ernest Esham
+			Fakir Ford Franklin Frederick Freeman
+			George Gerald Gil Gino Glenn Gordy Griffin
+			Hank Hardaway Harry Harvey Herschel Hubert Huey
+			Isaiah
+			Jackson Jamal James Jaron Jay Jermaine Jerome Jerry Johnny Jordan Joseph
+			Kelly Kendrick Khalid Kirk Kwame
+			Lamont Larry Lawrence LeBron Lee Leo Leroy Levi Lincoln Lionel Louis
+			Mack Malcolm Malik Marcus Marlon Marshall Martin Marvin Maurice Melvin Merald Mixon Mohammed Morgan Morris
+			Odell Omar Ossian Otis
+			Neil
+			Paul Pervis Phil Plato Preston
+			Quincy
+			Ray Renaldo Reuben Rich Ronald Ruffin
+			Shaft Shakil Sidney Spencer Stevie Stevland Stokely Stubbs Sylvester
+			Tariq Taylor Tee Terry Theo Thomas Tim Titus Ty
+			Uriel
+			Vernon Vince
+			Wade Walter Washington Wayne Wendell Wesley Whitfield William Wilson
+			Zach Zayn
+		}
+		female_names = {
+			Aisha Alicia Aliyah Anita Annette Aretha Arlene
+			Barbara Belle Bertha Betty Bonnie Brenda
+			Carla Caroline Cindy Claudette Cleopatra Corina Cynthia
+			Debbie Deidre Della Delphine Denise Diana Dorinda
+			Elbertina Ella Esther
+			Fatima Florence
+			Georgeanna Georgia Gladys Gloria
+			Hagar
+			Isobel
+			Jackie Jasmine Jeanette JoAnn Jobete Joyce
+			Karen Katherine
+			Lawanda Leah Lilith Lois Loretta Louvain Lynda
+			Mable Madonna Malika Marcella Margaret Marlene Martha Mary Maxine Michelle Mildred
+			Nancy Naomi Norma
+			Pamela Paula Phyllis
+			Raquel Reba Rita Rosalind Roschelle RoseMary
+			Salome Sarah Sandra Selma Shawna Sheila Shirley Susie Syreeta
+			Tammi Teena Thelma Tiffany Tracey Tynnetta
+			Valerie Velvelette Vernessa Victory
+			Wanda
+			Yvonne
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance =10
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
 		
 		ethnicities = {
 			25 = caucasian_blond
