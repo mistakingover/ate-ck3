@@ -214,7 +214,7 @@
 			color = { 0.8 0.8 0.6 }
 			religious_head = k_papal_state
 			graphical_faith = "catholic_gfx"
-						
+		
 			#Special Tolerance
 			doctrine = special_doctrine_latin_rite
 
@@ -1047,6 +1047,131 @@
 					chistianity_good_god_jesus
 					chistianity_good_god_christ
 					mormon_good_god_jehovah
+				}
+			}
+		}
+		
+		#ADD OTHER MORMON FAITHS LATER
+		
+		hebrew_christianity = { #watch me whip, now watch me nae nae
+			color = hsv { 0.05 0.15 0.35 }
+			graphical_faith = "catholic_gfx"
+			icon = hebrew_christianity
+			
+			#Special Tolerance
+			doctrine = special_doctrine_melech_yeshua
+			
+			#Tenets
+			doctrine = tenet_alexandrian_catechism
+			doctrine = tenet_legalism
+			doctrine = tenet_religious_legal_pronouncements
+			
+			#Doctrine overrides
+			doctrine = doctrine_no_head
+			doctrine = doctrine_theocracy_temporal
+			doctrine = doctrine_consanguinity_cousins
+			doctrine = doctrine_adultery_men_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+			
+			holy_order_names = {
+				{ name = "holy_order_knights_of_yeshua" }
+			}
+			
+			holy_order_maa = { zealot }
+			
+			localization = {
+				#HighGod
+				HighGodName = hebrew_christianity_high_god_name
+				HighGodNamePossessive = hebrew_christianity_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodNameAlternate = christianity_high_god_name_alternate
+				HighGodNameAlternatePossessive = christianity_high_god_name_alternate_possessive
+
+				#Creator
+				CreatorName = hebrew_christianity_creator_god_name
+				CreatorNamePossessive = hebrew_christianity_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = hebrew_christianity_health_god_name
+				HealthGodNamePossessive = hebrew_christianity_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = hebrew_christianity_fertility_god_name
+				FertilityGodNamePossessive = hebrew_christianity_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = hebrew_christianity_wealth_god_name
+				WealthGodNamePossessive = hebrew_christianity_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = hebrew_christianity_household_god_name
+				HouseholdGodNamePossessive = hebrew_christianity_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				FateGodName = hebrew_christianity_fate_god_name
+				FateGodNamePossessive = hebrew_christianity_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = hebrew_christianity_knowledge_god_name
+				KnowledgeGodNamePossessive = hebrew_christianity_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = hebrew_christianity_war_god_name
+				WarGodNamePossessive = hebrew_christianity_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = hebrew_christianity_trickster_god_name
+				TricksterGodNamePossessive = hebrew_christianity_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = hebrew_christianity_night_god_name
+				NightGodNamePossessive = hebrew_christianity_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = hebrew_christianity_water_god_name
+				WaterGodNamePossessive = hebrew_christianity_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+				
+				GoodGodNames = {
+					hebrew_christianity_high_god_name
+					christianity_high_god_name_alternate
+					hebrew_christianity_good_god_yeshua
 				}
 			}
 		}

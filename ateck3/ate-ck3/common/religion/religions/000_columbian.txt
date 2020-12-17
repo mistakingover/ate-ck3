@@ -1,4 +1,4 @@
-﻿patriotic_religion = {
+﻿columbian_religion = {
 	family = rf_antiquarian
 
 	doctrine = antiquarian_hostility_doctrine
@@ -49,149 +49,149 @@
 	holy_order_maa = { minuteman }
 
 	localization = {
-		HighGodName = patriotic_high_god_name
-		HighGodNamePossessive = patriotic_high_god_name_possessive
+		HighGodName = columbian_high_god_name
+		HighGodNamePossessive = columbian_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_IT
 		HighGodHerselfHimself = CHARACTER_ITSELF
 		HighGodHerHis = CHARACTER_HERHIS_ITS
-		HighGodNameAlternate = patriotic_high_god_name_alternate
-		HighGodNameAlternatePossessive = patriotic_high_god_name_alternate_possessive
+		HighGodNameAlternate = columbian_high_god_name_alternate
+		HighGodNameAlternatePossessive = columbian_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = patriotic_creator_god_name
-		CreatorNamePossessive = patriotic_creator_god_name_possessive
+		CreatorName = columbian_creator_god_name
+		CreatorNamePossessive = columbian_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_IT
 		CreatorHerHis = CHARACTER_HERHIS_ITS
 		CreatorHerHim = CHARACTER_HERHIM_IT
 
 		#HealthGod
-		HealthGodName = patriotic_health_god_name
-		HealthGodNamePossessive = patriotic_health_god_name_possessive
+		HealthGodName = columbian_health_god_name
+		HealthGodNamePossessive = columbian_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_HE
 		HealthGodHerHis = CHARACTER_HERHIS_HIS
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = patriotic_fertility_god_name
-		FertilityGodNamePossessive = patriotic_fertility_god_name_possessive
+		FertilityGodName = columbian_fertility_god_name
+		FertilityGodNamePossessive = columbian_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_HE
 		FertilityGodHerHis = CHARACTER_HERHIS_HIS
 		FertilityGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WealthGod
-		WealthGodName = patriotic_wealth_god_name
-		WealthGodNamePossessive = patriotic_wealth_god_name_possessive
+		WealthGodName = columbian_wealth_god_name
+		WealthGodNamePossessive = columbian_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_HE
 		WealthGodHerHis = CHARACTER_HERHIS_HIS
 		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
-		HouseholdGodName = patriotic_household_god_name
-		HouseholdGodNamePossessive = patriotic_household_god_name_possessive
+		HouseholdGodName = columbian_household_god_name
+		HouseholdGodNamePossessive = columbian_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_IT
 		HouseholdGodHerHis = CHARACTER_HERHIS_ITS
 		HouseholdGodHerHim = CHARACTER_HERHIM_IT
 
 		#FateGod
-		FateGodName = patriotic_fate_god_name
-		FateGodNamePossessive = patriotic_fate_god_name_possessive
+		FateGodName = columbian_fate_god_name
+		FateGodNamePossessive = columbian_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_IT
 		FateGodHerHis = CHARACTER_HERHIS_ITS
 		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
-		KnowledgeGodName = patriotic_knowledge_god_name
-		KnowledgeGodNamePossessive = patriotic_knowledge_god_name_possessive
+		KnowledgeGodName = columbian_knowledge_god_name
+		KnowledgeGodNamePossessive = columbian_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WarGod
-		WarGodName = patriotic_war_god_name
-		WarGodNamePossessive = patriotic_war_god_name_possessive
+		WarGodName = columbian_war_god_name
+		WarGodNamePossessive = columbian_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = patriotic_trickster_god_name
-		TricksterGodNamePossessive = patriotic_trickster_god_name_possessive
+		TricksterGodName = columbian_trickster_god_name
+		TricksterGodNamePossessive = columbian_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = patriotic_night_god_name
-		NightGodNamePossessive = patriotic_night_god_name_possessive
+		NightGodName = columbian_night_god_name
+		NightGodNamePossessive = columbian_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_HE
 		NightGodHerHis = CHARACTER_HERHIS_HIS
 		NightGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WaterGod
-		WaterGodName = patriotic_water_god_name
-		WaterGodNamePossessive = patriotic_water_god_name_possessive
+		WaterGodName = columbian_water_god_name
+		WaterGodNamePossessive = columbian_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_HE
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
 
 
-		PantheonTerm = patriotic_pantheon_the_founders
+		PantheonTerm = columbian_pantheon_the_founders
 		PantheonTermHasHave = pantheon_term_have
 		GoodGodNames = {
-			patriotic_high_god_name
-			patriotic_high_god_name_alternate
-			patriotic_good_god_washington
-			patriotic_good_god_jefferson
-			patriotic_good_god_franklin
-			patriotic_good_god_adams
-			patriotic_good_god_hamilton
-			patriotic_good_god_lincoln
-			patriotic_good_god_roosevelt
-			patriotic_good_god_uncle_sam
-			patriotic_good_god_the_flag
+			columbian_high_god_name
+			columbian_high_god_name_alternate
+			columbian_good_god_washington
+			columbian_good_god_jefferson
+			columbian_good_god_franklin
+			columbian_good_god_adams
+			columbian_good_god_hamilton
+			columbian_good_god_lincoln
+			columbian_good_god_roosevelt
+			columbian_good_god_uncle_sam
+			columbian_good_god_the_flag
 		}
-		DevilName = patriotic_devil_name
-		DevilNamePossessive = patriotic_devil_name_possessive
+		DevilName = columbian_devil_name
+		DevilNamePossessive = columbian_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
 		EvilGodNames = {
-			patriotic_devil_name
-			patriotic_evil_god_the_tyrant
+			columbian_devil_name
+			columbian_evil_god_the_tyrant
 		}
-		HouseOfWorship = patriotic_house_of_worship
-		HouseOfWorshipPlural = patriotic_house_of_worship_plural
-		ReligiousSymbol = patriotic_religious_symbol
-		ReligiousText = patriotic_religious_text
-		ReligiousHeadName = patriotic_religious_head_title
-		ReligiousHeadTitleName = patriotic_religious_head_title_name
-		DevoteeMale = patriotic_devotee
-		DevoteeMalePlural = patriotic_devoteeplural
-		DevoteeFemale = patriotic_devotee
-		DevoteeFemalePlural = patriotic_devoteeplural
-		DevoteeNeuter = patriotic_devotee
-		DevoteeNeuterPlural = patriotic_devoteeplural
-		PriestMale = patriotic_priest
-		PriestMalePlural = patriotic_priest_plural
-		PriestFemale = patriotic_priest
-		PriestFemalePlural = patriotic_priest_plural
-		PriestNeuter = patriotic_priest
-		PriestNeuterPlural = patriotic_priest_plural
-		AltPriestTermPlural = patriotic_priest_alternate_plural
-		BishopMale = patriotic_priest_alternate
-		BishopMalePlural = patriotic_priest_alternate_plural
-		BishopFemale = patriotic_priest_alternate
-		BishopFemalePlural = patriotic_priest_alternate_plural
-		BishopNeuter = patriotic_priest_alternate
-		BishopNeuterPlural = patriotic_priest_alternate_plural
-		DivineRealm = patriotic_divine_realm
-		PositiveAfterLife = patriotic_divine_realm
-		NegativeAfterLife = patriotic_afterlife_negative
-		DeathDeityName = patriotic_death_deity_name
-		DeathDeityNamePossessive = patriotic_death_deity_name_possessive
+		HouseOfWorship = columbian_house_of_worship
+		HouseOfWorshipPlural = columbian_house_of_worship_plural
+		ReligiousSymbol = columbian_religious_symbol
+		ReligiousText = columbian_religious_text
+		ReligiousHeadName = columbian_religious_head_title
+		ReligiousHeadTitleName = columbian_religious_head_title_name
+		DevoteeMale = columbian_devotee
+		DevoteeMalePlural = columbian_devoteeplural
+		DevoteeFemale = columbian_devotee
+		DevoteeFemalePlural = columbian_devoteeplural
+		DevoteeNeuter = columbian_devotee
+		DevoteeNeuterPlural = columbian_devoteeplural
+		PriestMale = columbian_priest
+		PriestMalePlural = columbian_priest_plural
+		PriestFemale = columbian_priest
+		PriestFemalePlural = columbian_priest_plural
+		PriestNeuter = columbian_priest
+		PriestNeuterPlural = columbian_priest_plural
+		AltPriestTermPlural = columbian_priest_alternate_plural
+		BishopMale = columbian_priest_alternate
+		BishopMalePlural = columbian_priest_alternate_plural
+		BishopFemale = columbian_priest_alternate
+		BishopFemalePlural = columbian_priest_alternate_plural
+		BishopNeuter = columbian_priest_alternate
+		BishopNeuterPlural = columbian_priest_alternate_plural
+		DivineRealm = columbian_divine_realm
+		PositiveAfterLife = columbian_divine_realm
+		NegativeAfterLife = columbian_afterlife_negative
+		DeathDeityName = columbian_death_deity_name
+		DeathDeityNamePossessive = columbian_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
-		WitchGodName = witchgodname_patriotic_marx
+		WitchGodName = witchgodname_columbian_marx
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHis = CHARACTER_HERHIS_HIS
 		WitchGodHerHim = CHARACTER_HERHIM_HIM
@@ -306,7 +306,7 @@
 					libertarian_good_god_columbia
 					libertarian_good_god_justitia
 					libertarian_good_god_virginia
-					patriotic_good_god_the_flag
+					columbian_good_god_the_flag
 				}
 			}
 		}

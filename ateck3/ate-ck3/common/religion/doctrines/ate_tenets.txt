@@ -944,6 +944,30 @@
 			build_tragedy_shrine_enabled = yes
 		}		
 	}
+	
+	tenet_glossolalia = {
+		icon = core_tenet_prayer
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			same_culture_conversion_bonus_active = yes
+			hills_advantage = 5
+			hills_attrition_mult = -0.25
+			mountains_advantage = 5
+			mountains_attrition_mult = -0.25
+		}
+
+		character_modifier = {
+			name = "tenet_communal_identity_opinion"
+			same_faith_opinion = 10
+		}
+	}
 
 
 	#############################################################

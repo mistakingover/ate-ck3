@@ -9,8 +9,8 @@
  tenet_american_dream_name:0 "American Dream"
  tenet_american_dream_desc:0 "The people of Old America praised those who could achieve great success from humble origins. We must be even more respectful of those who can achieve such a feat in today's sinful age."
  
- doctrine_patriotic_tolerance:0 "Special Tolerance"
+ doctrine_columbian_tolerance:0 "Special Tolerance"
  special_doctrine_freedom_of_speech_name:0 "Freedom of Speech"
  special_doctrine_freedom_of_speech_desc:0 "The people of Old America tolerated those who held different views, so long as they respected the Law and the Flag. We, too, must tolerate our misguided neighbors."
  
- doctrine_parameter_hostility_override_special_doctrine_freedom_of_speech:0 "Considers other Patriotic [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!"
+ doctrine_parameter_hostility_override_special_doctrine_freedom_of_speech:0 "Considers other Columbian [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!"

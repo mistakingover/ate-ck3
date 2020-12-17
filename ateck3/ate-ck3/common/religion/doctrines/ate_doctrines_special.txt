@@ -40,6 +40,7 @@ special_tolerance = {
 			hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_latin_rite = 1
 			hostility_override_special_doctrine_protestant_background = 1
+			hostility_override_special_doctrine_melech_yeshua = 1
 		}
 	}
 	
@@ -80,6 +81,16 @@ doctrine_protestant_tolerance = { #put certain tolerance doctrines here
 		parameters = {
 			hostility_override_special_doctrine_protestant_background = 1
 			hostility_override_special_doctrine_mainstream_protestant = 1
+			hostility_override_special_doctrine_melech_yeshua = 1
+		}
+	}
+	
+	special_doctrine_melech_yeshua = {
+		parameters = {
+			hostility_override_special_doctrine_melech_yeshua = 1
+			hostility_override_special_doctrine_protestant_background = 1
+			hostility_override_special_doctrine_mainstream_protestant = 1
+			hostility_override_special_doctrine_shema_yisrael = 2
 		}
 	}
 }
@@ -134,10 +145,10 @@ doctrine_mormon_tolerance = { #put certain tolerance doctrines here
 	}
 }
 
-doctrine_patriotic_tolerance = {
+doctrine_columbian_tolerance = {
 	group = "main_group"
 	is_available_on_create = {
-		religion_tag = patriotic_religion
+		religion_tag = columbian_religion
 	}
 	
 	special_doctrine_freedom_of_speech = {
