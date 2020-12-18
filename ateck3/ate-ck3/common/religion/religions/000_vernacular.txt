@@ -33,8 +33,8 @@ vernacular_religion = {
 	doctrine = doctrine_clerical_succession_temporal_appointment
 
 	traits = {
-		virtues = { brave wrathful vengeful }
-		sins = { craven deceitful forgiving }
+		virtues = { brave compassionate chaste }
+		sins = { craven sadistic lustful }
 	}
 
 	custom_faith_icons = {
@@ -182,7 +182,7 @@ vernacular_religion = {
 		BishopNeuterPlural = revelationist_bishop_plural
 		DivineRealm = revelationist_divine_realm
 		PositiveAfterLife = revelationist_divine_realm
-		NegativeAfterLife = revelationist_hell_name
+		NegativeAfterLife = revelationist_afterlife_negative
 		DeathDeityName = revelationist_death_deity_name #the reaper
 		DeathDeityNamePossessive = revelationist_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
