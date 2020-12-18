@@ -1866,6 +1866,20 @@
 	tenet_mystical_birthright = {
 		icon = core_tenet_bhakti
 
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						OR = {
+							has_icon = celeste
+						}
+					}
+					desc = tenet_messianic_figures_name
+				}
+				desc = tenet_mystical_birthright_name
+			}
+		}
+
 		piety_cost = {
 			value = faith_tenet_cost_low
 		}
@@ -1897,7 +1911,7 @@
 					}
 					desc = tenet_lovefeasts
 				}
-				desc = tenet_sacred_childbirth_name
+				desc = tenet_ritual_celebrations_name
 			}
 		}
 

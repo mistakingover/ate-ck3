@@ -63,11 +63,11 @@
  christianity_water_god_name_possessive:0 "$christianity_health_god_name_possessive$"
 
  #Catholic-Group Faiths
- catholic:0 "Catholicism"
- catholic_adj:0 "Catholic"
- catholic_adherent:0 "Catholic"
- catholic_adherent_plural:0 "Catholics"
- catholic_desc:0 "Catholicism is one of the oldest branches of Christianity, and it survived the cataclysmic events of centuries past by the skin of its teeth. After the Deluge, the surviving Catholic hierarchy in America received word of a divine apparition that confirmed the destruction of the Papacy in Rome and gave the surviving American cardinals the right to elect a new Bishop of Rome from their number. The new American Popes lacked a permanent temporal seat for centuries - a period known as "the Wandering Papacy" - until control over the old city of St. Louis in Missouri was finally established in the late 24th century. Because of its association with the Papacy, St. Louis earned the nickname "New Rome", although this term is not officially used by the Catholic Church. The formal head of the religion is the Bishop of Rome - the Pope."
+ catholic:0 "Conclavian Catholic Church"
+ catholic_adj:0 "Conclavian"
+ catholic_adherent:0 "Conclavian"
+ catholic_adherent_plural:0 "Conclavians"
+ catholic_desc:0 "Catholicism in America survived the cataclysmic events of centuries past by the skin of its teeth. After the Deluge, the surviving Catholic hierarchy in America received word of a divine apparition that confirmed the destruction of the Papacy in Rome and gave the surviving American cardinals the right to hold a papal conclave and elect a new Bishop of Rome from their numbers. The new American Popes lacked a permanent temporal seat for centuries - a period known as "the Wandering Papacy" - until control over the old city of St. Louis in Missouri was finally established in the late 24th century. Because of its association with the Papacy, St. Louis earned the nickname "New Rome", although this term is not officially used by the Church. The formal head of the religion is the Bishop of Rome - the Pope. As other Catholic groups across the continent have rejected the authority of the American-elected Papacy, many have come to refer to them as Conclavian, for their upholding of papal conclaves to elect what they consider the righteous Vicar of Christ."
 
  west_christian_fertility_god_name:0 "St. Brigid"
  west_christian_fertility_god_name_possessive:0 "St. Brigid's"
@@ -96,20 +96,20 @@
  neognostic_priest_neuter:0 "perfect"
  neognostic_priest_neuter_plural:0 "perfecti"
 
- particularism:0 "Particularism"
+ particularism:0 "Particularist Catholic Church"
  particularism_adj:0 "Particularist"
  particularism_adherent:0 "Particularist"
  particularism_adherent_plural:0 "Particularists"
  particularism_desc:0 "Particularists are descended from the once by far dominant faith of the continent, Catholicism, which was battered by the chaos and the change brought by the Event. In need of greater unity and direction than ever, the archbishops of South America brought their political differences aside and decided to unite as a Particular Catholic Church, and elected the Patriarch of South America to lead them. Originally based in Buenos Aires, the rise of other faiths has displaced the Patriarchy to Santiago. While the Particularists have maintained their catholic latin rites, folk practices such as the veneration of shrines of the tragically departed have become part of the traditional rites, as well, and belief in the influences of the restless souls and their link to God permeates society."
 
 
- ursuline:0 "Ursuline Order"
+ ursuline:0 "Ursuline Catholic Church"
  ursuline_adj:0 "Ursuline"
  ursuline_adherent:0 "Ursuline"
  ursuline_adherent_plural:0 "Ursulines"
- ursuline_desc:0 "The Ursulines originated as an antediluvian religious order, patronized by Saint Ursula. After the Deluge, most Quebecois Catholics turned to the Ursuline Order for guidance. Although their outsized role in Quebecois religious life was initially tolerated by the Catholic Church, the entire order and all of its followers were excommunicated following an attempt by the Ursulines to elect one of their own to the Papacy. In response, the Ursuline Order formally split from the Catholic Church. The current position of the Ursulines is that none of the Christian bishops currently operating in the Americas have proper apostolic succession, and that members of sanctioned religious orders can serve as de facto clergy until bishop-level apostolic succession is re-established."
+ ursuline_desc:0 "The Ursulines originated as an antediluvian religious order, patronized by Saint Ursula. After the Deluge, most Quebecois Catholics turned to the Ursuline Order for guidance. Although their outsized role in Quebecois religious life was initially tolerated by the Conclavian Catholics they were in communion with, the entire order and all of its followers were excommunicated following an attempt by the Ursulines to elect one of their own to the Papacy. In response, the Ursuline Order formally split from the Conclavians and established its own Catholic Church. The current position of the Ursulines is that none of the Christian bishops currently operating in the Americas have proper apostolic succession, and that members of sanctioned religious orders can serve as de facto clergy until bishop-level apostolic succession is re-established."
 
- angeline:0 "Angeline Order"
+ angeline:0 "Angeline Catholic Church"
  angeline_adj:0 "Angeline"
  angeline_adherent:0 "Angeline"
  angeline_adherent_plural:0 "Angelines"
@@ -209,11 +209,11 @@
  
 
 
- apostolicism:0 "Apostolicism"
+ apostolicism:0 "Apostolic Catholic Church"
  apostolicism_adj:0 "Apostolic"
  apostolicism_adherent:0 "Apostolic"
  apostolicism_adherent_plural:0 "Apostolics"
- apostolicism_desc:0 "The "Igreja Apostólica", or "Apostolic Church", split from mainstream Roman Catholicism long before the Event over disputes regarding divorce and clerical celibacy. It eventually became known for its relative tolerance of non-Christian faiths. After the chaos of the Event, the Apostolic Church became the dominant Christian faith in most of Brazil, and this position was cemented further when it was adopted by the first post-Event Emperor of the House of Bragança, Pedro the Restorer."
+ apostolicism_desc:0 "The "Igreja Católica Apostólica", or "Apostolic Catholic Church", split from mainstream Roman Catholicism long before the Event over disputes regarding divorce and clerical celibacy. It eventually became known for its relative tolerance of non-Christian faiths. After the chaos of the Event, the Apostolic Catholic Church absorbed most of the post-diluvian Catholic groups in Brazil and became the dominant Christian faith in most of the Empire, and this position was cemented further when it was adopted by the first post-Event Emperor of the House of Bragança, Pedro the Restorer."
 
  apostolicism_health_god_name:0 "Our Lady Of Sorrows"
  apostolicism_health_god_name_possessive:0 "Our Lady Of Sorrows'"
@@ -233,7 +233,39 @@
  apostolicism_water_god_name_possessive:0 "Our Lady Of Aparecida's"
  apostolicism_night_god_name:0 "St. John of the Bonfire"
  apostolicism_night_god_name_possessive:0 "St. John of the Bonfire's"
- 
+ apostolicism_devotee_male:0 "friar"
+ apostolicism_devotee_male_plural:0 "friars" 
+
+ ciceritism:0 "Ciceritism"
+ ciceritism_adj:0 "Cicerite"
+ ciceritism_adherent:0 "Cicerite"
+ ciceritism_adherent_plural:0 "Cicerites"
+ ciceritism_desc:0 "Devout followers of Father Cicero’s teachings and the works of other notable religious men from the Brazilian Northeast, Cicerites adhere to latin rites and charity works and follow special processions in Romaria. Both Cicerites and mainline Apostolics revere and praise the work of Cicero towards the church, but Cicerites have a particular reverence to his words."
+ ciceritism_war_god_name:0 "Antônio Conselheiro"
+ ciceritism_war_god_name_possessive:0 "Antônio Conselheiro's"
+
+ celestism:0 "Celestism"
+ celestism_adj:0 "Celeste"
+ celestism_adherent:0 "Celeste"
+ celestism_adherent_plural:0 "Celestes"
+ celestism_desc:0 "Celestes believe in a series of local messianic figures from Southern Brazil, and that the spirit of Christ has descended upon them to guide His people to purity in the New World and against the deviant heretics who’d wish them exterminated. They worship many messianic figures, amongst them José Maria, Teodora and Maria Rosa, amongst others, were blessed with divine visions, and thus have been chosen by divine providence to lead them in the so called “celestial communities”. Celestes often take inspiration from Old World traditions such as chivalry and chastity, shunning earthly pleasures and inflicting heavy punishment on deviants and enemies of the faith. Nevertheless, they often mix esoteric and mystic elements into their christian doctrine, Celestes tend to greatly respect healers and miracle workers."
+ celestism_war_god_name:0 "Monk José Maria"
+ celestism_war_god_name_possessive:0 "Monk José Maria's"
+ celestism_knowledge_god_name:0 "Monk João Maria"
+ celestism_knowledge_god_name_possessive:0 "Monk João Maria's"
+ celestism_fertility_god_name:0 "St. Teodora"
+ celestism_fertility_god_name_possessive:0 "St. Teodora's"
+
+ muckerism:0 "Muckerism"
+ muckerism_adj:0 "Mucker"
+ muckerism_adherent:0 "Mucker"
+ muckerism_adherent_plural:0 "Muckers"
+ muckerism_desc:0 "Muckers are the religious followers of the teachings of Jacobina Mentz Maurer, a German-descendent self-proclaimed Messiah that lived in the 1800s. Jacobina had visions she claimed were divine dreams, that told her she was the “New Christ”, the “Manifestation of God”, and that she should lead her German compatriots in Southern Brazil to a pure, holy life in the new world. Muckers shun earthly values such as money, lust, drinking and smoking. Even though Muckers can pass sometimes as fanatics, they’re much less morally fundamentalist than their Celeste cousins, blessing each other with kisses, having an all-female clergy and having no shame in showing their bodies as God made them or expressing their love to each other."
+ muckerism_war_god_name:0 "João Maurer"
+ muckerism_war_god_name_possessive:0 "João Maurer's"
+ muckerism_fertility_god_name:0 "Jacobina Mentz Maurer"
+ muckerism_fertility_god_name_possessive:0 "Jacobina Mentz Maurer's"
+
  particularism_household_god_name:0 "La Difunta Correa"
  particularism_household_god_name_possessive:0 "La Difunta Correa's"
  particularism_health_god_name:0 "St. Teresa of Los Andes"
