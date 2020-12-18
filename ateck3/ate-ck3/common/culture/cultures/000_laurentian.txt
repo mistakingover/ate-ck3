@@ -1280,7 +1280,7 @@
 			english_coa_gfx
 		}
 		
-		color = { 0.1 0.6 0.15 }
+		color = { 0.4 0.35 0.1 }
 	
 		cadet_dynasty_names = {
 			"dynn_Ahota"
@@ -1385,7 +1385,106 @@
 			"dynn_Yockey"
 		}
 		dynasty_names = {
-			"dynn_"
+			"dynn_Ahota"
+			"dynn_Akseli"
+			"dynn_Beauchamp"
+			"dynn_Beckman"
+			"dynn_Bellmore"
+			"dynn_Biegler"
+			"dynn_Bigelow"
+			"dynn_Biolo"
+			"dynn_Boxer"
+			"dynn_Casperson"
+			"dynn_Champion"
+			"dynn_Colegrove"
+			"dynn_Deerhunter"
+			"dynn_Demars"
+			"dynn_Dousman"
+			"dynn_Dubord"
+			"dynn_Fair"
+			"dynn_Fountain"
+			"dynn_Gaujot"
+			"dynn_Giese"
+			"dynn_Gipp"
+			"dynn_Godfrey"
+			"dynn_Goetz"
+			"dynn_Groleau"
+			"dynn_HA_kkinen"
+			"dynn_Hammerberg"
+			"dynn_Hannus"
+			"dynn_Haupt"
+			"dynn_Heikkinen"
+			"dynn_Helminen"
+			"dynn_Hopper"
+			"dynn_Hord"
+			"dynn_Huuki"
+			"dynn_Ilkka"
+			"dynn_Isotalo"
+			"dynn_Jaakkola"
+			"dynn_Jalkanen"
+			"dynn_Juntunen"
+			"dynn_Kangas"
+			"dynn_Kelto"
+			"dynn_Klatt"
+			"dynn_Korpela"
+			"dynn_Kromer"
+			"dynn_Kukla"
+			"dynn_Kuusisto"
+			"dynn_Lafave"
+			"dynn_Lahti"
+			"dynn_LaJoie"
+			"dynn_Lalli"
+			"dynn_Lamere"
+			"dynn_Lauri"
+			"dynn_Longyear"
+			"dynn_Luatala"
+			"dynn_Magnet"
+			"dynn_Makinen"
+			"dynn_Manion"
+			"dynn_Mattila"
+			"dynn_Mattson"
+			"dynn_Maunu"
+			"dynn_Mayer"
+			"dynn_Michaelson"
+			"dynn_Nault"
+			"dynn_Negamanee"
+			"dynn_Niskanen"
+			"dynn_Nye"
+			"dynn_Olilla"
+			"dynn_Osterhout"
+			"dynn_PA_ivA_lehti"
+			"dynn_Paavola"
+			"dynn_Paquette"
+			"dynn_Parish"
+			"dynn_Pellonpaa"
+			"dynn_Pennell"
+			"dynn_Pepin"
+			"dynn_Pietila"
+			"dynn_Postma"
+			"dynn_Potila"
+			"dynn_Pukema"
+			"dynn_Rader"
+			"dynn_Rathbone"
+			"dynn_Rydholm"
+			"dynn_Saari"
+			"dynn_Seaborg"
+			"dynn_Standrew"
+			"dynn_Storey"
+			"dynn_Sundberg"
+			"dynn_Tallman"
+			"dynn_Tampere"
+			"dynn_Teske"
+			"dynn_Treado"
+			"dynn_Tuure"
+			"dynn_Uksila"
+			"dynn_Umnus"
+			"dynn_VA_yrynen"
+			"dynn_Vairo"
+			"dynn_Viau"
+			"dynn_Wellman"
+			"dynn_Wirtanen"
+			"dynn_Ylitalo"
+			"dynn_Yockey"
 		}
 		
 		male_names = {
@@ -1432,14 +1531,14 @@
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 5
-		father_name_chance = 10
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 5
-		mat_grm_name_chance = 40
-		mother_name_chance = 10
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
 		
 		ethnicities = {
 			25 = caucasian_blond

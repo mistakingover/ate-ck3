@@ -1,0 +1,615 @@
+﻿dutch_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	sranan = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.3 0.6 0.4 }
+	
+		cadet_dynasty_names = {
+			"dynn_Algoe"
+			"dynn_Alihusain"
+			"dynn_Alves"
+			"dynn_Amatmoekrim"
+			"dynn_Autar"
+			"dynn_Badal"
+			"dynn_Baldew"
+			"dynn_Beek"
+			"dynn_Behr"
+			"dynn_Bekhuis"
+			"dynn_Biharie"
+			"dynn_Boedhoe"
+			"dynn_Boldewijn"
+			"dynn_Braafheid"
+			"dynn_Breeveld"
+			"dynn_Bruma"
+			"dynn_Brunswijk"
+			"dynn_Chin-A-Sen"
+			"dynn_Chotkan"
+			"dynn_Comvalius"
+			"dynn_Daal"
+			"dynn_Drenthe"
+			"dynn_Dwarka"
+			"dynn_Eekwielders"
+			"dynn_Eersel"
+			"dynn_Emanuelson"
+			"dynn_Esajas"
+			"dynn_Fung-A-Wing"
+			"dynn_Gillissen"
+			"dynn_Graanoogst"
+			"dynn_Graner"
+			"dynn_Honenkamp"
+			"dynn_Hoorn"
+			"dynn_Hoost"
+			"dynn_Immink"
+			"dynn_Irodikromo"
+			"dynn_Kalloe"
+			"dynn_Kalpoe"
+			"dynn_Kamperveen"
+			"dynn_Kanhai"
+			"dynn_Kartodikromo"
+			"dynn_Kate"
+			"dynn_Keizerweerd"
+			"dynn_Kluvers"
+			"dynn_Kohinor"
+			"dynn_Koolwijk"
+			"dynn_Kraag"
+			"dynn_Kromopawiro"
+			"dynn_Lachman"
+			"dynn_Leckie"
+			"dynn_Leerdam"
+			"dynn_Lichtveld"
+			"dynn_Linger"
+			"dynn_Lorkeers"
+			"dynn_Mahabier"
+			"dynn_Mangal"
+			"dynn_Mathoera"
+			"dynn_Mens"
+			"dynn_Misidjan"
+			"dynn_Mohan"
+			"dynn_Narain"
+			"dynn_Neurink"
+			"dynn_Nieuwendam"
+			"dynn_Oemrawsingh"
+			"dynn_Olmberg"
+			"dynn_Oosterling"
+			"dynn_Orie"
+			"dynn_Ormskerk"
+			"dynn_Pawirodikromo"
+			"dynn_Pengel"
+			"dynn_Radhakishun"
+			"dynn_Rahman"
+			"dynn_Rambocus"
+			"dynn_Ramcharan"
+			"dynn_Ramdin"
+			"dynn_Ramkhelawan"
+			"dynn_Ramlal"
+			"dynn_Rehorst"
+			"dynn_Renfurm"
+			"dynn_Riedewald"
+			"dynn_Rijger"
+			"dynn_Ritfeld"
+			"dynn_Rozenblad"
+			"dynn_Sabajo"
+			"dynn_Sahadewsing"
+			"dynn_Santokhi"
+			"dynn_Sardjoe"
+			"dynn_Schneiders-Howard"
+			"dynn_Schotman"
+			"dynn_Schummelketel"
+			"dynn_Sewgobind"
+			"dynn_Sewradj"
+			"dynn_Sheombar"
+			"dynn_Sital"
+			"dynn_Slagveer"
+			"dynn_Slijngaard"
+			"dynn_Slory"
+			"dynn_Smits"
+			"dynn_Soekhoe"
+			"dynn_Sohansingh"
+			"dynn_Somohardjo"
+			"dynn_Starke"
+			"dynn_Stirt"
+			"dynn_Tjin-A-Djie"
+			"dynn_Tjon-En-Fa"
+			"dynn_Uhlenbeek"
+			"dynn_Venetiaan"
+			"dynn_Verwey"
+			"dynn_Voges"
+			"dynn_Vorm"
+			"dynn_Wanabo"
+			"dynn_Wekker"
+			"dynn_Wierik"
+			"dynn_Wijngaarde"
+			"dynn_Woei"
+			"dynn_Wongsodikromo"
+			"dynn_Yvel"
+			"dynn_Ziel"
+			"dynn_Zonnebeld"
+			"dynn_Zonnenberg"
+			"dynn_Zunder"
+			"dynn_de_Jong"
+			"dynn_de_Kom"
+			"dynn_de_Randamie"
+			"dynn_de_Vries"
+			"dynn_van_Damm"
+			"dynn_van_Dien"
+			"dynn_van_Dijk"
+			"dynn_van_Embricqs"
+			"dynn_van_Telman"
+		}
+		dynasty_names = {
+			"dynn_Algoe"
+			"dynn_Alihusain"
+			"dynn_Alves"
+			"dynn_Amatmoekrim"
+			"dynn_Autar"
+			"dynn_Badal"
+			"dynn_Baldew"
+			"dynn_Beek"
+			"dynn_Behr"
+			"dynn_Bekhuis"
+			"dynn_Biharie"
+			"dynn_Boedhoe"
+			"dynn_Boldewijn"
+			"dynn_Braafheid"
+			"dynn_Breeveld"
+			"dynn_Bruma"
+			"dynn_Brunswijk"
+			"dynn_Chin-A-Sen"
+			"dynn_Chotkan"
+			"dynn_Comvalius"
+			"dynn_Daal"
+			"dynn_Drenthe"
+			"dynn_Dwarka"
+			"dynn_Eekwielders"
+			"dynn_Eersel"
+			"dynn_Emanuelson"
+			"dynn_Esajas"
+			"dynn_Fung-A-Wing"
+			"dynn_Gillissen"
+			"dynn_Graanoogst"
+			"dynn_Graner"
+			"dynn_Honenkamp"
+			"dynn_Hoorn"
+			"dynn_Hoost"
+			"dynn_Immink"
+			"dynn_Irodikromo"
+			"dynn_Kalloe"
+			"dynn_Kalpoe"
+			"dynn_Kamperveen"
+			"dynn_Kanhai"
+			"dynn_Kartodikromo"
+			"dynn_Kate"
+			"dynn_Keizerweerd"
+			"dynn_Kluvers"
+			"dynn_Kohinor"
+			"dynn_Koolwijk"
+			"dynn_Kraag"
+			"dynn_Kromopawiro"
+			"dynn_Lachman"
+			"dynn_Leckie"
+			"dynn_Leerdam"
+			"dynn_Lichtveld"
+			"dynn_Linger"
+			"dynn_Lorkeers"
+			"dynn_Mahabier"
+			"dynn_Mangal"
+			"dynn_Mathoera"
+			"dynn_Mens"
+			"dynn_Misidjan"
+			"dynn_Mohan"
+			"dynn_Narain"
+			"dynn_Neurink"
+			"dynn_Nieuwendam"
+			"dynn_Oemrawsingh"
+			"dynn_Olmberg"
+			"dynn_Oosterling"
+			"dynn_Orie"
+			"dynn_Ormskerk"
+			"dynn_Pawirodikromo"
+			"dynn_Pengel"
+			"dynn_Radhakishun"
+			"dynn_Rahman"
+			"dynn_Rambocus"
+			"dynn_Ramcharan"
+			"dynn_Ramdin"
+			"dynn_Ramkhelawan"
+			"dynn_Ramlal"
+			"dynn_Rehorst"
+			"dynn_Renfurm"
+			"dynn_Riedewald"
+			"dynn_Rijger"
+			"dynn_Ritfeld"
+			"dynn_Rozenblad"
+			"dynn_Sabajo"
+			"dynn_Sahadewsing"
+			"dynn_Santokhi"
+			"dynn_Sardjoe"
+			"dynn_Schneiders-Howard"
+			"dynn_Schotman"
+			"dynn_Schummelketel"
+			"dynn_Sewgobind"
+			"dynn_Sewradj"
+			"dynn_Sheombar"
+			"dynn_Sital"
+			"dynn_Slagveer"
+			"dynn_Slijngaard"
+			"dynn_Slory"
+			"dynn_Smits"
+			"dynn_Soekhoe"
+			"dynn_Sohansingh"
+			"dynn_Somohardjo"
+			"dynn_Starke"
+			"dynn_Stirt"
+			"dynn_Tjin-A-Djie"
+			"dynn_Tjon-En-Fa"
+			"dynn_Uhlenbeek"
+			"dynn_Venetiaan"
+			"dynn_Verwey"
+			"dynn_Voges"
+			"dynn_Vorm"
+			"dynn_Wanabo"
+			"dynn_Wekker"
+			"dynn_Wierik"
+			"dynn_Wijngaarde"
+			"dynn_Woei"
+			"dynn_Wongsodikromo"
+			"dynn_Yvel"
+			"dynn_Ziel"
+			"dynn_Zonnebeld"
+			"dynn_Zonnenberg"
+			"dynn_Zunder"
+			"dynn_de_Jong"
+			"dynn_de_Kom"
+			"dynn_de_Randamie"
+			"dynn_de_Vries"
+			"dynn_van_Damm"
+			"dynn_van_Dien"
+			"dynn_van_Dijk"
+			"dynn_van_Embricqs"
+			"dynn_van_Telman"
+		}
+		
+		male_names = {
+			Abraham Adriaan Albert AndrE_ Anton Ashwin
+			Bernardo
+			Cerezo Claidel Clemens Cleven Cyril
+			Diego
+			Eddy Edgar Elfried Emile Ernst Ernst-Paul Errol Erwin EugE_ne Evert Evert-Jan Ewald
+			Fabian Felipe Florens Frans Frits
+			Geert-Jan Gerald Gerard Gerrit Gregory Gustaaf
+			Hans Harold Henk Henri Henri-Frans Herman Hugo Humbert
+			Iwan
+			Jair Jayant Johan John Jozef Jules Jurgen
+			Karel Kenneth
+			Leo Leroy Leslie Lodewijk LuciE_n
+			Maarten Marcel Marco Marinus Maurits Max Melvin MichaE_l Mohamed
+			Nigel
+			Orlando Ortwin
+			Patrick Paul Prem
+			Rabindre Ramdat Ramdew Regilio Reinier Remy Ricardo Robby Romeo Ronny Roy Ruben Rudolf Ryan
+			Samuel Sergio Soeresh Soewarto Stanley Stephen Stuart Sugrim Surendre
+			Ulrich
+			Virgil
+			Wilfred Willem Winston
+		}
+		female_names = {
+			Alicia Anne Annemieke Annemijn Astrid
+			Celeste Celestine Chitra Cornelia Cynthia
+			Danielle Denise Diane Dora
+			Elisabeth Elsa Esther
+			Genevieve Gertrude Gloria Grace
+			Ida Ingrid Ismene
+			Jasmine Jennifer Johanna
+			Karin Krishna
+			Laetita Laura Lois Lynn
+			Maria Marijke Maura Michelle
+			Niermala Niesha
+			Patricia Petronella Philomena
+			Ruth
+			Sabrina Sandra Soerjani Sophie Susanne Sylvana
+			Thea
+			Varina
+			Yvette
+			Zoureena
+		}
+		dynasty_of_location_prefix = "dynnp_van"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	papiamen = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.65 0.3 0.45 }
+	
+		cadet_dynasty_names = {
+			"dynn_Angela"
+			"dynn_Arends"
+			"dynn_Arion"
+			"dynn_Bernabela"
+			"dynn_Bernadina"
+			"dynn_Bito"
+			"dynn_Blekmans"
+			"dynn_Boekhoudt"
+			"dynn_Bonevacia"
+			"dynn_Brigitha"
+			"dynn_Caldera"
+			"dynn_Cicilia"
+			"dynn_Cijntje"
+			"dynn_Coffie"
+			"dynn_Conijnenbelt"
+			"dynn_Dierdorp"
+			"dynn_Dijkhoff"
+			"dynn_Dirksz"
+			"dynn_Doran"
+			"dynn_Elhage"
+			"dynn_Farro"
+			"dynn_Fermina"
+			"dynn_Gagel"
+			"dynn_Geerman"
+			"dynn_Giel"
+			"dynn_Girigorie"
+			"dynn_Godfried"
+			"dynn_Goeloe"
+			"dynn_Gosselink"
+			"dynn_Groen"
+			"dynn_Grootoonk"
+			"dynn_Hato"
+			"dynn_Hoek"
+			"dynn_Hofhuis"
+			"dynn_Hooi"
+			"dynn_Hoyer"
+			"dynn_Huesken"
+			"dynn_Isenia"
+			"dynn_Janga"
+			"dynn_Jungblut"
+			"dynn_Jurrjens"
+			"dynn_Kiefte"
+			"dynn_Koelma"
+			"dynn_Koeiman"
+			"dynn_Koolman"
+			"dynn_Kooper"
+			"dynn_Lacle"
+			"dynn_Leito"
+			"dynn_Lourens"
+			"dynn_Luciano"
+			"dynn_Maduro"
+			"dynn_Mansur"
+			"dynn_Martina"
+			"dynn_Melfor"
+			"dynn_Mercelina"
+			"dynn_Meulens"
+			"dynn_Milliard"
+			"dynn_Molders"
+			"dynn_Obispo"
+			"dynn_Oduber"
+			"dynn_Ortega"
+			"dynn_Ossenkoppele"
+			"dynn_Overmars"
+			"dynn_Pauletta"
+			"dynn_Paulina"
+			"dynn_Pieternella"
+			"dynn_Pietersz"
+			"dynn_Pisas"
+			"dynn_Rasmijn"
+			"dynn_Rojer"
+			"dynn_Schoolen"
+			"dynn_Schoop"
+			"dynn_Semeleer"
+			"dynn_Sluis"
+			"dynn_Statia"
+			"dynn_Stoltenberg"
+			"dynn_Thiel"
+			"dynn_Tromp"
+			"dynn_Veenhuis"
+			"dynn_Velderman"
+			"dynn_Visser"
+			"dynn_Vree"
+			"dynn_Vrisau"
+			"dynn_Vrolijk"
+			"dynn_Vrutaal"
+			"dynn_Welij"
+			"dynn_Werleman"
+			"dynn_Wernet"
+			"dynn_Windster"
+			"dynn_Winklaar"
+			"dynn_Wormstal"
+			"dynn_Zimmerman"
+			"dynn_de_Palm"
+			"dynn_de_Windt"
+			"dynn_de_Wit"
+			"dynn_van_Buuren"
+			"dynn_van_Eijk"
+			"dynn_van_Hasz"
+			"dynn_van_Putten"
+			"dynn_van_de_Pol"
+		}
+		dynasty_names = {
+			"dynn_Angela"
+			"dynn_Arends"
+			"dynn_Arion"
+			"dynn_Bernabela"
+			"dynn_Bernadina"
+			"dynn_Bito"
+			"dynn_Blekmans"
+			"dynn_Boekhoudt"
+			"dynn_Bonevacia"
+			"dynn_Brigitha"
+			"dynn_Caldera"
+			"dynn_Cicilia"
+			"dynn_Cijntje"
+			"dynn_Coffie"
+			"dynn_Conijnenbelt"
+			"dynn_Dierdorp"
+			"dynn_Dijkhoff"
+			"dynn_Dirksz"
+			"dynn_Doran"
+			"dynn_Elhage"
+			"dynn_Farro"
+			"dynn_Fermina"
+			"dynn_Gagel"
+			"dynn_Geerman"
+			"dynn_Giel"
+			"dynn_Girigorie"
+			"dynn_Godfried"
+			"dynn_Goeloe"
+			"dynn_Gosselink"
+			"dynn_Groen"
+			"dynn_Grootoonk"
+			"dynn_Hato"
+			"dynn_Hoek"
+			"dynn_Hofhuis"
+			"dynn_Hooi"
+			"dynn_Hoyer"
+			"dynn_Huesken"
+			"dynn_Isenia"
+			"dynn_Janga"
+			"dynn_Jungblut"
+			"dynn_Jurrjens"
+			"dynn_Kiefte"
+			"dynn_Koelma"
+			"dynn_Koeiman"
+			"dynn_Koolman"
+			"dynn_Kooper"
+			"dynn_Lacle"
+			"dynn_Leito"
+			"dynn_Lourens"
+			"dynn_Luciano"
+			"dynn_Maduro"
+			"dynn_Mansur"
+			"dynn_Martina"
+			"dynn_Melfor"
+			"dynn_Mercelina"
+			"dynn_Meulens"
+			"dynn_Milliard"
+			"dynn_Molders"
+			"dynn_Obispo"
+			"dynn_Oduber"
+			"dynn_Ortega"
+			"dynn_Ossenkoppele"
+			"dynn_Overmars"
+			"dynn_Pauletta"
+			"dynn_Paulina"
+			"dynn_Pieternella"
+			"dynn_Pietersz"
+			"dynn_Pisas"
+			"dynn_Rasmijn"
+			"dynn_Rojer"
+			"dynn_Schoolen"
+			"dynn_Schoop"
+			"dynn_Semeleer"
+			"dynn_Sluis"
+			"dynn_Statia"
+			"dynn_Stoltenberg"
+			"dynn_Thiel"
+			"dynn_Tromp"
+			"dynn_Veenhuis"
+			"dynn_Velderman"
+			"dynn_Visser"
+			"dynn_Vree"
+			"dynn_Vrisau"
+			"dynn_Vrolijk"
+			"dynn_Vrutaal"
+			"dynn_Welij"
+			"dynn_Werleman"
+			"dynn_Wernet"
+			"dynn_Windster"
+			"dynn_Winklaar"
+			"dynn_Wormstal"
+			"dynn_Zimmerman"
+			"dynn_de_Palm"
+			"dynn_de_Windt"
+			"dynn_de_Wit"
+			"dynn_van_Buuren"
+			"dynn_van_Eijk"
+			"dynn_van_Hasz"
+			"dynn_van_Putten"
+			"dynn_van_de_Pol"
+		}
+		
+		male_names = {
+			Adriaan Aldert Alejandro Alfonso Angelo Arturo Aurelio Ayrton
+			Carl
+			DaniE_l David Derrick Diego Dominico
+			Edelbert Edison Eduard Erik Etienne EugE_ne
+			Felipe Ferdinand Fidert Franklin Frans Frits
+			Gerald Gerard Geronimo Gerrit Gerwin Gilberto Gilmar Glenbert Gregor Guillermo Guillfred Guliano
+			Hendrik Hubert
+			Igemar Ilfred
+			Jaime Jairo Javier Joel Jonathan Joost Jose Juan Juan_Carlos Juan_David Jean_Julien Jean_Marc Juan_Miguel Jean_Pierre Jurick JuriE_n
+			Kenneth Kurt
+			Leandro Leendert Leomar Ludwig
+			Marcelo Marco Melvin MichaE_l Miguel Moises
+			Nelson Nicolaas Norberto
+			Olindo Orlando Otto
+			Paul Pedro Pernell
+			Quentin
+			Rannick RenE_ Ricardo Roberto Rodion Rodney Roelly Rudolf Rugenio Rutger
+			Sergio Shelton Silvio
+			Theric Tyrick Tyrone
+			Willem
+			Yannick
+		}
+		female_names = {
+			AdE_le Ana Angela
+			Carmen Chantal Corinne Cornelia Cynthia
+			Daphne
+			Emily Evelyn
+			Geraldine Giselle
+			Henrietta
+			Irene
+			Jasmine Jennifer Julia Juliana
+			Louisette Lucille Lydia
+			Maria Monica
+			Nicole Nina
+			Paulette Petra Philomena
+			RuE_nna
+			Sarah Seline Sonia Stephanie Suzanne
+			Vanessa
+			Yvette
+		}
+		dynasty_of_location_prefix = "dynnp_di"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}
