@@ -26,9 +26,12 @@
 			"dynn_Erb"
 			"dynn_Esh"
 			"dynn_Farmwald"
+			"dynn_Fettermann"
 			"dynn_Fisher"
+			"dynn_Funck"
 			"dynn_Gingerich"
 			"dynn_Glick"
+			"dynn_Glocke"
 			"dynn_Good"
 			"dynn_Graber"
 			"dynn_Groff"
@@ -44,22 +47,26 @@
 			"dynn_Kline"
 			"dynn_Kraybill"
 			"dynn_Kreider"
+			"dynn_Kulp"
 			"dynn_Kurtz"
 			"dynn_Lambright"
 			"dynn_Landis"
 			"dynn_Lantz"
 			"dynn_Lapp"
+			"dynn_Laudenslager"
 			"dynn_Lehman"
 			"dynn_Lengacher"
 			"dynn_Liechty"
 			"dynn_Longenecker"
 			"dynn_Mast"
 			"dynn_Miller"
+			"dynn_Mootz"
 			"dynn_Nafziger"
 			"dynn_Neuenschwander"
 			"dynn_Nissley"
 			"dynn_Nolt"
 			"dynn_Raber"
+			"dynn_Reimensnyder"
 			"dynn_Rohrer"
 			"dynn_Sauder"
 			"dynn_Schertzinger"
@@ -77,11 +84,14 @@
 			"dynn_Stoltzfus"
 			"dynn_Stutzman"
 			"dynn_Troyer"
+			"dynn_Utz"
 			"dynn_Weaver"
 			"dynn_Wenger"
 			"dynn_Wittmer"
+			"dynn_Wockenfuss"
 			"dynn_Yoder"
 			"dynn_York"
+			"dynn_Zercher"
 			"dynn_Zimmerman"
 			"dynn_Zook"
 		}
@@ -98,9 +108,12 @@
 			"dynn_Erb"
 			"dynn_Esh"
 			"dynn_Farmwald"
+			"dynn_Fettermann"
 			"dynn_Fisher"
+			"dynn_Funck"
 			"dynn_Gingerich"
 			"dynn_Glick"
+			"dynn_Glocke"
 			"dynn_Good"
 			"dynn_Graber"
 			"dynn_Groff"
@@ -116,22 +129,26 @@
 			"dynn_Kline"
 			"dynn_Kraybill"
 			"dynn_Kreider"
+			"dynn_Kulp"
 			"dynn_Kurtz"
 			"dynn_Lambright"
 			"dynn_Landis"
 			"dynn_Lantz"
 			"dynn_Lapp"
+			"dynn_Laudenslager"
 			"dynn_Lehman"
 			"dynn_Lengacher"
 			"dynn_Liechty"
 			"dynn_Longenecker"
 			"dynn_Mast"
 			"dynn_Miller"
+			"dynn_Mootz"
 			"dynn_Nafziger"
 			"dynn_Neuenschwander"
 			"dynn_Nissley"
 			"dynn_Nolt"
 			"dynn_Raber"
+			"dynn_Reimensnyder"
 			"dynn_Rohrer"
 			"dynn_Sauder"
 			"dynn_Schertzinger"
@@ -149,34 +166,37 @@
 			"dynn_Stoltzfus"
 			"dynn_Stutzman"
 			"dynn_Troyer"
+			"dynn_Utz"
 			"dynn_Weaver"
 			"dynn_Wenger"
 			"dynn_Wittmer"
+			"dynn_Wockenfuss"
 			"dynn_Yoder"
 			"dynn_York"
+			"dynn_Zercher"
 			"dynn_Zimmerman"
 			"dynn_Zook"
 		}
 		
 		male_names = {
 			Aaron Abner Abram Absalom Albert Amos Andreas Asher
-			Bartel Benjamin
-			Caleb Christian Christopher Clement
+			Bartel Benjamin Benuel
+			Caleb Christian Christopher Clement Conrad
 			Daniel David
-			Elam Eli Elmer Elmo Ernst Eugen Ezekiel
+			Elam Eli Elias Elmer Elmo Enos Ernst Erwin Eugen Ezekiel
 			Frantz Friedrich
 			Gabriel Georg Gideon
 			Heinrich Hezekiah Hiram
 			Iddo Immanuel Isaac Isaiah Ishmael Israel
-			Jakob Jeremiah Jesse Jethro Johannes Jonas Jonathan Joseph Joshua
+			Jakob Jeremiah Jesse Jethro Joachim Joel Johannes Jonas Jonathan Joseph Joshua
 			Karl Kasper
 			Leroy Levi Lorentz Lukas
 			Mark Martin Matthias Mervin Micah Michael Monroe Moses
 			Nathan Noah
 			Obadiah
-			Paul Peter Philip
-			Richard
-			Samson Samuel Simon Solomon Stephen
+			Paul Petrus Philip
+			Reuben Richard
+			Samson Samuel Sem Simon Solomon Stephen
 			Thomas
 			Ulrich Uriah
 			Viktor
@@ -185,19 +205,21 @@
 		}
 		female_names = {
 			Abigail Anna
-			Barbara
+			Barbara Bertha
 			Deborah
-			Elizabeth Emma Esther
-			Fannie
+			Edna Elizabeth Emma Esther
+			Fannie Fronica
 			Gretchen
 			Hannah Helen
 			Judith
 			Klara
 			Lavina Leah
-			Marian Martha Mary Miriam
+			Mabel Magdalena Marian Martha Mary Mildred Miriam
 			Naomi
+			Patience Phoebe
 			Rachel Rebecca Ruth
 			Sarah Susanna
+			Trina
 		}
 		dynasty_of_location_prefix = "dynnp_vun"
 		
