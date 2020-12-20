@@ -40,7 +40,6 @@ special_tolerance = {
 			hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_latin_rite = 1
 			hostility_override_special_doctrine_protestant_background = 1
-			hostility_override_special_doctrine_old_covenant = 1
 		}
 	}
 	
@@ -81,15 +80,11 @@ doctrine_protestant_tolerance = { #put certain tolerance doctrines here
 		parameters = {
 			hostility_override_special_doctrine_protestant_background = 1
 			hostility_override_special_doctrine_mainstream_protestant = 1
-			hostility_override_special_doctrine_old_covenant = 1
 		}
 	}
 	
 	special_doctrine_old_covenant = {
 		parameters = {
-			hostility_override_special_doctrine_old_covenant = 1
-			hostility_override_special_doctrine_protestant_background = 1
-			hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_shema_yisrael = 2
 		}
 	}
