@@ -60,7 +60,6 @@
 			"dynn_Gaona"
 			"dynn_Garza"
 			"dynn_GaytA_n"
-			"dynn_Gorostieta"
 			"dynn_Guajardo"
 			"dynn_HernA_ndez"
 			"dynn_Herrera"
@@ -119,6 +118,7 @@
 			"dynn_Sierras"
 			"dynn_Tamez"
 			"dynn_TreviN_o"
+			"dynn_Uresti"
 			"dynn_Uriarte"
 			"dynn_Uribe"
 			"dynn_ValdE_s"
@@ -182,7 +182,6 @@
 			"dynn_Gaona"
 			"dynn_Garza"
 			"dynn_GaytA_n"
-			"dynn_Gorostieta"
 			"dynn_Guajardo"
 			"dynn_HernA_ndez"
 			"dynn_Herrera"
@@ -241,6 +240,7 @@
 			"dynn_Sierras"
 			"dynn_Tamez"
 			"dynn_TreviN_o"
+			"dynn_Uresti"
 			"dynn_Uriarte"
 			"dynn_Uribe"
 			"dynn_ValdE_s"
@@ -258,6 +258,7 @@
 			"dynn_dos_Santos"
 		}
 		
+		#'Barbarian' names (Germanic conqueroes), and names of revolutionaries
 		male_names = {
 			Abel Adalberto AdriA_n AgustI_n Alarico Alejandro Alfonso A_lvaro Antonio Armando Arnulfo Arturo Aureliano Aurelio
 			BA_rbaro Belisario Benito BenjamI_n Bernardo Brayan
@@ -617,6 +618,7 @@
 			"dynn_Zazueta"
 		}
 		
+		#Some European infulenced names from immigrants and a few Arabic inspired ones
 		male_names = {
 			AarO_n Abel Abrigael AdA_n Adolfo AdriA_n AgustI_n Ahmed Alberto Alejandro Alfredo Alfonso Alonso A_lvaro A_ngel Ariel Armando Arnoldo Arturo Aurelio
 			BenjamI_n Bernal Bernardo
@@ -1017,7 +1019,7 @@
 			"dynn_del_RI_o"
 			"dynn_del_Valle"
 		}
-		
+		#A lot of more modern English derived names and nicknames
 		male_names = {
 			Abel Adolfo Adonis AdriA_n Alejandro Alfonso AlI_ A_lvaro AndrE_s A_ngel Antonio Arcadio Armando Arturo
 			Baltasar Benito BenjamI_n Bernardo BrandO_n Brayan
@@ -1096,6 +1098,7 @@
 		color = { 0.55 0.42 0.04 }
 	
 		cadet_dynasty_names = {
+			"dynn_Alvelais"
 			"dynn_Amaya"
 			"dynn_Anchondo"
 			"dynn_ArA_mbula"
@@ -1106,7 +1109,10 @@
 			"dynn_Baker"
 			"dynn_Balderrama"
 			"dynn_Barraza"
+			"dynn_Blatz"
 			"dynn_Blum"
+			"dynn_Boldt"
+			"dynn_Breach"
 			"dynn_BuenvarO_n"
 			"dynn_Burciaga"
 			"dynn_Burrola"
@@ -1126,11 +1132,14 @@
 			"dynn_Cruz"
 			"dynn_DI_az"
 			"dynn_EnrI_quez"
+			"dynn_Erives"
 			"dynn_EscA_rcega"
+			"dynn_Escobedo"
 			"dynn_Espino"
 			"dynn_Espinoza"
 			"dynn_Estrada"
 			"dynn_Favela"
+			"dynn_Fierro"
 			"dynn_Figueroa"
 			"dynn_Flores"
 			"dynn_Fox"
@@ -1140,11 +1149,14 @@
 			"dynn_GarcI_a"
 			"dynn_Gardea"
 			"dynn_Gotarra"
+			"dynn_Grajeda"
 			"dynn_Guereca"
 			"dynn_HernA_ndez"
 			"dynn_IguI_niz"
 			"dynn_JA_quez"
 			"dynn_Jurado"
+			"dynn_Knelsen"
+			"dynn_Krahn"
 			"dynn_Lerma"
 			"dynn_Loya"
 			"dynn_Lozano"
@@ -1155,6 +1167,7 @@
 			"dynn_MA_rquez"
 			"dynn_Machete"
 			"dynn_Madrid"
+			"dynn_Magallanes"
 			"dynn_Manzana"
 			"dynn_Marrufo"
 			"dynn_Medina"
@@ -1169,6 +1182,7 @@
 			"dynn_Olivas"
 			"dynn_Ontiveros"
 			"dynn_Orona"
+			"dynn_PA_nuco"
 			"dynn_Padilla"
 			"dynn_Palacios"
 			"dynn_Palma"
@@ -1192,22 +1206,31 @@
 			"dynn_Salcido"
 			"dynn_Samaniego"
 			"dynn_Sigala"
+			"dynn_Simabuco"
 			"dynn_Simental"
+			"dynn_Speyer"
 			"dynn_Tarango"
 			"dynn_Terrazas"
 			"dynn_Torres"
 			"dynn_Tovar"
 			"dynn_Trevizo"
+			"dynn_TrI_as"
 			"dynn_Valenzuela"
 			"dynn_Valles"
 			"dynn_Valverde"
+			"dynn_Venzor"
 			"dynn_Villa"
 			"dynn_Wagner"
+			"dynn_Wieler"
+			"dynn_Wislar"
+			"dynn_ZamarrO_n"
 			"dynn_Zavala"
+			"dynn_ZubirA_n"
 			"dynn_Zuloaga"
 			"dynn_de_Loera"
 		}
 		dynasty_names = {
+			"dynn_Alvelais"
 			"dynn_Amaya"
 			"dynn_Anchondo"
 			"dynn_ArA_mbula"
@@ -1218,7 +1241,10 @@
 			"dynn_Baker"
 			"dynn_Balderrama"
 			"dynn_Barraza"
+			"dynn_Blatz"
 			"dynn_Blum"
+			"dynn_Boldt"
+			"dynn_Breach"
 			"dynn_BuenvarO_n"
 			"dynn_Burciaga"
 			"dynn_Burrola"
@@ -1238,11 +1264,14 @@
 			"dynn_Cruz"
 			"dynn_DI_az"
 			"dynn_EnrI_quez"
+			"dynn_Erives"
 			"dynn_EscA_rcega"
+			"dynn_Escobedo"
 			"dynn_Espino"
 			"dynn_Espinoza"
 			"dynn_Estrada"
 			"dynn_Favela"
+			"dynn_Fierro"
 			"dynn_Figueroa"
 			"dynn_Flores"
 			"dynn_Fox"
@@ -1252,11 +1281,14 @@
 			"dynn_GarcI_a"
 			"dynn_Gardea"
 			"dynn_Gotarra"
+			"dynn_Grajeda"
 			"dynn_Guereca"
 			"dynn_HernA_ndez"
 			"dynn_IguI_niz"
 			"dynn_JA_quez"
 			"dynn_Jurado"
+			"dynn_Knelsen"
+			"dynn_Krahn"
 			"dynn_Lerma"
 			"dynn_Loya"
 			"dynn_Lozano"
@@ -1267,6 +1299,7 @@
 			"dynn_MA_rquez"
 			"dynn_Machete"
 			"dynn_Madrid"
+			"dynn_Magallanes"
 			"dynn_Manzana"
 			"dynn_Marrufo"
 			"dynn_Medina"
@@ -1281,6 +1314,7 @@
 			"dynn_Olivas"
 			"dynn_Ontiveros"
 			"dynn_Orona"
+			"dynn_PA_nuco"
 			"dynn_Padilla"
 			"dynn_Palacios"
 			"dynn_Palma"
@@ -1304,39 +1338,48 @@
 			"dynn_Salcido"
 			"dynn_Samaniego"
 			"dynn_Sigala"
+			"dynn_Simabuco"
 			"dynn_Simental"
+			"dynn_Speyer"
 			"dynn_Tarango"
 			"dynn_Terrazas"
 			"dynn_Torres"
 			"dynn_Tovar"
 			"dynn_Trevizo"
+			"dynn_TrI_as"
 			"dynn_Valenzuela"
 			"dynn_Valles"
 			"dynn_Valverde"
+			"dynn_Venzor"
 			"dynn_Villa"
 			"dynn_Wagner"
+			"dynn_Wieler"
+			"dynn_Wislar"
+			"dynn_ZamarrO_n"
 			"dynn_Zavala"
+			"dynn_ZubirA_n"
 			"dynn_Zuloaga"
 			"dynn_de_Loera"
 		}
 		
+		#Old testament names, and some old Germanic names, Mennonite influence
 		male_names = {
-			AbdI_as Abraham Adalberto AdA_n Alan AmO_s AndrE_s Antonio Armando
+			AbdI_as Abraham Adalberto AdA_n Alan AmO_s AndrE_s A_ngel Antonio Armando Arnulfo
 			BenjamI_n Bernardo
-			Carlito Carlos Chavo Cristian
+			Carlito Carlos Casimero Chavo Cristian
 			Daniel David Delberto Donaldo
 			EfraI_n ElI_ ElI_as Emiliano Enrique Ernesto Esdras Esteban Eulalio Ezequiel
 			FabiA_n Federico Francisco FE_lix Fernando
 			Gabino Gabriel GermA_n Guillermo Gustavito Gustavo
 			HE_ctor Horacio
 			Ignacio Isaac IsaI_as Ismael Israel
-			Jarvey JeremI_as JesU_s JoaquI_n Joel JonA_s JosE_ JosuE_ Juan Julio Julio_CE_sar
+			Jarvey JeremI_as JesU_s JoaquI_n Joel JonA_s JosE_ JosuE_ Juan Juan_Miguel Julio Julio_CE_sar
 			Leonardo LevI_ Luis
-			MalaquI_as Manuel Mario Miguel Miguel_A_ngel MoisE_s
+			MalaquI_as Manuel Mario Melchor Miguel Miguel_A_ngel MoisE_s
 			Nacho NehemI_as NoE_
 			Octavio O_scar Otto
 			Pablo Pancho Patricio Pepe
-			Rafael RaU_l Roberto RubE_n
+			Rafael RaU_l Reinaldo Roberto RubE_n
 			SalomO_n Samuel SaU_l SimO_n
 			Teodorico
 			Urbano

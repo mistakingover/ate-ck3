@@ -5,7 +5,7 @@
 		western_clothing_gfx
 		western_unit_gfx
 	}
-	
+
 	sixer = {
 		graphical_cultures = {
 			english_coa_gfx
@@ -39,7 +39,7 @@
 			"dynn_Bloor"
 			"dynn_Boscovich"
 			"dynn_Braganza"
-			"dynn_Brathwaite"
+			"dynn_Braithwaite"
 			"dynn_Brkovic"
 			"dynn_Brockhouse"
 			"dynn_Brown"
@@ -92,6 +92,7 @@
 			"dynn_Gupta"
 			"dynn_Guyatt"
 			"dynn_Gyaltsen"
+			"dynn_Hakim"
 			"dynn_Hassan"
 			"dynn_Hawerchuk"
 			"dynn_He"
@@ -176,7 +177,6 @@
 			"dynn_Myers"
 			"dynn_Natyshak"
 			"dynn_Naylor"
-			"dynn_Neyagawa"
 			"dynn_Neyagawa"
 			"dynn_Ng"
 			"dynn_Nguyen"
@@ -311,7 +311,7 @@
 			"dynn_Bloor"
 			"dynn_Boscovich"
 			"dynn_Braganza"
-			"dynn_Brathwaite"
+			"dynn_Braithwaite"
 			"dynn_Brkovic"
 			"dynn_Brockhouse"
 			"dynn_Brown"
@@ -364,6 +364,7 @@
 			"dynn_Gupta"
 			"dynn_Guyatt"
 			"dynn_Gyaltsen"
+			"dynn_Hakim"
 			"dynn_Hassan"
 			"dynn_Hawerchuk"
 			"dynn_He"
@@ -448,7 +449,6 @@
 			"dynn_Myers"
 			"dynn_Natyshak"
 			"dynn_Naylor"
-			"dynn_Neyagawa"
 			"dynn_Neyagawa"
 			"dynn_Ng"
 			"dynn_Nguyen"
@@ -558,6 +558,7 @@
 			"dynn_van_Koeverden"
 		}
 		
+		#Most names are 19th century inspired with a heavy amount of Arabic/Muslim names as well as some Tamil, Hindu, Punjabi, Polish, Italian, Ukrainian, Iranian, and Croatian names
 		male_names = {
 			Abbott Abdullah Abhishek Adam Aditya Adrian Ahmed Aidan Akhil Alamgir Alan Albert Alfred Alexander Ali Ambrose Ameer Andrew Angelo Angus Anson Anthony Anwar Archibald Arjun Arthur Arvind Asaf Ashok Ashwin Atwood
 			Baldwin Banting Barclay Benjamin Bennett Bernard Bertram Bessarion Borden Boris Bradley Brant Brian Brock Bruce Buckam Buell Burton Butler Byron
@@ -635,6 +636,7 @@
 			{ name = "mercenary_company_woodbine_knights" }
 		}
 	}
+
 	ontarian = {
 		graphical_cultures = {
 			english_coa_gfx
@@ -967,6 +969,7 @@
 			"dynn_van_Vliet"
 		}
 		
+		#Very stereotypical Victorian English and 19th century style names
 		male_names = {
 			Abbott Aberhart Addison Aeneas Albert Alfred Alistair Allan Amaury Ambrose Andrew Angus Anson Anthony Antrobus Archibald Argyll Arthur Atwood Augustus Aurelius Austin Aylesworth
 			Baldwin Banastre Banting Barclay Bellenden Bennett Bernard Bertram Borden Boscawen Braddock Bramwell Brant Brian Brock Bruce Buell Burton Butler
@@ -1040,7 +1043,7 @@
 			25 = caucasian_dark_hair
 		}
 	}
-	
+
 	bushman = {
 		graphical_cultures = {
 			english_coa_gfx
@@ -1573,6 +1576,7 @@
 			"dynn_Zedlacher"
 		}
 		
+		#Lots of name short forms with Italian and Finnish names thrown in
 		male_names = {
 			Aarne Ab Aino Aku Albin Alex Alf Allan Alvin Andy Angelo Art
 			Barclay Bernard Bill Brendan Brian Bruce

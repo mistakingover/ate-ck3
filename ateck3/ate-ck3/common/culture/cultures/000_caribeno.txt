@@ -5,7 +5,7 @@
 		western_clothing_gfx
 		western_unit_gfx
 	}
-	
+
 	cubano = {
 		graphical_cultures = {
 			english_coa_gfx
@@ -358,6 +358,7 @@
 			"dynn_del_Riesgo"
 		}
 		
+		#Old Germanic type names as well as some modern stereotypical Cuban ones
 		male_names = {
 			Abel Adalberto AdriA_n AgustI_n Alberto Alejandro Alexei Alfredo Amaury AndrE_s A_ngel AnI_bal Anselmo Antonio Ariel Armando Arturo Aurelio Avelino
 			Baldomero BA_rbaro Blas
@@ -427,6 +428,7 @@
 			25 = caucasian_dark_hair
 		}
 	}
+
 	quisqueyano = {
 		graphical_cultures = {
 			english_coa_gfx
@@ -659,6 +661,7 @@
 			"dynn_de_los_Santos"
 		}
 		
+		#Ancient Greek names
 		male_names = {
 			Abelardo Abraham AdriA_n AgustI_n Alberto Alex Alfonso Amado Amaury Anderson AndrE_s A_ngel Antonio Ariel ArI_stides Armando ArquI_medes Arturo Aurelio
 			Bienvenido
@@ -731,6 +734,7 @@
 			25 = caucasian_dark_hair
 		}
 	}
+
 	boricua = {
 		graphical_cultures = {
 			english_coa_gfx
@@ -923,6 +927,7 @@
 			"dynn_de_Hostos"
 		}
 		
+		#Latin and Biblical names
 		male_names = {
 			Abelardo Adolfo AgustI_n Alejandro Alfonso Alfredo A_lvaro AndrE_s A_ngel AnI_bal Antonio Antulio ArI_stides Armando Arnaldo Arturo Augusto Avelino
 			Baltasar Benicio BenjamI_n Braulio Brian
