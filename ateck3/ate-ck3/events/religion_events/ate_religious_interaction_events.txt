@@ -1,0 +1,415 @@
+﻿namespace = ate_religious_interaction
+
+
+
+#	Wrestling Match
+ate_religious_interaction.100 = { #challenge
+	type = character_event
+	title = ate_religious_interaction.100.t
+	desc = ate_religious_interaction.100.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	scope:actor
+
+	immediate = {
+		capital_province = {		#For loc.
+			barony = { save_scope_as = match_locale }
+		}
+	}
+
+	#I accept the challenge.
+	option = {
+		name = ate_religious_interaction.100.a
+		duel = {
+			skill = prowess
+			target = scope:actor
+			50 = {	#Defender wins the toss.
+				compare_modifier = {
+					value = scope:duel_value
+					multiplier = 3.5
+					min = -49
+				}
+				modifier = {
+					add = {
+						value = scope:recipient.martial_lifestyle_perks 
+						multiply = 5
+					}
+				}
+				modifier = {
+					add = {
+						value = scope:recipient.num_of_bad_genetic_traits
+						multiply = -5
+					}
+				}
+				modifier = {
+					add = {
+						value = scope:actor.martial_lifestyle_perks
+						multiply = -5
+					}
+				}
+				modifier = {
+					add = {
+						value = scope:actor.num_of_bad_genetic_traits
+						multiply = 5
+					}
+				}
+				desc = ate_religious_interaction.100.a.tt_success
+				hidden_effect = {
+					random_list = {
+						1490 = {
+							scope:actor = {
+								add_character_flag = {
+									flag = match_lost
+									years = 1
+								}
+								trigger_event = {
+									id = ate_religious_interaction.101
+									days = 7
+								}
+							}
+							scope:recipient = {
+								add_character_flag = {
+									flag = match_won
+									years = 1
+								}
+								trigger_event = {
+									id = ate_religious_interaction.102
+									days = 7
+								}
+							}
+						}
+						10 = {
+							trigger = {
+								scope:actor = {
+									is_ai = yes
+									age >= 35
+								}
+							}
+							compare_modifier = {
+								target = scope:recipient
+								value = prowess
+							}
+							compare_modifier = {
+								target = scope:actor
+								value = prowess
+								multiplier = -1
+							}
+							compare_modifier = {
+								target = scope:actor
+								value = age
+								offset = -40
+								multiplier = 0.5
+							}
+							compare_modifier = {
+								target = scope:actor
+								value = stress
+								multiplier = 0.2
+							}
+							scope:actor = {
+								save_scope_as = victim
+							}
+							scope:recipient = {
+								trigger_event = {
+									id = ate_religious_interaction.103
+									days = 7
+								}
+							}
+						}
+					}
+				}
+			}
+			50 = {	#Attacker wins the toss.
+				compare_modifier = {
+					value = scope:duel_value
+					multiplier = -3.5
+					min = -49
+				}
+				modifier = {
+					add = {
+						value = scope:recipient.martial_lifestyle_perks
+						multiply = -5
+					}
+				}
+				modifier = {
+					add = {
+						value = scope:recipient.num_of_bad_genetic_traits
+						multiply = 5
+					}
+				}
+				modifier = {
+					add = {
+						value = scope:actor.martial_lifestyle_perks
+						multiply = 5
+					}
+				}
+				modifier = {
+					add = {
+						value = scope:actor.num_of_bad_genetic_traits
+						multiply = -5
+					}
+				}
+				desc = ate_religious_interaction.100.a.tt_fail
+				hidden_effect = {
+					random_list = {
+						1490 = {
+							scope:actor = {
+								add_character_flag = {
+									flag = match_won
+									years = 1
+								}
+								trigger_event = {
+									id = ate_religious_interaction.101
+									days = 7
+								}
+							}
+							scope:recipient = {
+								add_character_flag = {
+									flag = match_lost
+									years = 1
+								}
+								trigger_event = {
+									id = ate_religious_interaction.102
+									days = 7
+								}
+							}
+						}
+						40 = {
+							trigger = {
+								scope:recipient = {
+									is_ai = yes
+									age >= 35
+								}
+							}
+							compare_modifier = {
+								target = scope:actor
+								value = learning
+							}
+							compare_modifier = {
+								target = scope:recipient
+								value = learning
+								multiplier = -1
+							}
+							compare_modifier = {
+								target = scope:recipient
+								value = age
+								offset = -40
+								multiplier = 0.5
+							}
+							compare_modifier = {
+								target = scope:recipient
+								value = stress
+								multiplier = 0.2
+							}
+							scope:recipient = {
+								save_scope_as = victim
+							}
+							scope:actor = {
+								trigger_event = {
+									id = ate_religious_interaction.103
+									days = 7
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		#No stress, as AI is forced to pick this.
+		ai_chance = {	#The AI always pick this.
+			base = 100
+		}
+	}
+	
+	#I have better things to do.
+	option = {
+		name = ate_religious_interaction.100.b
+		trigger = { is_ai = no }	#Only players may opt out.
+		add_piety = medium_piety_loss
+		custom_tooltip = ate_religious_interaction.100.b.tt
+		hidden_effect = {
+			scope:actor = {
+				send_interface_toast = {
+					title = ate_religious_interaction.100.b_turned_down
+					left_icon = scope:recipient
+				}
+				add_piety = medium_piety_gain
+				remove_character_modifier = used_wrestling_match_modifier
+			}
+		}
+		stress_impact = { zealous = minor_stress_impact_gain }
+		ai_chance = {	#Unavailable to the AI.
+			base = 0
+		}
+	}
+}
+
+#	#Match results: aggressor / actor
+ate_religious_interaction.101 = {
+	type = character_event
+	title = ate_religious_interaction.100.t
+	desc = {
+		desc = ate_religious_interaction.101.desc_intro
+		first_valid = {
+			triggered_desc = {
+				trigger = { has_character_flag = match_won }
+				desc = ate_religious_interaction.101.desc_won
+			}
+			desc = ate_religious_interaction.101.desc_lost
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	scope:recipient
+
+	#The result.
+	option = {
+		name = {
+			trigger = { has_character_flag = match_won }
+			text = ate_religious_interaction.101.a_won
+		}
+		name = {
+			trigger = { has_character_flag = match_lost }
+			text = ate_religious_interaction.101.a_lost
+		}
+		if = {
+			limit = { has_character_flag = match_won }
+			add_piety = major_piety_gain
+			reverse_add_opinion = {
+				target = scope:recipient
+				modifier = wrestling_match_loser_opinion
+			}
+		}
+		else_if = {
+			limit = { has_character_flag = match_lost }
+			add_piety = major_piety_loss
+			reverse_add_opinion = {
+				target = scope:recipient
+				modifier = wrestling_match_victor_opinion
+			}
+		}
+		stress_impact = { cynical = medium_stress_impact_gain }
+		ai_chance = {	#No other options available.
+			base = 100
+		}
+	}
+}
+
+#	#Match results: defender / recipient
+ate_religious_interaction.102 = {
+	type = character_event
+	title = ate_religious_interaction.100.t
+	desc = {
+		desc = ate_religious_interaction.101.desc_intro
+		first_valid = {
+			triggered_desc = {
+				trigger = { has_character_flag = match_won}
+				desc = ate_religious_interaction.102.desc_won
+			}
+			desc = ate_religious_interaction.102.desc_lost
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	scope:actor
+
+	#The result.
+	option = {
+		name = {
+			trigger = { has_character_flag = match_won }
+			text = ate_religious_interaction.101.a_won
+		}
+		name = {
+			trigger = { has_character_flag = match_lost }
+			text = ate_religious_interaction.101.a_lost
+		}
+		if = {
+			limit = { has_character_flag = match_won}
+			add_piety = major_piety_gain
+			reverse_add_opinion = {
+				target = scope:actor
+				modifier = wrestling_match_loser_opinion
+			}
+		}
+		else_if = {
+			limit = { has_character_flag = match_lost }
+			add_piety = major_piety_loss
+			reverse_add_opinion = {
+				target = scope:actor
+				modifier = wrestling_match_victor_opinion
+			}
+		}
+		#No stress, as the AI is forced to get here.
+		ai_chance = {	#No other options available.
+			base = 100
+		}
+	}
+}
+
+################################
+# Things go really bad for the defender
+# by Petter Vilberg
+################################
+ate_religious_interaction.103 = {
+	type = character_event
+	title = ate_religious_interaction.100.t
+	desc = {
+		desc = ate_religious_interaction.101.desc_intro
+		desc = ate_religious_interaction.103.desc
+		first_valid = {
+			random_valid = {
+				triggered_desc = {
+					trigger = { scope:victim = { is_male = yes } }
+					desc = ate_religious_interaction.103.conclusion_man
+				}
+				triggered_desc = {
+					trigger = { scope:victim = { is_male = no } }
+					desc = ate_religious_interaction.103.conclusion_woman
+				}
+				triggered_desc = {
+					desc = ate_religious_interaction.103.conclusion_either
+				}
+			}
+		}
+	}
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait = {
+		character = root
+		animation = anger
+	}
+	right_portrait = {
+		character = scope:victim
+		animation = pain
+	}
+	
+	option = {
+		name = ate_religious_interaction.103.a
+		name = {
+			trigger = { ai_compassion <= medium_negative_ai_value }
+			text = ate_religious_interaction.103.a.low_compassion
+		}
+		name = {
+			trigger = { has_trait = stubborn }
+			text = ate_religious_interaction.103.a.stubborn
+		}
+		name = {
+			trigger = { has_trait = zealous }
+			text = ate_religious_interaction.103.a.zealous
+		}
+		trait = zealous
+		custom_tooltip = ate_religious_interaction.103.a.tt
+		hidden_effect = {
+			scope:victim = {
+				add_trait = wounded_2
+			}
+		}
+	}
+}

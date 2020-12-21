@@ -399,7 +399,7 @@
 				HealthGodNamePossessive = apostolicism_health_god_name_possessive
 				HealthGodSheHe = CHARACTER_SHEHE_SHE
 				HealthGodHerHis = CHARACTER_HERHIS_HER
-				HealthGodHerHim = CHARACTER_HERHIM_HEER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
 
 				#FertilityGod
 				FertilityGodName = apostolicism_fertility_god_name
@@ -496,7 +496,7 @@
 				HealthGodNamePossessive = apostolicism_health_god_name_possessive
 				HealthGodSheHe = CHARACTER_SHEHE_SHE
 				HealthGodHerHis = CHARACTER_HERHIS_HER
-				HealthGodHerHim = CHARACTER_HERHIM_HEER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
 
 				#FertilityGod
 				FertilityGodName = celestism_fertility_god_name
@@ -593,7 +593,7 @@
 				HealthGodNamePossessive = apostolicism_health_god_name_possessive
 				HealthGodSheHe = CHARACTER_SHEHE_SHE
 				HealthGodHerHis = CHARACTER_HERHIS_HER
-				HealthGodHerHim = CHARACTER_HERHIM_HEER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
 
 				#FertilityGod
 				FertilityGodName = celestism_fertility_god_name
@@ -651,7 +651,340 @@
 				NightGodHerHis = CHARACTER_HERHIS_HIM
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 			}
-		}		
+		}
+		guadalupan = {
+			color = { 0.85 0.7 0.3 }
+			icon = guadalupe
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_catholic_heritage
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_aparecida" coat_of_arms = "ho_knights_of_christs_cross" }
+				{ name = "holy_order_knights_of_the_new_song" coat_of_arms = "ho_order_of_the_golden_bunnya"  }
+			}
+
+			localization = { # Utilizes Mexican and Popular in Mexico Saints
+				#HealthGod
+				HealthGodName = guadalupan_health_god_name
+				HealthGodNamePossessive = guadalupan_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = guadalupan_fertility_god_name
+				FertilityGodNamePossessive = guadalupan_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = guadalupan_wealth_god_name
+				WealthGodNamePossessive = guadalupan_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = guadalupan_household_god_name
+				HouseholdGodNamePossessive = guadalupan_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = guadalupan_knowledge_god_name
+				KnowledgeGodNamePossessive = guadalupan_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = guadalupan_war_god_name
+				WarGodNamePossessive = guadalupan_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = guadalupan_trickster_god_name
+				TricksterGodNamePossessive = guadalupan_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = guadalupan_water_god_name
+				WaterGodNamePossessive = guadalupan_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = guadalupan_night_god_name
+				NightGodNamePossessive = guadalupan_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				DevoteeMale = apostolicism_devotee_male
+				DevoteeMalePlural = apostolicism_devotee_male_plural
+				GoodGodNames = { 
+					guadalupan_health_god_name 
+					guadalupan_fertility_god_name 
+					guadalupan_wealth_god_name 
+					guadalupan_household_god_name 
+					guadalupan_knowledge_god_name 
+					guadalupan_war_god_name 
+					guadalupan_trickster_god_name 
+					guadalupan_night_god_name 
+					guadalupan_water_god_name
+					jesus_spanish_name
+				}
+				DeathDeitySheHe = CHARACTER_SHEHE_SHE
+				DeathDeityHerHis = CHARACTER_HERHIS_HER
+				NegativeAfterLife = guadalupan_negative_afterlife		
+			}
+		}
+
+		el_santo = {
+			color = { 0.88 0.65 0.27 }
+			icon = el_santo
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_saintly_spirits
+			#Main Doctrines
+			doctrine = doctrine_no_head
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+			#Tenets
+			doctrine = tenet_unrelenting_faith
+			doctrine = tenet_monasticism
+			doctrine = tenet_code_of_combat
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_aparecida" coat_of_arms = "ho_knights_of_christs_cross" }
+				{ name = "holy_order_knights_of_the_new_song" coat_of_arms = "ho_order_of_the_golden_bunnya"  }
+			}
+
+			localization = { # Utilizes Mexican and Popular in Mexico Saints
+				#HealthGod
+				HealthGodName = el_santo_health_god_name
+				HealthGodNamePossessive = el_santo_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = guadalupan_fertility_god_name
+				FertilityGodNamePossessive = guadalupan_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = guadalupan_wealth_god_name
+				WealthGodNamePossessive = guadalupan_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = el_santo_household_god_name
+				HouseholdGodNamePossessive = el_santo_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = guadalupan_knowledge_god_name
+				KnowledgeGodNamePossessive = guadalupan_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = guadalupan_war_god_name
+				WarGodNamePossessive = guadalupan_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = guadalupan_trickster_god_name
+				TricksterGodNamePossessive = guadalupan_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = guadalupan_water_god_name
+				WaterGodNamePossessive = guadalupan_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				#FateGod
+				FateGodName = el_santo_fate_god_name
+				FateGodNamePossessive = el_santo_fate_god_name_possessive
+				FateGodSheHe = CHARACTER_SHEHE_HE
+				FateGodHerHis = CHARACTER_HERHIS_HIS
+				FateGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = guadalupan_night_god_name
+				NightGodNamePossessive = guadalupan_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				DevoteeMale = apostolicism_devotee_male
+				DevoteeMalePlural = apostolicism_devotee_male_plural
+				GoodGodNames = { 
+					guadalupan_health_god_name 
+					guadalupan_fertility_god_name 
+					guadalupan_wealth_god_name 
+					guadalupan_household_god_name 
+					guadalupan_knowledge_god_name 
+					guadalupan_war_god_name 
+					guadalupan_trickster_god_name 
+					guadalupan_night_god_name 
+					guadalupan_water_god_name
+					jesus_spanish_name
+				}
+				DeathDeitySheHe = CHARACTER_SHEHE_SHE
+				DeathDeityHerHis = CHARACTER_HERHIS_HER
+				NegativeAfterLife = guadalupan_negative_afterlife
+			}
+		}
+
+		santa_muerte = {
+			color = { 0.87 0.6 0.45 }
+			icon = santa_muerte
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_saintly_death
+			#Main Doctrines
+			doctrine = doctrine_pluralism_pluralistic 
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			#Crimes
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_deviancy_accepted
+			#Tenets
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_adaptive
+			doctrine = tenet_just_exchange
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_aparecida" coat_of_arms = "ho_knights_of_christs_cross" }
+				{ name = "holy_order_knights_of_the_new_song" coat_of_arms = "ho_order_of_the_golden_bunnya"  }
+			}
+
+			localization = { # Utilizes Mexican and Popular in Mexico Saints
+				#HealthGod
+				HealthGodName = santa_muerte_health_god_name
+				HealthGodNamePossessive = santa_muerte_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = guadalupan_fertility_god_name
+				FertilityGodNamePossessive = guadalupan_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = guadalupan_wealth_god_name
+				WealthGodNamePossessive = guadalupan_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = guadalupan_household_god_name
+				HouseholdGodNamePossessive = guadalupan_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = guadalupan_knowledge_god_name
+				KnowledgeGodNamePossessive = guadalupan_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = guadalupan_war_god_name
+				WarGodNamePossessive = guadalupan_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = guadalupan_trickster_god_name
+				TricksterGodNamePossessive = guadalupan_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = santa_muerte_health_god_name
+				WaterGodNamePossessive = santa_muerte_health_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = santa_muerte_health_god_name
+				NightGodNamePossessive = santa_muerte_health_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				DevoteeMale = apostolicism_devotee_male
+				DevoteeMalePlural = apostolicism_devotee_male_plural
+				GoodGodNames = { 
+					guadalupan_health_god_name 
+					guadalupan_fertility_god_name 
+					guadalupan_wealth_god_name 
+					guadalupan_household_god_name 
+					guadalupan_knowledge_god_name 
+					guadalupan_war_god_name 
+					guadalupan_trickster_god_name 
+					guadalupan_night_god_name 
+					guadalupan_water_god_name
+					jesus_spanish_name
+				}
+				DeathDeityName = santa_muerte_health_god_name
+				DeathDeityNamePossessive = santa_muerte_health_god_name_possessive
+				DeathDeitySheHe = CHARACTER_SHEHE_SHE
+				DeathDeityHerHis = CHARACTER_HERHIS_HER
+				NegativeAfterLife = guadalupan_negative_afterlife
+			}
+		}
+
 		particularism = {
 			color = { 0.85 0.85 0.4 }
 			icon = particularist

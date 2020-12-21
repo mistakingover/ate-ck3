@@ -406,7 +406,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = anglican
+						has_icon = "anglican"
 					}
 					desc = tenet_prima_scriptura
 				}
@@ -969,6 +969,40 @@
 		}
 	}
 
+	tenet_code_of_combat = {
+		icon = core_tenet_festivities
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			always = yes
+		}
+
+		parameters = {
+			wrestling_match_enabled = yes
+		}		
+	}
+
+	tenet_just_exchange = {
+		icon = core_tenet_judged
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			always = yes
+		}
+		traits = {
+			virtues = { just = 1 }
+			sins = { arbitrary = 1 }
+		}
+		parameters = {
+			bargain_death_enabled = yes
+		}		
+	}
 
 	#############################################################
 	
@@ -1020,6 +1054,29 @@
 			value = faith_tenet_cost_low
 		}
 
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "guadalupe"
+					}
+					desc = tenet_santa_cristiada_name
+				}
+				desc = tenet_armed_pilgrimages_name
+			}
+		}
+		desc = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "guadalupe"
+					}
+					desc = tenet_santa_cristiada_desc
+				}
+				desc = tenet_armed_pilgrimages_desc
+			}
+		}
+
 		is_shown = {
 			always = yes
 		}
@@ -1059,6 +1116,29 @@
 		icon = core_tenet_followers
 		piety_cost = {
 			value = faith_tenet_cost_low
+		}
+
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "guadalupe"
+					}
+					desc = tenet_patroness_of_the_new_world_name
+				}
+				desc = tenet_communal_identity_name
+			}
+		}
+		desc = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "guadalupe"
+					}
+					desc = tenet_patroness_of_the_new_world_desc
+				}
+				desc = tenet_communal_identity_desc
+			}
 		}
 
 		can_pick = {
@@ -1191,7 +1271,28 @@
 		piety_cost = {
 			value = faith_tenet_cost_low
 		}
-
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "el_santo"
+					}
+					desc = tenet_masked_friars_name
+				}
+				desc = tenet_monasticism_name
+			}
+		}
+		desc = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "el_santo"
+					}
+					desc = tenet_masked_friars_desc
+				}
+				desc = tenet_monasticism_desc
+			}
+		}
 		can_pick = {
 			custom_description = {
 				text = incompatible_tenet_hedonistic_trigger
@@ -1287,7 +1388,28 @@
 		piety_cost = {
 			value = faith_tenet_cost_low
 		}
-
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "el_santo"
+					}
+					desc = tenet_saintly_justice_name
+				}
+				desc = tenet_unrelenting_faith_name
+			}
+		}
+		desc = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "el_santo"
+					}
+					desc = tenet_saintly_justice_desc
+				}
+				desc = tenet_unrelenting_faith_desc
+			}
+		}
 		character_modifier = {
 			prowess = 4
 			tolerance_advantage_mod = 2
@@ -1324,7 +1446,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = insular
+						has_icon = "insular"
 					}
 					desc = tenet_tropical_isolation
 				}
@@ -1378,7 +1500,28 @@
 		piety_cost = {
 			value = faith_tenet_cost_low
 		}
-
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "santa_muerte"
+					}
+					desc = tenet_all_equal_in_death_name
+				}
+				desc = tenet_adaptive_name
+			}
+		}
+		desc = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_icon = "santa_muerte"
+					}
+					desc = tenet_all_equal_in_death_desc
+				}
+				desc = tenet_adaptive_desc
+			}
+		}
 		can_pick = {
 			custom_description = {
 				text = doctrine_inverted_pluralism_pluralistic_trigger
@@ -1777,7 +1920,17 @@
 		is_shown = {
 			always = yes
 		}
-
+		name = {
+			first_valid = {
+				triggered_desc = {
+					trigger = {
+						religion_tag = christianity_religion
+					}
+					desc = tenet_ancestor_veneration_name
+				}
+				desc = tenet_ancestor_worship_name
+			}
+		}
 		parameters = {
 			increased_dynasty_prestige_birth_mult = 1
 			increased_dynasty_prestige_marriage_mult = 1
@@ -1871,7 +2024,7 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							has_icon = celeste
+							has_icon = "celeste"
 						}
 					}
 					desc = tenet_messianic_figures_name
@@ -1905,8 +2058,8 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							has_icon = falling_star
-							has_icon = moravian
+							has_icon = "falling_star"
+							has_icon = "moravian"
 						}
 					}
 					desc = tenet_lovefeasts

@@ -1,0 +1,17 @@
+﻿attempted_wrestling_match_opinion = {
+	opinion = -15
+	monthly_change = 0.2
+	decaying = yes
+}
+
+wrestling_match_victor_opinion= {
+	opinion = -15
+	monthly_change = 0.2
+	decaying = yes
+}
+
+wrestling_match_loser_opinion= {
+	opinion = -30
+	monthly_change = 0.1
+	decaying = yes
+}

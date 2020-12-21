@@ -1,0 +1,10 @@
+﻿l_english:
+
+
+ wrestling_match_interaction:0 "Challenge to a Wrestling Match"
+ wrestling_match_interaction_desc:0 "You challenge this person to a Wrestling Match, proving your mettle on the ring and your devotion to the faith."
+ wrestling_match_timing:0 "You have not taken part in a wrestling match recently"
+ wrestling_match_interaction_has_been_challenged:0 "This character has fought in a wrestling match recently"
+ wrestling_match_interaction.tt_modifiers:0 "Every #P Martial Lifestyle Perk Trait#! gives additional chance to win the debate, while every #N Bad Genetical Trait#! increases the chance to lose, regardless of prowess\n\n@warning_icon! #X You can only wrestle once every 2 years#!"
+ wrestling_match_interaction.tt_winnings_actor:0 "If you win, you gain [piety|E] from [recipient.GetTitledFirstNameNoTooltip]"
+ wrestling_match_interaction.tt_winnings_recipient:0 "If [recipient.GetSheHe] wins, [recipient.GetSheHe] takes [piety|E] from #EMP you!#!"

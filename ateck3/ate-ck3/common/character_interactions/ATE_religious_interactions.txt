@@ -1,0 +1,86 @@
+﻿
+#Challenge to a Wrestling Match
+wrestling_match_interaction = {
+	category = interaction_category_religion
+	desc = wrestling_match_interaction_desc
+
+	is_shown = {
+		NOT = { scope:actor = scope:recipient }
+		scope:actor.faith = {
+			has_doctrine_parameter = wrestling_match_enabled
+		}
+		scope:recipient = {
+			is_landed = yes
+			OR = {
+				liege = scope:actor	#You may challenge direct vassals.
+				liege = scope:actor.liege	#You may challenge vassals with whom you share a liege.
+				scope:actor.liege = scope:recipient	#You may challenge your direct liege.
+			}
+		}
+	}
+
+	is_valid = {
+		custom_description = {
+			text = wrestling_match_timing
+			scope:actor = {
+				NOT = { has_character_modifier = used_wrestling_match_modifier }
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+		scope:recipient = {
+			faith = scope:actor.faith
+		}
+		custom_description = {
+			text = wrestling_match_interaction_has_been_challenged
+			object = scope:recipient
+			scope:recipient = {
+				NOT = { has_character_modifier = used_wrestling_match_modifier } #To prevent back and forth & back-to-back challenges
+				NOT = { has_character_modifier = match_wrestled_modifier }
+			}
+		}
+		scope:recipient = {
+			is_adult = yes
+		}
+		scope:recipient = {
+			NOT = { has_strong_hook = scope:actor }
+		}
+		scope:recipient = { is_diplomatically_available = yes }
+		#scope:recipiest = {
+		#	NOT = {
+		#		has_trait = health_trait
+		#	}
+		#}
+	}
+
+	auto_accept = yes
+
+	on_accept = {
+		hidden_effect = {
+			scope:actor = {
+				add_character_modifier = {
+					modifier = match_wrestled_modifier
+					years = 2
+				}
+			}
+			scope:recipient = {
+				trigger_event = { id = ate_religious_interaction.100 }
+				add_character_modifier = {
+					modifier = match_wrestled_modifier
+					years = 10
+				}
+			}
+		}
+		custom_tooltip = wrestling_match_interaction.tt_modifiers
+		scope:actor = {
+			stress_impact = {
+				cynical = minor_stress_impact_gain
+			}
+			custom_tooltip = wrestling_match_interaction.tt_winnings_actor
+		}
+		scope:recipient = {
+			custom_tooltip = wrestling_match_interaction.tt_winnings_recipient
+		}
+	}
+}

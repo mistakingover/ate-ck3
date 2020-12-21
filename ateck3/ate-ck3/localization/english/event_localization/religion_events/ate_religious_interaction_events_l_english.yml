@@ -1,0 +1,36 @@
+﻿l_english:
+
+### Wrestling Match
+
+ ate_religious_interaction.100.t:0 "A Wrestling Challenge"
+ ate_religious_interaction.100.desc:0 "A letter arrives, coming from [actor.GetTitledFirstName]. [actor.GetSheHe] has decided to challenge me to a wrestling match, to prove our skills and our honors on the ring. While the thrill of the fight has never been a fear of mine, [actor.GetTitledFirstNameNoTooltip] has been particularly agressive on the letter, commenting that [actor.SheHe] wouldn't be surprised were I to reject the offer worrying for my health. This challenge clearly has gone beyond just a matter of our devotion to [recipient.GetFaith.GetNameNoTooltip].\n\nNearby courtiers have heard me read the letter out loud, and stand there wondering how will I reply to the challenge."
+ ate_religious_interaction.100.a:0 "By [actor.GetFaith.WarGodName]'s will I will defeat [actor.GetHerHim]"
+ ate_religious_interaction.100.a.tt_success:0 "I beat [actor.GetShortUINameNoTooltip] up on the ring"
+ ate_religious_interaction.100.a.tt_fail:0 "[actor.GetShortUINameNoTooltip] overwhelms me in combat"
+ ate_religious_interaction.100.b:0 "I have better things to do than letting [actor.GetShortUINameNoTooltip] shame [recipient.GetFaith.WarGodNamePossessive] name."
+ ate_religious_interaction.100.b.tt:0 "[actor.GetShortUINameNoTooltip] will be informed"
+ ate_religious_interaction.100.b_turned_down:0 "[recipient.GetShortUIName|U] has turned down my challenge to wrestle"
+
+ used_wrestling_match_modifier:0 "Recently Wrestled"
+ used_wrestling_match_modifier_desc:0 "This character has recently fought on a wrestling match."
+ match_wrestled_modifier:0 "Recently Debated"
+ match_wrestled_modifier_desc:0 "This character has recently been engaged on the ring in a wrestling match."
+
+ ate_religious_interaction.101.desc_intro:0 "As the time for the match to start draws near, my opponent and I meet in a sizeable hall in [match_locale.GetNameNoTierNoTooltip]. A large square ring has been arranged together according to the norms we both agreed for the fight. People gather around us to watch the match, as we are about to step inside the ring.\n\n"
+ ate_religious_interaction.101.desc_won:0 "Over the course of the combat, I tactically and physically demolish [recipient.GetTitledFirstName], blocking all of [recipient.GetHerHis] movements, and pinning [recipient.GetHerHim] down without a lot of difficulty. As I grew confident in my skills, [recipient.GetTitledFirstName] briefly attempted to take me over in my relaxation, but I easily got the best of [recipient.GetHerHim] once again, proving how closer than [recipient.GetHerHim] I am to [actor.GetFaith.WarGodNamePossessive] ideal. The crowd cheers in the spectacle I give them, as [recipient.GetTitledFirstNameNoTooltip] finally concedes, admitting my superiority at once."
+ ate_religious_interaction.101.desc_lost:0 "[recipient.GetTitledFirstNamePossessive] physical onslaught begins immediately, barely giving me a chance to block or dodge, and before long the crowd has decided on the victor.\n\nI try to get [recipient.GetHerHim] off me several times, but in the span of a few minutes, I'm finally forced to concede, and hang my head down as I leave the fight ring."
+ ate_religious_interaction.101.a_won:0 "Am I not a paragon of [actor.GetFaith.WarGodName]?"
+ ate_religious_interaction.101.a_lost:0 "I might have had a lapse on my devotion to [actor.GetFaith.WarGodName]."
+
+ ate_religious_interaction.102.desc_won:0 "Despite [actor.GetTitledFirstNamePossessive] foolish's overconfidence while challenging me to a wrestling match, [actor.GetHerHis] resolve collapses before my storm of agile maneuvers. Before long, the crowd joins in, chanting my name, as my opponent is forced to swallow [actor.GetHerHis] pride and concede victory."
+ ate_religious_interaction.102.desc_lost:0 "Though I try my best, [actor.GetTitledFirstName] has clearly trained and focused [actor.GetHerHis] technique in countering my maneuvers. The crowd begins eating out of [actor.GetHerHis] hand almost immediately. [actor.GetSheHe|U] continues to hold me down and pin me with ease, exposing all of my weakpoints and even insinuating that lack of skill shows my lack of devotion to [recipient.GetFaith.WarGodName].\n\nEventually, I can't take it anymore, and must concede the fight."
+
+ ate_religious_interaction.103.desc:0 "[victim.GetTitledFirstName] does not even stand a chance. Although [victim.GetSheHe] believes [victim.GetHerselfHimself] well prepared, I easily make [victim.GetHerHim] crumble under my arsenal of maneuvers. Not content with just keeping [victim.GetHerHim] pinned down, I execute my flying press, diving into [victim.GetHerHim] with great strength. As minutes pass in what feels like seconds, [victim.GetSheHe] seems so incapable of defending [victim.GetHerselfHimself] that even the crowd goes silent.\n\nAs I don't wait for [victim.GetHerHim] to recover under my weight, I demand for [Get.HerHim] to concede the fight, "can't you see I'm—"\nI stop when I realize [victim.GetFirstNameNoTooltip] is gasping for air and trying to clutch"
+ ate_religious_interaction.103.conclusion_either:0 "[victim.GetHerHis] chest."
+ ate_religious_interaction.103.conclusion_man:1 "[victim.GetHerHis] arm."
+ ate_religious_interaction.103.conclusion_woman:1 "[victim.GetHerHis] stomach."
+ ate_religious_interaction.103.a.low_compassion:0 ""I still can't hear you ask me to stop.""
+ ate_religious_interaction.103.a.zealous:0 ""It seems [ROOT.Char.GetFaith.WarGodName] has chosen me as victor.""
+ ate_religious_interaction.103.a.stubborn:0 ""Hey, I was having fun!""
+ ate_religious_interaction.103.a:0 ""Are... Are you all right?""
+ ate_religious_interaction.103.a.tt:0 "[victim.GetShortUIName] is severey wounded"
