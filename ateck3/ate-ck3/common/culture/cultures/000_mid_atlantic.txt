@@ -220,51 +220,53 @@
 		
 		#English names, Greek names, and Anglicised Dutch and Iroquois names
 		male_names = {
-			Abel Abraham Achilles Ajax Albert Andrew Anton Archibald Artur August
+			Abel Abraham Achilles Ajax Albert Allen Alton Andrew Anton Archibald Arent Artur August
 			Baltus Benjamin Brom Brutus
-			Cangueese Carillon Cashunyon Cephas Charles Chester Cicero Clinton Cornelis Cotton Crassus Cyrus
+			Calvin Cangueese Carillon Cashunyon Cephas Charles Chester Cicero Clinton Cornelis Cortlandt Cotton Crassus Crispus Cyrus
 			Daniel Darius David Delby Derrick Deserontyon
-			Ebenezer Edgar Edwin Eli Elihu Ellis Erastus Ernest Ethan Euclid Ezra
-			Franklin Frederick Friso
-			Galen Garibald Gemolo Geoffrey Gerrit Gideon Guyasut
-			Hamilton Harmanus Hector Hendrick Himerius Holbrook Homer Horace Hudson Hugh Hunter
+			Ebenezer Edgar Edward Edwin Eli Elihu Ellis Erastus Ernest Ethan Euclid Ezra
+			Fordyce Franklin Frederick Friso
+			Galen Garibald Gemolo Geoffrey George Gerrit Gideon Guyasut Guyford
+			Hamilton Hanyery Harmanus Hector Hendrick Hiawatha Himerius Holbrook Homer Horace Hudson Hugh Hunter
 			Ichabod Isaac
-			Jacobus Jasper Jeremiah Jervis Jocelyn John Josiah Jovan Julius
-			Kel Kent Kirke
-			Launcelot Lemuel Leo Lewis Linus Lucan
-			Malcolm Marc Martin Mather Montgomery Morris Moses
-			Nathaniel Nestor Nicholas Norton
+			Jacobus James Jasper Jeremiah Jervis Jocelyn John Joseph Josiah Jovan Julius
+			Kel Kent Killian Kirke
+			Launcelot Lemuel Leo Lewis Linus Lucan Lyman
+			Malcolm Marc Martin Mather Maunsell Montgomery Morris Moses
+			Nathaniel Nelson Nestor Nicholas Norton
 			Ogden Oliver Orpheus Oswald Otetian Ovid
-			Philip Phinehas Pindar Pompey
+			Paul Petrus Philip Phinehas Pindar Pompey Publius
 			Quentin Quincy Quoz
-			Raymond Richard Rip Rodney Roger Rollin Rufus
-			Samuel Seneca Silus Simon Solon Stanwix Stephanus Sulla
+			Raymond Richard Rip Robert Rodney Roger Rollin Rufus
+			Samuel Seneca Seymour Silus Simon Solomon Solon Stanwix Stephanus Sulla Sylvan
 			Tehwehron Theodore Tompkin Trajan Traynor Truman
 			Ulysses
 			Vincent Virgil
-			Walter Washington Whitelaw William Worcester
+			Walter Warren Washington Whitelaw William Worcester
 			Xander
 			Zeno
 		}
 		female_names = {
-			Alexandra Alice Aliequippa Amelia Anna Armgard
+			Alexandra Alice Aliequippa Almira Amelia Angelica Anna Armgard Augusta
 			Barbara Beatrix Bella Bethany
-			Camilla Caroline Cassandra Chelsea Christine Cornelia
-			Degonadonty Diana Dido Donata Doris Dorothy
-			Electra Elizabeth Ellen Emma
-			Geraldine
-			Hannah Helen Hiawatha Hillary
-			Jane Jennifer Jocelyn Judith Julia Juno
-			Katrina Kirsten
-			Lauren Lavinia Leona Lucrece Luna
-			Marcia Margaret Mina Molly
-			Ogarita Owandah
-			Paris Pauline Penelope
-			Rebecca Regina Renata
-			Shelby Shelley
+			Camilla Carmen Caroline Cassandra Chelsea Christine Clara Cornelia
+			Deborah Degonadonty Diana Dido Donata Doris Dorothy
+			Edith Edmonia Electra Elizabeth Ellen Emma Eva Evelyn
+			Fiona Francine
+			Genevieve Georgina Geraldine Gladys
+			Hannah Helen Hillary
+			Ida
+			Jane Jennifer Jocelyn Josephine Judith Julia Juno
+			Kathleen Katrina Kirsten
+			Lauren Lavinia Leona Lillia Loretta Lucrece Lucy Luna
+			Marcia Margaret Mariana Marion Martha Mary Maryalice Maryellen Mina Minerva Minnehaha Modena Molly
+			Ogarita Olive Owandah
+			Pandora Paris Patricia Pauline Penelope
+			Rebecca Regina Renata Ruth
+			Shelby Shelley Shirley Stephania Suzanne
 			Theodosia Tiaogeara
 			Viola
-			Waneik
+			Waneik Winifred
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -529,7 +531,7 @@
 			James Jasper Jeffrey Jeremiah Jerome John Joseph Joshua Julian Justinian
 			Keith Kennard Kenrick Kensey
 			Lambert Lammot Lance Leander Lionel Lockhart Louis Luke
-			Mark Martin Matthew Maurice Michael Milton Montell
+			Mark Martin Matthew Maurice Michael Milton Montell Murphy
 			Nathaniel Nicholas Norman
 			Odell Oliver Omar Orlando
 			Patricius Paul Peter Philadelphus Philander Philemon Philip Phineas Presley Preston
@@ -544,18 +546,18 @@
 		female_names = {
 			Abigail Adrienne Alexa Alice Allison Alma Amelia Angelica Anna Ashley Aubrey
 			Barbara Bertice Bethany Brianna Brilliana
-			Charlotte Christine Cynthia
-			Deandra Dominique Donette
-			Elizabeth Erin Eve
+			Catherine Charlotte Christine Cynthia
+			Deandra Deborah Diana Dominique Donette Dorinda
+			Elizabeth Erin Eugenia Eve
 			Felicia
 			Georgeanna Georgine
-			Henriette Hilary
+			Hazel Henriette Hilary
 			Jane Janet Jeanette Jennifer Jessica Joanne Josephine Judith Julie Junie
 			Katharine
-			Laura Linda Livia Lois
-			Madison Marceline Marla Martha Mary Melanie Melody
-			Nancy Nicole
-			Patricia Paula Petra
+			Laura Linda Lisa Livia Lois
+			Madison Marceline Margaret Marla Martha Mary Melanie Melody
+			Nancy Naomi Neilia Nicole
+			Pamela Patricia Paula Petra
 			Rachel Rhonda Roberta Roxanne
 			Sara Sidilla Susan
 			Theresa
