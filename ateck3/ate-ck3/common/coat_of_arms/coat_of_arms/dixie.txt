@@ -21,6 +21,7 @@ e_dixie_dixie = {
 		texture = "ce_eagle_american_bald_double.dds"
 		color1 = "brown"
 		color2 = "yellow"
+		color3 = "white"
 		instance = { position = { 0.5 0.45 } scale = { 0.8 0.8 }  }
 	}
 	
@@ -35,6 +36,7 @@ e_dixie = {
 		texture = "ce_eagle_american_bald_double.dds"
 		color1 = "brown"
 		color2 = "yellow"
+		color3 = "white"
 		instance = { position = { 0.5 0.45 } scale = { 0.8 0.8 }  }
 	}
 	
@@ -637,6 +639,7 @@ k_magnolia = {
 		texture = "ce_eagle_american_bald.dds"
 		color1 = "brown"
 		color2 = "yellow"
+		color3 = "white"
 		instance = { position = { 0.5 0.45 } scale = { 0.7 0.7 } }
 	}
 	colored_emblem = {

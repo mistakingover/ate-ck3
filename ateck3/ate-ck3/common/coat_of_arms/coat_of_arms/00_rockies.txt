@@ -172,6 +172,7 @@ d_uintah = {
 		texture = "ce_eagle_american.dds"
 		color1 = "brown"
 		color2 = "yellow_light"
+		color3 = "white"
 		mask = { 1 }
 		instance = { position = { 0.5 0.42 } scale = { 0.75 0.75 }  }
 	}
@@ -614,6 +615,7 @@ d_northern_basin = {
 		texture = "ce_eagle_american_bald_flying.dds"
 		color1 = "black"
 		color2 = "yellow"
+		color3 = "white"
 		instance = { position = { 0.65 0.25 } scale = { -0.42 0.42 }  }
 	}
 	colored_emblem = {

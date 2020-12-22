@@ -50,6 +50,7 @@ k_iowa = {
 		texture = "ce_eagle_american_bald_flying.dds"
 		color1 = "brown"
 		color2 = "yellow"
+		color3 = "white"
 		instance = { position = { 0.5 0.37 } scale = { 0.75 0.75 }  }
 	}
 }
@@ -113,6 +114,7 @@ d_iowa = {
 		texture = "ce_eagle_american_bald_flying.dds"
 		color1 = "brown"
 		color2 = "yellow"
+		color3 = "white"
 		instance = { position = { 0.5 0.45 } scale = { 0.9 1.0 }  }
 	}
 }
