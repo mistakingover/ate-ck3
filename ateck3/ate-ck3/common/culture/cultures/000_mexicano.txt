@@ -260,11 +260,11 @@
 		
 		#Ancient Greek and Roman names
 		male_names = {
-			AarO_n Abraham AdriA_n AgustI_n Alejandro Alfonso Alonso A_lvaro Anacleto AndrE_s A_ngel Antonio Aquiles AristO_teles ArquI_medes Arturo Augusto Aurelio
+			AarO_n Abraham AdriA_n AgustI_n Alejandro Alfonso Alonso A_lvaro Anacleto AndrE_s A_ngel Antonio Aquiles AristO_teles ArquI_medes Arsenio Arturo Augusto Aurelio
 			Baltasar Bartolomeo Basilio Belisario Benito Bernardo Blas
-			Carlos Casimiro Cayo CE_sar Chavo Chucho Cirilo Clemente Constantino Coufal CristO_bal
+			Carlos Casimiro Catarino Cayo CE_sar Chavo Chucho Cirilo Clemente Constantino Coufal CristO_bal
 			Daniel David Diego Diodoro Dionisio
-			Eduardo ElI_as Enrique Esteban Eugenio Eusebio
+			Eduardo ElI_as Enrique Esteban Eugenio Eusebio Exiquio
 			FabiA_n Fausto FE_lix Fernando Francisco
 			Gabriel GalA_n Gaspar Gerardo Gonzalo Guillermo Gustavo
 			HE_ctor HE_leno Heraclio HipO_lito Honorio Hugo Humberto
@@ -274,13 +274,13 @@
 			Macario Manuel Marcelino Marco Marco_Antonio Mario MatI_as Maximino Melchor Miguel Miguel_A_ngel Minervino Minervo
 			NE_stor NicolA_s
 			Octavio Omar OriO_n O_scar Oswaldo
-			Panchito Pancho PA_nfilo PantaleO_n ParmE_nides Pascual Pedro Pepe PlatO_n Plutarco Porfirio PrA_xedes
+			Panchito Pancho PA_nfilo PantaleO_n ParmE_nides Pascual Pedro Pepe PlatO_n Plutarco Porfirio PrA_xedis
 			Rafa Rafael Ramiro RamO_n RaU_l Remo Ricardo Roberto Rodrigo RO_mulo Roque RubE_n
 			Salvador Santiago Saturnino SebastiA_n Sergio Severo Silvestre SI_sifo SO_crates
 			TA_cito Teodoro Tercio TilO_n Timoteo Tito TomA_s ToN_o
 			Ulises
 			ValentI_n Vicente Vicente Vicente_Antonio Vicente_MarI_a VI_ctor
-			Zeferino
+			Zeferino ZenO_n
 		}
 		female_names = {
 			Adela Adelita Adriana A_gata Aitana AlegrI_a Alejandra Alexa Amada Amparo Ana Ana_MarI_a Andrea Andromeda A_ngela Ariadna AsunciO_n Atenea A_urea Aurora
@@ -587,7 +587,7 @@
 		male_names = {
 			Abel Abraham Abundio Adolfo Aguinaldo AgustI_n Alberto Aldo Alejandro Alfonso Ambrosio Anacleto AndrE_s A_ngel Anivdelarev Antonio Armando Arturo Aurelio
 			BA_rbaro Benito Bonifacio Brayan Buenaventura
-			Calisto CA_ndido Carlos Casildo Celso CesA_reo Chavo Cipriano Clemencio Conrado Crescencio Cristo Cruz CuitlA_huac
+			Calisto CA_ndido Carlos Casildo Celso CesA_reo Chavo Cipriano Clemencio Conrado Constancio Crescencio Cristo Cruz CuauhtE_moc CuitlA_huac
 			DarI_o David Delfino Diego Domingo Donaldo
 			Edelberto E_dgar Eduardo Eliseo Emiliano Emilio Enrique Epifanio Ernesto Eustacio Ezequiel
 			FabiA_n FE_lix Feliciano Fernando Fidel Floro Francisco Frizer
@@ -597,7 +597,7 @@
 			Jacinto Jason Javier JoaquI_n Jorge JosE_ JosE__Antonio JosE__Enrique JosE__Francisco JosE__Ignacio JosE__Luis JosE__MarI_a JosuE_ Juan Juan_GokU_ Juan_Manuel JuliA_n Julio
 			Kevin
 			Leandro LeO_n Leonardo Lorenzo Luis
-			Macario Manuel Marcelino Marco Mariano Mario MartI_n Mauricio Maximino Melchor Meliseo MelitO_n Miguel Miguel_A_ngel MoisE_s
+			Macario Manuel Marcelino Marco Mariano Mario MartI_n Mauricio Maurilio Maximino Melchor Meliseo MelitO_n Miguel Miguel_A_ngel MoisE_s
 			Nacho Nemesio Nicanor NoE_ Norberto
 			Obdulio OcE_ano Omar O_scar Ovidio
 			Pablo Paco PA_nfilo PantaleO_n Patrocinio Pedro Perfecto Piccolo PI_o Plusultra Ponciano PrO_spero
@@ -976,7 +976,7 @@
 		male_names = {
 			AarO_n Abraham AdA_n AdriA_n AgustI_n Alberto Aldo Alfonso Alfredo Alejandro Amado AmE_rico A_ngel Aniceto Antonio Aquiles Arcadio Armando Arturo Aurelio Axel
 			Balam Baltasar Bartolomeo Bautista Benito BenjamI_n BrandO_n Brayan Bruno
-			Carlos CE_sar ChA_rbel Claudio Crisostomo CristO_bal CuahatE_moc CuitlA_huac
+			Carlos CE_sar ChA_rbel Claudio Crisostomo CristO_bal CuauhtE_moc CuitlA_huac
 			DalI_ DamiA_n Daniel DarI_o David DemiA_n Diego Diego_Carlos Dionisio Domingo Domitilo
 			E_dgar Eduardo Emiliano Emilio Enrique Ernesto Esteban Eugenio Eusebio
 			Fabio Fausto Federico Felipe Fernando Francisco
@@ -1422,45 +1422,45 @@
 		
 		#Religious and biblical names
 		male_names = {
-			AarO_n Abdiel Abel Abraham AdA_n AgustI_n Alonso Anacleto AndrE_s A_ngel Anselmo Antonio Ariel Aristeo Aureliano Aurelio Azriel
+			AarO_n Abdiel Abel Abraham AdA_n AgustI_n Alonso Anacleto AndrE_s A_ngel Anselmo Antonio Ariel Aristeo AtenO_genes Aureliano Aurelio Azriel
 			Baltasar BartolomE_ Benito BenjamI_n BernabE_
-			Carlos Cenobio Cristian CristO_balbal
+			Carlos Cenobio Clemente Cristian CristO_bal
 			DA_maso Daniel David Diego Dionisio Domingo
 			EfrE_n ElI_as Eliseo EsaU_ Esteban Ezequiel
-			Felipe FE_lix Francisco
-			Gabriel Gaspar GermA_n Gregorio Guadalupe
+			Felipe FE_lix FilemO_n Francisco
+			Gabriel Gaspar GermA_n Gregorio Guadalupe Gumercindo
 			HE_ctor Heriberto
 			Ignacio Isaac IsaI_as Isidro Ismael Israel
-			Jacinto Jaime Jair Javier JeremI_as JesU_s JoaquI_n Job Joel JonA_s Jonatan Jorge JosE_ JosE__MarI_a JosuE_ Juan Juan_Carlos Juan_Diego Juan_JosE_ Juan_Manuel Juan_Nepomuceno Juan_Pablo Julio
-			LA_zaro LeO_n Leoncio Luis
-			Manuel Marcos Mariano Mario MartI_n MatI_as Maximiliano Melchor Meliseo Miguel Miguel_A_ngel Misael MoisE_s
+			Jacinto Jaime Jair Javier JeremI_as JesU_s JoaquI_n Job Joel JonA_s Jonatan Jorge JosE_ JosE__A_ngel JosE__Guadelupe JosE__Ignacio JosE__MarI_a JosE__Natividad JosE__Refugio JosuE_ Juan Juan_Carlos Juan_Diego Juan_JosE_ Juan_Manuel Juan_Nepomuceno Juan_Pablo Julio
+			LA_zaro LeO_n Leoncio Lucas Luis
+			Manuel Marcos Mariano Mario MartI_n MatI_as Mauricio Maximiliano Melchor Meliseo Miguel Miguel_A_ngel Misael MoisE_s
 			NatA_n Natanael NoE_ NicolA_s
 			Octavio Omar O_scar
-			Pablo_Paul Pedro PI_o Porfirio
+			Pablo_Paul Pedro PI_o Ponciano Porfirio
 			Rafael Raymundo RubE_n
 			SalomO_n Salvador Samuel Sancho SansO_n Santiago Santos SaU_l SerafI_n SimO_n
-			Tadeo TelE_sforo TeO_filo Timoteo TobI_as TomA_s
+			Tadeo TelE_sforo TeO_filo Timoteo Tito TobI_as TomA_s
 			Urbano Uriel
 			Virginio Victorino
 			ZacarI_as
 		}
 		female_names = {
-			Abigail Ada Ana Ana_MarI_a A_ngela A_ngeles AngE_lica Antonia Ariel Azura
-			BA_rbara BelE_n BrI_gida
-			Carmen Candelaria
+			Abigail Ada Alma Amparo Ana Ana_MarI_a Ana_Teresa A_ngela A_ngeles AngE_lica Antonia Ariel Azura
+			BA_rbara Beatriz BelE_n BrI_gida
+			Carmen Candelaria Claudia
 			DE_bora Delilah Dolores
-			Elisa Enriqueta Epifania Esther Eva
-			FA_tima Faustina
+			Edith Elisa Enriqueta Epifania Esther Eulalia Eva
+			FA_tima Faustina Felicitas
 			Gabriela Gloria Guadalupe
 			InE_s Isabel Isabela Irene
 			Josefa Juana Judith Julia Juliana
 			Laura Leticia Lidia Lilia Lisbeth Lourdes LucI_a Luz
-			Magdalena Mara Margarita MarI_a MarI_a_Elena MarI_a_de_Dolores MarI_a_del_Carmen MarI_a_del_los_A_ngeles MarI_a_del_Pilar MarI_a_del_Rosario MarI_a_Guadelupe MarI_a_JosE_ MarI_a_Luisa Maritza Marta Martina Matilda Medjugorje Miriam
+			Magdalena Mara Margarita MarI_a MarI_a_Elena MarI_a_de_Dolores MarI_a_del_Carmen MarI_a_del_los_A_ngeles MarI_a_del_Pilar MarI_a_del_Rosario MarI_a_Guadelupe MarI_a_JosE_ MarI_a_Luisa MarI_a_Soledad Maritza Marta Martina Matilda Medjugorje Miriam
 			NoemI_
 			Paula Pilar Priscila
 			Raquel Rebeca Regina Rosa RosalI_a Ruth
-			Salvadora Sara Selma Silvia Susana
-			Tabita Teresa Trinidad
+			Salvadora Sara Selma Silvia Sonia Susana
+			Tabita Tecla Teresa Trinidad
 			VerO_nica Victoria
 			Yolanda
 		}
