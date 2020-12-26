@@ -361,19 +361,19 @@
 		male_names = {
 			Absalom Achilles Alfred Aloys Alpheus Ambrose Antipas Aristophanes Armistead Arthur Astolpho Atticus Augustus
 			Baldwin Beauregard Bedivere Birkett Bohemond Bradley Brandegoris Brangwin Braxton Breunor Brevard Brutus Bryan Bucephalus Burwell
-			Cadmus Cadwallader Calhoun Catesby Charles Claudius Colvin Constantine Coriolanus Cronus
-			Daniel Danville Davis
+			Cadmus Cadwallader Calhoun Catesby Charles Claudius Colvin Constantine Coriolanus Cronus Custis
+			Dabney Daniel Danville Davis
 			Ector Edmund Edward Ellison Eupheus Evander
 			Ferragut Francis Frederick Fulgent Fulwar
 			Ganelon Gareth Geoffrey George-Lee Geraint Gideon Goode Grayson Griflet
 			Hamilcar Hannibal Harold-Lee Heron
 			Isaias
 			Jackson James Jefferson John Joscelin Joseph Julius Junius Justinian
-			Lamartine Laurentius Lionel Lucan Lucius Lunsford Lysander
+			Lamartine Landon Laurentius Lionel Lucan Lucius Lunsford Lysander
 			Marcellus Marcus Marmaduke Maurice Meleager Mercury Meriwether Merriman Micah Milledge Mosby
 			Nathanael Neptune
 			Octavian Oliver
-			Paulus Pellias Pellinore Percival Pericles Petrus Philip Pinabel Plato Pluto Polycarpus Pompey Priscus Prudens Publicola Pulcher
+			Patrick Paulus Pellias Pellinore Percival Pericles Petrus Philip Pinabel Plato Pluto Polycarpus Pompey Priscus Prudens Publicola Pulcher
 			Quadratus
 			Raleigh Raphael Raynault_Ronald Regulus Rhett Richard Robert Robert-Lee Robin Roland Rufus
 			Sagramore Samuel Saturn Saunder Scipio Severus Shelby Singleton Solon Sosipater Stephanus Stoughton Superbus Sylvester
@@ -384,21 +384,25 @@
 			Zacharias
 		}
 		female_names = {
-			Alexandra April Alyssa Anastasia Antigone Antonia Artemis Atalanta Augusta
+			Agnes Alexandra April Alyssa Anastasia Anna Antigone Antonia Artemis Atalanta Aude Augusta
 			Beatrice Belle Blanchet Bradamante
-			Carolina_Caroline Catherine Claudia Clover Clymene Cola Cornelia
-			Dahlia Daisy Dionysia
-			Elaine Elisabeth_Elizabeth Eudoxia
+			Carolina Catherine Claudia Clover Clymene Cola Cornelia Cynthia
+			Dahlia Daisy Dionysia Dorothea
+			Elaine Eleanor Elizabeth Ella Eudoxia Eugenia
+			Frances
 			Georgia Guinevere Gwendolyn
-			Harriet Helen Henrietta Hera
+			Harriet Helen Henrietta Hera Hetty
 			India Iseult
-			Jane Joanna_Joan Jocasta Josephine Juliet June
-			Lucia Lorena Lucilla
-			Margaret Mary May Megara Melanie Melantha Melisende Michelle Morgana Morgause
-			Pamilia Peach Primrose Primula
-			Rhea Roberta
+			Jane Joanna_Joan Jocasta Josephine Julia Juliet June
+			Letitia Lily Linda Lorena Loreta Louisa Lucia Lucilla Lydia
+			Margaret Martha Mary Mary-Anna Mary-Lee May Megara Melanie Melantha Melinda Melisende Michelle Morgana Morgause
+			Olivia Otelia
+			Pamilia Peach Phoebe Primrose Primula Priscilla
+			Rhea Roberta Rose
 			Sarah Scarlett Silvana Susanna
-			Venus Violet Virginia
+			Theodosia
+			Varina Venus Viola Violet Virginia
+			Zora
 		}
 		patronym_prefix_male = "dynnpat_pre_fil"
 		patronym_prefix_female = "dynnpat_pre_fila"
@@ -729,7 +733,7 @@
 			Otis
 			Philander Philip Philus Preston Purvis
 			Quentin
-			Radley Raleigh Ray Rayford Raymond Reb Reynold Ricky Robbie Robert Rocky Roscoe Rowan Roy Rufus
+			Radley Raleigh Ray Rayford Raymond Reb Reynold Ricky Robbie Robert Rocky Rooney Roscoe Rowan Roy Rufus
 			Saggory Shelby Simon Spencer
 			Tate Taylor Terry Thomas Tiberius Tommylee Trigger Tyler Tyree
 			Ulysses
@@ -748,7 +752,7 @@
 			Jasmynn Jaylene Jean Josie Jozelle
 			Kaylin
 			Laralene Laura Layla Leanne Linda Loribelle Louise
-			Maddy Mae Mary Maudie Mayella Melody Mercedes Misty Moon
+			Maddy Mae Mary Maudie Mayella Melody Mercedes Milly Misty Moon
 			Naomi Norma Nyla
 			Patty Peach Peggy Penny Pristine
 			Rachel Rain Raylene Rosemary Roxy Ruby Rubyanne Rubyjane Rubymae
