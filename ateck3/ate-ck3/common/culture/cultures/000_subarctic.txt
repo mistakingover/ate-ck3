@@ -1,0 +1,604 @@
+﻿subarctic_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	mikmaq = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.2 0.5 0.8 }
+	
+		cadet_dynasty_names = {
+			"dynn_Alex"
+			"dynn_Athanase"
+			"dynn_Atwin"
+			"dynn_Augustine"
+			"dynn_Bariault"
+			"dynn_Barnaby"
+			"dynn_Bartlett"
+			"dynn_Battiste"
+			"dynn_Beadle"
+			"dynn_Bernard"
+			"dynn_Borlow"
+			"dynn_Brooks"
+			"dynn_Cabot"
+			"dynn_Caplin"
+			"dynn_Christmas"
+			"dynn_Cope"
+			"dynn_Cremo"
+			"dynn_Dedam"
+			"dynn_Denny"
+			"dynn_Dorey"
+			"dynn_Doucette"
+			"dynn_Dutcher"
+			"dynn_Etheridge"
+			"dynn_Francis"
+			"dynn_Gabriel"
+			"dynn_Gehue"
+			"dynn_Ginnish"
+			"dynn_Glasgow"
+			"dynn_Gloade"
+			"dynn_Googoo"
+			"dynn_Gould"
+			"dynn_Groslouis"
+			"dynn_Harquail"
+			"dynn_Herney"
+			"dynn_Isaac"
+			"dynn_Isadore"
+			"dynn_Jadis"
+			"dynn_Jararuse"
+			"dynn_Jeannotte"
+			"dynn_Jeddore"
+			"dynn_Joe"
+			"dynn_Joudry"
+			"dynn_Julian"
+			"dynn_Knockwood"
+			"dynn_Labillois"
+			"dynn_Lacanke"
+			"dynn_Lafford"
+			"dynn_Lahave"
+			"dynn_Levi"
+			"dynn_Lewis"
+			"dynn_Maloney"
+			"dynn_Manderson"
+			"dynn_Marble"
+			"dynn_Marr"
+			"dynn_Marshall"
+			"dynn_Martin"
+			"dynn_McEwan"
+			"dynn_Metallic"
+			"dynn_Meuse"
+			"dynn_Milliea"
+			"dynn_Motty"
+			"dynn_Mulcahy"
+			"dynn_Narvey"
+			"dynn_Nevin"
+			"dynn_Nicholon"
+			"dynn_Noel"
+			"dynn_Palmater"
+			"dynn_Patles"
+			"dynn_Paul"
+			"dynn_Perley"
+			"dynn_Pierro"
+			"dynn_Polchies"
+			"dynn_Poulette"
+			"dynn_Prosper"
+			"dynn_Roache"
+			"dynn_Robar"
+			"dynn_Sabattis"
+			"dynn_Sack"
+			"dynn_Sacobie"
+			"dynn_Sanipass"
+			"dynn_Sappier"
+			"dynn_Sark"
+			"dynn_Simonson"
+			"dynn_Sock"
+			"dynn_Sylliboy"
+			"dynn_Thonace"
+			"dynn_Tomah"
+			"dynn_Toney"
+			"dynn_Wilmot"
+			"dynn_Wysote"
+		}
+		dynasty_names = {
+			"dynn_Alex"
+			"dynn_Athanase"
+			"dynn_Atwin"
+			"dynn_Augustine"
+			"dynn_Bariault"
+			"dynn_Barnaby"
+			"dynn_Bartlett"
+			"dynn_Battiste"
+			"dynn_Beadle"
+			"dynn_Bernard"
+			"dynn_Borlow"
+			"dynn_Brooks"
+			"dynn_Cabot"
+			"dynn_Caplin"
+			"dynn_Christmas"
+			"dynn_Cope"
+			"dynn_Cremo"
+			"dynn_Dedam"
+			"dynn_Denny"
+			"dynn_Dorey"
+			"dynn_Doucette"
+			"dynn_Dutcher"
+			"dynn_Etheridge"
+			"dynn_Francis"
+			"dynn_Gabriel"
+			"dynn_Gehue"
+			"dynn_Ginnish"
+			"dynn_Glasgow"
+			"dynn_Gloade"
+			"dynn_Googoo"
+			"dynn_Gould"
+			"dynn_Groslouis"
+			"dynn_Harquail"
+			"dynn_Herney"
+			"dynn_Isaac"
+			"dynn_Isadore"
+			"dynn_Jadis"
+			"dynn_Jararuse"
+			"dynn_Jeannotte"
+			"dynn_Jeddore"
+			"dynn_Joe"
+			"dynn_Joudry"
+			"dynn_Julian"
+			"dynn_Knockwood"
+			"dynn_Labillois"
+			"dynn_Lacanke"
+			"dynn_Lafford"
+			"dynn_Lahave"
+			"dynn_Levi"
+			"dynn_Lewis"
+			"dynn_Maloney"
+			"dynn_Manderson"
+			"dynn_Marble"
+			"dynn_Marr"
+			"dynn_Marshall"
+			"dynn_Martin"
+			"dynn_McEwan"
+			"dynn_Metallic"
+			"dynn_Meuse"
+			"dynn_Milliea"
+			"dynn_Motty"
+			"dynn_Mulcahy"
+			"dynn_Narvey"
+			"dynn_Nevin"
+			"dynn_Nicholon"
+			"dynn_Noel"
+			"dynn_Palmater"
+			"dynn_Patles"
+			"dynn_Paul"
+			"dynn_Perley"
+			"dynn_Pierro"
+			"dynn_Polchies"
+			"dynn_Poulette"
+			"dynn_Prosper"
+			"dynn_Roache"
+			"dynn_Robar"
+			"dynn_Sabattis"
+			"dynn_Sack"
+			"dynn_Sacobie"
+			"dynn_Sanipass"
+			"dynn_Sappier"
+			"dynn_Sark"
+			"dynn_Simonson"
+			"dynn_Sock"
+			"dynn_Sylliboy"
+			"dynn_Thonace"
+			"dynn_Tomah"
+			"dynn_Toney"
+			"dynn_Wilmot"
+			"dynn_Wysote"
+		}
+		
+		male_names = {
+			A_lan Alegs Alegs-So_sep Alvery Antle Aplam Ata Atuen Awli
+			Benjamin
+			Charles
+			E_mos Ekian Emerson Everett
+			Gapliel Gla_t Glement Glen
+			Isaq
+			Je_gop Ji_me_j Ju_t
+			Kitpu Kopit
+			Lee Lisart Lo_pert Lu_g Lui Lynwood
+			Malg Matiw Mise_l Mowis Mulis
+			Nigola Norman Norris Norton Nuel
+			Palna Paul Pie_l Pie_l-Paul Piliman Pilip Plasua
+			Sa_n Saglaia Sailas Samuel Sapatis Sapie_l Simon So_sep Sulia_n
+			Ta_pit Tana Taniel Timoti Tiyam Tonalt Tuma Tune_l Twilik
+			Wallace Walqwan Walte_l We_jitu Wil_plet
+		}
+		female_names = {
+			A_lene Anastasia Anmali Anna
+			El_sapet Ep
+			Jane Joana Julia
+			Ma_li Malia_n Matle_n
+			Nanet No_lene
+			Pauline
+			Susa_na
+			Walqwan
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_ }
+		}
+	}
+	innu = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.4 0.7 0.5 }
+	
+		cadet_dynasty_names = {
+			"dynn_Antane"
+			"dynn_Bacon"
+			"dynn_Bellefleur"
+			"dynn_Bossum"
+			"dynn_Buckell"
+			"dynn_Charlish"
+			"dynn_Cleary"
+			"dynn_Courtois"
+			"dynn_Dufour"
+			"dynn_Edmonds"
+			"dynn_Genest"
+			"dynn_GrE_goire"
+			"dynn_Jourdain"
+			"dynn_Kaltush"
+			"dynn_KanapE_"
+			"dynn_Kapesh"
+			"dynn_Kurtness"
+			"dynn_Lalo"
+			"dynn_Larouche"
+			"dynn_LauniE_re"
+			"dynn_Malec"
+			"dynn_Mark"
+			"dynn_McKenzie"
+			"dynn_MestenapE_o"
+			"dynn_Mestokosho"
+			"dynn_Moar"
+			"dynn_Napish"
+			"dynn_Nepton"
+			"dynn_Nui"
+			"dynn_Pasteen"
+			"dynn_Penashue"
+			"dynn_PiE_tacho"
+			"dynn_Pokue"
+			"dynn_Rich"
+			"dynn_Robertson"
+			"dynn_Rock"
+			"dynn_Sioui"
+			"dynn_Sternish"
+			"dynn_Tshakapesh"
+			"dynn_Tshishirinish"
+			"dynn_Verreault"
+			"dynn_Vollant"
+			"dynn_Wapistan"
+			"dynn_Williamish"
+		}
+		dynasty_names = {
+			"dynn_Antane"
+			"dynn_Bacon"
+			"dynn_Bellefleur"
+			"dynn_Bossum"
+			"dynn_Buckell"
+			"dynn_Charlish"
+			"dynn_Cleary"
+			"dynn_Courtois"
+			"dynn_Dufour"
+			"dynn_Edmonds"
+			"dynn_Genest"
+			"dynn_GrE_goire"
+			"dynn_Jourdain"
+			"dynn_Kaltush"
+			"dynn_KanapE_"
+			"dynn_Kapesh"
+			"dynn_Kurtness"
+			"dynn_Lalo"
+			"dynn_Larouche"
+			"dynn_LauniE_re"
+			"dynn_Malec"
+			"dynn_Mark"
+			"dynn_McKenzie"
+			"dynn_MestenapE_o"
+			"dynn_Mestokosho"
+			"dynn_Moar"
+			"dynn_Napish"
+			"dynn_Nepton"
+			"dynn_Nui"
+			"dynn_Pasteen"
+			"dynn_Penashue"
+			"dynn_PiE_tacho"
+			"dynn_Pokue"
+			"dynn_Rich"
+			"dynn_Robertson"
+			"dynn_Rock"
+			"dynn_Sioui"
+			"dynn_Sternish"
+			"dynn_Tshakapesh"
+			"dynn_Tshishirinish"
+			"dynn_Verreault"
+			"dynn_Vollant"
+			"dynn_Wapistan"
+			"dynn_Williamish"
+		}
+		
+		male_names = {
+			Antuan
+			Chakip Charlie Chimis Chosip Chwan Clifford
+			E_lie Emish Emmett E_ric
+			Florent
+			George Gilbert Gilles
+			Hugh
+			Luc
+			Marc Matiyuw Mike
+			Pailman Patrick Pilip Pitar ProtE_ Pwal
+			RE_al
+			SimE_on Stanley Sunny
+			Taitas Tipit Tobias Troy
+			William
+		}
+		female_names = {
+			Becky
+			Chenille
+			Danielle
+			Jade Josephine
+			Kanani Kathleen
+			Marcelline Marie Melinda
+			Naomi Nympha
+			Ruby
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_ }
+		}
+	}
+	iyyu = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.45 0.6 0.75 }
+	
+		cadet_dynasty_names = {
+			"dynn_Apetawasun"
+			"dynn_Apitchik"
+			"dynn_Askawapunow"
+			"dynn_Atsynia"
+			"dynn_Blackned"
+			"dynn_Blacksmith"
+			"dynn_Blueboy"
+			"dynn_Bobbish"
+			"dynn_Caposhesit"
+			"dynn_Chakaseyan"
+			"dynn_Cheechoo"
+			"dynn_Cheskuncash"
+			"dynn_Coonishish"
+			"dynn_Georgekish"
+			"dynn_Happyjack"
+			"dynn_Kaganash"
+			"dynn_Kakabat"
+			"dynn_Kakekapan"
+			"dynn_Katappatuk"
+			"dynn_Kawapayich"
+			"dynn_Keteen"
+			"dynn_Makisint"
+			"dynn_Mamianskum"
+			"dynn_Mapachee"
+			"dynn_Mayappo"
+			"dynn_Metabie"
+			"dynn_Metameshskum"
+			"dynn_Metawashish"
+			"dynn_Mettaweskum"
+			"dynn_Meyooanoo"
+			"dynn_Mianscum"
+			"dynn_Miskanow"
+			"dynn_Mistacheshik"
+			"dynn_Mukash"
+			"dynn_Nakoshee"
+			"dynn_Namacose"
+			"dynn_Natatao"
+			"dynn_Natawapineskum"
+			"dynn_Neeposh"
+			"dynn_Nimishine"
+			"dynn_Nobesh"
+			"dynn_Nopasowow"
+			"dynn_Ottereyes"
+			"dynn_Owashish"
+			"dynn_Patapuniskum"
+			"dynn_Petawapano"
+			"dynn_Petekwapa"
+			"dynn_Pisemapew"
+			"dynn_Ponash"
+			"dynn_Renouq"
+			"dynn_Saganash"
+			"dynn_Sakabushkim"
+			"dynn_Shanoosh"
+			"dynn_Shashaweskum"
+			"dynn_Shecapio"
+			"dynn_Shekabew"
+			"dynn_Tanoosh"
+			"dynn_Tserbrozq"
+			"dynn_Tshesho"
+			"dynn_Uchoswachas"
+			"dynn_Wapachee"
+			"dynn_Washipabano"
+			"dynn_Washkwatshenk"
+			"dynn_Weapinecappo"
+			"dynn_Weyasapow"
+			"dynn_Whiskeychan"
+			"dynn_Whiskyan"
+			"dynn_Wischee"
+			"dynn_Wishkavatkask"
+			"dynn_Yayicheps"
+		}
+		dynasty_names = {
+			"dynn_Apetawasun"
+			"dynn_Apitchik"
+			"dynn_Askawapunow"
+			"dynn_Atsynia"
+			"dynn_Blackned"
+			"dynn_Blacksmith"
+			"dynn_Blueboy"
+			"dynn_Bobbish"
+			"dynn_Caposhesit"
+			"dynn_Chakaseyan"
+			"dynn_Cheechoo"
+			"dynn_Cheskuncash"
+			"dynn_Coonishish"
+			"dynn_Georgekish"
+			"dynn_Happyjack"
+			"dynn_Kaganash"
+			"dynn_Kakabat"
+			"dynn_Kakekapan"
+			"dynn_Katappatuk"
+			"dynn_Kawapayich"
+			"dynn_Keteen"
+			"dynn_Makisint"
+			"dynn_Mamianskum"
+			"dynn_Mapachee"
+			"dynn_Mayappo"
+			"dynn_Metabie"
+			"dynn_Metameshskum"
+			"dynn_Metawashish"
+			"dynn_Mettaweskum"
+			"dynn_Meyooanoo"
+			"dynn_Mianscum"
+			"dynn_Miskanow"
+			"dynn_Mistacheshik"
+			"dynn_Mukash"
+			"dynn_Nakoshee"
+			"dynn_Namacose"
+			"dynn_Natatao"
+			"dynn_Natawapineskum"
+			"dynn_Neeposh"
+			"dynn_Nimishine"
+			"dynn_Nobesh"
+			"dynn_Nopasowow"
+			"dynn_Ottereyes"
+			"dynn_Owashish"
+			"dynn_Patapuniskum"
+			"dynn_Petawapano"
+			"dynn_Petekwapa"
+			"dynn_Pisemapew"
+			"dynn_Ponash"
+			"dynn_Renouq"
+			"dynn_Saganash"
+			"dynn_Sakabushkim"
+			"dynn_Shanoosh"
+			"dynn_Shashaweskum"
+			"dynn_Shecapio"
+			"dynn_Shekabew"
+			"dynn_Tanoosh"
+			"dynn_Tserbrozq"
+			"dynn_Tshesho"
+			"dynn_Uchoswachas"
+			"dynn_Wapachee"
+			"dynn_Washipabano"
+			"dynn_Washkwatshenk"
+			"dynn_Weapinecappo"
+			"dynn_Weyasapow"
+			"dynn_Whiskeychan"
+			"dynn_Whiskyan"
+			"dynn_Wischee"
+			"dynn_Wishkavatkask"
+			"dynn_Yayicheps"
+		}
+		
+		male_names = {
+			Aisik Akaskwh Alikis Ankas Antwaniywau Apetniku
+			Chaahchaahchii Chiipehesh Chinushaw Chirart Chisheyaakush Chiyin Chwarch
+			Eiparaham Eitiyen Eksefiyir Entuhushu
+			Iiwaapuweu Ifantar Ikwamit Irasimis Ishkwaashcheu Iyaapeu
+			Kalifirt Kalwaut Kastwan Keitan Kiyum Kuikuhaachew Kuukamesh Kuwentin Kwanrat
+			Latpiruk Lennart Luwis Lwait Lwukash
+			Mahiihkan Maikil Michisuu Mihtaamin Miyahkatu Mwanrwau
+			Naapetihkw Naweyaakamui Nikutimis Nimaw Nimistchou Nuutashcheu
+			Papeupiyesweu
+			Rwapirt Rwaumiyu
+			Saahteyaapisuu Saimin Setrik Shatrak Sipaschin Sipulwan Stifin
+			Tahkahchikan Tailirtan Tairwaun Tehtaapisch Teifit Teimin Thiyitwar Tieikwau Twanilt
+			Uashkut Ukaw Uhuumisuu Ulifir Upatayuu Usaauhcheshuu Usheyaapiskaham
+			Waapaskw Waawaashtepayuu Wechawapanu Wiihtepayuu Wshanithin
+			Yaayaapisch Yuchin Yuutinipayuu Ywashtin
+		}
+		female_names = {
+			Aahaaweshiish Achahkush Ahchemuus Airin Aitariana Alikwatshas Auusuu
+			Chihkaashtew Chiishikaashteu Chimuunishuu Chinifiyef
+			Eimpir
+			Firwanik
+			Ifanchilin Ifwan Ilisipath
+			Kareis Kerulain Kilatis Kisha Kuunuu Kwanstins
+			Lwarin
+			Markarit Matilin Mistaapush Miyawapin
+			Naatischeu Neitin Niipiish Nuushetihkw
+			Piihtuweyaaskuham Pimiskun Piyeret Pwalet
+			Shaapuminach Shiishiip Shirliyan Sigouneebeesh Sitni Swaui
+			Taunilin Tayan Tiyanchil
+			Waapikon Waayipeyaau Wiikupesaakan
+			Yulanta
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_ }
+		}
+	}
+}
