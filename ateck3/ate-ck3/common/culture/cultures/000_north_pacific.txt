@@ -1406,174 +1406,235 @@
 			25 = caucasian_dark_hair
 		}
 	}
-	inlander = {
+	
+	#Male and Female Namelist from RabbleRouser and MacMonika
+	snakelander = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 		
-		color = { 0.25 0.35 0.55 }
+		color = { 0.55 0.45 0.35 }
 	
 		cadet_dynasty_names = {
-			"dynn_Borah"
-			"dynn_Callahan"
-			"dynn_Cockrum"
-			"dynn_Crosby"
-			"dynn_Dwyer"
-			"dynn_Eddings"
-			"dynn_Edmundson"
-			"dynn_Emtman"
-			"dynn_Estby"
-			"dynn_Everett"
+			"dynn_Allred"
+			"dynn_Andrus"
+			"dynn_Apodaca"
+			"dynn_Beck"
+			"dynn_Belnap"
+			"dynn_Bengoechea"
+			"dynn_Berriochoa"
+			"dynn_Bingham"
+			"dynn_Bird"
+			"dynn_Black"
+			"dynn_Bloxham"
+			"dynn_Bowers"
+			"dynn_Bowman"
+			"dynn_Briggs"
+			"dynn_Buckner"
+			"dynn_Bullough"
+			"dynn_Burch"
+			"dynn_Bybee"
+			"dynn_Call"
+			"dynn_Cenarrusa"
+			"dynn_Chandler"
+			"dynn_Croft"
+			"dynn_Day"
+			"dynn_England"
+			"dynn_Forrey"
 			"dynn_French"
-			"dynn_Garry"
-			"dynn_Geraghty"
-			"dynn_Gillis"
-			"dynn_Goff"
-			"dynn_Havermale"
-			"dynn_Hawkins"
-			"dynn_Herera"
-			"dynn_Hodgkinson"
-			"dynn_Holkins"
-			"dynn_Hunter"
-			"dynn_Iller"
-			"dynn_Johnson"
-			"dynn_Kaskey"
-			"dynn_Kilkenny"
-			"dynn_Kittredge"
-			"dynn_Krahulik"
-			"dynn_La_Dow"
-			"dynn_Lewis"
-			"dynn_Lovejoy"
-			"dynn_McCall"
-			"dynn_McGavin"
-			"dynn_McNary"
-			"dynn_Merriam"
-			"dynn_Minnick"
-			"dynn_Montoya"
-			"dynn_Morrow"
-			"dynn_Mortensen"
-			"dynn_Nesbit"
-			"dynn_Nethercutt"
+			"dynn_Frost"
+			"dynn_Garcia"
+			"dynn_Garmendia"
+			"dynn_Garner"
+			"dynn_Gates"
+			"dynn_Goicoechea"
+			"dynn_Gray"
+			"dynn_Green"
+			"dynn_Gunter"
+			"dynn_Hale"
+			"dynn_Harker"
+			"dynn_Harmon"
+			"dynn_Hernandez"
+			"dynn_Hill"
+			"dynn_Holverson"
+			"dynn_Howell"
+			"dynn_Jordan"
+			"dynn_Keller"
+			"dynn_Koehn"
+			"dynn_Law"
+			"dynn_Lloyd"
+			"dynn_Long"
+			"dynn_Lopez"
+			"dynn_Luna"
+			"dynn_Marley"
+			"dynn_McBride"
+			"dynn_McMurtrey"
+			"dynn_McRoberts"
+			"dynn_Mendizabal"
+			"dynn_Mendoza"
+			"dynn_Merrill"
+			"dynn_Millward"
+			"dynn_Moon"
+			"dynn_Moss"
+			"dynn_Muguira"
+			"dynn_Murdock"
 			"dynn_Oaks"
-			"dynn_Piedmont"
-			"dynn_Preciado"
-			"dynn_Redmond"
+			"dynn_Ohr"
+			"dynn_Owens"
+			"dynn_Page"
+			"dynn_Pfost"
+			"dynn_Powell"
 			"dynn_Reed"
-			"dynn_Roskelly"
-			"dynn_Scribner"
-			"dynn_Spitzer"
-			"dynn_St_John"
-			"dynn_Sweet"
-			"dynn_Turnbull"
-			"dynn_Uberuaga"
-			"dynn_Uptagrafft"
-			"dynn_Vestal"
-			"dynn_Washburne"
-			"dynn_Welliver"
-			"dynn_Wells"
-			"dynn_Winslow"
-			"dynn_Withrow"
-			"dynn_Womach"
+			"dynn_Reyna"
+			"dynn_Rodriguez"
+			"dynn_Ruhter"
+			"dynn_Salinas"
+			"dynn_Snow"
+			"dynn_Spanbauer"
+			"dynn_Steed"
+			"dynn_Stoddard"
+			"dynn_Stone"
+			"dynn_Summers"
+			"dynn_Thornton"
+			"dynn_Tilloston"
+			"dynn_Tolman"
+			"dynn_Tracy"
+			"dynn_Tucker"
+			"dynn_Vail"
+			"dynn_Wheatley"
+			"dynn_Wheeler"
+			"dynn_Whitworth"
+			"dynn_Yribar"
+			"dynn_Ysursa"
 		}
 		dynasty_names = {
-			"dynn_Borah"
-			"dynn_Callahan"
-			"dynn_Cockrum"
-			"dynn_Crosby"
-			"dynn_Dwyer"
-			"dynn_Eddings"
-			"dynn_Edmundson"
-			"dynn_Emtman"
-			"dynn_Estby"
-			"dynn_Everett"
+			"dynn_Allred"
+			"dynn_Andrus"
+			"dynn_Apodaca"
+			"dynn_Beck"
+			"dynn_Belnap"
+			"dynn_Bengoechea"
+			"dynn_Berriochoa"
+			"dynn_Bingham"
+			"dynn_Bird"
+			"dynn_Black"
+			"dynn_Bloxham"
+			"dynn_Bowers"
+			"dynn_Bowman"
+			"dynn_Briggs"
+			"dynn_Buckner"
+			"dynn_Bullough"
+			"dynn_Burch"
+			"dynn_Bybee"
+			"dynn_Call"
+			"dynn_Cenarrusa"
+			"dynn_Chandler"
+			"dynn_Croft"
+			"dynn_Day"
+			"dynn_England"
+			"dynn_Forrey"
 			"dynn_French"
-			"dynn_Garry"
-			"dynn_Geraghty"
-			"dynn_Gillis"
-			"dynn_Goff"
-			"dynn_Havermale"
-			"dynn_Hawkins"
-			"dynn_Herera"
-			"dynn_Hodgkinson"
-			"dynn_Holkins"
-			"dynn_Hunter"
-			"dynn_Iller"
-			"dynn_Johnson"
-			"dynn_Kaskey"
-			"dynn_Kilkenny"
-			"dynn_Kittredge"
-			"dynn_Krahulik"
-			"dynn_La_Dow"
-			"dynn_Lewis"
-			"dynn_Lovejoy"
-			"dynn_McCall"
-			"dynn_McGavin"
-			"dynn_McNary"
-			"dynn_Merriam"
-			"dynn_Minnick"
-			"dynn_Montoya"
-			"dynn_Morrow"
-			"dynn_Mortensen"
-			"dynn_Nesbit"
-			"dynn_Nethercutt"
+			"dynn_Frost"
+			"dynn_Garcia"
+			"dynn_Garmendia"
+			"dynn_Garner"
+			"dynn_Gates"
+			"dynn_Goicoechea"
+			"dynn_Gray"
+			"dynn_Green"
+			"dynn_Gunter"
+			"dynn_Hale"
+			"dynn_Harker"
+			"dynn_Harmon"
+			"dynn_Hernandez"
+			"dynn_Hill"
+			"dynn_Holverson"
+			"dynn_Howell"
+			"dynn_Jordan"
+			"dynn_Keller"
+			"dynn_Koehn"
+			"dynn_Law"
+			"dynn_Lloyd"
+			"dynn_Long"
+			"dynn_Lopez"
+			"dynn_Luna"
+			"dynn_Marley"
+			"dynn_McBride"
+			"dynn_McMurtrey"
+			"dynn_McRoberts"
+			"dynn_Mendizabal"
+			"dynn_Mendoza"
+			"dynn_Merrill"
+			"dynn_Millward"
+			"dynn_Moon"
+			"dynn_Moss"
+			"dynn_Muguira"
+			"dynn_Murdock"
 			"dynn_Oaks"
-			"dynn_Piedmont"
-			"dynn_Preciado"
-			"dynn_Redmond"
+			"dynn_Ohr"
+			"dynn_Owens"
+			"dynn_Page"
+			"dynn_Pfost"
+			"dynn_Powell"
 			"dynn_Reed"
-			"dynn_Roskelly"
-			"dynn_Scribner"
-			"dynn_Spitzer"
-			"dynn_St_John"
-			"dynn_Sweet"
-			"dynn_Turnbull"
-			"dynn_Uberuaga"
-			"dynn_Uptagrafft"
-			"dynn_Vestal"
-			"dynn_Washburne"
-			"dynn_Welliver"
-			"dynn_Wells"
-			"dynn_Winslow"
-			"dynn_Withrow"
-			"dynn_Womach"
+			"dynn_Reyna"
+			"dynn_Rodriguez"
+			"dynn_Ruhter"
+			"dynn_Salinas"
+			"dynn_Snow"
+			"dynn_Spanbauer"
+			"dynn_Steed"
+			"dynn_Stoddard"
+			"dynn_Stone"
+			"dynn_Summers"
+			"dynn_Thornton"
+			"dynn_Tilloston"
+			"dynn_Tolman"
+			"dynn_Tracy"
+			"dynn_Tucker"
+			"dynn_Vail"
+			"dynn_Wheatley"
+			"dynn_Wheeler"
+			"dynn_Whitworth"
+			"dynn_Yribar"
+			"dynn_Ysursa"
 		}
 		
 		male_names = {
-			Abe Adam Alan Alex Arthur
-			Bing Brian Burl Burt Burton
-			Charlie Clarence Connor Craig
-			Daryl David Dennis Drew
-			Eddie Eric
-			Garry
-			Harlond Harold
-			Jackson Jerry Jim John Jordan
-			Kwen
-			Luke
-			Matt Max Mel Mike
-			Neil
-			Orson
-			Richard Robert Ryan
-			Sam Sherman Steve Stuart
-			Tom Trevor Tyler
-			Walter Wayne Wilbur Wilder William Willis
+			Alberto Ander Antton Arco
+			Bayonne Bieter Blaine Borah Bugler Butte
+			Charbonneau
+			Francois Frank Fremont
+			Gardener Gourka
+			Harry Hemingway
+			Inazio
+			Jack Jaialdi Jebediah Jose
+			Kerman Ketch
+			Laxalt LeBois Luken
+			Markel Mattin Michael Mikel Morley
+			Natlab
+			Orchard Otter
+			Pedro Perce Pierre Preston
+			Raygan Reed Reggs Ross
+			Scade Steunenburg
+			Vial
+			Ysursa
 		}
 		female_names = {
-			Adrienne Andrea Anna Amy
-			Beverley
-			Carol Christine Cindy Colleen
-			Dorothy
-			Gale
-			Helga Hope
-			Janet Jean Julia Julianna
-			Kathryn Kayla
-			Launi Linda Lis
-			Madonna Martha Mary Michele Monika
-			Paige Patrice
-			Quail
-			Sarah Seena Sharon Sophia Susan Sydney
-			Thelma
-			Wanda
-			Yolanda
+			Abbey Ada Amelia Anne
+			Bellevue Bonneville
+			Carey Cari Charlotte
+			Emma
+			Garnet Gem Gernika
+			Hilargy
+			Idahome Izaro
+			Jean Joska Josune
+			Merid Monika
+			Nere Nikole
+			Payette Poky
+			Sawt Shone
+			Treasure
+			Wickah
 		}
 
 		
