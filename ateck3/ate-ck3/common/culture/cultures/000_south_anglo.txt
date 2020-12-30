@@ -1750,8 +1750,8 @@
 			Yamina Yasmine_Jasmin
 			Zafirah Zahra Zaida Zaynab Zaynah Zenobia Zubaydah Zulaykha Zuleykha
 		}
-		patronym_prefix_male = "dynnpat_suf_ibben"
-		patronym_prefix_female = "dynnpat_suf_bent"
+		patronym_prefix_male = "dynnpat_pre_ibben"
+		patronym_prefix_female = "dynnpat_pre_bent"
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 20
