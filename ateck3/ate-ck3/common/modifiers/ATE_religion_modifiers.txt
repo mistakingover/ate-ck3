@@ -8,3 +8,13 @@ match_wrestled_modifier= {
 	learning = 1
 }
 
+used_lay_on_hands_modifier= {
+	icon = piety_positive 
+	monthly_piety = 0.15
+}
+
+
+laid_on_hands_modifier= {
+	icon = health_positive 
+	health= 0.25
+}

@@ -15,3 +15,8 @@ wrestling_match_loser_opinion= {
 	monthly_change = 0.1
 	decaying = yes
 }
+laid_hands_on_target_opinion = {
+	opinion = 15
+	years = 5
+	decaying = yes
+}

@@ -46,12 +46,19 @@ wrestling_match_interaction = {
 		scope:recipient = {
 			NOT = { has_strong_hook = scope:actor }
 		}
+
 		scope:recipient = { is_diplomatically_available = yes }
-		#scope:recipiest = {
-		#	NOT = {
-		#		has_trait = health_trait
-		#	}
-		#}
+		scope:recipient = {
+			NOT = {
+				has_trait_rank = {
+					trait = wounded
+					rank >= 2
+				}
+			}
+			NOT = { has_trait = incapable }
+			health >= 3
+			has_contagious_deadly_disease_trigger = no
+		}
 	}
 
 	auto_accept = yes
@@ -81,6 +88,446 @@ wrestling_match_interaction = {
 		}
 		scope:recipient = {
 			custom_tooltip = wrestling_match_interaction.tt_winnings_recipient
+		}
+	}
+}
+
+#### Faith Healing Interaction
+lay_on_hands_interaction = {
+	category = interaction_category_religion
+
+	ai_maybe = yes
+	ai_min_reply_days = 4
+	ai_max_reply_days = 9
+	can_send_despite_rejection = no
+	popup_on_receive = yes
+	pause_on_receive = yes
+	
+	common_interaction = yes
+	cooldown_against_recipient = { years = 10 }
+	cooldown = { years = 2 }
+	desc = lay_on_hands_interaction_desc
+
+	greeting = positive
+	notification_text = LAY_ON_HANDS_NOTIFICATION_TEXT
+
+	is_shown = {
+		NOT = { scope:actor = scope:recipient }
+		scope:actor.faith = {
+			has_doctrine_parameter = lay_on_hands_enabled
+		}
+		scope:recipient = {
+			OR = {
+				AND = {
+					is_landed = yes
+					OR = {
+						liege = scope:actor	#You may heal direct vassals.
+						liege = scope:actor.liege	#You may heal vassals with whom you share a liege.
+						scope:actor.liege = scope:recipient	#You may heal your direct liege.
+					}
+				}
+				is_courtier_of = scope:actor #You may heal your courtiers
+			}
+		}
+	}
+
+	is_valid = {
+		custom_description = {
+			text = lay_on_hands_timing
+			scope:actor = {
+				NOT = { has_character_modifier = used_lay_on_hands_modifier }
+			}
+		}
+	}	
+	is_valid_showing_failures_only = {
+		custom_description = {
+			text = lay_on_hands_interaction_is_healthy
+			object = scope:recipient
+			scope:recipient = {
+				OR = {
+					has_treatable_disease_trigger = yes
+					has_wounds_trigger = yes
+				}
+			}
+		}
+		#scope:recipient = {
+		#	OR = {
+		#		has_treatable_disease_trigger = yes
+		#		has_wounds_trigger = yes
+		#	}
+		#}
+		custom_description = {
+			text = lay_on_hands_interaction_has_been_healed
+			object = scope:recipient
+			scope:recipient = {
+				NOT = { has_character_modifier = laid_on_hands_modifier }
+			}
+		}
+		scope:recipient = {
+			is_adult = yes
+		}
+		scope:recipient = {
+			NOT = {
+				AND = { 
+					has_hook = scope:actor 
+					NOT = {
+						has_faith = scope:actor.faith 
+					}
+				} 
+			}
+		}
+		scope:recipient = { is_diplomatically_available = yes }
+	}
+	
+	#Use hook
+	auto_accept = {
+		custom_description = {
+			text = "spending_hook"
+			subject = scope:actor
+			object = scope:recipient
+			scope:hook = yes
+			scope:actor = { has_hook = scope:recipient }
+		}
+	}
+
+	send_option = {
+		is_valid = {
+			scope:actor = {
+				has_usable_hook = scope:recipient
+			}
+		}
+		flag = hook
+		localization = SCHEME_HOOK
+	}
+	should_use_extra_icon = {
+		scope:actor = { has_usable_hook = scope:recipient }
+	}
+	extra_icon = "gfx/interface/icons/character_interactions/hook_icon.dds"
+
+	send_options_exclusive = no
+
+	cost = {
+		piety = scope:recipient.ask_to_take_vows_piety_cost
+	}
+
+	on_send = {
+		scope:recipient = {
+			set_variable = {
+				name = vows_piety_spent
+				value = ask_to_take_vows_piety_cost
+				days = 10
+ 			}
+ 		}
+ 	}
+
+	on_accept = {
+		scope:actor = {
+			if = {
+				limit = { scope:hook = yes }
+				use_hook = scope:recipient
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				remove_variable = vows_piety_spent
+			}
+		}
+		hidden_effect = {
+			scope:actor = {
+				trigger_event = { id = ate_religious_interaction.104 }
+			}
+		}
+		scope:recipient = {
+			trigger_event = { id = ate_religious_interaction.105 }
+		}		
+		custom_tooltip = lay_on_hands_interaction.tt_modifiers
+		scope:recipient = {
+			custom_tooltip = lay_on_hands_interaction.tt_winnings_recipient
+		}
+
+	}
+
+	on_decline = {
+		#Letter event informing the character about the rejection.
+		scope:actor = {
+			trigger_event = {
+				id = ate_religious_interaction.108 #1031
+			}
+		}
+
+		# Refund piety cost
+		show_as_tooltip = {
+			scope:actor = {
+				add_piety_no_experience = {
+					value = scope:recipient.ask_to_take_vows_piety_cost
+				}
+			}
+		}
+		# Refund piety cost
+		hidden_effect = {
+			if = {
+				limit = {
+					scope:recipient = {
+						has_variable = vows_piety_spent
+ 					}
+ 				}
+				scope:actor = {
+					add_piety_no_experience = {
+						value = scope:recipient.var:vows_piety_spent
+ 					}
+				}
+				scope:recipient = {
+					remove_variable = vows_piety_spent
+ 				}
+ 			}
+ 		}
+ 	}
+
+	auto_accept = no
+
+	ai_accept = {
+		base = 0 # Try to make it 0 for most interactions
+
+		modifier = {
+			scope:hook = yes
+			add = 50
+			desc = SCHEME_WEAK_HOOK_USED
+		}
+		opinion_modifier = { # Opinion Factor
+			who = scope:recipient
+			opinion_target = scope:actor
+			multiplier = 0.5
+			desc = AI_SIMPLE_OPINION_REASON
+		}
+		modifier = {
+			add = ai_zeal
+			ai_zeal < 0
+			scope:recipient = {
+				has_faith = scope:actor.faith
+			}
+			desc = LAY_ON_HANDS_SKEPTIC
+		}
+		modifier = {
+			add = {
+				value = ai_zeal
+				divide = 2
+			}
+			scope:recipient = {
+				has_faith = scope:actor.faith
+			}
+			ai_zeal > 0
+			desc = LAY_ON_HANDS_ZEALOUS
+		}
+		modifier = {
+			add = 20
+			scope:recipient = {
+				health < fine_health
+			}
+			desc = LAY_ON_HANDS_HEALTH_LITTLE
+		}
+		modifier = {
+			add = 20
+			scope:recipient = {
+				health < 1
+			}
+			desc = LAY_ON_HANDS_HEALTH_NILL
+		}
+		modifier = {
+			add = 50
+			scope:recipient = {
+				OR = {
+					has_relation_friend = scope:actor
+					is_spouse_of = scope:actor
+					has_relation_crush = scope:actor
+					has_relation_soulmate = scope:actor
+					has_relation_lover = scope:actor
+					has_relation_best_friend = scope:actor
+				}
+			}
+			desc = LAY_ON_HANDS_CLOSE_RELATION
+		}
+		modifier = {
+			add = {
+				value = ai_zeal
+				multiply = -1
+			}
+			scope:recipient = {
+				NOT = {
+					has_faith = scope:actor.faith
+				}
+			}
+			ai_zeal > 0
+			desc = LAY_ON_HANDS_ZEALOUS_OTHER
+		}
+		modifier = {
+			add = -50
+			scope:recipient = {
+				NOT = {
+					has_faith = scope:actor.faith
+				}
+			}
+			desc = LAY_ON_HANDS_OTHER
+		}
+		modifier = { #Lower Hierarchy
+			trigger = {
+				scope:recipient = {
+					OR = {
+						has_relation_ward = scope:actor
+						has_relation_student = scope:actor
+					}
+				}
+			}
+			add = -50
+			desc = LAY_ON_HANDS_LOWER
+		}
+		modifier = { #Rivalry modifier.
+			trigger = {
+				scope:recipient = {
+					has_relation_rival = scope:actor
+					NOT = { has_relation_nemesis = scope:actor }
+				}
+			}
+			add = -50
+			desc = LAY_ON_HANDS_RIVAL
+		}
+		modifier = { #Nemesis modifier.
+			trigger = {
+				scope:recipient = {
+					has_relation_nemesis = scope:actor
+				}
+			}
+			add = -100
+			desc = LAY_ON_HANDS_NEMESIS
+		}
+		
+		#Dread modifiers
+		modifier = {
+			add = 25
+			scope:recipient = {
+				has_dread_level_towards = {
+					target = scope:actor
+					level = 1
+				}
+			}
+			desc = INTIMIDATED_REASON
+		}
+		modifier = {
+			add = 50
+			scope:recipient = {
+				has_dread_level_towards = {
+					target = scope:actor
+					level = 2
+				}
+			}
+			desc = COWED_REASON
+		}
+	}
+	
+	# AI will do
+	
+	ai_potential = {
+		is_adult = yes
+		piety >= major_piety_value
+	}
+	
+	ai_target_quick_trigger = {
+		adult = yes
+	}
+
+	ai_targets = {
+		ai_recipients = courtiers
+		max = 5
+	}
+
+	ai_targets = {
+		ai_recipients = vassals
+	}
+	
+	ai_targets = {
+		ai_recipients = liege
+	}
+
+	ai_targets = {
+		ai_recipients = spouses
+	}
+
+	ai_targets = {
+		ai_recipients = peer_vassals
+	}
+
+	ai_frequency = 72
+
+	ai_will_do = {
+		base = 0
+		
+		modifier = { # The AI will always use a Hook
+			scope:hook = yes
+			add = 1
+		}
+		
+		modifier = { # Try to send rivals
+			add = -25
+			scope:actor = {
+				OR = {
+					has_relation_rival = scope:recipient
+					has_relation_nemesis = scope:recipient
+				}
+			}
+		}
+		
+		modifier = { # Try to heal people who would are would-be heirs
+			add = 50
+			scope:recipient = {
+				scope:actor.primary_title = {
+					place_in_line_of_succession = {
+						target = prev
+						value <= 7
+					}
+				}
+			}
+		}
+		
+		modifier = { # Zealous characters generally want to heal others
+			add = 25
+			scope:actor = {
+				ai_zeal >= high_positive_ai_value
+			}
+		}
+		
+		modifier = { # Zealous characters generally want to heal others to convert them
+			add = 25
+			scope:actor = {
+				ai_zeal >= high_positive_ai_value
+			}
+			NOT = {
+				has_faith = scope:actor.faith
+			}
+		}
+
+		modifier = { # Greedy characters dont want to heal potential threats
+			add = -50
+			scope:actor = {
+				ai_greed >= medium_positive_ai_value
+				any_child = {
+					count >= 1
+				}
+			}
+			scope:recipient = {
+				NOT = {
+					is_child_of = scope:actor
+				}
+				any_claim = {
+					exists = holder
+					holder = scope:actor
+				}
+			}
+		}
+		
+		modifier = { # Care about family
+			add = 20
+			scope:recipient = {
+				is_close_or_extended_family_of = scope:actor
+			}
 		}
 	}
 }

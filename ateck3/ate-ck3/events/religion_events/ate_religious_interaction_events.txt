@@ -353,7 +353,6 @@ ate_religious_interaction.102 = {
 
 ################################
 # Things go really bad for the defender
-# by Petter Vilberg
 ################################
 ate_religious_interaction.103 = {
 	type = character_event
@@ -411,5 +410,197 @@ ate_religious_interaction.103 = {
 				add_trait = wounded_2
 			}
 		}
+	}
+}
+
+####### Lay on Hands
+ate_religious_interaction.104 = { #You Lay Hands
+	type = character_event
+	title = ate_religious_interaction.104.t
+	desc = ate_religious_interaction.104.desc
+	theme = faith
+	override_background = {
+		event_background = bedchamber
+	}
+	left_portrait =	 { 
+		character = scope:recipient
+		animation = sick
+	}
+	option = {
+		name = ate_religious_interaction.104.a
+		scope:actor = {
+			add_character_modifier = {
+					modifier = used_lay_on_hands_modifier
+					years = 2
+			}
+		}
+		scope:recipient = {
+			add_opinion = {
+				target = scope:actor
+				modifier = laid_hands_on_target_opinion
+			}
+		}
+	}
+}
+
+####### Lay on Hands
+ate_religious_interaction.105 = { #Laid hands on
+	type = character_event
+	title = ate_religious_interaction.104.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = { 
+					scope:recipient = {
+						has_faith = scope:actor.faith
+					}
+				}
+				desc = ate_religious_interaction.105.desc_samefaith
+			}
+			desc = ate_religious_interaction.105.desc_differentfaith
+		}
+
+	}
+	theme = faith
+	override_background = {
+		event_background = bedchamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_compassionate
+	}
+
+	option = {
+		name = {
+			trigger = { 
+				scope:recipient = {
+					has_faith = scope:actor.faith
+				}
+			}
+			text = ate_religious_interaction.105.a_samefaith
+		}
+		name = {
+			trigger = { 
+				scope:recipient = {
+					NOT = { has_faith = scope:actor.faith }
+				}
+			}
+			text = ate_religious_interaction.105.a_differentfaith
+		}
+
+		add_character_modifier = {
+			modifier = laid_on_hands_modifier
+			years = 3
+		}
+		set_variable = {
+			name = faith_healer
+			value = scope:actor
+		}
+		if = {
+			limit = {
+				scope:recipient = {
+				NOT = { has_faith = scope:actor.faith }
+				}
+			}		
+			set_variable = {
+				name = new_faith_healing
+				value = scope:actor.faith
+			}
+		}
+	}
+}
+
+ate_religious_interaction.106 = { #You Healed! Different Faith
+	type = character_event
+	title = ate_religious_interaction.106.t
+	desc = ate_religious_interaction.106.desc
+	theme = faith
+	override_background = {
+		event_background = bedchamber
+	}
+	left_portrait =	 { 
+		character = ROOT
+	}
+	trigger = {
+		is_healthy = yes
+		has_variable = new_faith_healing
+		has_character_modifier = laid_on_hands_modifier
+	}
+	option = {
+		name = ate_religious_interaction.106.a
+		remove_character_modifier = laid_on_hands_modifier
+		set_character_faith = root.var:new_faith_healing
+		ai_chance = {	
+			base = 10
+		}
+	}
+
+	option = {
+		name = ate_religious_interaction.106.b
+		remove_character_modifier = laid_on_hands_modifier
+		add_piety = medium_piety_value
+		ai_chance = {	#The AI always pick this.
+			base = 10
+		}
+	}
+
+}
+
+ate_religious_interaction.107 = { #You Healed! Same Faith
+	type = character_event
+	title = ate_religious_interaction.106.t
+	desc = ate_religious_interaction.107.desc
+	theme = faith
+	override_background = {
+		event_background = bedchamber
+	}
+	left_portrait =	 { 
+		character = ROOT
+	}
+	trigger = {
+		is_healthy = yes
+		NOT = { has_variable = new_faith_healing }
+		has_character_modifier = laid_on_hands_modifier
+	}
+	option = {
+		name = ate_religious_interaction.107.a
+		remove_character_modifier = laid_on_hands_modifier
+		if = {
+			limit = {
+				NOT = {
+					has_trait = zealous
+				}
+			}
+			random_list = {
+				50 = {
+					add_trait = zealous
+				}
+				50 = {
+					add_piety = medium_piety_value
+				}
+			}
+		}
+		else = {
+			add_piety = medium_piety_value
+		}
+
+	}
+
+}
+
+ate_religious_interaction.108 = { #Rejected
+	type = letter_event
+	opening = {
+		desc = religious_interaction.1.opening
+	}
+	desc = ate_religious_interaction.108
+	sender = {
+		character = scope:recipient
+		animation = dismissal
+	}
+
+
+	option = {
+		name = religious_interaction.1000.negative
 	}
 }
