@@ -126,14 +126,14 @@
 			"dynn_Villegas"
 			"dynn_Zaragoza"
 			"dynn_Zepeda"
-			"dynn_de_Alba"
-			"dynn_de_GuzmA_n"
-			"dynn_de_JesU_s"
-			"dynn_de_Oro"
-			"dynn_de_la_Torre"
-			"dynn_del_RI_o"
-			"dynn_del_Toro"
-			"dynn_del_Valle"
+			{ "dynnp_de" "dynn_Alba" }
+			{ "dynnp_de" "dynn_GuzmA_n" }
+			{ "dynnp_de" "dynn_JesU_s" }
+			{ "dynnp_de" "dynn_Oro" }
+			{ "dynnp_de" "dynn_la_Torre" }
+			{ "dynnp_del" "dynn_RI_o" }
+			{ "dynnp_del" "dynn_Toro" }
+			{ "dynnp_del" "dynn_Valle" }
 		}
 		dynasty_names = {
 			"dynn_A_valos"
@@ -248,14 +248,14 @@
 			"dynn_Villegas"
 			"dynn_Zaragoza"
 			"dynn_Zepeda"
-			"dynn_de_Alba"
-			"dynn_de_GuzmA_n"
-			"dynn_de_JesU_s"
-			"dynn_de_Oro"
-			"dynn_de_la_Torre"
-			"dynn_del_RI_o"
-			"dynn_del_Toro"
-			"dynn_del_Valle"
+			{ "dynnp_de" "dynn_Alba" }
+			{ "dynnp_de" "dynn_GuzmA_n" }
+			{ "dynnp_de" "dynn_JesU_s" }
+			{ "dynnp_de" "dynn_Oro" }
+			{ "dynnp_de" "dynn_la_Torre" }
+			{ "dynnp_del" "dynn_RI_o" }
+			{ "dynnp_del" "dynn_Toro" }
+			{ "dynnp_del" "dynn_Valle" }
 		}
 		
 		#Ancient Greek and Roman names
@@ -451,14 +451,14 @@
 			"dynn_Zavaleta"
 			"dynn_Zorrilla"
 			"dynn_Zurita"
-			"dynn_de_Antigua"
-			"dynn_de_Cancuncito"
-			"dynn_de_Mandinga"
-			"dynn_de_San_Carlos"
-			"dynn_de_la_Cruz"
-			"dynn_de_la_Luz"
-			"dynn_de_los_Santos"
-			"dynn_del_A_ngel"
+			{ "dynnp_de" "dynn_Antigua" }
+			{ "dynnp_de" "dynn_Cancuncito" }
+			{ "dynnp_de" "dynn_Mandinga" }
+			{ "dynnp_de" "dynn_San_Carlos" }
+			{ "dynnp_de" "dynn_la_Cruz" }
+			{ "dynnp_de" "dynn_la_Luz" }
+			{ "dynnp_de" "dynn_los_Santos" }
+			{ "dynnp_del" "dynn_A_ngel" }
 		}
 		dynasty_names = {
 			"dynn_Abascal"
@@ -573,14 +573,14 @@
 			"dynn_Zavaleta"
 			"dynn_Zorrilla"
 			"dynn_Zurita"
-			"dynn_de_Antigua"
-			"dynn_de_Cancuncito"
-			"dynn_de_Mandinga"
-			"dynn_de_San_Carlos"
-			"dynn_de_la_Cruz"
-			"dynn_de_la_Luz"
-			"dynn_de_los_Santos"
-			"dynn_del_A_ngel"
+			{ "dynnp_de" "dynn_Antigua" }
+			{ "dynnp_de" "dynn_Cancuncito" }
+			{ "dynnp_de" "dynn_Mandinga" }
+			{ "dynnp_de" "dynn_San_Carlos" }
+			{ "dynnp_de" "dynn_la_Cruz" }
+			{ "dynnp_de" "dynn_la_Luz" }
+			{ "dynnp_de" "dynn_los_Santos" }
+			{ "dynnp_del" "dynn_A_ngel" }
 		}
 		
 		#A lot of obscure saint names/calender names
@@ -708,6 +708,7 @@
 			"dynn_DI_az"
 			"dynn_Didriksen"
 			"dynn_DurA_n"
+			"dynn_El_DefeN_o"
 			"dynn_Espinosa"
 			"dynn_Esquivel"
 			"dynn_Flores"
@@ -736,6 +737,7 @@
 			"dynn_Lajud"
 			"dynn_Lamadrid"
 			"dynn_Leal"
+			"dynn_Loyola"
 			"dynn_Luna"
 			"dynn_Madrazo"
 			"dynn_Manzanares"
@@ -816,8 +818,6 @@
 			"dynn_Yazbek"
 			"dynn_ZA_rate"
 			"dynn_Zayas"
-			"dynn_de_Loyola"
-			"dynn_el_DefeN_o"
 		}
 		dynasty_names = {
 			"dynn_A_ngeles"
@@ -860,6 +860,7 @@
 			"dynn_DI_az"
 			"dynn_Didriksen"
 			"dynn_DurA_n"
+			"dynn_El_DefeN_o"
 			"dynn_Espinosa"
 			"dynn_Esquivel"
 			"dynn_Flores"
@@ -888,6 +889,7 @@
 			"dynn_Lajud"
 			"dynn_Lamadrid"
 			"dynn_Leal"
+			"dynn_Loyola"
 			"dynn_Luna"
 			"dynn_Madrazo"
 			"dynn_Manzanares"
@@ -968,8 +970,6 @@
 			"dynn_Yazbek"
 			"dynn_ZA_rate"
 			"dynn_Zayas"
-			"dynn_de_Loyola"
-			"dynn_el_DefeN_o"
 		}
 		
 		#mainly just common modern names
@@ -1233,9 +1233,9 @@
 			"dynn_Zapata"
 			"dynn_ZermeN_o"
 			"dynn_Zetter"
-			"dynn_de_Lira"
-			"dynn_de_Santiago"
-			"dynn_de_la_Rosa"
+			{ "dynnp_de" "dynn_Lira" }
+			{ "dynnp_de" "dynn_Santiago" }
+			{ "dynnp_de" "dynn_la_Rosa" }
 		}
 		dynasty_names = {
 			"dynn_A_rcega"
@@ -1415,9 +1415,9 @@
 			"dynn_Zapata"
 			"dynn_ZermeN_o"
 			"dynn_Zetter"
-			"dynn_de_Lira"
-			"dynn_de_Santiago"
-			"dynn_de_la_Rosa"
+			{ "dynnp_de" "dynn_Lira" }
+			{ "dynnp_de" "dynn_Santiago" }
+			{ "dynnp_de" "dynn_la_Rosa" }
 		}
 		
 		#Religious and biblical names

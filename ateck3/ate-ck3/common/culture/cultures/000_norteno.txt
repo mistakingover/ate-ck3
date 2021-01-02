@@ -111,6 +111,7 @@
 			"dynn_Rosas"
 			"dynn_Salinas"
 			"dynn_Santorini"
+			"dynn_Santos"
 			"dynn_Sauceda"
 			"dynn_Scagno"
 			"dynn_SepU_lveda"
@@ -130,10 +131,9 @@
 			"dynn_Zaid"
 			"dynn_Zapata"
 			"dynn_ZarazU_a"
-			"dynn_de_la_Fuente"
-			"dynn_de_la_Rosa"
-			"dynn_del_A_ngel"
-			"dynn_dos_Santos"
+			{ "dynnp_de" "dynn_la_Fuente" }
+			{ "dynnp_de" "dynn_la_Rosa" }
+			{ "dynnp_del" "dynn_A_ngel" }
 		}
 		dynasty_names = {
 			"dynn_AbdalA_"
@@ -233,6 +233,7 @@
 			"dynn_Rosas"
 			"dynn_Salinas"
 			"dynn_Santorini"
+			"dynn_Santos"
 			"dynn_Sauceda"
 			"dynn_Scagno"
 			"dynn_SepU_lveda"
@@ -252,10 +253,9 @@
 			"dynn_Zaid"
 			"dynn_Zapata"
 			"dynn_ZarazU_a"
-			"dynn_de_la_Fuente"
-			"dynn_de_la_Rosa"
-			"dynn_del_A_ngel"
-			"dynn_dos_Santos"
+			{ "dynnp_de" "dynn_la_Fuente" }
+			{ "dynnp_de" "dynn_la_Rosa" }
+			{ "dynnp_del" "dynn_A_ngel" }
 		}
 		
 		#'Barbarian' names (Germanic conquerors), and names of revolutionaries
@@ -850,13 +850,13 @@
 			"dynn_Zazueta"
 			"dynn_Zertuche"
 			"dynn_Zumaya"
-			"dynn_de_Liceaga"
-			"dynn_de_Tecate"
-			"dynn_de_la_Cruz"
-			"dynn_de_la_Vega"
-			"dynn_del_Boleo"
-			"dynn_del_RI_o"
-			"dynn_del_Valle"
+			{ "dynnp_de" "dynn_Liceaga" }
+			{ "dynnp_de" "dynn_Tecate" }
+			{ "dynnp_de" "dynn_la_Cruz" }
+			{ "dynnp_de" "dynn_la_Vega" }
+			{ "dynnp_del" "dynn_Boleo" }
+			{ "dynnp_del" "dynn_RI_o" }
+			{ "dynnp_del" "dynn_Valle" }
 		}
 		dynasty_names = {
 			"dynn_A_vila"
@@ -1012,13 +1012,13 @@
 			"dynn_Zazueta"
 			"dynn_Zertuche"
 			"dynn_Zumaya"
-			"dynn_de_Liceaga"
-			"dynn_de_Tecate"
-			"dynn_de_la_Cruz"
-			"dynn_de_la_Vega"
-			"dynn_del_Boleo"
-			"dynn_del_RI_o"
-			"dynn_del_Valle"
+			{ "dynnp_de" "dynn_Liceaga" }
+			{ "dynnp_de" "dynn_Tecate" }
+			{ "dynnp_de" "dynn_la_Cruz" }
+			{ "dynnp_de" "dynn_la_Vega" }
+			{ "dynnp_del" "dynn_Boleo" }
+			{ "dynnp_del" "dynn_RI_o" }
+			{ "dynnp_del" "dynn_Valle" }
 		}
 		#A lot of more modern English derived names and nicknames
 		male_names = {
@@ -1228,7 +1228,7 @@
 			"dynn_Zavala"
 			"dynn_ZubirA_n"
 			"dynn_Zuloaga"
-			"dynn_de_Loera"
+			{ "dynnp_de" "dynn_Loera" }
 		}
 		dynasty_names = {
 			"dynn_Alvelais"
@@ -1360,7 +1360,7 @@
 			"dynn_Zavala"
 			"dynn_ZubirA_n"
 			"dynn_Zuloaga"
-			"dynn_de_Loera"
+			{ "dynnp_de" "dynn_Loera" }
 		}
 		
 		#Old testament names, and some old Germanic names, Mennonite influence

@@ -36,7 +36,6 @@
 			"dynn_Curbelo"
 			"dynn_Curbelo"
 			"dynn_DeLeO_n"
-			"dynn_De_La_Garza"
 			"dynn_Delacruz"
 			"dynn_DomI_nguez"
 			"dynn_Dovalina"
@@ -98,12 +97,13 @@
 			"dynn_Zamora"
 			"dynn_Zaragoza"
 			"dynn_Zavala"
-			"dynn_de_Abrego"
-			"dynn_de_Armas"
-			"dynn_de_BallI_"
-			"dynn_de_Lajitas"
-			"dynn_de_Ruidosa"
-			"dynn_de_Tornillo"
+			{ "dynnp_De" "dynn_La_Garza" }
+			{ "dynnp_de" "dynn_Abrego" }
+			{ "dynnp_de" "dynn_Armas" }
+			{ "dynnp_de" "dynn_BallI_" }
+			{ "dynnp_de" "dynn_Lajitas" }
+			{ "dynnp_de" "dynn_Ruidosa" }
+			{ "dynnp_de" "dynn_Tornillo" }
 		}
 		dynasty_names = {
 			"dynn_Alvarado"
@@ -128,7 +128,6 @@
 			"dynn_Curbelo"
 			"dynn_Curbelo"
 			"dynn_DeLeO_n"
-			"dynn_De_La_Garza"
 			"dynn_Delacruz"
 			"dynn_DomI_nguez"
 			"dynn_Dovalina"
@@ -190,12 +189,13 @@
 			"dynn_Zamora"
 			"dynn_Zaragoza"
 			"dynn_Zavala"
-			"dynn_de_Abrego"
-			"dynn_de_Armas"
-			"dynn_de_BallI_"
-			"dynn_de_Lajitas"
-			"dynn_de_Ruidosa"
-			"dynn_de_Tornillo"
+			{ "dynnp_De" "dynn_La_Garza" }
+			{ "dynnp_de" "dynn_Abrego" }
+			{ "dynnp_de" "dynn_Armas" }
+			{ "dynnp_de" "dynn_BallI_" }
+			{ "dynnp_de" "dynn_Lajitas" }
+			{ "dynnp_de" "dynn_Ruidosa" }
+			{ "dynnp_de" "dynn_Tornillo" }
 		}
 		
 		male_names = {
@@ -411,7 +411,7 @@
 			"dynn_Vigil"
 			"dynn_Visarraga"
 			"dynn_Zamorano"
-			"dynn_de_Rojas"
+			{ "dynnp_de" "dynn_Rojas" }
 		}
 		dynasty_names = {
 			"dynn_AbendaN_o"
@@ -553,7 +553,7 @@
 			"dynn_Vigil"
 			"dynn_Visarraga"
 			"dynn_Zamorano"
-			"dynn_de_Rojas"
+			{ "dynnp_de" "dynn_Rojas" }
 		}
 		
 		male_names = {

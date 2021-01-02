@@ -25,7 +25,6 @@
 			"dynn_Armbrister"
 			"dynn_Armstrong"
 			"dynn_Arora"
-			"dynn_Arora"
 			"dynn_Assadourian"
 			"dynn_Aylestock"
 			"dynn_Ayub"
@@ -45,6 +44,7 @@
 			"dynn_Brown"
 			"dynn_Burtynsky"
 			"dynn_Castlefrank"
+			"dynn_Catibog"
 			"dynn_Chadburn"
 			"dynn_Chahal"
 			"dynn_Chan"
@@ -168,6 +168,7 @@
 			"dynn_McPhail"
 			"dynn_Medeiros"
 			"dynn_Mehta"
+			"dynn_Metcalfe"
 			"dynn_Mistry"
 			"dynn_Moayeddin"
 			"dynn_Mohammed"
@@ -213,7 +214,6 @@
 			"dynn_Rao"
 			"dynn_Rattan"
 			"dynn_Reeves"
-			"dynn_Reeves"
 			"dynn_Reid"
 			"dynn_Romano"
 			"dynn_Rufenach"
@@ -230,7 +230,6 @@
 			"dynn_Sherwin"
 			"dynn_Short"
 			"dynn_Shoukri"
-			"dynn_Sibbick"
 			"dynn_Sibbick"
 			"dynn_Siddiqui"
 			"dynn_Sidhu"
@@ -268,9 +267,9 @@
 			"dynn_Warburton"
 			"dynn_Watson"
 			"dynn_Wettlaufer"
+			"dynn_Whitelaw"
 			"dynn_Wong"
 			"dynn_Yeung"
-			"dynn_Yip"
 			"dynn_Yip"
 			"dynn_Yu"
 			"dynn_Yuen"
@@ -279,11 +278,12 @@
 			"dynn_Zhang"
 			"dynn_Zhao"
 			"dynn_Zylstra"
-			"dynn_de_Haviland"
-			"dynn_de_Jong"
-			"dynn_van_Egmond"
-			"dynn_van_Helder"
-			"dynn_van_Koeverden"
+			{ "dynnp_de" "dynn_Haviland" }
+			{ "dynnp_de" "dynn_Jong" }
+			{ "dynnp_de" "dynn_Villa" }
+			{ "dynnp_van" "dynn_Egmond" }
+			{ "dynnp_van" "dynn_Helder" }
+			{ "dynnp_van" "dynn_Koeverden" }
 		}
 		dynasty_names = {
 			"dynn_Adebayo"
@@ -297,7 +297,6 @@
 			"dynn_Armbrister"
 			"dynn_Armstrong"
 			"dynn_Arora"
-			"dynn_Arora"
 			"dynn_Assadourian"
 			"dynn_Aylestock"
 			"dynn_Ayub"
@@ -317,6 +316,7 @@
 			"dynn_Brown"
 			"dynn_Burtynsky"
 			"dynn_Castlefrank"
+			"dynn_Catibog"
 			"dynn_Chadburn"
 			"dynn_Chahal"
 			"dynn_Chan"
@@ -440,6 +440,7 @@
 			"dynn_McPhail"
 			"dynn_Medeiros"
 			"dynn_Mehta"
+			"dynn_Metcalfe"
 			"dynn_Mistry"
 			"dynn_Moayeddin"
 			"dynn_Mohammed"
@@ -485,7 +486,6 @@
 			"dynn_Rao"
 			"dynn_Rattan"
 			"dynn_Reeves"
-			"dynn_Reeves"
 			"dynn_Reid"
 			"dynn_Romano"
 			"dynn_Rufenach"
@@ -502,7 +502,6 @@
 			"dynn_Sherwin"
 			"dynn_Short"
 			"dynn_Shoukri"
-			"dynn_Sibbick"
 			"dynn_Sibbick"
 			"dynn_Siddiqui"
 			"dynn_Sidhu"
@@ -540,9 +539,9 @@
 			"dynn_Warburton"
 			"dynn_Watson"
 			"dynn_Wettlaufer"
+			"dynn_Whitelaw"
 			"dynn_Wong"
 			"dynn_Yeung"
-			"dynn_Yip"
 			"dynn_Yip"
 			"dynn_Yu"
 			"dynn_Yuen"
@@ -551,11 +550,12 @@
 			"dynn_Zhang"
 			"dynn_Zhao"
 			"dynn_Zylstra"
-			"dynn_de_Haviland"
-			"dynn_de_Jong"
-			"dynn_van_Egmond"
-			"dynn_van_Helder"
-			"dynn_van_Koeverden"
+			{ "dynnp_de" "dynn_Haviland" }
+			{ "dynnp_de" "dynn_Jong" }
+			{ "dynnp_de" "dynn_Villa" }
+			{ "dynnp_van" "dynn_Egmond" }
+			{ "dynnp_van" "dynn_Helder" }
+			{ "dynnp_van" "dynn_Koeverden" }
 		}
 		
 		#Most names are 19th century inspired with a heavy amount of Arabic/Muslim names as well as some Tamil, Hindu, Punjabi, Polish, Italian, Ukrainian, Iranian, and Croatian names
@@ -790,7 +790,6 @@
 			"dynn_VanKleek"
 			"dynn_VanKoughnet"
 			"dynn_VanVlack"
-			"dynn_Van_Allen"
 			"dynn_Vanclief"
 			"dynn_Vandenbussche"
 			"dynn_Vandestadt"
@@ -802,9 +801,10 @@
 			"dynn_Woodcock"
 			"dynn_Yakabuski"
 			"dynn_Zhang"
-			"dynn_de_Rottenberg"
-			"dynn_van_Straubenzee"
-			"dynn_van_Vliet"
+			{ "dynnp_Van" "dynn_Allen" }
+			{ "dynnp_de" "dynn_Rottenberg" }
+			{ "dynnp_van" "dynn_Straubenzee" }
+			{ "dynnp_van" "dynn_Vliet" }
 		}
 		dynasty_names = {
 			"dynn_Abdo"
@@ -952,7 +952,6 @@
 			"dynn_VanKleek"
 			"dynn_VanKoughnet"
 			"dynn_VanVlack"
-			"dynn_Van_Allen"
 			"dynn_Vanclief"
 			"dynn_Vandenbussche"
 			"dynn_Vandestadt"
@@ -964,9 +963,10 @@
 			"dynn_Woodcock"
 			"dynn_Yakabuski"
 			"dynn_Zhang"
-			"dynn_de_Rottenberg"
-			"dynn_van_Straubenzee"
-			"dynn_van_Vliet"
+			{ "dynnp_Van" "dynn_Allen" }
+			{ "dynnp_de" "dynn_Rottenberg" }
+			{ "dynnp_van" "dynn_Straubenzee" }
+			{ "dynnp_van" "dynn_Vliet" }
 		}
 		
 		#Very stereotypical Victorian English and 19th century style names

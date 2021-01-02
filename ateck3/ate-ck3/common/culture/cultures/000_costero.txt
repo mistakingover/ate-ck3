@@ -173,7 +173,7 @@
 			"dynn_Zabaleta"
 			"dynn_Zambrano"
 			"dynn_Zapata"
-			"dynn_del_Carpio"
+			{ "dynnp_del" "dynn_Carpio" }
 		}
 		dynasty_names = {
 			"dynn_A_lvarez"
@@ -335,7 +335,7 @@
 			"dynn_Zabaleta"
 			"dynn_Zambrano"
 			"dynn_Zapata"
-			"dynn_del_Carpio"
+			{ "dynnp_del" "dynn_Carpio" }
 		}
 		
 		male_names = {
@@ -843,10 +843,10 @@
 			"dynn_Vega"
 			"dynn_Velasco"
 			"dynn_Zerpa"
-			"dynn_de_FarI_a"
-			"dynn_de_LeO_n"
-			"dynn_de_la_Fuente"
-			"dynn_del_RI_o"
+			{ "dynnp_de" "dynn_FarI_a" }
+			{ "dynnp_de" "dynn_LeO_n" }
+			{ "dynnp_de" "dynn_la_Fuente" }
+			{ "dynnp_del" "dynn_RI_o" }
 		}
 		dynasty_names = {
 			"dynn_Adler"
@@ -915,10 +915,10 @@
 			"dynn_Vega"
 			"dynn_Velasco"
 			"dynn_Zerpa"
-			"dynn_de_FarI_a"
-			"dynn_de_LeO_n"
-			"dynn_de_la_Fuente"
-			"dynn_del_RI_o"
+			{ "dynnp_de" "dynn_FarI_a" }
+			{ "dynnp_de" "dynn_LeO_n" }
+			{ "dynnp_de" "dynn_la_Fuente" }
+			{ "dynnp_del" "dynn_RI_o" }
 		}
 		
 		male_names = {
@@ -1088,7 +1088,7 @@
 			"dynn_VelA_squez"
 			"dynn_Villalobos"
 			"dynn_Villalpando"
-			"dynn_di_Giacomo"
+			{ "dynnp_di" "dynn_Giacomo" }
 		}
 		dynasty_names = {
 			"dynn_A_ngel"
@@ -1180,7 +1180,7 @@
 			"dynn_VelA_squez"
 			"dynn_Villalobos"
 			"dynn_Villalpando"
-			"dynn_di_Giacomo"
+			{ "dynnp_di" "dynn_Giacomo" }
 		}
 		
 		male_names = {

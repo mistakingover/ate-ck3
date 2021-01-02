@@ -1281,9 +1281,9 @@
 			"dynn_Vicq"
 			"dynn_Vienneau"
 			"dynn_Voisine"
-			"dynn_d_Entremont"
-			"dynn_de_Jumonville"
-			"dynn_de_Ste-Croix"
+			{ "dynnp_d" "dynn_Entremont" }
+			{ "dynnp_de" "dynn_Jumonville" }
+			{ "dynnp_de" "dynn_Ste-Croix" }
 		}
 		dynasty_names = {
 			"dynn_Amirault"
@@ -1453,9 +1453,9 @@
 			"dynn_Vicq"
 			"dynn_Vienneau"
 			"dynn_Voisine"
-			"dynn_d_Entremont"
-			"dynn_de_Jumonville"
-			"dynn_de_Ste-Croix"
+			{ "dynnp_d" "dynn_Entremont" }
+			{ "dynnp_de" "dynn_Jumonville" }
+			{ "dynnp_de" "dynn_Ste-Croix" }
 		}
 		
 		male_names = {

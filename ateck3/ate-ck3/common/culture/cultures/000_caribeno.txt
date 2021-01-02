@@ -181,9 +181,9 @@
 			"dynn_Zamacois"
 			"dynn_ZervigO_n"
 			"dynn_Zumbado"
-			"dynn_de_MayarI_"
-			"dynn_de_la_FE_"
-			"dynn_del_Riesgo"
+			{ "dynnp_de" "dynn_MayarI_" }
+			{ "dynnp_de" "dynn_la_FE_" }
+			{ "dynnp_del" "dynn_Riesgo" }
 		}
 		dynasty_names = {
 			"dynn_Abreu"
@@ -353,9 +353,9 @@
 			"dynn_Zamacois"
 			"dynn_ZervigO_n"
 			"dynn_Zumbado"
-			"dynn_de_MayarI_"
-			"dynn_de_la_FE_"
-			"dynn_del_Riesgo"
+			{ "dynnp_de" "dynn_MayarI_" }
+			{ "dynnp_de" "dynn_la_FE_" }
+			{ "dynnp_del" "dynn_Riesgo" }
 		}
 		
 		#Old Germanic type names as well as some modern stereotypical Cuban ones
@@ -538,15 +538,15 @@
 			"dynn_VizcaI_no"
 			"dynn_Woss"
 			"dynn_Zapete"
-			"dynn_de_Eguiluz"
-			"dynn_de_JesU_s"
-			"dynn_de_La_Rosa"
-			"dynn_de_MeriN_o"
-			"dynn_de_O_leo"
-			"dynn_de_Regla_Mota"
-			"dynn_de_la_Cruz"
-			"dynn_de_la_Maza"
-			"dynn_de_los_Santos"
+			{ "dynnp_de" "dynn_Eguiluz" }
+			{ "dynnp_de" "dynn_JesU_s" }
+			{ "dynnp_de" "dynn_La_Rosa" }
+			{ "dynnp_de" "dynn_MeriN_o" }
+			{ "dynnp_de" "dynn_O_leo" }
+			{ "dynnp_de" "dynn_Regla_Mota" }
+			{ "dynnp_de" "dynn_la_Cruz" }
+			{ "dynnp_de" "dynn_la_Maza" }
+			{ "dynnp_de" "dynn_los_Santos" }
 		}
 		dynasty_names = {
 			"dynn_Abreu"
@@ -650,15 +650,15 @@
 			"dynn_VizcaI_no"
 			"dynn_Woss"
 			"dynn_Zapete"
-			"dynn_de_Eguiluz"
-			"dynn_de_JesU_s"
-			"dynn_de_La_Rosa"
-			"dynn_de_MeriN_o"
-			"dynn_de_O_leo"
-			"dynn_de_Regla_Mota"
-			"dynn_de_la_Cruz"
-			"dynn_de_la_Maza"
-			"dynn_de_los_Santos"
+			{ "dynnp_de" "dynn_Eguiluz" }
+			{ "dynnp_de" "dynn_JesU_s" }
+			{ "dynnp_de" "dynn_La_Rosa" }
+			{ "dynnp_de" "dynn_MeriN_o" }
+			{ "dynnp_de" "dynn_O_leo" }
+			{ "dynnp_de" "dynn_Regla_Mota" }
+			{ "dynnp_de" "dynn_la_Cruz" }
+			{ "dynnp_de" "dynn_la_Maza" }
+			{ "dynnp_de" "dynn_los_Santos" }
 		}
 		
 		#Ancient Greek names
@@ -832,7 +832,7 @@
 			"dynn_Vizcarrondo"
 			"dynn_YunquE_"
 			"dynn_Zayas"
-			"dynn_de_Hostos"
+			{ "dynnp_de" "dynn_Hostos" }
 		}
 		dynasty_names = {
 			"dynn_A_lvarez"
@@ -924,7 +924,7 @@
 			"dynn_Vizcarrondo"
 			"dynn_YunquE_"
 			"dynn_Zayas"
-			"dynn_de_Hostos"
+			{ "dynnp_de" "dynn_Hostos" }
 		}
 		
 		#Latin and Biblical names
