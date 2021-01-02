@@ -1,0 +1,232 @@
+nautical_religion = {
+	family = rf_pagan
+	graphical_faith = pagan_gfx
+
+	pagan_roots = yes
+
+	doctrine = pagan_hostility_doctrine
+	
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_lay_clergy
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_none
+	doctrine = doctrine_consanguinity_cousins
+
+	#Crimes
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_shunned
+	doctrine = doctrine_deviancy_accepted
+	doctrine = doctrine_witchcraft_shunned
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+
+	traits = {
+		virtues = { brave wrathful vengeful lustful greedy }
+		sins = { craven deceitful forgiving chaste charitable }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+	
+	holy_order_names = {
+		{ name = "holy_order_blackbeards_crew" }
+		{ name = "holy_order_the_sparrows" }
+	}
+	
+	holy_order_maa = { seamen }
+	
+	localization = {
+		#HighGodName
+		HighGodName = nautical_high_god_name
+		HighGodNamePossessive = nautical_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = nautical_high_god_alternate
+		HighGodNameAlternatePossessive = nautical_high_god_alternate_possessive
+
+		#Creator
+		CreatorName = nautical_creator_god_name
+		CreatorNamePossessive = nautical_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = nautical_health_god_name
+		HealthGodNamePossessive = nautical_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = nautical_fertility_god_name
+		FertilityGodNamePossessive = nautical_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = nautical_wealth_god_name
+		WealthGodNamePossessive = nautical_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = nautical_household_god_name
+		HouseholdGodNamePossessive = nautical_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = nautical_fate_god_name
+		FateGodNamePossessive = nautical_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = nautical_knowledge_god_name
+		KnowledgeGodNamePossessive = nautical_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = nautical_war_god_name
+		WarGodNamePossessive = nautical_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = nautical_trickster_god_name
+		TricksterGodNamePossessive = nautical_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_IT
+		TricksterGodHerHis = CHARACTER_HERHIS_ITS
+		TricksterGodHerHim = CHARACTER_HERHIM_IT
+
+		#NightGod
+		NightGodName = nautical_night_god_name
+		NightGodNamePossessive = nautical_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_IT
+		NightGodHerHis = CHARACTER_HERHIS_ITS
+		NightGodHerHim = CHARACTER_HERHIM_IT
+
+		#WaterGod
+		WaterGodName = nautical_water_god_name
+		WaterGodNamePossessive = nautical_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		PantheonTerm = nautical_pantheon_the_gods_of_the_sea
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			nautical_high_god_name
+			nautical_high_god_name_alternate
+			nautical_good_god_la_sirene
+			nautical_good_god_saint_elmo
+			nautical_good_god_sinbad
+			nautical_good_god_albatross
+			nautical_good_god_thetis
+		}
+		DevilName = nautical_devil_name
+		DevilNamePossessive = nautical_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			nautical_devil_name
+			nautical_evil_god_kraken
+			nautical_evil_god_scylla
+			nautical_evil_god_flying_dutchman
+		}
+		HouseOfWorship = nautical_house_of_worship
+		HouseOfWorshipPlural = nautical_house_of_worship_plural
+		ReligiousSymbol = nautical_religious_symbol
+		ReligiousText = nautical_religious_text
+		ReligiousHeadName = nautical_religious_head_title
+		ReligiousHeadTitleName = nautical_religious_head_title_name
+		DevoteeMale = nautical_devotee
+		DevoteeMalePlural = nautical_devoteeplural
+		DevoteeFemale = nautical_devotee
+		DevoteeFemalePlural = nautical_devoteeplural
+		DevoteeNeuter = nautical_devotee
+		DevoteeNeuterPlural = nautical_devoteeplural
+		PriestMale = nautical_priest
+		PriestMalePlural = nautical_priest_plural
+		PriestFemale = nautical_priest
+		PriestFemalePlural = nautical_priest_plural
+		PriestNeuter = nautical_priest
+		PriestNeuterPlural = nautical_priest_plural
+		AltPriestTermPlural = paganism_priest_plural
+		BishopMale = nautical_bishop
+		BishopMalePlural = nautical_bishop_plural
+		BishopFemale = nautical_bishop
+		BishopFemalePlural = nautical_bishop_plural
+		BishopNeuter = nautical_bishop
+		BishopNeuterPlural = nautical_bishop_plural
+		DivineRealm = nautical_divine_realm
+		PositiveAfterLife = nautical_divine_realm
+		NegativeAfterLife = nautical_death_deity_name
+		DeathDeityName = nautical_death_deity_name
+		DeathDeityNamePossessive = nautical_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_SHE
+		DeathDeityHerHis = CHARACTER_HERHIS_HER
+		WitchGodName = nautical_evil_god_scylla
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_SHE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = mistress
+		WitchGodMotherFather = mother
+
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}
+
+	faiths = {
+		brethren = {
+			color = hsv { 0.3 0.2 0.2 }
+			icon = brethren
+			reformed_icon = brethren_reformed
+
+			doctrine = unreformed_faith_doctrine
+
+			doctrine = tenet_astrology
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_hedonistic #potential standin for whatever custom tenet we want to invent that makes raiding better
+		}
+		
+		#pelagic = { #needs custom loc
+		#	color = hsv { 0.8 0.8 0.8 }
+		#	icon = pelagic
+		#	reformed_icon = pelagic
+		#
+		#	doctrine = unreformed_faith_doctrine
+		#	
+		#	doctrine = doctrine_witchcraft_accepted
+		#
+		#	doctrine = tenet_astrology
+		#	doctrine = tenet_sky_burials #standin for sea burials, which will be added later
+		#	doctrine = tenet_pastoral_isolation #standin for whatever custom tenet we want to invent that gives them whale hunt decision
+		#}
+	}
+}
