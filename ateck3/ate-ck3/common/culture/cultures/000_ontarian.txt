@@ -14,15 +14,19 @@
 		color = { 0.25 0.5 0.1 }
 	
 		cadet_dynasty_names = {
+			"dynn_Abalos"
 			"dynn_Acheampong"
 			"dynn_Adebayo"
 			"dynn_Adetuyi"
+			"dynn_Agarwal"
 			"dynn_Ahluwalia"
 			"dynn_Ainslie"
+			"dynn_Alemu"
 			"dynn_Alexander"
 			"dynn_Alexanian"
 			"dynn_Alleyne"
 			"dynn_Anand"
+			"dynn_Arain"
 			"dynn_Armbrister"
 			"dynn_Armstrong"
 			"dynn_Arora"
@@ -54,11 +58,12 @@
 			"dynn_Choi"
 			"dynn_Chopra"
 			"dynn_Choudhary"
+			"dynn_Coloma"
 			"dynn_Cordeiro"
 			"dynn_Cunanan"
-			"dynn_D_Costa"
-			"dynn_D_Mello"
-			"dynn_D_Souza"
+			"dynn_D_pst_Costa"
+			"dynn_D_pst_Mello"
+			"dynn_D_pst_Souza"
 			"dynn_Danko"
 			"dynn_Dasilva"
 			"dynn_Davies"
@@ -88,6 +93,7 @@
 			"dynn_Gallant"
 			"dynn_Gardiner"
 			"dynn_Garg"
+			"dynn_Ghasemi"
 			"dynn_Giambrone"
 			"dynn_Gill"
 			"dynn_Goraya"
@@ -106,10 +112,13 @@
 			"dynn_Hoekstra"
 			"dynn_Holmes"
 			"dynn_Hussain"
+			"dynn_Ilagan"
 			"dynn_Inch"
 			"dynn_Ingratta"
 			"dynn_Innis"
+			"dynn_Ioannidis"
 			"dynn_Iqbal"
+			"dynn_Irfan"
 			"dynn_Iskander"
 			"dynn_Islington"
 			"dynn_Izumi"
@@ -121,6 +130,7 @@
 			"dynn_Kang"
 			"dynn_Karpoche"
 			"dynn_Kaur"
+			"dynn_Kazemi"
 			"dynn_Keele"
 			"dynn_Kellock"
 			"dynn_Kerr"
@@ -161,6 +171,7 @@
 			"dynn_Maitinsky"
 			"dynn_Malik"
 			"dynn_Mann"
+			"dynn_Mao"
 			"dynn_Mastronardi"
 			"dynn_McCabe"
 			"dynn_McCormack"
@@ -176,14 +187,17 @@
 			"dynn_Mehta"
 			"dynn_Metcalfe"
 			"dynn_Mistry"
+			"dynn_Mizrahi"
 			"dynn_Moayeddin"
 			"dynn_Mohammed"
 			"dynn_Monck"
+			"dynn_Moradi"
 			"dynn_Mountsberg"
 			"dynn_Murty"
 			"dynn_Myers"
 			"dynn_Natyshak"
 			"dynn_Naylor"
+			"dynn_Nazari"
 			"dynn_Neyagawa"
 			"dynn_Ng"
 			"dynn_Nguyen"
@@ -205,6 +219,7 @@
 			"dynn_Palmese"
 			"dynn_Pandit"
 			"dynn_Pang"
+			"dynn_Pangilinan"
 			"dynn_Pasternak"
 			"dynn_Patel"
 			"dynn_Pellatt"
@@ -216,6 +231,7 @@
 			"dynn_Porter"
 			"dynn_Prasad"
 			"dynn_Qureshi"
+			"dynn_Racco"
 			"dynn_Rahman"
 			"dynn_Ramsahai"
 			"dynn_Rana"
@@ -225,6 +241,7 @@
 			"dynn_Reeves"
 			"dynn_Reid"
 			"dynn_Romano"
+			"dynn_Roxas"
 			"dynn_Rufenach"
 			"dynn_Runnymede"
 			"dynn_Sabawy"
@@ -258,6 +275,7 @@
 			"dynn_Tolentino"
 			"dynn_Tong"
 			"dynn_Toor"
+			"dynn_Torabi"
 			"dynn_Toyota"
 			"dynn_Tran"
 			"dynn_Tsang"
@@ -288,23 +306,29 @@
 			"dynn_Zhang"
 			"dynn_Zhao"
 			"dynn_Zylstra"
+			{ "dynnp_de" "dynn_Belen" }
 			{ "dynnp_de" "dynn_Haviland" }
 			{ "dynnp_de" "dynn_Jong" }
+			{ "dynnp_de" "dynn_Vera" }
 			{ "dynnp_de" "dynn_Villa" }
 			{ "dynnp_van" "dynn_Egmond" }
 			{ "dynnp_van" "dynn_Helder" }
 			{ "dynnp_van" "dynn_Koeverden" }
 		}
 		dynasty_names = {
+			"dynn_Abalos"
 			"dynn_Acheampong"
 			"dynn_Adebayo"
 			"dynn_Adetuyi"
+			"dynn_Agarwal"
 			"dynn_Ahluwalia"
 			"dynn_Ainslie"
+			"dynn_Alemu"
 			"dynn_Alexander"
 			"dynn_Alexanian"
 			"dynn_Alleyne"
 			"dynn_Anand"
+			"dynn_Arain"
 			"dynn_Armbrister"
 			"dynn_Armstrong"
 			"dynn_Arora"
@@ -336,11 +360,12 @@
 			"dynn_Choi"
 			"dynn_Chopra"
 			"dynn_Choudhary"
+			"dynn_Coloma"
 			"dynn_Cordeiro"
 			"dynn_Cunanan"
-			"dynn_D_Costa"
-			"dynn_D_Mello"
-			"dynn_D_Souza"
+			"dynn_D_pst_Costa"
+			"dynn_D_pst_Mello"
+			"dynn_D_pst_Souza"
 			"dynn_Danko"
 			"dynn_Dasilva"
 			"dynn_Davies"
@@ -370,6 +395,7 @@
 			"dynn_Gallant"
 			"dynn_Gardiner"
 			"dynn_Garg"
+			"dynn_Ghasemi"
 			"dynn_Giambrone"
 			"dynn_Gill"
 			"dynn_Goraya"
@@ -388,10 +414,13 @@
 			"dynn_Hoekstra"
 			"dynn_Holmes"
 			"dynn_Hussain"
+			"dynn_Ilagan"
 			"dynn_Inch"
 			"dynn_Ingratta"
 			"dynn_Innis"
+			"dynn_Ioannidis"
 			"dynn_Iqbal"
+			"dynn_Irfan"
 			"dynn_Iskander"
 			"dynn_Islington"
 			"dynn_Izumi"
@@ -403,6 +432,7 @@
 			"dynn_Kang"
 			"dynn_Karpoche"
 			"dynn_Kaur"
+			"dynn_Kazemi"
 			"dynn_Keele"
 			"dynn_Kellock"
 			"dynn_Kerr"
@@ -443,6 +473,7 @@
 			"dynn_Maitinsky"
 			"dynn_Malik"
 			"dynn_Mann"
+			"dynn_Mao"
 			"dynn_Mastronardi"
 			"dynn_McCabe"
 			"dynn_McCormack"
@@ -458,14 +489,17 @@
 			"dynn_Mehta"
 			"dynn_Metcalfe"
 			"dynn_Mistry"
+			"dynn_Mizrahi"
 			"dynn_Moayeddin"
 			"dynn_Mohammed"
 			"dynn_Monck"
+			"dynn_Moradi"
 			"dynn_Mountsberg"
 			"dynn_Murty"
 			"dynn_Myers"
 			"dynn_Natyshak"
 			"dynn_Naylor"
+			"dynn_Nazari"
 			"dynn_Neyagawa"
 			"dynn_Ng"
 			"dynn_Nguyen"
@@ -487,6 +521,7 @@
 			"dynn_Palmese"
 			"dynn_Pandit"
 			"dynn_Pang"
+			"dynn_Pangilinan"
 			"dynn_Pasternak"
 			"dynn_Patel"
 			"dynn_Pellatt"
@@ -498,6 +533,7 @@
 			"dynn_Porter"
 			"dynn_Prasad"
 			"dynn_Qureshi"
+			"dynn_Racco"
 			"dynn_Rahman"
 			"dynn_Ramsahai"
 			"dynn_Rana"
@@ -507,6 +543,7 @@
 			"dynn_Reeves"
 			"dynn_Reid"
 			"dynn_Romano"
+			"dynn_Roxas"
 			"dynn_Rufenach"
 			"dynn_Runnymede"
 			"dynn_Sabawy"
@@ -540,6 +577,7 @@
 			"dynn_Tolentino"
 			"dynn_Tong"
 			"dynn_Toor"
+			"dynn_Torabi"
 			"dynn_Toyota"
 			"dynn_Tran"
 			"dynn_Tsang"
@@ -570,8 +608,10 @@
 			"dynn_Zhang"
 			"dynn_Zhao"
 			"dynn_Zylstra"
+			{ "dynnp_de" "dynn_Belen" }
 			{ "dynnp_de" "dynn_Haviland" }
 			{ "dynnp_de" "dynn_Jong" }
+			{ "dynnp_de" "dynn_Vera" }
 			{ "dynnp_de" "dynn_Villa" }
 			{ "dynnp_van" "dynn_Egmond" }
 			{ "dynnp_van" "dynn_Helder" }
@@ -583,7 +623,7 @@
 			Abbott Abdullah Abhishek Adam Aditya Adrian Ahmed Aidan Akhil Alamgir Alan Albert Alfred Alexander Ali Ambrose Ameer Andrew Angelo Angus Anson Anthony Anwar Archibald Arjun Arthur Arvind Asaf Ashok Ashwin Atwood
 			Baldwin Banting Barclay Benjamin Bennett Bernard Bertram Bessarion Borden Boris Bradley Brant Brian Brock Bruce Buckam Buell Burton Butler Byron
 			Calder Cameron Carleton Carrey Carson Carter Casimir Cecil Cedric Charles Chester Christian Christopher Churchill Clarence Claude Clifford Clyde Colborne Connor Crawford Crerar Curtis Cuthbert Cyril
-			Dalton Daniel D_Arcy Darshan Daryl David Davis Deepak Deforest Denton Denzel Derwyn Desmond Devon Dileep Dimitri Dinesh Dominic Donald Donovan Douglas Drake Drummond Durham Dwayne
+			Dalton Daniel D_pst_Arcy Darshan Daryl David Davis Deepak Deforest Denton Denzel Derwyn Desmond Devon Dileep Dimitri Dinesh Dominic Donald Donovan Douglas Drake Drummond Durham Dwayne
 			Edgar Edmund Edward Edwin Ellis Ellwood Emerson Emil Emmett Eric Ernest Errol Evan Ezekiel Ezra
 			Faisal Farley Ferdinand Fergus Feridun Fitzroy Fleming Fletcher Foster Francis Franklin Fraser Frederick Fessenden Freeman
 			Garrett Gavin George Gerald Gerard Gideon Gilbert Gordon Graham Graves Grewal Griffith Grover Gwillym
@@ -781,7 +821,7 @@
 			"dynn_Moreau"
 			"dynn_Morin"
 			"dynn_Moulton"
-			"dynn_O_Brien"
+			"dynn_O_pst_Brien"
 			"dynn_Ouderkirk"
 			"dynn_Oughton"
 			"dynn_Pakenham"
@@ -943,7 +983,7 @@
 			"dynn_Moreau"
 			"dynn_Morin"
 			"dynn_Moulton"
-			"dynn_O_Brien"
+			"dynn_O_pst_Brien"
 			"dynn_Ouderkirk"
 			"dynn_Oughton"
 			"dynn_Pakenham"
@@ -994,7 +1034,7 @@
 			Abbott Aberhart Addison Aeneas Albert Alfred Alistair Allan Amaury Ambrose Andrew Angus Anson Anthony Antrobus Archibald Argyll Arthur Atwood Augustus Aurelius Austin Aylesworth
 			Baldwin Banastre Banting Barclay Bellenden Bennett Bernard Bertram Borden Boscawen Braddock Bramwell Brant Brian Brock Bruce Buell Burton Butler
 			Calder Cameron Carleton Carlow Cecil Cedric Charles Chester Christian Christopher Churchill Clarence Claude Clifford Clive Colborne Colin Connor Cornwallis Crawford Crerar Crowell Curtis Cuthbert Cyril
-			Dallaire Dalton Daniel D_Arcy Daryl David Davis Deforest Derwyn Desmond Dominick Donald Donovan Douglas Drummond Dunstan Durham
+			Dallaire Dalton Daniel D_pst_Arcy Daryl David Davis Deforest Derwyn Desmond Dominick Donald Donovan Douglas Drummond Dunstan Durham
 			Ebenezer Edgar Edmund Edward Edwin Ellis Ellwood Emerson Erebus Ernest Erskine Ethelbert Eulas
 			Farley Fergus Fidelis Fitzgibbon Flavius Fleming Fletcher Foster Francis Franklin Fraser Frederick Freeman Fulvius
 			Garnet Garrett Gavin George Gerald Gerard Gideon Gilbert Goddard Gordon Graves Grierson Griffith Grover Gwillym
@@ -1258,8 +1298,8 @@
 			"dynn_Niro"
 			"dynn_Nordstrom"
 			"dynn_Northland"
-			"dynn_O_Hallarn"
-			"dynn_O_Malley"
+			"dynn_O_pst_Hallarn"
+			"dynn_O_pst_Malley"
 			"dynn_Olson"
 			"dynn_Orr"
 			"dynn_Paget"
@@ -1520,8 +1560,8 @@
 			"dynn_Niro"
 			"dynn_Nordstrom"
 			"dynn_Northland"
-			"dynn_O_Hallarn"
-			"dynn_O_Malley"
+			"dynn_O_pst_Hallarn"
+			"dynn_O_pst_Malley"
 			"dynn_Olson"
 			"dynn_Orr"
 			"dynn_Paget"
@@ -1601,7 +1641,7 @@
 			Aarne Ab Aino Aku Albin Alex Alf Allan Alvin Andy Angelo Art
 			Barclay Bennett Bernard Bill Brendan Brian Bruce
 			Caleb Carl Carmine Chris Chuck Claude Clifford Colton Cosimo Craig Creighton Curtis Cy
-			Dalton Dan D_Arcy Dave Dennis Derek Dino Don Doug Duncan
+			Dalton Dan D_pst_Arcy Dave Dennis Derek Dino Don Doug Duncan
 			Edgar Eddie Einar Elliott Elmer Elwood Enrico Eric Esko Eugene
 			Flint Floyd Frank Fred
 			Gary Garth George Gerald Gord Graham Greg Gus Guy
