@@ -539,54 +539,55 @@
 		}
 		
 		male_names = {
-			Aamer Aaron Abel Abram Adrian Ahmed Aikam Ajay Alex Ali Amarbir Amir Amrik Amuro Anders Angus Antony Arjan Arthur Attila
-			Baljit Balraj Barry Bennett Benson Bertram Bjarni Brandon Brent Brian Bruno Burkely Byron
-			Cameron Carson Cecil Charles Chartres Chase Christopher Clevin Clifford Colin Colton Connor Conrad Cory Craig Curtis
-			Damian Danton D_pst_Arcy Darien Davis Dev Douglas Drake
+			Aamer Aaron Abdul Abel Abram Adrian Ahmed Aikam Ajay Alex Ali Amarbir Amir Amrik Amuro Anders Angus Antony Arjan Arthur Attila
+			Baljit Balraj Barry Bennett Benson Bertram Bjarni Brandon Brent Brian Brody Bruno Burkely Byron
+			Cameron Carson Casey Cecil Chanying Charles Chartres Chase Chinyu Christopher Clevin Clifford Colin Colton Connor Conrad Cory Craig Curtis
+			Damian Danton D_pst_Arcy Darien Davis Declan Dev Douglas Drake
 			Easton Eckhart Edison Edward Elmore Elwy Eric Essam Evander Ezra
 			Faron Farouk Filip Finley Flynn Ford Foster Frank Frederick Fuller
-			Gage Garrett George Giuseppe Gordon Graham Gregor Greyson Gulzar Gurdev
+			Gage Garrett George Gordon Graham Gregor Greyson Gulzar Gurdev
 			Hamish Hampton Hans Harbance Harcus Harinder Harjit Harold Harrison Harvey Hassan Hayden Hellmut Hermann Hitoshi Holden Homer Howard Hugh Hussain Hyman Hyodo
 			Ingemar
-			Jackson Jacob Jagmeet Jagrup James Jasbir Jasmeet Jaswinder Jeremy John Johnder Jonah Jonathan Jordan Joshua Justin
-			Kaden Kaleb Karn Keaton Kenji Kennedy Kenneth Kevin Kiefer Koichi Kristian Kuldip
+			Jackson Jacob Jagmeet Jagrup James Jasbir Jasmeet Jaswinder Jeremy Jet Jian John Johnder Jonah Jonathan Jordan Joshua Justin
+			Kaden Kaleb Karim Karn Keaton Kenji Kennedy Kenneth Kevin Kiefer Koichi Kristian Kuldip
 			Lance Landon Lars Lee Leif Leslie Linus Linwood Lorne Louis Luke Lyle Lynden
-			Mackenzie Malcolm Marc Marek Mario Masajiro Masao Matthew Melville Michael Milan Mohamed Moore Morton Munmohan Murad Myles
+			Mackenzie Malcolm Marc Marek Mario Masajiro Masao Matthew Melville Michael Milan Ming Mohamed Moore Morton Munmohan Murad Myles
 			Nasser Nav Nehemiah Neil Nelson Nigel Nolan Norman
 			Olivier Omar Oren Osborne Osric Owen
 			Pasquale Patrick Percy Peter Powell Pybus
-			Rafe Raj Ralph Ramsay Randall Randeep Ranj Raymond Reece Reginald Rhett Rhys Riall Richard Riley Rodney Rolf Ronin Russell Ryan
-			Salvador Sandeep Sapuran Sawyer Scott Sebastian Seth Shaiju Shane Sheldon Sherwood Shinzo Simon Sperry Stanley Stefan Stuart Sukhman Sukhpal Sullivan Svend
-			Takayoshi Tanner Taslim Terry Tetsuro Thomas Tiarnan Tomekichi Torrance Travis Trevor Tristan Truman Trutch Tyler Tyrone Tyson
+			Qiuduo
+			Rafe Raj Ralph Ramsay Randall Randeep Ranj Raymond Reece Reginald Rhett Rhys Riall Richard Riley Rodney Rolf Ronin Rui Russell Ryan
+			Salvador Sandeep Sang Sapuran Sawyer Scott Sebastian Seth Shaiju Shane Sheldon Sherwood Shinzo Simon Sperry Stanley Stefan Stuart Sukhman Sukhpal Sullivan Svend
+			Takayoshi Tanner Taslim Terry Tetsuro Thanh Thomas Tiarnan Tomekichi Torrance Travis Trevor Tristan Truman Trutch Tyler Tyrone Tyson
 			Ujjal
 			Victor
-			Walker Wallace Walter Wayne Wayson Wentworth Wesley Wilfred William Wyatt
-			Yael Yannick Yoshio
-			Zijad
+			Wai Walker Wallace Walter Wayne Wayson Wentworth Wesley Wilfred William Wyatt
+			Yael Yannick Yoshio Yuet
+			Zhiting Zijad
 		}
 		female_names = {
 			Aaliyah Acacia Adelaide Adrianna Alice Alison Amanda Angela Anita Anne Arielle Ashleigh Audrey
 			Bernice Beverly Bianca Blake Bonite Brenna Briar Brittney 
-			Calla Camille Carina Carla Carmen Carrie Cassidy Chelsea Christine Claire Colette Colleen Cynthis
+			Calla Camille Carina Carla Carmen Carrie Cassidy Chelsea Christine Claire Colette Colleen Cynthia
 			Daniela Desiree Destiny Diane
 			Edith Eliana Eliza Elva Emily Emmeline Erica Erin Evangeline Evelyn
 			Farah Felicity
 			Gabriella Geneva Gillian
 			Hadley Harriet Hayley Hedy Helen 
-			Inez Ingrid Iona Iris Isabelle
+			Inez Ingrid Iona Iris Isabelle Ivy
 			Janet Jasmine Jennifer Jessica Jewel Jhet Joan Jody Joyce Judith Julianne June
-			Kailey Karen Kathryn Kayi Kendall Kenzie Kiara Kim Kimberly Kinsella  Kyla
-			Lauren Linda Livia Lucille Luna Lydia
-			Mabel Manjit Margaret Maryam Maxine Meena Megan Melissa Mercedes Missy Mobina Monica
-			Nancy Naomi Narima Neeru Nina Nora Norma
+			Kailey Karen Kathryn Kayi Kendall Kenzie Kiara Kim Kimberly Kyla
+			Lauren Lia Lin Linda Livia Lucille Luna Lydia
+			Mabel Mackenzie Manjit Margaret Maryam Maxine Meena Megan Mei Melissa Mercedes Missy Mobina Monica
+			Nancy Naomi Narima Neema Neeru Nikki Nina Nora Norma
 			Paisley Pamela Patricia Penelope Phaedra
 			Rachel Rachna Raven Reet Renee Ridley Rita Robin Rochelle Rose Ryder
-			Sandy Sarah Saskia Satinder Serenity Serinda Shahrzad Shanaya Shay Sheena Sierra Simran Sky Sofia Sonia Stephanie
+			Sandy Sarah Saskia Satinder Serenity Serinda Shahrzad Shanaya Shay Sheena Sheng Sierra Simran Sky Sofia Sonia Stephanie
 			Tara Taylor Tenley Tiffany
 			Unity
 			Vienna Victoria
 			Willow
-			Ying Yvonne
+			Yi Ying Yvonne
 			Zainab Zara Zoe
 		}
 		dynasty_of_location_prefix = "dynnp_de"
@@ -1741,39 +1742,48 @@
 		}
 		
 		male_names = {
-			Alberto Ander Antton Arco
-			Bayonne Bieter Blaine Bugler Butch Butte
-			Charbonneau Chase
-			Francois Frank Fremont
-			Gardener Gourka
-			Harley Harry Hemingway
-			Inazio
-			Jack Jaialdi Jebediah Jose
+			Alberto Ander Andoni Antton Arco
+			Baker Bayonne Bieter Blaine Brad Bugler Buhl Butch Butte
+			Cabar Camas Caspar Charbonneau Chase Corraler Craig Custer
+			Davis DeWitt Dermitt Diego Dierkes Don Duner Dutch
+			Eneko Ernst
+			Falconer Favor Feller Francois Frank Fremont
+			Gardener Gourka Gus
+			Hadai Hager Hall Harley Harry Hemingway
+			Inazio Ion Isaac
+			Jack Jackson Jaialdi Jebediah Jose
 			Kerman Ketch
 			Lant Laxalt LeBois Luken
-			Markel Mattin Max Michael Mikel Morley
-			Natlab
-			Otter
-			Pedro Perce Pierre Preston
-			Raygan Reed Reggs Rick Ross
-			Scade
-			Vial
+			Markel Massif Mattin Max Michael Mikel Morley
+			Napoleon Natlab Nikola Nock
+			Omer Otter Oxbow
+			Pedro Penit Perce Petri Pierce Pierre Preston
+			Raul Raygan Reed Reggs Rick Russ Russet
+			Scade Snell Stan Stevens
+			Vial Victor
+			Walt Wester
+			Xanti Xabier
+			Zori
 		}
 		female_names = {
-			Abbey Ada Amelia Anne
-			Bellevue Bonneville
-			Carey Cari Charlotte
-			Della
-			Emma
-			Garnet Gem Gernika
+			Abbey Ada Amelia Anne Ashley
+			Bellevue Blue Bonneville Bou
+			Carey Cari Cassa Charlotte Columbette
+			Della Doka
+			Emma Enid
+			Galena Garnet Gem Gernika Grace Grouse
 			Hilargy Holly
-			Idahome Izaro
-			Jean Joska Josune
-			Merid Monika
-			Nere Nikole
-			Payette Poky
-			Sally Sawt Shone Sue
-			Treasure
+			Ida Idahome Igone Izaro
+			Jean Jody Jone Joska Josune Judy June
+			Leire
+			Maite Maria May Maya Merid Monika
+			Nahia Nere Nikole
+			Oakley
+			Parma Payette Poky
+			Quail
+			Sally San Sawt Shone Shosh Soda Sue
+			Terese Treasure
+			Udane
 			Wickah
 		}
 
@@ -1828,7 +1838,9 @@
 			"dynn_Easton"
 			"dynn_Expresser"
 			"dynn_Fairfax"
+			"dynn_Farragut"
 			"dynn_Ferryman"
+			"dynn_Filovich"
 			"dynn_Fireman"
 			"dynn_Fornian"
 			"dynn_French"
@@ -1850,7 +1862,9 @@
 			"dynn_Inlandov"
 			"dynn_Isidore"
 			"dynn_Jacoby"
+			"dynn_Kershaw"
 			"dynn_Kettle"
+			"dynn_Komar"
 			"dynn_Kootenaier"
 			"dynn_Koval"
 			"dynn_Lavoie"
@@ -1866,7 +1880,9 @@
 			"dynn_McKenzie"
 			"dynn_McKinney"
 			"dynn_McLean"
+			"dynn_McLelland"
 			"dynn_McLeod"
+			"dynn_McNair"
 			"dynn_Missioner"
 			"dynn_Moyie"
 			"dynn_Myner"
@@ -1892,14 +1908,17 @@
 			"dynn_Rosenburg"
 			"dynn_Rudenko"
 			"dynn_Sherman"
+			"dynn_Shypitka"
 			"dynn_Silverstriker"
 			"dynn_Silverwood"
 			"dynn_Simpson"
 			"dynn_Smokejumper"
 			"dynn_Snaker"
 			"dynn_Sprague"
+			"dynn_Staschuk"
 			"dynn_Steamer"
 			"dynn_Thompson"
+			"dynn_Tiessen"
 			"dynn_Tokarev"
 			"dynn_Trojan"
 			"dynn_Truman"
@@ -1907,6 +1926,7 @@
 			"dynn_Vernon"
 			"dynn_Vincial"
 			"dynn_Volkoff"
+			"dynn_Wall"
 			"dynn_Wardner"
 			"dynn_Wasco"
 			"dynn_Whitetail"
@@ -1940,7 +1960,9 @@
 			"dynn_Easton"
 			"dynn_Expresser"
 			"dynn_Fairfax"
+			"dynn_Farragut"
 			"dynn_Ferryman"
+			"dynn_Filovich"
 			"dynn_Fireman"
 			"dynn_Fornian"
 			"dynn_French"
@@ -1962,7 +1984,9 @@
 			"dynn_Inlandov"
 			"dynn_Isidore"
 			"dynn_Jacoby"
+			"dynn_Kershaw"
 			"dynn_Kettle"
+			"dynn_Komar"
 			"dynn_Kootenaier"
 			"dynn_Koval"
 			"dynn_Lavoie"
@@ -1978,7 +2002,9 @@
 			"dynn_McKenzie"
 			"dynn_McKinney"
 			"dynn_McLean"
+			"dynn_McLelland"
 			"dynn_McLeod"
+			"dynn_McNair"
 			"dynn_Missioner"
 			"dynn_Moyie"
 			"dynn_Myner"
@@ -2004,14 +2030,17 @@
 			"dynn_Rosenburg"
 			"dynn_Rudenko"
 			"dynn_Sherman"
+			"dynn_Shypitka"
 			"dynn_Silverstriker"
 			"dynn_Silverwood"
 			"dynn_Simpson"
 			"dynn_Smokejumper"
 			"dynn_Snaker"
 			"dynn_Sprague"
+			"dynn_Staschuk"
 			"dynn_Steamer"
 			"dynn_Thompson"
+			"dynn_Tiessen"
 			"dynn_Tokarev"
 			"dynn_Trojan"
 			"dynn_Truman"
@@ -2019,6 +2048,7 @@
 			"dynn_Vernon"
 			"dynn_Vincial"
 			"dynn_Volkoff"
+			"dynn_Wall"
 			"dynn_Wardner"
 			"dynn_Wasco"
 			"dynn_Whitetail"
@@ -2029,43 +2059,46 @@
 		}
 		
 		male_names = {
-			Abraham Airman Alamot Alex
-			Benewah Brian
+			Abraham Airman Alamot Alex Andrew
+			Barry Benewah Bennett Bonaparte Brad Brian Bruce
 			Cameron Canfield Casmir Charbonneau Clark Coulee
-			David Douglas
+			David Donald Douglas
 			Ed Elk
 			Franklin Fraser
-			Garf Gary George Grancoulie Granger
+			Garf Gary George Gladstone Gordon Grancoulie Granger Grant Greg
 			Hatcher Haywood Heyburn Hudson
-			Joe John Joseph
+			James Jeff Joe John Joseph
 			Kaner Kelso Kenne
-			Laner Laski Lewisan Louis
+			Laner Larry Laski Lewisan Lorne Louis Lytton
 			Mack Merriweather Mike Moses Moskoh
-			Norton
+			Neil Norton
 			Osb
 			Perce Pilot Puller
-			Richard Ritz Ross
-			Seaman Sherman Sluice Snake Sotin
-			Taldo Tecumseh Toke Torial
+			Richard Ritz Rob Ron Ross
+			Seaman Selkirk Sherman Sluice Snake Sotin Stefen Stuart
+			Taldo Tecumseh Ted Tegart Toke Torial
 			Uinpac
-			Wardner William Worley
+			Wardner Wayne William Worley
 			York
 		}
 		female_names = {
-			Addy Alice Amy Anastasia Andle
-			Bellevue
-			Cassim Clarkia Coeur Colleen Columbia
+			Addy Alice Amy Anastasia Andle Aspen
+			Bellevue Brooke
+			Cassim Celista Clarkia Coeur Colleen Columbia
 			Dessa
-			Eliza, Ellen Elum
+			Eliza Ellen Elum Erin Evelyn
 			Fairchild
 			Garnet Gem
 			Heckla
-			July
+			July Juniper
 			Kenzie Kully
 			Leah Lemhi Libby Lillie Liza
-			Marie Miah Missi Mulie
+			Mackenzie Mara Marble Marie Miah Missi Mulie
+			Nancy Nicola
+			Oreille
 			Page Palus Panhan Petua
-			Sandy Saynt
+			Sandy Savona Saynt
+			Tatiana Tracy Tranquille
 			Umatilla
 			Wallowa Wenatch Wicky
 			Yakama

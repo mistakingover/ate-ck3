@@ -709,10 +709,10 @@
 			{ "dynnp_d" "dynn_Irumberry" }
 			{ "dynnp_d" "dynn_Outaragasipi" }
 			{ "dynnp_d" "dynn_Urf_e_act_" }
-			{ "dynnp_d" "dynn_Youville" }
 			{ "dynnp_de" "dynn_Ban_e_act_" }
 			{ "dynnp_de" "dynn_Bienville" }
 			{ "dynnp_de" "dynn_Boucherville" }
+			{ "dynnp_de" "dynn_Carufel" }
 			{ "dynnp_de" "dynn_Cramah_e_act_" }
 			{ "dynnp_de" "dynn_Daveluyville" }
 			{ "dynnp_de" "dynn_Langloiserie" }
@@ -1011,10 +1011,10 @@
 			{ "dynnp_d" "dynn_Irumberry" }
 			{ "dynnp_d" "dynn_Outaragasipi" }
 			{ "dynnp_d" "dynn_Urf_e_act_" }
-			{ "dynnp_d" "dynn_Youville" }
 			{ "dynnp_de" "dynn_Ban_e_act_" }
 			{ "dynnp_de" "dynn_Bienville" }
 			{ "dynnp_de" "dynn_Boucherville" }
+			{ "dynnp_de" "dynn_Carufel" }
 			{ "dynnp_de" "dynn_Cramah_e_act_" }
 			{ "dynnp_de" "dynn_Daveluyville" }
 			{ "dynnp_de" "dynn_Langloiserie" }
@@ -1115,6 +1115,7 @@
 	
 		cadet_dynasty_names = {
 			"dynn_Amirault"
+			"dynn_Anglehart"
 			"dynn_Arsenault"
 			"dynn_Aucoin"
 			"dynn_Audet"
@@ -1143,7 +1144,6 @@
 			"dynn_Breau"
 			"dynn_Brideau"
 			"dynn_Caissie"
-			"dynn_Carrier"
 			"dynn_Catalogne"
 			"dynn_Cayouette"
 			"dynn_Chaussegros"
@@ -1287,6 +1287,7 @@
 		}
 		dynasty_names = {
 			"dynn_Amirault"
+			"dynn_Anglehart"
 			"dynn_Arsenault"
 			"dynn_Aucoin"
 			"dynn_Audet"
@@ -1315,7 +1316,6 @@
 			"dynn_Breau"
 			"dynn_Brideau"
 			"dynn_Caissie"
-			"dynn_Carrier"
 			"dynn_Catalogne"
 			"dynn_Cayouette"
 			"dynn_Chaussegros"
@@ -1465,11 +1465,11 @@
 			Dagobert Daniel David Denis Dominic Donatien
 			Edmond E_act_douard Elvy E_act_mery E_act_mile E_act_ric E_act_tienne Euclide Eustache Eymard
 			F_e_act_lix Fernand Firmin Fortunat
-			Ga_e_uml_l Gaspard Gaurhept G_e_act_d_e_act_on Georges G_e_act_rald G_e_act_rard Germain Gilbert Gilles Godefroi Gontran Gr_e_act_goire Guilmond
+			Ga_e_uml_l Gaspard Gaurhept G_e_act_d_e_act_on Georges G_e_act_rald G_e_act_rard Germain Gilbert Gildard Gilles Godefroi Gontran Gr_e_act_goire Guilmond
 			Hector H_e_act_dard H_e_act_liodore Henri Heribert Hermel Herm_e_act_n_e_act_gilde Hidulphe Hilaire Hippolyte Honor_e_act_ Hubert
 			Ir_e_act_n_e_act_e Isaie Isidore
 			Jacques Jean Jean-Alfred Jean-Baptiste Jean-Claude Jean-Eudes Jean-Guy Jean-Louis Jean-Marie Jean-Paul Jean-Pierre Jean-Robert Joseph Joseph-Antoine Joseph-Aur_e_act_le Joseph-Nicolas Joseph-Octave
-			Laurent L_e_act_onard L_e_act_onide L_e_act_vite Louis Louis-Hippolyte Louis-Joseph Louis-Philippe Louis-Prudent
+			Laurent L_e_act_o L_e_act_onard L_e_act_onide L_e_act_vite Louis Louis-Hippolyte Louis-Joseph Louis-Philippe Louis-Prudent
 			Macaire Marcel Martin Mathieu Mathurin Maurice Maximin M_e_act_dard Mervin Michel Michel-Ange
 			Napol_e_act_on Nathana_e_uml_l Neil Nicolas No_e_uml_l Norbert
 			Octave Odilon Olivier Omer Ozias
@@ -1485,7 +1485,7 @@
 			Zachaire Zo_e_uml_l
 		}
 		female_names = {
-			Acadie Ad_e_grv_le Allison Ald_e_act_a Anabelle Andrea Ang_e_grv_le Anne Anne-Marie Anne-RenE_e Anne-Sophie Antoinette Antonine
+			Acadie Ad_e_grv_le Allison Ald_e_act_a Ald_e_act_oda Anabelle Andrea Ang_e_grv_le Anne Anne-Marie Anne-RenE_e Anne-Sophie Antoinette Antonine
 			B_e_act_atrix Bernadette Blanche Brigitte
 			Catherine C_e_act_line Cheryl Christianne Christine Claire Claudette Claudine Clotilde Corinne
 			Denise Diane Dominique
