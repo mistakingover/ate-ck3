@@ -370,16 +370,16 @@
 			"dynn_Somerville"
 			"dynn_Song"
 			"dynn_Srivastava"
-			"dynn_St__prd_Andrew"
-			"dynn_St__prd_Clair"
-			"dynn_St__prd_George"
-			"dynn_St__prd_James"
-			"dynn_St__prd_Lawrence"
-			"dynn_St__prd_Martin"
-			"dynn_St__prd_Michael"
-			"dynn_St__prd_Patrick"
-			"dynn_St__prd_Paul"
-			"dynn_St__prd_Thomas"
+			"dynn_St_prd__Andrew"
+			"dynn_St_prd__Clair"
+			"dynn_St_prd__George"
+			"dynn_St_prd__James"
+			"dynn_St_prd__Lawrence"
+			"dynn_St_prd__Martin"
+			"dynn_St_prd__Michael"
+			"dynn_St_prd__Patrick"
+			"dynn_St_prd__Paul"
+			"dynn_St_prd__Thomas"
 			"dynn_Stankovic"
 			"dynn_Stavropoulos"
 			"dynn_Stratas"
@@ -444,16 +444,16 @@
 			"dynn_Zhang"
 			"dynn_Zhao"
 			"dynn_Zylstra"
-			{ "dynnp_de" "dynn_Belen" }
-			{ "dynnp_de" "dynn_Boer" }
-			{ "dynnp_de" "dynn_Haviland" }
-			{ "dynnp_de" "dynn_Jong" }
-			{ "dynnp_de" "dynn_Vera" }
-			{ "dynnp_de" "dynn_Villa" }
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Helder" }
-			{ "dynnp_van" "dynn_Koeverden" }
-			{ "dynnp_van" "dynn_Sluytman" }
+			"dynn_de_Belen"
+			"dynn_de_Boer"
+			"dynn_de_Haviland"
+			"dynn_de_Jong"
+			"dynn_de_Vera"
+			"dynn_de_Villa"
+			"dynn_van_Egmond"
+			"dynn_van_Helder"
+			"dynn_van_Koeverden"
+			"dynn_van_Sluytman"
 		}
 		dynasty_names = {
 			"dynn_Abalos"
@@ -812,16 +812,16 @@
 			"dynn_Somerville"
 			"dynn_Song"
 			"dynn_Srivastava"
-			"dynn_St__prd_Andrew"
-			"dynn_St__prd_Clair"
-			"dynn_St__prd_George"
-			"dynn_St__prd_James"
-			"dynn_St__prd_Lawrence"
-			"dynn_St__prd_Martin"
-			"dynn_St__prd_Michael"
-			"dynn_St__prd_Patrick"
-			"dynn_St__prd_Paul"
-			"dynn_St__prd_Thomas"
+			"dynn_St_prd__Andrew"
+			"dynn_St_prd__Clair"
+			"dynn_St_prd__George"
+			"dynn_St_prd__James"
+			"dynn_St_prd__Lawrence"
+			"dynn_St_prd__Martin"
+			"dynn_St_prd__Michael"
+			"dynn_St_prd__Patrick"
+			"dynn_St_prd__Paul"
+			"dynn_St_prd__Thomas"
 			"dynn_Stankovic"
 			"dynn_Stavropoulos"
 			"dynn_Stratas"
@@ -886,23 +886,23 @@
 			"dynn_Zhang"
 			"dynn_Zhao"
 			"dynn_Zylstra"
-			{ "dynnp_de" "dynn_Belen" }
-			{ "dynnp_de" "dynn_Boer" }
-			{ "dynnp_de" "dynn_Haviland" }
-			{ "dynnp_de" "dynn_Jong" }
-			{ "dynnp_de" "dynn_Vera" }
-			{ "dynnp_de" "dynn_Villa" }
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Helder" }
-			{ "dynnp_van" "dynn_Koeverden" }
-			{ "dynnp_van" "dynn_Sluytman" }
+			"dynn_de_Belen"
+			"dynn_de_Boer"
+			"dynn_de_Haviland"
+			"dynn_de_Jong"
+			"dynn_de_Vera"
+			"dynn_de_Villa"
+			"dynn_van_Egmond"
+			"dynn_van_Helder"
+			"dynn_van_Koeverden"
+			"dynn_van_Sluytman"
 		}
 		
 		#Most names are 19th century inspired with a heavy amount of Arabic/Muslim names as well as some Tamil, Hindu, Punjabi, Polish, Italian, Ukrainian, Iranian, and Croatian names
 		male_names = {
 			Abbott Abdullah Abhishek Adam Aditya Adrian Ahmed Aidan Akhil Alamgir Albert Alexander Alfred Ali Allan Alonzo Alvin Amar Ambrose Ameer Andrew Angelo Angus Anson Anthony Anwar Archibald Arjun Arthur Arvind Asaf Ashok Ashwin Atwood Aubrey
 			Baldwin Banting Barclay Benjamin Bennett Bernard Bertram Bessarion Blair Borden Boris Bradley Branko Brant Brian Brock Brody Bruce Buckam Buell Burton Butler Byron
-			Cabral Calder Cameron Carleton Carrey Carson Carter Casimir Cecil Cedric Charles Chester Christian Christopher Churchill Clarence Claude Clifford Clyde Colborne Connor Crawford Crerar Curtis Cuthbert Cyril
+			Cabral Calder Calum Cameron Carleton Carrey Carson Carter Casimir Cecil Cedric Charles Chester Christian Christopher Churchill Clarence Claude Clifford Clyde Colborne Connor Crawford Crerar Curtis Cuthbert Cyril
 			D_pst_Arcy Dalton Daniel Darshan Daryl David Davis Declan Deepak Deforest Denton Denzel Derwyn Desmond Devendra Devon Dileep Dimitri Dinesh Dominic Donald Donovan Douglas Drake Drummond Durham Dusan Dwayne
 			Edgar Edmund Edward Edwin Ejaz Ellis Ellwood Emerson Emil Emmett Eric Ernest Errol Evan Ezekiel Ezra
 			Faisal Farley Ferdinand Fergus Feridun Feroz Fessenden Fitzroy Fleming Fletcher Foster Francis Franklin Fraser Frederick Freeman
@@ -1162,10 +1162,11 @@
 			"dynn_Strachan"
 			"dynn_Tessier"
 			"dynn_Tremblay"
-			"dynn_VanDusen"
-			"dynn_VanKleek"
-			"dynn_VanKoughnet"
-			"dynn_VanVlack"
+			"dynn_Van_Allen"
+			"dynn_Van_Dusen"
+			"dynn_Van_Kleek"
+			"dynn_Van_Koughnet"
+			"dynn_Van_Vlack"
 			"dynn_Vanclief"
 			"dynn_Vandenbussche"
 			"dynn_Vanderheyden"
@@ -1182,11 +1183,10 @@
 			"dynn_Woodcock"
 			"dynn_Yakabuski"
 			"dynn_Zhang"
-			{ "dynnp_Van" "dynn_Allen" }
-			{ "dynnp_de" "dynn_Rottenberg" }
-			{ "dynnp_van" "dynn_Holst" }
-			{ "dynnp_van" "dynn_Straubenzee" }
-			{ "dynnp_van" "dynn_Vliet" }
+			"dynn_de_Rottenberg"
+			"dynn_van_Holst"
+			"dynn_van_Straubenzee"
+			"dynn_van_Vliet"
 		}
 		dynasty_names = {
 			"dynn_Abdo"
@@ -1364,10 +1364,11 @@
 			"dynn_Strachan"
 			"dynn_Tessier"
 			"dynn_Tremblay"
-			"dynn_VanDusen"
-			"dynn_VanKleek"
-			"dynn_VanKoughnet"
-			"dynn_VanVlack"
+			"dynn_Van_Allen"
+			"dynn_Van_Dusen"
+			"dynn_Van_Kleek"
+			"dynn_Van_Koughnet"
+			"dynn_Van_Vlack"
 			"dynn_Vanclief"
 			"dynn_Vandenbussche"
 			"dynn_Vanderheyden"
@@ -1384,11 +1385,10 @@
 			"dynn_Woodcock"
 			"dynn_Yakabuski"
 			"dynn_Zhang"
-			{ "dynnp_Van" "dynn_Allen" }
-			{ "dynnp_de" "dynn_Rottenberg" }
-			{ "dynnp_van" "dynn_Holst" }
-			{ "dynnp_van" "dynn_Straubenzee" }
-			{ "dynnp_van" "dynn_Vliet" }
+			"dynn_de_Rottenberg"
+			"dynn_van_Holst"
+			"dynn_van_Straubenzee"
+			"dynn_van_Vliet"
 		}
 		
 		#Very stereotypical Victorian English and 19th century style names
