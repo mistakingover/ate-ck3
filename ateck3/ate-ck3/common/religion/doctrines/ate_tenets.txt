@@ -406,7 +406,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "anglican"
+						SCOPE = faith:anglican
 					}
 					desc = tenet_prima_scriptura
 				}
@@ -1058,7 +1058,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "guadalupe"
+						SCOPE = faith:guadalupan
 					}
 					desc = tenet_santa_cristiada_name
 				}
@@ -1069,7 +1069,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "guadalupe"
+						SCOPE = faith:guadalupan
 					}
 					desc = tenet_santa_cristiada_desc
 				}
@@ -1122,7 +1122,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "guadalupe"
+						SCOPE = faith:guadalupan
 					}
 					desc = tenet_patroness_of_the_new_world_name
 				}
@@ -1133,7 +1133,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "guadalupe"
+						SCOPE = faith:guadalupan
 					}
 					desc = tenet_patroness_of_the_new_world_desc
 				}
@@ -1275,7 +1275,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "el_santo"
+						SCOPE = faith:el_santo
 					}
 					desc = tenet_masked_friars_name
 				}
@@ -1286,7 +1286,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "el_santo"
+						SCOPE = faith:el_santo
 					}
 					desc = tenet_masked_friars_desc
 				}
@@ -1392,7 +1392,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "el_santo"
+						SCOPE = faith:el_santo
 					}
 					desc = tenet_saintly_justice_name
 				}
@@ -1403,7 +1403,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "el_santo"
+						SCOPE = faith:el_santo
 					}
 					desc = tenet_saintly_justice_desc
 				}
@@ -1446,7 +1446,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "insular"
+						SCOPE = faith:insular_carribean
 					}
 					desc = tenet_tropical_isolation
 				}
@@ -1504,7 +1504,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "santa_muerte"
+						SCOPE = faith:santa_muerte
 					}
 					desc = tenet_all_equal_in_death_name
 				}
@@ -1515,7 +1515,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						has_icon = "santa_muerte"
+						SCOPE = faith:santa_muerte
 					}
 					desc = tenet_all_equal_in_death_desc
 				}
@@ -2023,9 +2023,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						OR = {
-							has_icon = "celeste"
-						}
+						SCOPE = faith:celestism
 					}
 					desc = tenet_messianic_figures_name
 				}
@@ -2058,8 +2056,8 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							has_icon = "falling_star"
-							has_icon = "moravian"
+							SCOPE = faith:moravian
+							SCOPE = faith:falling_star
 						}
 					}
 					desc = tenet_lovefeasts

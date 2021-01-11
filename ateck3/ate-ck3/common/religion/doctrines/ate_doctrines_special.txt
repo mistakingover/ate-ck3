@@ -1,4 +1,4 @@
-special_tolerance = {
+﻿special_tolerance = {
 	group = "main_group"
 	
 	is_available_on_create = {
@@ -25,7 +25,15 @@ special_tolerance = {
 			hostility_others = 2
 		}
 	}
-	
+
+	special_doctrine_syllabus_of_errors = {
+		parameters = {
+			hostility_same_religion = 3
+			hostility_same_family = 3
+			hostility_others = 3
+		}
+	}
+
 	special_doctrine_latin_rite = { #this can't be selected on creating a new faith
 		parameters = {
 			hostility_override_special_doctrine_latin_rite = 1
