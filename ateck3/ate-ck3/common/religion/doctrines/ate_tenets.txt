@@ -1022,6 +1022,26 @@
 		}		
 	}
 
+	tenet_non_conformist_conscience = {
+		icon = core_tenet_cabal
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			always = yes
+		}
+		parameters = {
+			tenet_adaptive_conversion_resistance = yes
+		}
+		character_modifier = {
+			same_faith_opinion = 10
+			tolerance_advantage_mod = 2
+		}		
+	}
+
+
 	#############################################################
 	
 	tenet_aniconism = {

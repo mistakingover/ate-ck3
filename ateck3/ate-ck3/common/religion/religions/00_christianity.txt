@@ -1478,6 +1478,31 @@
 				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
 				{ name = "holy_order_national_cathedral_association" coat_of_arms = "ho_national_cathedral_association"  }
 			}
+		}
+		nonconformism = {
+			color = { 0.55 0.7 0.8 }
+			graphical_faith = "catholic_gfx"
+			icon = nonconformism
+						
+			#Special Tolerance
+			doctrine = special_doctrine_mainstream_protestant
+
+			#Tenets
+			doctrine = tenet_sola_fide
+			doctrine = tenet_sola_scriptura
+			doctrine = tenet_non_conformist_conscience
+			
+			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
+				{ name = "holy_order_national_cathedral_association" coat_of_arms = "ho_national_cathedral_association"  }
+			}
 		}		
 		anglican = {
 			color = { 0.6 0.65 0.8 }
