@@ -1041,6 +1041,49 @@
 		}		
 	}
 
+	tenet_constituyente_primario = {
+		icon = core_tenet_sword
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			always = no
+		}
+
+		can_pick = {
+			custom_description = {
+				text = incompatible_tenet_pacifism_trigger
+				NOT = { flag:tenet_pacifism = { is_in_list = selected_doctrines } }
+			}
+		}
+
+		parameters = {
+			cheaper_holy_wars_active = yes
+			great_holy_wars_active = yes
+			ghw_no_hof_conversion_buffs_active = yes
+			pilgrimage_decision_active = yes
+		}
+	}
+
+	tenet_national_pantheon = {
+		icon = core_tenet_altar
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			always = no
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			select_national_pantheon_active = yes
+		}
+	}
 
 	#############################################################
 	
