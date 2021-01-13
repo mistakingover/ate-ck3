@@ -416,7 +416,6 @@
 			Zachary
 		}
 		female_names = {
-			
 			Abby Aganetha Allison Anna
 			Barbara Becky Betty
 			Candice Carrie Cindy
@@ -436,6 +435,399 @@
 			Wanda
 		}
 		dynasty_of_location_prefix = "dynnp_von"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	czexan = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_Bajer"
+			"dynn_Barta"
+			"dynn_Bartosh"
+			"dynn_Beran"
+			"dynn_Bertsch"
+			"dynn_Beseda"
+			"dynn_Bludau"
+			"dynn_Bohac"
+			"dynn_Brosch"
+			"dynn_Bucanek"
+			"dynn_Bujnoch"
+			"dynn_Canik"
+			"dynn_Cernosek"
+			"dynn_Cervenka"
+			"dynn_Chovanec
+			"dynn_Chudej"
+			"dynn_Coufal"
+			"dynn_Cufr"
+			"dynn_Darilek"
+			"dynn_Dornak"
+			"dynn_Drozd"
+			"dynn_Dudik"
+			"dynn_Dvorak"
+			"dynn_Etzel"
+			"dynn_Fojtik"
+			"dynn_Fritsch"
+			"dynn_Gerik"
+			"dynn_Goerig"
+			"dynn_Hajek"
+			"dynn_Halamicek"
+			"dynn_Henneke"
+			"dynn_Hlavaty"
+			"dynn_Holecek"
+			"dynn_Horak"
+			"dynn_Hrncir"
+			"dynn_Hromadka"
+			"dynn_Hutyra"
+			"dynn_Hykel"
+			"dynn_Jakubik"
+			"dynn_Jalufka"
+			"dynn_Janda"
+			"dynn_Janek"
+			"dynn_Jansky"
+			"dynn_Jares"
+			"dynn_Jarosek"
+			"dynn_Jezisek"
+			"dynn_Junek"
+			"dynn_Jurecka"
+			"dynn_Kaderka"
+			"dynn_Kaiser"
+			"dynn_Kallus"
+			"dynn_Kaluza"
+			"dynn_Kapavik"
+			"dynn_Karlik"
+			"dynn_Kaska"
+			"dynn_Kasmiersky"
+			"dynn_Klekar"
+			"dynn_Klesel"
+			"dynn_Klimitchek"
+			"dynn_Kloesel"
+			"dynn_Knapek"
+			"dynn_Knesek"
+			"dynn_Kocian"
+			"dynn_Kocurek"
+			"dynn_Kolar"
+			"dynn_Kostecka"
+			"dynn_Kovar"
+			"dynn_Krenek"
+			"dynn_Kresta"
+			"dynn_Kubala"
+			"dynn_Kubena"
+			"dynn_Kucera"
+			"dynn_Kudelka"
+			"dynn_Kulhanek"
+			"dynn_Kutscherousky"
+			"dynn_Labaj"
+			"dynn_Lednicky"
+			"dynn_Machacek"
+			"dynn_Macik"
+			"dynn_Malota"
+			"dynn_Marek"
+			"dynn_Maresh"
+			"dynn_Mascheck"
+			"dynn_Matocha"
+			"dynn_Matula"
+			"dynn_Matus"
+			"dynn_Michalsky"
+			"dynn_Moeller"
+			"dynn_Mozisek"
+			"dynn_Muska"
+			"dynn_Muzny"
+			"dynn_Mynarcik"
+			"dynn_Nemec"
+			"dynn_Nors"
+			"dynn_Novosad"
+			"dynn_Ofczarzak"
+			"dynn_Ondrasek"
+			"dynn_Orsak"
+			"dynn_Pavelka"
+			"dynn_Pavlicek"
+			"dynn_Pekar"
+			"dynn_Picha"
+			"dynn_Pietsch"
+			"dynn_Podsednik"
+			"dynn_Pohl"
+			"dynn_Pokluda"
+			"dynn_Polansky"
+			"dynn_Polasek"
+			"dynn_Pratka"
+			"dynn_Prazak"
+			"dynn_Pustejovsky"
+			"dynn_Pustka"
+			"dynn_Rejcek"
+			"dynn_Repek"
+			"dynn_Rother"
+			"dynn_Roznos"
+			"dynn_Roznovsky"
+			"dynn_Schielak"
+			"dynn_Schindler"
+			"dynn_Schley"
+			"dynn_Sebesta"
+			"dynn_Sefcik"
+			"dynn_Selucky"
+			"dynn_Sembera"
+			"dynn_Shirocky"
+			"dynn_Simcik"
+			"dynn_Sklar"
+			"dynn_Skrabanek"
+			"dynn_Skrhak"
+			"dynn_Smolik"
+			"dynn_Snider"
+			"dynn_Snokhous"
+			"dynn_Sodek"
+			"dynn_Soukup"
+			"dynn_Srubar"
+			"dynn_Steffek"
+			"dynn_Stojanik"
+			"dynn_Strmiska"
+			"dynn_Sulak"
+			"dynn_Supak"
+			"dynn_Surovik"
+			"dynn_Svetlik"
+			"dynn_Sykora"
+			"dynn_Urbanovsky"
+			"dynn_Vajdak"
+			"dynn_Vanek"
+			"dynn_Vasut"
+			"dynn_Vavra"
+			"dynn_Veselka"
+			"dynn_Vitek"
+			"dynn_Vochoska"
+			"dynn_Vrabel"
+			"dynn_Vrana"
+			"dynn_Vrba"
+			"dynn_Zahirniak"
+			"dynn_Zapalac"
+			"dynn_Zavodny"
+			"dynn_Zboril"
+			"dynn_Zgabay"
+			"dynn_Zrubek"
+		}
+		dynasty_names = {
+			"dynn_Bajer"
+			"dynn_Barta"
+			"dynn_Bartosh"
+			"dynn_Beran"
+			"dynn_Bertsch"
+			"dynn_Beseda"
+			"dynn_Bludau"
+			"dynn_Bohac"
+			"dynn_Brosch"
+			"dynn_Bucanek"
+			"dynn_Bujnoch"
+			"dynn_Canik"
+			"dynn_Cernosek"
+			"dynn_Cervenka"
+			"dynn_Chovanec
+			"dynn_Chudej"
+			"dynn_Coufal"
+			"dynn_Cufr"
+			"dynn_Darilek"
+			"dynn_Dornak"
+			"dynn_Drozd"
+			"dynn_Dudik"
+			"dynn_Dvorak"
+			"dynn_Etzel"
+			"dynn_Fojtik"
+			"dynn_Fritsch"
+			"dynn_Gerik"
+			"dynn_Goerig"
+			"dynn_Hajek"
+			"dynn_Halamicek"
+			"dynn_Henneke"
+			"dynn_Hlavaty"
+			"dynn_Holecek"
+			"dynn_Horak"
+			"dynn_Hrncir"
+			"dynn_Hromadka"
+			"dynn_Hutyra"
+			"dynn_Hykel"
+			"dynn_Jakubik"
+			"dynn_Jalufka"
+			"dynn_Janda"
+			"dynn_Janek"
+			"dynn_Jansky"
+			"dynn_Jares"
+			"dynn_Jarosek"
+			"dynn_Jezisek"
+			"dynn_Junek"
+			"dynn_Jurecka"
+			"dynn_Kaderka"
+			"dynn_Kaiser"
+			"dynn_Kallus"
+			"dynn_Kaluza"
+			"dynn_Kapavik"
+			"dynn_Karlik"
+			"dynn_Kaska"
+			"dynn_Kasmiersky"
+			"dynn_Klekar"
+			"dynn_Klesel"
+			"dynn_Klimitchek"
+			"dynn_Kloesel"
+			"dynn_Knapek"
+			"dynn_Knesek"
+			"dynn_Kocian"
+			"dynn_Kocurek"
+			"dynn_Kolar"
+			"dynn_Kostecka"
+			"dynn_Kovar"
+			"dynn_Krenek"
+			"dynn_Kresta"
+			"dynn_Kubala"
+			"dynn_Kubena"
+			"dynn_Kucera"
+			"dynn_Kudelka"
+			"dynn_Kulhanek"
+			"dynn_Kutscherousky"
+			"dynn_Labaj"
+			"dynn_Lednicky"
+			"dynn_Machacek"
+			"dynn_Macik"
+			"dynn_Malota"
+			"dynn_Marek"
+			"dynn_Maresh"
+			"dynn_Mascheck"
+			"dynn_Matocha"
+			"dynn_Matula"
+			"dynn_Matus"
+			"dynn_Michalsky"
+			"dynn_Moeller"
+			"dynn_Mozisek"
+			"dynn_Muska"
+			"dynn_Muzny"
+			"dynn_Mynarcik"
+			"dynn_Nemec"
+			"dynn_Nors"
+			"dynn_Novosad"
+			"dynn_Ofczarzak"
+			"dynn_Ondrasek"
+			"dynn_Orsak"
+			"dynn_Pavelka"
+			"dynn_Pavlicek"
+			"dynn_Pekar"
+			"dynn_Picha"
+			"dynn_Pietsch"
+			"dynn_Podsednik"
+			"dynn_Pohl"
+			"dynn_Pokluda"
+			"dynn_Polansky"
+			"dynn_Polasek"
+			"dynn_Pratka"
+			"dynn_Prazak"
+			"dynn_Pustejovsky"
+			"dynn_Pustka"
+			"dynn_Rejcek"
+			"dynn_Repek"
+			"dynn_Rother"
+			"dynn_Roznos"
+			"dynn_Roznovsky"
+			"dynn_Schielak"
+			"dynn_Schindler"
+			"dynn_Schley"
+			"dynn_Sebesta"
+			"dynn_Sefcik"
+			"dynn_Selucky"
+			"dynn_Sembera"
+			"dynn_Shirocky"
+			"dynn_Simcik"
+			"dynn_Sklar"
+			"dynn_Skrabanek"
+			"dynn_Skrhak"
+			"dynn_Smolik"
+			"dynn_Snider"
+			"dynn_Snokhous"
+			"dynn_Sodek"
+			"dynn_Soukup"
+			"dynn_Srubar"
+			"dynn_Steffek"
+			"dynn_Stojanik"
+			"dynn_Strmiska"
+			"dynn_Sulak"
+			"dynn_Supak"
+			"dynn_Surovik"
+			"dynn_Svetlik"
+			"dynn_Sykora"
+			"dynn_Urbanovsky"
+			"dynn_Vajdak"
+			"dynn_Vanek"
+			"dynn_Vasut"
+			"dynn_Vavra"
+			"dynn_Veselka"
+			"dynn_Vitek"
+			"dynn_Vochoska"
+			"dynn_Vrabel"
+			"dynn_Vrana"
+			"dynn_Vrba"
+			"dynn_Zahirniak"
+			"dynn_Zapalac"
+			"dynn_Zavodny"
+			"dynn_Zboril"
+			"dynn_Zgabay"
+			"dynn_Zrubek"
+		}
+		
+		male_names = {
+			Adam Albert Alexander Alfred Allen Anton Antonin Arthur Austin
+			Bedrich Bill Bohumil Boris
+			Daniel Darrell David
+			Edmund Edward Egon Ellis Erik
+			Frank Frederick
+			George
+			Henrik Hugo
+			Jan Jaromir Jaroslav Jay Josef
+			Karel Kaspar
+			Ladislav Len Lubomir Ludvik
+			Mark Martin Matthew Michael Mikulas Miloslav Miroslav Mojmir
+			Norbert
+			Oldrich Oliver Ondrew Osvald
+			Patrick Paul Peter
+			Raymond Richard Robert Roman Rudolf
+			Samuel Slavek Stepan
+			Theodor Tim Tomas
+			Vaclav Valentin Vladimir Vladislav Vojtech
+			Walter
+		}
+		female_names = {
+			Albina Amelia Angelika Anna
+			Barbara
+			Danica Daniela Daria Denise Dominika Donna Dora
+			Elena Emma Erika Eva
+			Gisela
+			Hannah
+			Ilona Irena Isabella Ivana
+			Jana Janica Jarmila Jessica Judith
+			Karolina Kathrine
+			Lena Liana Livia Lucia Ludmila
+			Magdalena Maria Marilyn Martha Martina Mila Milena Mira Miriam Monika
+			Nadia Natasha Nicole Nina
+			Olga Olivia
+			Paulina
+			Renata Romana Rosa
+			Sabina Sarah Stefania Susana
+			Tamara Tatiana
+			Valeria Vanessa
+			Wilma
+		}
+		dynasty_of_location_prefix = "dynnp_z"
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
