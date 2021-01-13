@@ -35,14 +35,6 @@ republic_government = {
 		perform_religious_reformation = no
 	}
 
-	can_get_government = {
-		NOT = {
-			faith = {
-				has_doctrine = doctrine_theocracy_town_clergy
-			}
-		}
-	}
-
 	vassal_contract = { republic_government_obligations }
 	color = hsv{ 0.00 1.00 0.98 }
 }
@@ -50,7 +42,7 @@ republic_government = {
 # Head of faith will always get this if possible
 theocracy_government = {
 	primary_holding = church_holding
-	valid_holdings = { castle_holding city_holding }
+	valid_holdings = { castle_holding }
 	religious = yes
 	required_county_holdings = { church_holding castle_holding city_holding }
 

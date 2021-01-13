@@ -1,0 +1,21 @@
+pdxmesh = {
+	name = "cactus_saguaro_01_c_mesh"
+	file = "cactus_saguaro_01_c.mesh"
+	scale = 1
+
+	meshsettings = {
+		name = "cactus_saguaro_01_cShape"
+		index = 0
+		texture_diffuse = "cactus_saguaro_01_diffuse.dds"
+		texture_normal = "cactus_saguaro_01_normal.dds"
+		texture_specular = "cactus_saguaro_01_properties.dds"
+		texture = { file = "cactus_saguaro_01_tint.dds" index = 3 srgb = yes }
+		shader = "tree"
+		shader_file = "gfx/FX/tree.shader"
+	}
+}
+
+entity = {
+	name = "cactus_saguaro_01_c_entity"
+	pdxmesh = "cactus_saguaro_01_c_mesh"
+}
