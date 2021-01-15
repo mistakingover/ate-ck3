@@ -1,0 +1,514 @@
+patagon_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	desertico = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.5 0.48 0.07 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Abeij_o_act_n"
+			"dynn_Agrelo"
+			"dynn_Albizua"
+			"dynn_Almonacid"
+			"dynn_Altuna"
+			"dynn_Amado"
+			"dynn_Astraudi"
+			"dynn_Balda"
+			"dynn_Berm_u_act_dez"
+			"dynn_Bongiorno"
+			"dynn_Bontempo"
+			"dynn_Bravo"
+			"dynn_Burgos"
+			"dynn_Buzzi"
+			"dynn_Ca_n_tld_ones"
+			"dynn_Calvo"
+			"dynn_Cambarieri"
+			"dynn_Campos"
+			"dynn_Canale"
+			"dynn_Carrasco"
+			"dynn_Casamiquela"
+			"dynn_Casiano"
+			"dynn_Cecchini"
+			"dynn_Cellerino"
+			"dynn_Cernadas"
+			"dynn_Cevoli"
+			"dynn_Companc"
+			"dynn_Concha"
+			"dynn_Corval_a_act_n"
+			"dynn_Crespo"
+			"dynn_Delmastro"
+			"dynn_Delucchi"
+			"dynn_Durazno"
+			"dynn_Eguia"
+			"dynn_Entraigas"
+			"dynn_Felta_n_tld_o"
+			"dynn_Fuentes"
+			"dynn_Galindo"
+			"dynn_Gattoni"
+			"dynn_Gentile"
+			"dynn_Goroso"
+			"dynn_Guajardo"
+			"dynn_Guerrero"
+			"dynn_Hern_a_act_ndez"
+			"dynn_Herrera"
+			"dynn_Ib_a_act__n_tld_ez"
+			"dynn_Koop"
+			"dynn_Kucich"
+			"dynn_Laciar"
+			"dynn_Lagos"
+			"dynn_Lencina"
+			"dynn_Lenher"
+			"dynn_Lenzi"
+			"dynn_Lezcano"
+			"dynn_Linares"
+			"dynn_Luenzo"
+			"dynn_Mazzei"
+			"dynn_Mazzini"
+			"dynn_Mellado"
+			"dynn_Michelena"
+			"dynn_Mor_o_act_n"
+			"dynn_Mosconi"
+			"dynn_Moyano"
+			"dynn_Mussi"
+			"dynn_Nieva"
+			"dynn_Oreja"
+			"dynn_Oyarzo"
+			"dynn_P_e_act_rez"
+			"dynn_Pacho"
+			"dynn_Palavecino"
+			"dynn_Pazos"
+			"dynn_Pereyra"
+			"dynn_Pietrobelli"
+			"dynn_Quezada"
+			"dynn_Radeland"
+			"dynn_Regazzoni"
+			"dynn_Reppucci"
+			"dynn_Rial"
+			"dynn_Richter"
+			"dynn_Rivas"
+			"dynn_Rivera"
+			"dynn_Rost"
+			"dynn_Ru_a_act_"
+			"dynn_S_a_act_ez"
+			"dynn_Sacco"
+			"dynn_Salto"
+			"dynn_San_Mart_i_act_n"
+			"dynn_Sandoval"
+			"dynn_Sep_u_act_lveda"
+			"dynn_Solari"
+			"dynn_Soto"
+			"dynn_Toni"
+			"dynn_Usandizaga"
+			"dynn_Vecchi"
+			"dynn_Vichich"
+			"dynn_Vidal"
+			"dynn_Villagra"
+			"dynn_Y_a_act__n_tld_ez"
+			"dynn_Zalazar"
+			"dynn_Zua_i_act_n"
+		}
+		
+		male_names = {
+			Adri_a_act_n Agust_i_act_n Alberto Aldo Alfredo Andr_e_act_a Antonio Ariel Arturo Asencio
+			Bruno
+			Carlos Cayetano Ceferino Claudio Cristian
+			Edgardo Edmundo Emiliano Enrique Ezequiel
+			Facundo Fausto Ferm_i_act_n Francisco Franco
+			Gabriel Gustavo
+			H_e_act_ctor Hilari_o_act_n Hip_o_act_lito Horacio
+			Ignacio Isidoro
+			Jos_e_act_ Jos_e_act__Luis Jos_e_act__Mar_i_act_a Juan Juan_Carlos Juan_Manuel Juan_Mart_i_act_n Juan_Pablo Juli_a_act_n Julio
+			Leonel Lisandro Lucas Luis
+			Manuel Marcelo Mariano Mario Mart_i_act_n Mat_i_act_as Mauricio Mauro Miguel
+			Nicol_a_act_s Norberto
+			Omar
+			Pedro
+			Ra_u_act_l Rafael Ramiro Remo Renato Rodolfo Roque Rub_e_act_n
+			Sebasti_a_act_n Segundo Sergio
+			Tirso
+			Valent_i_act_n V_i_act_ctor
+		}
+		female_names = {
+			Adriana Alejandra Alicia Amanda Ana Ana_Mar_i_act_a
+			Beatriz Bel_e_act_n Brenda
+			Carla Cecilia Claudia
+			Emilia
+			Fabiola Francisca
+			Gabriela Graciela
+			Juana Julia
+			Leonor Libertad Liliana
+			Manuela Marcela Margarita Mar_i_act_a Mar_i_act_a_Bel_e_act_n Mar_i_act_a_Cecilia Mar_i_act_a_Emilia Mar_i_act_a_Jos_e_act_ Mar_i_act_a_Sonia Mariana Mercedes Miriam M_o_act_nica
+			Paola Paula
+			Renata Rosario Ruth
+			Silvina Sonia Stella
+			Valentina Viviana
+			Zulema
+		}
+		dynasty_of_location_prefix = "de"
+		
+		patronym_prefix_male = "dynnpat_pre_pibe_de"
+		patronym_prefix_female = "dynnpat_pre_pibe_de"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	santacruceno = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.92 0.95 0.37 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Aguilar"
+			"dynn_Alegre"
+			"dynn_Alvarado"
+			"dynn_Amarilla"
+			"dynn_Anselmo"
+			"dynn_Arciero"
+			"dynn_Argibay"
+			"dynn_Bahamonde"
+			"dynn_Barr_i_act_a"
+			"dynn_Barrenechea"
+			"dynn_Barrera"
+			"dynn_Barrionuevo"
+			"dynn_Baz_a_act_n"
+			"dynn_Becerra"
+			"dynn_Bertotti"
+			"dynn_Blanco"
+			"dynn_Bonetto"
+			"dynn_Bord_o_act_n"
+			"dynn_Brizuela"
+			"dynn_Brunetti"
+			"dynn_C_a_act_rdenas"
+			"dynn_Carrizo"
+			"dynn_Casas"
+			"dynn_Catal_a_act_n"
+			"dynn_Cepernic"
+			"dynn_Cerato"
+			"dynn_Cuerva"
+			"dynn_Fadul"
+			"dynn_Flores"
+			"dynn_G_o_act_mez"
+			"dynn_Gil"
+			"dynn_Gordillo"
+			"dynn_Grande"
+			"dynn_Granero"
+			"dynn_Grasso"
+			"dynn_Kirchner"
+			"dynn_Lobos"
+			"dynn_Lozano"
+			"dynn_Lucero"
+			"dynn_Maldonado"
+			"dynn_Mansilla"
+			"dynn_Marinkovic"
+			"dynn_Markic"
+			"dynn_Mart_i_act_nez"
+			"dynn_Mazza"
+			"dynn_Medina"
+			"dynn_Muriete"
+			"dynn_Paredes"
+			"dynn_Parol_i_act_n"
+			"dynn_Paul_o_act_n"
+			"dynn_Peralta"
+			"dynn_Perea"
+			"dynn_Puricelli"
+			"dynn_Quintero"
+			"dynn_Quiroga"
+			"dynn_Reales"
+			"dynn_Rearte"
+			"dynn_Saldivia"
+			"dynn_Santana"
+			"dynn_Sciurano"
+			"dynn_T_a_act_rtara"
+			"dynn_Terraz"
+			"dynn_Tobares"
+			"dynn_Toledo"
+			"dynn_Torre"
+			"dynn_Vel_a_act_squez"
+			"dynn_Vera"
+			"dynn_Victoria"
+			"dynn_Vivar"
+			"dynn_Zuloaga"
+		}
+		
+		male_names = {
+			Alberto Alfredo Anah_i_act_ Antonio Arturo
+			Bernardo
+			Carlos
+			Dami_a_act_n Daniel David
+			Eduardo El_i_act_as Emiliano Esteban Eugenio
+			F_e_act_lix Federico Fernando Florentino Francisco
+			Gabriel Gerardo Gustavo
+			H_e_act_ctor
+			I_n_tld_aki
+			Jacinto Jorge Jos_e_act_ Juan Juan_Carlos Juan_Manuel Julio
+			Leonardo Lucas Ludovico Luis
+			M_a_act_ximo Manuel Marcelino Mariano Mario Mart_i_act_n Mat_i_act_as Mauricio Maximiliano Miguel
+			Nazareno N_e_act_stor Nicol_a_act_s
+			Orlando
+			Pablo
+			Ra_u_act_l Ram_o_act_n Ricardo Roberto Rodrigo Rub_e_act_n
+			Santiago Sergio
+		}
+		female_names = {
+			A_act_ngela Adriana Alicia Ana Ana_Mar_i_act_a Antonia Antonieta
+			Beatriz Benigna
+			Carla Cristina
+			Daniela
+			Erica Estela Esther Eugenia
+			Florencia
+			Gabriela Graciela
+			Hilda
+			Julia Julieta
+			Leila Lidia Liliana Luisa
+			Marcela Margarita Mariana Mar_i_act_a Mar_i_act_a_Bel_e_act_n Mar_i_act_a_Emilia Mar_i_act_a_Jos_e_act_ Mar_i_act_a_Luisa M_o_act_nica
+			Norma
+			Paula Paulina
+			Sara Silvina Sonia
+			Tatiana
+			Virginia Viviana
+			Xenia
+			Zulema
+		}
+		dynasty_of_location_prefix = "de"
+		
+		patronym_prefix_male = "dynnpat_pre_pibe_de"
+		patronym_prefix_female = "dynnpat_pre_pibe_de"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	australino = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.74 0.71 0.28 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_A_act_guila"
+			"dynn_Aburto"
+			"dynn_Aguilante"
+			"dynn_Aguilar"
+			"dynn_Alderete"
+			"dynn_Almir_o_act_n"
+			"dynn_Andrade"
+			"dynn_Arancibia"
+			"dynn_Aravena"
+			"dynn_Arbunic"
+			"dynn_Bahamondez"
+			"dynn_Balc_a_act_zar"
+			"dynn_Barassi"
+			"dynn_Barr_i_act_a"
+			"dynn_Barrientos"
+			"dynn_Becerra"
+			"dynn_Beros"
+			"dynn_Berrueta"
+			"dynn_Bilbao"
+			"dynn_Boric"
+			"dynn_Boroevic"
+			"dynn_Braun"
+			"dynn_Bridges"
+			"dynn_Brncic"
+			"dynn_C_a_act_rcamo"
+			"dynn_Cadag_a_act_n"
+			"dynn_Calisto"
+			"dynn_Canales"
+			"dynn_Ch_a_act_vez"
+			"dynn_Chelech"
+			"dynn_Chiguay"
+			"dynn_Clavel"
+			"dynn_Colivoro"
+			"dynn_Cornejo"
+			"dynn_Covacic"
+			"dynn_Cvitanic"
+			"dynn_Elgueta"
+			"dynn_Eterovic"
+			"dynn_Fajardo"
+			"dynn_Fica"
+			"dynn_Gallardo"
+			"dynn_Gam_i_act_n"
+			"dynn_Garay"
+			"dynn_Gasic"
+			"dynn_Glasinovic"
+			"dynn_Goic"
+			"dynn_Huala"
+			"dynn_Ivovic"
+			"dynn_Jelincic"
+			"dynn_Jim_e_act_nez"
+			"dynn_Juricic"
+			"dynn_Karelovic"
+			"dynn_Karnincic"
+			"dynn_Kusanovic"
+			"dynn_Lausic"
+			"dynn_Levicoy"
+			"dynn_Levill"
+			"dynn_Livacic"
+			"dynn_Loaiza"
+			"dynn_Low"
+			"dynn_Lozic"
+			"dynn_Mac-Kay"
+			"dynn_Mac-Lean"
+			"dynn_Mansilla"
+			"dynn_Marchant"
+			"dynn_Marinovic"
+			"dynn_Mart_i_act_nez"
+			"dynn_Marusic"
+			"dynn_Mercegue"
+			"dynn_Mihovilovic"
+			"dynn_Millar"
+			"dynn_Miranda"
+			"dynn_Mladinic"
+			"dynn_Molina"
+			"dynn_Montiel"
+			"dynn_Nancuante"
+			"dynn_Novoa"
+			"dynn_Ogeda"
+			"dynn_Olavarr_i_act_a"
+			"dynn_Orme_n_tld_o"
+			"dynn_Otth"
+			"dynn_Ovando"
+			"dynn_Oyarzo"
+			"dynn_P_e_act_rez"
+			"dynn_Pesutic"
+			"dynn_Pisano"
+			"dynn_Prat"
+			"dynn_Provoste"
+			"dynn_Rajcevic"
+			"dynn_Roberts"
+			"dynn_Scarpa"
+			"dynn_Sep_u_act_lveda"
+			"dynn_Sharp"
+			"dynn_Silva"
+			"dynn_Simpson"
+			"dynn_Simunovic"
+			"dynn_Sol_i_act_s"
+			"dynn_Soto"
+			"dynn_Tapia"
+			"dynn_Tejeda"
+			"dynn_Tolaba"
+			"dynn_Valderas"
+			"dynn_Vilicic"
+			"dynn_Vodanovic"
+			"dynn_Vrandecic"
+			"dynn_Vukasovic"
+			"dynn_Warner"
+			"dynn_Yaksic"
+			"dynn_Zu_n_tld_iga"
+			"dynn_Zuvic"
+		}
+		
+		male_names = {
+			Agust_i_act_n Alberto Alfredo Alonso Andr_e_act_s Antol_i_act_n
+			Benjam_i_act_n
+			Camilo Carlos Cedomil Cristian Crist_o_act_bal Cristofer
+			Daniel Danilo David Diego Domingo
+			Eduardo El_i_act_as Emilio Ernesto Esteban
+			Fabi_a_act_n Federico Felipe Fernando Francisco
+			Gabriel Gary Germ_a_act_n Gonzalo Gustavo
+			H_e_act_ctor Hern_a_act_n Humberto Hugo
+			Ignacio Iv_a_act_n
+			Jaime Javier Joaqu_i_act_n Jorge Jos_e_act_ Juan Julio
+			Larry Lautaro Lucas Luis
+			Manuel Marcelo Mario Mart_i_act_n Mateo Mat_i_act_as Mauricio Miodrag
+			Nahuel Nicol_a_act_s
+			O_act_scar
+			Pablo Patricio Paul Pedro
+			Rafael Ram_o_act_n Ra_u_act_l Ricardo Roberto Rodrigo
+			Salvador Sebasti_a_act_n Sergio Sim_o_act_n
+			Teudolio Tom_a_act_s
+			Vicente V_i_act_ctor Vladimiro
+			Zacar_i_act_as
+		}
+		female_names = {
+			Ana Andrea Antonia
+			B_a_act_rbara Beatriz Bel_e_act_n Blanca
+			Camila Carolina Catalina Claudia Cristina Constanza
+			Dalia Daniela
+			Elena Elizabeth Emilia Erica Eugenia
+			Fernanda Francisca Florencia
+			Gabriela Gladys Gloria
+			Helen
+			I_act_ngrid Ilda Isabel Ivania
+			Javiera Jeanette Josefa Julieta
+			Karina Karla
+			Lorena Loreto Lucila Luisa
+			Magdalena Marcela Mar_i_act_a Mar_i_act_a_Constanza Mar_i_act_a_Jos_e_act_ Mar_i_act_a_Luisa Mariana Martina Miriam
+			Naomia Natalia
+			Olivia
+			Pamela Patricia Paula Paulina Pilar
+			Raquel Roc_i_act_o Romina Rosalba
+			Sandra Silvia Sof_i_act_a Susana
+			Tamara Teresa
+			Valentina Valeria Ver_o_act_nica Violeta Vivian
+			Ximena
+		}
+		dynasty_of_location_prefix = "de"
+		
+		patronym_prefix_male = "dynnpat_pre_hijo_de"
+		patronym_prefix_female = "dynnpat_pre_hija_de"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

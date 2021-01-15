@@ -1,0 +1,116 @@
+﻿mayan_group = {
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	cholano = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.1 0.6 0.1 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	quichean = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.3 0.7 0.2 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	yucateco = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.4 0.8 0.3 }
+
+		male_names = {
+			
+		}
+
+		female_names = { 
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	lacandon = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.2 0.7 0.2 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+}

@@ -1,0 +1,624 @@
+﻿anishinaabeg_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	ojibwe = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.6 0.6 0.75 }
+	
+		cadet_dynasty_names = {
+			"dynn_Davieux"
+			"dynn_Odjig"
+			"dynn_Pegahmagabow"
+			"dynn_Corbiere"
+			"dynn_Morrisseau"
+			"dynn_Shawanda"
+			"dynn_Mandamin"
+			"dynn_Cheechee"
+			"dynn_Peltier"
+			"dynn_Pitawanakwat"
+			"dynn_Kagige"
+			"dynn_Debassige"
+			"dynn_Fobister"
+			"dynn_Traverse"
+			"dynn_Assikinack"
+			"dynn_Copway"
+			"dynn_Mataswagon"
+			"dynn_Wagamese"
+			"dynn_Atlookan"
+			"dynn_Hardy"
+			"dynn_Maggotte"
+			"dynn_Abotossaway"
+			"dynn_Michano"
+			"dynn_Okeese"
+			"dynn_Boyer"
+			"dynn_Quewezance"
+			"dynn_Eshkibok"
+			"dynn_Pheasant"
+			"dynn_Tabobondung"
+			"dynn_Eshkawkogan"
+			"dynn_Wenjack"
+			"dynn_Pamajewon"
+			"dynn_Yesno"
+			"dynn_Batisse"
+			"dynn_Necan"
+			"dynn_Matoush"
+			"dynn_Naponse"
+			"dynn_Osawabine"
+			"dynn_Sinclair"
+			"dynn_Naokwegijig"
+			"dynn_Memegos"
+			"dynn_Nabigon"
+			"dynn_Courchene"
+			"dynn_Towedo"
+			"dynn_Copegog"
+			"dynn_Bannon"
+			"dynn_Wemigwans"
+			"dynn_Kejick"
+			"dynn_Toulouse"
+			"dynn_Assinewai"
+			"dynn_Kowtiash"
+			"dynn_Machimity"
+			"dynn_George"
+			"dynn_Akiwenzie"
+			"dynn_Wassaykeesic"
+			"dynn_Pervais"
+			"dynn_Tegosh"
+			"dynn_Monague"
+			"dynn_Manitowabi"
+			"dynn_Kwissiwa"
+			"dynn_Recollet"
+			"dynn_Keeshig"
+			"dynn_Sapay"
+			"dynn_Panamick"
+			"dynn_Bressette"
+			"dynn_Penassie"
+			"dynn_Kimewon"
+			"dynn_Shakakeesic"
+			"dynn_Enosse"
+			"dynn_Wente"
+			"dynn_Yandeau"
+			"dynn_Endanawas"
+			"dynn_Nahwegahbow"
+			"dynn_Meshake"
+			"dynn_Grosbeck"
+			"dynn_Esquega"
+			"dynn_Wassengeso"
+			"dynn_Ashkewe"
+			"dynn_Waswa"
+			"dynn_Nanakonagos"
+			"dynn_Wanakamik"
+			"dynn_Angeconeb"
+			"dynn_Mahdabee"
+			"dynn_Webobikesige"
+			"dynn_Pahpasay"
+			"dynn_Lavalee"
+			"dynn_Ansance"
+			"dynn_Bananish"
+			"dynn_Pressault"
+			"dynn_Strang"
+			"dynn_Belec"
+			"dynn_Oombash"
+			"dynn_Mendowegan"
+			"dynn_Debakouang"
+			"dynn_Nowegejick"
+			"dynn_Kokopenace"
+			"dynn_Wakegijig"
+			"dynn_Shawkence"
+			"dynn_Anoquot"
+			"dynn_Shonias"
+			"dynn_Niganobe"
+			"dynn_Ladouceur"
+			"dynn_Metigwob"
+			"dynn_Audette"
+			"dynn_Peshabo"
+			"dynn_Shawnoo"
+			"dynn_Nahmabin"
+			"dynn_Yahba"
+			"dynn_Bebamash"
+			"dynn_Wassegijig"
+			"dynn_Metansinine"
+			"dynn_Nootchtai"
+			"dynn_Wiwaikeejick"
+			"dynn_Ritchie"
+			"dynn_Kachenooting"
+			"dynn_Mandawoub"
+			"dynn_Reardreau"
+			"dynn_Airns"
+			"dynn_Syrette"
+			"dynn_Towegishig"
+			"dynn_Noganosh"
+			"dynn_Kewageshig"
+			"dynn_Bobiwash"
+			"dynn_Shebagabow"
+			"dynn_Youngfox"
+			"dynn_Nayanookeesic"
+			"dynn_Sasines"
+			"dynn_Ishkwegaa"
+			"dynn_Kwandibens"
+			"dynn_Waboose"
+		}
+		dynasty_names = {
+			"dynn_Davieux"
+			"dynn_Odjig"
+			"dynn_Pegahmagabow"
+			"dynn_Corbiere"
+			"dynn_Morrisseau"
+			"dynn_Shawanda"
+			"dynn_Mandamin"
+			"dynn_Cheechee"
+			"dynn_Peltier"
+			"dynn_Pitawanakwat"
+			"dynn_Kagige"
+			"dynn_Debassige"
+			"dynn_Fobister"
+			"dynn_Traverse"
+			"dynn_Assikinack"
+			"dynn_Copway"
+			"dynn_Mataswagon"
+			"dynn_Wagamese"
+			"dynn_Atlookan"
+			"dynn_Hardy"
+			"dynn_Maggotte"
+			"dynn_Abotossaway"
+			"dynn_Michano"
+			"dynn_Okeese"
+			"dynn_Boyer"
+			"dynn_Quewezance"
+			"dynn_Eshkibok"
+			"dynn_Pheasant"
+			"dynn_Tabobondung"
+			"dynn_Eshkawkogan"
+			"dynn_Wenjack"
+			"dynn_Pamajewon"
+			"dynn_Yesno"
+			"dynn_Batisse"
+			"dynn_Necan"
+			"dynn_Matoush"
+			"dynn_Naponse"
+			"dynn_Osawabine"
+			"dynn_Sinclair"
+			"dynn_Naokwegijig"
+			"dynn_Memegos"
+			"dynn_Nabigon"
+			"dynn_Courchene"
+			"dynn_Towedo"
+			"dynn_Copegog"
+			"dynn_Bannon"
+			"dynn_Wemigwans"
+			"dynn_Kejick"
+			"dynn_Toulouse"
+			"dynn_Assinewai"
+			"dynn_Kowtiash"
+			"dynn_Machimity"
+			"dynn_George"
+			"dynn_Akiwenzie"
+			"dynn_Wassaykeesic"
+			"dynn_Pervais"
+			"dynn_Tegosh"
+			"dynn_Monague"
+			"dynn_Manitowabi"
+			"dynn_Kwissiwa"
+			"dynn_Recollet"
+			"dynn_Keeshig"
+			"dynn_Sapay"
+			"dynn_Panamick"
+			"dynn_Bressette"
+			"dynn_Penassie"
+			"dynn_Kimewon"
+			"dynn_Shakakeesic"
+			"dynn_Enosse"
+			"dynn_Wente"
+			"dynn_Yandeau"
+			"dynn_Endanawas"
+			"dynn_Nahwegahbow"
+			"dynn_Meshake"
+			"dynn_Grosbeck"
+			"dynn_Esquega"
+			"dynn_Wassengeso"
+			"dynn_Ashkewe"
+			"dynn_Waswa"
+			"dynn_Nanakonagos"
+			"dynn_Wanakamik"
+			"dynn_Angeconeb"
+			"dynn_Mahdabee"
+			"dynn_Webobikesige"
+			"dynn_Pahpasay"
+			"dynn_Lavalee"
+			"dynn_Ansance"
+			"dynn_Bananish"
+			"dynn_Pressault"
+			"dynn_Strang"
+			"dynn_Belec"
+			"dynn_Oombash"
+			"dynn_Mendowegan"
+			"dynn_Debakouang"
+			"dynn_Nowegejick"
+			"dynn_Kokopenace"
+			"dynn_Wakegijig"
+			"dynn_Shawkence"
+			"dynn_Anoquot"
+			"dynn_Shonias"
+			"dynn_Niganobe"
+			"dynn_Ladouceur"
+			"dynn_Metigwob"
+			"dynn_Audette"
+			"dynn_Peshabo"
+			"dynn_Shawnoo"
+			"dynn_Nahmabin"
+			"dynn_Yahba"
+			"dynn_Bebamash"
+			"dynn_Wassegijig"
+			"dynn_Metansinine"
+			"dynn_Nootchtai"
+			"dynn_Wiwaikeejick"
+			"dynn_Ritchie"
+			"dynn_Kachenooting"
+			"dynn_Mandawoub"
+			"dynn_Reardreau"
+			"dynn_Airns"
+			"dynn_Syrette"
+			"dynn_Towegishig"
+			"dynn_Noganosh"
+			"dynn_Kewageshig"
+			"dynn_Bobiwash"
+			"dynn_Shebagabow"
+			"dynn_Youngfox"
+			"dynn_Nayanookeesic"
+			"dynn_Sasines"
+			"dynn_Ishkwegaa"
+			"dynn_Kwandibens"
+			"dynn_Waboose"
+		}
+		
+		male_names = {
+			Allan
+			Clyde
+			Floyd Francis
+			Harvey
+			Norval
+			Rodney
+			Stanley
+			Vernon
+			Waawaate Waubgeshig
+		}
+		female_names = {
+			Daphne
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+	algonquin = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.75 0.75 0.7 }
+	
+		cadet_dynasty_names = {
+			"dynn_Commanda"
+			"dynn_Brazeau"
+			"dynn_Newashish"
+			"dynn_Lavoie"
+			"dynn_Duquette"
+			"dynn_Whiteduck"
+			"dynn_Wabie"
+			"dynn_Bellemare"
+			"dynn_Amikons"
+			"dynn_Tennesco"
+			"dynn_Odjick"
+			"dynn_Benoit"
+			"dynn_Jocko"
+			"dynn_Pakinawatik"
+			"dynn_Sarazin"
+			"dynn_Ozawanimke"
+			"dynn_Meness"
+			"dynn_Wawatie"
+			"dynn_Emimitegnesh"
+			"dynn_Brascoupe"
+			"dynn_Beaudry"
+			"dynn_Papatie"
+			"dynn_Nottaway"
+			"dynn_Kohoko"
+			"dynn_Polson"
+			"dynn_Archambault"
+			"dynn_Cayer"
+			"dynn_Malette"
+			"dynn_Boivin"
+			"dynn_Thivierge"
+			"dynn_Wabanonik"
+			"dynn_Two-Axe"
+			"dynn_Lanouette"
+			"dynn_Twenish"
+		}
+		dynasty_names = {
+			"dynn_Allen"
+		}
+		
+		male_names = {
+			Tesswehas
+		}
+		female_names = {
+			Kwena
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+	oji_cree = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.6 0.75 0.7 }
+	
+		cadet_dynasty_names = {
+			"dynn_Acoose"
+			"dynn_Aganash"
+			"dynn_Anderson"
+			"dynn_Angees"
+			"dynn_Atatise"
+			"dynn_Baskatawang"
+			"dynn_Beach"
+			"dynn_Beardy"
+			"dynn_Bighead"
+			"dynn_Bluecoat"
+			"dynn_Bushie"
+			"dynn_Cappo"
+			"dynn_Catcheway"
+			"dynn_Cobiness"
+			"dynn_Crowe"
+			"dynn_Desmoulin"
+			"dynn_Dustyhorn"
+			"dynn_Fiddler"
+			"dynn_Frogg"
+			"dynn_Harper"
+			"dynn_Ineese"
+			"dynn_Kabestra"
+			"dynn_Kakapeness"
+			"dynn_Kakegamic"
+			"dynn_Kakekagumick"
+			"dynn_Kakekayash"
+			"dynn_Kakepetum"
+			"dynn_Kamenawatamin"
+			"dynn_Katcheconias"
+			"dynn_Keeper"
+			"dynn_Kenequanash"
+			"dynn_Kewaquam"
+			"dynn_Kinew"
+			"dynn_Kishayinew"
+			"dynn_Kishqueb"
+			"dynn_Kitchkeesick"
+			"dynn_Kooshet"
+			"dynn_Lynxleg"
+			"dynn_Machiskinic"
+			"dynn_Mamakeesic"
+			"dynn_Mamakwa"
+			"dynn_Matawapit"
+			"dynn_McKay"
+			"dynn_McKiver"
+			"dynn_McKoop"
+			"dynn_McWatch"
+			"dynn_Mekanak"
+			"dynn_Mequanawap"
+			"dynn_Mishibimijima"
+			"dynn_Moonias"
+			"dynn_Morris"
+			"dynn_Nanokeesic"
+			"dynn_Neapetung"
+			"dynn_Nepinak"
+			"dynn_Neshawabin"
+			"dynn_O_Nabigon"
+			"dynn_Oskineegish"
+			"dynn_Peguis"
+			"dynn_Pitchenese"
+			"dynn_Prince"
+			"dynn_Quequeish"
+			"dynn_Ray"
+			"dynn_Roulette"
+			"dynn_Sainnawap"
+			"dynn_Sakakeep"
+			"dynn_Sakchekapo"
+			"dynn_Sangwais"
+			"dynn_Sawanis"
+			"dynn_Semple"
+			"dynn_Settee"
+			"dynn_Shewaybick"
+			"dynn_Shoomin"
+			"dynn_Skunk"
+			"dynn_Straightnose"
+			"dynn_Swampy"
+			"dynn_Turtle"
+			"dynn_Wabasse"
+			"dynn_Wahpay"
+			"dynn_Wasakimik"
+			"dynn_Weenusk"
+			"dynn_Winnepetonga"
+		}
+		dynasty_names = {
+			"dynn_Allen"
+		}
+		
+		male_names = {
+			Elijah
+			Jackson
+			Kinistin
+			Shacopay
+			Wabanakwut
+		}
+		female_names = {
+			Daphne
+			Tasha
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+	chippewa = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_Asham"
+			"dynn_Oshie"
+			"dynn_Bellecourt"
+			"dynn_Boucha"
+			"dynn_Denomie"
+			"dynn_Guyon"
+			"dynn_Dufina"
+			"dynn_Plamondon"
+			"dynn_DesJarlait"
+			"dynn_Loonsfoot"
+			"dynn_LaFavor"
+			"dynn_Gourneau"
+			"dynn_Haataja"
+			"dynn_LaFernier"
+			"dynn_McGeshick"
+			"dynn_Dupuis"
+			"dynn_LaGarde"
+			"dynn_Fairbanks"
+			"dynn_Auginaush"
+			"dynn_LaRose"
+			"dynn_Kequom"
+			"dynn_Neyome"
+		}
+		dynasty_names = {
+			"dynn_Allen"
+		}
+		
+		male_names = {
+			Francis
+		}
+		female_names = {
+			Daphne
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+	potawatomi = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+}

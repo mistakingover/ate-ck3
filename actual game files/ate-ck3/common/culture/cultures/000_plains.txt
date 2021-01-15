@@ -1,0 +1,452 @@
+﻿plains_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	comanche = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.8 0.9 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			Huupi-pahati
+			Isatai_pst_i Isaviah
+			Kiyou Kobe
+			Mow-way Mukwooru Mupitsukupu
+			Pahayoko Parker Pawuurasumunuru Piaru-ekaruhkapu Potsunakwahipu Puhihwitsikwasu
+			Quanah Quenah-evah
+			Tahka Tawaquenah Tosahwi Tuhuyakwahipu
+			Wulea-boo
+		}
+		female_names = {
+			Sanapia
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	lakota = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.9 0.9 0.97 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	dakota = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	crow = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.4 0.4 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	blackfoot = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.3 0.3 0.4 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	cheyenne = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.30 0.45 0.63 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	kiowa = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Ahhaitty"
+			"dynn_Ahtone"
+			"dynn_Anquoe"
+			"dynn_Asah"
+			"dynn_Ataumbi"
+			"dynn_Auchiah"
+			"dynn_Autaubo"
+			"dynn_Belindo"
+			"dynn_Bigbow"
+			"dynn_Bointy"
+			"dynn_Botone"
+			"dynn_Boyiddle"
+			"dynn_Cannon"
+			"dynn_Chaddlesone"
+			"dynn_Chalepah"
+			"dynn_Cozad"
+			"dynn_Daingkau"
+			"dynn_Davis"
+			"dynn_Doyebi"
+			"dynn_Doyeto"
+			"dynn_Geimasaddle"
+			"dynn_Geiogamah"
+			"dynn_Geionty"
+			"dynn_Gonzalez"
+			"dynn_Goombi"
+			"dynn_Growingthunder"
+			"dynn_Guoladdle"
+			"dynn_Hainta"
+			"dynn_Haumpy"
+			"dynn_Haunpo"
+			"dynn_Hawziptaw"
+			"dynn_Hobay"
+			"dynn_Hokeah"
+			"dynn_Horn"
+			"dynn_Huckaba"
+			"dynn_Kaulaity"
+			"dynn_Keahbone"
+			"dynn_Killer"
+			"dynn_Kodaseet"
+			"dynn_Koomsa"
+			"dynn_Littlechief"
+			"dynn_Mauchahty"
+			"dynn_Maynahonah"
+			"dynn_Momaday"
+			"dynn_Mopope"
+			"dynn_Nahquaddy"
+			"dynn_Odlety"
+			"dynn_Oheltoint"
+			"dynn_Paddelty"
+			"dynn_Pauahty"
+			"dynn_Pewewardy"
+			"dynn_Poolaw"
+			"dynn_Reyes"
+			"dynn_Sadongei"
+			"dynn_Satepeahtaw"
+			"dynn_Satoe"
+			"dynn_Silverhorn"
+			"dynn_Standing"
+			"dynn_Swanda"
+			"dynn_Tanedooah"
+			"dynn_Tartsah"
+			"dynn_Taryole"
+			"dynn_Tocakut"
+			"dynn_Tonepahote"
+			"dynn_Toppah"
+			"dynn_Tsatoke"
+			"dynn_Tsonetokoy"
+			"dynn_Tsoodle"
+			"dynn_Tsotigh"
+			"dynn_Yeahquo"
+		}
+		
+		male_names = {
+			Ado-ete Ahpeatone Andrew Aupia-goodle
+			Belo
+			Coquit
+			Dohosan
+			Etadleuh
+			George Gotebo Gui-pah-gho Gui-po-lau Guitan
+			Hanay Haungooah Hovekah
+			I-see-o
+			James John Joseph
+			K_pst_ya-been Koba
+			Lallo
+			Mamanti Mamay-day-te Manyi-ten
+			Napawat Navarre
+			Pai-doung-a-day Pai-talyi Parker Pascal Paul Peter Py-bo
+			Que-tah-tsay Qued-koi
+			Set_pst_tainte Set-ankeah
+			Tah-bone-mah Tau-ankia Tene-angop_pst_te Tsate-kongia Tsatokee Tsen-tainte
+			Vidal
+			Wohaw
+			Ze_pst_bile Zepko-ete Zotom
+		}
+		female_names = {
+			Bougetah
+			Coy Cruz
+			Etla
+			Kaubin
+			Mary
+			Pau-to-mah
+			Tsomah
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	arapaho = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	dhegihan = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = {  }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

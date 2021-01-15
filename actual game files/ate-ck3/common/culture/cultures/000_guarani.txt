@@ -1,18 +1,17 @@
-﻿guarani_group = { 
+guarani_group = { 
 	graphical_cultures = {
 		western_coa_gfx
 		western_building_gfx
 		western_clothing_gfx
 		western_unit_gfx
 	}
-	
 	yopara = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
-		
-		color = {  }
-	
+
+		color = { 0.77 0.39 0.31 }
+
 		cadet_dynasty_names = {
 			"dynn_"
 		}
@@ -181,6 +180,162 @@
 		mat_grm_name_chance = 10
 		mother_name_chance = 40
 		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	kaiowa = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.78 0.35 0.41 }
+
+		cadet_dynasty_names = {
+					"dynn_Kaiow_a_act_"
+		}
+		dynasty_names = {
+					"dynn_Kaiow_a_act_"
+		}
+
+		male_names = {
+			"kaiowa_placeholder_mnames"
+		}
+		female_names = {
+			"kaiowa_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	nhandeva = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.59 0.15 0.22 }
+
+		cadet_dynasty_names = {
+					"dynn_Nhandev_a_act_"
+		}
+		dynasty_names = {
+					"dynn_Nhandev_a_act_"
+		}
+
+		male_names = {
+			"nhandeva_placeholder_mnames"
+		}
+		female_names = {
+			"nhandeva_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	mbya = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.6 0.11 0.18 }
+
+		cadet_dynasty_names = {
+					"dynn_Mby_a_act_"
+		}
+		dynasty_names = {
+					"dynn_Mby_a_act_"
+		}
+
+		male_names = {
+			"mbya_placeholder_mnames"
+		}
+		female_names = {
+			"mbya_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	kaingang = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.8 0.49 0.57 }
+
+		cadet_dynasty_names = {
+					"dynn_Kaingang"
+		}
+		dynasty_names = {
+					"dynn_Kaingang"
+		}
+
+		male_names = {
+			"kaingang_placeholder_mnames"
+		}
+		female_names = {
+			"kaingang_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
 		ethnicities = {
 			25 = caucasian_blond
 			15 = caucasian_ginger

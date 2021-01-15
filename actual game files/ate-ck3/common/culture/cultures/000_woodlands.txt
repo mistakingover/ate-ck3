@@ -1,0 +1,256 @@
+﻿woodlands_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	iroquois = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.66 0.55 0.9 }
+	
+		cadet_dynasty_names = {
+			"dynn_Bomberry"
+			"dynn_Hill"
+			"dynn_Longboat"
+			"dynn_Maracle"
+			"dynn_Jamieson"
+			"dynn_Green"
+			"dynn_Cornplanter"
+			"dynn_Brant"
+			"dynn_Nanticoke"
+			"dynn_Boncore"
+			"dynn_Powless"
+			"dynn_Wheelock"
+			"dynn_Rickard"
+			"dynn_Cornelius"
+			"dynn_Shenandoah"
+			"dynn_Loft"
+			"dynn_Two-Axe"
+			"dynn_Gabriel"
+			"dynn_Horn"
+			"dynn_Gibson"
+			"dynn_Larocque"
+			"dynn_Farmer"
+			"dynn_Thompson"
+			"dynn_Longfish"
+			"dynn_Montour"
+			"dynn_Bucktooth"
+			"dynn_Doctor"
+			"dynn_Burnam"
+			"dynn_Two-Rivers"
+			"dynn_Parker"
+			"dynn_General"
+			"dynn_Printup"
+			"dynn_Lahache"
+			"dynn_Deer"
+			"dynn_Oakes"
+			"dynn_Martin"
+			"dynn_Stacey"
+			"dynn_Miller"
+			"dynn_Leborgne"
+			"dynn_Kirby"
+			"dynn_Vyse"
+			"dynn_Rice"
+			"dynn_Beauvais"
+			"dynn_Goodleaf"
+			"dynn_Jacobs"
+			"dynn_Hess"
+		}
+		dynasty_names = {
+			"dynn_Allen"
+		}
+		
+		male_names = {
+			Ahyonwaeghs Aroniawenrate
+			Deskaheh Donehogawa
+			Gayogwadoke Guyasuta
+			Hasanoanda Hayonhwonhish Hutgohsodoneh
+			Kaientaronkwen Kaiiontwakon Kanentakeron
+			Odeserundiye Onondeyoh Oronhyatekha
+			Sganyodaiyo Sosondowa
+			Tehoka Teyoninhokarawen Thaonawyuthe Thayendanegea
+		}
+		female_names = {
+			Gowongo
+			Kawennahere Kawisenhawe
+			Tekatsitsiakawa
+			Yowehsonh
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+	lumbee = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = rgb { 122 103 157 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_" }
+		}
+	}
+	cherokee = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.8 0.85 0.8 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	muscogee = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.5 0.80 0.70 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+	}
+	catawba = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.55 0.65 0.95 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	abenaki = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = {  }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+}

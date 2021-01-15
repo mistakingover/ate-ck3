@@ -846,4 +846,40 @@
 			25 = caucasian_dark_hair
 		}
 	}
+	yiddish = {
+		color = { 0.5 0.05 0.05 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		dynasty_of_location_prefix = "fun "
+		patronym_suffix_male = "ben "
+		patronym_suffix_female = "bat "
+
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+	}
 }

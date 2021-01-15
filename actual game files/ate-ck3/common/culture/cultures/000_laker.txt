@@ -1,0 +1,963 @@
+﻿laurentian_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	bushman = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.5 0.1 0.2 }
+	
+		cadet_dynasty_names = {
+			"dynn_Aalto"
+			"dynn_Achray"
+			"dynn_Adduono"
+			"dynn_Aho"
+			"dynn_Akervall"
+			"dynn_Amadio"
+			"dynn_Amesbury"
+			"dynn_Andrusco"
+			"dynn_Anstruther"
+			"dynn_Backstrom"
+			"dynn_Ballantyne"
+			"dynn_Barilko"
+			"dynn_Barrick"
+			"dynn_Battochio"
+			"dynn_Baxter"
+			"dynn_Beatty"
+			"dynn_Bedard"
+			"dynn_Belrose"
+			"dynn_Bernardi"
+			"dynn_Billings"
+			"dynn_Bondar"
+			"dynn_Brackston"
+			"dynn_Bray"
+			"dynn_Bruni"
+			"dynn_Buckland"
+			"dynn_Bull"
+			"dynn_Burgess"
+			"dynn_Burk"
+			"dynn_Burwash"
+			"dynn_Cardiff"
+			"dynn_Carlyle"
+			"dynn_Cassel"
+			"dynn_Cassidy"
+			"dynn_Caswell"
+			"dynn_Cattarello"
+			"dynn_Caul"
+			"dynn_Ceppetelli"
+			"dynn_Chambers"
+			"dynn_Chirico"
+			"dynn_Christiansen"
+			"dynn_Clairmont"
+			"dynn_Coldwell"
+			"dynn_Commisso"
+			"dynn_Connors"
+			"dynn_Costa"
+			"dynn_Curtola"
+			"dynn_Dafoe"
+			"dynn_Danby"
+			"dynn_DeBastiani"
+			"dynn_DeBruin"
+			"dynn_DeLuca"
+			"dynn_DeMarco"
+			"dynn_DePiero"
+			"dynn_DeWildt"
+			"dynn_Degarie"
+			"dynn_Delmonte"
+			"dynn_Delnite"
+			"dynn_Delorenzi"
+			"dynn_Deluney"
+			"dynn_Delvecchio"
+			"dynn_Delvillano"
+			"dynn_Denison"
+			"dynn_Devalis"
+			"dynn_DiGiacomo"
+			"dynn_DiPietro"
+			"dynn_Drinkwater"
+			"dynn_Dufresne"
+			"dynn_Edighoffer"
+			"dynn_Edmeston"
+			"dynn_Erickson"
+			"dynn_Ertolahti"
+			"dynn_Esposito"
+			"dynn_Fabbro"
+			"dynn_Farr"
+			"dynn_Felice"
+			"dynn_Ferguson"
+			"dynn_Fields"
+			"dynn_Fife"
+			"dynn_Finlayson"
+			"dynn_Fisher"
+			"dynn_Foligno"
+			"dynn_Foucault"
+			"dynn_Fowler"
+			"dynn_Fox"
+			"dynn_Fraleigh"
+			"dynn_Frid"
+			"dynn_Gallagher"
+			"dynn_Gardi"
+			"dynn_Gaunce"
+			"dynn_Germain"
+			"dynn_Gingham"
+			"dynn_Gravelle"
+			"dynn_Greco"
+			"dynn_Green"
+			"dynn_Griffith"
+			"dynn_Griggs"
+			"dynn_Grisdale"
+			"dynn_Grosso"
+			"dynn_Grummet"
+			"dynn_Grunerud"
+			"dynn_Guloien"
+			"dynn_Halverson"
+			"dynn_Harpelle"
+			"dynn_Harris"
+			"dynn_Hassard"
+			"dynn_Heiskala"
+			"dynn_Hellstrom"
+			"dynn_Hill"
+			"dynn_Hobbs"
+			"dynn_Hogarth"
+			"dynn_Hollinger"
+			"dynn_Holmberg"
+			"dynn_Hopiavuori"
+			"dynn_Hughes"
+			"dynn_Ibbetson"
+			"dynn_Innanen"
+			"dynn_Ironstone"
+			"dynn_Jodouin"
+			"dynn_Jyvasjarvi"
+			"dynn_Kauranen"
+			"dynn_Kearney"
+			"dynn_Killraine"
+			"dynn_Klingenberg"
+			"dynn_Komonen"
+			"dynn_Koski"
+			"dynn_Kotanen"
+			"dynn_Laamanen"
+			"dynn_Laforge"
+			"dynn_Lago"
+			"dynn_Laprade"
+			"dynn_Laughren"
+			"dynn_LeCaine"
+			"dynn_Leffler"
+			"dynn_Leinonen"
+			"dynn_Levack"
+			"dynn_Lightfoot"
+			"dynn_Limerick"
+			"dynn_Lindgren"
+			"dynn_Lindstrom"
+			"dynn_Lund"
+			"dynn_Lymburne"
+			"dynn_MacDuff"
+			"dynn_Machar"
+			"dynn_Mactier"
+			"dynn_Madsen"
+			"dynn_Magnusson"
+			"dynn_Mahovlich"
+			"dynn_Maki"
+			"dynn_Maloway"
+			"dynn_Mantha"
+			"dynn_Manzo"
+			"dynn_Martell"
+			"dynn_Matson"
+			"dynn_Mauro"
+			"dynn_Maybury"
+			"dynn_McAllister"
+			"dynn_McBride"
+			"dynn_McCaffrey"
+			"dynn_McCall"
+			"dynn_McCambridge"
+			"dynn_McCammon"
+			"dynn_McClintock"
+			"dynn_McCluskey"
+			"dynn_McCord"
+			"dynn_McCourt"
+			"dynn_McCracken"
+			"dynn_McCreary"
+			"dynn_McCreedy"
+			"dynn_McCrory"
+			"dynn_McCulloch"
+			"dynn_McDonald"
+			"dynn_McDougall"
+			"dynn_McGarvey"
+			"dynn_McGaughey"
+			"dynn_McGimsie"
+			"dynn_McGregor"
+			"dynn_McKellar"
+			"dynn_McKenzie"
+			"dynn_McKim"
+			"dynn_McLaren"
+			"dynn_McMartin"
+			"dynn_McMurrich"
+			"dynn_McNeely"
+			"dynn_McVeigh"
+			"dynn_Monteith"
+			"dynn_Montrose"
+			"dynn_Moore"
+			"dynn_Mota"
+			"dynn_Murray"
+			"dynn_Niemi"
+			"dynn_Niro"
+			"dynn_Nordstrom"
+			"dynn_Northland"
+			"dynn_O_pst_Hallarn"
+			"dynn_O_pst_Malley"
+			"dynn_Olson"
+			"dynn_Orr"
+			"dynn_Paget"
+			"dynn_Paivio"
+			"dynn_Palangio"
+			"dynn_Parent"
+			"dynn_Pesola"
+			"dynn_Pine"
+			"dynn_Pirie"
+			"dynn_Pollard"
+			"dynn_Pope"
+			"dynn_Portelance"
+			"dynn_Prevost"
+			"dynn_Proudfoot"
+			"dynn_Provenzano"
+			"dynn_Pulkkinen"
+			"dynn_Radford"
+			"dynn_Rajala"
+			"dynn_Rancourt"
+			"dynn_Ranger"
+			"dynn_Rattray"
+			"dynn_Repo"
+			"dynn_Rinaldo"
+			"dynn_Rissanen"
+			"dynn_Rivard"
+			"dynn_Rocca"
+			"dynn_Rosvall"
+			"dynn_Rothschild"
+			"dynn_Roxburgh"
+			"dynn_Ruffo"
+			"dynn_Sargent"
+			"dynn_Saxberg"
+			"dynn_Schitt"
+			"dynn_Secord"
+			"dynn_Sedgewick"
+			"dynn_Seguin"
+			"dynn_Seppala"
+			"dynn_Servos"
+			"dynn_Sharp"
+			"dynn_Shaughnessy"
+			"dynn_Shedden"
+			"dynn_Shields"
+			"dynn_Skov"
+			"dynn_Slade"
+			"dynn_Slewidge"
+			"dynn_Spooner"
+			"dynn_Staal"
+			"dynn_Sutherland"
+			"dynn_Taffarel"
+			"dynn_Tarvainen"
+			"dynn_Terziano"
+			"dynn_Thalheimer"
+			"dynn_Theberge"
+			"dynn_Thibeault"
+			"dynn_Tkachuk"
+			"dynn_Tomiko"
+			"dynn_Towers"
+			"dynn_Tremblay"
+			"dynn_Tronslien"
+			"dynn_Tuomela"
+			"dynn_Turco"
+			"dynn_Tyyska"
+			"dynn_Vaananen"
+			"dynn_Vescio"
+			"dynn_Vickers"
+			"dynn_Virtanen"
+			"dynn_Voutilainen"
+			"dynn_Wesley"
+			"dynn_Wharram"
+			"dynn_Wohlberg"
+			"dynn_Wood"
+			"dynn_Wourinen"
+			"dynn_Yelleck"
+			"dynn_Yli"
+			"dynn_Zedlacher"
+		}
+		dynasty_names = {
+			"dynn_Aalto"
+			"dynn_Achray"
+			"dynn_Adduono"
+			"dynn_Aho"
+			"dynn_Akervall"
+			"dynn_Amadio"
+			"dynn_Amesbury"
+			"dynn_Andrusco"
+			"dynn_Anstruther"
+			"dynn_Backstrom"
+			"dynn_Ballantyne"
+			"dynn_Barilko"
+			"dynn_Barrick"
+			"dynn_Battochio"
+			"dynn_Baxter"
+			"dynn_Beatty"
+			"dynn_Bedard"
+			"dynn_Belrose"
+			"dynn_Bernardi"
+			"dynn_Billings"
+			"dynn_Bondar"
+			"dynn_Brackston"
+			"dynn_Bray"
+			"dynn_Bruni"
+			"dynn_Buckland"
+			"dynn_Bull"
+			"dynn_Burgess"
+			"dynn_Burk"
+			"dynn_Burwash"
+			"dynn_Cardiff"
+			"dynn_Carlyle"
+			"dynn_Cassel"
+			"dynn_Cassidy"
+			"dynn_Caswell"
+			"dynn_Cattarello"
+			"dynn_Caul"
+			"dynn_Ceppetelli"
+			"dynn_Chambers"
+			"dynn_Chirico"
+			"dynn_Christiansen"
+			"dynn_Clairmont"
+			"dynn_Coldwell"
+			"dynn_Commisso"
+			"dynn_Connors"
+			"dynn_Costa"
+			"dynn_Curtola"
+			"dynn_Dafoe"
+			"dynn_Danby"
+			"dynn_DeBastiani"
+			"dynn_DeBruin"
+			"dynn_DeLuca"
+			"dynn_DeMarco"
+			"dynn_DePiero"
+			"dynn_DeWildt"
+			"dynn_Degarie"
+			"dynn_Delmonte"
+			"dynn_Delnite"
+			"dynn_Delorenzi"
+			"dynn_Deluney"
+			"dynn_Delvecchio"
+			"dynn_Delvillano"
+			"dynn_Denison"
+			"dynn_Devalis"
+			"dynn_DiGiacomo"
+			"dynn_DiPietro"
+			"dynn_Drinkwater"
+			"dynn_Dufresne"
+			"dynn_Edighoffer"
+			"dynn_Edmeston"
+			"dynn_Erickson"
+			"dynn_Ertolahti"
+			"dynn_Esposito"
+			"dynn_Fabbro"
+			"dynn_Farr"
+			"dynn_Felice"
+			"dynn_Ferguson"
+			"dynn_Fields"
+			"dynn_Fife"
+			"dynn_Finlayson"
+			"dynn_Fisher"
+			"dynn_Foligno"
+			"dynn_Foucault"
+			"dynn_Fowler"
+			"dynn_Fox"
+			"dynn_Fraleigh"
+			"dynn_Frid"
+			"dynn_Gallagher"
+			"dynn_Gardi"
+			"dynn_Gaunce"
+			"dynn_Germain"
+			"dynn_Gingham"
+			"dynn_Gravelle"
+			"dynn_Greco"
+			"dynn_Green"
+			"dynn_Griffith"
+			"dynn_Griggs"
+			"dynn_Grisdale"
+			"dynn_Grosso"
+			"dynn_Grummet"
+			"dynn_Grunerud"
+			"dynn_Guloien"
+			"dynn_Halverson"
+			"dynn_Harpelle"
+			"dynn_Harris"
+			"dynn_Hassard"
+			"dynn_Heiskala"
+			"dynn_Hellstrom"
+			"dynn_Hill"
+			"dynn_Hobbs"
+			"dynn_Hogarth"
+			"dynn_Hollinger"
+			"dynn_Holmberg"
+			"dynn_Hopiavuori"
+			"dynn_Hughes"
+			"dynn_Ibbetson"
+			"dynn_Innanen"
+			"dynn_Ironstone"
+			"dynn_Jodouin"
+			"dynn_Jyvasjarvi"
+			"dynn_Kauranen"
+			"dynn_Kearney"
+			"dynn_Killraine"
+			"dynn_Klingenberg"
+			"dynn_Komonen"
+			"dynn_Koski"
+			"dynn_Kotanen"
+			"dynn_Laamanen"
+			"dynn_Laforge"
+			"dynn_Lago"
+			"dynn_Laprade"
+			"dynn_Laughren"
+			"dynn_LeCaine"
+			"dynn_Leffler"
+			"dynn_Leinonen"
+			"dynn_Levack"
+			"dynn_Lightfoot"
+			"dynn_Limerick"
+			"dynn_Lindgren"
+			"dynn_Lindstrom"
+			"dynn_Lund"
+			"dynn_Lymburne"
+			"dynn_MacDuff"
+			"dynn_Machar"
+			"dynn_Mactier"
+			"dynn_Madsen"
+			"dynn_Magnusson"
+			"dynn_Mahovlich"
+			"dynn_Maki"
+			"dynn_Maloway"
+			"dynn_Mantha"
+			"dynn_Manzo"
+			"dynn_Martell"
+			"dynn_Matson"
+			"dynn_Mauro"
+			"dynn_Maybury"
+			"dynn_McAllister"
+			"dynn_McBride"
+			"dynn_McCaffrey"
+			"dynn_McCall"
+			"dynn_McCambridge"
+			"dynn_McCammon"
+			"dynn_McClintock"
+			"dynn_McCluskey"
+			"dynn_McCord"
+			"dynn_McCourt"
+			"dynn_McCracken"
+			"dynn_McCreary"
+			"dynn_McCreedy"
+			"dynn_McCrory"
+			"dynn_McCulloch"
+			"dynn_McDonald"
+			"dynn_McDougall"
+			"dynn_McGarvey"
+			"dynn_McGaughey"
+			"dynn_McGimsie"
+			"dynn_McGregor"
+			"dynn_McKellar"
+			"dynn_McKenzie"
+			"dynn_McKim"
+			"dynn_McLaren"
+			"dynn_McMartin"
+			"dynn_McMurrich"
+			"dynn_McNeely"
+			"dynn_McVeigh"
+			"dynn_Monteith"
+			"dynn_Montrose"
+			"dynn_Moore"
+			"dynn_Mota"
+			"dynn_Murray"
+			"dynn_Niemi"
+			"dynn_Niro"
+			"dynn_Nordstrom"
+			"dynn_Northland"
+			"dynn_O_pst_Hallarn"
+			"dynn_O_pst_Malley"
+			"dynn_Olson"
+			"dynn_Orr"
+			"dynn_Paget"
+			"dynn_Paivio"
+			"dynn_Palangio"
+			"dynn_Parent"
+			"dynn_Pesola"
+			"dynn_Pine"
+			"dynn_Pirie"
+			"dynn_Pollard"
+			"dynn_Pope"
+			"dynn_Portelance"
+			"dynn_Prevost"
+			"dynn_Proudfoot"
+			"dynn_Provenzano"
+			"dynn_Pulkkinen"
+			"dynn_Radford"
+			"dynn_Rajala"
+			"dynn_Rancourt"
+			"dynn_Ranger"
+			"dynn_Rattray"
+			"dynn_Repo"
+			"dynn_Rinaldo"
+			"dynn_Rissanen"
+			"dynn_Rivard"
+			"dynn_Rocca"
+			"dynn_Rosvall"
+			"dynn_Rothschild"
+			"dynn_Roxburgh"
+			"dynn_Ruffo"
+			"dynn_Sargent"
+			"dynn_Saxberg"
+			"dynn_Schitt"
+			"dynn_Secord"
+			"dynn_Sedgewick"
+			"dynn_Seguin"
+			"dynn_Seppala"
+			"dynn_Servos"
+			"dynn_Sharp"
+			"dynn_Shaughnessy"
+			"dynn_Shedden"
+			"dynn_Shields"
+			"dynn_Skov"
+			"dynn_Slade"
+			"dynn_Slewidge"
+			"dynn_Spooner"
+			"dynn_Staal"
+			"dynn_Sutherland"
+			"dynn_Taffarel"
+			"dynn_Tarvainen"
+			"dynn_Terziano"
+			"dynn_Thalheimer"
+			"dynn_Theberge"
+			"dynn_Thibeault"
+			"dynn_Tkachuk"
+			"dynn_Tomiko"
+			"dynn_Towers"
+			"dynn_Tremblay"
+			"dynn_Tronslien"
+			"dynn_Tuomela"
+			"dynn_Turco"
+			"dynn_Tyyska"
+			"dynn_Vaananen"
+			"dynn_Vescio"
+			"dynn_Vickers"
+			"dynn_Virtanen"
+			"dynn_Voutilainen"
+			"dynn_Wesley"
+			"dynn_Wharram"
+			"dynn_Wohlberg"
+			"dynn_Wood"
+			"dynn_Wourinen"
+			"dynn_Yelleck"
+			"dynn_Yli"
+			"dynn_Zedlacher"
+		}
+		
+		#Lots of name short forms with Italian and Finnish names thrown in
+		male_names = {
+			Aarne Ab Aino Aku Albin Alex Alf Allan Alvin Andy Angelo Art
+			Barclay Bennett Bernard Bill Brendan Brian Bruce
+			Caleb Carl Carmine Chris Chuck Claude Clifford Colton Cosimo Craig Creighton Curtis Cy
+			Dalton Dan D_pst_Arcy Dave Dennis Derek Dino Don Doug Duncan
+			Edgar Eddie Einar Elliott Elmer Elwood Enrico Eric Esko Eugene
+			Flint Floyd Frank Fred
+			Gary Garth George Gerald Giancarlo Gianfranco Gianluca Gord Graham Greg Gus Guy
+			Hap Harold Harris Harvey Hector Herb Hewitt Howie Hugh Hunter
+			Ian Irving Ivar
+			Jackson Jake James Jari Jeff Jerome Joe Johnston
+			Kenny Kevin Kimmo Kyle
+			Larry Lance LeMoyne Lee Leo Les Lismer Lorne Lou Lyle Lyndon
+			Marc Mario Martin Matti Maurice Mervin Mike Morton
+			Neil Nelson Nick Norm
+			Orville Orvis Osias Otso
+			Pascal Pat Paul Pentti Pierre
+			Randy Ray Red Reg Renato Rick Robert Rocco Rod Roland Rollo Rolph Ron Ross Roy Russell
+			Sandford Scott Shane Shaun Simo Soren Stan Sterling Steve
+			Ted Terry Thomson Toby Toller Tom Tony Tove Trevor Troy Tyler
+			Umbert Urho
+			Vaino Varley Vernon Vic Vincent
+			Wade Wally Wayne Wilf Winston
+		}
+		female_names = {
+			Amanda Anne Anabelle Avril Alice
+			Barb Bonnie Beatrice Bella Bernice Beryl Bessie Betty Beverly Billy Brenda
+			Carmen Carol Cindy Charmaine Christine Claire Claudette 
+			Dawn Deborah Denise Diane Dorothy Doris Dorine Donna
+			Elsie Emily Edith Ellie Eliza Esther
+			Franny
+			Gertrude Gisele Grace Gladys Glenda Gloria
+			Haley Hazel Heather Helen
+			Ida Inez Isabelle
+			Janice Jean Jenna Jessica Jodie Judy Julie June Justine
+			Karen Kate Kelly
+			Laurie Lena Lisa Liz Lois Lorraine Louise Lynn
+			Mable Mae Margaret Marlene Mary Maureen Meg Michelle Molly Monique
+			Nancy Nicole
+			Olivia
+			Patricia Paulette Pauline Phylis Pricille
+			Rachel Renee Rita Ronnie Ruth
+			Sandy Sally Sanna Sarah Sharon Shawna Shelley Sherry Shirly Shyla Stephanie Susan Sydney
+			Tina Tabby Teresa Twyla
+			Wendy Willie Wilma
+			Vicky Vina
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		patronym_suffix_male = "dynnpat_suf_sboy"
+		patronym_suffix_female = "dynnpat_suf_sgirl"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 20
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 40
+		mother_name_chance = 20
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	yooper = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.4 0.35 0.1 }
+	
+		cadet_dynasty_names = {
+			"dynn_Ahota"
+			"dynn_Akseli"
+			"dynn_Beauchamp"
+			"dynn_Beckman"
+			"dynn_Bellmore"
+			"dynn_Biegler"
+			"dynn_Bigelow"
+			"dynn_Biolo"
+			"dynn_Boxer"
+			"dynn_Casperson"
+			"dynn_Champion"
+			"dynn_Colegrove"
+			"dynn_Deerhunter"
+			"dynn_Demars"
+			"dynn_Dousman"
+			"dynn_Dubord"
+			"dynn_Fair"
+			"dynn_Fountain"
+			"dynn_Gaujot"
+			"dynn_Giese"
+			"dynn_Gipp"
+			"dynn_Godfrey"
+			"dynn_Goetz"
+			"dynn_Groleau"
+			"dynn_H_a_uml_kkinen"
+			"dynn_Hammerberg"
+			"dynn_Hannus"
+			"dynn_Haupt"
+			"dynn_Heikkinen"
+			"dynn_Helminen"
+			"dynn_Hopper"
+			"dynn_Hord"
+			"dynn_Huuki"
+			"dynn_Ilkka"
+			"dynn_Isotalo"
+			"dynn_Jaakkola"
+			"dynn_Jalkanen"
+			"dynn_Juntunen"
+			"dynn_Kangas"
+			"dynn_Kelto"
+			"dynn_Klatt"
+			"dynn_Korpela"
+			"dynn_Kromer"
+			"dynn_Kukla"
+			"dynn_Kuusisto"
+			"dynn_Lafave"
+			"dynn_Lahti"
+			"dynn_LaJoie"
+			"dynn_Lalli"
+			"dynn_Lamere"
+			"dynn_Lauri"
+			"dynn_Longyear"
+			"dynn_Luatala"
+			"dynn_Magnet"
+			"dynn_Makinen"
+			"dynn_Manion"
+			"dynn_Mattila"
+			"dynn_Mattson"
+			"dynn_Maunu"
+			"dynn_Mayer"
+			"dynn_Michaelson"
+			"dynn_Nault"
+			"dynn_Negamanee"
+			"dynn_Niskanen"
+			"dynn_Nye"
+			"dynn_Olilla"
+			"dynn_Osterhout"
+			"dynn_P_a_uml_iv_a_uml_lehti"
+			"dynn_Paavola"
+			"dynn_Paquette"
+			"dynn_Parish"
+			"dynn_Pellonpaa"
+			"dynn_Pennell"
+			"dynn_Pepin"
+			"dynn_Pietila"
+			"dynn_Postma"
+			"dynn_Potila"
+			"dynn_Pukema"
+			"dynn_Rader"
+			"dynn_Rathbone"
+			"dynn_Rydholm"
+			"dynn_Saari"
+			"dynn_Seaborg"
+			"dynn_Standrew"
+			"dynn_Storey"
+			"dynn_Sundberg"
+			"dynn_Tallman"
+			"dynn_Tampere"
+			"dynn_Teske"
+			"dynn_Treado"
+			"dynn_Tuure"
+			"dynn_Uksila"
+			"dynn_Umnus"
+			"dynn_VA_yrynen"
+			"dynn_Vairo"
+			"dynn_Viau"
+			"dynn_Wellman"
+			"dynn_Wirtanen"
+			"dynn_Ylitalo"
+			"dynn_Yockey"
+		}
+		dynasty_names = {
+			"dynn_Ahota"
+			"dynn_Akseli"
+			"dynn_Beauchamp"
+			"dynn_Beckman"
+			"dynn_Bellmore"
+			"dynn_Biegler"
+			"dynn_Bigelow"
+			"dynn_Biolo"
+			"dynn_Boxer"
+			"dynn_Casperson"
+			"dynn_Champion"
+			"dynn_Colegrove"
+			"dynn_Deerhunter"
+			"dynn_Demars"
+			"dynn_Dousman"
+			"dynn_Dubord"
+			"dynn_Fair"
+			"dynn_Fountain"
+			"dynn_Gaujot"
+			"dynn_Giese"
+			"dynn_Gipp"
+			"dynn_Godfrey"
+			"dynn_Goetz"
+			"dynn_Groleau"
+			"dynn_H_a_uml_kkinen"
+			"dynn_Hammerberg"
+			"dynn_Hannus"
+			"dynn_Haupt"
+			"dynn_Heikkinen"
+			"dynn_Helminen"
+			"dynn_Hopper"
+			"dynn_Hord"
+			"dynn_Huuki"
+			"dynn_Ilkka"
+			"dynn_Isotalo"
+			"dynn_Jaakkola"
+			"dynn_Jalkanen"
+			"dynn_Juntunen"
+			"dynn_Kangas"
+			"dynn_Kelto"
+			"dynn_Klatt"
+			"dynn_Korpela"
+			"dynn_Kromer"
+			"dynn_Kukla"
+			"dynn_Kuusisto"
+			"dynn_Lafave"
+			"dynn_Lahti"
+			"dynn_LaJoie"
+			"dynn_Lalli"
+			"dynn_Lamere"
+			"dynn_Lauri"
+			"dynn_Longyear"
+			"dynn_Luatala"
+			"dynn_Magnet"
+			"dynn_Makinen"
+			"dynn_Manion"
+			"dynn_Mattila"
+			"dynn_Mattson"
+			"dynn_Maunu"
+			"dynn_Mayer"
+			"dynn_Michaelson"
+			"dynn_Nault"
+			"dynn_Negamanee"
+			"dynn_Niskanen"
+			"dynn_Nye"
+			"dynn_Olilla"
+			"dynn_Osterhout"
+			"dynn_P_a_uml_iv_a_uml_lehti"
+			"dynn_Paavola"
+			"dynn_Paquette"
+			"dynn_Parish"
+			"dynn_Pellonpaa"
+			"dynn_Pennell"
+			"dynn_Pepin"
+			"dynn_Pietila"
+			"dynn_Postma"
+			"dynn_Potila"
+			"dynn_Pukema"
+			"dynn_Rader"
+			"dynn_Rathbone"
+			"dynn_Rydholm"
+			"dynn_Saari"
+			"dynn_Seaborg"
+			"dynn_Standrew"
+			"dynn_Storey"
+			"dynn_Sundberg"
+			"dynn_Tallman"
+			"dynn_Tampere"
+			"dynn_Teske"
+			"dynn_Treado"
+			"dynn_Tuure"
+			"dynn_Uksila"
+			"dynn_Umnus"
+			"dynn_VA_yrynen"
+			"dynn_Vairo"
+			"dynn_Viau"
+			"dynn_Wellman"
+			"dynn_Wirtanen"
+			"dynn_Ylitalo"
+			"dynn_Yockey"
+		}
+		
+		#Finn larp
+		male_names = {
+			Aapo Aarni Akseli Albert Aleksanteri Alvar Ander Anton Arttu
+			Baldvin Benedikt Benjamin Bernard Bill Bjorn Brian
+			Christer Christian Clemens Clint
+			David Derek Dolph Donald
+			Edvin Eggert Elias Eljas Erkki Erling
+			Filip Fredrik Frithjof
+			Gavin Geir Georg Gerhard
+			Hannes Harald Harry Heikki Hermanni Hugo
+			Ignatz Inge Ingemar Isak Ivar
+			Jaakop Jani Jarmo Jesse Jimmer Joonas
+			Kaarle Kai Kim Klaus Knutti Konstantin Kurt
+			Lars Leevi Leif Lenni Leo
+			Manu Markku Martti Matti Maunu Mikael Moses
+			Nataniel Niclas Nooa Norvald
+			Olavi Orvar Oskari Otis Otto Ove
+			Pal Patrik Pekka Pirkka
+			Ragnar Rasmus Raud Reima Remnar Renny Rikhard Robert Ruuben
+			Sakari Samuli Santeri Sauli Sebastian Severin Sisu Steele Sven Sverre
+			Taneli Teemu Teppo Tobias Toivo Tommy Tor
+			Urho Usko
+			Valdemar Valtteri Ville
+		}
+		female_names = {
+			Ada Aino Alana Amalia Amanda Anna Annaliisa Atali Auni Aurora
+			Beth Breanna Brita
+			Camilla Cecilia
+			Dagmar Dorotea
+			Elina Elisa Elisabet Erika Ester Evelina
+			Fredrika
+			Gladys
+			Ilmatar Ilona Imogen Irene
+			Jaana Jonna
+			Karin Karolina Kathryn Keira Kerttu Kivutar Kristina Kyllikki
+			Lagertha Laura Leena Liekko Lokka Louhi
+			Maida Margaretha Marjatta Mary Morgan
+			Oza
+			Pam
+			Salme Sohvi Sonja
+			Tara Tytti
+			Vammatar
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	dairylander = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.55 0.5 0.3 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+		dynasty_of_location_prefix = "von "
+		patronym_suffix_male = "son"
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+	}
+	northlander = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.65 0.45 0.5 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+		dynasty_of_location_prefix = "av "
+		patronym_suffix_male = "sson"
+		patronym_suffix_female = "sdatter"
+
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+	}
+}

@@ -1,0 +1,254 @@
+british_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	falklander = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.36 0.13 0.13 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Aldridge"
+			"dynn_Ashbridge"
+			"dynn_Baillon"
+			"dynn_Barkman"
+			"dynn_Berntsen"
+			"dynn_Betts"
+			"dynn_Biggs"
+			"dynn_Birmingham"
+			"dynn_Blackley"
+			"dynn_Bone"
+			"dynn_Bonner"
+			"dynn_Bound"
+			"dynn_Bragger"
+			"dynn_Brownlee"
+			"dynn_Buckland"
+			"dynn_Burston"
+			"dynn_Camp"
+			"dynn_Chaloner"
+			"dynn_Cheek"
+			"dynn_Clarke"
+			"dynn_Clifton"
+			"dynn_Cockwell"
+			"dynn_Cotter"
+			"dynn_Crowie"
+			"dynn_Edwards"
+			"dynn_Elsby"
+			"dynn_Ferriby"
+			"dynn_Fiddes"
+			"dynn_Ford"
+			"dynn_Fowmes"
+			"dynn_Freer"
+			"dynn_Goodwin"
+			"dynn_Goss"
+			"dynn_Grimmer"
+			"dynn_Halliday"
+			"dynn_Hansen"
+			"dynn_Hardcastle"
+			"dynn_Heathman"
+			"dynn_Hewitt"
+			"dynn_Hirtle"
+			"dynn_Hobley"
+			"dynn_Howard"
+			"dynn_Jaffray"
+			"dynn_Jennings"
+			"dynn_Johnson"
+			"dynn_Kilmartin"
+			"dynn_Lee"
+			"dynn_Lewis"
+			"dynn_Luxton"
+			"dynn_Marsh"
+			"dynn_May"
+			"dynn_McGill"
+			"dynn_McKay"
+			"dynn_McLeod"
+			"dynn_McPhee"
+			"dynn_Middleton"
+			"dynn_Morrison"
+			"dynn_Ormond"
+			"dynn_Paice"
+			"dynn_Peck"
+			"dynn_Pollard"
+			"dynn_Poncet"
+			"dynn_Poole"
+			"dynn_Reive"
+			"dynn_Rendell"
+			"dynn_Robson"
+			"dynn_Rose"
+			"dynn_Sackett"
+			"dynn_Shillitoe"
+			"dynn_Short"
+			"dynn_Smith"
+			"dynn_Speedwell"
+			"dynn_Spink"
+			"dynn_Stanley"
+			"dynn_Steen"
+			"dynn_Summers"
+			"dynn_Toolan"
+			"dynn_Whitney"
+			"dynn_Williams"
+			"dynn_Winter"
+		}
+		
+		male_names = {
+			Barry Ben
+			Charles
+			David Dennis
+			Edward
+			Gavin Gerald Glen
+			James John
+			Keith
+			Louis
+			Martin Marvin Michael
+			Roger Ross
+			Sam
+			Terry
+		}
+		female_names = {
+			Anne
+			Mary
+		}
+		dynasty_of_location_prefix = "of"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	wladfaeg = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.54 0.09 0.09 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Bell"
+			"dynn_Berwyn"
+			"dynn_Bowen"
+			"dynn_Brown"
+			"dynn_Brunt"
+			"dynn_Burton"
+			"dynn_Davies"
+			"dynn_Evans"
+			"dynn_Fogwill"
+			"dynn_Foulkes"
+			"dynn_Freeman"
+			"dynn_Griffith"
+			"dynn_Harris"
+			"dynn_Hughes"
+			"dynn_Humphreys"
+			"dynn_James"
+			"dynn_Jenkins"
+			"dynn_Jones"
+			"dynn_King"
+			"dynn_Lewis"
+			"dynn_Lloyd"
+			"dynn_Lockyer"
+			"dynn_Matthews"
+			"dynn_Moore"
+			"dynn_Morgan"
+			"dynn_Morrell"
+			"dynn_Owen"
+			"dynn_Parry"
+			"dynn_Phillips"
+			"dynn_Price"
+			"dynn_Pugh"
+			"dynn_Ramsey"
+			"dynn_Rees"
+			"dynn_Richards"
+			"dynn_Roberts"
+			"dynn_Rogers"
+			"dynn_Rowlands"
+			"dynn_Ruffudd"
+			"dynn_Talbot"
+			"dynn_Thomas"
+			"dynn_Williams"
+			"dynn_Wilson"
+		}
+		
+		male_names = {
+			Agust_i_act_n Alan Aldo Alejandro Andr_e_act_a Arturo
+			Benbow Bleddyn Bruno
+			Cadel Caradog Carwyn Cristian Cyn_a_act_n Cynrig
+			Dafydd Daniel Derfel Diego Dyl_a_act_n
+			Eduardo Emrys Ev_a_act_n
+			Felipe Franco
+			Gabriel Gareth Geraint Gruffydd Guillermo
+			Hugo Hywel
+			Iolo
+			Jorge Jos_e_act_ Jos_e_act__Luis Jos_e_act__Mar_i_act_a Juan Juan_Carlos Juan_Mart_i_act_n Juan_Pablo
+			Lloyd Llyr Lucas Luis
+			Madoc Manuel Mariano Mario Mart_i_act_n Mateo Mauricio Mauro
+			Nicol_a_act_s
+			Owain
+			Pablo Pedro
+			Ra_u_act_l Rhodri Rhys Ricardo Roberto
+			Sergio Steven
+			Tom_a_act_s Trevor Trist_a_act_n Tudur
+		}
+		female_names = {
+			Adela Alys Amanda Ana
+			Bethan Bronwen Bryn
+			Cerys Chlo_e_act_ Claudia
+			Daisy Daniela
+			Elena Eluned Emma
+			Gabriela Gemma Georgia Gladys Gwen Gwyneth
+			Heather
+			Josefina Juana Julia
+			Leonor Luisa Lynn
+			Mar_i_act_a Margarita Maud Meredith
+			Nancy Nerys Nia
+			Paulina
+			Raquel Rhian Rhonda Roberta Rosa
+			Sara Siana Silvia Sof_i_act_a Sonia
+			Tara
+			Valentina Valeria
+			Wynne
+		}
+		dynasty_of_location_prefix = "de"
+		
+		patronym_prefix_male = "dynnpat_pre_pibe_de"
+		patronym_prefix_female = "dynnpat_pre_piba_de"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

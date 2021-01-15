@@ -1,0 +1,428 @@
+ameroaustral_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+
+	mapuche = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.42 0.59 0.09 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Aillap_a_act_n"
+			"dynn_Ancalao"
+			"dynn_Ancamilla"
+			"dynn_Ancapichun"
+			"dynn_Antilef"
+			"dynn_Antinao"
+			"dynn_Buenuleo"
+			"dynn_Calbucura"
+			"dynn_Calfucur_a_act_"
+			"dynn_Calfulen"
+			"dynn_Calfunao"
+			"dynn_Caniulef"
+			"dynn_Catrilanca"
+			"dynn_Catrileo"
+			"dynn_Catriquir"
+			"dynn_Cayancura"
+			"dynn_Cayupil"
+			"dynn_Cayuqueo"
+			"dynn_Cheuquem_a_act_n"
+			"dynn_Chihuailaf"
+			"dynn_Co_n_tld_oep_a_act_n"
+			"dynn_Colihueque"
+			"dynn_Colip_i_act_"
+			"dynn_Coliqueo"
+			"dynn_Coll_i_act_o"
+			"dynn_Curamil"
+			"dynn_Curriao"
+			"dynn_Currimilla"
+			"dynn_Huaiquil"
+			"dynn_Huaiquip_a_act_n"
+			"dynn_Huen_u_act_n"
+			"dynn_Huenchulaf"
+			"dynn_Huenchumilla"
+			"dynn_Huenecura"
+			"dynn_Huenteo"
+			"dynn_Huenum_a_act_n"
+			"dynn_Huenupil"
+			"dynn_Huilcam_a_act_n"
+			"dynn_Huilip_a_act_n"
+			"dynn_Huinao"
+			"dynn_Huirilef"
+			"dynn_Lemunao"
+			"dynn_Leuqu_e_act_n"
+			"dynn_Lienlaf"
+			"dynn_Llancaleo"
+			"dynn_Llanquileo"
+			"dynn_Llanquinao"
+			"dynn_Llaulen"
+			"dynn_Manquilef"
+			"dynn_Marilao"
+			"dynn_Mariluan"
+			"dynn_Marip_a_act_n"
+			"dynn_Maripangui"
+			"dynn_Melil_a_act_n"
+			"dynn_Melivil_u_act_"
+			"dynn_Millabur"
+			"dynn_Millam_a_act_n"
+			"dynn_Millanao"
+			"dynn_Milla_n_tld_ir"
+			"dynn_Millap_a_act_n"
+			"dynn_Millaqueucur_a_act_"
+			"dynn_N_tld_anco"
+			"dynn_N_tld_ancuil"
+			"dynn_Nahuelp_a_act_n"
+			"dynn_Nahuelqu_e_act_n"
+			"dynn_Namuncur_a_act_"
+			"dynn_Neculm_a_act_n"
+			"dynn_Pailahueque"
+			"dynn_Paillalef"
+			"dynn_Paillama"
+			"dynn_Paillaqueo"
+			"dynn_Painequeo"
+			"dynn_Panguilef"
+			"dynn_Pe_n_tld__a_act_n"
+			"dynn_Pilquim_a_act_n"
+			"dynn_Purr_a_act_n"
+			"dynn_Quelemp_a_act_n"
+			"dynn_Quidel"
+			"dynn_Quilam_a_act_n"
+			"dynn_Quintriqueo"
+			"dynn_Quintupil"
+			"dynn_Quirib_a_act_n"
+			"dynn_Quitral"
+			"dynn_Ra_i_act_n"
+			"dynn_Reinao"
+			"dynn_Reumaycur_a_act_"
+			"dynn_Reuquecur_a_act_"
+			"dynn_Tragnolao"
+			"dynn_Tragolaf"
+			"dynn_Yevilao"
+		}
+		
+		male_names = {
+			Aillavill_u_act_ Alcatipay Alejandro Alhue Anganam_o_act_n Ankatu Antig_u_uml_e_n_tld_u Antonio Antucau Antulaf Antumanque Auc_a_act_n Aurelio Ayun
+			Butapich_o_act_n
+			Cadeguala Calbu_n_tld_ancu Calfucur_a_act_ Camilo Catriel Caucaman Caupolic_a_act_n Ceferino Celestino Chayweke Chocor_i_act_ Cipriano Colocolo Curi_n_tld_ancu
+			Elicura Eluney
+			Federico Feliciano Felipe
+			Galvarino Guanoalca
+			Hueicha Huenchullan Huenecura
+			Illanguil_e_act_n
+			Jorge Jos_e_act_ Jos_e_act__Santos Juan
+			Lancuyen Lauchoique Lautaro Lebi_a_act_n Lemolemo Lemucaguin Licanhuala Lientur Lihuel Linkoy_a_act_n Llanganabal Lorenzo
+			Ma_n_tld_il Mainque Malloquete Manuel Melipangi Millalhuan Modesto
+			N_tld_amku Nahuel Nahuelquin Nangoniel Nehuen Ng_u_uml_r_u_uml_
+			Ongolmo
+			Paillataru Paiquereu Pelantaro
+			Quepuent_u_act_ Qui_n_tld_olef Quilap_a_act_n Quillen
+			Raiquen Renquecur_a_act_ Rim_u_uml_
+			Tahiel Tay_u_uml_l
+			Valent_i_act_n Venancio Vilumilla
+			Weychafe
+			Yaco
+		}
+		female_names = {
+			Ailin Amancay Ana Anah_i_act_ Aneley Antumalen Ayilen Ayinko
+			Chiwaiad
+			Darelen
+			Ellangechi Epulewfu
+			Guacolda
+			Huanel Huilen
+			Ilwen Inara
+			Janequeo Juana
+			Kelle_n_tld_u Komalen Kuyenray
+			Lihuen Lilen Llacolen Llanca Llankuray
+			Mailen Mar_i_act_a Mariwal Mawunko Mayela Melian Millaray
+			Pairo Pire
+			Quimey
+			Rayen Raymilla Raynanku Relmutray Rosa
+			Saki_n_tld_ Sayen Suya
+			W_u_uml__n_tld_elfe
+			Yaima Yanara Yerimeni
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	aonikenk = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.32 0.69 0.43 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Bigu_a_act_"
+			"dynn_Chiquichano"
+			"dynn_Inacayal"
+			"dynn_Josh_pst_n"
+			"dynn_Karrro"
+			"dynn_Kerrpr"
+			"dynn_Klatue"
+			"dynn_Koy"
+			"dynn_Krewem_pst_n"
+			"dynn_Oteh_pst_l"
+			"dynn_Pa_i_act_nk"
+			"dynn_Pa_u_act_n"
+			"dynn_Salpul"
+			"dynn_Sayhueque"
+			"dynn_Terke"
+			"dynn_Wuoms"
+			"dynn_Yath"
+			"dynn_Yoppen"
+		}
+		
+		male_names = {
+			Alhue Anganamon Ankatu Antucau Antulaf Antumanque Aukan Ayun
+			Butapichon
+			Camilo Cangapol Casimiro Catriel Cayup_a_act_n
+			Eluney
+			Felipe
+			Galvarino
+			Hueicha Huenchullan
+			Lancuyen Lauchoique Lautaro Licanhuala Lihuel Linkoyan
+			Mainque Melipangi Millalhuan
+			Nahuel Nahuelquin Nangoniel Nehuen Ng_u_uml_r_u_uml_ Nicol_a_act_s
+			Orkeke
+			Paiquereu Pap_o_act_n Pinc_e_act_n
+			Quillen
+			Raiquen Rim_u_uml_
+			Tahiel Tay_u_uml_l
+			Vicente
+			Weychafe
+			Yaco
+		}
+		female_names = {
+			Ailin Amancay Aneley Antumalen Ayilen Ayinko
+			Chiwaiad Cogocha
+			Darelen
+			Ellangechi Epulewfu
+			Guacolda
+			Huanel Huilen
+			Ilwen Inara
+			Kelle_n_tld_u Komalen Kuyenray
+			Lihuen Lilen Llacolen Llanca Llankuray
+			Mailen Mar_i_act_a Mawunko Mayela Melian Millaray
+			Pairo Pire
+			Quimey
+			Rayen Raymilla Raynanku Relmutray Rosa
+			Saki_n_tld_ Sayen Suya
+			W_u_uml__n_tld_elfe
+			Yaima Yanara Yerimeni
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	kawesqar = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.48 0.62 0.24 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Achacaz"
+			"dynn_Alessandri"
+			"dynn_Amalaikar"
+			"dynn_As_a_act_wer"
+			"dynn_Baker"
+			"dynn_Chunb_i_act_l"
+			"dynn_Ed_e_act_n"
+			"dynn_Guarello"
+			"dynn_Jautok"
+			"dynn_Koyo"
+			"dynn_Kuun_pst_ach"
+			"dynn_Lalaif"
+			"dynn_Maidel"
+			"dynn_Nancuante"
+			"dynn_Navarino"
+			"dynn_Paterito"
+			"dynn_Pauntil"
+			"dynn_Renchi"
+			"dynn_Tafkarh"
+			"dynn_Tawokser"
+			"dynn_Tonko"
+			"dynn_Walakial"
+			"dynn_Wellington"
+			"dynn_Yeerha"
+		}
+		
+		male_names = {
+			Ailk_e_act_ Alberto
+			C_pst_akuol Carlos Chamalo Charkush
+			Elleparu Enokou_e_act_
+			Jos_e_act_ Julio
+			Kieshka
+			Leum
+			Peteyem
+			Terwa
+			O_act_scar
+		}
+		female_names = {
+			Aikst_e_act_ At_a_act_p
+			Celina
+			Est_e_act_r
+			Fressia
+			Gabriela
+			J_e_act_rawr
+			K_pst_eotcok Kun_pst_hek Kuolet
+			Margarita
+			N_o_act_us
+			Pa_a_act_ksa
+			Ver_o_act_nica
+			Yokcushlu
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	selknam = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.21 0.32 0.24 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_A_act_lvarez"
+			"dynn_Ahal"
+			"dynn_Barrientos"
+			"dynn_C_a_act_rdenas"
+			"dynn_Campos"
+			"dynn_Canales"
+			"dynn_Chache"
+			"dynn_Choquintel"
+			"dynn_D_i_act_az"
+			"dynn_Enr_i_act_quez"
+			"dynn_Fique"
+			"dynn_Galindo"
+			"dynn_Jauje"
+			"dynn_Jauke"
+			"dynn_K_u_act_m"
+			"dynn_Karr-Kai"
+			"dynn_Kerrpr"
+			"dynn_Koshpy"
+			"dynn_Lasserre"
+			"dynn_Loij"
+			"dynn_Molina"
+			"dynn_Mu_n_tld_oz"
+			"dynn_Otrchin"
+			"dynn_Oyarz_u_act_n"
+			"dynn_Saenes"
+			"dynn_Sobral"
+			"dynn_Soto"
+			"dynn_Tekol"
+			"dynn_Tel"
+			"dynn_Tohol"
+			"dynn_Verdugo"
+			"dynn_Wuisn"
+			"dynn_Yanten"
+			"dynn_Yech_pst_n"
+			"dynn_Yoppen"
+		}
+		
+		male_names = {
+			Ahnikin Alaken Alekatem Alexpoot Amek Aneki Anik Atel_e_act_n
+			Chalshoat
+			Hala Halemink Hatah
+			Ishtohn
+			Kapriel Kaukais Kautempklh Kauxia Kelal Ken_o_act_s Keyuk Kostel_e_act_n Kuanyip
+			Maiy_e_act_n Minquiol
+			Paachek Paciek Payn_e_act_n Puppup
+			Schilchan Shishkolh Sixiol
+			Tael Tenenisk T_a_act_iyin
+			Warquiri_o_act_n Wengull
+			Yehuun Yonolpe
+		}
+		female_names = {
+			Alux_a_act_n Ani_a_act_n Atel_e_act_n Aynk_a_act_n
+			Halemink Hayin Hema_pst_ny
+			Kiepja Kostel_e_act_n Kuanyip
+			Lasw_a_act_ix
+			Maiy_e_act_n Minquiol
+			Payn_e_act_n
+			Sixiol
+			Te-al T_a_act_ix
+			Warquiri_o_act_n
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

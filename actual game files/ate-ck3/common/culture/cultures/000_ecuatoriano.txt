@@ -1,0 +1,125 @@
+ecuatoriano_group = { 
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	guayanenese = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.35 0.37 0.63 }
+
+		cadet_dynasty_names = {
+					"dynn_guayanenese_placeholder"
+		}
+		dynasty_names = {
+					"dynn_guayanenese_placeholder"
+		}
+
+		male_names = {
+			"guayanenese_placeholder_mnames"
+		}
+		female_names = {
+			"guayanenese_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	quiteno = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.25 0.26 0.45 }
+
+		cadet_dynasty_names = {
+					"dynn_quiteno_placeholder"
+		}
+		dynasty_names = {
+					"dynn_quiteno_placeholder"
+		}
+
+		male_names = {
+			"quiteno_placeholder_mnames"
+		}
+		female_names = {
+			"quiteno_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	serrano = {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+
+		color = { 0.45 0.48 0.74 }
+
+		cadet_dynasty_names = {
+					"dynn_serrano_placeholder"
+		}
+		dynasty_names = {
+					"dynn_serrano_placeholder"
+		}
+
+		male_names = {
+			"serrano_placeholder_mnames"
+		}
+		female_names = {
+			"serrano_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

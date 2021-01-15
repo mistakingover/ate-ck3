@@ -1,29 +1,29 @@
-andino_group = { 
+chacoan_group = { 
 	graphical_cultures = {
 		western_coa_gfx
 		western_building_gfx
 		western_clothing_gfx
 		western_unit_gfx
 	}
-	camba = {
+	kadiweu = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 
-		color = { 1.0 0.84 0.56 }
+		color = { 0.07 0.04 0.1 }
 
 		cadet_dynasty_names = {
-					"dynn_camba_placeholder"
+					"dynn_kadiweu_placeholder"
 		}
 		dynasty_names = {
-					"dynn_camba_placeholder"
+					"dynn_kadiweu_placeholder"
 		}
 
 		male_names = {
-			"camba_placeholder_mnames"
+			"kadiweu_placeholder_mnames"
 		}
 		female_names = {
-			"camba_placeholder_fnames"
+			"kadiweu_placeholder_fnames"
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -44,25 +44,25 @@ andino_group = {
 			25 = caucasian_dark_hair
 		}
 	}
-	kolla = {
+	nivacle = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 
-		color = { 0.8 0.49 0.21 }
+		color = { 0.47 0.23 0.56 }
 
 		cadet_dynasty_names = {
-					"dynn_kolla_placeholder"
+					"dynn_nivacle_placeholder"
 		}
 		dynasty_names = {
-					"dynn_kolla_placeholder"
+					"dynn_nivacle_placeholder"
 		}
 
 		male_names = {
-			"kolla_placeholder_mnames"
+			"nivacle_placeholder_mnames"
 		}
 		female_names = {
-			"kolla_placeholder_fnames"
+			"nivacle_placeholder_fnames"
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -83,25 +83,25 @@ andino_group = {
 			25 = caucasian_dark_hair
 		}
 	}
-	quechua = {
+	qom = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 
-		color = { 0.48 0.35 0.24 }
+		color = { 0.31 0.23 0.36 }
 
 		cadet_dynasty_names = {
-					"dynn_quechua_placeholder"
+					"dynn_qom_placeholder"
 		}
 		dynasty_names = {
-					"dynn_quechua_placeholder"
+					"dynn_qom_placeholder"
 		}
 
 		male_names = {
-			"quechua_placeholder_mnames"
+			"qom_placeholder_mnames"
 		}
 		female_names = {
-			"quechua_placeholder_fnames"
+			"qom_placeholder_fnames"
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -122,25 +122,25 @@ andino_group = {
 			25 = caucasian_dark_hair
 		}
 	}
-	aymara = {
+	ayoreo = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 
-		color = { 0.76 0.56 0.38 }
+		color = { 0.5 0.17 0.72 }
 
 		cadet_dynasty_names = {
-					"dynn_aymara_placeholder"
+					"dynn_ayoreo_placeholder"
 		}
 		dynasty_names = {
-					"dynn_aymara_placeholder"
+					"dynn_ayoreo_placeholder"
 		}
 
 		male_names = {
-			"aymara_placeholder_mnames"
+			"ayoreo_placeholder_mnames"
 		}
 		female_names = {
-			"aymara_placeholder_fnames"
+			"ayoreo_placeholder_fnames"
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -161,25 +161,25 @@ andino_group = {
 			25 = caucasian_dark_hair
 		}
 	}
-	selvalteno = {
+	mascoy = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 
-		color = { 0.71 0.45 0.2 }
+		color = { 0.48 0.36 0.56 }
 
 		cadet_dynasty_names = {
-					"dynn_selvalteno_placeholder"
+					"dynn_mascoy_placeholder"
 		}
 		dynasty_names = {
-					"dynn_selvalteno_placeholder"
+					"dynn_mascoy_placeholder"
 		}
 
 		male_names = {
-			"selvalteno_placeholder_mnames"
+			"mascoy_placeholder_mnames"
 		}
 		female_names = {
-			"selvalteno_placeholder_fnames"
+			"mascoy_placeholder_fnames"
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -200,25 +200,25 @@ andino_group = {
 			25 = caucasian_dark_hair
 		}
 	}
-	wanka = {
+	wichi = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
 
-		color = { 0.71 0.55 0.4 }
+		color = { 0.66 0.49 0.77 }
 
 		cadet_dynasty_names = {
-					"dynn_wanka_placeholder"
+					"dynn_wichi_placeholder"
 		}
 		dynasty_names = {
-					"dynn_wanka_placeholder"
+					"dynn_wichi_placeholder"
 		}
 
 		male_names = {
-			"wanka_placeholder_mnames"
+			"wichi_placeholder_mnames"
 		}
 		female_names = {
-			"wanka_placeholder_fnames"
+			"wichi_placeholder_fnames"
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
