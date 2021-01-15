@@ -1,9 +1,9 @@
-﻿tree_leaf_high_generator_1={
-	mask="tree_leaf_01_mask"
+﻿tree_leaf_colored_01_high_generator_1={
+	mask="tree_leaf_colored_01_mask"
 	layer="tree_high_layer"
 
 	meshes={
-		"tree_leaf_01_a_mesh" = 1.000000
+		"tree_leaf_colored_01_a_mesh" = 1.000000
 	}
 
 	max_density=0.450000
@@ -21,12 +21,12 @@
 	}
 }
 
-tree_leaf_high_generator_2={
-	mask="tree_leaf_01_mask"
+tree_leaf_colored_01_high_generator_2={
+	mask="tree_leaf_colored_01_mask"
 	layer="tree_high_layer"
 
 	meshes={
-		"tree_leaf_01_b_mesh" = 1.000000
+		"tree_leaf_colored_01_b_mesh" = 1.000000
 	}
 
 	max_density=0.150000
@@ -44,12 +44,12 @@ tree_leaf_high_generator_2={
 	}
 }
 
-tree_leaf_high_generator_3={
-	mask="tree_leaf_01_mask"
+tree_leaf_colored_01_high_generator_3={
+	mask="tree_leaf_colored_01_mask"
 	layer="tree_high_layer"
 
 	meshes={
-		"tree_leaf_01_c_mesh" = 1.000000
+		"tree_leaf_colored_01_c_mesh" = 1.000000
 	}
 
 	max_density=0.200000
@@ -69,12 +69,12 @@ tree_leaf_high_generator_3={
 
 ### MEDIUM ###
 
-#tree_leaf_medium_generator_1={
-#	mask="tree_leaf_01_mask"
+#tree_leaf_colored_01_medium_generator_1={
+#	mask="tree_leaf_colored_01_mask"
 #	layer="tree_medium_layer"
 #
 #	meshes={
-#		"tree_leaf_01_a_mesh" = 1.000000
+#		"tree_leaf_colored_01_a_mesh" = 1.000000
 #	}
 #
 #	max_density=0.67
@@ -92,12 +92,12 @@ tree_leaf_high_generator_3={
 #	}
 #}
 #
-#tree_leaf_medium_generator_2={
-#	mask="tree_leaf_01_mask"
+#tree_leaf_colored_01_medium_generator_2={
+#	mask="tree_leaf_colored_01_mask"
 #	layer="tree_medium_layer"
 #
 #	meshes={
-#		"tree_leaf_01_b_mesh" = 1.000000
+#		"tree_leaf_colored_01_b_mesh" = 1.000000
 #	}
 #
 #	max_density=0.067
@@ -115,12 +115,12 @@ tree_leaf_high_generator_3={
 #	}
 #}
 #
-#tree_leaf_medium_generator_3={
-#	mask="tree_leaf_01_mask"
+#tree_leaf_colored_01_medium_generator_3={
+#	mask="tree_leaf_colored_01_mask"
 #	layer="tree_medium_layer"
 #
 #	meshes={
-#		"tree_leaf_01_c_mesh" = 1.000000
+#		"tree_leaf_colored_01_c_mesh" = 1.000000
 #	}
 #
 #	max_density=0.67
@@ -140,12 +140,12 @@ tree_leaf_high_generator_3={
 #
 #### LOW ###
 #
-#tree_leaf_low_generator_1={
-#	mask="tree_leaf_01_mask"
+#tree_leaf_colored_01_low_generator_1={
+#	mask="tree_leaf_colored_01_mask"
 #	layer="tree_low_layer"
 #
 #	meshes={
-#		"tree_leaf_01_a_mesh" = 1.000000
+#		"tree_leaf_colored_01_a_mesh" = 1.000000
 #	}
 #
 #	max_density=0.33
@@ -163,12 +163,12 @@ tree_leaf_high_generator_3={
 #	}
 #}
 #
-#tree_leaf_low_generator_2={
-#	mask="tree_leaf_01_mask"
+#tree_leaf_colored_01_low_generator_2={
+#	mask="tree_leaf_colored_01_mask"
 #	layer="tree_low_layer"
 #
 #	meshes={
-#		"tree_leaf_01_b_mesh" = 1.000000
+#		"tree_leaf_colored_01_b_mesh" = 1.000000
 #	}
 #
 #	max_density=0.033
@@ -186,12 +186,12 @@ tree_leaf_high_generator_3={
 #	}
 #}
 #
-#tree_leaf_low_generator_3={
-#	mask="tree_leaf_01_mask"
+#tree_leaf_colored_01_low_generator_3={
+#	mask="tree_leaf_colored_01_mask"
 #	layer="tree_low_layer"
 #
 #	meshes={
-#		"tree_leaf_01_c_mesh" = 1.000000
+#		"tree_leaf_colored_01_c_mesh" = 1.000000
 #	}
 #
 #	max_density=0.33
