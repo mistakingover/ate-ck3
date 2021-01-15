@@ -2784,7 +2784,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-558 = { #Haliburton
+558 = { #Haliburton ge
 	culture = ontarian
 	religion = test_faith
 	holding = castle_holding
@@ -2824,7 +2824,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-566 = { #Snow Road Station
+566 = { #Ompah
 	culture = ontarian
 	religion = test_faith
 	holding = castle_holding
@@ -4364,7 +4364,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-874 = { #League
+874 = { #League City
 	culture = texan
 	religion = test_faith
 	holding = castle_holding
@@ -4654,7 +4654,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-932 = { #Wake
+932 = { #Wake ge
 	culture = texan
 	religion = test_faith
 	holding = castle_holding
@@ -4829,7 +4829,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-967 = { #Horizon
+967 = { #Horizon City
 	culture = tejano
 	religion = test_faith
 	holding = castle_holding
@@ -4964,7 +4964,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-994 = { #Crystal
+994 = { #Crystal City
 	culture = tejano
 	religion = test_faith
 	holding = castle_holding
@@ -4979,7 +4979,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-997 = { #Rio Grande
+997 = { #Rio Grande City
 	culture = tejano
 	religion = test_faith
 	holding = castle_holding
@@ -5099,7 +5099,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1021 = { #Oklahoma
+1021 = { #Oklahoma City
 	culture = texan
 	religion = test_faith
 	holding = castle_holding
@@ -5124,7 +5124,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1026 = { #Ponca
+1026 = { #Ponca City
 	culture = sioux
 	religion = test_faith
 	holding = castle_holding
@@ -5614,7 +5614,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1124 = { #Elk
+1124 = { #Elk City
 	culture = cheyenne
 	religion = test_faith
 	holding = castle_holding
@@ -6129,7 +6129,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1227 = { #Dawson
+1227 = { #Dawson City
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
@@ -6269,7 +6269,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1255 = { #Silver
+1255 = { #Silver City
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
@@ -6304,7 +6304,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1262 = { #Stevens
+1262 = { #Stevens ge
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
@@ -6329,12 +6329,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1267 = { #Alexanders
+1267 = { #Alexanders ge
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
 }
-1268 = { #Arctic
+1268 = { #Arctic ge
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
@@ -6359,12 +6359,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1273 = { #Whitestone
+1273 = { #Whitestone ge
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
 }
-1274 = { #Canyon
+1274 = { #Canyon ge
 	culture = yukoner
 	religion = test_faith
 	holding = castle_holding
@@ -6654,7 +6654,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1332 = { #Reindeer Station
+1332 = { #Camp Farewell
 	culture = inuit
 	religion = test_faith
 	holding = castle_holding
@@ -6849,7 +6849,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1371 = { #Col Lake
+1371 = { #Colville Lake
 	culture = dene
 	religion = test_faith
 	holding = castle_holding
@@ -7149,7 +7149,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1431 = { #New York
+1431 = { #New York City
 	culture = gothamite
 	religion = test_faith
 	holding = castle_holding
@@ -7169,7 +7169,7 @@
 	religion = test_faith
 	holding = city_holding
 }
-1435 = { #Huntington Station
+1435 = { #Glen Cove
 	culture = gothamite
 	religion = test_faith
 	holding = castle_holding
@@ -7254,28 +7254,28 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1452 = { #Sparta
-	culture = delawarean
-	religion = test_faith
-	holding = castle_holding
-}
-1453 = { #Hackettstown
-	culture = delawarean
-	religion = test_faith
-	holding = castle_holding
-}
-1454 = { #High Bridge
-	culture = delawarean
-	religion = test_faith
-	holding = castle_holding
-}
-1455 = { #Toms River
+1452 = { #Toms River
 	culture = yiddish
 	religion = test_faith
 	holding = castle_holding
 }
-1456 = { #Ocean Acres
+1453 = { #Ocean Acres
 	culture = yiddish
+	religion = test_faith
+	holding = castle_holding
+}
+1454 = { #Sparta
+	culture = delawarean
+	religion = test_faith
+	holding = castle_holding
+}
+1455 = { #Hackettstown
+	culture = delawarean
+	religion = test_faith
+	holding = castle_holding
+}
+1456 = { #High Bridge
+	culture = delawarean
 	religion = test_faith
 	holding = castle_holding
 }
@@ -7379,7 +7379,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1477 = { #Mansfield
+1477 = { #Mansfield City
 	culture = yankee
 	religion = test_faith
 	holding = none
@@ -7534,12 +7534,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1508 = { #Reston
+1508 = { #Alexandria
 	culture = beltway
 	religion = test_faith
 	holding = castle_holding
 }
-1509 = { #Alexandria
+1509 = { #Reston
 	culture = beltway
 	religion = test_faith
 	holding = castle_holding
@@ -7634,7 +7634,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1528 = { #Pocomoke
+1528 = { #Pocomoke City
 	culture = southron
 	religion = test_faith
 	holding = castle_holding
@@ -7804,7 +7804,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1562 = { #Derry
+1562 = { #Derry ge
 	culture = yankee
 	religion = test_faith
 	holding = city_holding
@@ -8099,7 +8099,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1621 = { #New
+1621 = { #New City
 	culture = yiddish
 	religion = test_faith
 	holding = castle_holding
@@ -8559,7 +8559,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1713 = { #Forest
+1713 = { #Forest City
 	culture = hudsonian
 	religion = test_faith
 	holding = castle_holding
@@ -8584,7 +8584,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-1718 = { #Park Forest
+1718 = { #Park Forest ge
 	culture = deitsch
 	religion = test_faith
 	holding = castle_holding
@@ -12429,7 +12429,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2487 = { #Gibson
+2487 = { #Gibson City
 	culture = rostmann
 	religion = test_faith
 	holding = castle_holding
@@ -12909,7 +12909,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2583 = { #Michigan
+2583 = { #Michigan City
 	culture = motowner
 	religion = test_faith
 	holding = castle_holding
@@ -13114,7 +13114,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2624 = { #Bay
+2624 = { #Bay City
 	culture = rostmann
 	religion = test_faith
 	holding = castle_holding
@@ -13184,7 +13184,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2638 = { #Rogers
+2638 = { #Rogers City
 	culture = lacustrine
 	religion = test_faith
 	holding = castle_holding
@@ -13194,7 +13194,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2640 = { #Traverse
+2640 = { #Traverse City
 	culture = lacustrine
 	religion = test_faith
 	holding = castle_holding
@@ -13229,7 +13229,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2647 = { #Lake
+2647 = { #Lake City
 	culture = lacustrine
 	religion = test_faith
 	holding = castle_holding
@@ -13539,7 +13539,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2709 = { #Pine
+2709 = { #Pine City
 	culture = northlander
 	religion = test_faith
 	holding = castle_holding
@@ -13664,7 +13664,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-2734 = { #Cranberry ship
+2734 = { #Cranberry Township
 	culture = rostmann
 	religion = test_faith
 	holding = castle_holding
@@ -15299,7 +15299,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3061 = { #Bell
+3061 = { #Bell Ville
 	culture = cordobes
 	religion = test_faith
 	holding = castle_holding
@@ -17129,7 +17129,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3427 = { #Uranium
+3427 = { #Uranium City
 	culture = dene
 	religion = test_faith
 	holding = castle_holding
@@ -17879,7 +17879,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3577 = { #Port Tongass
+3577 = { #Port Tongass ge
 	culture = tsimshianic
 	religion = test_faith
 	holding = castle_holding
@@ -17889,7 +17889,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3579 = { #Jade
+3579 = { #Jade City
 	culture = dene
 	religion = test_faith
 	holding = castle_holding
@@ -18184,12 +18184,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3638 = { #West y
+3638 = { #West y City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
 }
-3639 = { #Salt Lake
+3639 = { #Salt Lake City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
@@ -18254,7 +18254,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3652 = { #Brigham
+3652 = { #Brigham City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
@@ -18274,7 +18274,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3656 = { #Cedar
+3656 = { #Cedar City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
@@ -18404,7 +18404,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3682 = { #East Carbon
+3682 = { #East Carbon City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
@@ -18464,7 +18464,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3694 = { #Idaho
+3694 = { #Idaho City
 	culture = inlander
 	religion = test_faith
 	holding = castle_holding
@@ -18604,7 +18604,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3722 = { #Elk
+3722 = { #Elk City
 	culture = nez_perce
 	religion = test_faith
 	holding = castle_holding
@@ -18639,7 +18639,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3729 = { #Baker
+3729 = { #Baker City
 	culture = inlander
 	religion = test_faith
 	holding = castle_holding
@@ -18869,12 +18869,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3775 = { #Park
+3775 = { #Park City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
 }
-3776 = { #Heber
+3776 = { #Heber City
 	culture = utahn
 	religion = test_faith
 	holding = castle_holding
@@ -19029,7 +19029,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3807 = { #Cooke
+3807 = { #Cooke City
 	culture = mountainer
 	religion = test_faith
 	holding = castle_holding
@@ -19154,7 +19154,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3832 = { #Tuba
+3832 = { #Tuba City
 	culture = navajo
 	religion = test_faith
 	holding = castle_holding
@@ -19234,7 +19234,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3848 = { #Joseph
+3848 = { #Joseph City
 	culture = hopi
 	religion = test_faith
 	holding = castle_holding
@@ -19824,7 +19824,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3966 = { #Grand Canyon
+3966 = { #Grand Canyon ge
 	culture = arixan
 	religion = test_faith
 	holding = castle_holding
@@ -19939,7 +19939,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3989 = { #Ak-Chin
+3989 = { #Ak-Chin ge
 	culture = arixan
 	religion = test_faith
 	holding = castle_holding
@@ -19949,7 +19949,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-3991 = { #Lake Havasu
+3991 = { #Lake Havasu City
 	culture = arixan
 	religion = test_faith
 	holding = castle_holding
@@ -20004,7 +20004,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4002 = { #Silver
+4002 = { #Silver City
 	culture = arixan
 	religion = test_faith
 	holding = castle_holding
@@ -20039,7 +20039,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4009 = { #Cotton
+4009 = { #Cotton City
 	culture = arixan
 	religion = test_faith
 	holding = castle_holding
@@ -22414,7 +22414,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4484 = { #General gas
+4484 = { #General Villegas
 	culture = contadino
 	religion = test_faith
 	holding = castle_holding
@@ -24479,7 +24479,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4897 = { #Spanish
+4897 = { #Spanish Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24534,17 +24534,17 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4908 = { #George
+4908 = { #George Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
 }
-4909 = { #Dunmore
+4909 = { #Dunmore Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
 }
-4910 = { #Arthur’s
+4910 = { #Arthur’s Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24554,7 +24554,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4912 = { #Cooper’s
+4912 = { #Cooper’s Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24579,7 +24579,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4917 = { #Andros
+4917 = { #Andros Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24594,7 +24594,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4920 = { #Cockburn
+4920 = { #Cockburn Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24609,7 +24609,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4923 = { #Clarence
+4923 = { #Clarence Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24619,7 +24619,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4925 = { #Matthew
+4925 = { #Matthew Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24629,7 +24629,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4927 = { #George
+4927 = { #George Town
 	culture = west_indian
 	religion = test_faith
 	holding = castle_holding
@@ -24764,7 +24764,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4954 = { #Kansas
+4954 = { #Kansas City
 	culture = heartlander
 	religion = test_faith
 	holding = castle_holding
@@ -24774,7 +24774,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4956 = { #Kansas
+4956 = { #Kansas City
 	culture = heartlander
 	religion = test_faith
 	holding = castle_holding
@@ -24834,7 +24834,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-4968 = { #Jefferson
+4968 = { #Jefferson City
 	culture = gatewayian
 	religion = test_faith
 	holding = castle_holding
@@ -25194,7 +25194,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5040 = { #Hot Springs
+5040 = { #Hot Springs ge
 	culture = dixie
 	religion = test_faith
 	holding = castle_holding
@@ -25264,7 +25264,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5054 = { #Lake
+5054 = { #Lake ge
 	culture = tuskegean
 	religion = test_faith
 	holding = castle_holding
@@ -25334,7 +25334,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5068 = { #Cherokee
+5068 = { #Cherokee ge
 	culture = ozark
 	religion = test_faith
 	holding = castle_holding
@@ -25444,7 +25444,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5090 = { #Forrest
+5090 = { #Forrest City
 	culture = gatewayian
 	religion = test_faith
 	holding = castle_holding
@@ -25539,7 +25539,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5109 = { #Sioux
+5109 = { #Sioux City
 	culture = heartlander
 	religion = test_faith
 	holding = castle_holding
@@ -25639,7 +25639,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5129 = { #Iowa
+5129 = { #Iowa City
 	culture = heartlander
 	religion = test_faith
 	holding = castle_holding
@@ -25694,7 +25694,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5140 = { #Webster
+5140 = { #Webster City
 	culture = heartlander
 	religion = test_faith
 	holding = castle_holding
@@ -25714,12 +25714,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5144 = { #Lake
+5144 = { #Lake City
 	culture = uplander
 	religion = test_faith
 	holding = castle_holding
 }
-5145 = { #Mason
+5145 = { #Mason City
 	culture = heartlander
 	religion = test_faith
 	holding = castle_holding
@@ -25804,7 +25804,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5162 = { #Nebraska
+5162 = { #Nebraska City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -25834,7 +25834,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5168 = { #South Sioux
+5168 = { #South Sioux City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -25919,12 +25919,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5185 = { #Garden
+5185 = { #Garden City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
 }
-5186 = { #Scott
+5186 = { #Scott City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -25934,7 +25934,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5188 = { #Dodge
+5188 = { #Dodge City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -26004,7 +26004,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5202 = { #Junction
+5202 = { #Junction City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -26079,7 +26079,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5217 = { #Falls
+5217 = { #Falls City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -26129,7 +26129,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5227 = { #Hill
+5227 = { #Hill City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -26159,7 +26159,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5233 = { #Bird
+5233 = { #Bird City
 	culture = grangelander
 	religion = test_faith
 	holding = castle_holding
@@ -26269,7 +26269,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-5255 = { #Mexico
+5255 = { #Mexico City
 	culture = chilango
 	religion = test_faith
 	holding = castle_holding
@@ -30944,7 +30944,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6190 = { #California
+6190 = { #California City
 	culture = angeleno
 	religion = test_faith
 	holding = castle_holding
@@ -31024,7 +31024,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6206 = { #Salton
+6206 = { #Salton City
 	culture = angeleno
 	religion = test_faith
 	holding = castle_holding
@@ -31189,7 +31189,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6239 = { #Redwood
+6239 = { #Redwood City
 	culture = bayfolk
 	religion = test_faith
 	holding = castle_holding
@@ -31414,7 +31414,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6284 = { #Kettleman
+6284 = { #Kettleman City
 	culture = calaotian
 	religion = test_faith
 	holding = castle_holding
@@ -31504,7 +31504,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6302 = { #Santa Nella
+6302 = { #Santa Nella ge
 	culture = calaotian
 	religion = test_faith
 	holding = castle_holding
@@ -31664,12 +31664,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6334 = { #Nevada
+6334 = { #Nevada City
 	culture = valleyan
 	religion = test_faith
 	holding = castle_holding
 }
-6335 = { #Sunnyside-Tahoe
+6335 = { #Sunnyside-Tahoe City
 	culture = valleyan
 	religion = test_faith
 	holding = castle_holding
@@ -31679,7 +31679,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6337 = { #Yuba
+6337 = { #Yuba City
 	culture = valleyan
 	religion = test_faith
 	holding = castle_holding
@@ -31749,7 +31749,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6351 = { #Oro East
+6351 = { #Oroville East
 	culture = valleyan
 	religion = test_faith
 	holding = castle_holding
@@ -32014,37 +32014,37 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6404 = { #Carson
+6404 = { #Carson City
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
 }
-6405 = { #Gardner s
+6405 = { #Gardnerville s
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
 }
-6406 = { #Fernley
+6406 = { #Sun y
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
 }
-6407 = { #Dayton
+6407 = { #Lovelock
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
 }
-6408 = { #Smith y
+6408 = { #Fernley
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
 }
-6409 = { #Sun y
+6409 = { #Dayton
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
 }
-6410 = { #Lovelock
+6410 = { #Smith y
 	culture = battleborn
 	religion = test_faith
 	holding = castle_holding
@@ -32114,7 +32114,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6424 = { #Crescent
+6424 = { #Crescent City
 	culture = siskiyouan
 	religion = test_faith
 	holding = castle_holding
@@ -32254,7 +32254,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6452 = { #Trinity
+6452 = { #Trinity ge
 	culture = valleyan
 	religion = test_faith
 	holding = castle_holding
@@ -33634,7 +33634,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6728 = { #Rapid
+6728 = { #Rapid City
 	culture = mountainer
 	religion = test_faith
 	holding = castle_holding
@@ -33754,7 +33754,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6752 = { #Valley
+6752 = { #Valley City
 	culture = northlander
 	religion = test_faith
 	holding = castle_holding
@@ -34564,7 +34564,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6914 = { #Miles
+6914 = { #Miles City
 	culture = cheyenne
 	religion = test_faith
 	holding = castle_holding
@@ -34799,7 +34799,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-6961 = { #Girardot
+6961 = { #Girardot City
 	culture = rolo
 	religion = test_faith
 	holding = castle_holding
@@ -35794,27 +35794,27 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7160 = { #Louisville
+7160 = { #Lexington-Fayette
 	culture = riverlander
 	religion = test_faith
 	holding = castle_holding
 }
-7161 = { #Shelbyville
+7161 = { #Georgetown
 	culture = riverlander
 	religion = test_faith
 	holding = castle_holding
 }
-7162 = { #Bardstown
+7162 = { #Louisville
 	culture = riverlander
 	religion = test_faith
 	holding = castle_holding
 }
-7163 = { #Lexington-Fayette
+7163 = { #Shelbyville
 	culture = riverlander
 	religion = test_faith
 	holding = castle_holding
 }
-7164 = { #Georgetown
+7164 = { #Bardstown
 	culture = riverlander
 	religion = test_faith
 	holding = castle_holding
@@ -35959,7 +35959,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7193 = { #Union
+7193 = { #Union City
 	culture = riverlander
 	religion = test_faith
 	holding = castle_holding
@@ -36354,7 +36354,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7272 = { #Dale
+7272 = { #Dale City
 	culture = beltway
 	religion = test_faith
 	holding = castle_holding
@@ -36504,7 +36504,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7302 = { #Chase
+7302 = { #Chase City
 	culture = tuskegean
 	religion = test_faith
 	holding = castle_holding
@@ -36544,7 +36544,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7310 = { #Johnson
+7310 = { #Johnson City
 	culture = melungeon
 	religion = test_faith
 	holding = castle_holding
@@ -39054,7 +39054,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7812 = { #Labrador
+7812 = { #Labrador City
 	culture = innu
 	religion = test_faith
 	holding = castle_holding
@@ -39784,7 +39784,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-7958 = { #Belize
+7958 = { #Belize City
 	culture = kriol
 	religion = test_faith
 	holding = castle_holding
@@ -40059,7 +40059,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8013 = { #Everglades
+8013 = { #Everglades City
 	culture = gulfard
 	religion = test_faith
 	holding = castle_holding
@@ -40159,7 +40159,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8033 = { #The s
+8033 = { #The ges
 	culture = gulfard
 	religion = test_faith
 	holding = castle_holding
@@ -40244,7 +40244,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8050 = { #Panama
+8050 = { #Panama City
 	culture = gulfard
 	religion = test_faith
 	holding = castle_holding
@@ -40289,7 +40289,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8059 = { #Lake
+8059 = { #Lake City
 	culture = dixie
 	religion = test_faith
 	holding = castle_holding
@@ -40304,7 +40304,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8062 = { #Cross
+8062 = { #Cross City
 	culture = gulfard
 	religion = test_faith
 	holding = castle_holding
@@ -40359,7 +40359,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8073 = { #Morgan
+8073 = { #Morgan City
 	culture = cajun
 	religion = test_faith
 	holding = castle_holding
@@ -40409,7 +40409,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8083 = { #Platte
+8083 = { #Ville Platte
 	culture = creole
 	religion = test_faith
 	holding = castle_holding
@@ -40909,7 +40909,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8183 = { #Lincoln
+8183 = { #Lincoln City
 	culture = cascadian
 	religion = test_faith
 	holding = castle_holding
@@ -40974,7 +40974,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8196 = { #Mill
+8196 = { #Mill City
 	culture = cascadian
 	religion = test_faith
 	holding = castle_holding
@@ -41069,7 +41069,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8215 = { #Port send
+8215 = { #Port Townsend
 	culture = canuck
 	religion = test_faith
 	holding = castle_holding
@@ -41714,7 +41714,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8344 = { #Prairie
+8344 = { #Prairie City
 	culture = inlander
 	religion = test_faith
 	holding = castle_holding
@@ -42614,7 +42614,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8524 = { #Mahaica
+8524 = { #Mahaica ge
 	culture = guyanese
 	religion = test_faith
 	holding = castle_holding
@@ -42714,7 +42714,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8544 = { #Ancien Central
+8544 = { #Ancien ge Central
 	culture = cayennais
 	religion = test_faith
 	holding = castle_holding
@@ -42809,7 +42809,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8563 = { #Amamuri
+8563 = { #Amamuri ge
 	culture = guyanese
 	religion = test_faith
 	holding = castle_holding
@@ -42899,7 +42899,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8581 = { #Ambrose
+8581 = { #Ambrose ge
 	culture = amazonense
 	religion = test_faith
 	holding = castle_holding
@@ -42914,12 +42914,12 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8584 = { #Kanapang
+8584 = { #Kanapang ge
 	culture = amazonense
 	religion = test_faith
 	holding = castle_holding
 }
-8585 = { #Amokokopai
+8585 = { #Amokokopai ge
 	culture = amazonense
 	religion = test_faith
 	holding = castle_holding
@@ -43184,7 +43184,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8638 = { #Elizabeth
+8638 = { #Elizabeth City
 	culture = southron
 	religion = test_faith
 	holding = castle_holding
@@ -43469,7 +43469,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8695 = { #Lumber
+8695 = { #Lumber City
 	culture = dixie
 	religion = test_faith
 	holding = castle_holding
@@ -43589,7 +43589,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8719 = { #Alexander
+8719 = { #Alexander City
 	culture = dixie
 	religion = test_faith
 	holding = castle_holding
@@ -43859,7 +43859,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8773 = { #Lake
+8773 = { #Lake City
 	culture = southron
 	religion = test_faith
 	holding = castle_holding
@@ -44129,7 +44129,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8827 = { #Silver
+8827 = { #Silver City
 	culture = tuskegean
 	religion = test_faith
 	holding = castle_holding
@@ -44299,7 +44299,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-8861 = { #Guatemala
+8861 = { #Guatemala City
 	culture = centrano
 	religion = test_faith
 	holding = castle_holding
@@ -47414,7 +47414,7 @@
 	religion = test_faith
 	holding = castle_holding
 }
-9484 = { #Central Los Cipreses
+9484 = { #La Mina Fortuna
 	culture = huaso
 	religion = test_faith
 	holding = castle_holding
