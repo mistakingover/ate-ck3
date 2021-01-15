@@ -1,0 +1,177 @@
+e_usa = {
+	pattern = "pattern_chief.dds"
+	color1 = "blue"
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_stripes_horizontal_15.dds"
+		color1 = "white"
+		color2 = "red"
+		mask = {2}
+		instance = { position = { 0.5 0.5 } scale = { 1.134 1.0 }	rotation = 90 }
+	}
+}
+e_usa_coa = {
+	sub = {
+		pattern = "pattern_solid.dds"
+		color1 = rgb { 180 180 180} #light grey
+		color2 = rgb { 180 180 180} #light grey
+		colored_emblem = {
+			texture = "ce_border_shield_compony.dds"
+			color1 = "red"
+			color2 = "white"
+			instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+		}
+		colored_emblem = {
+			texture = "ce_eagle_american_bald.dds"
+			color1 = "brown"
+			color2 = "yellow"
+			color3 = "white"
+			instance = { position = { 0.5 0.4 } scale = { 0.65 0.65 }  }
+		}
+		instance = { offset = { 0 0 } scale = { 1 1 } }
+	}
+	sub = {
+		parent = "e_usa"
+		instance = { offset = { 0.375 0.3 } scale = { 0.25 0.25 } }
+	}
+}
+e_usa_seal = {
+	sub = {
+		pattern = "pattern_solid.dds"
+		color1 = rgb { 180 180 180} #light grey
+		color2 = rgb { 180 180 180} #light grey
+		colored_emblem = {
+			texture = "ce_branch.dds"
+			color1 = "green"
+			color2 = "green"
+			instance = { position = { 0.2 0.6 } scale = { -0.2 0.2 } rotation = 20  }
+		}
+		colored_emblem = {
+			texture = "ce_arrow.dds"
+			color1 = "grey"
+			color2 = "grey"
+			instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 110  }
+			instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 130  }
+			instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 150  }
+		}
+		colored_emblem = {
+			texture = "ce_eagle_american_bald.dds"
+			color1 = "brown"
+			color2 = "yellow"
+			color3 = "white"
+			instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }
+		}
+		colored_emblem = {
+			texture = "ce_circle_mask.dds"
+			color1 = "yellow"
+			color2 = "yellow"
+			instance = { position = { 0.5 0.13 } scale = { 0.2 0.2 }  }
+		}
+		colored_emblem = {
+			texture = "ce_circle_mask.dds"
+			color1 = "blue"
+			color2 = "blue"
+			instance = { position = { 0.5 0.10 } scale = { 0.08 0.08 }  }
+			instance = { position = { 0.47 0.115 } scale = { 0.08 0.08 }  }
+			instance = { position = { 0.53 0.115 } scale = { 0.08 0.08 }  }
+			instance = { position = { 0.5 0.13 } scale = { 0.08 0.08 }  }
+			instance = { position = { 0.47 0.145 } scale = { 0.08 0.08 }  }
+			instance = { position = { 0.53 0.145 } scale = { 0.08 0.08 }  }
+			instance = { position = { 0.5 0.16 } scale = { 0.08 0.08 }  }
+		}
+		colored_emblem = {
+			texture = "ce_star_05.dds"
+			color1 = "white"
+			color2 = "white"
+			#1st row
+			instance = { position = { 0.5 0.091 } scale = { 0.035 0.035 }  }
+			#2nd row
+			instance = { position = { 0.461 0.11 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.487 0.11 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.513 0.11 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.539 0.11 } scale = { 0.035 0.035 }  }
+			#3rd row
+			instance = { position = { 0.474 0.13 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.5 0.13 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.526 0.13 } scale = { 0.035 0.035 }  }
+			#4th row
+			instance = { position = { 0.461 0.15 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.487 0.15 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.513 0.15 } scale = { 0.035 0.035 }  }
+			instance = { position = { 0.539 0.15 } scale = { 0.035 0.035 }  }
+			#5th row
+			instance = { position = { 0.5 0.169 } scale = { 0.035 0.035 }  }
+		}
+		
+		instance = { offset = { 0 0 } scale = { 1 1 } }
+	}
+	sub = {
+		parent = "e_usa"
+		instance = { offset = { 0.375 0.4 } scale = { 0.25 0.25 } }
+	}
+}
+e_usa_betsy_flag = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"
+	colored_emblem = {
+		texture = "ce_stripes_horizontal_15.dds"
+		color1 = "white"
+		color2 = "red"
+		instance = { position = { 0.5 1.0 } scale = { 1.134 1.0 }	rotation = 90 }
+	}
+	colored_emblem = {
+		texture = "ce_stars_13.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.25 } scale = { 0.5 0.5 }  }
+	}
+}
+e_usa_flag = {
+	pattern = "pattern_chief.dds"
+	color1 = "blue"
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_stripes_horizontal_15.dds"
+		color1 = "white"
+		color2 = "red"
+		mask = {2}
+		instance = { position = { 0.5 0.5 } scale = { 1.134 1.0 }	rotation = 90 }
+	}
+	colored_emblem = {
+		texture = "ce_starry.dds"
+		color1 = "blue"
+		color2 = "white"
+		mask = {1}
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+}
+e_usa_betsy_coa = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"
+	colored_emblem = {
+		texture = "ce_border_shield_compony.dds"
+		color1 = "red"
+		color2 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+	}
+	colored_emblem = {
+		texture = "ce_stars_13.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.4 } scale = { 0.65 0.65 }  }
+	}
+}
+
+e_usa_gadsden = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_snake_coiled.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { position = { 0.5 0.4 } scale = { 0.65 0.65 }  }
+	}
+}
