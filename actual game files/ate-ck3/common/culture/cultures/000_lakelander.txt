@@ -1,4 +1,4 @@
-﻿great_lakes_group = { 
+﻿lakelander_group = { 
 	graphical_cultures = {
 		western_coa_gfx
 		western_building_gfx
@@ -238,7 +238,7 @@
 			25 = caucasian_dark_hair
 		}
 	}
-	lakelander = {
+	steelfolk = {
 		graphical_cultures = {
 			english_coa_gfx
 		}
@@ -1303,7 +1303,7 @@
 			english_coa_gfx
 		}
 		
-		color = { 0.25 0.5 0.1 }
+		color = { 0.66 0.66 0.66 }
 	
 		cadet_dynasty_names = {
 			"dynn_Abalos"
