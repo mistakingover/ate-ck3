@@ -1,10 +1,10 @@
-﻿woodlands_group = { 
-	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
-	}
+﻿woodlands_group = {
+graphical_cultures = {
+	woodlands_group_gfx
+	african_building_gfx
+	mongol_clothing_gfx
+	sub_saharan_unit_gfx
+}
 	
 	iroquois = {
 		graphical_cultures = {

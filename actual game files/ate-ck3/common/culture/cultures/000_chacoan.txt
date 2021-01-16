@@ -1,10 +1,10 @@
-chacoan_group = { 
-	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
-	}
+chacoan_group = {
+graphical_cultures = {
+	chacoan_group_gfx
+	steppe_building_gfx
+	mongol_clothing_gfx
+	mongol_unit_gfx
+}
 	kadiweu = {
 		graphical_cultures = {
 			kadiweu_coa_gfx

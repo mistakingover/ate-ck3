@@ -1,10 +1,10 @@
-﻿plateau_group = { 
-	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
-	}
+﻿plateau_group = {
+graphical_cultures = {
+	plateau_group_gfx
+	steppe_building_gfx
+	mongol_clothing_gfx
+	mongol_unit_gfx
+}
 	
 	navajo = {
 		color = { 0.65 0.6 0.6 }

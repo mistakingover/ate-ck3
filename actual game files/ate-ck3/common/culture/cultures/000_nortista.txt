@@ -1,10 +1,10 @@
-nortista_group = { 
-	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
-	}
+nortista_group = {
+graphical_cultures = {
+	nortista_group_gfx
+	indian_building_gfx
+	african_clothing_gfx
+	sub_saharan_unit_gfx
+}
 	paraense = {
 		graphical_cultures = {
 			paraense_coa_gfx

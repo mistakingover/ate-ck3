@@ -1,10 +1,10 @@
-sulista_group = { 
-	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
-	}
+sulista_group = {
+graphical_cultures = {
+	sulista_group_gfx
+	mediterranean_building_gfx
+	byzantine_clothing_gfx
+	eastern_unit_gfx
+}
 
 	gaucho = {
 		graphical_cultures = {
