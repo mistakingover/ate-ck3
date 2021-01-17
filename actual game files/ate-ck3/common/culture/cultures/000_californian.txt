@@ -15,11 +15,15 @@ graphical_cultures = {
 	
 		cadet_dynasty_names = {
 			"dynn_Amestoy"
+			"dynn_Apablaza"
 			"dynn_Barajas"
 			"dynn_Barnes"
 			"dynn_Beltran"
+			"dynn_Bilderrain"
+			"dynn_Biscailuz"
 			"dynn_Bravo"
 			"dynn_Brooks"
+			"dynn_Brunswig"
 			"dynn_Bui"
 			"dynn_Campos"
 			"dynn_Carrillo"
@@ -30,6 +34,7 @@ graphical_cultures = {
 			"dynn_Chavez"
 			"dynn_Cisneros"
 			"dynn_Cleary"
+			"dynn_Cohn"
 			"dynn_Contreras"
 			"dynn_Cortez"
 			"dynn_Cruz"
@@ -61,6 +66,7 @@ graphical_cultures = {
 			"dynn_Kuramoto"
 			"dynn_Kurtz"
 			"dynn_Kwon"
+			"dynn_Kysor"
 			"dynn_Levin"
 			"dynn_Lillard"
 			"dynn_Lin"
@@ -81,10 +87,12 @@ graphical_cultures = {
 			"dynn_Ngo"
 			"dynn_Noguchi"
 			"dynn_Ochoa"
+			"dynn_Olvera"
 			"dynn_Ortega"
 			"dynn_Ortiz"
 			"dynn_Oshiro"
 			"dynn_Patel"
+			"dynn_Pelanconi"
 			"dynn_Perez"
 			"dynn_Perry"
 			"dynn_Pineda"
@@ -97,9 +105,11 @@ graphical_cultures = {
 			"dynn_Romero"
 			"dynn_Rosales"
 			"dynn_Ruiz"
+			"dynn_Sabichi"
 			"dynn_Salazar"
 			"dynn_Sasaki"
 			"dynn_Sato"
+			"dynn_Sepulveda"
 			"dynn_Shin"
 			"dynn_Shockley"
 			"dynn_Soriano"
@@ -127,11 +137,15 @@ graphical_cultures = {
 		}
 		dynasty_names = {
 			"dynn_Amestoy"
+			"dynn_Apablaza"
 			"dynn_Barajas"
 			"dynn_Barnes"
 			"dynn_Beltran"
+			"dynn_Bilderrain"
+			"dynn_Biscailuz"
 			"dynn_Bravo"
 			"dynn_Brooks"
+			"dynn_Brunswig"
 			"dynn_Bui"
 			"dynn_Campos"
 			"dynn_Carrillo"
@@ -142,6 +156,7 @@ graphical_cultures = {
 			"dynn_Chavez"
 			"dynn_Cisneros"
 			"dynn_Cleary"
+			"dynn_Cohn"
 			"dynn_Contreras"
 			"dynn_Cortez"
 			"dynn_Cruz"
@@ -173,6 +188,7 @@ graphical_cultures = {
 			"dynn_Kuramoto"
 			"dynn_Kurtz"
 			"dynn_Kwon"
+			"dynn_Kysor"
 			"dynn_Levin"
 			"dynn_Lillard"
 			"dynn_Lin"
@@ -193,10 +209,12 @@ graphical_cultures = {
 			"dynn_Ngo"
 			"dynn_Noguchi"
 			"dynn_Ochoa"
+			"dynn_Olvera"
 			"dynn_Ortega"
 			"dynn_Ortiz"
 			"dynn_Oshiro"
 			"dynn_Patel"
+			"dynn_Pelanconi"
 			"dynn_Perez"
 			"dynn_Perry"
 			"dynn_Pineda"
@@ -209,9 +227,11 @@ graphical_cultures = {
 			"dynn_Romero"
 			"dynn_Rosales"
 			"dynn_Ruiz"
+			"dynn_Sabichi"
 			"dynn_Salazar"
 			"dynn_Sasaki"
 			"dynn_Sato"
+			"dynn_Sepulveda"
 			"dynn_Shin"
 			"dynn_Shockley"
 			"dynn_Soriano"
@@ -565,8 +585,8 @@ graphical_cultures = {
 			Fillmore Fisher Ford Francis Frederick
 			Ganesh Gary Gavin George Getty Glen Glenark Goldin Gordon Gregory
 			Hammett Hank Harry Herbert Herron Hikaru Hong Hosain Huey
-			James Jared Jacob Jeremy Jiro John Joseph Joshua Justin
-			Keith Kevin Kirk
+			James Jared Jacob Jeremy Jesus Jiro John Joseph Joshua Justin
+			Keith Kevin Kirk Kwanchai
 			Laird Lathrop Laurel Lawrence Lazarus Lee Leiber Leonard Lewin Lewis Lloyd Losby Lucas
 			Mark Mathis Max Melvin Meng Mervyn Michael Moore Morris
 			Naveen Norman Norrarak Norton
@@ -575,11 +595,11 @@ graphical_cultures = {
 			Quentin
 			Rajesh Rayburn Reid Reuter Richard Robert Ross Royce
 			Sameer Scott Shizeng Stanley Steve Stuart
-			Taymour Terence Tevis Theobald Timothy Tobin Todd Thomas Tucker Tyler
+			Taymour Terence Tevis Theobald Timothy Tobin Todd Tomo Thomas Tucker Tyler
 			Urbano
 			Valor Victor Vincent
 			Walter Warren Wayne William Wood
-			Yang Yoshiaki
+			Yang Yoshiaki Yoshie
 		}
 		female_names = {
 			Aarthi Abigail Aditi Aileen Aisha Alicia Alma Amy Angela Anne Arabella Ashley Asriela Audrey Aya
@@ -600,7 +620,7 @@ graphical_cultures = {
 			Padma Patricia Paula
 			Rachel Reena Ruby Ruth
 			Samantha Sapphire Sasha Sequoia Shirley Sophie Susan
-			Tara Terri Theresa Tiffany Tracy
+			Tara Terri Theresa Tiffany Tomo Tracy
 			Vanessa Vera Victoria Vonetta
 			Zia
 		}
@@ -1211,6 +1231,191 @@ graphical_cultures = {
 			Rayhana Robabeh Roushanoura Rushana Rushanak
 			Sadie Sahba Sanaz Shahida Shahmir Shahnaz Shahrbano Shahrnaz Shahrzade Shahwar Shirin Sona Soussan Sumayyah
 			Zafira Zahra Zarafshan Zayda Zayna Zeynab Zohreh
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	towner = {
+		graphical_cultures = {
+			towner_coa_gfx
+		}
+		
+		color = { 0.50 0.40 0.9 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Ahn"
+			"dynn_Au"
+			"dynn_Cao"
+			"dynn_Chan"
+			"dynn_Chang"
+			"dynn_Chen"
+			"dynn_Chiang"
+			"dynn_Chin"
+			"dynn_Chiu"
+			"dynn_Cho"
+			"dynn_Choi"
+			"dynn_Chou"
+			"dynn_Chow"
+			"dynn_Chu"
+			"dynn_Chung"
+			"dynn_Dang"
+			"dynn_Duong"
+			"dynn_Fang"
+			"dynn_Fong"
+			"dynn_Fu"
+			"dynn_Fung"
+			"dynn_Gao"
+			"dynn_Gin"
+			"dynn_Gong"
+			"dynn_Guan"
+			"dynn_Guo"
+			"dynn_Han"
+			"dynn_Hing"
+			"dynn_Ho"
+			"dynn_Hom"
+			"dynn_Hong"
+			"dynn_Hsieh"
+			"dynn_Hsu"
+			"dynn_Hu"
+			"dynn_Hua"
+			"dynn_Huang"
+			"dynn_Hung"
+			"dynn_Huynh"
+			"dynn_Jeong"
+			"dynn_Jiang"
+			"dynn_Jung"
+			"dynn_Kang"
+			"dynn_Kao"
+			"dynn_Kim"
+			"dynn_Kuo"
+			"dynn_Kwan"
+			"dynn_Kwok"
+			"dynn_Lai"
+			"dynn_Lam"
+			"dynn_Lau"
+			"dynn_Lee"
+			"dynn_Lei"
+			"dynn_Leung"
+			"dynn_Li"
+			"dynn_Liang"
+			"dynn_Liao"
+			"dynn_Lieu"
+			"dynn_Lim"
+			"dynn_Lin"
+			"dynn_Liu"
+			"dynn_Lo"
+			"dynn_Lu"
+			"dynn_Lum"
+			"dynn_Luo"
+			"dynn_Luong"
+			"dynn_Ly"
+			"dynn_Ma"
+			"dynn_Ng"
+			"dynn_Ngo"
+			"dynn_Oh"
+			"dynn_Pak"
+			"dynn_Pan"
+			"dynn_Park"
+			"dynn_Peng"
+			"dynn_Poon"
+			"dynn_Shen"
+			"dynn_Shi"
+			"dynn_Shin"
+			"dynn_Shum"
+			"dynn_Siu"
+			"dynn_Song"
+			"dynn_Su"
+			"dynn_Sun"
+			"dynn_Ta"
+			"dynn_Tam"
+			"dynn_Tan"
+			"dynn_Tang"
+			"dynn_Tran"
+			"dynn_Truong"
+			"dynn_Tsai"
+			"dynn_Tse"
+			"dynn_Tu"
+			"dynn_Wang"
+			"dynn_Wei"
+			"dynn_Wong"
+			"dynn_Woo"
+			"dynn_Wu"
+			"dynn_Xie"
+			"dynn_Xu"
+			"dynn_Yan"
+			"dynn_Yang"
+			"dynn_Yee"
+			"dynn_Yeh"
+			"dynn_Yeung"
+			"dynn_Yu"
+			"dynn_Zhang"
+			"dynn_Zhao"
+			"dynn_Zheng"
+			"dynn_Zhou"
+			"dynn_Zhu"
+		}
+		
+		male_names = {
+			Ang
+			Bing-tai Brandon Bruce
+			Chang-ho Chang-lin Chang-soo Charles Chih-ming Chingwah Chong_Sung Chul Chun-yu Chung_Liang
+			Dan Daoming David Ding-ang Dong-sun
+			Ed
+			Fang Fen Frank
+			Gang Gin-dan Guiying Gun Guoqiang Guotai
+			Hanzhang Harry Hin-wu Hoi-chuen Hoon Hyun
+			Jae-min Jialin Jie Jieshi Jim Jin Jing Jinyang Jinyu John Jongyul Joseph Jun Jun-fai Jun-fan Jung-hyun
+			Kai Kai-man Kai-shek Kee Kin Kuan-yin Kwang Kyung-mo
+			Lanhee Lei Li Li-fu Ling-chi Lo-kwan
+			Man Min Ming Minhua Moon-shuen
+			Namju
+			Pak-sum Panzhao Ping
+			Qiang
+			Sam Sang Sen-fu Shizeng Shugang Shui Sing_Wai
+			Tae_Ro Tai Tao Tim Tin-sing Tin-sun Tom
+			Wei Wei-kuo Will
+			Xia Xiayou Xiulan Xiuying Xuan
+			Yan Yang Yaozong Yat-sen Yi Yi-su Yiliang Yong You Yu-ling Yun
+			Zemin Ziming Zhijian Zhoutai Zhuoqing
+		}
+		female_names = {
+			Amy
+			Bailan Bingbing
+			Changmi Ching_Ching
+			Fang
+			Gang Guiying
+			Hee_Sook Helen
+			Jiawen Jie Jing Jinyu Jun
+			Kaidi Kwan-ka
+			Lan Lei Li Lin
+			Mary Mei Mei-ling Min Ming Min-suh
+			Nanying
+			Ping
+			Qionglan
+			Seol Shanshan Shuangjin Shun-ru Sue
+			Tao Ting_Ting
+			Wah-lau Wan-bing Wei Wingshan
+			Xia Xiayou Xiulan Xiuying
+			Yan Yang Yeo-jin Ying Ying_Ying Yong Yutong
+			Ziming
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

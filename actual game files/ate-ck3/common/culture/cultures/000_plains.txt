@@ -17,21 +17,61 @@ graphical_cultures = {
 			"dynn_"
 		}
 		dynasty_names = {
-			
+			"dynn_Chaat"
+			"dynn_Chibitty"
+			"dynn_Detsanayuka"
+			"dynn_Hainenaune"
+			"dynn_Hois"
+			"dynn_Hupenuu"
+			"dynn_Itchitabudah"
+			"dynn_Itehtaho"
+			"dynn_Ketahto"
+			"dynn_Ketatore"
+			"dynn_Komahcheet"
+			"dynn_Kotsoteka"
+			"dynn_Kuvahrahtpaht"
+			"dynn_Kwahada"
+			"dynn_Kwahihuuki"
+			"dynn_Lujan"
+			"dynn_Mutsahne"
+			"dynn_Napwat_Tu"
+			"dynn_Nevaquaya"
+			"dynn_Nokona"
+			"dynn_Nonauum"
+			"dynn_Ohonuu"
+			"dynn_Pagatsuu"
+			"dynn_Pekwi_Tuhka"
+			"dynn_Penateka"
+			"dynn_Pibianigwai"
+			"dynn_Poafpybitty"
+			"dynn_Suhmuhtuhka"
+			"dynn_Tahdooahnippah"
+			"dynn_Taykahpwai"
+			"dynn_Tayuuwit"
+			"dynn_Tenawa"
+			"dynn_Tenayuca"
+			"dynn_Titchahkaynah"
+			"dynn_Toyanumunu"
+			"dynn_Waha_Toya"
+			"dynn_Wianuu"
+			"dynn_Widyu_Yapa"
+			"dynn_Wohoi"
+			"dynn_Yamparika"
 		}
 		
 		male_names = {
-			Huupi-pahati
-			Isatai_pst_i Isaviah
-			Kiyou Kobe
+			Hitetetsi Huupi-pahati
+			Isa-rosa Isatai_pst_i Isaviah
+			Kai-wotche Kiyou Kobay-oburra Kobe
 			Mow-way Mukwooru Mupitsukupu
 			Pahayoko Parker Pawuurasumunuru Piaru-ekaruhkapu Potsunakwahipu Puhihwitsikwasu
 			Quanah Quenah-evah
-			Tahka Tawaquenah Tosahwi Tuhuyakwahipu
+			Tabananika Tahka Tawaquenah Tosahwi Tuhuyakwahipu Tuwikaa-tiesuat
 			Wulea-boo
 		}
 		female_names = {
 			Sanapia
+			Topsannah 
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -135,17 +175,63 @@ graphical_cultures = {
 		color = { 0.8 0.4 0.4 }
 	
 		cadet_dynasty_names = {
-			"dynn_"
+			"dynn_Ammitaalassh_e_act_"
+			"dynn_Ashalaho"
+			"dynn_Ashk_u_act_ale"
+			"dynn_Ashship_i_act_te"
+			"dynn_Bear"
+			"dynn_Bilapiluutche"
+			"dynn_Binn_e_act_essiippeele"
+			"dynn_Birding_Ground"
+			"dynn_Dust"
+			"dynn_Eelalapito"
+			"dynn_Fallsdown"
+			"dynn_Flatmouth"
+			"dynn_Iron"
+			"dynn_Medicine_Crow"
+			"dynn_Nomee"
+			"dynn_Not_Afraid"
+			"dynn_Pretty_On_Top"
+			"dynn_Roundface"
+			"dynn_Small"
+			"dynn_Spotted"
+			"dynn_Takes_The_Gun"
+			"dynn_Tallbull"
+			"dynn_Turnsplenty"
+			"dynn_Walking_Bear"
+			"dynn_Whiteclay"
+			"dynn_Whiteman"
+			"dynn_Yarlott"
+			"dynn_Yellowmule"
+			"dynn_Yellowtail"
 		}
 		dynasty_names = {
-			
+			"dynn_"
 		}
 		
 		male_names = {
-			
+			Aakkaapeesh Aaluhpisaash Aapash_i_act_ilish Aash_u_act_uwaalaaxash Akiich_i_act_ileessdeesh Alaxchiiaahush Apitis_e_act_esh Ashd_u_act_ushiish
+			Baaishtash_i_act_ilinkuluush Baalush_u_act_ahawatash Baap_u_act_xtahatchkash Baaw_i_act_awakshishidich_i_act_sh Ba_a_act_chuuchik_u_act_ash Bilaxp_a_act_akkuxshish Bish_e_act_ech_i_act_ash Bulaagawish Bul_u_act_xaatcheelilish B_i_act_ileech_i_act_ash B_i_act_nnaachichi_a_act_sh B_i_act_nnaachih_i_act_sshish B_i_act_nnaachish_i_act_ilish B_u_act_attaaxaal_i_act_ash
+			Chilaxt_i_act_ipshiilish Ch_i_act_ilapchiash Ch_i_act_ischipaaliash
+			Dak_a_act_akab_a_act_akush Dak_a_act_akadak_u_act_xshesh Daxpitcheech_i_act_ash Daxpitcheeh_i_act_sshish Daxpitch_e_act_daaskaw_i_act_ish D_e_act_axitchish
+			Eel_a_act_puash
+			H_o_act_rat_o_act_a Huupdusch_i_act_hchish
+			Ich_e_act__Ship_i_act_tish Ihkal_e_act_axash Ihk_u_act_alaasseesh Iich_i_act_ildak_u_act_xshish Iich_i_act_ilh_i_act_sshish Iich_i_act_ilish Iich_i_act_ilxaxxish Iis_a_act_sh_i_act_ilish Ikk_u_act_hphachish Il_a_act_hchissash Issaatxal_u_act_ash Itbu_u_act__o_act_oshish Itch_u_act_ua_Ch_i_act_ash Itchuuwaa_o_act_oshbishish
+			Kaw_i_act_itash K_a_act_amneewiash
+			Peelatchid_a_act_shkush Peelatchiwaaxp_a_act_ash P_a_act_atchish
+			Uuwatchiilapish
 		}
 		female_names = {
-			
+			Aaluhpisaash Aapash_i_act_ilish Aash_u_act_uwaalaaxash Akiich_i_act_ileessdeesh Akkeekaahuush Ashd_u_act_ushiish
+			Baaishtash_i_act_ilinkuluush Baalush_u_act_ahawatash Baap_u_act_xtahatchkash Baaw_i_act_awakshishidich_i_act_sh Ba_a_act_chuuchik_u_act_ash Bilaxp_a_act_akkuxshish Bili_i_act_che_H_e_act_eleelash Bish_e_act_ech_i_act_ash Bulaagawish Bul_u_act_xaatcheelilish B_i_act_awacheeitchish B_i_act_ileech_i_act_ash B_i_act_nnaachichi_a_act_sh B_i_act_nnaachih_i_act_sshish B_i_act_nnaachish_i_act_ilish B_i_act_nnaach_i_act_tchish B_u_act_attaaxaal_i_act_ash
+			Chilaxt_i_act_ipshiilish Ch_i_act_ischipaaliash
+			Dak_a_act_akab_a_act_akush Dak_a_act_akadak_u_act_xshesh Daxpitcheech_i_act_ash Daxpitcheeh_i_act_sshish D_e_act_axitchish
+			Eel_a_act_puash
+			Huupdusch_i_act_hchish
+			Ihkal_e_act_axash Ihk_a_act_h_i_act_sshish Ihk_u_act_alaasseesh Iich_i_act_ildak_u_act_xshish Iich_i_act_ilh_i_act_sshish Iich_i_act_ilidak_u_act_xshish Iich_i_act_ilish Iich_i_act_ilxaxxish Ikk_u_act_hphachish Il_a_act_hchissash Issaatxal_u_act_ash Itbu_u_act__o_act_oshish Itchuuwaa_o_act_oshbishish
+			Kap_i_act_liashtash Kaw_i_act_itash K_a_act_amneewiash
+			Peelatchid_a_act_shkush Peelatchiwaaxp_a_act_ash
+			Uuwatchiilapish
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

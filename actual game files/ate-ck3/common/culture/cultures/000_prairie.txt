@@ -14,6 +14,7 @@ graphical_cultures = {
 		color = { 0.0 0.5 0.15 }
 	
 		cadet_dynasty_names = {
+			"dynn_Alexis"
 			"dynn_Armfelt"
 			"dynn_Asmundson"
 			"dynn_Assmann"
@@ -55,6 +56,7 @@ graphical_cultures = {
 			"dynn_Edmundson"
 			"dynn_Ellefson"
 			"dynn_Ellersly"
+			"dynn_Epp"
 			"dynn_Eykhvald"
 			"dynn_Eyolfson"
 			"dynn_Farkas"
@@ -71,6 +73,7 @@ graphical_cultures = {
 			"dynn_Griesbach"
 			"dynn_Groome"
 			"dynn_Gryba"
+			"dynn_Guttormson"
 			"dynn_Halbgewachs"
 			"dynn_Hargreaves"
 			"dynn_Harper"
@@ -105,6 +108,8 @@ graphical_cultures = {
 			"dynn_Klippenstein"
 			"dynn_Knelsen"
 			"dynn_Knutson"
+			"dynn_Konefell"
+			"dynn_Kopp"
 			"dynn_Koslofski"
 			"dynn_Kowal"
 			"dynn_Kozak"
@@ -121,16 +126,19 @@ graphical_cultures = {
 			"dynn_Lautermilch"
 			"dynn_LeBihan"
 			"dynn_Lehman"
+			"dynn_Letendre"
 			"dynn_Liepert"
 			"dynn_Lindhout"
 			"dynn_Lougheed"
 			"dynn_Lupul"
 			"dynn_MacAuley"
 			"dynn_MacWilliam"
+			"dynn_Macdonald"
 			"dynn_Macoun"
 			"dynn_Manning"
 			"dynn_Marleau"
 			"dynn_Marryat"
+			"dynn_McArthur"
 			"dynn_McCaig"
 			"dynn_McCallum"
 			"dynn_McCleary"
@@ -141,8 +149,10 @@ graphical_cultures = {
 			"dynn_McGeough"
 			"dynn_McGonigill"
 			"dynn_McGrane"
+			"dynn_McKay"
 			"dynn_McKenzie"
 			"dynn_McKinney"
+			"dynn_McLean"
 			"dynn_McLuhan"
 			"dynn_McMorris"
 			"dynn_McMurty"
@@ -155,7 +165,6 @@ graphical_cultures = {
 			"dynn_Mogridge"
 			"dynn_Murschell"
 			"dynn_Mynarski"
-			"dynn_Nagy"
 			"dynn_Nawaz"
 			"dynn_Nenshi"
 			"dynn_Nesbitt"
@@ -175,6 +184,7 @@ graphical_cultures = {
 			"dynn_Parlby"
 			"dynn_Peake"
 			"dynn_Pederson"
+			"dynn_Pickersgill"
 			"dynn_Prentice"
 			"dynn_Ramsland"
 			"dynn_Ratzlaff"
@@ -266,6 +276,7 @@ graphical_cultures = {
 			"dynn_Zwaagstra"
 		}
 		dynasty_names = {
+			"dynn_Alexis"
 			"dynn_Armfelt"
 			"dynn_Asmundson"
 			"dynn_Assmann"
@@ -307,6 +318,7 @@ graphical_cultures = {
 			"dynn_Edmundson"
 			"dynn_Ellefson"
 			"dynn_Ellersly"
+			"dynn_Epp"
 			"dynn_Eykhvald"
 			"dynn_Eyolfson"
 			"dynn_Farkas"
@@ -323,6 +335,7 @@ graphical_cultures = {
 			"dynn_Griesbach"
 			"dynn_Groome"
 			"dynn_Gryba"
+			"dynn_Guttormson"
 			"dynn_Halbgewachs"
 			"dynn_Hargreaves"
 			"dynn_Harper"
@@ -357,6 +370,8 @@ graphical_cultures = {
 			"dynn_Klippenstein"
 			"dynn_Knelsen"
 			"dynn_Knutson"
+			"dynn_Konefell"
+			"dynn_Kopp"
 			"dynn_Koslofski"
 			"dynn_Kowal"
 			"dynn_Kozak"
@@ -373,16 +388,19 @@ graphical_cultures = {
 			"dynn_Lautermilch"
 			"dynn_LeBihan"
 			"dynn_Lehman"
+			"dynn_Letendre"
 			"dynn_Liepert"
 			"dynn_Lindhout"
 			"dynn_Lougheed"
 			"dynn_Lupul"
 			"dynn_MacAuley"
 			"dynn_MacWilliam"
+			"dynn_Macdonald"
 			"dynn_Macoun"
 			"dynn_Manning"
 			"dynn_Marleau"
 			"dynn_Marryat"
+			"dynn_McArthur"
 			"dynn_McCaig"
 			"dynn_McCallum"
 			"dynn_McCleary"
@@ -393,8 +411,10 @@ graphical_cultures = {
 			"dynn_McGeough"
 			"dynn_McGonigill"
 			"dynn_McGrane"
+			"dynn_McKay"
 			"dynn_McKenzie"
 			"dynn_McKinney"
+			"dynn_McLean"
 			"dynn_McLuhan"
 			"dynn_McMorris"
 			"dynn_McMurty"
@@ -407,7 +427,6 @@ graphical_cultures = {
 			"dynn_Mogridge"
 			"dynn_Murschell"
 			"dynn_Mynarski"
-			"dynn_Nagy"
 			"dynn_Nawaz"
 			"dynn_Nenshi"
 			"dynn_Nesbitt"
@@ -427,6 +446,7 @@ graphical_cultures = {
 			"dynn_Parlby"
 			"dynn_Peake"
 			"dynn_Pederson"
+			"dynn_Pickersgill"
 			"dynn_Prentice"
 			"dynn_Ramsland"
 			"dynn_Ratzlaff"
@@ -521,30 +541,30 @@ graphical_cultures = {
 		#English names with heavy German and Slavic influence
 		male_names = {
 			Abram Albert Alvin Anders Anson Anton Austin
-			Ben Bob Boris Bowen Bramwell Brennan Brett Brian Bronco Burton
+			Ben Bill Bob Boris Bowen Bramwell Brennan Brett Brian Bronco Burton
 			Callum Cam Casey Casper Cherny Cliff Colin Colter Connor Corb Cordell Cory Crowfoot Curtis Cyril
-			Daryl Dave Derek Dick Dmitri Dobson Don Doug Dudley Dwayne
-			Earl Edgell Edward Eldon Elman Elwin Erik Ernie Erving Eugene
+			D_pst_Arcy Darwin Daryl Dave Derek Dick Dmitri Dobson Don Doug Dudley Dwayne
+			Earl Edgell Edward Eldon Elman Elwin Erik Ernie Erving Erwin Eugene
 			Filip Frants Fraser Fred
 			Garnet Garth Gary Gene George Gilmore Gladstone Gord Grant Gregory Greyston Gustin Guy
 			Haldor Hank Harold Harvey Hazen Herbert Herschel Hugh
 			Jacob Jarret Jason Jay Jens Jerome Jim Joffrey John John-James Josh
 			Karl Kasimir Kavan Keith Ken
-			Lance Laurents Leif Leo Leslie Linden Lloyd Lorne Louis Lyle
+			Lance Laurents Leif Leo Leslie Linden Lloyd Lonnie Lorne Louis Lyle
 			Maksim Mark Marshall Mason Melvin Mike Monty Myron
 			Nathan Neville Norman
 			Olaf Orest Orville Orren Oscar Otto Otway Owen
 			Paul Percy Pierre Preston
 			Randy Ray Ricken Rob Rolfe Roman Ron Roy Royden Russ
-			Sam Scott Serge Stan Stefan Stockwell Stuart
+			Sam Samson Scott Serge Stan Stefan Stockwell Stuart
 			Talmage Terry Tim Tommy Trent Trevor Troy Tyler Tyrell
 			Vasil Vic 
-			Walker Walt Wayne Werner Wesley Wilfrid Winston
+			Walker Walt Wayne Werner Wesley Wilfrid Willard William Winston
 		}
 		female_names = {
 			Anastasia Annie
 			Bev Bonnie Bridget Britt Bronwen Brooke
-			Carol-Anne Charlotte Chrystia Claudia Crystal
+			Carol-Anne Charlotte Chrystia Claudia Corrine Crystal
 			Deb Dina Dorothy
 			Elsa Elisabeth Emma Erika Erin
 			Fiona Frances
