@@ -1,10 +1,11 @@
 pdxmesh = {
 	name = "tree_leaf_colored_01_a_mesh"
 	file = "tree_leaf_colored_01_a.mesh"
+	scale = 1
 
-	lod_percentages = {
-		lod = { index = 1 percent = 7.0 }
-	}
+	#lod_percentages = {
+	#	lod = { index = 1 percent = 7.0 }
+	#}
 
 	meshsettings = {
 		name = "tree_leaf_colored_01_aShape"
