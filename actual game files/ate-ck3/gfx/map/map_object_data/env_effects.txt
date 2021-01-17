@@ -5,8 +5,9 @@
 	generated_content=no
 	layer="env_effect_layer"
 	entity="waterfall"
-	count=0
-}
+	count=1
+	transform="3391.347656 -1.966797 2548.724854 0.000000 0.751868 0.000000 0.659313 1.960902 1.960902 1.960902
+"}
 object={
 	name="waterfall_bottom"
 	clamp_to_water_level=yes
@@ -14,5 +15,6 @@ object={
 	generated_content=no
 	layer="env_effect_layer"
 	entity="waterfall_bottom"
-	count=0
-}
+	count=1
+	transform="3390.701172 0.200439 2550.497559 0.000000 0.906474 0.000000 0.422262 0.669189 0.669189 0.669189
+"}

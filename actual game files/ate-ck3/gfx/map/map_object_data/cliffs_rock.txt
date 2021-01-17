@@ -50,8 +50,9 @@ object={
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_rock_02_mesh"
-	count=0
-}
+	count=1
+	transform="3395.585449 0.000000 2550.326416 0.000000 -1.000000 0.000000 0.000972 2.213106 2.213106 2.213106
+"}
 object={
 	name="cliff rock 03"
 	clamp_to_water_level=no
@@ -59,8 +60,9 @@ object={
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_rock_03_mesh"
-	count=0
-}
+	count=1
+	transform="3395.202881 0.000000 2546.707031 0.000000 0.000000 0.000000 1.000000 1.000000 1.000000 1.000000
+"}
 object={
 	name="cliff small 01"
 	clamp_to_water_level=no
