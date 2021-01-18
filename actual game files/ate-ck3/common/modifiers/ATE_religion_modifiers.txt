@@ -18,3 +18,51 @@ laid_on_hands_modifier= {
 	icon = health_positive 
 	health= 0.25
 }
+
+pantheon_bolivar_1= {
+	icon = martial_positive 
+	martial = 2
+	controlled_province_advantage = 3
+}
+
+pantheon_santander_1= {
+	icon = economy_positive 
+	domain_tax_same_faith_mult = 0.1
+	monthly_stewardship_lifestyle_xp_gain_mult = 0.2
+}
+
+pantheon_manuelita_1= {
+	icon = health_positive
+	health = 0.5
+	stress_gain_mult = -0.33
+}
+
+pantheon_la_pola_1= {
+	icon = dread_positive 
+	intrigue = 2
+	dread_gain_mult = 0.2
+}
+
+pantheon_bolivar_2= {
+	icon = martial_positive 
+	martial = 2
+	controlled_province_advantage = 3
+}
+
+pantheon_santander_2= {
+	icon = economy_positive 
+	domain_tax_same_faith_mult = 0.1
+	monthly_stewardship_lifestyle_xp_gain_mult = 0.2
+}
+
+pantheon_manuelita_2= {
+	icon = health_positive
+	health = 0.5
+	stress_gain_mult = -0.33
+}
+
+pantheon_la_pola_2= {
+	icon = dread_positive 
+	intrigue = 2
+	dread_gain_mult = 0.2
+}

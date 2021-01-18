@@ -1,0 +1,219 @@
+﻿# Standard Values
+@pos_compat_high = 30
+@pos_compat_medium = 15
+@pos_compat_low = 5
+
+@neg_compat_high = -30
+@neg_compat_medium = -15
+@neg_compat_low = -5
+
+
+
+patron_child_anima = {
+	index = 421
+
+	same_faith_opinion = 5
+	monthly_piety_gain_mult = 0.1
+	stress_gain_mult = -0.33
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_child_anima_desc
+			}
+			desc = trait_patron_child_anima_character_desc
+		}
+	}
+}
+
+patron_martial_anima = {
+	index = 422
+
+	martial = 1
+	vassal_levy_contribution_mult = 0.02
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_martial_anima_desc
+			}
+			desc = trait_patron_martial_anima_character_desc
+		}
+	}
+}
+
+patron_prowess_anima = {
+	index = 423
+
+	prowess = 1
+	men_at_arms_maintenance = -0.05
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_prowess_anima_desc
+			}
+			desc = trait_patron_prowess_anima_character_desc
+		}
+	}
+}
+
+patron_diplomacy_anima = {
+	index = 424
+
+	diplomacy = 1
+	general_opinion = 5
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_diplomacy_anima_desc
+			}
+			desc = trait_patron_diplomacy_anima_character_desc
+		}
+	}
+}
+
+patron_stewardship_anima = {
+	index = 425
+
+	stewardship = 1
+	vassal_limit = 5
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_stewardship_anima_desc
+			}
+			desc = trait_patron_stewardship_anima_character_desc
+		}
+	}
+}
+
+patron_intrigue_anima = {
+	index = 426
+
+	intrigue = 1
+	hostile_scheme_power_add = 0.05
+	personal_scheme_power_add = 0.05
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_intrigue_anima_desc
+			}
+			desc = trait_patron_intrigue_anima_character_desc
+		}
+	}
+}
+
+patron_learning_anima = {
+	index = 427
+
+	learning = 1
+	monthly_piety_gain_mult = 0.1
+	character_capital_county_monthly_development_growth_add = 0.05
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_learning_anima_desc
+			}
+			desc = trait_patron_learning_anima_character_desc
+		}
+	}
+}
+
+patron_genius_anima = {
+	index = 428
+
+	diplomacy = 1
+	martial = 1
+	stewardship = 1
+	intrigue = 1
+	learning = 1
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_genius_anima_desc
+			}
+			desc = trait_patron_genius_anima_character_desc
+		}
+	}
+}
+
+patron_ceferino = {
+	index = 417
+
+	same_faith_opinion = 5
+	monthly_piety_gain_mult = 0.1
+	health = 1
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_ceferino_desc
+			}
+			desc = trait_patron_ceferino_character_desc
+		}
+	}
+}
+
+
+patron_difunta_correa = {
+	index = 418
+
+	same_faith_opinion = 5
+	fertility = 0.1
+	stress_gain_mult = -0.33
+	hostile_county_attrition = -0.1
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_difunta_correa_desc
+			}
+			desc = trait_patron_difunta_correa_character_desc
+		}
+	}
+}
+
+patron_balmaceda = {
+	index = 419
+
+	stewardship = 1
+	same_faith_opinion = 5
+	tyranny_gain_mult = -0.25
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_patron_balmaceda_desc
+			}
+			desc = trait_patron_balmaceda_character_desc
+		}
+	}
+}

@@ -1,0 +1,21 @@
+
+county_drawn_geoglyph_modifier= {
+	icon = rock_positive
+	county_opinion_add = 5
+	monthly_county_control_change_add = 0.1
+	church_holding_build_gold_cost = -0.05
+}
+
+county_dedicated_anima_shrine = {
+	icon = piety_positive
+	county_opinion_add = 5
+	monthly_county_control_change_add = 0.1
+	church_holding_build_gold_cost = -0.05
+}
+
+county_dedicated_anima_sanctuary = {
+	icon = piety_positive
+	county_opinion_add = 10
+	monthly_county_control_change_add = 0.3
+	church_holding_build_gold_cost = -0.33
+}

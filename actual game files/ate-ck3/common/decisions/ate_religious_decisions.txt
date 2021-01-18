@@ -1,0 +1,297 @@
+﻿select_national_pantheon_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = {
+		first_valid = {
+				triggered_desc = {
+					trigger = {
+						has_religion = religion:christianity_religion
+					}
+					desc = select_national_pantheon_decision_desc.1
+				}
+				desc = select_national_pantheon_decision_desc.2
+			}
+	}
+	selection_tooltip = select_national_pantheon_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = select_national_pantheon_active
+		}
+		NOR = {
+			has_character_modifier = pantheon_bolivar_1
+			has_character_modifier = pantheon_santander_1
+			has_character_modifier = pantheon_manuelita_1
+			has_character_modifier = pantheon_la_pola_1
+			has_character_modifier = pantheon_bolivar_2
+			has_character_modifier = pantheon_santander_2
+			has_character_modifier = pantheon_manuelita_2
+			has_character_modifier = pantheon_la_pola_2
+		}
+	}
+
+	is_valid = {
+	}
+
+	is_valid_showing_failures_only = {
+	}
+
+	effect = {
+		custom_tooltip = select_national_pantheon_decision_tt
+		trigger_event = ate_religious_decision.80
+	}
+
+	ai_check_interval = 96
+	
+	ai_potential = {
+		piety >= minor_piety_value
+		NOR = {
+			has_character_modifier = pantheon_bolivar_1
+			has_character_modifier = pantheon_santander_1
+			has_character_modifier = pantheon_manuelita_1
+			has_character_modifier = pantheon_la_pola_1
+			has_character_modifier = pantheon_bolivar_2
+			has_character_modifier = pantheon_santander_2
+			has_character_modifier = pantheon_manuelita_2
+			has_character_modifier = pantheon_la_pola_2
+		}
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+draw_geoglyph_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = draw_geoglyph_decision_desc
+	selection_tooltip = draw_geoglyph_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = draw_geoglyph_active
+		}
+		capital_province = {
+			county = {
+				NOT = {
+					has_county_modifier = county_drawn_geoglyph_modifier
+				}
+			}	
+		}
+	}
+
+	is_valid = {
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		#The modifier will only be active if a character of your dynasty holds it
+		capital_province = {
+			county = {
+				add_county_modifier = {
+					modifier = county_drawn_geoglyph_modifier
+				}
+			}
+		}
+		add_piety = medium_piety_value
+		every_vassal = {
+			limit = {
+				faith = {
+					has_doctrine_parameter = draw_geoglyph_active
+				}	
+			}
+			custom = drawn_geoglyph_vassals
+			add_opinion = {
+				modifier = pleased_opinion
+				target = root
+				opinion = 10
+			}
+		}
+	}
+
+	ai_check_interval = 36
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+dedicate_anima_shrine = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = dedicate_anima_shrine_desc
+	selection_tooltip = dedicate_anima_shrine_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = anima_shrines_active
+		}
+		has_variable = tragical_anima
+		capital_province = {
+			county = {
+				NOT = {
+					has_county_modifier = county_dedicated_anima_shrine
+				}
+			}	
+		}
+	}
+
+	is_valid = {
+
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	cost = { gold = standard_activity_cost }
+
+	effect = {
+		capital_province = {
+			county = {
+				add_county_modifier = {
+					modifier = county_dedicated_anima_shrine
+				}
+				set_variable = {
+					name = tragical_anima
+					value = root.var:tragical_anima
+				}
+			}
+		}
+		add_piety = medium_piety_value
+		add_stress = medium_stress_loss
+		remove_variable = tragical_anima
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.102
+				months = 1
+			}
+		}
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+select_a_patron_anima = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = select_a_patron_anima_desc
+	selection_tooltip = select_a_patron_anima_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = anima_shrines_active
+		}
+		NOT = {
+			has_variable = patron_anima
+		}
+		NOT = {
+			OR = {
+				has_trait = patron_difunta_correa
+				has_trait = patron_balmaceda
+				has_trait = patron_ceferino
+			}
+		}
+	}
+
+	is_valid = {
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		trigger_event = ate_religious_decision.103
+		custom_tooltip = select_a_patron_anima_effect
+	}
+
+	ai_check_interval = 1
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 1
+	}
+}
+
+build_sanctuary_anima = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = build_sanctuary_anima_desc
+	selection_tooltip = build_sanctuary_anima_tooltip
+
+	is_shown = {
+		#global_variable_list_size = { name = greater_animas value < 3 } 
+		highest_held_title_tier >= tier_kingdom
+		faith = {
+			has_doctrine_parameter = anima_shrines_active
+		}
+		has_variable = patron_anima
+		NOT = {
+			OR = {
+				has_trait = patron_difunta_correa
+				has_trait = patron_balmaceda
+				has_trait = patron_ceferino
+			}
+		}
+		capital_province = {
+			county = {
+				has_county_modifier = county_dedicated_anima_shrine
+			}	
+		}
+		capital_province = {
+			county = {
+				has_variable = established_anima
+			}
+		}
+	}
+
+	is_valid = {
+		piety_level >= 4
+
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		trigger_event = ate_religious_decision.104
+		custom_tooltip = build_sanctuary_anima_effect
+	}
+
+	cost = {
+		gold = 600
+		prestige = 600
+		piety = 1000
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 1
+	}
+}

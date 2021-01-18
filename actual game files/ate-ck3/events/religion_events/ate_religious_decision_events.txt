@@ -1,0 +1,1186 @@
+﻿namespace = ate_religious_decision
+
+
+ate_religious_decision.80 = {
+	type = character_event
+	title = ate_religious_decision.80.t
+	desc = ate_religious_decision.80.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	# Bolivar
+	option = {
+		name = ate_religious_decision.80.a
+		add_piety = medium_piety_loss
+		if = {
+			limit = {
+				has_religion = religion:christianity_religion
+			}
+			add_character_modifier = pantheon_bolivar_1
+		}
+		else = {
+			add_character_modifier = pantheon_bolivar_2
+		}
+	}
+	# Santander
+	option = {
+		name = ate_religious_decision.80.b
+		add_piety = medium_piety_loss
+		if = {
+			limit = {
+				has_religion = religion:christianity_religion
+			}
+			add_character_modifier = pantheon_santander_1
+		}
+		else = {
+			add_character_modifier = pantheon_santander_2
+		}
+	}
+	# Manuelita
+	option = {
+		name = ate_religious_decision.80.c
+		add_piety = medium_piety_loss
+		if = {
+			limit = {
+				has_religion = religion:christianity_religion
+			}
+			add_character_modifier = pantheon_manuelita_1
+		}
+		else = {
+			add_character_modifier = pantheon_manuelita_2
+		}
+	}
+	# La Pola
+	option = {
+		name = ate_religious_decision.80.d
+		add_piety = medium_piety_loss
+		if = {
+			limit = {
+				has_religion = religion:christianity_religion
+			}
+			add_character_modifier = pantheon_la_pola_1
+		}
+		else = {
+			add_character_modifier = pantheon_la_pola_2
+		}
+	}
+	# Opt-Out
+	option = {
+		name = ate_religious_decision.80.e
+
+		ai_chance = {
+			base = 0
+		}		
+	}
+}
+
+#Anima Tragedy
+ate_religious_decision.100 = {
+	type = character_event
+
+	hidden = yes
+
+	trigger = {
+		trigger_if = {
+			limit = {
+				exists = scope:killer
+			}
+			NOT = { this = scope:killer } #Killers already know
+		}
+	}
+
+	immediate = { #Finds most important relation for notification & mourning events
+
+		if = {
+			limit = { #To block the player from getting events about themselves dying
+				NOT = {
+					is_player_heir_of_trigger = { CHARACTER = scope:dead_character }
+				}
+				NOT = {
+					scope:dead_character = { #Older people are expected to die
+						effective_age > 40
+					}
+				}
+			}
+			if = { #Spouse
+				limit = {
+					exists = scope:prison_holder
+					NOT = { this = scope:prison_holder }
+					any_consort = { even_if_dead = yes this = scope:dead_character }
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+			
+			else_if = { #Spouse
+				limit = {
+					exists = scope:prison_holder
+					this = scope:prison_holder
+					any_consort = { even_if_dead = yes this = scope:dead_character }
+				}
+			}
+
+			else_if = { #Spouse
+				limit = {
+					exists = scope:house_arrest_holder
+					any_consort = { even_if_dead = yes this = scope:dead_character }
+				}
+			}
+
+			else_if = { #Spouse
+				limit = {
+					any_consort = { even_if_dead = yes this = scope:dead_character }
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Heir
+				limit = {
+					exists = scope:prison_holder
+					NOT = { this = scope:prison_holder }
+					is_in_list = title_holder_list
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Heir
+				limit = {
+					exists = scope:house_arrest_holder
+					is_in_list = title_holder_list
+					is_close_or_extended_family_of = scope:dead_character
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Heir
+				limit = {
+					is_in_list = title_holder_list
+					is_close_or_extended_family_of = scope:dead_character
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+				trigger_event = {
+					id = ate_religious_decision.99
+					delayed = yes
+				}
+			}
+
+			else_if = { #Betrothed
+				limit = {
+					exists = scope:prison_holder
+					NOT = { this = scope:prison_holder }
+					is_in_list = send_death_management_0002_betrothed
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Betrothed
+				limit = {
+					exists = scope:house_arrest_holder
+					is_in_list = send_death_management_0002_betrothed
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Betrothed
+				limit = {
+					is_in_list = send_death_management_0002_betrothed
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Child
+				limit = {
+					exists = scope:prison_holder
+					NOT = { this = scope:prison_holder }
+					any_child = { even_if_dead = yes this = scope:dead_character }
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+
+			}
+
+			else_if = { #Child
+				limit = {
+					exists = scope:house_arrest_holder
+					any_child = { even_if_dead = yes this = scope:dead_character }
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Child
+				limit = {
+					any_child = { even_if_dead = yes this = scope:dead_character }
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Sibling
+				limit = {
+					any_sibling = { even_if_dead = yes this = scope:dead_character }
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+
+			else_if = { #Lover
+				limit = {
+					is_in_list = send_death_management_0002_lover
+				}
+				if = {
+					limit = {
+						has_character_flag = important_lover
+					}
+				}
+				else = {
+					set_variable = {
+						name = tragical_anima
+						value = scope:dead_character
+						years = 5
+					}
+				}
+			}
+
+			else_if = { #Friend
+				limit = {
+					is_in_list = send_death_management_0002_friend
+				}
+				if = {
+					limit = {
+						opinion = {
+							target = scope:dead_character
+							value >= 50
+						}
+					}
+					set_variable = {
+						name = tragical_anima
+						value = scope:dead_character
+						years = 5
+					}
+				}
+				else = {
+					set_variable = {
+						name = tragical_anima
+						value = scope:dead_character
+						years = 5
+					}
+				}
+			}
+
+			else_if = {
+				limit = {
+					any_child = {
+						any_relation = { type = guardian even_if_dead = yes this = scope:dead_character }
+					}
+				}
+				set_variable = {
+					name = tragical_anima
+					value = scope:dead_character
+					years = 5
+				}
+			}
+		}
+	}
+}	
+
+#New holder of the county with an anima
+ate_religious_decision.101 = {
+	hidden = yes
+	
+	trigger = {
+		scope:title = {
+			exists = var:tragical_anima
+		}
+		NOT = { 
+			faith = {
+				has_doctrine_parameter = anima_shrines_active
+			} 
+		}
+	}
+
+	immediate = {
+		scope:title = {
+			remove_county_modifier = county_dedicated_anima_shrine
+			remove_county_modifier = county_dedicated_anima_sanctuary
+		}
+	}
+}
+
+#Anima grows
+ate_religious_decision.102 = {
+	title = ate_religious_decision.102.t
+	desc = ate_religious_decision.102.d
+
+	trigger = {
+		capital_province = {
+			county = {
+				has_variable = tragical_anima
+			}
+		}
+		faith = {
+			has_doctrine_parameter = anima_shrines_active
+		} 
+		NOT = {
+			has_variable = patron_anima
+		}
+	}
+	immediate = {
+		capital_province = {
+			county = {
+				save_scope_as = shrine_location
+			}
+		}
+		scope:shrine_location = {
+			root = {
+				set_variable = {
+					name = tragical_anima
+					value = prev.var:tragical_anima
+				}
+			}
+		}		
+	}
+	theme = faith
+	override_background = {
+		trigger = {	scope:at_home = yes }
+		event_background = temple_church
+	}
+	override_background = {
+		trigger = {	scope:at_home = no }
+		event_background = wilderness_scope
+	}
+	left_portrait = root
+	option = {
+		name = ate_religious_decision.102.a
+		custom_tooltip = anima_established_effect
+		remove_trait = patron_difunta_correa
+		remove_trait = patron_balmaceda
+		remove_trait = patron_ceferino
+		scope:shrine_location = {
+			set_variable = {
+				name = established_anima
+				value = var:tragical_anima
+			}
+			if = {
+				limit = {
+					var:tragical_anima = {
+						has_trait = intellect_good_3
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}
+					add_trait = patron_genius_anima
+				}
+			}		
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						effective_age < 16
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}				
+					add_trait = patron_child_anima
+				}
+			}
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						OR = {
+							has_trait = education_intrigue_1
+							has_trait = education_intrigue_2
+							has_trait = education_intrigue_3
+							has_trait = education_intrigue_4
+						}
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}				
+					add_trait = patron_intrigue_anima
+				}
+			}
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						OR = {
+							has_trait = education_diplomacy_1
+							has_trait = education_diplomacy_2
+							has_trait = education_diplomacy_3
+							has_trait = education_diplomacy_4
+						}
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}
+					add_trait = patron_diplomacy_anima
+				}
+			}
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						OR = {
+							has_trait = education_stewardship_1
+							has_trait = education_stewardship_2
+							has_trait = education_stewardship_3
+							has_trait = education_stewardship_4
+						}
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}
+					add_trait = patron_stewardship_anima
+				}
+			}
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						OR = {
+							has_trait = education_martial_prowess_1
+							has_trait = education_martial_prowess__2
+							has_trait = education_martial_prowess_3
+							has_trait = education_martial_prowess_4
+						}
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}				
+					add_trait = patron_prowess_anima
+				}
+			}
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						OR = {
+							has_trait = education_martial_1
+							has_trait = education_martial_2
+							has_trait = education_martial_3
+							has_trait = education_martial_4
+						}
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}				
+					add_trait = patron_martial_anima
+				}
+			}
+			else_if = {
+				limit = {
+					var:tragical_anima = {
+						OR = {
+							has_trait = education_learning_1
+							has_trait = education_learning_2
+							has_trait = education_learning_3
+							has_trait = education_learning_4
+						}
+					}
+				}
+				root = {
+					set_variable = {
+						name = patron_anima
+						value = prev.var:tragical_anima
+					}				
+					add_trait = patron_learning_anima
+				}
+			}				
+		}		
+	}
+
+	option = { #not for me
+		name = ate_religious_decision.102.b
+		custom_tooltip = anima_established_effect
+		scope:shrine_location = {
+			set_variable = {
+				name = established_anima
+				value = var:tragical_anima
+			}
+		}
+	}	
+
+}
+
+#Anima selection
+ate_religious_decision.103 = {
+	title = ate_religious_decision.103.t
+	desc = ate_religious_decision.103.d
+
+	trigger = {
+		faith = {
+			has_doctrine_parameter = anima_shrines_active
+		} 
+	}
+	immediate = {
+		capital_province = {
+			county = {
+				save_scope_as = shrine_location
+			}
+		}
+		scope:shrine_location = {
+			if  = {
+				limit = {
+					scope:shrine_location = {
+						has_variable = established_anima
+					}
+				}
+				root = {
+					set_variable = {
+						name = temporary_established_anima
+						value = prev.var:established_anima
+					}
+				}
+			}
+		}
+		every_in_global_list = {
+			list = greater_animas
+			if = {
+				limit = {
+					NOT = {	
+						exists = scope:greater_anima_1 
+					}
+					exists = SCOPE
+				}
+				save_scope_as = greater_anima_1
+			}
+			else_if = {
+				limit = {
+					NOT = {	
+						exists = scope:greater_anima_2 
+					}
+					NOT = {
+						this = scope:greater_anima_1
+					}
+					exists = SCOPE
+				}
+				save_scope_as = greater_anima_2
+			}
+			else_if = {
+				limit = {
+					NOT = {	
+						exists = scope:greater_anima_3 
+					}
+					NOT = {
+						this = scope:greater_anima_1
+					}
+					NOT = {
+						this = scope:greater_anima_2
+					}
+					exists = SCOPE
+				}
+				save_scope_as = greater_anima_3
+			}
+		}
+	}
+	theme = faith
+	override_background = {
+		trigger = {	scope:at_home = yes }
+		event_background = temple_church
+	}
+	override_background = {
+		trigger = {	scope:at_home = no }
+		event_background = wilderness_scope
+	}
+	left_portrait = root
+	option = {
+		name = ate_religious_decision.103.a
+		add_trait = patron_difunta_correa
+		remove_variable = temporary_established_anima
+	}
+	option = {
+		name = ate_religious_decision.103.b
+		add_trait = patron_balmaceda
+		remove_variable = temporary_established_anima
+	}
+	option = {
+		name = ate_religious_decision.103.h
+		add_trait = patron_ceferino
+		remove_variable = temporary_established_anima
+	}
+	option = {
+		name = ate_religious_decision.103.c
+		trigger = {
+			has_variable = temporary_established_anima
+		}
+		if = {
+			limit = {
+				var:temporary_established_anima = {
+					has_trait = intellect_good_3
+				}
+			}
+			add_trait = patron_genius_anima
+		}		
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					effective_age < 16
+				}
+			}
+			add_trait = patron_child_anima
+		}
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					OR = {
+						has_trait = education_intrigue_1
+						has_trait = education_intrigue_2
+						has_trait = education_intrigue_3
+						has_trait = education_intrigue_4
+					}
+				}
+			}
+			add_trait = patron_intrigue_anima
+		}
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					OR = {
+						has_trait = education_diplomacy_1
+						has_trait = education_diplomacy_2
+						has_trait = education_diplomacy_3
+						has_trait = education_diplomacy_4
+					}
+				}
+			}
+			add_trait = patron_diplomacy_anima
+		}
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					OR = {
+						has_trait = education_stewardship_1
+						has_trait = education_stewardship_2
+						has_trait = education_stewardship_3
+						has_trait = education_stewardship_4
+					}
+				}
+			}
+			add_trait = patron_stewardship_anima
+		}
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					OR = {
+						has_trait = education_martial_prowess_1
+						has_trait = education_martial_prowess__2
+						has_trait = education_martial_prowess_3
+						has_trait = education_martial_prowess_4
+					}
+				}
+			}
+			add_trait = patron_prowess_anima
+		}
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					OR = {
+						has_trait = education_martial_1
+						has_trait = education_martial_2
+						has_trait = education_martial_3
+						has_trait = education_martial_4
+					}
+				}
+			}
+			add_trait = patron_martial_anima
+		}
+		else_if = {
+			limit = {
+				var:temporary_established_anima = {
+					OR = {
+						has_trait = education_learning_1
+						has_trait = education_learning_2
+						has_trait = education_learning_3
+						has_trait = education_learning_4
+					}
+				}
+			}
+			add_trait = patron_learning_anima
+		}
+		set_variable = {
+			name = patron_anima
+			value = var:temporary_established_anima
+		}
+		remove_variable = temporary_established_anima
+	}
+	option = {
+		name = ate_religious_decision.103.e
+		trigger_if = {
+			limit = {
+				has_variable = temporary_established_anima
+				exists = scope:greater_anima_1
+			}
+			var:temporary_established_anima = {
+				compare_value != scope:greater_anima_1
+			}
+		}
+		trigger_else_if = {
+			limit = {
+				NOT = { has_variable = temporary_established_anima }
+				exists = scope:greater_anima_1
+			}
+			exists = scope:greater_anima_1		
+		}
+		if = {
+			limit = {
+				scope:greater_anima_1 = {
+					has_trait = intellect_good_3
+				}
+			}
+			add_trait = patron_genius_anima
+		}		
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					effective_age < 16
+				}
+			}
+			add_trait = patron_child_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_intrigue_1
+						has_trait = education_intrigue_2
+						has_trait = education_intrigue_3
+						has_trait = education_intrigue_4
+					}
+				}
+			}
+			add_trait = patron_intrigue_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_diplomacy_1
+						has_trait = education_diplomacy_2
+						has_trait = education_diplomacy_3
+						has_trait = education_diplomacy_4
+					}
+				}
+			}
+			add_trait = patron_diplomacy_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_stewardship_1
+						has_trait = education_stewardship_2
+						has_trait = education_stewardship_3
+						has_trait = education_stewardship_4
+					}
+				}
+			}
+			add_trait = patron_stewardship_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_martial_prowess_1
+						has_trait = education_martial_prowess__2
+						has_trait = education_martial_prowess_3
+						has_trait = education_martial_prowess_4
+					}
+				}
+			}
+			add_trait = patron_prowess_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_martial_1
+						has_trait = education_martial_2
+						has_trait = education_martial_3
+						has_trait = education_martial_4
+					}
+				}
+			}
+			add_trait = patron_martial_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_learning_1
+						has_trait = education_learning_2
+						has_trait = education_learning_3
+						has_trait = education_learning_4
+					}
+				}
+			}
+			add_trait = patron_learning_anima
+		}
+		set_variable = {
+			name = patron_anima
+			value = scope:greater_anima_1
+		}
+		remove_variable = temporary_established_anima
+	}
+	option = {
+		name = ate_religious_decision.103.f
+		trigger_if = {
+			limit = {
+				has_variable = temporary_established_anima
+				exists = scope:greater_anima_2
+			}
+			var:temporary_established_anima = {
+				compare_value != scope:greater_anima_2
+			}
+		}
+		trigger_else_if = {
+			limit = {
+				NOT = { has_variable = temporary_established_anima }
+				exists = scope:greater_anima_2
+			}
+			exists = scope:greater_anima_2	
+		}
+		if = {
+			limit = {
+				scope:greater_anima_2 = {
+					has_trait = intellect_good_3
+				}
+			}
+			add_trait = patron_genius_anima
+		}		
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					effective_age < 16
+				}
+			}
+			add_trait = patron_child_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					OR = {
+						has_trait = education_intrigue_1
+						has_trait = education_intrigue_2
+						has_trait = education_intrigue_3
+						has_trait = education_intrigue_4
+					}
+				}
+			}
+			add_trait = patron_intrigue_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					OR = {
+						has_trait = education_diplomacy_1
+						has_trait = education_diplomacy_2
+						has_trait = education_diplomacy_3
+						has_trait = education_diplomacy_4
+					}
+				}
+			}
+			add_trait = patron_diplomacy_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					OR = {
+						has_trait = education_stewardship_1
+						has_trait = education_stewardship_2
+						has_trait = education_stewardship_3
+						has_trait = education_stewardship_4
+					}
+				}
+			}
+			add_trait = patron_stewardship_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					OR = {
+						has_trait = education_martial_prowess_1
+						has_trait = education_martial_prowess__2
+						has_trait = education_martial_prowess_3
+						has_trait = education_martial_prowess_4
+					}
+				}
+			}
+			add_trait = patron_prowess_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					OR = {
+						has_trait = education_martial_1
+						has_trait = education_martial_2
+						has_trait = education_martial_3
+						has_trait = education_martial_4
+					}
+				}
+			}
+			add_trait = patron_martial_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_2 = {
+					OR = {
+						has_trait = education_learning_1
+						has_trait = education_learning_2
+						has_trait = education_learning_3
+						has_trait = education_learning_4
+					}
+				}
+			}
+			add_trait = patron_learning_anima
+		}
+		set_variable = {
+			name = patron_anima
+			value = scope:greater_anima_2
+		}
+		remove_variable = temporary_established_anima
+	}
+	option = {
+		name = ate_religious_decision.103.g
+		trigger_if = {
+			limit = {
+				has_variable = temporary_established_anima
+				exists = scope:greater_anima_3
+			}
+			var:temporary_established_anima = {
+				compare_value != scope:greater_anima_3
+			}
+		}
+		trigger_else_if = {
+			limit = {
+				NOT = { has_variable = temporary_established_anima }
+				exists = scope:greater_anima_3
+			}
+			exists = scope:greater_anima_3	
+		}
+		if = {
+			limit = {
+				scope:greater_anima_3 = {
+					has_trait = intellect_good_3
+				}
+			}
+			add_trait = patron_genius_anima
+		}		
+		else_if = {
+			limit = {
+				scope:greater_anima_3 = {
+					effective_age < 16
+				}
+			}
+			add_trait = patron_child_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_3 = {
+					OR = {
+						has_trait = education_intrigue_1
+						has_trait = education_intrigue_2
+						has_trait = education_intrigue_3
+						has_trait = education_intrigue_4
+					}
+				}
+			}
+			add_trait = patron_intrigue_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_3 = {
+					OR = {
+						has_trait = education_diplomacy_1
+						has_trait = education_diplomacy_2
+						has_trait = education_diplomacy_3
+						has_trait = education_diplomacy_4
+					}
+				}
+			}
+			add_trait = patron_diplomacy_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_1 = {
+					OR = {
+						has_trait = education_stewardship_1
+						has_trait = education_stewardship_2
+						has_trait = education_stewardship_3
+						has_trait = education_stewardship_4
+					}
+				}
+			}
+			add_trait = patron_stewardship_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_3 = {
+					OR = {
+						has_trait = education_martial_prowess_1
+						has_trait = education_martial_prowess__2
+						has_trait = education_martial_prowess_3
+						has_trait = education_martial_prowess_4
+					}
+				}
+			}
+			add_trait = patron_prowess_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_3 = {
+					OR = {
+						has_trait = education_martial_1
+						has_trait = education_martial_2
+						has_trait = education_martial_3
+						has_trait = education_martial_4
+					}
+				}
+			}
+			add_trait = patron_martial_anima
+		}
+		else_if = {
+			limit = {
+				scope:greater_anima_3 = {
+					OR = {
+						has_trait = education_learning_1
+						has_trait = education_learning_2
+						has_trait = education_learning_3
+						has_trait = education_learning_4
+					}
+				}
+			}
+			add_trait = patron_learning_anima
+		}
+		set_variable = {
+			name = patron_anima
+			value = scope:greater_anima_3
+		}
+		remove_variable = temporary_established_anima
+	}
+}
+#Anima grows
+ate_religious_decision.104 = {
+	title = ate_religious_decision.104.t
+	desc = ate_religious_decision.104.d
+
+	trigger = {
+		capital_province = {
+			county = {
+				has_variable = established_anima
+			}
+		}
+		faith = {
+			has_doctrine_parameter = anima_shrines_active
+		} 
+	}
+	immediate = {
+		capital_province = {
+			county = {
+				save_scope_as = shrine_location
+			}
+		}
+		scope:shrine_location = {
+			if  = {
+				limit = {
+					scope:shrine_location = {
+						has_variable = established_anima
+					}
+				}
+				root = {
+					set_variable = {
+						name = temporary_established_anima
+						value = prev.var:established_anima
+					}
+				}
+			}
+		}		
+	}
+	theme = faith
+	override_background = {
+		trigger = {	scope:at_home = yes }
+		event_background = temple_church
+	}
+	override_background = {
+		trigger = {	scope:at_home = no }
+		event_background = wilderness_scope
+	}
+	left_portrait = root
+	option = {
+		name = ate_religious_decision.104.a
+		custom_tooltip = anima_made_greater_effect
+		scope:shrine_location = {
+			add_to_global_variable_list = {
+				name = greater_animas
+				target = var:established_anima
+			}
+			remove_county_modifier = county_dedicated_anima_shrine
+			add_county_modifier = {
+				modifier = county_dedicated_anima_sanctuary
+			}			
+		}
+
+	}	
+}
