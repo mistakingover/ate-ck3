@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "hcc_crown_mesh"
+	file = "hcc_crown.mesh"
+
+	meshsettings = {
+		name = "hcc_crownShape"
+		index = 0
+		texture_diffuse = "hcc_crown_diffuse.dds"
+		texture_normal = "hcc_crown_normal.dds"
+		texture_specular = "hcc_crown_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+entity = {
+	name = "hcc_crown_entity"
+	pdxmesh = "hcc_crown_mesh"
+}
