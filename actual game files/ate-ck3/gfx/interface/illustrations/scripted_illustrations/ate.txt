@@ -1,0 +1,84 @@
+
+### Holding image based on title
+title_holding = {
+	texture = {
+		trigger = {
+			title_illustration_save_province_temporary = yes
+			scope:province = {
+				has_holding_type = tribal_holding
+				exists = culture
+				culture = {
+					has_graphical_prairie_culture_group_trigger = yes
+				}
+			}
+		}
+		reference = "holding_types/tribe_prairie.dds"
+	}
+	texture = {
+		trigger = {
+			title_illustration_save_province_temporary = yes
+			scope:province = {
+				has_holding_type = castle_holding
+				exists = culture
+				culture = culture:haida
+			}
+		}
+		reference = "holding_types/castle_haida.dds"
+	}
+}
+
+
+character_location_exterior = {
+	texture = {
+		reference = "terrain_types/arctic.dds"
+
+		trigger = {
+			NOT = {
+				exists = liege
+			}
+			exists = location
+			location = {
+				terrain = arctic
+			}
+		}
+	}
+	texture = {
+		reference = "terrain_types/tundra.dds"
+
+		trigger = {
+			NOT = {
+				exists = liege
+			}
+			exists = location
+			location = {
+				terrain = tundra
+			}
+		}
+	}
+	texture = {
+		reference = "terrain_types/flood_forest.dds"
+
+		trigger = {
+			NOT = {
+				exists = liege
+			}
+			exists = location
+			location = {
+				terrain = flood_forest
+			}
+		}
+	}
+	texture = {
+		reference = "terrain_types/salt_flat.dds"
+
+		trigger = {
+			NOT = {
+				exists = liege
+			}
+			exists = location
+			location = {
+				terrain = salt_flat
+			}
+		}
+	}
+}
