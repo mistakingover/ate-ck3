@@ -1,0 +1,356 @@
+﻿# Tags:
+# rank_headgear: any headgear that signifies a certain title. crowns, pope hat etc.
+
+
+
+headgear = {
+	# interface_position = 1
+	usage = both
+	selection_behavior = weighted_random
+
+## HCC ##
+
+## NWC Native ##
+
+	hat_cedar = {
+
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = hat_cedar
+				range = { 0 1 } # For the randomness to work correctly
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 50
+				highest_held_title_tier < tier_county
+				NOR = {
+					AND = {
+						exists = primary_spouse
+						primary_spouse = {
+							highest_held_title_tier > tier_county
+						}
+					}
+					AND = {
+						has_government = republic_government
+						primary_title.tier > 1
+					}
+					AND = { is_ruler = yes has_government = theocracy_government }
+				}
+				portrait_western_clothing_trigger = yes
+			}
+		}
+	}
+
+	nwc_low_nobles = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = nwc_low_nobility_01
+				range = { 0 1 } # For the randomness to work correctly
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 50
+				NAND = {
+					has_trait = peasant_leader
+					OR = {
+						is_ruler = no
+						is_leading_faction_type = peasant_faction
+						AND = {
+							is_ruler = yes
+							is_landed = no
+							OR = {
+								has_government = feudal_government
+								has_government = clan_government
+							}
+						}
+					}
+				}
+				OR = {
+					AND = {
+						highest_held_title_tier = tier_county
+						NOR = {
+							# has_dynasty = no
+							AND = {
+								has_government = republic_government
+								primary_title.tier > 1
+							}
+							AND = { is_ruler = yes has_government = theocracy_government }
+						}
+						OR = {
+							culture = culture:haida
+							culture = culture:tlingit
+							culture = culture:tsimshianic
+							culture = culture:wakanshan
+						}
+					}
+					AND = {
+						exists = primary_spouse
+						OR = {
+							is_ruler = no
+							highest_held_title_tier = tier_barony
+						}
+						primary_spouse = {
+							highest_held_title_tier = tier_county
+							NOR = {
+								# has_dynasty = no
+								AND = {
+									has_government = republic_government
+									primary_title.tier > 1
+								}
+								AND = { is_ruler = yes has_government = theocracy_government }
+							}
+							OR = {
+								culture = culture:haida
+								culture = culture:tlingit
+								culture = culture:tsimshianic
+								culture = culture:wakanshan
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	nwc_high_nobles = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = nwc_high_nobility_01
+				range = { 0 1 } # For the randomness to work correctly
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 50
+				NAND = {
+					has_trait = peasant_leader
+					OR = {
+						is_ruler = no
+						is_leading_faction_type = peasant_faction
+						AND = {
+							is_ruler = yes
+							is_landed = no
+							OR = {
+								has_government = feudal_government
+								has_government = clan_government
+							}
+						}
+					}
+				}
+				OR = {
+					AND = {
+						OR = {
+							highest_held_title_tier = tier_duchy
+							AND = {
+								has_government = republic_government
+								primary_title.tier > 2
+							}
+							AND = { is_ruler = yes has_government = theocracy_government }
+						}
+						NOT = { AND = { is_ruler = yes has_government = mercenary_government  } } # Blocked for mercenaries
+						
+						OR = {
+							culture = culture:haida
+							culture = culture:tlingit
+							culture = culture:tsimshianic
+							culture = culture:wakanshan
+						}
+					}
+					AND = {
+						exists = primary_spouse
+						OR = {
+							is_ruler = no
+							highest_held_title_tier = tier_barony
+						}
+						primary_spouse = {
+							OR = {
+								highest_held_title_tier = tier_duchy
+								AND = {
+									has_government = republic_government
+									primary_title.tier > 2
+								}
+								AND = { is_ruler = yes has_government = theocracy_government }
+							}
+							OR = {
+								culture = culture:haida
+								culture = culture:tlingit
+								culture = culture:tsimshianic
+								culture = culture:wakanshan
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	nwc_royalty = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = nwc_royalty
+				range = { 0 1 } # For the randomness to work correctly
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 50
+				NAND = {
+					has_trait = peasant_leader
+					OR = {
+						is_ruler = no
+						is_leading_faction_type = peasant_faction
+						AND = {
+							is_ruler = yes
+							is_landed = no
+							OR = {
+								has_government = feudal_government
+								has_government = clan_government
+							}
+						}
+					}
+				}
+				OR = {
+					AND = {
+						OR = {
+							highest_held_title_tier = tier_kingdom
+							AND = { is_ruler = yes has_government = theocracy_government }
+						}
+						NOT = { AND = { is_ruler = yes has_government = mercenary_government  } } # Blocked for mercenaries
+						NOT = { has_government = republic_government }
+						OR = {
+							culture = culture:haida
+							culture = culture:tlingit
+							culture = culture:tsimshianic
+							culture = culture:wakanshan
+						}
+					}
+					AND = {
+						exists = primary_spouse
+						OR = {
+							is_ruler = no
+							highest_held_title_tier = tier_barony
+						}
+						primary_spouse = {
+							OR = {
+								highest_held_title_tier = tier_kingdom
+								AND = { is_ruler = yes has_government = theocracy_government }
+							}
+							NOT = { AND = { is_ruler = yes has_government = mercenary_government  } } # Blocked for mercenaries
+							NOT = { has_government = republic_government }
+							OR = {
+								culture = culture:haida
+								culture = culture:tlingit
+								culture = culture:tsimshianic
+								culture = culture:wakanshan
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	nwc_helmet = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = nwc_helmet
+				range = { 0 1 } # For the randomness to work correctly
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 101 # larger than the western war headgear
+				portrait_wear_helmet_trigger = yes
+				OR = {
+					culture = culture:haida
+					culture = culture:tlingit
+					culture = culture:tsimshianic
+					culture = culture:wakanshan
+				}
+				
+				NOR = {
+				    AND = {
+				        religion = religion:christianity_religion
+				        has_government = holy_order_government
+				    }
+				    AND = {
+				        religion = religion:christianity_religion
+				        is_landed = no
+				        portrait_wear_armor_trigger = yes
+				        exists = liege
+				        liege = {
+				            has_government = holy_order_government
+				        }
+				    }
+				    AND = {
+				        religion = religion:christianity_religion
+				        portrait_wear_armor_trigger = yes
+				        OR = {
+				            any_character_war = {
+				                OR = {
+				                    using_cb = undirected_great_holy_war
+				                    using_cb = directed_great_holy_war
+				                }
+				                is_attacker = prev
+				            }
+				            any_liege_or_above = {
+				                faith = prev.faith
+				                any_character_war = {
+				                    OR = {
+				                        using_cb = undirected_great_holy_war
+				                        using_cb = directed_great_holy_war
+				                    }
+				                    is_attacker = prev
+				                }
+				            }
+				        }
+				    }
+				}
+			}
+		}
+	}
+
+
+################# HCC ################
+
+
+	hcc_imperial = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headgear
+				template = hcc_crown
+				range = { 0 1 } # For the randomness to work correctly
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 101 # always pick the HRE crown over the western one
+				has_title = title:e_hcc
+			}
+			modifier = {
+				add = -100 # always pick the Byzantine Crown if that's your primary title
+				primary_title = title:e_brazil
+			}
+		}
+	}
+
+
+## Western ##

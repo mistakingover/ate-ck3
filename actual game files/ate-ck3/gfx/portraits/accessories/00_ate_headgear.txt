@@ -1,0 +1,71 @@
+﻿
+## ANDEAN ##
+
+
+male_headgear_secular_andean_common_01 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_andean_common_01_entity }
+}
+
+male_headgear_secular_inca_count_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_count_01_entity }
+}
+
+male_headgear_secular_inca_duke_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_duke_01_entity }
+}
+
+male_headgear_secular_inca_royal_01 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_royal_01_entity }
+}
+
+male_headgear_secular_inca_royal_02 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_royal_02_entity }
+}
+
+male_headgear_secular_inca_imperial_01 = {
+	set_tags = "cap"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_inca_imperial_01_entity }
+}
+
+
+
+
+## NORTHWEST COAST NATIVES ##
+
+
+male_headgear_secular_haida_common_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_haida_common_01_entity }
+}
+
+male_headgear_secular_haida_low_nobility_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_haida_low_nobility_01_entity }
+}
+
+male_headgear_secular_haida_high_nobility_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_haida_high_nobility_01_entity }
+}
+
+male_headgear_secular_haida_royalty_01 = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_haida_royalty_01_entity }
+}
+male_headgear_secular_haida_war = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_haida_war_entity }
+}
+
+
+## HCC ##
+
+hcc_crown = {
+	set_tags = "crown"
+	entity = { required_tags = ""			shared_pose_entity = head		entity = hcc_crown_entity }
+}
