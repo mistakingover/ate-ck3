@@ -62,6 +62,47 @@
 	}
 }
 
+call_constituent_assembly_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = call_constituent_assembly_decision_desc
+	selection_tooltip = call_constituent_assembly_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = enables_constituent_assembly
+		}
+		has_title = d_caudillo_patria_grande
+	}
+
+	is_valid = {
+		custom_description = {
+			text = consituent_assembly_timing
+			NOT = { has_global_variable = recent_constituent_assembly }
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		trigger_event = ate_religious_decision.81
+		custom_tooltip = call_constituent_assembly_effect
+	}
+
+	ai_check_interval = 36
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+
 draw_geoglyph_decision = {
 	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
 
@@ -267,7 +308,9 @@ build_sanctuary_anima = {
 
 	is_valid = {
 		piety_level >= 4
-
+		NOT = { 
+			has_global_variable = greater_anima_3
+		}
 	}
 
 	is_valid_showing_failures_only = {

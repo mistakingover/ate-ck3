@@ -1,7 +1,7 @@
 ﻿namespace = ate_religious_decision
 
 
-ate_religious_decision.80 = {
+ate_religious_decision.80 = { #select procer
 	type = character_event
 	title = ate_religious_decision.80.t
 	desc = ate_religious_decision.80.desc
@@ -74,6 +74,178 @@ ate_religious_decision.80 = {
 		ai_chance = {
 			base = 0
 		}		
+	}
+}
+
+ate_religious_decision.81 = { #beginning of assembly
+	type = character_event
+	title = ate_religious_decision.81.t
+	immediate = {
+		title:c_co_21_c_cuta = {
+			holder = {
+				save_scope_as = cucuta_holder
+			}
+		}
+		root = {
+			save_scope_as = caudillo
+		}
+	}
+	desc = {
+		desc = ate_religious_decision.81.desc.start
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_title = c_co_21_c_cuta #caudillo owns cucuta, check if the county keeps that name
+				}
+				desc = ate_religious_decision.81.desc.cucuta
+			}
+			triggered_desc = {
+				trigger = {
+					title:c_co_21_c_cuta = {
+						this.holder.faith = faith:patria_grande
+					}
+				}
+				desc = ate_religious_decision.81.desc.faithful
+			}
+			desc = ate_religious_decision.81.desc.infidel
+		}
+	}
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.81.a
+		if = {
+			limit = {
+				highest_held_title_tier > tier_kingdom
+			}
+			add_gold = major_gold_loss
+			if = {
+				limit = {
+					title:c_co_21_c_cuta = {
+						NOT = {
+							this.holder.faith = faith:patria_grande
+						}
+					}	
+				}
+				add_gold = major_gold_loss
+			}
+		}
+		else_if = {
+			limit = {
+				highest_held_title_tier = tier_kingdom
+			}
+			add_gold = medium_gold_loss
+			if = {
+				limit = {
+					title:c_co_21_c_cuta = {
+						NOT = {
+							this.holder.faith = faith:patria_grande
+						}
+					}	
+				}
+				add_gold = medium_gold_loss
+			}
+		}
+		else = {
+			add_gold = minor_gold_loss
+			if = {
+				limit = {
+					title:c_co_21_c_cuta = {
+						NOT = {
+							this.holder.faith = faith:patria_grande
+						}
+					}	
+				}
+				add_gold = minor_gold_loss
+			}
+		}
+		hidden_effect = {
+			every_ruler = {
+				limit = {
+					this.faith = faith:patria_grande
+				}
+				trigger_event = {
+					ate_religious_decision.82
+					days = 7
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.81.b
+		trigger = {
+			NOT = {
+				has_title = c_co_21_c_cuta
+			}
+			c_co_21_c_cuta = {
+				this.holder.faith = faith:patria_grande
+			}			
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_relation_rival = scope:cucuta_holder
+				}
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						has_relation_potential_rival = scope:cucuta_holder
+					}
+					remove_relation_potential_rival = scope:cucuta_holder
+				}
+			}
+			set_relation_rival = scope:cucuta_holder
+		}
+		scope:cucuta_holder = {
+			add_character_flag = {
+				flag = cucuta_forced_to_pay
+				years = 2
+			}
+		}
+		hidden_effect = {
+			every_ruler = {
+				limit = {
+					this.faith = faith:patria_grande
+				}
+				trigger_event = {
+					id = ate_religious_decision.82
+					days = 7
+				}
+			}
+		}
+	}
+}
+
+ate_religious_decision.82 = { #beginning of assembly
+	type = character_event
+	title = ate_religious_decision.82.t
+	desc = {
+		desc = ate_religious_decision.82.desc.start
+		triggered_desc = {
+			trigger = {
+				has_character_flag = cucuta_forced_to_pay #caudillo forces cucuta owned to pay up
+			}
+			desc = ate_religious_decision.82.desc.cucuta
+		}
+	}
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.82.a
+		add_gold = 1
+	}
+	option = {
+		name = ate_religious_decision.82.b
+		add_gold = 2
 	}
 }
 
@@ -596,43 +768,21 @@ ate_religious_decision.103 = {
 				}
 			}
 		}
-		every_in_global_list = {
-			list = greater_animas
-			if = {
-				limit = {
-					NOT = {	
-						exists = scope:greater_anima_1 
-					}
-					exists = SCOPE
-				}
-				save_scope_as = greater_anima_1
+		root = {
+			set_variable = {
+				name = temporary_greater_anima_1
+				value = global_var:greater_anima_1
+				days = 7
 			}
-			else_if = {
-				limit = {
-					NOT = {	
-						exists = scope:greater_anima_2 
-					}
-					NOT = {
-						this = scope:greater_anima_1
-					}
-					exists = SCOPE
-				}
-				save_scope_as = greater_anima_2
+			set_variable = {
+				name = temporary_greater_anima_2
+				value = global_var:greater_anima_2
+				days = 7
 			}
-			else_if = {
-				limit = {
-					NOT = {	
-						exists = scope:greater_anima_3 
-					}
-					NOT = {
-						this = scope:greater_anima_1
-					}
-					NOT = {
-						this = scope:greater_anima_2
-					}
-					exists = SCOPE
-				}
-				save_scope_as = greater_anima_3
+			set_variable = {
+				name = temporary_greater_anima_3
+				value = global_var:greater_anima_3
+				days = 7
 			}
 		}
 	}
@@ -650,6 +800,13 @@ ate_religious_decision.103 = {
 		name = ate_religious_decision.103.a
 		add_trait = patron_difunta_correa
 		remove_variable = temporary_established_anima
+		if = {
+			limit = {
+				NOT = { has_variable = temporary_established_anima }
+				has_global_variable = greater_anima_1					
+			}
+			add_gold = 150
+		}
 	}
 	option = {
 		name = ate_religious_decision.103.b
@@ -768,33 +925,38 @@ ate_religious_decision.103 = {
 	}
 	option = {
 		name = ate_religious_decision.103.e
-		trigger_if = {
-			limit = {
-				has_variable = temporary_established_anima
-				exists = scope:greater_anima_1
+		trigger = {
+			trigger_if = {
+				limit = {
+					has_variable = temporary_established_anima
+					has_global_variable = greater_anima_1
+				}
+				var:temporary_established_anima = {
+					compare_value != global_var:greater_anima_1
+				}
 			}
-			var:temporary_established_anima = {
-				compare_value != scope:greater_anima_1
+			trigger_else_if = {
+				limit = {
+					NOT = { has_variable = temporary_established_anima }
+					has_global_variable = greater_anima_1					
+				}
+				has_global_variable = greater_anima_1
+			}
+			trigger_else = {
+				always = no
 			}
 		}
-		trigger_else_if = {
+		if = { 
 			limit = {
-				NOT = { has_variable = temporary_established_anima }
-				exists = scope:greater_anima_1
-			}
-			exists = scope:greater_anima_1		
-		}
-		if = {
-			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					has_trait = intellect_good_3
 				}
 			}
 			add_trait = patron_genius_anima
-		}		
+		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					effective_age < 16
 				}
 			}
@@ -802,7 +964,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_intrigue_1
 						has_trait = education_intrigue_2
@@ -815,7 +977,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_diplomacy_1
 						has_trait = education_diplomacy_2
@@ -828,7 +990,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_stewardship_1
 						has_trait = education_stewardship_2
@@ -841,7 +1003,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_martial_prowess_1
 						has_trait = education_martial_prowess__2
@@ -854,7 +1016,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_martial_1
 						has_trait = education_martial_2
@@ -867,7 +1029,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_learning_1
 						has_trait = education_learning_2
@@ -880,31 +1042,36 @@ ate_religious_decision.103 = {
 		}
 		set_variable = {
 			name = patron_anima
-			value = scope:greater_anima_1
+			value = global_var:greater_anima_1
 		}
 		remove_variable = temporary_established_anima
 	}
 	option = {
 		name = ate_religious_decision.103.f
-		trigger_if = {
-			limit = {
-				has_variable = temporary_established_anima
-				exists = scope:greater_anima_2
+		trigger = {
+			trigger_if = {
+				limit = {
+					has_variable = temporary_established_anima
+					has_global_variable = greater_anima_2
+				}
+				var:temporary_established_anima = {
+					compare_value != global_var:greater_anima_2
+				}
 			}
-			var:temporary_established_anima = {
-				compare_value != scope:greater_anima_2
+			trigger_else_if = {
+				limit = {
+					NOT = { has_variable = temporary_established_anima }
+					has_global_variable = greater_anima_2					
+				}
+				has_global_variable = greater_anima_2
 			}
-		}
-		trigger_else_if = {
-			limit = {
-				NOT = { has_variable = temporary_established_anima }
-				exists = scope:greater_anima_2
+			trigger_else = {
+				always = no
 			}
-			exists = scope:greater_anima_2	
 		}
 		if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					has_trait = intellect_good_3
 				}
 			}
@@ -912,7 +1079,7 @@ ate_religious_decision.103 = {
 		}		
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					effective_age < 16
 				}
 			}
@@ -920,7 +1087,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					OR = {
 						has_trait = education_intrigue_1
 						has_trait = education_intrigue_2
@@ -933,7 +1100,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					OR = {
 						has_trait = education_diplomacy_1
 						has_trait = education_diplomacy_2
@@ -946,7 +1113,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					OR = {
 						has_trait = education_stewardship_1
 						has_trait = education_stewardship_2
@@ -959,7 +1126,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					OR = {
 						has_trait = education_martial_prowess_1
 						has_trait = education_martial_prowess__2
@@ -972,7 +1139,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					OR = {
 						has_trait = education_martial_1
 						has_trait = education_martial_2
@@ -985,7 +1152,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_2 = {
+				global_var:greater_anima_2 = {
 					OR = {
 						has_trait = education_learning_1
 						has_trait = education_learning_2
@@ -998,31 +1165,36 @@ ate_religious_decision.103 = {
 		}
 		set_variable = {
 			name = patron_anima
-			value = scope:greater_anima_2
+			value = global_var:greater_anima_2
 		}
 		remove_variable = temporary_established_anima
 	}
 	option = {
 		name = ate_religious_decision.103.g
-		trigger_if = {
-			limit = {
-				has_variable = temporary_established_anima
-				exists = scope:greater_anima_3
+		trigger = {
+			trigger_if = {
+				limit = {
+					has_variable = temporary_established_anima
+					has_global_variable = greater_anima_3
+				}
+				var:temporary_established_anima = {
+					compare_value != global_var:greater_anima_3
+				}
 			}
-			var:temporary_established_anima = {
-				compare_value != scope:greater_anima_3
+			trigger_else_if = {
+				limit = {
+					NOT = { has_variable = temporary_established_anima }
+					has_global_variable = greater_anima_3				
+				}
+				has_global_variable = greater_anima_3
 			}
-		}
-		trigger_else_if = {
-			limit = {
-				NOT = { has_variable = temporary_established_anima }
-				exists = scope:greater_anima_3
+			trigger_else = {
+				always = no
 			}
-			exists = scope:greater_anima_3	
 		}
 		if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					has_trait = intellect_good_3
 				}
 			}
@@ -1030,7 +1202,7 @@ ate_religious_decision.103 = {
 		}		
 		else_if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					effective_age < 16
 				}
 			}
@@ -1038,7 +1210,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					OR = {
 						has_trait = education_intrigue_1
 						has_trait = education_intrigue_2
@@ -1051,7 +1223,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					OR = {
 						has_trait = education_diplomacy_1
 						has_trait = education_diplomacy_2
@@ -1064,7 +1236,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_1 = {
+				global_var:greater_anima_1 = {
 					OR = {
 						has_trait = education_stewardship_1
 						has_trait = education_stewardship_2
@@ -1077,7 +1249,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					OR = {
 						has_trait = education_martial_prowess_1
 						has_trait = education_martial_prowess__2
@@ -1090,7 +1262,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					OR = {
 						has_trait = education_martial_1
 						has_trait = education_martial_2
@@ -1103,7 +1275,7 @@ ate_religious_decision.103 = {
 		}
 		else_if = {
 			limit = {
-				scope:greater_anima_3 = {
+				global_var:greater_anima_3 = {
 					OR = {
 						has_trait = education_learning_1
 						has_trait = education_learning_2
@@ -1116,12 +1288,12 @@ ate_religious_decision.103 = {
 		}
 		set_variable = {
 			name = patron_anima
-			value = scope:greater_anima_3
+			value = global_var:greater_anima_3
 		}
 		remove_variable = temporary_established_anima
 	}
 }
-#Anima grows
+#Anima Sanctuary
 ate_religious_decision.104 = {
 	title = ate_religious_decision.104.t
 	desc = ate_religious_decision.104.d
@@ -1172,9 +1344,33 @@ ate_religious_decision.104 = {
 		name = ate_religious_decision.104.a
 		custom_tooltip = anima_made_greater_effect
 		scope:shrine_location = {
-			add_to_global_variable_list = {
-				name = greater_animas
-				target = var:established_anima
+			if = {
+				limit = {
+					NOT = {
+						has_global_variable = greater_anima_1
+					}
+				}
+				set_global_variable = {
+					name = greater_anima_1
+					value = var:established_anima
+				}
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						has_global_variable = greater_anima_2
+					}
+				}
+				set_global_variable = {
+					name = greater_anima_2
+					value = var:established_anima
+				}				
+			}
+			else = {
+				set_global_variable = {
+					name = greater_anima_3
+					value = var:established_anima
+				}					
 			}
 			remove_county_modifier = county_dedicated_anima_shrine
 			add_county_modifier = {
