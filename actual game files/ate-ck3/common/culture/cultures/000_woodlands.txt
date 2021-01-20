@@ -14,52 +14,56 @@ graphical_cultures = {
 		color = { 0.66 0.55 0.9 }
 	
 		cadet_dynasty_names = {
-			"dynn_Bomberry"
-			"dynn_Hill"
-			"dynn_Longboat"
-			"dynn_Maracle"
-			"dynn_Jamieson"
-			"dynn_Green"
-			"dynn_Cornplanter"
-			"dynn_Brant"
-			"dynn_Nanticoke"
-			"dynn_Boncore"
-			"dynn_Powless"
-			"dynn_Wheelock"
-			"dynn_Rickard"
-			"dynn_Cornelius"
-			"dynn_Shenandoah"
-			"dynn_Loft"
-			"dynn_Two-Axe"
-			"dynn_Gabriel"
-			"dynn_Horn"
-			"dynn_Gibson"
-			"dynn_Larocque"
-			"dynn_Farmer"
-			"dynn_Thompson"
-			"dynn_Longfish"
-			"dynn_Montour"
-			"dynn_Bucktooth"
-			"dynn_Doctor"
-			"dynn_Burnam"
-			"dynn_Two-Rivers"
-			"dynn_Parker"
-			"dynn_General"
-			"dynn_Printup"
-			"dynn_Lahache"
-			"dynn_Deer"
-			"dynn_Oakes"
-			"dynn_Martin"
-			"dynn_Stacey"
-			"dynn_Miller"
-			"dynn_Leborgne"
-			"dynn_Kirby"
-			"dynn_Vyse"
-			"dynn_Rice"
 			"dynn_Beauvais"
+			"dynn_Bomberry"
+			"dynn_Boncore"
+			"dynn_Brant"
+			"dynn_Bucktooth"
+			"dynn_Burnam"
+			"dynn_Cornelius"
+			"dynn_Cornplanter"
+			"dynn_Deer"
+			"dynn_Doctor"
+			"dynn_Farmer"
+			"dynn_Gabriel"
+			"dynn_General"
+			"dynn_Gibson"
 			"dynn_Goodleaf"
-			"dynn_Jacobs"
+			"dynn_Green"
 			"dynn_Hess"
+			"dynn_Hill"
+			"dynn_Horn"
+			"dynn_Jacobs"
+			"dynn_Jamieson"
+			"dynn_Johnson"
+			"dynn_Kirby"
+			"dynn_LaForme"
+			"dynn_Lahache"
+			"dynn_Larocque"
+			"dynn_Leborgne"
+			"dynn_Loft"
+			"dynn_Longboat"
+			"dynn_Longfish"
+			"dynn_Maracle"
+			"dynn_Martin"
+			"dynn_Miller"
+			"dynn_Montour"
+			"dynn_Nanticoke"
+			"dynn_Oakes"
+			"dynn_Parker"
+			"dynn_Powless"
+			"dynn_Printup"
+			"dynn_Rice"
+			"dynn_Rickard"
+			"dynn_Robertson"
+			"dynn_Shenandoah"
+			"dynn_Staats"
+			"dynn_Stacey"
+			"dynn_Thompson"
+			"dynn_Two-Axe"
+			"dynn_Two-Rivers"
+			"dynn_Vyse"
+			"dynn_Wheelock"
 		}
 		dynasty_names = {
 			"dynn_Allen"
@@ -71,15 +75,21 @@ graphical_cultures = {
 			Gayogwadoke Guyasuta
 			Hasanoanda Hayonhwonhish Hutgohsodoneh
 			Kaientaronkwen Kaiiontwakon Kanentakeron
-			Odeserundiye Onondeyoh Oronhyatekha
-			Sganyodaiyo Sosondowa
-			Tehoka Teyoninhokarawen Thaonawyuthe Thayendanegea
+			Odeserundiye Onondeyoh Onwanonsyshon Oronhyatekha
+			Sakayengwaraton Sganyodaiyo Sosondowa
+			Taiaiake Tehoka Teyoninhokarawen Thaonawyuthe Thayendanegea
+			
+			Arnold Charles David Delby Floyd Frederick George Gilbert Graham Harold Henry James John Joseph Levi Norton Paul Peter Samuel Simon Stanley Thomas William
 		}
 		female_names = {
+			Anahareo
 			Gowongo
-			Kawennahere Kawisenhawe
+			Kahntineta Kaniehtiio Kawennahere Kawisenhawe
 			Tekatsitsiakawa
+			Waneek
 			Yowehsonh
+			
+			Alicia Emily Julia Mary Pauline Roberta Sarah
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
