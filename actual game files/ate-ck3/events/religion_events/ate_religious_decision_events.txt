@@ -164,13 +164,25 @@ ate_religious_decision.81 = { #beginning of assembly
 			}
 		}
 		hidden_effect = {
-			every_ruler = {
+			every_player = {
 				limit = {
 					this.faith = faith:patria_grande
+					NOT = {
+						has_title = d_caudillo_patria_grande
+					}
 				}
 				trigger_event = {
-					ate_religious_decision.82
+					id = ate_religious_decision.82
 					days = 7
+				}
+			}
+			if = {
+				limit = {
+					is_ai = no
+				}
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 14
 				}
 			}
 		}
@@ -208,20 +220,32 @@ ate_religious_decision.81 = { #beginning of assembly
 			}
 		}
 		hidden_effect = {
-			every_ruler = {
+			every_player = {
 				limit = {
 					this.faith = faith:patria_grande
+					NOT = {
+						has_title = d_caudillo_patria_grande
+					}
 				}
 				trigger_event = {
 					id = ate_religious_decision.82
 					days = 7
 				}
 			}
+			if = {
+				limit = {
+					is_ai = no
+				}
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 14
+				}
+			}
 		}
 	}
 }
 
-ate_religious_decision.82 = { #beginning of assembly
+ate_religious_decision.82 = { #call of democracy
 	type = character_event
 	title = ate_religious_decision.82.t
 	desc = {
@@ -241,11 +265,509 @@ ate_religious_decision.82 = { #beginning of assembly
 
 	option = {
 		name = ate_religious_decision.82.a
-		add_gold = 1
+		trigger = {
+			has_title = c_co_21_c_cuta
+		}
+		if = {
+			limit = {
+				has_character_flag = cucuta_forced_to_pay
+			}
+			remove_short_term_gold = pilgrimage_medium_extra_cost
+		}
+		hidden_effect = {
+			if = {
+				limit = {
+					any_vassal = {
+						is_powerful_vassal = yes
+						this.faith = faith:patria_grande
+					}
+				}
+				trigger_event = {
+					id = ate_religious_decision.83
+					days = 3				
+				}
+			}
+			else = {
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 7
+				}
+			}
+		}
 	}
 	option = {
 		name = ate_religious_decision.82.b
-		add_gold = 2
+		trigger = {
+			NOT = {
+				has_title = c_co_21_c_cuta
+			}
+			root = {
+				NOR = {
+					is_imprisoned = yes
+					is_incapable = yes
+				}
+			}
+		}
+		remove_short_term_gold = pilgrimage_minimum_cost
+		hidden_effect = {
+			if = {
+				limit = {
+					any_vassal = {
+						is_powerful_vassal = yes
+						this.faith = faith:patria_grande
+					}
+				}
+				trigger_event = {
+					id = ate_religious_decision.83
+					days = 3				
+				}
+			}
+			else = {
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 7
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.82.c
+		trigger = {
+			NOT = {
+				has_title = c_co_21_c_cuta
+			}
+			root = {
+				primary_heir = {
+					is_landed = NOT
+				}
+				NOR = {
+					is_imprisoned = yes
+					is_incapable = yes
+				}
+			}
+		}
+		hidden_effect = {
+			if = {
+				limit = {
+					any_vassal = {
+						is_powerful_vassal = yes
+						this.faith = faith:patria_grande
+					}
+				}
+				trigger_event = {
+					id = ate_religious_decision.83
+					days = 3				
+				}
+			}
+			else = {
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 7
+				}
+			}
+		}
+		remove_short_term_gold = pilgrimage_medium_extra_cost
+	}
+	option = {
+		name = ate_religious_decision.82.d
+		trigger = {
+			NOT = {
+				has_title = c_co_21_c_cuta
+			}
+			root = {
+				OR = {
+					is_imprisoned = yes
+					is_incapable = yes
+				}
+			}
+		}
+		add_piety = -10
+	}
+	option = {
+		name = ate_religious_decision.82.e
+		trigger = {
+			NOT = {
+				has_title = c_co_21_c_cuta
+			}
+			root = {
+				NOR = {
+					is_imprisoned = yes
+					is_incapable = yes
+				}
+			}
+		}
+		add_piety = -50
+	}	
+}
+
+ate_religious_decision.83 = { #an unseemly proposal
+	type = character_event
+	title = ate_religious_decision.83.t
+	desc = ate_religious_decision.83.desc
+	immediate = {
+		random_vassal = {
+			limit = {
+				is_powerful_vassal = yes
+				this.faith = faith:patria_grande
+			}
+			save_scope_as = briber
+		}
+	}
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	right_portrait = {
+		character = briber
+		animation = scheme
+	}
+
+	option = {
+		name = ate_religious_decision.83.a
+		if = {
+			limit = {
+				has_trait = greedy
+			}
+			add_stress = 20
+		}
+		add_piety = 25
+		reverse_add_opinion = {
+			target = scope:briber
+			modifier = assembly_bribe_refused
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.84
+				days = 4
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.83.b
+		if = {
+			limit = {
+				OR = {
+					has_trait = honest
+					has_trait = zealous
+				}
+			}
+			add_stress = 20
+		}
+		if = {
+			limit = {
+				can_add_hook = {
+					type = favor_hook
+					target = scope:briber
+				}
+			}
+			add_hook = {
+				type = favor_hook
+				target = scope:briber
+			}
+		}
+		random_list = {
+			60 = {
+			}
+			40 = {
+				add_character_modifier = {
+					modifier = corrupt_elector_assembly
+					years = 20
+				}
+			}
+		}
+	}
+}
+
+ate_religious_decision.84 = { #time to begin
+	type = character_event
+	title = ate_religious_decision.84.t
+	desc = {
+		desc = ate_religious_decision.84.desc.start
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_title = d_caudillo_patria_grande
+				}
+				desc = ate_religious_decision.84.desc.caudillo
+			}
+			desc = ate_religious_decision.84.desc.else
+		}
+		desc = ate_religious.decision.84.desc.end
+	}
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.84.a
+		trigger = {
+			has_title = d_caudillo_patria_grande
+		}
+	}
+	option = {
+		name = ate_religious_decision.84.b
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+				set_doctrine_deviancy_accepted = yes
+				set_doctrine_adultery_men_accepted = yes
+				set_doctrine_adultery_women_accepted = yes
+				set_doctrine_homosexuality_accepted = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.intrigue >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					5 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+					5 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.intrigue >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					15 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+					15 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					30 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+					30 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.84.c
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+				set_doctrine_deviancy_shunned = yes
+				set_doctrine_adultery_men_shunned = yes
+				set_doctrine_adultery_women_shunned = yes
+				set_doctrine_homosexuality_shunned = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.intrigue >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+					5 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					5 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.intrigue >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+					15 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					15 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+					30 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					30 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.84.d
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+				set_doctrine_deviancy_crime = yes
+				set_doctrine_adultery_men_crime = yes
+				set_doctrine_adultery_women_crime = yes
+				set_doctrine_homosexuality_crime = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.intrigue >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+					5 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					5 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.intrigue >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+					15 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					15 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_deviancy_crime = yes
+						set_doctrine_adultery_men_crime = yes
+						set_doctrine_adultery_women_crime = yes
+						set_doctrine_homosexuality_crime = yes
+					}
+					30 = {
+						set_doctrine_deviancy_accepted = yes
+						set_doctrine_adultery_men_accepted = yes
+						set_doctrine_adultery_women_accepted = yes
+						set_doctrine_homosexuality_accepted = yes
+					}
+					30 = {
+						set_doctrine_deviancy_shunned = yes
+						set_doctrine_adultery_men_shunned = yes
+						set_doctrine_adultery_women_shunned = yes
+						set_doctrine_homosexuality_shunned = yes
+					}
+				}				
+			}
+		}
 	}
 }
 

@@ -1,0 +1,299 @@
+﻿set_doctrine_deviancy_accepted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_deviancy_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_deviancy_crime
+			add_doctrine = doctrine_deviancy_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_deviancy_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_deviancy_shunned
+			add_doctrine = doctrine_deviancy_accepted
+		}
+	}	
+}
+
+set_doctrine_deviancy_shunned = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_deviancy_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_deviancy_crime
+			add_doctrine = doctrine_deviancy_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_deviancy_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_deviancy_accepted
+			add_doctrine = doctrine_deviancy_shunned
+		}
+	}	
+}
+
+set_doctrine_deviancy_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_deviancy_shunned
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_deviancy_shunned
+			add_doctrine = doctrine_deviancy_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_deviancy_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_deviancy_accepted
+			add_doctrine = doctrine_deviancy_crime
+		}
+	}	
+}
+
+set_doctrine_adultery_men_accepted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_men_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_men_crime
+			add_doctrine = doctrine_adultery_men_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_men_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_men_shunned
+			add_doctrine = doctrine_adultery_men_accepted
+		}
+	}	
+}
+
+set_doctrine_adultery_men_shunned = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_men_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_men_crime
+			add_doctrine = doctrine_adultery_men_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_men_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_men_accepted
+			add_doctrine = doctrine_adultery_men_shunned
+		}
+	}	
+}
+
+set_doctrine_adultery_men_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_men_shunned
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_men_shunned
+			add_doctrine = doctrine_adultery_men_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_men_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_men_accepted
+			add_doctrine = doctrine_adultery_men_crime
+		}
+	}	
+}
+
+set_doctrine_adultery_women_accepted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_women_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_women_crime
+			add_doctrine = doctrine_adultery_women_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_women_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_women_shunned
+			add_doctrine = doctrine_adultery_women_accepted
+		}
+	}	
+}
+
+set_doctrine_adultery_women_shunned = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_women_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_women_crime
+			add_doctrine = doctrine_adultery_women_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_women_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_women_accepted
+			add_doctrine = doctrine_adultery_women_shunned
+		}
+	}	
+}
+
+set_doctrine_adultery_women_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_women_shunned
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_women_shunned
+			add_doctrine = doctrine_adultery_women_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_adultery_women_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_adultery_women_accepted
+			add_doctrine = doctrine_adultery_women_crime
+		}
+	}	
+}
+
+set_doctrine_homosexuality_accepted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_crime
+			add_doctrine = doctrine_homosexuality_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_shunned
+			add_doctrine = doctrine_homosexuality_accepted
+		}
+	}	
+}
+
+set_doctrine_homosexuality_shunned = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_crime
+			add_doctrine = doctrine_homosexuality_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_accepted
+			add_doctrine = doctrine_homosexuality_shunned
+		}
+	}	
+}
+
+set_doctrine_homosexuality_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_shunned
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_shunned
+			add_doctrine = doctrine_homosexuality_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_homosexuality_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_homosexuality_accepted
+			add_doctrine = doctrine_homosexuality_crime
+		}
+	}	
+}

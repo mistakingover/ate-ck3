@@ -27,6 +27,8 @@
  pantheon_la_pola_1_desc:0 "This character is a devotee of La Pola, called Saint Apollonia, she who guards the Fatherland from the shadows. La Pola is the saint of the fear, secrets and the night."
  pantheon_la_pola_2:0 "Devotee of La Pola"
  pantheon_la_pola_2_desc:0 "This character is a devotee of La Pola, she who guards the Motherland from the shadows. La Pola is the prócer of the fear, secrets and the night."
+ corrupt_elector_assembly:0 "Corrupt Elector"
+ corrupt_elector_assembly_desc:0 "This character is known for being involved in unseemly dealings in matters of the faith."
  ate_religious_decision.80.t:0 "Selecting A Prócer"
  ate_religious_decision.80.desc:0 "Devotion to the Fatherland is devotion to one's own mother, to duty, to all that is divine. The greatest among these devotees were the próceres, eternal heroes who still guide us with their example.\n\nEven so, it is clear that there are many ways to serve Fatherland, and many examples to follow among the heroes. I must listen carefully to know which of these examples I am called to follow."
  ate_religious_decision.80.a:0 "Bolívar, the Warrior of Liberty."
@@ -44,3 +46,30 @@
  ate_religious_decision.82.t:0 "The Call of Democracy"
  ate_religious_decision.82.desc.start:0 "[caudillo.GetTitledFirstName] has announced that a grand Constituent Assembly will be held for the proclamation of a New Covenant with [caudillo.GetFaith.HighGodName]. All the rulers elected by the voice of the people are called to participate in the great meeting. As a faithful it is my duty to travel to sacred lands and make the world hear the voice of the Lord."
  ate_religious_decision.82.desc.cucuta:0 "\n\nAnd that miserable viper [caudillo.GetFirstName] decided that I would be the one to pay for the entire circus, naturally."
+ ate_religious_decision.82.a:0 "I am already here anyway."
+ ate_religious_decision.82.b:0 "I will leave immediately."
+ ate_religious_decision.82.c:0 "I will travel and [ROOT.GetPrimaryTitle.GetHeir.GetFirstNameNoTooltip] will accompany me."
+ ate_religious_decision.82.d:0 "Sadly, traveling is impossible right now."
+ ate_religious_decision.82.e:0 "I will not be part of this congress of snakes."
+ ate_religious_decision.83.t:0 "An Unseemly Proposal"
+ ate_religious_decision.83.desc:0 "Upon arriving at the place where the great assembly will be held, I had the opportunity to meet with [briber.GetTitledFirstName], who made me an unseemly proposal. My vote in exchange for a favor."
+ ate_religious_decision.83.a:0 "This is heresy! I should denounce you!"
+ ate_religious_decision.83.b:0 "I am sure you will use my vote wisely."
+ ate_religious_decision.84.t:0 "On Bedroom Matters"
+ ate_religious_decision.84.desc.start:0 "With all the noble rulers finally assembled in the great hall it is time to begin the deliberations."
+ ate_religious_decision.84.desc.else:0 "As one of the electors I must pay great attention to all important issues."
+ ate_religious_decision.84.desc.caudillo:0 "As the host of the assembly, I am not allowed to intervene in the discussions."
+ ate_religious.decision.84.desc.end:0 "\n\nThe first item on the agenda is to determine the position of faith on bedroom matters. The assembly is divided in their opinion on infidelity, sodomy and the most esoteric erotic practices."
+
+
+
+
+
+
+
+
+
+
+
+
+ assembly_bribe_refused:0 "Refused my bribe"

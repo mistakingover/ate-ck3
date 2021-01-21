@@ -66,3 +66,8 @@ pantheon_la_pola_2= {
 	intrigue = 2
 	dread_gain_mult = 0.2
 }
+
+corrupt_elector_assembly = {
+	icon = social_negative
+	religious_vassal_opinion = -20
+}
