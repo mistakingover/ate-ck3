@@ -297,3 +297,682 @@ set_doctrine_homosexuality_crime = {
 		}
 	}	
 }
+
+set_doctrine_divorce_disallowed = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_divorce_allowed
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_divorce_allowed
+			add_doctrine = doctrine_divorce_disallowed
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_divorce_approval
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_divorce_approval
+			add_doctrine = doctrine_divorce_disallowed
+		}
+	}	
+}
+
+set_doctrine_divorce_allowed = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_divorce_disallowed
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_divorce_disallowed
+			add_doctrine = doctrine_divorce_allowed
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_divorce_approval
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_divorce_approval
+			add_doctrine = doctrine_divorce_allowed
+		}
+	}	
+}
+
+set_doctrine_divorce_approval = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_divorce_allowed
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_divorce_allowed
+			add_doctrine = doctrine_divorce_approval
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_divorce_disallowed
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_divorce_disallowed
+			add_doctrine = doctrine_divorce_approval
+		}
+	}	
+}
+
+set_doctrine_bastardry_none = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_bastardry_legitimization
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_bastardry_legitimization
+			add_doctrine = doctrine_bastardry_none
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_bastardry_all
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_bastardry_all
+			add_doctrine = doctrine_bastardry_none
+		}
+	}	
+}
+
+set_doctrine_bastardry_legitimization = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_bastardry_none
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_bastardry_none
+			add_doctrine = doctrine_bastardry_legitimization
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_bastardry_all
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_bastardry_all
+			add_doctrine = doctrine_bastardry_legitimization
+		}
+	}	
+}
+
+set_doctrine_bastardry_all = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_bastardry_legitimization
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_bastardry_legitimization
+			add_doctrine = doctrine_bastardry_all
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_bastardry_none
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_bastardry_none
+			add_doctrine = doctrine_bastardry_all
+		}
+	}	
+}
+
+set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_restricted
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_restricted
+			add_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_cousins
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_cousins
+			add_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_unrestricted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_unrestricted
+			add_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		}
+	}
+}
+
+set_doctrine_consanguinity_restricted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+			add_doctrine = doctrine_consanguinity_restricted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_cousins
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_cousins
+			add_doctrine = doctrine_consanguinity_restricted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_unrestricted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_unrestricted
+			add_doctrine = doctrine_consanguinity_restricted
+		}
+	}
+}
+
+set_doctrine_consanguinity_cousins = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+			add_doctrine = doctrine_consanguinity_cousins
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_restricted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_restricted
+			add_doctrine = doctrine_consanguinity_cousins
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_unrestricted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_unrestricted
+			add_doctrine = doctrine_consanguinity_cousins
+		}
+	}
+}
+
+set_doctrine_consanguinity_unrestricted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+			add_doctrine = doctrine_consanguinity_unrestricted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_restricted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_restricted
+			add_doctrine = doctrine_consanguinity_unrestricted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_consanguinity_cousins
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_consanguinity_cousins
+			add_doctrine = doctrine_consanguinity_unrestricted
+		}
+	}
+}
+
+set_doctrine_kinslaying_any_dynasty_member_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_extended_family_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_extended_family_crime
+			add_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_close_kin_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_close_kin_crime
+			add_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_shunned
+			add_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_accepted
+			add_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+		}
+	}
+}
+
+set_doctrine_kinslaying_extended_family_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			add_doctrine = doctrine_kinslaying_extended_family_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_close_kin_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_close_kin_crime
+			add_doctrine = doctrine_kinslaying_extended_family_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_shunned
+			add_doctrine = doctrine_kinslaying_extended_family_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_accepted
+			add_doctrine = doctrine_kinslaying_extended_family_crime
+		}
+	}
+}
+
+set_doctrine_kinslaying_close_kin_crime = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			add_doctrine = doctrine_kinslaying_close_kin_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_extended_family_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_extended_family_crime
+			add_doctrine = doctrine_kinslaying_close_kin_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_shunned
+			add_doctrine = doctrine_kinslaying_close_kin_crime
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_accepted
+			add_doctrine = doctrine_kinslaying_close_kin_crime
+		}
+	}
+}
+
+set_doctrine_kinslaying_shunned = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			add_doctrine = doctrine_kinslaying_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_extended_family_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_extended_family_crime
+			add_doctrine = doctrine_kinslaying_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_close_kin_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_close_kin_crime
+			add_doctrine = doctrine_kinslaying_shunned
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_accepted
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_accepted
+			add_doctrine = doctrine_kinslaying_shunned
+		}
+	}
+}
+
+set_doctrine_kinslaying_accepted = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			add_doctrine = doctrine_kinslaying_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_extended_family_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_extended_family_crime
+			add_doctrine = doctrine_kinslaying_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_close_kin_crime
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_close_kin_crime
+			add_doctrine = doctrine_kinslaying_accepted
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_kinslaying_shunned
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_kinslaying_shunned
+			add_doctrine = doctrine_kinslaying_accepted
+		}
+	}
+}
+
+set_doctrine_clerical_gender_male_only = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_gender_female_only
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_gender_female_only
+			add_doctrine = doctrine_clerical_gender_male_only
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_gender_either
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_gender_either
+			add_doctrine = doctrine_clerical_gender_male_only
+		}
+	}
+}
+
+set_doctrine_clerical_gender_female_only = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_gender_male_only
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_gender_male_only
+			add_doctrine = doctrine_clerical_gender_female_only
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_gender_either
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_gender_either
+			add_doctrine = doctrine_clerical_gender_female_only
+		}
+	}
+}
+
+set_doctrine_clerical_gender_either = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_gender_female_only
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_gender_female_only
+			add_doctrine = doctrine_clerical_gender_either
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_gender_male_only
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_gender_male_only
+			add_doctrine = doctrine_clerical_gender_either
+		}
+	}
+}
+
+set_doctrine_clerical_function_taxation = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_function_alms_and_pacification
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_function_alms_and_pacification
+			add_doctrine = doctrine_clerical_function_taxation
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_function_recruitment
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_function_recruitment
+			add_doctrine = doctrine_clerical_function_taxation
+		}
+	}
+}
+
+set_doctrine_clerical_function_alms_and_pacification = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_function_taxation
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_function_taxation
+			add_doctrine = doctrine_clerical_function_alms_and_pacification
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_function_recruitment
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_function_recruitment
+			add_doctrine = doctrine_clerical_function_alms_and_pacification
+		}
+	}
+}
+
+set_doctrine_clerical_function_recruitment = {
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_function_taxation
+				}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_function_taxation
+			add_doctrine = doctrine_clerical_function_recruitment
+		}
+	}
+	if = {
+		limit = {
+			root.faith = {
+				has_doctrine = doctrine_clerical_function_alms_and_pacification
+			}
+		}
+		root.faith = {
+			remove_doctrine = doctrine_clerical_function_alms_and_pacification
+			add_doctrine = doctrine_clerical_function_recruitment
+		}
+	}
+}
