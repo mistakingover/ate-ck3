@@ -1155,7 +1155,7 @@ graphical_cultures = {
 			25 = caucasian_dark_hair
 		}
 	}
-	metropolitan = {
+	gothamite = {
 
 		ethnicities = {
 			25 = caucasian_northern_blond
@@ -1165,12 +1165,250 @@ graphical_cultures = {
 		}
 		color = { 0.1 0.7 0.9 }
 
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Abramov"
+			"dynn_Acosta"
+			"dynn_Adamo"
+			"dynn_Ali"
+			"dynn_Almonte"
+			"dynn_Alvarez"
+			"dynn_Amato"
+			"dynn_Aminov"
+			"dynn_Arias"
+			"dynn_Avila"
+			"dynn_Azaria"
+			"dynn_Baldanza"
+			"dynn_Baptiste"
+			"dynn_Barone"
+			"dynn_Battaglia"
+			"dynn_Beharry"
+			"dynn_Betances"
+			"dynn_Bleecker"
+			"dynn_Bogart"
+			"dynn_Boyle"
+			"dynn_Brady"
+			"dynn_Brennan"
+			"dynn_Brodsky"
+			"dynn_Bruno"
+			"dynn_Buscemi"
+			"dynn_Calabrese"
+			"dynn_Calle"
+			"dynn_Campoverde"
+			"dynn_Carbone"
+			"dynn_Cardona"
+			"dynn_Carlo"
+			"dynn_Carter"
+			"dynn_Caruso"
+			"dynn_Catalano"
+			"dynn_Chacko"
+			"dynn_Chen"
+			"dynn_Chin"
+			"dynn_Cho"
+			"dynn_Chowdhury"
+			"dynn_Chu"
+			"dynn_Clancy"
+			"dynn_Collado"
+			"dynn_Colon"
+			"dynn_Coppola"
+			"dynn_Corazon"
+			"dynn_Costanzo"
+			"dynn_Cronin"
+			"dynn_Cruz"
+			"dynn_Dangelo"
+			"dynn_Davydov"
+			"dynn_Dejesus"
+			"dynn_Dekalb"
+			"dynn_Delacruz"
+			"dynn_Deleon"
+			"dynn_Delligatti"
+			"dynn_Deluca"
+			"dynn_Dibenedetto"
+			"dynn_Ditmars"
+			"dynn_Dolan"
+			"dynn_Durante"
+			"dynn_Ellington"
+			"dynn_Eng"
+			"dynn_Espinal"
+			"dynn_Espiritu"
+			"dynn_Esposito"
+			"dynn_Falco"
+			"dynn_Farina"
+			"dynn_Feliciano"
+			"dynn_Fernandez"
+			"dynn_FitzGerald"
+			"dynn_FitzPatrick"
+			"dynn_FitzSimmons"
+			"dynn_Friedman"
+			"dynn_Gallagher"
+			"dynn_Gambino"
+			"dynn_Genao"
+			"dynn_Genovese"
+			"dynn_Gentile"
+			"dynn_Georgiou"
+			"dynn_Goldstein"
+			"dynn_Gonzalez"
+			"dynn_Grabowski"
+			"dynn_Graziano"
+			"dynn_Greenberg"
+			"dynn_Grillo"
+			"dynn_Hassan"
+			"dynn_Haynes"
+			"dynn_Highsmith"
+			"dynn_Hossain"
+			"dynn_Hu"
+			"dynn_Hwang"
+			"dynn_Hyun"
+			"dynn_Iskhakov"
+			"dynn_Islam"
+			"dynn_Jhaveri"
+			"dynn_Jun"
+			"dynn_Kane"
+			"dynn_Katz"
+			"dynn_Keitel"
+			"dynn_Kelly"
+			"dynn_Knickerbocker"
+			"dynn_Koo"
+			"dynn_Kramer"
+			"dynn_Lavarro"
+			"dynn_Liang"
+			"dynn_Lieberman"
+			"dynn_Lin"
+			"dynn_Liu"
+			"dynn_Lopez"
+			"dynn_Lott"
+			"dynn_Ma"
+			"dynn_Marino"
+			"dynn_Martinez"
+			"dynn_Matos"
+			"dynn_Messina"
+			"dynn_Miah"
+			"dynn_Milazzo"
+			"dynn_Meng"
+			"dynn_Meyer"
+			"dynn_Mohabir"
+			"dynn_Montalvo"
+			"dynn_Moraglia"
+			"dynn_Moreno"
+			"dynn_Munoz"
+			"dynn_Musheyev"
+			"dynn_Napolitano"
+			"dynn_Narang"
+			"dynn_Nieves"
+			"dynn_Nolan"
+			"dynn_Ocasio"
+			"dynn_Pagano"
+			"dynn_Palaguachi"
+			"dynn_Pappas"
+			"dynn_Park"
+			"dynn_Paulino"
+			"dynn_Peng"
+			"dynn_Peralta"
+			"dynn_Perez"
+			"dynn_Pichardo"
+			"dynn_Pierre"
+			"dynn_Polanco"
+			"dynn_Puzo"
+			"dynn_Qu"
+			"dynn_Quijano"
+			"dynn_Ramirez"
+			"dynn_Restrepo"
+			"dynn_Reyes"
+			"dynn_Richardson"
+			"dynn_Rivera"
+			"dynn_Rodriguez"
+			"dynn_Rosado"
+			"dynn_Rosenberg"
+			"dynn_Russo"
+			"dynn_Sanchez"
+			"dynn_Sanders"
+			"dynn_Santana"
+			"dynn_Santoro"
+			"dynn_Schwartz"
+			"dynn_Scully"
+			"dynn_Seo"
+			"dynn_Sessa"
+			"dynn_Shim"
+			"dynn_Sideris"
+			"dynn_Sorrentino"
+			"dynn_Sreenivasan"
+			"dynn_Stalzer"
+			"dynn_Sukhram"
+			"dynn_Sullivan"
+			"dynn_Sung"
+			"dynn_Tavarez"
+			"dynn_Tirado"
+			"dynn_Tokarev"
+			"dynn_Torres"
+			"dynn_Tracy"
+			"dynn_Uddin"
+			"dynn_Vanderveer"
+			"dynn_Varghese"
+			"dynn_Velez"
+			"dynn_Venezia"
+			"dynn_Vinci"
+			"dynn_Vitti"
+			"dynn_Wang"
+			"dynn_Weng"
+			"dynn_Wyckoff"
+			"dynn_Yahjian"
+			"dynn_Yang"
+			"dynn_Yoon"
+			"dynn_Yusupov"
+			"dynn_Zhong"
+			"dynn_Zolotin"
+		}
+
 		male_names = {
-			
+			Aaron Abdullah Abraham Achilles Albert Alexander Alfonso Ali Alonso Amado Andrew Angelo Anthony Ardolph Ari Arnold Arturo Aurelio Averell Aziz
+			Benicio Bernard Bruce Bruno
+			Cadwallader Caleb Carlos Carmine Casimir Charles Connor Conrado Corydon
+			Damian Daniel Dante Darius Darnell David Deepak Dewitt Diego Dmitri Dominic Donald Dorian
+			Ebenezer Edward Edwin Enrique Ercole Eric Esteban Ezio Ezra
+			Faris Faustino Felix Fernando Fiorello Flavio Francis Franklin
+			George Gerard Gianluca Gianpaolo
+			Hasan Hector Henry Herman Horace Hugo
+			Idris Igor Isaac Isaiah Israel Ivan
+			Jason Javier Jesus Joel John Jorge Jose Joseph Juan Julian Julius
+			Kareem Kennedy Kevin Kiran
+			Lakshman Leandro Leon Leonardo Levi Lewis Lorenzo Lucius
+			Malik Manohar Manuel Mario Mark Martin Marvin Matthew Melvin Meyer Michael Miguel Mohamed Mohan Moses
+			Nathan Neil Nestor Nicholas Noel
+			Olmsted Omar Oscar
+			Pablo Param Patrick Paul Pedro Peter Philip Plato
+			Rafael Raj Rama Raul Richard Robert Rohan Rohit Rolando Ruben Rudolph Ryan
+			Salvador Samir Samuel Santiago Sasha Schuyler Sergio Seymour Simcha Simon Steven
+			Thaddeus Thomas
+			Varian Vasily Vinay Victor Vincent Vladimir
+			Wagner Walter William
+			Yakov Yevgeny Yohan Yuri
+			Zachary Zev Zohran
 		}
 
 		female_names = {
-			
+			Ada Aida Aileen Alexandria Alexia Alicia Amina Angela Angelica Anna Annalise Annette Arianna Arya
+			Barbara Bernice Bianca Bridget Brunella
+			Carmen Catarina Chantel Chelsea Christina Consuela Cynthia
+			Daisy Daniela Dolores
+			Elaine Eleanor Emily Emma Esmeralda Estella Esther Eunice
+			Fay Fioretta Fiorina Flor Francesca
+			Gabriela Gemma GIna Gita Grace Graziella
+			Hannah Helen
+			Indra Inez Irene Isabel
+			Jennifer Julia Juliana
+			Lana Latoya Lauren Lila Lisa Lola Lucia
+			Magdalena Marcela Maria Martha Maya Melissa Mercedes Miriam Mindy Mona Monica Myrtle
+			Nadia Natalia Nidia Nilda Nina
+			Olga
+			Pamela Pauline
+			Rachel Ramona Rebecca Regina Renata Rhoda Rin Rita Rosa Rosalia Ruth
+			Salome Sanya Sasha Sonia Sophia Stephanie Susan Sylvia
+			Tania Tara Tarana Teresa
+			Vanessa Velma Vera Veronica Victoria Virginia
+			Yolanda
+			Zelda Zelina Zena Zenobia
 		}
 
 		pat_grf_name_chance = 50

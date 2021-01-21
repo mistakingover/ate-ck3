@@ -124,14 +124,130 @@ graphical_cultures = {
 			"dynn_"
 		}
 		dynasty_names = {
-			"dynn_"
+			"dynn_Alford"
+			"dynn_Barfield"
+			"dynn_Barnhill"
+			"dynn_Barton"
+			"dynn_Baxley"
+			"dynn_Bethea"
+			"dynn_Bird"
+			"dynn_Blanks"
+			"dynn_Brayboy"
+			"dynn_Brewer"
+			"dynn_Britt"
+			"dynn_Brooks"
+			"dynn_Buie"
+			"dynn_Bullard"
+			"dynn_Burnett"
+			"dynn_Canady"
+			"dynn_Caulder"
+			"dynn_Chavers"
+			"dynn_Chavis"
+			"dynn_Cummings"
+			"dynn_Davenport"
+			"dynn_Deese"
+			"dynn_Dial"
+			"dynn_Eddings"
+			"dynn_Faulk"
+			"dynn_Godwin"
+			"dynn_Goins"
+			"dynn_Goolsby"
+			"dynn_Hagans"
+			"dynn_Hammonds"
+			"dynn_Hardin"
+			"dynn_Hargett"
+			"dynn_Huggins"
+			"dynn_Hunt"
+			"dynn_Inman"
+			"dynn_Ivey"
+			"dynn_Jacobs"
+			"dynn_Jones"
+			"dynn_Lamb"
+			"dynn_Leach"
+			"dynn_Leggett"
+			"dynn_Locklear"
+			"dynn_Love"
+			"dynn_Lowery"
+			"dynn_Maynor"
+			"dynn_McBryde"
+			"dynn_McCallum"
+			"dynn_McGirt"
+			"dynn_McMillan"
+			"dynn_McNair"
+			"dynn_McNeill"
+			"dynn_McPhatter"
+			"dynn_McPhaul"
+			"dynn_McQueen"
+			"dynn_McRae"
+			"dynn_Monroe"
+			"dynn_Moore"
+			"dynn_Murnahan"
+			"dynn_Oxendine"
+			"dynn_Parnell"
+			"dynn_Pate"
+			"dynn_Pierce"
+			"dynn_Purcell"
+			"dynn_Quick"
+			"dynn_Ransom"
+			"dynn_Revels"
+			"dynn_Rozier"
+			"dynn_Sampson"
+			"dynn_Sanderson"
+			"dynn_Sealey"
+			"dynn_Seals"
+			"dynn_Sessoms"
+			"dynn_Strickland"
+			"dynn_Stubbs"
+			"dynn_Townsend"
+			"dynn_Tyner"
+			"dynn_Warriax"
+			"dynn_Wilkerson"
+			"dynn_Woodell"
+			"dynn_Woods"
 		}
 		
 		male_names = {
-			
+			Aaron Alfred Allen Alton Alvin Ancil Anthony Avery
+			Benford Benjamin Billy Bradley
+			Charles Chris Clifton Corbin
+			Dale Daniel David Dean Delany Dewey Douglas
+			Earl Ellis Everett
+			Frank
+			Gary Gaston Gene Gerald Greg
+			Hamilton Harlan Harvey Hayes Henry Horace
+			Isaac
+			Jackson James Jarrod Jimmy Johnny Joseph Joshua Julian
+			Kelvin Kent Kenwin
+			Landon Larry Lee Leroy Lonnie Lowry Luther
+			Malcolm Mike
+			Nate Neil Newman Norman
+			Patrick
+			Raymond Reginald Ricky Rod Ryan
+			Sanford Simeon
+			Terrell Terry Tommy
+			Vernon
+			Wesley William Woodrow
+			Zachariah
 		}
 		female_names = {
-			
+			Alice Anita Ann Arlinda Ashley
+			Belinda Brittany
+			Candice Carol
+			Effie Erica
+			Grace
+			Hatty Hellen
+			Ida
+			Jana Jewel Jo_Ann Judy Julia
+			Kathy Kendra
+			Lacy Lanedra Lindsay Lisa Loretta Lorna
+			Madison Malinda Mary Mary_Beth
+			Onnette
+			Paula Peggy
+			Raisa Reena Rhoda Rhonda Rita Rosa Ruth
+			Sabrina Samantha Sandra Shania Sharon Shelley Stacey Sylvia
+			Theresa Tiffany
+			Wendy Whitney Wilma
+			Yolanda Yvonne
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -245,13 +361,76 @@ graphical_cultures = {
 			25 = caucasian_northern_dark_hair
 		}
 		color = { 0.45 0.56 0.88 }
+		
+		cadet_dynasty_names = {
+			"dynn_Benedict"
+			"dynn_Bruchac"
+			"dynn_C_o_hat_t_e_act_"
+			"dynn_Dana"
+			"dynn_Francis"
+			"dynn_Gabriel"
+			"dynn_Gauthier"
+			"dynn_Guptill"
+			"dynn_H_e_act_on"
+			"dynn_Lingley"
+			"dynn_Lolar"
+			"dynn_Look"
+			"dynn_Loring"
+			"dynn_M_pst_Sadoques"
+			"dynn_Masta"
+			"dynn_Neault"
+			"dynn_Neptune"
+			"dynn_Newell"
+			"dynn_Nicolar"
+			"dynn_Nod_o_hat_mad"
+			"dynn_Nojikz_o_hat_wad"
+			"dynn_Nolet"
+			"dynn_Obomsawin"
+			"dynn_Ockett"
+			"dynn_Panadis"
+			"dynn_Parker"
+			"dynn_Paul"
+			"dynn_Pelotte"
+			"dynn_Pouliot"
+			"dynn_Sanborn"
+			"dynn_Sapiel"
+			"dynn_Savageau"
+			"dynn_Seeley"
+			"dynn_Shay"
+			"dynn_Sockalexis"
+			"dynn_Soctomah"
+			"dynn_Stranger"
+			"dynn_Tahamont"
+			"dynn_Wawanoloath"
+			"dynn_Wz_o_hat_khilain"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
 
 		male_names = {
-			
+			Alm_o_hat_nska Az_o_hat_ Az_o_hat__Pol
+			Daniel Donald
+			Elijah Eugene
+			James
+			Kazihl_o_hat_t Kw_o_hat_gwnas
+			Levi Llobal Lol_o_hat_ Louis
+			M_o_hat_ladakw Ma_o_hat_wat Metallak Mozis
+			N_o_hat_bakikw Nagako Natanis Nikes Nojmigan_o_hat_t
+			Pial Pial_Pol Pol
+			Sabadis Sakso Salom Sen Sozap
+			Th_e_act_ophile Tom_o_hat_
+			W_o_hat_boz Wal_o_hat_ba Wawan_o_hat_git Weswakwig_o_hat_t Wijokamit
 		}
 
 		female_names = {
-			
+			Agat Alakws Alanis
+			Danielle Diane
+			Elizabeth Evelyn
+			Kanozas
+			Madelan Malgelit Mali
+			Nicole
+			Soli_o_hat_n Ssipsis Suzanne
 		}
 
 		pat_grf_name_chance = 50
