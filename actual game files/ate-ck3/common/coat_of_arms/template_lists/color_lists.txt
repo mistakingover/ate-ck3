@@ -16,62 +16,6 @@ color_lists = {
 		14 = "black"
 		0 = "purple"
 
-		special_selection = {
-			trigger = {
-				OR = {
-					scope:culture = { has_graphical_culture = sudestino_group_gfx }
-					scope:culture = { has_graphical_culture = centrestino_group_gfx }
-					scope:culture = { has_graphical_culture = sulista_group_gfx }
-				}
-			}
-			20 = "red"
-			15 = "blue"
-			15 = "blue_light"
-			5 = "black"			
-			30 = "green"
-			15 = "green_light"
-			1 = "grey"
-			1 = "orange"
-			1 = "yellow_light"
-			5 = "brown"
-		}
-		special_selection = {
-			trigger = {
-				OR = {
-					scope:culture = { has_graphical_culture = rioplatense_group_gfx }
-					scope:culture = { has_graphical_culture = interiorano_group_gfx }
-					scope:culture = { has_graphical_culture = patagon_group_gfx }
-				}
-			}
-			15 = "red"
-			20 = "blue"
-			30 = "blue_light"
-			10 = "black"			
-			10 = "green"
-			1 = "green_light"
-			1 = "grey"
-			1 = "orange"
-			1 = "yellow_light"
-			5 = "brown"
-		}
-		special_selection = {
-			trigger = {
-				OR = {
-					scope:culture = { has_graphical_culture = nortista_group_gfx }
-					scope:culture = { has_graphical_culture = nordestino_group_gfx }
-					scope:culture = { has_graphical_culture = amazonico_group_gfx }
-				}
-			}
-			10 = "red"
-			10 = "blue"
-			20 = "blue_light"
-			10 = "black"			
-			15 = "green"
-			30 = "green_light"
-			5 = "brown"
-		}
-		
-		###
 		special_selection = { #northern_brazil_coa
 			trigger = {
 				OR = {
@@ -90,7 +34,6 @@ color_lists = {
 			1 = "brown"
 			8 = "blue_light"
 			8 = "green_light"
-			4 = "yellow_light"
 		}
 		special_selection = { #southern_cone_coa
 			trigger = {
@@ -113,7 +56,6 @@ color_lists = {
 			1 = "brown"
 			8 = "blue_light"
 			1 = "green_light"
-			4 = "yellow_light"
 		}
 		special_selection = { #euro_coa
 			trigger = {
@@ -134,7 +76,6 @@ color_lists = {
 			0 = "brown"
 			0 = "blue_light"
 			0 = "green_light"
-			0 = "yellow_light"
 		}
 		special_selection = { #andean_coa
 			trigger = {
@@ -148,7 +89,7 @@ color_lists = {
 			}
 			20 = "red"
 			20 = "blue"
-			6 = "green"
+			12 = "green"
 			8 = "black"
 			0 = "purple"
 			1 = "orange"
@@ -156,7 +97,6 @@ color_lists = {
 			1 = "brown"
 			1 = "blue_light"
 			1 = "green_light"
-			6 = "yellow_light"
 		}
 		special_selection = { #northern_native_coa
 			trigger = {
@@ -183,7 +123,6 @@ color_lists = {
 			8 = "brown"
 			1 = "blue_light"
 			1 = "green_light"
-			1 = "yellow_light"
 		}
 		special_selection = { #caribbean_coa
 			trigger = {
@@ -196,17 +135,16 @@ color_lists = {
 					scope:culture = { has_graphical_culture = orinocense_group_gfx }
 				}
 			}
-			10 = "red"
-			9 = "blue"
-			9 = "green"
-			10 = "black"
+			11 = "red"
+			10 = "blue"
+			10 = "green"
+			7 = "black"
 			1 = "purple"
 			2 = "orange"
 			0 = "grey"
 			1 = "brown"
 			9 = "blue_light"
 			9 = "green_light"
-			4 = "yellow_light"
 		}
 		special_selection = { #transmexican_coa
 			trigger = {
@@ -227,7 +165,6 @@ color_lists = {
 			1 = "brown"
 			4 = "blue_light"
 			1 = "green_light"
-			1 = "yellow_light"
 		}
 		special_selection = { #sw_us_coa
 			trigger = {
@@ -247,7 +184,6 @@ color_lists = {
 			1 = "brown"
 			1 = "blue_light"
 			1 = "green_light"
-			4 = "yellow_light"
 		}
 		special_selection = { #southern_brazil_coa
 			trigger = {
@@ -267,7 +203,6 @@ color_lists = {
 			1 = "brown"
 			4 = "blue_light"
 			4 = "green_light"
-			1 = "yellow_light"
 		}
 		special_selection = { #southern_native_coa
 			trigger = {
@@ -286,7 +221,6 @@ color_lists = {
 			4 = "brown"
 			2 = "blue_light"
 			2 = "green_light"
-			1 = "yellow_light"
 		}
 		special_selection = { #usonian_coa
 			trigger = {
@@ -313,7 +247,6 @@ color_lists = {
 			2 = "brown"
 			1 = "blue_light"
 			1 = "green_light"
-			2 = "yellow_light"
 		}
 		special_selection = { #meso_native_coa
 			trigger = {
@@ -332,7 +265,6 @@ color_lists = {
 			1 = "brown"
 			9 = "blue_light"
 			9 = "green_light"
-			4 = "yellow_light"
 		}
 
 
@@ -341,32 +273,6 @@ color_lists = {
 	metal_colors = {
 		24 = "yellow"
 		26 = "white"
-		special_selection = {
-			trigger = {
-				OR = {
-					scope:culture = { has_graphical_culture = nortista_group_gfx }
-					scope:culture = { has_graphical_culture = nordestino_group_gfx }
-					scope:culture = { has_graphical_culture = sudestino_group_gfx }
-					scope:culture = { has_graphical_culture = centrestino_group_gfx }
-					scope:culture = { has_graphical_culture = sulista_group_gfx }
-					scope:culture = { has_graphical_culture = amazonico_group_gfx }
-				}
-			}
-			30 = "yellow"
-			20 = "white"
-		}
-		special_selection = {
-			trigger = {
-				OR = {
-					scope:culture = { has_graphical_culture = rioplatense_group_gfx }
-					scope:culture = { has_graphical_culture = interiorano_group_gfx }
-					scope:culture = { has_graphical_culture = patagon_group_gfx }
-				}
-			}
-			20 = "yellow"
-			30 = "white"
-		}
-		###
 				special_selection = { #northern_brazil_coa
 			trigger = {
 				OR = {
@@ -375,7 +281,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
-			29 = "yellow"
+			4 = "yellow_light"
+			25 = "yellow"
 			21 = "white"
 		}
 		special_selection = { #southern_cone_coa
@@ -389,7 +296,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = rioplatense_group_gfx }
 				}
 			}
-			21 = "yellow"
+			4 = "yellow_light"
+			17 = "yellow"
 			29 = "white"
 		}
 		special_selection = { #euro_coa
@@ -401,6 +309,7 @@ color_lists = {
 					scope:culture = { has_graphical_culture = franco_group_gfx }
 				}
 			}
+			0 = "yellow_light"
 			24 = "yellow"
 			26 = "white"
 		}
@@ -414,8 +323,9 @@ color_lists = {
 					scope:culture = { has_graphical_culture = peruano_group_gfx }
 				}
 			}
-			17 = "yellow"
-			33 = "white"
+			6 = "yellow_light"
+			25 = "yellow"
+			25 = "white"
 		}
 		special_selection = { #northern_native_coa
 			trigger = {
@@ -432,7 +342,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = woodlands_group_gfx }
 				}
 			}
-			21 = "yellow"
+			1 = "yellow_light"
+			20 = "yellow"
 			29 = "white"
 		}
 		special_selection = { #caribbean_coa
@@ -446,7 +357,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = orinocense_group_gfx }
 				}
 			}
-			27 = "yellow"
+			4 = "yellow_light"
+			23 = "yellow"
 			23 = "white"
 		}
 		special_selection = { #transmexican_coa
@@ -458,7 +370,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = norteno_group_gfx }
 				}
 			}
-			21 = "yellow"
+			1 = "yellow_light"
+			20 = "yellow"
 			29 = "white"
 		}
 		special_selection = { #sw_us_coa
@@ -469,7 +382,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = west_anglo_group_gfx }
 				}
 			}
-			25 = "yellow"
+			4 = "yellow_light"
+			21 = "yellow"
 			25 = "white"
 		}
 		special_selection = { #southern_brazil_coa
@@ -480,7 +394,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 				}
 			}
-			26 = "yellow"
+			1 = "yellow_light"
+			25 = "yellow"
 			24 = "white"
 		}
 		special_selection = { #southern_native_coa
@@ -490,7 +405,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = xingu_group_gfx }
 				}
 			}
-			21 = "yellow"
+			1 = "yellow_light"
+			20 = "yellow"
 			29 = "white"
 		}
 		special_selection = { #usonian_coa
@@ -508,7 +424,8 @@ color_lists = {
 					scope:culture = { has_graphical_culture = upland_group_gfx }
 				}
 			}
-			21 = "yellow"
+			2 = "yellow_light"
+			19 = "yellow"
 			29 = "white"
 		}
 		special_selection = { #meso_native_coa
@@ -518,9 +435,11 @@ color_lists = {
 					scope:culture = { has_graphical_culture = mesoamerican_group_gfx }
 				}
 			}
-			27 = "yellow"
+			4 = "yellow_light"
+			23 = "yellow"
 			23 = "white"
 		}
+
 
 	}
 }
