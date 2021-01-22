@@ -154,6 +154,10 @@ doctrine_homosexuality = {
 				limit = { has_doctrine = doctrine_homosexuality_accepted }
 				multiply = faith_changed_doctrine_cost_mult_two_step
 			}
+			else_if = {
+				limit = { has_doctrine = doctrine_homosexuality_accepted }
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
 		}
 		parameters = {
 			homosexuality_illegal = yes
@@ -166,9 +170,29 @@ doctrine_homosexuality = {
 				limit = { has_doctrine = doctrine_homosexuality_shunned }
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
+			else_if = {
+				limit = { has_doctrine = doctrine_homosexuality_accepted }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
 		}
 		parameters = {
 			homosexuality_shunned = yes
+		}
+	}
+	doctrine_homosexuality_indifferent = {
+		piety_cost = {
+			value = faith_doctrine_cost_mid
+			if = {
+				limit = { has_doctrine = doctrine_homosexuality_indifferent }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_homosexuality_crime }
+				multiply = faith_changed_doctrine_cost_mult_two_step
+			}
+		}
+		parameters = {
+			homosexuality_indifferent = yes
 		}
 	}
 	doctrine_homosexuality_accepted = {
@@ -180,7 +204,11 @@ doctrine_homosexuality = {
 			}
 			else_if = {
 				limit = { has_doctrine = doctrine_homosexuality_crime }
-				multiply = faith_changed_doctrine_cost_mult_two_step
+				multiply = faith_changed_doctrine_cost_mult_three_step
+			}
+			else_if = {
+				limit = { has_doctrine = doctrine_homosexuality_shunned }
+				multiply = faith_changed_doctrine_cost_mult_three_step
 			}
 		}
 		parameters = {
