@@ -1,0 +1,471 @@
+﻿boreal_group = {
+	graphical_cultures = {
+		cree_group_gfx
+		steppe_building_gfx
+		mongol_clothing_gfx
+		mongol_unit_gfx
+	}
+
+	yukoner = {
+		graphical_cultures = {
+			yukoner_coa_gfx
+		}
+		
+		color = { 0.15 0.7 0.35 }
+	
+		cadet_dynasty_names = {
+			"dynn_Barbour"
+			"dynn_Bennet"
+			"dynn_Berton"
+			"dynn_Binet"
+			"dynn_Black"
+			"dynn_Booge"
+			"dynn_Bourcier"
+			"dynn_Boyd"
+			"dynn_Boyle"
+			"dynn_Buckway"
+			"dynn_Cameron"
+			"dynn_Campbell"
+			"dynn_Carmack"
+			"dynn_Carney"
+			"dynn_Charlie"
+			"dynn_Congdon"
+			"dynn_Conrad"
+			"dynn_Cournoyer"
+			"dynn_Cozens"
+			"dynn_Croteau"
+			"dynn_Curteneau"
+			"dynn_Dawson"
+			"dynn_DeBruyn"
+			"dynn_DeVries"
+			"dynn_Dendys"
+			"dynn_Dennehy"
+			"dynn_Deslauriers"
+			"dynn_Drury"
+			"dynn_Duncan"
+			"dynn_Elliott"
+			"dynn_Fentie"
+			"dynn_Fingland"
+			"dynn_Fowlie"
+			"dynn_Gates"
+			"dynn_Gibben"
+			"dynn_Gingell"
+			"dynn_Godin"
+			"dynn_Gosselin"
+			"dynn_Granger"
+			"dynn_Grouard"
+			"dynn_Hanson"
+			"dynn_Henderson"
+			"dynn_Hibberd"
+			"dynn_Holcombe"
+			"dynn_Horwood"
+			"dynn_Hougen"
+			"dynn_Hulland"
+			"dynn_Istchenko"
+			"dynn_Jeckell"
+			"dynn_Jim"
+			"dynn_Joe"
+			"dynn_Johnston"
+			"dynn_Lafferty"
+			"dynn_Laforme"
+			"dynn_Lassen"
+			"dynn_LeBarge"
+			"dynn_Lewis"
+			"dynn_London"
+			"dynn_Lowe"
+			"dynn_Lucier"
+			"dynn_McDonald"
+			"dynn_McGee"
+			"dynn_McGrew"
+			"dynn_McIntyre"
+			"dynn_McKay"
+			"dynn_McKenna"
+			"dynn_McKinnon"
+			"dynn_McLean"
+			"dynn_McLeod"
+			"dynn_Moorcroft"
+			"dynn_Murray"
+			"dynn_Nielson"
+			"dynn_Ogilvie"
+			"dynn_Pantages"
+			"dynn_Percival"
+			"dynn_Pollard"
+			"dynn_Porter"
+			"dynn_Profeit"
+			"dynn_Robb"
+			"dynn_Robinson"
+			"dynn_Ross"
+			"dynn_Scoffin"
+			"dynn_Service"
+			"dynn_Silver"
+			"dynn_Smart"
+			"dynn_Smith"
+			"dynn_Steele"
+			"dynn_Stevenson"
+			"dynn_Stewart"
+			"dynn_Sturgeon"
+			"dynn_Taylor"
+			"dynn_Toombs"
+			"dynn_Vallevand"
+			"dynn_VanBibber"
+			"dynn_Vanier"
+			"dynn_Veale"
+			"dynn_Welzl"
+			"dynn_Whyard"
+			"dynn_Wilson"
+			"dynn_Wood"
+		}
+		dynasty_names = {
+			"dynn_Barbour"
+			"dynn_Bennet"
+			"dynn_Berton"
+			"dynn_Binet"
+			"dynn_Black"
+			"dynn_Booge"
+			"dynn_Bourcier"
+			"dynn_Boyd"
+			"dynn_Boyle"
+			"dynn_Buckway"
+			"dynn_Cameron"
+			"dynn_Campbell"
+			"dynn_Carmack"
+			"dynn_Carney"
+			"dynn_Charlie"
+			"dynn_Congdon"
+			"dynn_Conrad"
+			"dynn_Cournoyer"
+			"dynn_Cozens"
+			"dynn_Croteau"
+			"dynn_Curteneau"
+			"dynn_Dawson"
+			"dynn_DeBruyn"
+			"dynn_DeVries"
+			"dynn_Dendys"
+			"dynn_Dennehy"
+			"dynn_Deslauriers"
+			"dynn_Drury"
+			"dynn_Duncan"
+			"dynn_Elliott"
+			"dynn_Fentie"
+			"dynn_Fingland"
+			"dynn_Fowlie"
+			"dynn_Gates"
+			"dynn_Gibben"
+			"dynn_Gingell"
+			"dynn_Godin"
+			"dynn_Gosselin"
+			"dynn_Granger"
+			"dynn_Grouard"
+			"dynn_Hanson"
+			"dynn_Henderson"
+			"dynn_Hibberd"
+			"dynn_Holcombe"
+			"dynn_Horwood"
+			"dynn_Hougen"
+			"dynn_Hulland"
+			"dynn_Istchenko"
+			"dynn_Jeckell"
+			"dynn_Jim"
+			"dynn_Joe"
+			"dynn_Johnston"
+			"dynn_Lafferty"
+			"dynn_Laforme"
+			"dynn_Lassen"
+			"dynn_LeBarge"
+			"dynn_Lewis"
+			"dynn_London"
+			"dynn_Lowe"
+			"dynn_Lucier"
+			"dynn_McDonald"
+			"dynn_McGee"
+			"dynn_McGrew"
+			"dynn_McIntyre"
+			"dynn_McKay"
+			"dynn_McKenna"
+			"dynn_McKinnon"
+			"dynn_McLean"
+			"dynn_McLeod"
+			"dynn_Moorcroft"
+			"dynn_Murray"
+			"dynn_Nielson"
+			"dynn_Ogilvie"
+			"dynn_Pantages"
+			"dynn_Percival"
+			"dynn_Pollard"
+			"dynn_Porter"
+			"dynn_Profeit"
+			"dynn_Robb"
+			"dynn_Robinson"
+			"dynn_Ross"
+			"dynn_Scoffin"
+			"dynn_Service"
+			"dynn_Silver"
+			"dynn_Smart"
+			"dynn_Smith"
+			"dynn_Steele"
+			"dynn_Stevenson"
+			"dynn_Stewart"
+			"dynn_Sturgeon"
+			"dynn_Taylor"
+			"dynn_Toombs"
+			"dynn_Vallevand"
+			"dynn_VanBibber"
+			"dynn_Vanier"
+			"dynn_Veale"
+			"dynn_Welzl"
+			"dynn_Whyard"
+			"dynn_Wilson"
+			"dynn_Wood"
+		}
+		
+		male_names = {
+			Alex Andre Arnold Arthur
+			Ben
+			Charles Chris Craig
+			Dalton Dan Daryl Dave Dawson Dean Dennis Don Doug Dustin
+			Ed Elias Eric
+			Floyd Forrest Francis Fred
+			Geoff George Glen Gord Greg
+			Hank Harry Hugh
+			Ivan
+			Jack Jake Jason Jim Joe John
+			Keish Ken
+			Larry Les Logan Lorne
+			Max Mikey Morton
+			Nansen Nils
+			Paul Percy Pete Pierre
+			Randy Ray Rich Rob Roger Roy Rylund
+			Sam Shane Sidney Stephen
+			Ted Toby Todd Tom Tony
+			Vic
+			Will
+			Zach
+		}
+		female_names = {
+			Agnes Alice Angela Annie Audrey Augusta Aurore
+			Bev Brooke
+			Carol Cathy
+			Edith Emma
+			Geraldine
+			Helen
+			Ione
+			Jessica Judy Julie
+			Kate Kim
+			Lauren Leona Louise
+			Marge Martha Mary Molly
+			Nancy Nellie
+			Pat
+			Sarah Steph Sydney
+			Tasha
+			Wheaton
+		}
+		dynasty_of_location_prefix = "dynnp_from"
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 15
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	alaskan = {
+		graphical_cultures = {
+			alaskan_coa_gfx
+		}
+		
+		color = { 0.1 0.1 1.0 }
+	
+		cadet_dynasty_names = {
+			"dynn_Anchor"
+			"dynn_Barrow"
+			"dynn_Begich"
+			"dynn_Benson"
+			"dynn_Bering"
+			"dynn_Boochever"
+			"dynn_Boozer"
+			"dynn_Brooks"
+			"dynn_Brower"
+			"dynn_Buckner"
+			"dynn_Chalmers"
+			"dynn_Chythlook"
+			"dynn_Clark"
+			"dynn_Coghlan"
+			"dynn_DeAhna"
+			"dynn_DeArmond"
+			"dynn_Dimond"
+			"dynn_Doolittle"
+			"dynn_Engstrom"
+			"dynn_Erickson"
+			"dynn_Fairbank"
+			"dynn_Gravel"
+			"dynn_Hale"
+			"dynn_Hammond"
+			"dynn_Healy"
+			"dynn_Hendrickson"
+			"dynn_Ivanoff"
+			"dynn_Jefford"
+			"dynn_Jensen"
+			"dynn_Kawasaki"
+			"dynn_Keller"
+			"dynn_Lawrence"
+			"dynn_LeConte"
+			"dynn_Leffingwell"
+			"dynn_Llorente"
+			"dynn_Mackey"
+			"dynn_Malamute"
+			"dynn_Mallot"
+			"dynn_McCandless"
+			"dynn_McCutcheon"
+			"dynn_Miscovich"
+			"dynn_Murkowski"
+			"dynn_Nerland"
+			"dynn_Nicolai"
+			"dynn_Olson"
+			"dynn_Palin"
+			"dynn_Peratrovich"
+			"dynn_Perkins"
+			"dynn_Riggs"
+			"dynn_Ringstad"
+			"dynn_Ross"
+			"dynn_Seghers"
+			"dynn_Shannon"
+			"dynn_Stabenow"
+			"dynn_Stepovich"
+			"dynn_Sundborg"
+			"dynn_Swanson"
+			"dynn_Valdez"
+			"dynn_Wales"
+			"dynn_Waskey"
+		}
+		dynasty_names = {
+			"dynn_Anchor"
+			"dynn_Barrow"
+			"dynn_Begich"
+			"dynn_Benson"
+			"dynn_Bering"
+			"dynn_Boochever"
+			"dynn_Boozer"
+			"dynn_Brooks"
+			"dynn_Brower"
+			"dynn_Buckner"
+			"dynn_Chalmers"
+			"dynn_Chythlook"
+			"dynn_Clark"
+			"dynn_Coghlan"
+			"dynn_DeAhna"
+			"dynn_DeArmond"
+			"dynn_Dimond"
+			"dynn_Doolittle"
+			"dynn_Engstrom"
+			"dynn_Erickson"
+			"dynn_Fairbank"
+			"dynn_Gravel"
+			"dynn_Hale"
+			"dynn_Hammond"
+			"dynn_Healy"
+			"dynn_Hendrickson"
+			"dynn_Ivanoff"
+			"dynn_Jefford"
+			"dynn_Jensen"
+			"dynn_Kawasaki"
+			"dynn_Keller"
+			"dynn_Lawrence"
+			"dynn_LeConte"
+			"dynn_Leffingwell"
+			"dynn_Llorente"
+			"dynn_Mackey"
+			"dynn_Malamute"
+			"dynn_Mallot"
+			"dynn_McCandless"
+			"dynn_McCutcheon"
+			"dynn_Miscovich"
+			"dynn_Murkowski"
+			"dynn_Nerland"
+			"dynn_Nicolai"
+			"dynn_Olson"
+			"dynn_Palin"
+			"dynn_Peratrovich"
+			"dynn_Perkins"
+			"dynn_Riggs"
+			"dynn_Ringstad"
+			"dynn_Ross"
+			"dynn_Seghers"
+			"dynn_Shannon"
+			"dynn_Stabenow"
+			"dynn_Stepovich"
+			"dynn_Sundborg"
+			"dynn_Swanson"
+			"dynn_Valdez"
+			"dynn_Wales"
+			"dynn_Waskey"
+		}
+		
+		male_names = {
+			Alex
+			Carl Chris
+			Dale Dan Dennis
+			Ed Ernest
+			Frank Fred
+			George Greg Gunnar
+			Haines Harris Henry Herman
+			Jay Jim Joe John
+			Klondike
+			Mike Mottrom
+			Nikolas Noel
+			Peter Paul Prudhoe
+			Rich
+			Bob
+			Seward Sheldon Simon Steve
+			Ted Tom
+			Walter Will
+		}
+		female_names = {
+			Alexia Angelica Anna Aurora
+			Candace Cassie Christie Cynthia
+			Doris Dorothy
+			Eva
+			Georgina
+			Helen Helga Hilary Holly
+			Jade Jane Jennifer Juneau
+			Karen Kate Kira
+			Lara Libby Lydia
+			Marge Mary Michelle
+			Nadia Nicole
+			Petra
+			Rachel
+			Sarah Sophia Susan
+			Ursa
+			Valerie Vera
+		}
+		dynasty_of_location_prefix = "dynnp_from"
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+}

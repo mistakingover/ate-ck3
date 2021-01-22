@@ -1,11 +1,11 @@
 ﻿north_atlantic_group = {
-graphical_cultures = {
-	north_atlantic_group_gfx
-	western_building_gfx
-	northern_clothing_gfx
-	northern_unit_gfx
-}
-	
+	graphical_cultures = {
+		north_atlantic_group_gfx
+		western_building_gfx
+		northern_clothing_gfx
+		northern_unit_gfx
+	}
+
 	maritimer = {
 		graphical_cultures = {
 			maritimer_coa_gfx
@@ -1696,5 +1696,336 @@ graphical_cultures = {
 			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
 			{ name = "mercenary_company_hawkwoods_band" }
 		}
+	}
+	mikmaq = {
+		graphical_cultures = {
+			mikmaq_coa_gfx
+		}
+		
+		color = { 0.2 0.5 0.8 }
+	
+		cadet_dynasty_names = {
+			"dynn_Alex"
+			"dynn_Athanase"
+			"dynn_Atwin"
+			"dynn_Augustine"
+			"dynn_Bariault"
+			"dynn_Barnaby"
+			"dynn_Bartlett"
+			"dynn_Battiste"
+			"dynn_Beadle"
+			"dynn_Bernard"
+			"dynn_Borlow"
+			"dynn_Brooks"
+			"dynn_Cabot"
+			"dynn_Caplin"
+			"dynn_Christmas"
+			"dynn_Cope"
+			"dynn_Cremo"
+			"dynn_Dedam"
+			"dynn_Denny"
+			"dynn_Dorey"
+			"dynn_Doucette"
+			"dynn_Dutcher"
+			"dynn_Etheridge"
+			"dynn_Francis"
+			"dynn_Gabriel"
+			"dynn_Gehue"
+			"dynn_Ginnish"
+			"dynn_Glasgow"
+			"dynn_Gloade"
+			"dynn_Googoo"
+			"dynn_Gould"
+			"dynn_Groslouis"
+			"dynn_Harquail"
+			"dynn_Herney"
+			"dynn_Isaac"
+			"dynn_Isadore"
+			"dynn_Jadis"
+			"dynn_Jararuse"
+			"dynn_Jeannotte"
+			"dynn_Jeddore"
+			"dynn_Joe"
+			"dynn_Joudry"
+			"dynn_Julian"
+			"dynn_Knockwood"
+			"dynn_Labillois"
+			"dynn_Lacanke"
+			"dynn_Lafford"
+			"dynn_Lahave"
+			"dynn_Levi"
+			"dynn_Lewis"
+			"dynn_Maloney"
+			"dynn_Manderson"
+			"dynn_Marble"
+			"dynn_Marr"
+			"dynn_Marshall"
+			"dynn_Martin"
+			"dynn_McEwan"
+			"dynn_Metallic"
+			"dynn_Meuse"
+			"dynn_Milliea"
+			"dynn_Motty"
+			"dynn_Mulcahy"
+			"dynn_Narvey"
+			"dynn_Nevin"
+			"dynn_Nicholon"
+			"dynn_Noel"
+			"dynn_Palmater"
+			"dynn_Patles"
+			"dynn_Paul"
+			"dynn_Perley"
+			"dynn_Pierro"
+			"dynn_Polchies"
+			"dynn_Poulette"
+			"dynn_Prosper"
+			"dynn_Roache"
+			"dynn_Robar"
+			"dynn_Sabattis"
+			"dynn_Sack"
+			"dynn_Sacobie"
+			"dynn_Sanipass"
+			"dynn_Sappier"
+			"dynn_Sark"
+			"dynn_Simonson"
+			"dynn_Sock"
+			"dynn_Sylliboy"
+			"dynn_Thonace"
+			"dynn_Tomah"
+			"dynn_Toney"
+			"dynn_Wilmot"
+			"dynn_Wysote"
+		}
+		dynasty_names = {
+			"dynn_Alex"
+			"dynn_Athanase"
+			"dynn_Atwin"
+			"dynn_Augustine"
+			"dynn_Bariault"
+			"dynn_Barnaby"
+			"dynn_Bartlett"
+			"dynn_Battiste"
+			"dynn_Beadle"
+			"dynn_Bernard"
+			"dynn_Borlow"
+			"dynn_Brooks"
+			"dynn_Cabot"
+			"dynn_Caplin"
+			"dynn_Christmas"
+			"dynn_Cope"
+			"dynn_Cremo"
+			"dynn_Dedam"
+			"dynn_Denny"
+			"dynn_Dorey"
+			"dynn_Doucette"
+			"dynn_Dutcher"
+			"dynn_Etheridge"
+			"dynn_Francis"
+			"dynn_Gabriel"
+			"dynn_Gehue"
+			"dynn_Ginnish"
+			"dynn_Glasgow"
+			"dynn_Gloade"
+			"dynn_Googoo"
+			"dynn_Gould"
+			"dynn_Groslouis"
+			"dynn_Harquail"
+			"dynn_Herney"
+			"dynn_Isaac"
+			"dynn_Isadore"
+			"dynn_Jadis"
+			"dynn_Jararuse"
+			"dynn_Jeannotte"
+			"dynn_Jeddore"
+			"dynn_Joe"
+			"dynn_Joudry"
+			"dynn_Julian"
+			"dynn_Knockwood"
+			"dynn_Labillois"
+			"dynn_Lacanke"
+			"dynn_Lafford"
+			"dynn_Lahave"
+			"dynn_Levi"
+			"dynn_Lewis"
+			"dynn_Maloney"
+			"dynn_Manderson"
+			"dynn_Marble"
+			"dynn_Marr"
+			"dynn_Marshall"
+			"dynn_Martin"
+			"dynn_McEwan"
+			"dynn_Metallic"
+			"dynn_Meuse"
+			"dynn_Milliea"
+			"dynn_Motty"
+			"dynn_Mulcahy"
+			"dynn_Narvey"
+			"dynn_Nevin"
+			"dynn_Nicholon"
+			"dynn_Noel"
+			"dynn_Palmater"
+			"dynn_Patles"
+			"dynn_Paul"
+			"dynn_Perley"
+			"dynn_Pierro"
+			"dynn_Polchies"
+			"dynn_Poulette"
+			"dynn_Prosper"
+			"dynn_Roache"
+			"dynn_Robar"
+			"dynn_Sabattis"
+			"dynn_Sack"
+			"dynn_Sacobie"
+			"dynn_Sanipass"
+			"dynn_Sappier"
+			"dynn_Sark"
+			"dynn_Simonson"
+			"dynn_Sock"
+			"dynn_Sylliboy"
+			"dynn_Thonace"
+			"dynn_Tomah"
+			"dynn_Toney"
+			"dynn_Wilmot"
+			"dynn_Wysote"
+		}
+		
+		male_names = {
+			A_pst_lan Alegs Alegs-So_pst_sep Alvery Antle Aplam Ata Atuen Awli
+			Benjamin
+			Charles
+			E_pst_mos Ekian Emerson Everett
+			Gapliel Gla_pst_t Glement Glen
+			Isaq
+			Je_pst_gop Ji_pst_me_pst_j Ju_pst_t
+			Kitpu Kopit
+			Lee Lisart Lo_pst_pert Lu_pst_g Lui Lynwood
+			Malg Matiw Mise_pst_l Mowis Mulis
+			Nigola Norman Norris Norton Nuel
+			Palna Paul Pie_pst_l Pie_pst_l-Paul Piliman Pilip Plasua
+			Sa_pst_n Saglaia Sailas Samuel Sapatis Sapie_pst_l Simon So_pst_sep Sulia_pst_n
+			Ta_pst_pit Tana Taniel Timoti Tiyam Tonalt Tuma Tune_pst_l Twilik
+			Wallace Walqwan Walte_pst_l We_pst_jitu Wil_pst_plet
+		}
+		female_names = {
+			A_pst_lene Anastasia Anmali Anna
+			El_pst_sapet Ep
+			Jane Joana Julia
+			Ma_pst_li Malia_pst_n Matle_pst_n
+			Nanet No_pst_lene
+			Pauline
+			Susa_pst_na
+			Walqwan
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company" }
+		}
+	}
+	abenaki = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.45 0.56 0.88 }
+		
+		cadet_dynasty_names = {
+			"dynn_Benedict"
+			"dynn_Bruchac"
+			"dynn_C_o_hat_t_e_act_"
+			"dynn_Dana"
+			"dynn_Francis"
+			"dynn_Gabriel"
+			"dynn_Gauthier"
+			"dynn_Guptill"
+			"dynn_H_e_act_on"
+			"dynn_Lingley"
+			"dynn_Lolar"
+			"dynn_Look"
+			"dynn_Loring"
+			"dynn_M_pst_Sadoques"
+			"dynn_Masta"
+			"dynn_Neault"
+			"dynn_Neptune"
+			"dynn_Newell"
+			"dynn_Nicolar"
+			"dynn_Nod_o_hat_mad"
+			"dynn_Nojikz_o_hat_wad"
+			"dynn_Nolet"
+			"dynn_Obomsawin"
+			"dynn_Ockett"
+			"dynn_Panadis"
+			"dynn_Parker"
+			"dynn_Paul"
+			"dynn_Pelotte"
+			"dynn_Pouliot"
+			"dynn_Sanborn"
+			"dynn_Sapiel"
+			"dynn_Savageau"
+			"dynn_Seeley"
+			"dynn_Shay"
+			"dynn_Sockalexis"
+			"dynn_Soctomah"
+			"dynn_Stranger"
+			"dynn_Tahamont"
+			"dynn_Wawanoloath"
+			"dynn_Wz_o_hat_khilain"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+
+		male_names = {
+			Alm_o_hat_nska Az_o_hat_ Az_o_hat__Pol
+			Daniel Donald
+			Elijah Eugene
+			James
+			Kazihl_o_hat_t Kw_o_hat_gwnas
+			Levi Llobal Lol_o_hat_ Louis
+			M_o_hat_ladakw Ma_o_hat_wat Metallak Mozis
+			N_o_hat_bakikw Nagako Natanis Nikes Nojmigan_o_hat_t
+			Pial Pial_Pol Pol
+			Sabadis Sakso Salom Sen Sozap
+			Th_e_act_ophile Tom_o_hat_
+			W_o_hat_boz Wal_o_hat_ba Wawan_o_hat_git Weswakwig_o_hat_t Wijokamit
+		}
+
+		female_names = {
+			Agat Alakws Alanis
+			Danielle Diane
+			Elizabeth Evelyn
+			Kanozas
+			Madelan Malgelit Mali
+			Nicole
+			Soli_o_hat_n Ssipsis Suzanne
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
 	}
 }

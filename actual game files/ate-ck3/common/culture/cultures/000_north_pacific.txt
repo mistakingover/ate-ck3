@@ -1,10 +1,10 @@
 ﻿north_pacific_group = {
-graphical_cultures = {
-	north_pacific_group_gfx
-	western_building_gfx
-	northern_clothing_gfx
-	northern_unit_gfx
-}
+	graphical_cultures = {
+		north_pacific_group_gfx
+		western_building_gfx
+		northern_clothing_gfx
+		northern_unit_gfx
+	}
 	
 	canuck = {
 		graphical_cultures = {
@@ -603,280 +603,6 @@ graphical_cultures = {
 		pat_grm_name_chance = 15
 		mat_grm_name_chance = 20
 		mother_name_chance = 40
-		
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
-	
-	yukoner = {
-		graphical_cultures = {
-			yukoner_coa_gfx
-		}
-		
-		color = { 0.15 0.7 0.35 }
-	
-		cadet_dynasty_names = {
-			"dynn_Barbour"
-			"dynn_Bennet"
-			"dynn_Berton"
-			"dynn_Binet"
-			"dynn_Black"
-			"dynn_Booge"
-			"dynn_Bourcier"
-			"dynn_Boyd"
-			"dynn_Boyle"
-			"dynn_Buckway"
-			"dynn_Cameron"
-			"dynn_Campbell"
-			"dynn_Carmack"
-			"dynn_Carney"
-			"dynn_Charlie"
-			"dynn_Congdon"
-			"dynn_Conrad"
-			"dynn_Cournoyer"
-			"dynn_Cozens"
-			"dynn_Croteau"
-			"dynn_Curteneau"
-			"dynn_Dawson"
-			"dynn_DeBruyn"
-			"dynn_DeVries"
-			"dynn_Dendys"
-			"dynn_Dennehy"
-			"dynn_Deslauriers"
-			"dynn_Drury"
-			"dynn_Duncan"
-			"dynn_Elliott"
-			"dynn_Fentie"
-			"dynn_Fingland"
-			"dynn_Fowlie"
-			"dynn_Gates"
-			"dynn_Gibben"
-			"dynn_Gingell"
-			"dynn_Godin"
-			"dynn_Gosselin"
-			"dynn_Granger"
-			"dynn_Grouard"
-			"dynn_Hanson"
-			"dynn_Henderson"
-			"dynn_Hibberd"
-			"dynn_Holcombe"
-			"dynn_Horwood"
-			"dynn_Hougen"
-			"dynn_Hulland"
-			"dynn_Istchenko"
-			"dynn_Jeckell"
-			"dynn_Jim"
-			"dynn_Joe"
-			"dynn_Johnston"
-			"dynn_Lafferty"
-			"dynn_Laforme"
-			"dynn_Lassen"
-			"dynn_LeBarge"
-			"dynn_Lewis"
-			"dynn_London"
-			"dynn_Lowe"
-			"dynn_Lucier"
-			"dynn_McDonald"
-			"dynn_McGee"
-			"dynn_McGrew"
-			"dynn_McIntyre"
-			"dynn_McKay"
-			"dynn_McKenna"
-			"dynn_McKinnon"
-			"dynn_McLean"
-			"dynn_McLeod"
-			"dynn_Moorcroft"
-			"dynn_Murray"
-			"dynn_Nielson"
-			"dynn_Ogilvie"
-			"dynn_Pantages"
-			"dynn_Percival"
-			"dynn_Pollard"
-			"dynn_Porter"
-			"dynn_Profeit"
-			"dynn_Robb"
-			"dynn_Robinson"
-			"dynn_Ross"
-			"dynn_Scoffin"
-			"dynn_Service"
-			"dynn_Silver"
-			"dynn_Smart"
-			"dynn_Smith"
-			"dynn_Steele"
-			"dynn_Stevenson"
-			"dynn_Stewart"
-			"dynn_Sturgeon"
-			"dynn_Taylor"
-			"dynn_Toombs"
-			"dynn_Vallevand"
-			"dynn_VanBibber"
-			"dynn_Vanier"
-			"dynn_Veale"
-			"dynn_Welzl"
-			"dynn_Whyard"
-			"dynn_Wilson"
-			"dynn_Wood"
-		}
-		dynasty_names = {
-			"dynn_Barbour"
-			"dynn_Bennet"
-			"dynn_Berton"
-			"dynn_Binet"
-			"dynn_Black"
-			"dynn_Booge"
-			"dynn_Bourcier"
-			"dynn_Boyd"
-			"dynn_Boyle"
-			"dynn_Buckway"
-			"dynn_Cameron"
-			"dynn_Campbell"
-			"dynn_Carmack"
-			"dynn_Carney"
-			"dynn_Charlie"
-			"dynn_Congdon"
-			"dynn_Conrad"
-			"dynn_Cournoyer"
-			"dynn_Cozens"
-			"dynn_Croteau"
-			"dynn_Curteneau"
-			"dynn_Dawson"
-			"dynn_DeBruyn"
-			"dynn_DeVries"
-			"dynn_Dendys"
-			"dynn_Dennehy"
-			"dynn_Deslauriers"
-			"dynn_Drury"
-			"dynn_Duncan"
-			"dynn_Elliott"
-			"dynn_Fentie"
-			"dynn_Fingland"
-			"dynn_Fowlie"
-			"dynn_Gates"
-			"dynn_Gibben"
-			"dynn_Gingell"
-			"dynn_Godin"
-			"dynn_Gosselin"
-			"dynn_Granger"
-			"dynn_Grouard"
-			"dynn_Hanson"
-			"dynn_Henderson"
-			"dynn_Hibberd"
-			"dynn_Holcombe"
-			"dynn_Horwood"
-			"dynn_Hougen"
-			"dynn_Hulland"
-			"dynn_Istchenko"
-			"dynn_Jeckell"
-			"dynn_Jim"
-			"dynn_Joe"
-			"dynn_Johnston"
-			"dynn_Lafferty"
-			"dynn_Laforme"
-			"dynn_Lassen"
-			"dynn_LeBarge"
-			"dynn_Lewis"
-			"dynn_London"
-			"dynn_Lowe"
-			"dynn_Lucier"
-			"dynn_McDonald"
-			"dynn_McGee"
-			"dynn_McGrew"
-			"dynn_McIntyre"
-			"dynn_McKay"
-			"dynn_McKenna"
-			"dynn_McKinnon"
-			"dynn_McLean"
-			"dynn_McLeod"
-			"dynn_Moorcroft"
-			"dynn_Murray"
-			"dynn_Nielson"
-			"dynn_Ogilvie"
-			"dynn_Pantages"
-			"dynn_Percival"
-			"dynn_Pollard"
-			"dynn_Porter"
-			"dynn_Profeit"
-			"dynn_Robb"
-			"dynn_Robinson"
-			"dynn_Ross"
-			"dynn_Scoffin"
-			"dynn_Service"
-			"dynn_Silver"
-			"dynn_Smart"
-			"dynn_Smith"
-			"dynn_Steele"
-			"dynn_Stevenson"
-			"dynn_Stewart"
-			"dynn_Sturgeon"
-			"dynn_Taylor"
-			"dynn_Toombs"
-			"dynn_Vallevand"
-			"dynn_VanBibber"
-			"dynn_Vanier"
-			"dynn_Veale"
-			"dynn_Welzl"
-			"dynn_Whyard"
-			"dynn_Wilson"
-			"dynn_Wood"
-		}
-		
-		male_names = {
-			Alex Andre Arnold Arthur
-			Ben
-			Charles Chris Craig
-			Dalton Dan Daryl Dave Dawson Dean Dennis Don Doug Dustin
-			Ed Elias Eric
-			Floyd Forrest Francis Fred
-			Geoff George Glen Gord Greg
-			Hank Harry Hugh
-			Ivan
-			Jack Jake Jason Jim Joe John
-			Keish Ken
-			Larry Les Logan Lorne
-			Max Mikey Morton
-			Nansen Nils
-			Paul Percy Pete Pierre
-			Randy Ray Rich Rob Roger Roy Rylund
-			Sam Shane Sidney Stephen
-			Ted Toby Todd Tom Tony
-			Vic
-			Will
-			Zach
-		}
-		female_names = {
-			Agnes Alice Angela Annie Audrey Augusta Aurore
-			Bev Brooke
-			Carol Cathy
-			Edith Emma
-			Geraldine
-			Helen
-			Ione
-			Jessica Judy Julie
-			Kate Kim
-			Lauren Leona Louise
-			Marge Martha Mary Molly
-			Nancy Nellie
-			Pat
-			Sarah Steph Sydney
-			Tasha
-			Wheaton
-		}
-		dynasty_of_location_prefix = "dynnp_from"
-
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
-		mat_grf_name_chance = 15
-		father_name_chance = 20
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 20
-		mother_name_chance = 15
 		
 		ethnicities = {
 			25 = caucasian_blond
@@ -2122,187 +1848,142 @@ graphical_cultures = {
 			25 = caucasian_dark_hair
 		}
 	}
-	alaskan = {
-		graphical_cultures = {
-			alaskan_coa_gfx
-		}
-		
-		color = { 0.1 0.1 1.0 }
-	
+	ktunaxa = {
+		color = { 0.65 0.3 0.3 }
+
 		cadet_dynasty_names = {
-			"dynn_Anchor"
-			"dynn_Barrow"
-			"dynn_Begich"
-			"dynn_Benson"
-			"dynn_Bering"
-			"dynn_Boochever"
-			"dynn_Boozer"
-			"dynn_Brooks"
-			"dynn_Brower"
-			"dynn_Buckner"
-			"dynn_Chalmers"
-			"dynn_Chythlook"
-			"dynn_Clark"
-			"dynn_Coghlan"
-			"dynn_DeAhna"
-			"dynn_DeArmond"
-			"dynn_Dimond"
-			"dynn_Doolittle"
-			"dynn_Engstrom"
-			"dynn_Erickson"
-			"dynn_Fairbank"
-			"dynn_Gravel"
-			"dynn_Hale"
-			"dynn_Hammond"
-			"dynn_Healy"
-			"dynn_Hendrickson"
-			"dynn_Ivanoff"
-			"dynn_Jefford"
-			"dynn_Jensen"
-			"dynn_Kawasaki"
-			"dynn_Keller"
-			"dynn_Lawrence"
-			"dynn_LeConte"
-			"dynn_Leffingwell"
-			"dynn_Llorente"
-			"dynn_Mackey"
-			"dynn_Malamute"
-			"dynn_Mallot"
-			"dynn_McCandless"
-			"dynn_McCutcheon"
-			"dynn_Miscovich"
-			"dynn_Murkowski"
-			"dynn_Nerland"
-			"dynn_Nicolai"
-			"dynn_Olson"
-			"dynn_Palin"
-			"dynn_Peratrovich"
-			"dynn_Perkins"
-			"dynn_Riggs"
-			"dynn_Ringstad"
-			"dynn_Ross"
-			"dynn_Seghers"
-			"dynn_Shannon"
-			"dynn_Stabenow"
-			"dynn_Stepovich"
-			"dynn_Sundborg"
-			"dynn_Swanson"
-			"dynn_Valdez"
-			"dynn_Wales"
-			"dynn_Waskey"
+			"dynn_"
 		}
 		dynasty_names = {
-			"dynn_Anchor"
-			"dynn_Barrow"
-			"dynn_Begich"
-			"dynn_Benson"
-			"dynn_Bering"
-			"dynn_Boochever"
-			"dynn_Boozer"
-			"dynn_Brooks"
-			"dynn_Brower"
-			"dynn_Buckner"
-			"dynn_Chalmers"
-			"dynn_Chythlook"
-			"dynn_Clark"
-			"dynn_Coghlan"
-			"dynn_DeAhna"
-			"dynn_DeArmond"
-			"dynn_Dimond"
-			"dynn_Doolittle"
-			"dynn_Engstrom"
-			"dynn_Erickson"
-			"dynn_Fairbank"
-			"dynn_Gravel"
-			"dynn_Hale"
-			"dynn_Hammond"
-			"dynn_Healy"
-			"dynn_Hendrickson"
-			"dynn_Ivanoff"
-			"dynn_Jefford"
-			"dynn_Jensen"
-			"dynn_Kawasaki"
-			"dynn_Keller"
-			"dynn_Lawrence"
-			"dynn_LeConte"
-			"dynn_Leffingwell"
-			"dynn_Llorente"
-			"dynn_Mackey"
-			"dynn_Malamute"
-			"dynn_Mallot"
-			"dynn_McCandless"
-			"dynn_McCutcheon"
-			"dynn_Miscovich"
-			"dynn_Murkowski"
-			"dynn_Nerland"
-			"dynn_Nicolai"
-			"dynn_Olson"
-			"dynn_Palin"
-			"dynn_Peratrovich"
-			"dynn_Perkins"
-			"dynn_Riggs"
-			"dynn_Ringstad"
-			"dynn_Ross"
-			"dynn_Seghers"
-			"dynn_Shannon"
-			"dynn_Stabenow"
-			"dynn_Stepovich"
-			"dynn_Sundborg"
-			"dynn_Swanson"
-			"dynn_Valdez"
-			"dynn_Wales"
-			"dynn_Waskey"
+			"dynn_A_pst_kaq_pst_tla_pst_hatl"
+			"dynn_Akaxapqtli"
+			"dynn_Akaxapqtlinana"
+			"dynn_Aki_pst_yi"
+			"dynn_Akinkumtlasnuqtli_pst_it"
+			"dynn_Akisq_pst_nuk"
+			"dynn_Akisq_pst_nuknik_pst_"
+			"dynn_Akminq_pst_unuk"
+			"dynn_Aknitlk_pst_a_pst_nuk"
+			"dynn_Aknuktluk"
+			"dynn_Aknuqtaptsik_pst_"
+			"dynn_Aknutlam_pst_q_pst_anwuk"
+			"dynn_Aq_pst_am_a_Kinmituk"
+			"dynn_Aq_pst_anq_pst_una_pst_wuk"
+			"dynn_Aq_pst_anquwuk"
+			"dynn_Aqastla_pst_nuq_pst_"
+			"dynn_Aqswaq"
+			"dynn_Atskikq_pst_nuk"
+			"dynn_Charlo"
+			"dynn_Clairmont"
+			"dynn_Cutsack"
+			"dynn_Gravelle"
+			"dynn_It_pst_xaka_pst_ki"
+			"dynn_K_pst_akanmituk"
+			"dynn_K_pst_akanmituk"
+			"dynn_K_pst_akmit"
+			"dynn_K_pst_atlaqaq_pst_yuqunuk"
+			"dynn_K_pst_atlitlq_pst_antlumak"
+			"dynn_K_pst_atltkawitsnuk"
+			"dynn_K_pst_uk_pst_nits_pst_tla_pst_in"
+			"dynn_K_pst_uktsuq_pst_nuknana"
+			"dynn_K_pst_upawitsq_pst_nuk"
+			"dynn_K_pst_upawitsq_pst_nuknana"
+			"dynn_K_pst_utmi_pst_k"
+			"dynn_Kamanqukutl"
+			"dynn_Kanuq_pst_tlatlam"
+			"dynn_Kik_pst_sitluk"
+			"dynn_Kinmituk"
+			"dynn_Kinq_pst_awats_pst_ika_pst_ki"
+			"dynn_Kmanuq_pst_yutli_pst_t"
+			"dynn_Kmumatlki"
+			"dynn_Knuqtli_pst_it"
+			"dynn_Kqaskanmituk"
+			"dynn_Kqaya_pst_qawa_pst_ktlu_pst_nam"
+			"dynn_Ksan_pst_ka"
+			"dynn_Ktlawtla"
+			"dynn_Ktlitqatwumtla_pst_t"
+			"dynn_Ktunwa_pst_kanmituk"
+			"dynn_Kuq_pst_nuk"
+			"dynn_Kuq_pst_yutla_pst_k_pst_is"
+			"dynn_Kutlitlq_pst_antstla_pst_in"
+			"dynn_Kwat_pst_aq_pst_nuk"
+			"dynn_Kwitlq_pst_anqmi"
+			"dynn_Kwitlq_pst_nuk"
+			"dynn_Kwitlqa_pst_xapqtli"
+			"dynn_Kxunama_pst_nam"
+			"dynn_Kyawkmumatl"
+			"dynn_Louie"
+			"dynn_Mits_pst_qaqas"
+			"dynn_Morigeau"
+			"dynn_Mukwu_pst_k"
+			"dynn_Namnamxniyamki"
+			"dynn_Nasuq_pst_ut_pst_"
+			"dynn_Pierre"
+			"dynn_Q_pst_awisq_pst_nuk"
+			"dynn_Qakxatlq_pst_anwu_pst_kki"
+			"dynn_Qannu_pst_ki"
+			"dynn_Sam"
+			"dynn_Siyatl"
+			"dynn_Spuq_pst_in"
+			"dynn_Tlawat_pst_inak"
+			"dynn_Tsaqahak"
+			"dynn_Tsatlnu_pst_akuq_pst_nuk"
+			"dynn_Tsupqa_pst_akitla_pst_is"
+			"dynn_Tuhutlnana"
+			"dynn_Tunwu_pst_kki"
+			"dynn_Xapqtlinik_pst_"
+			"dynn_Yak_pst_"
+			"dynn_Yaq_pst_it"
+			"dynn_Yukwu_pst_k"
 		}
 		
 		male_names = {
-			Alex
-			Carl Chris
-			Dale Dan Dennis
-			Ed Ernest
-			Frank Fred
-			George Greg Gunnar
-			Haines Harris Henry Herman
-			Jay Jim Joe John
-			Klondike
-			Mike Mottrom
-			Nikolas Noel
-			Peter Paul Prudhoe
-			Rich
-			Bob
-			Seward Sheldon Simon Steve
-			Ted Tom
-			Walter Will
+			Ak_pst_atli_pst_it Akam Akatli_pst_it Akaxapktli Akaxapqtli Akikq_pst_tlatla_pst_mi Akinq_pst_uku Aknuqtlutlam_pst_ Aknuqtluxunatit Aktlaxwiy Aktlu Akuwatlwu_pst_k Akwuktli_pst_it Aq_pst_uxmatli_pst_it_T_pst_awu Aqank_pst_atlmukwatiyi_pst_is_Numa Aqawxatl At Ats_pst_pu Ax
+			Cha_pst_lie Cha_pst_lie_Kyaqkatluk Chad_Itlkitlwi
+			Don_Tsmak_pst_qa Dug
+			Himu
+			Initska Initswum Inmak_pst_s Intsuk_pst_ Inuya
+			Jad_Aniki Jason_Ts_pst_itl Jo
+			K_pst_antsupu_pst_s K_pst_is_Kaqtlikxatli_pst_tit K_pst_isits_pst_qatl K_pst_ustit_pst_ Ka_pst_son Kakin_Tawu Kamqu_pst_qukutsliyamu Kanusq_pst_upak Kaqtlikxatliytit Kats_Kats Kaxax Kik_pst_um Kit_pst_ikika Kitlq_pst_atltli Ktlawtla Ku Ku Kupi Kyak_pst_akutat Kyanukxu Kyaq_pst_nukat Kyaqkatluk Kyatlti_pst_tlmak_pst_
+			Luk_Tsmak_pst_itlwi
+			Mak Mat_pst_qutl Mayuk
+			Namqatku Natlmuqtsin Naxni Nik_Wakuks Nisnap Nitlksaq_pst_ Nitlsik Nitluk_pst_p Nupqu
+			Pen Piq Pit Pop_Anan_pst_
+			Q_pst_uq_pst_ni Qaspitluk Qukin Ququski
+			Ray_Watak
+			Sina Skinkuts Swa_pst_ Swaq_pst_mu
+			T_pst_awats_pst_ikxu Tak_pst_ats Tan Titlna_pst_ku Tlu Ts_pst_uts_pst_u_Ha_pst_son Tsiiqu Tsik_pst_ku_Ko_pst_i Tsmak_pst_qa Tsu_Tsu Tsuk_pst_utiatl Tsuptsi
+			Upat_pst_
+			Wad_Kyannik_pst_in Wakuks Watak Waxwik_pst_ Witlmatl Witlnuqtli_pst_it
+			Xa_Xa Xatltsin
+			Yamakpatl Yuwat_pst_
 		}
 		female_names = {
-			Alexia Angelica Anna Aurora
-			Candace Cassie Christie Cynthia
-			Doris Dorothy
-			Eva
-			Georgina
-			Helen Helga Hilary Holly
-			Jade Jane Jennifer Juneau
-			Karen Kate Kira
-			Lara Libby Lydia
-			Marge Mary Michelle
-			Nadia Nicole
-			Petra
-			Rachel
-			Sarah Sophia Susan
-			Ursa
-			Valerie Vera
+			A_pst_q_pst_uktlupqa Akatli_pst_it Akaxapqtli Akikq_pst_antstla_pst_in Akikq_pst_tlatla_pst_mi Akink_pst_umatla_pst_swu_pst_k Akitlq_pst_atlukpwa Aknuqtluxunatit Aktlaxwiy Aktlu Akuktlakuwum Alisa_Kyanuqtlumna An_An Aq_pst_ants_pst_tla_pst_in Aqawxatl Atlaw
+			Cha_pst_lin
+			Initska Initswum Inq_pst_am Intsuk_pst_ Inut_pst_ki Inuya
+			Josie_A_pst_kik_pst_aqutlmiyit
+			Kaq_pst_yun Karen Katlka_Akts_pst_ika_pst_is Katsamak Kili_Kupi Kollie_Itlkitlwi Kqanatsq_pst_ahi Kulilu Kyanuqtlumna
+			Maggie Mat_pst_qutl Mata Mayuk Mek_Kyaqkatluk Mits_pst_qaqas
+			Nam Naqamtsu Natisatl Natlmit_pst_ Naxni Nuktsaqtlitl Nuqtlunkupi Nutluqat
+			Piq
+			Q_pst_utlwa Q_pst_utsats Qukin
+			Sand_pst_a_Q_pst_utsats Sina Skinkuts
+			T_pst_anquts Tak_pst_ats Tlu_pst_unana Ts_pst_iq_pst_tla_Pep Tsa_Tsa Tsatamanana Tsawu Tsik_pst_ku Tsik_pst_ku_No_pst_ma Tsik_pst_nuswit Tsik_pst_tla Tsu-Tsu_Cha_pst_lin Tsu_Tsu Tsuk_pst_unkana Tsupku Tsupqa
+			Wakuks Witlnuqtli_pst_it Wits_Wits
+			Xa_Xa
+			Yaminqan Yik_pst_tsna Yuwat_pst_
 		}
-		dynasty_of_location_prefix = "dynnp_from"
-
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
 		father_name_chance = 40
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 20
-		mother_name_chance = 40
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
 		
 		ethnicities = {
 			25 = caucasian_blond
@@ -2310,5 +1991,160 @@ graphical_cultures = {
 			35 = caucasian_brown_hair
 			25 = caucasian_dark_hair
 		}
+	}
+	shuswap = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.55 0.15 0.60 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+	}
+	dakelh = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.68 0.3 0.57 }
+
+		cadet_dynasty_names = {
+			
+		}
+		dynasty_names = {
+			"dynn_Anaskaski"
+			"dynn_C_pst_ilhts_pst_ekhyu"
+			"dynn_Cahoose"
+			"dynn_Capoose"
+			"dynn_Cas_Yikh"
+			"dynn_Cenegeh"
+			"dynn_Charleyboy"
+			"dynn_Cheslatta"
+			"dynn_Coryatsaqua"
+			"dynn_Creyke"
+			"dynn_Dzlik_pst_en"
+			"dynn_Frederick"
+			"dynn_George"
+			"dynn_Gilseyhu"
+			"dynn_Gitumden"
+			"dynn_Glaim"
+			"dynn_Hagwilget"
+			"dynn_Jack"
+			"dynn_John"
+			"dynn_Klagookchew"
+			"dynn_Kwen-Beegh-Yex"
+			"dynn_Laksamshu"
+			"dynn_Laksilyu"
+			"dynn_Lebrun"
+			"dynn_Leween"
+			"dynn_Lheit-Li_pst_ten"
+			"dynn_Lhoosk_pst_uz"
+			"dynn_Louis"
+			"dynn_Luggy"
+			"dynn_Lusilyoo"
+			"dynn_Michell"
+			"dynn_Misdee"
+			"dynn_Morrice"
+			"dynn_Nadleh_Whut_pst_en"
+			"dynn_Nak_pst_azdlit_pst_en"
+			"dynn_Nat_pst_oot_pst_en"
+			"dynn_Naziel"
+			"dynn_Nazko"
+			"dynn_Necha-Koh"
+			"dynn_Nee-Tahi-Buhn"
+			"dynn_Patrick"
+			"dynn_Ridsdale"
+			"dynn_Saik_pst_uz"
+			"dynn_Skin_Tyee"
+			"dynn_Stellat_pst_en"
+			"dynn_Tanizul"
+			"dynn_Teegee"
+			"dynn_Teeslee"
+			"dynn_Tibbett"
+			"dynn_Tl_pst_azt_pst_en"
+			"dynn_Tsayu"
+			"dynn_Tsekalbaiyex"
+			"dynn_Tsichgass"
+			"dynn_Tsil_Kaz_Koh"
+			"dynn_Ulkatcho"
+			"dynn_Unist_pst_ot_pst_en"
+			"dynn_Wet_pst_suwet_pst_en"
+			"dynn_Yekoo-Che"
+			"dynn_Yekooche"
+			"dynn_Yex_T_pst_sawilk_pst_us"
+		}
+
+		male_names = {
+			Booscho
+			Chan Chundoo Chunih Chunihcho Chunihcho_John Chuntoh_Lhi Chuntsi Clifford
+			Dadzi Dagha_George Daltsi Dats_pst_ooz Datsan Datsancho Delgamuukw Dempsey Denyo Ditnik Ditnik__pst_Oolhges Dluk Duch_pst_ukw_Charlie Duchundulhkw_pst_uz Dulkw_pst_ah Dune_Ed Duni Duni_Herb Dzuh
+			Edward
+			Ges Gisday_pst_wa Goozih_Ken Guks_pst_dadeluk Gwuzeh
+			Hagwilnegh Harv_Kw_pst_ut Hoolht_pst_o Hoonliz_Ryan
+			Jatsun
+			K_pst_ani K_pst_anotz K_pst_aza K_pst_azba_Dan K_pst_unalhduz K_pst_us Khoh Kloum_Khun Knedebeas Kw_pst_eh
+			Lhi Lhk_pst_ena_pst_oots_pst_i Lhkwencho Lhuyul Louie_Billy Lyle
+			Madeek Mhutt_pst_ Musdzoonbai
+			N_pst_kwala Namoks Nanguz Nanguz_Ted Nilhts_pst_i Nondeti_Charlie Noolh_pst_utughih Noostel_Dominic Nuhbai Nulhdzook Nyiz_Ted
+			Oodzi_Unzoo_Bert
+			Sa Samooh Sbalyan Shas Shas_Doug Soh_Jim Sooh Stan_Nikal Susyaz
+			Talook Te_pst_unila Teh_Dulkw_pst_ah Tl_pst_ok_pst_ut Ts_pst_oochun Ts_pst_usgakyaz Tsa Tsa_Charlie Tsabai Tsaluk_George Tsibalyan_Charlie Tsich_pst_ul Tsil Tulk_pst_us Tuwul
+			Ulhtus_Dan
+			Wah_Tah_K_pst_eght Warner Wasi Wasi_Alec Whudzih Whudzih_Archie William Woos
+			Yests_pst_e Yus
+			_pst_A_Jim _pst_Ukailch_pst_oh _pst_Ulhti _pst_Usbai _pst_Usbai_Brett _pst_Ut_pst_an _pst_Utsut_Russell _pst_Uyoo_Unli_Ed
+		}
+
+		female_names = {
+			Besk_pst_i Boos
+			C_pst_tan Chan Chunih Chuntulhi_Maggie
+			Dadzi Dats_pst_ooz Datsan Datsan_Linda Datsancho Delh_Sandra Delhba Dih Dihcho Dihcho_Hazel Ditnik Ditnikwun Dluk Duni_pst_at Dzulh_Breanna
+			Ggodzu_pst_git Goohlht
+			Hoolht_pst_o
+			Jatsun
+			K_pst_azba K_pst_unalhduz K_pst_us Khoh Khuda_Ts_pst_e_Laura Kw_pst_ut_Danielle
+			Lhk_pst_ena_pst_oots_pst_i Liloos
+			Mary Musdziyaz_Mary Musdzoonbai
+			Nachenisboo_pst__Sarah Nilhts_pst_i Nuhbai Nulhdzook Nyiz_Nancy
+			Oodzi_Unzoo_Betty
+			Rose
+			Sa Sa_pst_indak Sooh Sus Susyaz
+			Talook Tl_pst_ok_pst_ut Ts_pst_incho Ts_pst_oochun Ts_pst_usgakyaz Tsa Tsabai Tsagwulht_pst_aih Tsangwulht_pst_ah_Mary Tsil Tsuncho_Gertie Tuwul
+			Ulhtus_Ellen
+			Wal_pst_aat Wasi Wedleow Whe_pst_unanguz Whenun Whudzih Whus_pst_indak Wiihanxsim Wilowh
+			Yests_pst_e
+			_pst_Indak _pst_Uschas _pst_Ut_pst_an
+		}
+		dynasty_of_location_prefix = ""
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
 	}
 }
