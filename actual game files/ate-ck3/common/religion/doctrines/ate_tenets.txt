@@ -406,7 +406,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:anglican
+						ROOT = faith:anglican
 					}
 					desc = tenet_prima_scriptura
 				}
@@ -1206,7 +1206,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:guadalupan
+						ROOT = faith:guadalupan
 					}
 					desc = tenet_patroness_of_the_new_world_name
 				}
@@ -1217,7 +1217,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:guadalupan
+						ROOT = faith:guadalupan
 					}
 					desc = tenet_patroness_of_the_new_world_desc
 				}
@@ -1359,7 +1359,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_masked_friars_name
 				}
@@ -1370,7 +1370,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_masked_friars_desc
 				}
@@ -1476,7 +1476,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_saintly_justice_name
 				}
@@ -1487,7 +1487,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_saintly_justice_desc
 				}
@@ -1530,7 +1530,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:insular_carribean
+						ROOT = faith:insular_carribean
 					}
 					desc = tenet_tropical_isolation
 				}
@@ -1588,7 +1588,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:santa_muerte
+						ROOT = faith:santa_muerte
 					}
 					desc = tenet_all_equal_in_death_name
 				}
@@ -1599,7 +1599,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:santa_muerte
+						ROOT = faith:santa_muerte
 					}
 					desc = tenet_all_equal_in_death_desc
 				}
@@ -2107,7 +2107,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:celestism
+						ROOT = faith:celestism
 					}
 					desc = tenet_messianic_figures_name
 				}
@@ -2140,8 +2140,8 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							SCOPE = faith:moravian
-							SCOPE = faith:falling_star
+							ROOT = faith:moravian
+							ROOT = faith:falling_star
 						}
 					}
 					desc = tenet_lovefeasts
