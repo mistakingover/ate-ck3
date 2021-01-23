@@ -82,6 +82,16 @@
 			hostility_override_special_doctrine_lion_of_zion = 2
 		}
 	}
+	
+	special_doctrine_render_unto_caesar = {
+		parameters = {
+			hostility_override_special_doctrine_render_unto_caesar = 1
+			hostility_override_special_doctrine_manyfold_path = 1
+			hostility_override_special_doctrine_imamite_doctrine = 1
+			special_doctrine_mainstream_protestant = 1
+			special_doctrine_latin_rite = 1
+		}
+	}
 }
 
 doctrine_protestant_tolerance = { #put certain tolerance doctrines here
@@ -184,6 +194,21 @@ doctrine_rastafari_tolerance = {
 			hostility_override_special_doctrine_protestant_background = 2
 			hostility_override_special_doctrine_saintly_spirits = 2
 			hostility_override_special_doctrine_juju = 2
+		}
+	}
+}
+
+doctrine_karmic_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = karmic_religion
+	}
+	
+	special_doctrine_manyfold_path = {
+		parameters = {
+			hostility_override_special_doctrine_manyfold_path = 1
+			hostility_override_special_doctrine_imamite_doctrine = 1
+			hostility_override_special_doctrine_render_unto_caesar = 1
 		}
 	}
 }

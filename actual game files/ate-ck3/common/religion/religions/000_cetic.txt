@@ -215,6 +215,8 @@ karmic_religion = {
 		cetic = {
 			color = hsv { 0.7 0.52 0.90 }
 			icon = cetic
+			
+			doctrine = special_doctrine_manyfold_path
 
 			doctrine = tenet_asceticism
 			doctrine = tenet_wisdom_of_gurus

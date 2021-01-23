@@ -95,5 +95,5 @@
  special_doctrine_shema_yisrael_name:0 "Shema Yisrael"
  special_doctrine_shema_yisrael_desc:0 "Although we Jews may disagree on the particulars of each other's practices, we are united in our worship of the One God of Israel. We must set aside our differences in these strange times, for we are all children of Israel."
  
- doctrine_parameter_hostility_override_special_doctrine_shema_yisrael:0 "Considers other Jewish [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!"
+ doctrine_parameter_hostility_override_special_doctrine_shema_yisrael:0 "Considers [faiths|E] with the Shema Yisrael doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  tenet_sanctity_of_nature_eretz_amazonia:0 "Eretz Amazonia"

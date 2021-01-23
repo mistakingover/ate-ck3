@@ -1,0 +1,49 @@
+﻿doctrine_muslim_tolerance = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = islam_religion
+	}
+	
+	muslim_tolerance_imamite_doctrine = { #will name this something cool later
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_imamite_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_muslim_tolerance_imamite_doctrine = 1
+			hostility_override_muslim_tolerance_traditionalist_doctrine = 1
+			hostility_override_special_doctrine_manyfold_path = 1
+			hostility_override_special_doctrine_render_unto_caesar = 1
+		}
+	}
+	
+	muslim_tolerance_traditionalist_doctrine = { #will name this something cool later
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_traditionalist_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			muslim_tolerance_traditionalist_doctrine = 1
+			hostility_override_muslim_tolerance_imamite_doctrine = 1
+		}
+	}
+	
+	muslim_tolerance_orientalist_doctrine = { #will name this something cool later
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muslim_tolerance_orientalist_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_muslim_tolerance_orientalist_doctrine = 1
+		}
+	}
+}
