@@ -457,12 +457,12 @@ graphical_cultures = {
 			25 = caucasian_dark_hair
 		}
 	}
-	amapenho = {
+	amapaense = {
 		graphical_cultures = {
-			amapenho_coa_gfx
+			amapaense_coa_gfx
 		}
 
-		color = { 0.14 0.47 0.79 }
+		color = { 0.2 0.24 0.22 }
 
 		cadet_dynasty_names = {
 					"dynn_Abdon"
@@ -945,12 +945,12 @@ graphical_cultures = {
 			25 = caucasian_dark_hair
 		}
 	}
-	roraimo = {
+	roraimense = {
 		graphical_cultures = {
-			roraimo_coa_gfx
+			roraimense_coa_gfx
 		}
 
-		color = { 0.09 0.49 0.71 }
+		color = { 0.27 0.51 0.37 }
 
 		cadet_dynasty_names = {
 					"dynn_Aguida"
@@ -1309,84 +1309,8 @@ graphical_cultures = {
 			25 = caucasian_dark_hair
 		}
 	}
-	amapaense = {
-		graphical_cultures = {
-			amapaense_coa_gfx
-		}
 
-		color = { 0.2 0.24 0.22 }
-
-		cadet_dynasty_names = {
-					"dynn_amapaense_placeholder"
-		}
-		dynasty_names = {
-					"dynn_amapaense_placeholder"
-		}
-
-		male_names = {
-			"amapaense_placeholder_mnames"
-		}
-		female_names = {
-			"amapaense_placeholder_fnames"
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 10
-		father_name_chance = 5
-
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 10
-		mother_name_chance = 5
-
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
-	roraimense = {
-		graphical_cultures = {
-			roraimense_coa_gfx
-		}
-
-		color = { 0.27 0.51 0.37 }
-
-		cadet_dynasty_names = {
-					"dynn_roraimense_placeholder"
-		}
-		dynasty_names = {
-					"dynn_roraimense_placeholder"
-		}
-
-		male_names = {
-			"roraimense_placeholder_mnames"
-		}
-		female_names = {
-			"roraimense_placeholder_fnames"
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 10
-		father_name_chance = 5
-
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 10
-		mother_name_chance = 5
-
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
+	
 	imperatrizense = {
 		graphical_cultures = {
 			imperatrizense_coa_gfx
