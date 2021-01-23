@@ -1,0 +1,93 @@
+﻿
+arctic = {
+	color = { 230 250 250 }
+	
+	province_modifier = {
+		supply_limit_mult = -0.2
+		development_growth_factor = -0.05
+	}
+	
+	defender_combat_effects = {
+		name = combat_taiga
+		image = defender_taiga
+		advantage = 4
+	}
+	
+	movement_speed = 0.8
+	combat_width = 0.8
+	
+	audio_parameter = 9.0
+}
+tundra = {
+	color = { 100 80 90 }
+	
+	province_modifier = {
+		supply_limit_mult = -0.2
+		development_growth_factor = -0.05
+	}
+	
+	defender_combat_effects = {
+		name = combat_taiga
+		image = defender_taiga
+		advantage = 4
+	}
+	
+	movement_speed = 0.8
+	combat_width = 0.8
+	
+	audio_parameter = 9.0
+}
+
+salt_flats = {
+	color = { 200 230 150 }
+	
+	province_modifier = {
+		supply_limit_mult = -0.2
+		development_growth_factor = -0.05
+	}
+	
+	defender_combat_effects = {
+		name = combat_taiga
+		image = defender_taiga
+		advantage = 4
+	}
+	
+	movement_speed = 0.8
+	combat_width = 0.8
+	
+	audio_parameter = 9.0
+}
+
+flooded_forests = {
+	color = { 90 230 130 }
+	
+	province_modifier = {
+		supply_limit_mult = -0.25
+		development_growth_factor = -0.25
+	}
+	
+	attacker_modifier = {
+		hard_casualty_modifier = 0.2
+		retreat_losses = 0.25
+	}
+	
+	defender_modifier = {
+		hard_casualty_modifier = 0.2
+		retreat_losses = 0.25
+	}
+	
+	defender_combat_effects = {
+		name = combat_wetlands
+		image = defender_wetlands
+		advantage = 5
+	}
+	
+	movement_speed = 0.7
+	combat_width = 0.6
+	
+	audio_parameter = 3.0
+}
+
+
+
+
