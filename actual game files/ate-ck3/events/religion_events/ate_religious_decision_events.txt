@@ -459,11 +459,8 @@ ate_religious_decision.83 = { #an unseemly proposal
 
 	option = {
 		name = ate_religious_decision.83.a
-		if = {
-			limit = {
-				has_trait = greedy
-			}
-			add_stress = 20
+		stress_impact = {
+			greedy = 20
 		}
 		add_piety = 25
 		reverse_add_opinion = {
@@ -479,14 +476,9 @@ ate_religious_decision.83 = { #an unseemly proposal
 	}
 	option = {
 		name = ate_religious_decision.83.b
-		if = {
-			limit = {
-				OR = {
-					has_trait = honest
-					has_trait = zealous
-				}
-			}
-			add_stress = 20
+		stress_impact = {
+			honest = 20
+			zealous = 20
 		}
 		if = {
 			limit = {
@@ -1652,6 +1644,257 @@ ate_religious_decision.88 = { #end of the assembly
 	}
 }
 
+ate_religious_decision.89 = { #marquess base event
+	type = character_event
+	title = ate_religious_decision.89.t
+	desc = ate_religious_decision.89.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.89.a
+		custom_tooltip = meditate_on_the_marquess_event_tt
+		random_list = {
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.90
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.91
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.92
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.93
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.94
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.95
+				}
+			}
+		}
+	}
+}
+
+ate_religious_decision.90 = { 
+	type = character_event
+	title = ate_religious_decision.90.t
+	desc = ate_religious_decision.90.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.90.a
+		stress_impact = {
+			greedy = -40
+			generous = 40
+		}
+		add_character_modifier = {
+			modifier = desire_for_beauty 
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.90.b
+		stress_impact = {
+			greedy = 40
+			generous = -40
+		}
+		add_character_modifier = {
+			modifier = detachment_from_wordly_affairs  
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.91 = { 
+	type = character_event
+	title = ate_religious_decision.91.t
+	desc = ate_religious_decision.91.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.91.a
+		stress_impact = {
+			fickle = -40
+			stubborn = 40
+		}
+		add_character_modifier = {
+			modifier = peace_with_death  
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.91.b
+		stress_impact = {
+			fickle = 40
+			stubborn = -40
+		}
+		add_character_modifier = {
+			modifier = live_life_in_spite   
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.92 = { 
+	type = character_event
+	title = ate_religious_decision.92.t
+	desc = ate_religious_decision.92.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.92.a
+		stress_impact = {
+			humble = -40
+			arrogant = 40
+		}
+		add_character_modifier = {
+			modifier = slave_of_destiny   
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.92.b
+		stress_impact = {
+			arrogant = -40
+			humble = 40
+		}
+		add_character_modifier = {
+			modifier = above_destiny    
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.93 = { 
+	type = character_event
+	title = ate_religious_decision.93.t
+	desc = ate_religious_decision.93.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.93.a
+		stress_impact = {
+			content = -40
+			ambitious = 40
+		}
+		add_character_modifier = {
+			modifier = no_time_like_present    
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.93.b
+		stress_impact = {
+			ambitious = -40
+			content = 40
+		}
+		add_character_modifier = {
+			modifier = unreal_nostalgia     
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.94 = { 
+	type = character_event
+	title = ate_religious_decision.94.t
+	desc = ate_religious_decision.94.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.94.a
+		stress_impact = {
+			chaste = -40
+			lustful = 40
+		}
+		add_character_modifier = {
+			modifier = fleeing_from_romance    
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.94.b
+		stress_impact = {
+			lustful = -40
+			chaste = 40
+		}
+		add_character_modifier = {
+			modifier = dying_of_love     
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.95 = { 
+	type = character_event
+	title = ate_religious_decision.95.t
+	desc = ate_religious_decision.95.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.95.a
+		stress_impact = {
+			trusting = -40
+			paranoid = 40
+		}
+		add_character_modifier = {
+			modifier = eternal_peace    
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.95.b
+		stress_impact = {
+			paranoid = -40
+			trusting = 40
+		}
+		add_character_modifier = {
+			modifier = say_no_to_paradise   
+			years = 10
+		}
+	}
+}
 
 #Anima Tragedy
 ate_religious_decision.100 = {

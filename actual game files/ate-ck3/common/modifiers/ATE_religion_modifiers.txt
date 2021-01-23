@@ -71,3 +71,80 @@ corrupt_elector_assembly = {
 	icon = social_negative
 	religious_vassal_opinion = -20
 }
+
+desire_for_beauty = {
+	icon = magic_positive
+	diplomacy = 2
+	learning = -1
+	personal_scheme_power_add = 0.1
+}
+
+detachment_from_wordly_affairs = {
+	icon = magic_positive
+	diplomacy = -1
+	learning = 2
+	monthly_piety_gain_mult = 0.1
+}
+
+peace_with_death = {
+	icon = magic_positive
+	health = -0.5
+	prowess = 2
+}
+
+live_life_in_spite = {
+	icon = magic_positive
+	health = 0.5
+	diplomacy = -1
+}
+
+slave_of_destiny = {
+	icon = magic_positive
+	monthly_piety_gain_mult = 0.1
+	monthly_prestige_gain_mult = -0.05
+}
+
+above_destiny = {
+	icon = magic_positive
+	monthly_piety_gain_mult = -0.05
+	monthly_prestige_gain_mult = 0.1
+}
+
+no_time_like_present = {
+	icon = magic_positive
+	levy_reinforcement_rate = -0.1
+	domain_tax_same_faith_mult = 0.1
+}
+
+unreal_nostalgia = {
+	icon = magic_positive
+	levy_reinforcement_rate = 0.2
+	domain_tax_same_faith_mult = -0.05
+}
+
+
+fleeing_from_romance= {
+	icon = magic_positive
+	attraction_opinion= -20
+	monthly_piety_gain_mult = 0.1
+}
+
+dying_of_love= {
+	icon = magic_positive
+	attraction_opinion= 20
+	monthly_piety_gain_mult = -0.1
+}
+
+
+eternal_peace= {
+	icon = magic_positive
+	stress_loss_mult= 0.15
+	stewardship= -1
+}
+
+say_no_to_paradise= {
+	icon = magic_positive
+	stress_loss_mult= -0.1
+	stewardship= 2
+}
+

@@ -96,7 +96,7 @@
 
  doctrine_parameter_lay_on_hands_enabled:0 "May Pray for the Health of the sick and wounded in exchange for [piety|E]. If they get better, they might become Zealous if they belong to the same faith as you, or might convert to your faith otherwise."
  doctrine_parameter_deliverance_ministry_enabled:0 "May enact a deliverance ministry on Possessed people."
- doctrine_parameter_build_tragedy_shrine_enabled:0 "May construct a shrine to venerate a dynasty member who did not die of old age. If your capital is located in such a shrine, you can visit it sporadically as a decision."
+ doctrine_parameter_anima_shrines_active:0 "May select one of the major ánimas as your Patron by decision.\nMay build and dedicate a shrine in your capital to the ánima of a close one that has perished before their time. As the enshrined ánima gains notoriety, you might select it as your Patron ánima as long as the shrine is found in your capital.\nPowerful and pious rulers might build a sanctuary to the enshrined ánima, elevating it to a major ánima, and enabling all adherents of the faith to select it as their Patron, wherever they are."
  doctrine_parameter_wrestling_match_enabled:0 "Enables the Challenge to a Wrestling Match interaction of characters of the same faith."
  doctrine_parameter_bargain_death_enabled:0 "Enables the Bargain with Death decision, seeking the Holiest Death's blessing, for a price."
 
@@ -107,3 +107,6 @@
 
  doctrine_parameter_theocracy_town_cleargy_lease:0 "City [holdings|E] are leased out to their Holder's [realm_priest|E], who then serves them as a [theocratic|E] [vassal|E]"
  doctrine_parameter_select_national_pantheon_active:0 "Enables to select a Prócer from the National Pantheon as your Patron."
+ doctrine_parameter_enables_constituent_assembly:0 "Enables the Caudillo to call for one Constituent Assembly during their reign and in no less than forty years since the last Assembly was called.\nDuring the Assembly, landed rulers of the faith may vote on several issues and determine different doctrines of the faith until the next Assembly is called and modifies them."
+ doctrine_parameter_meditate_on_the_marquess_active:0 "May Meditate on the writings of the Marquess of García, trying to understand the underlying prophecies."
+ doctrine_parameter_create_gran_colombia_active:0 "Enables the Restoration of the Gran Colombia, uniting the Patria Grande under the same banner once again."
