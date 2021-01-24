@@ -234,11 +234,10 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	plautsdeutsch = {
 		graphical_cultures = {
@@ -506,11 +505,10 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	yiddish = {
 		color = { 0.5 0.05 0.05 }
@@ -542,10 +540,9 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 }

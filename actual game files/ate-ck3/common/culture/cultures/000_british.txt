@@ -129,11 +129,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	wladfaeg = {
 		graphical_cultures = {
@@ -245,10 +244,9 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 }

@@ -187,11 +187,12 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = mediterranean
+	10 = amazonian
+	75 = med_indigenous
+}
+
+
 	}
 	kolla = {
 		graphical_cultures = {
@@ -345,11 +346,13 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	5 = mediterranean
+	60 = andean
+	34 = med_indigenous
+}
+
+
 	}
 	quechua = {
 		graphical_cultures = {
@@ -443,11 +446,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	aymara = {
 		graphical_cultures = {
@@ -482,11 +484,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	selvalteno = {
 		graphical_cultures = {
@@ -704,11 +705,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	wanka = {
 		graphical_cultures = {
@@ -743,10 +743,9 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 }

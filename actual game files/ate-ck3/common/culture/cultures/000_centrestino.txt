@@ -499,11 +499,18 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	6 = african
+	1 = arab
+	15 = caucasian
+	25 = mediterranean
+	10 = med_indigenous
+	7 = white_indigenous
+	7 = black_white
+	1 = white_asian
+	25 = med_black_ind
+}
+
+
 	}
 	candango = {
 		graphical_cultures = {
@@ -792,11 +799,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	8 = african
+	15 = caucasian
+	25 = mediterranean
+	10 = med_indigenous
+	7 = white_indigenous
+	7 = black_white
+	25 = med_black_ind
+}
+
+
 	}
 	maracaju = {
 		graphical_cultures = {
@@ -1371,11 +1383,18 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = arab
+	15 = caucasian
+	25 = mediterranean
+	5 = amazonian
+	15 = med_indigenous
+	5 = white_indigenous
+	5 = black_white
+	20 = med_black_ind
+}
+
+
 	}
 	terena = {
 		graphical_cultures = {
@@ -1761,11 +1780,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	matogrossense = {
 		graphical_cultures = {
@@ -2197,11 +2215,19 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	7 = african
+	5 = arab
+	12 = caucasian
+	20 = mediterranean
+	5 = amazonian
+	15 = med_indigenous
+	5 = white_indigenous
+	5 = black_white
+	5 = black_indigenous
+	20 = med_black_ind
+}
+
+
 	}
 	tocantino = {
 		graphical_cultures = {
@@ -2473,11 +2499,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	tocantinense = {
 		graphical_cultures = {
@@ -2512,10 +2537,9 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 }

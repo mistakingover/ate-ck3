@@ -187,11 +187,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = caucasian
+	20 = patagonian
+	50 = med_indigenous
+}
+
+
 	}
 	huaso = {
 		graphical_cultures = {
@@ -365,11 +366,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = byzantine
+	30 = mediterranean
+	10 = patagonian
+	50 = med_indigenous
+}
+
+
 	}
 	centrino = {
 		graphical_cultures = {
@@ -572,11 +575,17 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = arab
+	5 = byzantine
+	5 = caucasian
+	20 = mediterranean
+	5 = slavic
+	5 = andean
+	5 = patagonian
+	50 = med_indigenous
+}
+
+
 	}
 	atacameno = {
 		graphical_cultures = {
@@ -759,10 +768,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = caucasian
+	25 = mediterranean
+	10 = slavic
+	20 = andean
+	50 = med_indigenous
+}
+
+
 	}
 }

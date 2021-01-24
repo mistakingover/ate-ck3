@@ -794,11 +794,23 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	6 = african
+	15 = arab
+	1 = asian
+	3 = byzantine
+	10 = caucasian
+	30 = mediterranean
+	2 = slavic
+	1 = andean
+	1 = lagid
+	2 = med_indigenous
+	15 = black_white
+	2 = white_asian
+	3 = black_indigenous
+	10 = med_black_ind
+}
+
+
 	}
 	paulista = {
 		graphical_cultures = {
@@ -1208,11 +1220,22 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	10 = arab
+	1 = asian
+	3 = byzantine
+	10 = caucasian
+	35 = mediterranean
+	2 = slavic
+	1 = lagid
+	2 = med_indigenous
+	15 = black_white
+	2 = white_asian
+	3 = black_indigenous
+	10 = med_black_ind
+}
+
+
 	}
 	caipira = {
 		graphical_cultures = {
@@ -1534,11 +1557,22 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	10 = arab
+	1 = asian
+	3 = byzantine
+	10 = caucasian
+	35 = mediterranean
+	2 = slavic
+	1 = lagid
+	2 = med_indigenous
+	15 = black_white
+	2 = white_asian
+	3 = black_indigenous
+	10 = med_black_ind
+}
+
+
 	}
 	burajirujin = {
 		graphical_cultures = {
@@ -1791,11 +1825,13 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	50 = asian
+	45 = white_asian
+	5 = med_black_ind
+}
+
+
 	}
 	caicara = {
 		graphical_cultures = {
@@ -2161,11 +2197,22 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	6 = african
+	10 = arab
+	1 = asian
+	3 = byzantine
+	10 = caucasian
+	35 = mediterranean
+	2 = slavic
+	1 = lagid
+	2 = med_indigenous
+	15 = black_white
+	2 = white_asian
+	3 = black_indigenous
+	10 = med_black_ind
+}
+
+
 	}
 	carioca = {
 		graphical_cultures = {
@@ -2499,11 +2546,21 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	5 = arab
+	10 = caucasian
+	2 = east african
+	30 = mediterranean
+	2 = slavic
+	1 = lagid
+	5 = med_indigenous
+	20 = black_white
+	1 = white_asian
+	5 = black_indigenous
+	10 = med_black_ind
+}
+
+
 	}
 	paraiba = {
 		graphical_cultures = {
@@ -2888,11 +2945,20 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	8 = african
+	5 = arab
+	12 = caucasian
+	32 = mediterranean
+	2 = slavic
+	1 = lagid
+	5 = med_indigenous
+	15 = black_white
+	1 = white_asian
+	5 = black_indigenous
+	15 = med_black_ind
+}
+
+
 	}
 	capixaba = {
 		graphical_cultures = {
@@ -3103,11 +3169,19 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	8 = african
+	5 = arab
+	12 = caucasian
+	25 = mediterranean
+	1 = lagid
+	5 = med_indigenous
+	20 = black_white
+	1 = white_asian
+	5 = black_indigenous
+	15 = med_black_ind
+}
+
+
 	}
 	mineiro = {
 		graphical_cultures = {
@@ -3444,11 +3518,18 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = arab
+	10 = caucasian
+	35 = mediterranean
+	5 = med_indigenous
+	20 = black_white
+	1 = white_asian
+	5 = black_indigenous
+	15 = med_black_ind
+}
+
+
 	}
 	capiau = {
 		graphical_cultures = {
@@ -3762,10 +3843,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = arab
+	10 = caucasian
+	35 = mediterranean
+	1 = lagid
+	5 = med_indigenous
+	20 = black_white
+	5 = black_indigenous
+	15 = med_black_ind
+}
+
+
 	}
 }

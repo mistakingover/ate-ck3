@@ -273,20 +273,18 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	dairylander = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.55 0.5 0.3 }
 
 		male_names = {
@@ -311,11 +309,10 @@
 	northlander = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.65 0.45 0.5 }
 
 		male_names = {

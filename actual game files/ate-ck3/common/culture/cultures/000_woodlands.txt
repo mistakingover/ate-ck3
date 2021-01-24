@@ -154,11 +154,10 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 
 		mercenary_names = {
 			{ name = "mercenary_company_" }
@@ -167,11 +166,10 @@
 	cherokee = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.8 0.85 0.8 }
 
 		male_names = {
@@ -194,11 +192,10 @@
 	muscogee = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.5 0.80 0.70 }
 
 		male_names = {
@@ -221,11 +218,10 @@
 	catawba = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.55 0.65 0.95 }
 
 		male_names = {

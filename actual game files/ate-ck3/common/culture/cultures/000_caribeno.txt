@@ -422,11 +422,13 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	20 = african
+	20 = mediterranean
+	30 = med_indigenous
+	30 = black_white
+}
+
+
 	}
 
 	quisqueyano = {
@@ -728,11 +730,13 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	5 = mediterranean
+	10 = med_indigenous
+	70 = black_white
+}
+
+
 	}
 
 	boricua = {
@@ -990,10 +994,12 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	10 = mediterranean
+	70 = med_indigenous
+	10 = black_white
+}
+
+
 	}
 }

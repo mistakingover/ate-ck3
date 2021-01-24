@@ -482,11 +482,10 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	pictonish = {
 		graphical_cultures = {
@@ -883,11 +882,10 @@
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	newfoundlander = {
 		graphical_cultures = {
@@ -1262,11 +1260,10 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	yankee = {
 		graphical_cultures = {
@@ -1686,11 +1683,10 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 
 		mercenary_names = {
 			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
@@ -1928,11 +1924,10 @@
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 
 		mercenary_names = {
 			{ name = "mercenary_company" }
@@ -1941,11 +1936,10 @@
 	abenaki = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.45 0.56 0.88 }
 		
 		cadet_dynasty_names = {

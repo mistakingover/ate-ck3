@@ -162,11 +162,12 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = mediterranean
+	60 = patagonian
+	30 = med_indigenous
+}
+
+
 	}
 	aonikenk = {
 		graphical_cultures = {
@@ -249,11 +250,11 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	70 = patagonian
+	30 = med_indigenous
+}
+
+
 	}
 	kawesqar = {
 		graphical_cultures = {
@@ -329,11 +330,11 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = patagonian
+	20 = med_indigenous
+}
+
+
 	}
 	selknam = {
 		graphical_cultures = {
@@ -419,10 +420,10 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	30 = patagonian
+	70 = med_indigenous
+}
+
+
 	}
 }

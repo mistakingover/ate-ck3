@@ -342,11 +342,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	20 = mediterranean
+	80 = med_indigenous
+}
+
+
 	}
 	guanaco = {
 		graphical_cultures = {
@@ -639,11 +639,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = med_indigenous
+}
+
+
 	}
 	catracho = {
 		graphical_cultures = {
@@ -997,11 +996,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = mediterranean
+	90 = med_indigenous
+}
+
+
 	}
 	nica = {
 		graphical_cultures = {
@@ -1318,11 +1317,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	30 = mediterranean
+	70 = med_indigenous
+}
+
+
 	}
 	tico = {
 		graphical_cultures = {
@@ -1660,11 +1659,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	70 = mediterranean
+	30 = med_indigenous
+}
+
+
 	}
 	istmeno = {
 		graphical_cultures = {
@@ -1959,10 +1958,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = asian
+	10 = mediterranean
+	5 = amerindian
+	30 = med_indigenous
+	40 = black_white
+	10 = black_indigenous
+}
+
+
 	}
 }

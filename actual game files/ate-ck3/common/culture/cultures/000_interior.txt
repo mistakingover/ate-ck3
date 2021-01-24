@@ -35,11 +35,10 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 
 	}
 	paiute = {
@@ -71,11 +70,12 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
+
+
 	}
 	ute = {
 
@@ -106,11 +106,10 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 
 	}
 }

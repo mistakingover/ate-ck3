@@ -401,11 +401,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	5 = arab
+	20 = mediterranean
+	50 = med_indigenous
+	15 = black_white
+}
+
+
 	}
 	chocoano = {
 		graphical_cultures = {
@@ -762,11 +765,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	60 = african
+	5 = amerindian
+	5 = med_indigenous
+	30 = black_white
+}
+
+
 	}
 	caraqueno = {
 		graphical_cultures = {
@@ -986,11 +991,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	5 = asian
+	20 = mediterranean
+	35 = med_indigenous
+	25 = black_white
+}
+
+
 	}
 	truenonato = {
 		graphical_cultures = {
@@ -1245,11 +1253,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	25 = mediterranean
+	35 = med_indigenous
+	25 = black_white
+}
+
+
 	}
 	guayanes = {
 		graphical_cultures = {
@@ -1545,11 +1555,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	20 = mediterranean
+	10 = amazonian
+	35 = med_indigenous
+	25 = black_white
+}
+
+
 	}
 	guaro = {
 		graphical_cultures = {
@@ -1733,11 +1746,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	20 = mediterranean
+	40 = med_indigenous
+	25 = black_white
+}
+
+
 	}
 	margariteno = {
 		graphical_cultures = {
@@ -2051,11 +2066,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	5 = asian
+	20 = mediterranean
+	35 = med_indigenous
+	25 = black_white
+}
+
+
 	}
 	wayuu = {
 		graphical_cultures = {
@@ -2187,11 +2205,14 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = mediterranean
+	70 = amerindian
+	10 = med_indigenous
+	10 = black_white
+}
+
+
 	}
 	lokono = {
 		graphical_cultures = {
@@ -2294,10 +2315,10 @@ graphical_cultures = {
 		mother_name_chance = 0
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	90 = amerindian
+	10 = med_indigenous
+}
+
+
 	}
 }

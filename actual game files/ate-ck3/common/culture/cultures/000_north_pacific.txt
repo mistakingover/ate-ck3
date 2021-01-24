@@ -605,11 +605,10 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	siskiyouan = {
 		graphical_cultures = {
@@ -889,11 +888,10 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	cascadian = {
 		graphical_cultures = {
@@ -1147,11 +1145,10 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	
 	#Credit to RabbleRouser and MacMonika
@@ -1525,11 +1522,10 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	#Credit to RabbleRouser and MacMonika
 	inlander = {
@@ -1842,11 +1838,10 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	ktunaxa = {
 		color = { 0.65 0.3 0.3 }
@@ -1986,20 +1981,18 @@
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	shuswap = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.55 0.15 0.60 }
 
 		male_names = {
@@ -2022,11 +2015,10 @@
 	dakelh = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	10 = caucasian
+}
+
+
 		color = { 0.68 0.3 0.57 }
 
 		cadet_dynasty_names = {

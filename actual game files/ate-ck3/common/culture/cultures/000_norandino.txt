@@ -359,11 +359,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	40 = mediterranean
+	45 = med_indigenous
+	10 = black_white
+}
+
+
 	}
 	gocho = {
 		graphical_cultures = {
@@ -614,11 +616,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	40 = mediterranean
+	50 = med_indigenous
+	10 = black_white
+}
+
+
 	}
 	cachaco = {
 		graphical_cultures = {
@@ -950,11 +953,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	40 = mediterranean
+	55 = med_indigenous
+	5 = black_white
+}
+
+
 	}
 	valluno = {
 		graphical_cultures = {
@@ -1228,11 +1232,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	20 = mediterranean
+	50 = med_indigenous
+	20 = black_white
+}
+
+
 	}
 	llanero = {
 		graphical_cultures = {
@@ -1586,11 +1592,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	30 = mediterranean
+	10 = amazonian
+	40 = med_indigenous
+	10 = black_white
+}
+
+
 	}
 	pastuso = {
 		graphical_cultures = {
@@ -1796,11 +1805,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	30 = mediterranean
+	10 = amazonian
+	40 = med_indigenous
+	10 = black_white
+}
+
+
 	}
 	opitas = {
 		graphical_cultures = {
@@ -1972,10 +1984,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	40 = mediterranean
+	10 = amazonian
+	47 = med_indigenous
+	3 = black_white
+}
+
+
 	}
 }

@@ -38,11 +38,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 	ashaninka = {
 		graphical_cultures = {
@@ -77,11 +76,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = amazonian
+}
+
+
 	}
 	acreano = {
 		graphical_cultures = {
@@ -116,11 +114,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	30 = caucasian
+	30 = mediterranean
+	15 = amazonian
+	10 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
+}
+
+
 	}
 	rondonio = {
 		graphical_cultures = {
@@ -155,11 +158,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	35 = caucasian
+	25 = mediterranean
+	15 = amazonian
+	10 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
+}
+
+
 	}
 	trifinio = {
 		graphical_cultures = {
@@ -194,11 +202,15 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = caucasian
+	15 = mediterranean
+	50 = amazonian
+	20 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
+}
+
+
 	}
 	tukano = {
 		graphical_cultures = {
@@ -233,11 +245,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = amazonian
+}
+
+
 	}
 	yanomami = {
 		graphical_cultures = {
@@ -272,11 +283,10 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = amazonian
+}
+
+
 	}
 	makushi = {
 		graphical_cultures = {
@@ -311,11 +321,11 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
+
+
 	}
 	matses = {
 		graphical_cultures = {
@@ -350,11 +360,11 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
+
+
 	}
 	ticuna = {
 		graphical_cultures = {
@@ -389,11 +399,11 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
+
+
 	}
 	karipuna = {
 		graphical_cultures = {
@@ -428,11 +438,11 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
+
+
 	}
 	mura = {
 		graphical_cultures = {
@@ -467,11 +477,12 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = med_indigenous
+	20 = white_indigenous
+	5 = med_black_ind
+}
+
+
 	}
 	kulina = {
 		graphical_cultures = {
@@ -506,11 +517,11 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
+
+
 	}
 	munduruku = {
 		graphical_cultures = {
@@ -545,11 +556,11 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
+
+
 	}
 	nambikwara = {
 		graphical_cultures = {
@@ -584,10 +595,9 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
 	}
 }
