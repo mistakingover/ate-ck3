@@ -21,6 +21,7 @@ color_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -278,6 +279,7 @@ color_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}

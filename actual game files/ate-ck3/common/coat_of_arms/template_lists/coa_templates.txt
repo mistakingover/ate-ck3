@@ -195,6 +195,7 @@ coat_of_arms_template_lists = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = guarani_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = caribeno_group_gfx }
 					scope:culture = { has_graphical_culture = mesoamerican_group_gfx }
@@ -292,6 +293,7 @@ coat_of_arms_template_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = sulista_group_gfx }

@@ -1,14 +1,14 @@
 estino_group = { 
 	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
+		nortista_group_gfx
+		mediterranean_building_gfx
+		african_clothing_gfx
+		mena_unit_gfx
 	}
 
 	reconcavano = {
 		graphical_cultures = {
-			english_coa_gfx
+			reconcavano_coa_gfx
 		}
 
 		color = { 0.71 0.31 0.18 }
@@ -235,7 +235,7 @@ estino_group = {
 	}
 	agrestino = {
 		graphical_cultures = {
-			english_coa_gfx
+			reconcavano_coa_gfx
 		}
 
 		color = { 0.73 0.22 0.16 }
@@ -562,7 +562,7 @@ estino_group = {
 	}
 	ilheense = {
 		graphical_cultures = {
-			english_coa_gfx
+			ilheense_coa_gfx
 		}
 
 		color = { 0.49 0.14 0.1 }
@@ -782,7 +782,7 @@ estino_group = {
 	}
 	geralista = {
 		graphical_cultures = {
-			english_coa_gfx
+			geralista_coa_gfx
 		}
 
 		color = { 0.63 0.13 0.07 }
@@ -1132,7 +1132,7 @@ estino_group = {
 
 	pataxo = {
 		graphical_cultures = {
-			english_coa_gfx
+			pataxo_coa_gfx
 		}
 
 		color = { 0.66 0.26 0.25 }
@@ -1198,7 +1198,7 @@ estino_group = {
 	}
 	sergipano = {
 		graphical_cultures = {
-			english_coa_gfx
+			sergipano_coa_gfx
 		}
 
 		color = { 0.48 0.25 0.22 }

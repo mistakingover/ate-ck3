@@ -640,6 +640,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -713,6 +714,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -888,6 +890,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -2867,6 +2870,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -2940,6 +2944,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -3115,6 +3120,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -5090,6 +5096,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -5163,6 +5170,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -5338,6 +5346,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -6763,6 +6772,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -6836,6 +6846,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -7011,6 +7022,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -8422,6 +8434,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -8495,6 +8508,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -8670,6 +8684,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -10049,6 +10064,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -10122,6 +10138,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -10297,6 +10314,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -11639,6 +11657,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -13194,6 +13213,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -13267,6 +13287,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -13442,6 +13463,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -14849,6 +14871,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -14922,6 +14945,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -15097,6 +15121,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -16418,6 +16443,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -17757,6 +17783,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -19140,6 +19167,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -19213,6 +19241,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -19388,6 +19417,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -20768,6 +20798,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -20841,6 +20872,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -21016,6 +21048,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -22338,6 +22371,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -23731,6 +23765,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -23804,6 +23839,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -23979,6 +24015,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -25387,6 +25424,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -25460,6 +25498,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -25635,6 +25674,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -26961,6 +27001,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}
@@ -28364,6 +28405,7 @@ colored_emblem_texture_lists = {
 		trigger = {
 			OR = {
 				scope:culture = { has_graphical_culture = nordestino_group_gfx }
+				scope:culture = { has_graphical_culture = estino_group_gfx }
 				scope:culture = { has_graphical_culture = nortista_group_gfx }
 				scope:culture = { has_graphical_culture = amazonico_group_gfx }
 			}
@@ -28437,6 +28479,7 @@ colored_emblem_texture_lists = {
 					scope:culture = { has_graphical_culture = sulista_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
@@ -28612,6 +28655,7 @@ colored_emblem_texture_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = amazonico_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 				}
 			}

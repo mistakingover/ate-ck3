@@ -1,14 +1,14 @@
 nordestino_group = { 
 	graphical_cultures = {
-		western_coa_gfx
-		western_building_gfx
-		western_clothing_gfx
-		western_unit_gfx
+		nortista_group_gfx
+		mediterranean_building_gfx
+		african_clothing_gfx
+		mena_unit_gfx
 	}
 
 	sertanista = {
 		graphical_cultures = {
-			english_coa_gfx
+			sertanista_coa_gfx
 		}
 
 		color = { 0.53 0.36 0.18 }
@@ -564,7 +564,7 @@ nordestino_group = {
 	}
 	recifolindense = {
 		graphical_cultures = {
-			english_coa_gfx
+			recifolindense_coa_gfx
 		}
 
 		color = { 0.83 0.16 0.16 }
@@ -828,7 +828,7 @@ nordestino_group = {
 
 	potibacaguara = {
 		graphical_cultures = {
-			english_coa_gfx
+			potibacaguara_coa_gfx
 		}
 
 		color = { 0.72 0.44 0.42 }
@@ -1153,7 +1153,7 @@ nordestino_group = {
 	}
 	semuarense = {
 		graphical_cultures = {
-			english_coa_gfx
+			semuarense_coa_gfx
 		}
 
 		color = { 0.72 0.24 0.2 }
@@ -1505,7 +1505,7 @@ nordestino_group = {
 	}
 	parnaiba = {
 		graphical_cultures = {
-			english_coa_gfx
+			parnaiba_coa_gfx
 		}
 
 		color = { 0.55 0.3 0.22 }
@@ -1788,7 +1788,7 @@ nordestino_group = {
 	}
 	franciscano = {
 		graphical_cultures = {
-			english_coa_gfx
+			franciscano_coa_gfx
 		}
 
 		color = { 0.58 0.24 0.13 }
@@ -2358,7 +2358,7 @@ nordestino_group = {
 	
 	alagoano = {
 		graphical_cultures = {
-			english_coa_gfx
+			alagoano_coa_gfx
 		}
 
 		color = { 0.63 0.22 0.18 }
@@ -2426,7 +2426,7 @@ nordestino_group = {
 	}
 	ludovicense = {
 		graphical_cultures = {
-			english_coa_gfx
+			ludovicense_coa_gfx
 		}
 
 		color = { 0.53 0.11 0.08 }
