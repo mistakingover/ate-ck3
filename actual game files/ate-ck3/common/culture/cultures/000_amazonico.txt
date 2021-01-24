@@ -38,8 +38,19 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	5 = caucasian
+	15 = mediterranean
+	50 = amazonian
+	20 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -78,6 +89,12 @@ graphical_cultures = {
 		ethnicities = {
 	100 = amazonian
 }
+
+
+
+
+
+
 
 
 	}
@@ -124,6 +141,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	rondonio = {
 		graphical_cultures = {
@@ -166,6 +189,12 @@ graphical_cultures = {
 	5 = white_indigenous
 	5 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -211,6 +240,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	tukano = {
 		graphical_cultures = {
@@ -249,6 +284,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	yanomami = {
 		graphical_cultures = {
@@ -285,6 +326,12 @@ graphical_cultures = {
 		ethnicities = {
 	100 = amazonian
 }
+
+
+
+
+
+
 
 
 	}
@@ -326,6 +373,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	matses = {
 		graphical_cultures = {
@@ -363,6 +416,12 @@ graphical_cultures = {
 	80 = amazonian
 	20 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -404,6 +463,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	karipuna = {
 		graphical_cultures = {
@@ -441,6 +506,12 @@ graphical_cultures = {
 	80 = amazonian
 	20 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -483,6 +554,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	kulina = {
 		graphical_cultures = {
@@ -520,6 +597,12 @@ graphical_cultures = {
 	80 = amazonian
 	20 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -561,6 +644,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	nambikwara = {
 		graphical_cultures = {
@@ -595,8 +684,15 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	80 = amazonian
+	20 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}

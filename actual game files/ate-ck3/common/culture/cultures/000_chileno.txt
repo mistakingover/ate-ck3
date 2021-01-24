@@ -188,9 +188,16 @@ graphical_cultures = {
 		
 		ethnicities = {
 	15 = caucasian
-	20 = patagonian
+	20 = mediterranean
+	15 = patagonian
 	50 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -367,10 +374,17 @@ graphical_cultures = {
 		
 		ethnicities = {
 	5 = byzantine
-	30 = mediterranean
-	10 = patagonian
+	35 = mediterranean
+	2 = andean
+	8 = patagonian
 	50 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -586,6 +600,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	atacameno = {
 		graphical_cultures = {
@@ -771,9 +791,15 @@ graphical_cultures = {
 	5 = caucasian
 	25 = mediterranean
 	10 = slavic
-	20 = andean
-	50 = med_indigenous
+	15 = andean
+	55 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}

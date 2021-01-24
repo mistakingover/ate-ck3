@@ -968,8 +968,24 @@
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	5 = arab
+	20 = asian
+	10 = byzantine
+	15 = caucasian
+	5 = east african
+	10 = indian
+	10 = south indian
+	10 = mediterranean
+	10 = slavic
+	5 = multiracial
 }
+
+
+
+
+
+
 
 
 
@@ -1458,8 +1474,18 @@
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	10 = arab
+	5 = asian
+	75 = caucasian
+	5 = amerindian
 }
+
+
+
+
+
+
 
 
 	}
@@ -2079,8 +2105,20 @@
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	5 = arab
+	5 = asian
+	20 = caucasian
+	20 = circumpolar
+	30 = mediterranean
+	10 = amerindian
+	10 = white_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -2181,8 +2219,16 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	5 = caucasian
+	75 = amerindian
+	20 = white_indigenous
 }
+
+
+
+
+
+
 
 
 

@@ -664,6 +664,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	barriga-verde = {
 		graphical_cultures = {
@@ -1218,6 +1224,12 @@ graphical_cultures = {
 	1 = black_indigenous
 	6 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -1793,6 +1805,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	ruteno = {
 		graphical_cultures = {
@@ -1983,6 +2001,12 @@ graphical_cultures = {
 	2 = med_indigenous
 	3 = black_white
 }
+
+
+
+
+
+
 
 
 	}
@@ -4102,6 +4126,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	hunsrickisch = {
 		graphical_cultures = {
@@ -5089,6 +5119,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	guacho = {
 		graphical_cultures = {
@@ -5272,8 +5308,22 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	2 = african
+	5 = arab
+	5 = byzantine
+	35 = caucasian
+	30 = mediterranean
+	10 = slavic
+	6 = black_white
+	1 = black_indigenous
+	6 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}

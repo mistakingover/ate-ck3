@@ -598,8 +598,18 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	5 = asian
+	60 = caucasian
+	20 = slavic
+	10 = amerindian
 }
+
+
+
+
+
+
 
 
 	}
@@ -1271,8 +1281,16 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	20 = caucasian
+	70 = slavic
+	10 = amerindian
 }
+
+
+
+
+
+
 
 
 	}
@@ -1887,8 +1905,15 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	20 = caucasian
+	80 = slavic
 }
+
+
+
+
+
+
 
 
 	}
@@ -2247,7 +2272,15 @@
 		
 		ethnicities = {
 	10 = caucasian
+	20 = amerindian
+	70 = white_indigenous
 }
+
+
+
+
+
+
 
 
 	}

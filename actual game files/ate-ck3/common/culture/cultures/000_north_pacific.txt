@@ -605,8 +605,18 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	40 = asian
+	30 = caucasian
+	20 = indian
+	5 = amerindian
 }
+
+
+
+
+
+
 
 
 	}
@@ -892,6 +902,12 @@
 }
 
 
+
+
+
+
+
+
 	}
 	cascadian = {
 		graphical_cultures = {
@@ -1147,6 +1163,12 @@
 		ethnicities = {
 	10 = caucasian
 }
+
+
+
+
+
+
 
 
 	}
@@ -1526,6 +1548,12 @@
 }
 
 
+
+
+
+
+
+
 	}
 	#Credit to RabbleRouser and MacMonika
 	inlander = {
@@ -1838,8 +1866,17 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	80 = caucasian
+	5 = indian
+	10 = slavic
+	5 = amerindian
 }
+
+
+
+
+
+
 
 
 	}
@@ -1985,12 +2022,24 @@
 }
 
 
+
+
+
+
+
+
 	}
 	shuswap = {
 
 		ethnicities = {
 	10 = caucasian
 }
+
+
+
+
+
+
 
 
 		color = { 0.55 0.15 0.60 }
@@ -2017,6 +2066,12 @@
 		ethnicities = {
 	10 = caucasian
 }
+
+
+
+
+
+
 
 
 		color = { 0.68 0.3 0.57 }

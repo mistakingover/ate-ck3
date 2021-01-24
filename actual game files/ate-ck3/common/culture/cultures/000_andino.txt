@@ -193,6 +193,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	kolla = {
 		graphical_cultures = {
@@ -353,6 +359,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	quechua = {
 		graphical_cultures = {
@@ -446,8 +458,15 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	99 = andean
+	1 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -484,8 +503,15 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	99 = andean
+	1 = med_indigenous
 }
+
+
+
+
+
+
 
 
 	}
@@ -709,6 +735,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	wanka = {
 		graphical_cultures = {
@@ -745,6 +777,12 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
+
+
+
+
+
+
 
 
 	}

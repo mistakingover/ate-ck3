@@ -511,6 +511,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	candango = {
 		graphical_cultures = {
@@ -807,6 +813,12 @@ graphical_cultures = {
 	7 = black_white
 	25 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -1395,6 +1407,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	terena = {
 		graphical_cultures = {
@@ -1780,8 +1798,18 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	10 = mediterranean
+	30 = amazonian
+	50 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -2228,6 +2256,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	tocantino = {
 		graphical_cultures = {
@@ -2503,6 +2537,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	tocantinense = {
 		graphical_cultures = {
@@ -2537,8 +2577,20 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	6 = african
+	5 = caucasian
+	20 = mediterranean
+	30 = med_indigenous
+	5 = black_white
+	5 = black_indigenous
+	30 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}

@@ -798,7 +798,7 @@ graphical_cultures = {
 	15 = arab
 	1 = asian
 	3 = byzantine
-	10 = caucasian
+	12 = caucasian
 	30 = mediterranean
 	2 = slavic
 	1 = andean
@@ -809,6 +809,12 @@ graphical_cultures = {
 	3 = black_indigenous
 	10 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -1224,16 +1230,22 @@ graphical_cultures = {
 	10 = arab
 	1 = asian
 	3 = byzantine
-	10 = caucasian
-	35 = mediterranean
+	15 = caucasian
+	30 = mediterranean
 	2 = slavic
 	1 = lagid
 	2 = med_indigenous
-	15 = black_white
+	10 = black_white
 	2 = white_asian
 	3 = black_indigenous
-	10 = med_black_ind
+	15 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -1561,16 +1573,22 @@ graphical_cultures = {
 	10 = arab
 	1 = asian
 	3 = byzantine
-	10 = caucasian
-	35 = mediterranean
+	15 = caucasian
+	30 = mediterranean
 	2 = slavic
 	1 = lagid
 	2 = med_indigenous
-	15 = black_white
+	10 = black_white
 	2 = white_asian
 	3 = black_indigenous
-	10 = med_black_ind
+	15 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -1825,11 +1843,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-	1 = african
 	50 = asian
 	45 = white_asian
 	5 = med_black_ind
+	1 = multiracial
 }
+
+
+
+
+
+
 
 
 	}
@@ -2213,6 +2237,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	carioca = {
 		graphical_cultures = {
@@ -2559,6 +2589,12 @@ graphical_cultures = {
 	5 = black_indigenous
 	10 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -2959,6 +2995,12 @@ graphical_cultures = {
 }
 
 
+
+
+
+
+
+
 	}
 	capixaba = {
 		graphical_cultures = {
@@ -3180,6 +3222,12 @@ graphical_cultures = {
 	5 = black_indigenous
 	15 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -3523,11 +3571,17 @@ graphical_cultures = {
 	10 = caucasian
 	35 = mediterranean
 	5 = med_indigenous
-	20 = black_white
+	10 = black_white
 	1 = white_asian
 	5 = black_indigenous
-	15 = med_black_ind
+	25 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
@@ -3843,16 +3897,22 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-	5 = african
+	2 = african
 	5 = arab
-	10 = caucasian
+	13 = caucasian
 	35 = mediterranean
 	1 = lagid
 	5 = med_indigenous
-	20 = black_white
+	10 = black_white
 	5 = black_indigenous
-	15 = med_black_ind
+	25 = med_black_ind
 }
+
+
+
+
+
+
 
 
 	}
