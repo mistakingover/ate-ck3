@@ -545,18 +545,16 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	5 = caucasian
-	5 = mediterranean
-	5 = amazonian
-	50 = med_indigenous
-	5 = white_indigenous
-	5 = black_white
-	5 = black_indigenous
-	15 = med_black_ind
-}
-
-
+			5 = african
+			5 = caucasian
+			5 = mediterranean
+			5 = amazonian
+			50 = med_indigenous
+			5 = white_indigenous
+			5 = black_white
+			5 = black_indigenous
+			15 = med_black_ind
+		}
 	}
 	recifolindense = {
 		graphical_cultures = {
@@ -800,22 +798,20 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	15 = african
-	5 = arab
-	5 = asian
-	5 = byzantine
-	5 = caucasian
-	10 = mediterranean
-	5 = slavic
-	5 = amazonian
-	25 = med_indigenous
-	2 = white_indigenous
-	5 = black_white
-	3 = black_indigenous
-	10 = med_black_ind
-}
-
-
+			15 = african
+			5 = arab
+			5 = asian
+			5 = byzantine
+			5 = caucasian
+			10 = mediterranean
+			5 = slavic
+			5 = amazonian
+			25 = med_indigenous
+			2 = white_indigenous
+			5 = black_white
+			3 = black_indigenous
+			10 = med_black_ind
+		}
 	}
 
 	potibacaguara = {
@@ -1127,17 +1123,15 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	25 = caucasian
-	20 = mediterranean
-	10 = med_indigenous
-	10 = white_indigenous
-	5 = black_white
-	10 = black_indigenous
-	15 = med_black_ind
-}
-
-
+			5 = african
+			25 = caucasian
+			20 = mediterranean
+			10 = med_indigenous
+			10 = white_indigenous
+			5 = black_white
+			10 = black_indigenous
+			15 = med_black_ind
+		}
 	}
 	reconcavano = {
 		graphical_cultures = {
@@ -1352,15 +1346,13 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	25 = african
-	5 = east african
-	25 = mediterranean
-	10 = med_indigenous
-	25 = black_white
-	15 = med_black_ind
-}
-
-
+			25 = african
+			5 = east african
+			25 = mediterranean
+			10 = med_indigenous
+			25 = black_white
+			15 = med_black_ind
+		}
 	}
 	agrestino = {
 		graphical_cultures = {
@@ -1653,7 +1645,7 @@ nordestino_group = {
 		}
 
 		male_names = {
-			Jos_e_act_Carlos Jos_e_act_Pedro Jos_e_act_Ant_o_hat_nio Jos_e_act_Henrique Jos_e_act_Augusto Jos_e_act_Roberto Jos_e_act_Eduardo Jos_e_act_Miguel Jos_e_act_Luiz Jos_e_act_Paulo Jos_e_act_Francisco Jos_e_act_Messias Jos_e_act_Alberto Jos_e_act_Arnaldo Jos_e_act_Armando Jos_e_act_Mateus Jos_e_act_Victor Jos_e_act_Filipe Jos_e_act_Gabriel Jos_e_act_Raimundo Jos_e_act_Maria Jos_e_act_Maria Jos_e_act_Martinho Jos_e_act_Vital Jos_e_act_Abel Jos_e_act_Sebarti_a_tld_o Jos_e_act_Romeu Jos_e_act_Vit_o_act_rio Jos_e_act_Gaspar Jos_e_act_Valentim Jos_e_act_Ac_a_act_cio Jos_e_act_Viriato Jos_e_act_Guilherme Jos_e_act_Olavo Jos_e_act_Diogo Jos_e_act_Amaranto Jos_e_act_Celestino Jos_e_act_Cosme Jos_e_act_Delfino Jos_e_act_Ger_a_hat_nio Jos_e_act_Jacinto Jos_e_act_L_i_act_rio Jos_e_act_Narciso Jos_e_act_Nardo Jos_e_act_Saramago Jos_e_act_Agapito Jos_e_act_A_act_gato Jos_e_act_Albano Jos_e_act_Alberto Jos_e_act_Ambr_o_act_sio Jos_e_act_Andr_e_act_ Jos_e_act_Arcanjo Jos_e_act_Barnab_e_act_ Jos_e_act_Bento Jos_e_act_Bernardo Jos_e_act_Bonif_a_act_cio Jos_e_act_Calisto Jos_e_act_Casimiro Jos_e_act_Catarino Jos_e_act_Cec_i_act_lio Jos_e_act_Celemnte Jos_e_act_Cirilo Jos_e_act_Davi Jos_e_act_Eleut_e_act_rio Jos_e_act_Estev_a_tld_o Jos_e_act_Fabiano Jos_e_act_Filisberto Jos_e_act_Hil_a_act_rio Jos_e_act_Ov_i_act_dio Jos_e_act_In_a_act_cio Jos_e_act_Inoc_e_hat_ncio Jos_e_act_Irineu Jos_e_act_Jo_a_tld_o Jos_e_act_de_Arimat_e_act_ia Jos_e_act_Tadeu Jos_e_act_Leonardo Jos_e_act_Leopoldo Jos_e_act_Gonzaga Jos_e_act_Maur_i_act_cio Jos_e_act_Nic_e_foro Jos_e_act_Osvaldo Jos_e_act_Quirino Jos_e_act_Roque Jos_e_act_Serafim Jos_e_act_Cupido Jos_e_act_Tarc_i_act_sio Jos_e_act_Tar_a_act_sio
+			Jos_e_act__spc_Carlos Jos_e_act__spc_Pedro Jos_e_act__spc_Ant_o_hat_nio Jos_e_act__spc_Henrique Jos_e_act__spc_Augusto Jos_e_act__spc_Roberto Jos_e__act_spc_Eduardo Jos_e_act__spc_Miguel Jos_e_act__spc_Luiz Jos_e_act__spc_Paulo Jos_e_act__spc_Francisco Jos_e_act__spc_Messias Jos__e_act_spc_Alberto Jos_e_act__spc_Arnaldo Jos_e_act__spc_Armando Jos_e_act__spc_Mateus Jos_e_act__spc_Victor Jos_e_act__spc_Filipe Jos_e_act__spc_Gabriel Jos_e_act__spc_Raimundo Jos_e_act__spc_Maria Jos_e_act__spc_Maria Jos_e_act__spc_Martinho Jos_e_act__spc_Vital Jos_e_act__spc_Abel Jos_e_act__spc_Sebarti_a_tld_o Jos_e_act__spc_Romeu Jos_e_act__spc_Vit_o_act_rio Jos_e_act__spc_Gaspar Jos_e_act__spc_Valentim Jos_e_act__spc_Ac_a_act_cio Jos_e_act__spc_Viriato Jos_e_act__spc_Guilherme Jos_e_act__spc_Olavo Jos_e_act__spc_Diogo Jos_e_act__spc_Amaranto Jos_e_act__spc_Celestino Jos_e_act__spc_Cosme Jos_e_act__spc_Delfino Jos_e_act__spc_Ger_a_hat_nio Jos_e_act__spc_Jacinto Jos_e_act__spc_L_i_act_rio Jos_e_act__spc_Narciso Jos_e_act__spc_Nardo Jos_e_act__spc_Saramago Jos_e_act__spc_Agapito Jos_e_act__spc_A_act_gato Jos_e_act__spc_Albano Jos_e_act__spc_Alberto Jos_e_act__spc_Ambr_o_act_sio Jos_e_act__spc_Andr_e_act_ Jos_e_act__spc_Arcanjo Jos_e_act__spc_Barnab_e_act_ Jos_e_act__spc_Bento Jos_e_act__spc_Bernardo Jos_e_act__spc_Bonif_a_act_cio Jos_e_act__spc_Calisto Jos_e_act__spc_Casimiro Jos_e_act__spc_Catarino Jos_e_act__spc_Cec_i_act_lio Jos_e_act__spc_Clemente Jos_e_act__spc_Cirilo Jos_e_act__spc_Davi Jos_e_act__spc_Eleut_e_act_rio Jos_e_act__spc_Estev_a_tld_o Jos_e_act__spc_Fabiano Jos_e_act_spc__Filisberto Jos_e_act__spc_Hil_a_act_rio Jos_e_act__spc_Ov_i_act_dio Jos_e_act__spc_In_a_act_cio Jos_e_act__spc_Inoc_e_hat_ncio Jos_e_act__spc_Irineu Jos_e_act__spc_Jo_a_tld_o Jos_e_act__spc_de_spc_Arimat_e_act_ia Jos_e_act__spc_Tadeu Jos_e_act__spc_Leonardo Jos_e_act__spc_Leopoldo Jos_e_act__spc_Gonzaga Jos_e_act__spc_Maur_i_act_cio Jos_e_act__spc_Nic_e_foro Jos_e_act__spc_Osvaldo Jos_e_act__spc_Quirino Jos_e_act__spc_Roque Jos_e_act__spc_Serafim Jos_e_act__spc_Cupido Jos_e_act__spc_Tarc_i_act_sio Jos_e_act__spc_Tar_a_act_sio
 		}
 		female_names = {
 			Maria_Jos_e_act_
@@ -1673,17 +1665,15 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = african
-	2 = caucasian
-	8 = mediterranean
-	60 = med_indigenous
-	5 = white_indigenous
-	5 = black_white
-	10 = black_indigenous
-	10 = med_black_ind
-}
-
-
+			10 = african
+			2 = caucasian
+			8 = mediterranean
+			60 = med_indigenous
+			5 = white_indigenous
+			5 = black_white
+			10 = black_indigenous
+			10 = med_black_ind
+		}
 	}
 	ilheense = {
 		graphical_cultures = {
@@ -1889,17 +1879,15 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	20 = african
-	5 = caucasian
-	15 = mediterranean
-	25 = med_indigenous
-	5 = white_indigenous
-	5 = black_white
-	5 = black_indigenous
-	20 = med_black_ind
-}
-
-
+			20 = african
+			5 = caucasian
+			15 = mediterranean
+			25 = med_indigenous
+			5 = white_indigenous
+			5 = black_white
+			5 = black_indigenous
+			20 = med_black_ind
+		}
 	}
 	geralista = {
 		graphical_cultures = {
@@ -2233,18 +2221,16 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	9 = african
-	5 = arab
-	10 = caucasian
-	30 = mediterranean
-	5 = med_indigenous
-	20 = black_white
-	1 = white_asian
-	5 = black_indigenous
-	15 = med_black_ind
-}
-
-
+			9 = african
+			5 = arab
+			10 = caucasian
+			30 = mediterranean
+			5 = med_indigenous
+			20 = black_white
+			1 = white_asian
+			5 = black_indigenous
+			15 = med_black_ind
+		}
 	}
 	veredista = {
 		graphical_cultures = {
@@ -2451,18 +2437,16 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	9 = african
-	5 = arab
-	10 = caucasian
-	30 = mediterranean
-	5 = med_indigenous
-	20 = black_white
-	1 = white_asian
-	5 = black_indigenous
-	15 = med_black_ind
-}
-
-
+			9 = african
+			5 = arab
+			10 = caucasian
+			30 = mediterranean
+			5 = med_indigenous
+			20 = black_white
+			1 = white_asian
+			5 = black_indigenous
+			15 = med_black_ind
+		}
 	}
 	semuarense = {
 		graphical_cultures = {
@@ -2799,18 +2783,16 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	5 = caucasian
-	5 = mediterranean
-	5 = amazonian
-	50 = med_indigenous
-	5 = white_indigenous
-	5 = black_white
-	5 = black_indigenous
-	15 = med_black_ind
-}
-
-
+			5 = african
+			5 = caucasian
+			5 = mediterranean
+			5 = amazonian
+			50 = med_indigenous
+			5 = white_indigenous
+			5 = black_white
+			5 = black_indigenous
+			15 = med_black_ind
+		}
 	}
 	parnaiba = {
 		graphical_cultures = {
@@ -3079,17 +3061,15 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	20 = caucasian
-	25 = mediterranean
-	10 = med_indigenous
-	10 = white_indigenous
-	5 = black_white
-	10 = black_indigenous
-	15 = med_black_ind
-}
-
-
+			5 = african
+			20 = caucasian
+			25 = mediterranean
+			10 = med_indigenous
+			10 = white_indigenous
+			5 = black_white
+			10 = black_indigenous
+			15 = med_black_ind
+		}
 	}
 	franciscano = {
 		graphical_cultures = {
@@ -3645,16 +3625,14 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = african
-	2 = caucasian
-	8 = mediterranean
-	60 = med_indigenous
-	5 = white_indigenous
-	15 = black_white
-	10 = black_indigenous
-}
-
-
+			10 = african
+			2 = caucasian
+			8 = mediterranean
+			60 = med_indigenous
+			5 = white_indigenous
+			15 = black_white
+			10 = black_indigenous
+		}
 	}
 	pataxo = {
 		graphical_cultures = {
@@ -3708,15 +3686,13 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	5 = mediterranean
-	30 = lagid
-	5 = med_indigenous
-	5 = black_indigenous
-	50 = med_black_ind
-}
-
-
+			5 = african
+			5 = mediterranean
+			30 = lagid
+			5 = med_indigenous
+			5 = black_indigenous
+			50 = med_black_ind
+		}
 	}
 	sergipano = {
 		graphical_cultures = {
@@ -3770,17 +3746,15 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	5 = caucasian
-	5 = mediterranean
-	5 = amazonian
-	50 = med_indigenous
-	5 = white_indigenous
-	15 = black_white
-	10 = black_indigenous
-}
-
-
+			5 = african
+			5 = caucasian
+			5 = mediterranean
+			5 = amazonian
+			50 = med_indigenous
+			5 = white_indigenous
+			15 = black_white
+			10 = black_indigenous
+		}
 	}
 	alagoano = {
 		graphical_cultures = {
@@ -3834,17 +3808,15 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	5 = caucasian
-	5 = mediterranean
-	5 = amazonian
-	50 = med_indigenous
-	5 = white_indigenous
-	15 = black_white
-	10 = black_indigenous
-}
-
-
+			5 = african
+			5 = caucasian
+			5 = mediterranean
+			5 = amazonian
+			50 = med_indigenous
+			5 = white_indigenous
+			15 = black_white
+			10 = black_indigenous
+		}
 	}
 	ludovicense = {
 		graphical_cultures = {
@@ -4113,16 +4085,14 @@ nordestino_group = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	5 = african
-	5 = caucasian
-	5 = mediterranean
-	5 = amazonian
-	50 = med_indigenous
-	5 = white_indigenous
-	15 = black_white
-	10 = black_indigenous
-}
-
-
+			5 = african
+			5 = caucasian
+			5 = mediterranean
+			5 = amazonian
+			50 = med_indigenous
+			5 = white_indigenous
+			15 = black_white
+			10 = black_indigenous
+		}
 	}
 }
