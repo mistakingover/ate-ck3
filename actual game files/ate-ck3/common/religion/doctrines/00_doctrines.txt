@@ -568,6 +568,19 @@ doctrine_gender = {
 			combatant_can_be_either_gender = yes
 		}
 	}
+	doctrine_gender_varied_domination = {
+		piety_cost = {
+			value = faith_doctrine_cost_high
+			if = {
+				limit = { has_doctrine = doctrine_gender_varied_domination }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+		parameters = {
+			gender_varied_law = yes
+			combatant_can_be_either_gender = yes
+		}
+	}
 	doctrine_gender_female_dominated = {
 		is_shown = {
 			NOT = { has_game_rule = full_gender_equality }

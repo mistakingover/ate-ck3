@@ -1088,6 +1088,44 @@
 		}
 	}
 
+	tenet_horrors_of_the_plains = {
+		icon = core_tenet_adorcism
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = llanoism_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			select_machete_spells_active = yes
+		}
+	}
+
+	tenet_songs_of_machete = {
+		icon = core_tenet_festivities
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = llanoism_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			enable_contrapunteo_interaction = yes
+		}
+	}
+
 	#############################################################
 	
 	tenet_aniconism = {

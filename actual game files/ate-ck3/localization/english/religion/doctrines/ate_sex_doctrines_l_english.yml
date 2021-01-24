@@ -2,3 +2,6 @@
 
  doctrine_homosexuality_shunned_name:1 "Indifferent"
  doctrine_homosexuality_shunned_desc:0 "Marriage exists between a man and a woman, but it is not our place to judge what happens between two people in the privacy of the bedroom."
+ doctrine_gender_varied_domination_name:0 "Varied Domination"
+ doctrine_gender_varied_domination_desc:0 "Men and Women have struggled since time immemorial for control over society, and while the power balance between them might shift, peace and equality might never be achieved."
+ doctrine_parameter_gender_varied_law:0 "Enables [laws|E]: [GetLaw('male_only_law').GetName], [GetLaw('male_preference_law').GetName], ,[GetLaw('female_preference_law').GetName], and [GetLaw('female_only_law').GetName] Succession"
