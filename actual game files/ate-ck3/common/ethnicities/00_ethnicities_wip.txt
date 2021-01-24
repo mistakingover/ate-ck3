@@ -1,10 +1,10 @@
 
 northwest = {
- template = "mesoamerican"
+ template = "base_amerindian"
 }
 
 amerindian = {
- template = "mesoamerican"
+ template = "base_amerindian"
 }
 
 #mesoamerican = {
@@ -70,7 +70,7 @@ med_indigenous = {
 }
 
 white_indigenous = {
- template = "mesoamerican"
+ template = "base_amerindian"
  
 	skin_color = {
 		10 = { 0 0.55 0.2 0.65 }
