@@ -140,12 +140,12 @@
 ;d_laurentides;46;76;188;;;;Laurentides;;;
 ;d_outaouais;240;240;220;;;;Outaouais;;;
 ;k_maritimes;49;70;133;;;;The Maritimes;;;
-;d_new_brunswick;232;180;0;;;;New Brunswick;;;
+#;d_new_brunswick;232;180;0;;;;New Brunswick;;;
 ;d_petitcodiac;185;207;184;;;;Petitcodiac;;;
 ;d_miramichi;202;49;16;;;;Miramichi;;;
 ;d_restigouche;140;210;225;;;;Restigouche;;;
 ;d_madeleine_islands;70;180;50;;;;Madeleine Islands;;;
-;d_prince_edward_island;34;177;76;;;;Prince Edward Island;;;
+#;d_prince_edward_island;34;177;76;;;;Prince Edward Island;;;
 ;d_north_nova;46;85;177;;;;North Nova;;;
 ;d_nova_scotia;20;80;162;;;;Nova Scotia;;;
 ;d_cape_breton;100;80;162;;;;Cape Breton;;;
@@ -724,7 +724,7 @@
 ;d_alberta;54;160;244;;;;Alberta;;;
 ;k_manitoba;150;177;50;;;;Manitoba;;;
 ;d_winnipeg;71;33;0;;;;Winnipeg;;;
-;d_kenora;215;139;114;;;;Kenora;;;
+#;d_kenora;215;139;114;;;;Kenora;;;
 ;d_parkland;215;139;114;;;;Parkland;;;
 ;k_lakotah;165;0;33;;;;Lakotah;;;
 ;d_minnesota;75;0;130;;;;Minnesota;;;
