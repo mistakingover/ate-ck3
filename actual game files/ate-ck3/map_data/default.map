@@ -9,8 +9,8 @@ geographical_region = "geographical_region.txt"
 seasons = "seasons.txt"
 
 
-sea_zones = RANGE { 9626 10135 }
-lakes = RANGE { 10136 10228 }
-river_provinces = RANGE { 10229 10570 }
+sea_zones = RANGE { 9625 10134 }
+lakes = RANGE { 10135 10227 }
+river_provinces = RANGE { 10228 10569 }
 impassable_seas = RANGE { 11544 11549 }
-impassable_mountains = RANGE { 10571 11543 }
+impassable_mountains = RANGE { 10570 11543 }
