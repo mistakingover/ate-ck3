@@ -1256,6 +1256,69 @@ accessory_genes = {
 			girl = female
 		}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###################################################
+###################################################
+###					After the End				###
+###################################################
+###################################################
+
+
+
+		andean_commoner = {
+			index = 68
+
+			male = {
+				2 = male_clothes_secular_andean_nobility_01_common
+				2 = male_clothes_secular_andean_nobility_02_common
+			}
+
+			female = male
+
+			boy = male
+			girl = female
+		}
+		andean_low = {
+			index = 69
+
+			male = {
+				2 = male_clothes_secular_andean_nobility_01_low
+				2 = male_clothes_secular_andean_nobility_02_low
+			}
+
+			female = male
+
+			boy = male
+			girl = female
+		}
+		andean_high = {
+			index = 70
+
+			male = {
+				2 = male_clothes_secular_andean_nobility_01_high
+				2 = male_clothes_secular_andean_nobility_02_high
+			}
+
+			female = male
+
+			boy = male
+			girl = female
+		}
 	}
 }
 

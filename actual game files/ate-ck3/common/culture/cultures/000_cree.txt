@@ -1,0 +1,85 @@
+﻿cree_group = {
+graphical_cultures = {
+	cree_group_gfx
+	plains_group_gfx
+	steppe_building_gfx
+	mongol_clothing_gfx
+	mongol_unit_gfx
+}
+	
+	plains_cree = {
+		graphical_cultures = {
+			plains_cree_coa_gfx
+		}
+		
+		color = { 0.3 0.4 0.9 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			10 = pacifid
+			5 = mesoamerican
+			85 = amerindian
+		}
+	}
+	woodland_cree = {
+		graphical_cultures = {
+			woodlands_group_gfx
+			woodland_cree_coa_gfx
+		}
+		
+		color = rgb { 10 221 15 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			10 = pacifid
+			5 = mesoamerican
+			85 = amerindian
+		}
+	}
+}
