@@ -180,6 +180,7 @@ d_uintah = {
 		texture = "ce_uintah_feathers.dds"
 		color1 = "brown"
 		color2 = "yellow_light"
+		color3 = "white"
 		instance = { position = { 0.5 0.625 } scale = { 0.742 0.742 }  }
 	}
 }

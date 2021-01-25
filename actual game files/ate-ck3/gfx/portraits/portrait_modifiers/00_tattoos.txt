@@ -1,0 +1,22 @@
+﻿tattoos = {
+	interface_position = 5
+	usage = game
+
+	kaiapo_tattoos = {
+		dna_modifiers = {
+			morph = {
+				mode = add				
+				gene = gene_face_tattoos
+				template = face_tattoo_kaiapo
+				range = { 0.0 1.0 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				culture = culture:kayapo
+			}
+		}
+	}
+}

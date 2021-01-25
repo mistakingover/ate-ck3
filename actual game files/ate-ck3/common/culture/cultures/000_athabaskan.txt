@@ -1,0 +1,430 @@
+﻿cree_group = {
+graphical_cultures = {
+	cree_group_gfx
+	steppe_building_gfx
+	mongol_clothing_gfx
+	mongol_unit_gfx
+}
+	
+	denesuline = {
+		graphical_cultures = {
+			denesuline_coa_gfx
+		}
+		
+		color = { 0.71 0.31 0.58 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	tlicho = {
+		graphical_cultures = {
+			tlicho_coa_gfx
+		}
+		
+		color = { 0.68 0.28 0.58 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	sahtu = {
+		graphical_cultures = {
+			sahtu_coa_gfx
+		}
+		
+		color = { 0.71 0.41 0.57 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	deh_cho = {
+		graphical_cultures = {
+			deh_cho_coa_gfx
+		}
+		
+		color = { 0.69 0.29 0.60 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	kaska = {
+		graphical_cultures = {
+			kaska_coa_gfx
+		}
+		
+		color = { 0.73 0.29 0.53 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	gwichin = {
+		graphical_cultures = {
+			gwichin_coa_gfx
+		}
+		
+		color = { 0.65 0.30 0.61 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	koyukon = {
+		graphical_cultures = {
+			koyukon_coa_gfx
+		}
+		
+		color = { 0.73 0.30 0.51 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+			25 = caucasian_blond
+			15 = caucasian_ginger
+			35 = caucasian_brown_hair
+			25 = caucasian_dark_hair
+		}
+	}
+	shuswap = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.55 0.15 0.60 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+	}
+	dakelh = {
+
+		ethnicities = {
+			25 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			35 = caucasian_northern_brown_hair
+			25 = caucasian_northern_dark_hair
+		}
+		color = { 0.68 0.3 0.57 }
+
+		cadet_dynasty_names = {
+			
+		}
+		dynasty_names = {
+			"dynn_Anaskaski"
+			"dynn_C_pst_ilhts_pst_ekhyu"
+			"dynn_Cahoose"
+			"dynn_Capoose"
+			"dynn_Cas_Yikh"
+			"dynn_Cenegeh"
+			"dynn_Charleyboy"
+			"dynn_Cheslatta"
+			"dynn_Coryatsaqua"
+			"dynn_Creyke"
+			"dynn_Dzlik_pst_en"
+			"dynn_Frederick"
+			"dynn_George"
+			"dynn_Gilseyhu"
+			"dynn_Gitumden"
+			"dynn_Glaim"
+			"dynn_Hagwilget"
+			"dynn_Jack"
+			"dynn_John"
+			"dynn_Klagookchew"
+			"dynn_Kwen-Beegh-Yex"
+			"dynn_Laksamshu"
+			"dynn_Laksilyu"
+			"dynn_Lebrun"
+			"dynn_Leween"
+			"dynn_Lheit-Li_pst_ten"
+			"dynn_Lhoosk_pst_uz"
+			"dynn_Louis"
+			"dynn_Luggy"
+			"dynn_Lusilyoo"
+			"dynn_Michell"
+			"dynn_Misdee"
+			"dynn_Morrice"
+			"dynn_Nadleh_Whut_pst_en"
+			"dynn_Nak_pst_azdlit_pst_en"
+			"dynn_Nat_pst_oot_pst_en"
+			"dynn_Naziel"
+			"dynn_Nazko"
+			"dynn_Necha-Koh"
+			"dynn_Nee-Tahi-Buhn"
+			"dynn_Patrick"
+			"dynn_Ridsdale"
+			"dynn_Saik_pst_uz"
+			"dynn_Skin_Tyee"
+			"dynn_Stellat_pst_en"
+			"dynn_Tanizul"
+			"dynn_Teegee"
+			"dynn_Teeslee"
+			"dynn_Tibbett"
+			"dynn_Tl_pst_azt_pst_en"
+			"dynn_Tsayu"
+			"dynn_Tsekalbaiyex"
+			"dynn_Tsichgass"
+			"dynn_Tsil_Kaz_Koh"
+			"dynn_Ulkatcho"
+			"dynn_Unist_pst_ot_pst_en"
+			"dynn_Wet_pst_suwet_pst_en"
+			"dynn_Yekoo-Che"
+			"dynn_Yekooche"
+			"dynn_Yex_T_pst_sawilk_pst_us"
+		}
+
+		male_names = {
+			Booscho
+			Chan Chundoo Chunih Chunihcho Chunihcho_John Chuntoh_Lhi Chuntsi Clifford
+			Dadzi Dagha_George Daltsi Dats_pst_ooz Datsan Datsancho Delgamuukw Dempsey Denyo Ditnik Ditnik__pst_Oolhges Dluk Duch_pst_ukw_Charlie Duchundulhkw_pst_uz Dulkw_pst_ah Dune_Ed Duni Duni_Herb Dzuh
+			Edward
+			Ges Gisday_pst_wa Goozih_Ken Guks_pst_dadeluk Gwuzeh
+			Hagwilnegh Harv_Kw_pst_ut Hoolht_pst_o Hoonliz_Ryan
+			Jatsun
+			K_pst_ani K_pst_anotz K_pst_aza K_pst_azba_Dan K_pst_unalhduz K_pst_us Khoh Kloum_Khun Knedebeas Kw_pst_eh
+			Lhi Lhk_pst_ena_pst_oots_pst_i Lhkwencho Lhuyul Louie_Billy Lyle
+			Madeek Mhutt_pst_ Musdzoonbai
+			N_pst_kwala Namoks Nanguz Nanguz_Ted Nilhts_pst_i Nondeti_Charlie Noolh_pst_utughih Noostel_Dominic Nuhbai Nulhdzook Nyiz_Ted
+			Oodzi_Unzoo_Bert
+			Sa Samooh Sbalyan Shas Shas_Doug Soh_Jim Sooh Stan_Nikal Susyaz
+			Talook Te_pst_unila Teh_Dulkw_pst_ah Tl_pst_ok_pst_ut Ts_pst_oochun Ts_pst_usgakyaz Tsa Tsa_Charlie Tsabai Tsaluk_George Tsibalyan_Charlie Tsich_pst_ul Tsil Tulk_pst_us Tuwul
+			Ulhtus_Dan
+			Wah_Tah_K_pst_eght Warner Wasi Wasi_Alec Whudzih Whudzih_Archie William Woos
+			Yests_pst_e Yus
+			_pst_A_Jim _pst_Ukailch_pst_oh _pst_Ulhti _pst_Usbai _pst_Usbai_Brett _pst_Ut_pst_an _pst_Utsut_Russell _pst_Uyoo_Unli_Ed
+		}
+
+		female_names = {
+			Besk_pst_i Boos
+			C_pst_tan Chan Chunih Chuntulhi_Maggie
+			Dadzi Dats_pst_ooz Datsan Datsan_Linda Datsancho Delh_Sandra Delhba Dih Dihcho Dihcho_Hazel Ditnik Ditnikwun Dluk Duni_pst_at Dzulh_Breanna
+			Ggodzu_pst_git Goohlht
+			Hoolht_pst_o
+			Jatsun
+			K_pst_azba K_pst_unalhduz K_pst_us Khoh Khuda_Ts_pst_e_Laura Kw_pst_ut_Danielle
+			Lhk_pst_ena_pst_oots_pst_i Liloos
+			Mary Musdziyaz_Mary Musdzoonbai
+			Nachenisboo_pst__Sarah Nilhts_pst_i Nuhbai Nulhdzook Nyiz_Nancy
+			Oodzi_Unzoo_Betty
+			Rose
+			Sa Sa_pst_indak Sooh Sus Susyaz
+			Talook Tl_pst_ok_pst_ut Ts_pst_incho Ts_pst_oochun Ts_pst_usgakyaz Tsa Tsabai Tsagwulht_pst_aih Tsangwulht_pst_ah_Mary Tsil Tsuncho_Gertie Tuwul
+			Ulhtus_Ellen
+			Wal_pst_aat Wasi Wedleow Whe_pst_unanguz Whenun Whudzih Whus_pst_indak Wiihanxsim Wilowh
+			Yests_pst_e
+			_pst_Indak _pst_Uschas _pst_Ut_pst_an
+		}
+		dynasty_of_location_prefix = ""
+
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+	}
+}

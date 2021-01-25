@@ -1,0 +1,49 @@
+@neg1_min = 0.4
+@neg1_max = 0.5
+
+@neg2_min = 0.3
+@neg2_max = 0.4
+
+@neg3_min = 0.1
+@neg3_max = 0.3
+
+@pos1_min = 0.5
+@pos1_max = 0.6
+
+@pos2_min = 0.6
+@pos2_max = 0.7
+
+@pos3_min = 0.7
+@pos3_max = 0.9
+
+@beauty1min = 0.35
+@beauty1max = 0.65
+
+@beauty2min = 0.4
+@beauty2max = 0.6
+
+@beauty3min = 0.45
+@beauty3max = 0.55
+
+@blend1min = 0.0
+@blend1max = 0.2
+
+@blend2min = 0.2
+@blend2max = 0.5
+
+@blend3min = 0.5
+@blend3max = 0.8
+
+amazonian = {
+	template = "asian"
+	 skin_color = {
+	 	10 = { 0.59 0.65 0.64 0.73 }
+	}
+	hairstyles = {
+	    10 = { name = steppe_hairstyles          range = { 0.0 1.0 } }
+	}
+	beards = {
+	    10 = { name = no_beard          range = { 0.0 1.0 } }
+	}
+
+} 

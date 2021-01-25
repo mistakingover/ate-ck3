@@ -8,7 +8,7 @@ pdxmesh = {
 		texture_diffuse = "male_headgear_secular_inca_royal_02_diffuse.dds"
 		texture_normal = "male_headgear_secular_inca_royal_02_normal.dds"
 		texture_specular = "male_headgear_secular_inca_royal_02_properties.dds"
-		shader = "portrait_attachment"
+		shader = "portrait_attachment_alpha_to_coverage"
 		shader_file = "gfx/FX/jomini/portrait.shader"
 	}
 }

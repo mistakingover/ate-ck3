@@ -1004,11 +1004,47 @@ accessory_genes = {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ######################################################################################################
 #																	 								 #
 #          A  F  T  E  R           T  H  E          E  N  D          H  E  A  D  G  E  A  R          #
 #																									 #
 ######################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1126,6 +1162,277 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_haida_war
 				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		
+		
+		americanist_common = {
+			index = 81
+			male = {
+				1 = male_headgear_secular_ate_americanist_common_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		americanist_low_nobility = {
+			index = 82
+			male = {
+				1 = male_headgear_secular_ate_americanist_low_nobility_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		americanist_high_nobility = {
+			index = 83
+			male = {
+				1 = male_headgear_secular_ate_americanist_high_nobility_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		americanist_royalty = {
+			index = 84
+			male = {
+				1 = male_headgear_secular_ate_americanist_royalty_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		
+		
+		
+		cowboy_common = {
+			index = 85
+			male = {
+				1 = male_headgear_secular_ate_cowboy_common_01
+				1 = male_headgear_secular_ate_cowboy_common_02
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cowboy_low_nobility = {
+			index = 86
+			male = {
+				1 = male_headgear_secular_ate_cowboy_low_nobility_01
+				1 = male_headgear_secular_ate_cowboy_low_nobility_02
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cowboy_high_nobility = {
+			index = 87
+			male = {
+				1 = male_headgear_secular_ate_cowboy_high_nobility_01
+				1 = male_headgear_secular_ate_cowboy_high_nobility_02
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cowboy_royalty = {
+			index = 88
+			male = {
+				1 = male_headgear_secular_ate_cowboy_royalty_01
+				1 = male_headgear_secular_ate_cowboy_royalty_02
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cowboy_imperial = {
+			index = 89
+			male = {
+				1 = male_headgear_secular_ate_cowboy_imperial_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		
+		
+		
+		woodland_native_nobility = {
+			index = 90
+			male = {
+				1 = male_headgear_secular_ate_woodland_native_nobility_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		woodland_native_high_nobility = {
+			index = 91
+			male = {
+				1 = male_headgear_secular_ate_woodland_native_high_nobility_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		woodland_native_royalty = {
+			index = 92
+			male = {
+				1 = male_headgear_secular_ate_woodland_native_royalty_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		woodland_native_imperial = {
+			index = 93
+			male = {
+				1 = male_headgear_secular_ate_woodland_native_imperial_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		
+		
+		
+		plains_native_nobility = {
+			index = 94
+			male = {
+				1 = male_headgear_secular_ate_plains_native_nobility_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		plains_native_high_nobility = {
+			index = 95
+			male = {
+				1 = male_headgear_secular_ate_plains_native_high_nobility_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		plains_native_royalty = {
+			index = 96
+			male = {
+				1 = male_headgear_secular_ate_plains_native_royalty_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		plains_native_imperial = {
+			index = 97
+			male = {
+				1 = male_headgear_secular_ate_plains_native_imperial_01
+				
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		
+		
+		
+		cangaco_common = {
+			index = 98
+			male = {
+				1 = male_headgear_secular_cangaco_commoner_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cangaco_low_nobility = {
+			index = 99
+			male = {
+				1 = male_headgear_secular_cangaco_low_nobility_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cangaco_high_nobility = {
+			index = 100
+			male = {
+				1 = male_headgear_secular_cangaco_high_nobility_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		cangaco_royalty = {
+			index = 101
+			male = {
+				1 = male_headgear_secular_cangaco_royalty_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		
+		
+		amazonian_common = {
+			index = 102
+			male = {
+				1 = male_headgear_secular_amazonian_common_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		amazonian_low_nobility = {
+			index = 103
+			male = {
+				1 = male_headgear_secular_amazonian_low_nobility_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		amazonian_high_nobility = {
+			index = 104
+			male = {
+				1 = male_headgear_secular_amazonian_high_nobility_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		amazonian_royalty = {
+			index = 105
+			male = {
+				1 = male_headgear_secular_amazonian_royalty_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
+		amazonian_imperial = {
+			index = 106
+			male = {
+				1 = male_headgear_secular_amazonian_imperial_01
 			}
 			female = male
 			boy = male
