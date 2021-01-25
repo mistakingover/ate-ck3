@@ -41,7 +41,7 @@ graphical_cultures = {
 			"dynn_Cu_e_act_llar"
 			"dynn_Daza"
 			"dynn_Dorado"
-			"dynn_E_act_g_u_act_ez"
+			"dynn_E_act_g_u_uml_ez"
 			"dynn_Echaz_u_act_"
 			"dynn_Escalera"
 			"dynn_Ferrier"
@@ -232,6 +232,7 @@ graphical_cultures = {
 			"dynn_Ballivi_a_act_n"
 			"dynn_Bascop_e_act_"
 			"dynn_Bautista"
+			"dynn_Bedregal"
 			"dynn_Blanco"
 			"dynn_C_a_act_ceres"
 			"dynn_Calder_o_act_n"
@@ -249,7 +250,6 @@ graphical_cultures = {
 			"dynn_Choque"
 			"dynn_Choquehuanca"
 			"dynn_Chorolque"
-			"dynn_Chumacero"
 			"dynn_Chuquimia"
 			"dynn_Chura"
 			"dynn_Coaquira"
@@ -266,7 +266,6 @@ graphical_cultures = {
 			"dynn_Espejo"
 			"dynn_Ferril"
 			"dynn_Ger_o_act_n"
-			"dynn_Guarachi"
 			"dynn_Guiti_a_act_n"
 			"dynn_Huallpa"
 			"dynn_Huanca"
@@ -331,13 +330,49 @@ graphical_cultures = {
 			"dynn_Villegas"
 			"dynn_Yana"
 			"dynn_Yujra"
+			"dynn_Zuazo"
 		}
 
 		male_names = {
-			"kolla_placeholder_mnames"
+			A_act_lvaro Abd_o_act_n Adolfo Alberto Andr_e_act_s
+			Braulio
+			C_e_act_sar Carlos Casimiro Cecilio
+			Dar_i_act_o David Diego
+			Edgar Edmundo Edson Eduardo Edwin Enrique Erwin Evo Esteban
+			F_e_act_lix Federico Felipe Fernando Francisco
+			Gabriel Gonzalo
+			H_e_act_ctor
+			Ildefonso Isa_i_act_as Iv_a_act_n
+			Jaime Javier Jes_u_act_s Jorge Jos_e_act_ Jos_e_act__Luis Jos_e_act__Mar_i_act_a Juan Juan_Carlos Julio
+			Ladislao Luis
+			Manuel Marcelo Marcos Mariano Mario Mauricio Miguel Milton
+			Nicol_a_act_s
+			O_act_scar Omar
+			Pablo Pedro
+			Ra_u_act_l Rafael Ren_e_act_ Ricardo Roberto Rodolfo Rodrigo Ronald Rufino
+			Santos Sebasti_a_act_n Sergio Sim_o_act_n
+			V_i_act_ctor V_i_act_ctor_Hugo Vladimir
+			Walter Wilson
+			Zen_o_act_n
 		}
 		female_names = {
-			"kolla_placeholder_fnames"
+			A_act_ngela Adela Alicia Ana Ana_Luc_i_act_a Ana_Mar_i_act_a Ana_Paula Andrea
+			Beatriz Blanca
+			Carla Casimira Cecilia Claudia
+			Daniela Diana
+			Elena Elvira Erica Esther
+			Gabriela Griselda
+			Hilda
+			In_e_act_s Isabel
+			Jessica Julia Julieta
+			Laura Lidia Liliana Luc_i_act_a Luciana Luisa
+			Mar_i_act_a Mar_i_act_a_Cecilia Mar_i_act_a_Elena Mar_i_act_a_Laura Mar_i_act_a_Teresa Marcela Margarita Mariana
+			Nila
+			Paula
+			Rilda Rosa Rosario
+			Sandra Sara Silvia Sonia
+			Virginia
+			Zulma
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
@@ -478,17 +513,160 @@ graphical_cultures = {
 		color = { 0.76 0.56 0.38 }
 
 		cadet_dynasty_names = {
-					"dynn_aymara_placeholder"
+			"dynn_"
 		}
 		dynasty_names = {
-					"dynn_aymara_placeholder"
+			"dynn_Acarapi"
+			"dynn_Achata"
+			"dynn_Aduviri"
+			"dynn_Alanoca"
+			"dynn_Alave"
+			"dynn_Ancasi"
+			"dynn_Apaza"
+			"dynn_Ayca"
+			"dynn_Ayma"
+			"dynn_Ca_n_tld_asaca"
+			"dynn_Callahuanca"
+			"dynn_Calle"
+			"dynn_Calizaya"
+			"dynn_Calsina"
+			"dynn_Canaviri"
+			"dynn_Capaja_n_tld_a"
+			"dynn_Cari"
+			"dynn_Carvajal"
+			"dynn_Catacora"
+			"dynn_Chacolla"
+			"dynn_Challo"
+			"dynn_Chambi"
+			"dynn_Chambilla"
+			"dynn_Chicolla"
+			"dynn_Chimpani"
+			"dynn_Chipana"
+			"dynn_Chiri"
+			"dynn_Choque"
+			"dynn_Choquechambe"
+			"dynn_Choquehuanca"
+			"dynn_Chumacero"
+			"dynn_Chuquimia"
+			"dynn_Chura"
+			"dynn_Churata"
+			"dynn_Coaquira"
+			"dynn_Coasaca"
+			"dynn_Cocarico"
+			"dynn_Colque"
+			"dynn_Condori"
+			"dynn_Copa"
+			"dynn_Cori"
+			"dynn_Costas"
+			"dynn_Curo"
+			"dynn_Cusi"
+			"dynn_Cusicanqui"
+			"dynn_Cusipuma"
+			"dynn_Cutipa"
+			"dynn_Escalante"
+			"dynn_Guarachi"
+			"dynn_H_i_act_lari"
+			"dynn_Huacoto"
+			"dynn_Huallpa"
+			"dynn_Huanacuni"
+			"dynn_Huanca"
+			"dynn_Huarachi"
+			"dynn_Huayhua"
+			"dynn_Huaylla"
+			"dynn_Huayllani"
+			"dynn_Huayta"
+			"dynn_Huisa"
+			"dynn_Limachi"
+			"dynn_Loza"
+			"dynn_Luna"
+			"dynn_Machaca"
+			"dynn_Mamani"
+			"dynn_Maquera"
+			"dynn_Mayta"
+			"dynn_Mita"
+			"dynn_Morales"
+			"dynn_Nina"
+			"dynn_Orosco"
+			"dynn_Pacaje"
+			"dynn_Paco"
+			"dynn_Palomino"
+			"dynn_Paredes"
+			"dynn_Patzi"
+			"dynn_Poma"
+			"dynn_Quelca"
+			"dynn_Quilca"
+			"dynn_Quisbert"
+			"dynn_Quispe"
+			"dynn_Racua"
+			"dynn_Ramos"
+			"dynn_Sajama"
+			"dynn_Salluca"
+			"dynn_Sanjin_e_act_s"
+			"dynn_Segal_e_act_s"
+			"dynn_Si_n_tld_ani"
+			"dynn_Silvestre"
+			"dynn_Sirpa"
+			"dynn_Sucacahua"
+			"dynn_Surco"
+			"dynn_Tancara"
+			"dynn_Tarqui"
+			"dynn_Ticlle"
+			"dynn_Ticona"
+			"dynn_Tinta"
+			"dynn_Tintaya"
+			"dynn_Tito"
+			"dynn_Tupa"
+			"dynn_Villca"
+			"dynn_Villcamiza"
+			"dynn_Villcarani"
+			"dynn_Yampara"
+			"dynn_Yana"
+			"dynn_Yllanes"
+			"dynn_Yucra"
+			"dynn_Yujra"
+			"dynn_Z_a_act_rate"
+			"dynn_Z_u_act__n_tld_iga"
 		}
 
 		male_names = {
-			"aymara_placeholder_mnames"
+			A_act_ngel Adelio Adri_a_act_n Agust_i_act_n Albino Alcides Alejandro Alfonso Am_e_act_rico Anacleto Anastasio Andr_e_act_s Aniceto Antonio Armando Arturo
+			Belisario Bernardino Bonifacio
+			C_e_act_sar Calixto Carlos Casiano Celso Cipriano Cirilo Ciro Constancio Cupertino
+			Daniel David Dionisio Domingo Donato
+			Eliodoro Emeterio Emilio Erasmo Eugenio Eusabio Evo
+			F_e_act_lix Facundo Faustino Feliciano Felipe Fernando Flavio Francisco Froli_a_act_n Fusciano
+			Germ_a_act_n Geroncio Gualberto
+			H_e_act_ctor Hermes Hern_a_act_n Horacio
+			Jorge Jos_e_act_ Jos_e_act__Antonio Jos_e_act__Luis Jos_e_act__Mar_i_act_a Jos_e_act__Miguel Juan Juan_Carlos Juli_a_act_n Julio Julio_Antonio Julio_C_e_act_sar Justo Juvenal
+			Le_o_act_nidas Liborio Lucio Luis
+			M_a_act_ximo Macario Manuel Marcelino Marcelo Marcial Marco Marco_Antonio Mariano Mario Mauricio Miguel
+			N_e_act_stor Nemesio Nicol_a_act_s
+			O_act_scar Octavio
+			Patricio Pedro Porfirio Praxides Primitivo
+			R_e_act_gulo Rafael Ram_o_act_n Ramiro Rogelio
+			Saturnino Seferino Serapio Sergio Sim_o_act_n
+			Ulises
+			V_i_act_ctor V_i_act_ctor_Hugo Valent_i_act_n Valeriano Vicente
 		}
 		female_names = {
-			"aymara_placeholder_fnames"
+			A_act_ngel Adela Adriana Alcira Amparo Ana Ana_Mar_i_act_a Ana_Teresa Ancelma
+			C_a_act_ndida Camila Carmen Carolina Catalina Cecilia Claudia Cristina
+			Delina
+			Elena Emilia Emiliana Eugenia Eva
+			Felicida Felipa Filomena
+			Gabriela Graciela Gregoria
+			Isabel Isidora
+			Juana Julia Juliana Julieta
+			Lorena Lourdes Loyola Luc_i_act_a Lucila Luisa
+			M_a_act_xima M_e_act_lida M_o_act_nica Mar_i_act_a Mar_i_act_a_Cristina Mar_i_act_a_Eugenia Mar_i_act_a_Teresa Mariana Marina Marta Matilde Mercedes Modesta
+			N_e_act_lida Nicasia Noem_i_act_
+			Patricia Paula Peregrina Pl_a_act_cida
+			Rosario
+			Silvia Sonia Susana
+			Teresa
+			U_act_rsula
+			Ver_o_act_nica Vicenta Victoria Virginia
+			Yolanda
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 
