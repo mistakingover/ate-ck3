@@ -246,22 +246,32 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
-	}
-
-	special_legwear = {
-
 		special_wooden_leg = {
-			index = 0
+			index = 5
 			male = {
 				1 = male_legwear_special_wooden_leg_01
 			}
 			female = {
-				1 = female_legwear_special_wooden_leg_01
+			#	1 = female_legwear_secular_mena_war_nobility_01
+			}
+			boy = male
+			girl = female
+		}
+
+		
+		maxlatl_clothes = {
+			index = 6
+			male = {
+				1 = male_maxlatl_common
+			}
+			female = {
+				1 = female_maxlatl_common
 			}
 			boy = male
 			girl = female
 		}
 	}
+
 
 
 
@@ -290,6 +300,76 @@ accessory_genes = {
 			}
 			female = {
 				1 = female_cloaks_secular_western_royalty_01
+			}
+		}
+		tilmahtli_common = {
+			index = 2
+			male = {
+				1 = male_tilmahtli_common
+			}
+			female = {
+				1 = female_tilmahtli_common
+			}
+		}
+		tilmahtli_low = {
+			index = 3
+			male = {
+				1 = male_tilmahtli_low
+			}
+			female = {
+				1 = female_tilmahtli_low
+			}
+		}
+		tilmahtli_high = {
+			index = 4
+			male = {
+				1 = male_tilmahtli_high
+			}
+			female = {
+				1 = female_tilmahtli_high
+			}
+		}
+		andean_cloak_high = {
+			index = 5
+			male = {
+				1 = male_andean_cloak
+			}
+			female = {
+				1 = female_andean_cloak
+			}
+		}
+	}
+	
+	
+	
+
+#####################################
+#									#
+#		  FACIAL ACCESSORIES		#
+#									#
+#####################################
+
+
+	
+	facial_accessory = {
+		no_facial_accessory = {
+			index = 0
+			male = {
+				1 = empty
+			}
+			female = {
+				1 = empty
+			}
+		}
+		yanomami_piercings = {
+			index = 1
+			male = {
+				1 = male_facial_secular_amazonian_yanomami_01
+				1 = male_facial_secular_amazonian_yanomami_02
+			}
+			female = {
+				1 = female_facial_secular_amazonian_yanomami_01
+				1 = female_facial_secular_amazonian_yanomami_02
 			}
 		}
 	}		

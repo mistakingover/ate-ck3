@@ -1,0 +1,13 @@
+﻿custom_face = {
+	usage = customization
+	interface_position = 5
+	
+	add_accessory_modifiers = {
+		gene = facial_accessory
+		template = no_facial_accessory
+	}
+	add_accessory_modifiers = {
+		gene = facial_accessory
+		template = yanomami_piercings
+	}
+}

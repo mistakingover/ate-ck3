@@ -1,0 +1,22 @@
+﻿custom_face = {
+	interface_position = 5
+	usage = game
+
+	kaiapo_face_tattoos = {
+		dna_modifiers = {
+			accessory = {
+				mode = add				
+				gene = facial_accessory
+				template = yanomami_piercings
+				range = { 0.0 1.0 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 75
+				culture = culture:yanomami
+			}
+		}
+	}
+}

@@ -17,6 +17,32 @@
 		gene = clothes
 		template = andean_high
 	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = cemanahuac_commoner_clothes
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = cemanahuac_low_nobility_clothes
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = cemanahuac_high_nobility_clothes
+	}	
+	maxlatl_common = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = maxlatl_clothes
+            }
+            accessory = {
+				mode = add
+                gene = clothes
+                template = no_clothes
+            }
+        }
+	}
 	
 	
 	

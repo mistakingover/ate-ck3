@@ -2,7 +2,7 @@
 	interface_position = 5
 	usage = game
 
-	kaiapo_tattoos = {
+	kaiapo_face_tattoos = {
 		dna_modifiers = {
 			morph = {
 				mode = add				
@@ -11,11 +11,78 @@
 				range = { 0.0 1.0 }
 			}
 		}
+		dna_modifiers = {
+			morph = {
+				mode = add				
+				gene = gene_body_tattoos
+				template = body_tattoo_kaiapo
+				range = { 0.0 1.0 }
+			}
+		}
 		weight = {
 			base = 0
 			modifier = {
 				add = 200
 				culture = culture:kayapo
+			}
+		}
+	}
+	xingu_face_tattoos = {
+		dna_modifiers = {
+			morph = {
+				mode = add				
+				gene = gene_face_tattoos
+				template = face_tattoo_xingu
+				range = { 0.0 1.0 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				culture = culture:xerente
+			}
+		}
+	}
+	yanomami_face_tattoos = {
+		dna_modifiers = {
+			morph = {
+				mode = add				
+				gene = gene_face_tattoos
+				template = face_tattoo_yanomami
+				range = { 0.0 1.0 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				culture = culture:yanomami
+			}
+		}
+	}
+	xavante_body_tattoos = {
+		dna_modifiers = {
+			morph = {
+				mode = add				
+				gene = gene_face_tattoos
+				template = face_tattoo_xingu
+				range = { 0.0 0.1 }
+			}
+		}
+		dna_modifiers = {
+			morph = {
+				mode = add				
+				gene = gene_body_tattoos
+				template = body_tattoo_xavante
+				range = { 0.0 1.0 }
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				culture = culture:xavante
 			}
 		}
 	}

@@ -33,6 +33,14 @@ male_clothes_secular_andean_nobility_02_high = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_02_high_entity }
 }
 
+
+
+female_andean_cloak = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_andean_cloak_entity }
+}
+male_andean_cloak = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_andean_cloak_entity }
+}
 ##########################################################################
 
 

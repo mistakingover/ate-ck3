@@ -215,3 +215,19 @@ male_headgear_secular_amazonian_imperial_01 = {
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_amazonian_imperial_01_entity 	 }		
 }
+
+
+
+## face gene ##
+male_facial_secular_amazonian_yanomami_01 = {
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_facial_secular_amazonian_yanomami_01_entity 	 }		
+}
+male_facial_secular_amazonian_yanomami_02 = {
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_facial_secular_amazonian_yanomami_02_entity 	 }		
+}
+female_facial_secular_amazonian_yanomami_01 = {
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_facial_secular_amazonian_yanomami_01_entity 	 }		
+}
+female_facial_secular_amazonian_yanomami_02 = {
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_facial_secular_amazonian_yanomami_02_entity 	 }		
+}

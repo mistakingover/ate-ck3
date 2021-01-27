@@ -9,9 +9,25 @@
 
 	add_accessory_modifiers = {
 		gene = cloaks
-		is_valid_custom = {
-			highest_held_title_tier >= tier_kingdom
-		}
+	#	is_valid_custom = {
+	#		highest_held_title_tier >= tier_kingdom
+	#	}
 		template = western_royalty
+	}
+	add_accessory_modifiers = {
+		gene = cloaks
+		template = tilmahtli_common
+	}
+	add_accessory_modifiers = {
+		gene = cloaks
+		template = tilmahtli_low
+	}
+	add_accessory_modifiers = {
+		gene = cloaks
+		template = tilmahtli_high
+	}
+	add_accessory_modifiers = {
+		gene = cloaks
+		template = andean_cloak_high 
 	}
 }

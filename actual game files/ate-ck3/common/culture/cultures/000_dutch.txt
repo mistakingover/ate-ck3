@@ -139,11 +139,11 @@ graphical_cultures = {
 			"dynn_de_Kom"
 			"dynn_de_Randamie"
 			"dynn_de_Vries"
-			"dynn_van_Damm"
-			"dynn_van_Dien"
-			"dynn_van_Dijk"
-			"dynn_van_Embricqs"
-			"dynn_van_Telman"
+			{ "dynnp_van" "dynn_Damm" }
+			{ "dynnp_van" "dynn_Dien" }
+			{ "dynnp_van" "dynn_Dijk" }
+			{ "dynnp_van" "dynn_Embricqs" }
+			{ "dynnp_van" "dynn_Telman" }
 		}
 		dynasty_names = {
 			"dynn_Algoe"
@@ -271,11 +271,11 @@ graphical_cultures = {
 			"dynn_de_Kom"
 			"dynn_de_Randamie"
 			"dynn_de_Vries"
-			"dynn_van_Damm"
-			"dynn_van_Dien"
-			"dynn_van_Dijk"
-			"dynn_van_Embricqs"
-			"dynn_van_Telman"
+			{ "dynnp_van" "dynn_Damm" }
+			{ "dynnp_van" "dynn_Dien" }
+			{ "dynnp_van" "dynn_Dijk" }
+			{ "dynnp_van" "dynn_Embricqs" }
+			{ "dynnp_van" "dynn_Telman" }
 		}
 		
 		male_names = {
@@ -456,11 +456,11 @@ graphical_cultures = {
 			"dynn_de_Palm"
 			"dynn_de_Windt"
 			"dynn_de_Wit"
-			"dynn_van_Buuren"
-			"dynn_van_Eijk"
-			"dynn_van_Hasz"
-			"dynn_van_Putten"
-			"dynn_van_de_Pol"
+			{ "dynnp_van" "dynn_Buuren" }
+			{ "dynnp_van" "dynn_Eijk" }
+			{ "dynnp_van" "dynn_Hasz" }
+			{ "dynnp_van" "dynn_Putten" }
+			{ "dynnp_van" "dynn_de_Pol" }
 		}
 		dynasty_names = {
 			"dynn_Angela"
@@ -558,55 +558,53 @@ graphical_cultures = {
 			"dynn_de_Palm"
 			"dynn_de_Windt"
 			"dynn_de_Wit"
-			"dynn_van_Buuren"
-			"dynn_van_Eijk"
-			"dynn_van_Hasz"
-			"dynn_van_Putten"
-			"dynn_van_de_Pol"
+			{ "dynnp_van" "dynn_Buuren" }
+			{ "dynnp_van" "dynn_Eijk" }
+			{ "dynnp_van" "dynn_Hasz" }
+			{ "dynnp_van" "dynn_Putten" }
+			{ "dynnp_van" "dynn_de_Pol" }
 		}
 		
 		male_names = {
 			Adriaan Aldert Alejandro Alfonso Angelo Arturo Aurelio Ayrton
 			Carl
-			Dani_e_uml_l David Derrick Diederick Diego Dominico
-			Edelbert Edison Eduard Eldrick Enrique Erik Etienne Eug_e_grv_ne
-			Felipe Ferdinand Fidert Franklin Frans Fredis Frits
+			Dani_e_uml_l David Derrick Diego Dominico
+			Edelbert Edison Eduard Erik Etienne Eug_e_grv_ne
+			Felipe Ferdinand Fidert Franklin Frans Frits
 			Gerald Gerard Geronimo Gerrit Gerwin Gilberto Gilmar Glenbert Gregor Guillermo Guillfred Guliano
 			Hendrik Hubert
 			Igemar Ilfred
 			Jaime Jairo Javier Joel Jonathan Joost Jose Juan Juan_Carlos Juan_David Jean_Julien Jean_Marc Juan_Miguel Jean_Pierre Jurick Juri_e_uml_n
 			Kenneth Kurt
-			Leandro Leendert Leomar Leroy Lionel Ludwig
-			Marcelo Marco Martinus Melvin Michi_e_act_l Miguel Moises
+			Leandro Leendert Leomar Ludwig
+			Marcelo Marco Melvin Micha_e_act_l Miguel Moises
 			Nelson Nicolaas Norberto
 			Olindo Orlando Otto
 			Paul Pedro Pernell
 			Quentin
-			Rannick Reinhard Ren_e_act_ Ricardo Roberto Rodion Rodney Roelly Rudolf Rugenio Rutger
+			Rannick Ren_e_act_ Ricardo Roberto Rodion Rodney Roelly Rudolf Rugenio Rutger
 			Sergio Shelton Silvio
-			Theric Thijs Tyrick Tyrone
-			Walfrido Willem
+			Theric Tyrick Tyrone
+			Willem
 			Yannick
-			Xander
 		}
 		female_names = {
-			Ad_e_grv_le Alina Ana Andrea Angela
-			Carmen Chantal Christina Corinne Cornelia Cynthia
-			Daniella Daphne
-			Elena Emily Evelyn
+			Ad_e_grv_le Ana Angela
+			Carmen Chantal Corinne Cornelia Cynthia
+			Daphne
+			Emily Evelyn
 			Geraldine Giselle
 			Henrietta
 			Irene
-			Jasmine Jeannette Jennifer Julia Juliana
-			Laura Louisette Lucille Lucina Luz Lydia
-			Maria Marina Monica Mylene Myrna
+			Jasmine Jennifer Julia Juliana
+			Louisette Lucille Lydia
+			Maria Monica
 			Nicole Nina
-			Paulette Pauline Petra Philipine Philomena
-			Rosa Roshendra Roswitha Ru_e_act_nna
-			Sarah Seline Simona Sofia Sonia Stephanie Suzanne
-			Teresa Tessa
+			Paulette Petra Philomena
+			Ru_e_act_nna
+			Sarah Seline Sonia Stephanie Suzanne
 			Vanessa
-			Yvette Yvonne
+			Yvette
 		}
 		dynasty_of_location_prefix = "dynnp_di"
 		

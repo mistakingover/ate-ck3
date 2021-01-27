@@ -2026,4 +2026,122 @@ clothes = {
 
 ## Catholic ##	
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############################################################################################################
+#																											#
+#																											#
+#						#			##########################		########################				#
+#					   # #						##					#					   #				#
+#					  #	  #						##					#					   					#
+#					 #	   #					##					#										#
+#					# 		#					##					#			   #						#
+#				   ###########					##					################						#
+#				  #			  #					##					#			   #						#
+#				 # 			   #				##					#					   #				#
+#			   ####			  ####			   ####					########################				#
+#																											#
+#																											#
+#############################################################################################################
+
+	
+	maxlatl_common = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = maxlatl_clothes
+            }
+        }
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				portrait_amazonian_clothing_trigger = yes
+			}
+		}
+	}
+	no_clothes_amazonian = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = clothes
+                template = no_clothes
+            }
+        }
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				portrait_amazonian_clothing_trigger = yes
+			}
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
