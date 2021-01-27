@@ -345,7 +345,10 @@ graphical_cultures = {
 			"dynn_Amatique"
 			"dynn_Amaya"
 			"dynn_Aranda"
+			"dynn_Arz_u_act_"
 			"dynn_Baltazar"
+			"dynn_Benedith"
+			"dynn_Bern_a_act_rdez"
 			"dynn_Blanco"
 			"dynn_Bodden"
 			"dynn_Bonilla"
@@ -354,6 +357,7 @@ graphical_cultures = {
 			"dynn_Castillo"
 			"dynn_Cayetano"
 			"dynn_Charling"
+			"dynn_Ciego"
 			"dynn_Col_o_act_n"
 			"dynn_Costa"
 			"dynn_Crisanto"
@@ -366,30 +370,44 @@ graphical_cultures = {
 			"dynn_Galley"
 			"dynn_Gonder"
 			"dynn_Green"
+			"dynn_Gregorio"
+			"dynn_Guerrero"
+			"dynn_Hern_a_act_ndez"
 			"dynn_Hollander"
 			"dynn_Hurlston"
 			"dynn_Ibarra"
 			"dynn_Kirkconnell"
 			"dynn_Laboriel"
 			"dynn_Marquise"
+			"dynn_Matura"
 			"dynn_McBride"
 			"dynn_McField"
+			"dynn_McNab"
+			"dynn_Mel_e_act_ndez"
+			"dynn_Melgar"
+			"dynn_Midence"
 			"dynn_Moradel"
+			"dynn_N_u_act__n_tld_ez"
+			"dynn_Noralez"
 			"dynn_Normandy"
 			"dynn_Nottwood"
 			"dynn_Palacio"
+			"dynn_Palmer"
 			"dynn_Pandy"
 			"dynn_Parades"
 			"dynn_Peralta"
+			"dynn_Peri"
 			"dynn_Pinnace"
 			"dynn_Pouchie"
 			"dynn_Ramires"
 			"dynn_Ram_o_act_n"
 			"dynn_R_o_act_chez"
 			"dynn_Rottnest"
-			"dynn_SA_nchez"
+			"dynn_S_a_act_nchez"
+			"dynn_Sambul_a_act_"
 			"dynn_Santana"
 			"dynn_Slusher"
+			"dynn_Sonaguera"
 			"dynn_Tatum"
 			"dynn_Triguenio"
 			"dynn_Turko"
@@ -399,31 +417,46 @@ graphical_cultures = {
 			"dynn_Vincent"
 			"dynn_Watler"
 			"dynn_Welcome"
+			"dynn_Werdon"
+			"dynn_Wilmoth"
 			"dynn_Zamo"
 		}
 		
 		male_names = {
-			Abraham Alfonso Aurelio
-			Benjam_i_act_n Bernardo
-			David Delvin Dur_a_act_n Duvalle
-			Guillermo
-			H_e_act_ctor
+			A_act_lvaro Aar_o_act_n Abraham Ad_a_act_n Adri_a_act_n Alan Alejandro Alfonso Arnold Arturo Aurelio
+			Benigno Benjam_i_act_n Bernardo Brigido Bryan
+			C_e_act_sar Cadrin Carlos Christopher Clifford
+			Danilo David Delmer Delvin Dennis Douglas Dudley Dur_a_act_n Duvalle
+			Eduardo Erick Ervin Evan
+			F_e_act_lix Felipe Foster
+			George Germ_a_act_n Guillermo Gustavo
+			H_e_act_ctor Henry Heriberto
 			Isidro
-			Jairo Jos_e_act_ Jos_e_act__Santos Juan Juan_Jos_e_act_ Juan_Manuel
-			Manuel Marco Marvin
-			Orlin O_act_scar
-			Satuye
-			Teodoro Tom_a_act_s
-			V_i_act_ctor
-			William Wilson
+			Jairo Jorge Jos_e_act_ Jos_e_act__Santos Josu_e_act_ Juan Juan_Jos_e_act_ Juan_Manuel Juli_a_act_n
+			Kevin
+			Leonardo
+			Manuel Marco Mario Marvin Miguel Milton
+			O_act_scar Oniel Orlin Oswaldo
+			Patrick
+			Ra_u_act_l Ram_o_act_n Ren_e_act_ Ricardo Rigoberto Roberto
+			Satuye Sergio
+			Teodoro Tom_a_act_s Truman
+			V_i_act_ctor Vibert
+			Walter William Wilmer Wilson
 		}
 		female_names = {
 			Ada
-			Dionisia
+			Diana Dionisia Dulce
+			Elena Elizabeth Esther Ethel
+			Isabel
 			Jazm_i_act_n
-			Mar_i_act_a Mayuri Mirtha
-			Rosita
+			Mar_i_act_a Marla Maude Mayuri Mirtha
+			Paula
+			Reina Rita Rosita
 			Sonia Sof_i_act_a
+			Vilma
+			Xiomara
+			Yolanda
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
