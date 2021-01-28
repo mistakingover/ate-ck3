@@ -478,4 +478,49 @@
 
 
 	}
+	klondiker = {
+		graphical_cultures = {
+			alaskan_coa_gfx
+		}
+		
+		color = { 0.37 0.8 0.3 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		dynasty_of_location_prefix = "dynnp_from"
+
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 15
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 20
+		mother_name_chance = 40
+		
+		ethnicities = {
+	10 = caucasian
+}
+
+
+
+
+
+
+
+
+	}
 }
