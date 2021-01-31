@@ -1,3 +1,8 @@
+c_cachapoal;34;65;152;Cachapoal
+c_cardenal_caro;162;93;77;Cardenal Caro
+c_chacabuco;48;192;61;Chacabuco
+c_colchagua;24;33;139;Colchagua
+c_puente_alto;86;187;61;Puente Alto
 d_aguas;104;72;226;Aguas
 d_aironia;104;171;77;Aironia
 d_alagoas;120;112;64;Alagoas
@@ -69,7 +74,7 @@ d_catamarca;183;123;128;Catamarca
 d_cauca;154;154;105;Cauca
 d_caxias;196;138;54;Caxias
 d_cesar;86;199;190;Cesar
-d_chaco;193;24;139;Chaco
+d_chaco_austral;193;24;139;Chaco Austral
 d_chaco_oriental;155;114;109;Chaco Oriental
 d_chanchamayo;120;0;250;Chanchamayo
 d_chaparri;126;68;150;Chaparri
@@ -299,10 +304,11 @@ d_yungas;27;150;165;Yungas
 d_zulia;156;146;185;Zulia
 e_amazonia;90;11;52;Amazonia
 e_bahia;91;39;107;Bahia
-e_bolivia;147;128;149;Bolivia
 e_cerrado;215;39;180;Cerrado
 e_chile;255;150;55;Chile
 e_colombia;242;188;81;Colombia
+e_gran_chaco;147;128;149;Gran Chaco
+e_inca;59;255;120;Inca
 e_interior;215;27;59;Interior
 e_la_plata;179;112;116;La Plata
 e_nordeste;113;176;108;Nordeste
@@ -320,6 +326,7 @@ k_baixo_sao_francisco;225;75;163;Baixo São Francisco
 k_buenos_aires;0;123;224;Buenos Aires
 k_cabo_norte;194;144;97;Cabo Norte
 k_ceara;103;186;103;Ceará
+k_chaco;213;4;149;Chaco
 k_chile;249;155;57;Chile
 k_chinchay;1;123;70;Chinchay
 k_chubut;85;174;120;Chubut
@@ -330,11 +337,11 @@ k_cuyo;249;27;104;Cuyo
 k_ecuador;69;247;125;Ecuador
 k_el_caribe;17;157;121;El Caribe
 k_el_pacifico;166;155;84;El Pacífico
+k_espinhaco;135;117;67;Espinhaço
 k_espirito_santo;186;175;136;Espirito Santo
 k_falkland;231;25;83;Falkland
 k_fluminense;201;238;103;Fluminense
 k_goias;225;29;185;Goias
-k_gran_chaco;213;4;149;Gran Chaco
 k_grigota;70;239;147;Grigotá
 k_ilheus;168;44;170;Ilhéus
 k_la_pampa;111;154;178;La Pampa
@@ -375,8 +382,3 @@ k_venezuela;17;79;190;Venezuela
 k_vilcabamba;173;29;120;Vilcabamba
 k_zamora;101;172;183;Zamora
 k_zulia;134;32;176;Zulia
-c_cachapoal;34;65;152;Cachapoal
-c_colchagua;24;33;139;Colchagua
-c_cardenal_caro;162;93;77;Cardenal Caro
-c_chacabuco;48;192;61;Chacabuco
-c_puente_alto;86;187;61;Puente Alto
