@@ -4,6 +4,7 @@ d_alagoas;120;112;64;Alagoas
 d_alta_mantiqueira;93;93;255;Alta Mantiqueira
 d_altamira;76;191;61;Altamira
 d_alto_medio;75;70;112;Alto-Médio
+d_alto_paraguay;178;136;62;Alto Paraguay
 d_alto_paraiba;216;48;3;Alto Paraíba
 d_alto_pontal;100;150;35;Alto Pontal
 d_alto_sao_francisco;255;131;47;Alto São Francisco
@@ -16,6 +17,7 @@ d_anejo;171;229;51;Anejo
 d_angelim;150;214;250;Angelim
 d_antioquia;199;193;23;Antioquia
 d_antofagasta;200;36;52;Antofagasta
+d_antofalla;140;123;53;Antofalla
 d_anzoategui;122;99;220;Anzoátegui
 d_apure;92;136;147;Apure
 d_aracatuba;68;107;17;Araçatuba
@@ -31,8 +33,6 @@ d_ayacucho;159;173;64;Ayacucho
 d_aysen;72;109;127;Aysén
 d_azul;188;186;42;Azul
 d_baires;10;247;4;Baires
-d_baixo_parnaiba;245;83;81;Baixo Parnaíba
-d_baixo_parnaiba;245;96;90;Baixo Parnaiba
 d_balsas;214;226;93;Balsas
 d_bariloche;155;26;75;Bariloche
 d_barinas;81;145;60;Barinas
@@ -65,6 +65,7 @@ d_carajas;67;214;180;Carajás
 d_carinhanha;245;245;84;Carinhanha
 d_casanare;42;156;92;Casanare
 d_catalonia;186;180;89;Catalonia
+d_catamarca;183;123;128;Catamarca
 d_cauca;154;154;105;Cauca
 d_caxias;196;138;54;Caxias
 d_cesar;86;199;190;Cesar
@@ -127,7 +128,7 @@ d_guarapiranga;99;208;133;Guarapiranga
 d_guarico;45;105;110;Guárico
 d_guayas;84;211;126;Guayas
 d_guayra;111;72;158;Guayrá
-d_guimarania;45;112;56;Guimarania
+d_guimarania;151;150;60;Guimarania
 d_huanaco;139;9;135;Huánaco
 d_huasco;235;65;83;Huasco
 d_ica;238;9;168;Ica
@@ -139,6 +140,7 @@ d_itacotiara;25;41;37;Itacotiara
 d_itapeva;106;196;229;Itapeva
 d_jacobacci;150;129;175;Jacobacci
 d_jaguaribe;158;234;168;Jaguaribe
+d_ji_parana;134;163;97;Ji-Paraná
 d_juazeiro;245;53;137;Juazeiro
 d_junin;173;244;168;Junin
 d_la_pampa;131;134;188;La Pampa
@@ -185,8 +187,8 @@ d_mogi;139;217;92;Mogi
 d_monagas;79;72;128;Monagas
 d_montevideo;209;82;131;Montevideo
 d_morona;74;104;87;Morona
-d_narino;54;104;74;Nariño
 d_narino;17;157;121;Nariño
+d_narino;54;104;74;Nariño
 d_neuquen;152;63;70;Neuqúen
 d_nova_rutenia;27;17;127;Nova Rutenia
 d_nuble;163;29;17;Ñuble
@@ -231,14 +233,16 @@ d_rosario;196;10;83;Rosario
 d_salta;186;180;114;Salta
 d_san_juan;109;213;223;San Juan
 d_san_luis;181;16;59;San Luis
+d_san_rafael;229;124;94;San Rafael
 d_santa_cruz;90;219;157;Santa Cruz
 d_santa_cruz_de_patagonia;70;98;176;Santa Cruz de Patagonia
 d_santa_fe;52;40;142;Santa Fe
 d_santa_maria;182;9;99;Santa Maria
 d_santander;175;162;129;Santander
 d_santiago;249;219;67;Santiago
+d_santiago_del_estero;193;24;70;Santiago del Estero
 d_santos;139;175;183;Santos
-d_sapucai;110;159;122;Sapucai
+d_sapucai;110;159;121;Sapucai
 d_sergipe;216;99;23;Sergipe
 d_serido;197;231;251;Seridó
 d_serra_da_capivara;183;89;106;Serra da Capivara
@@ -248,7 +252,7 @@ d_sertao_da_ressaca;245;248;140;Sertão da Ressaca
 d_sertao_de_minas;122;164;192;Sertão de Minas
 d_sete_passagens;117;220;250;Sete Passagens
 d_sicuriu;102;193;71;Sicuriú
-d_sinopia;56;46;124;Sinopia
+d_sinopia;45;112;56;Sinopia
 d_soorotema;163;183;47;Soorotema
 d_sorocaba;75;148;63;Sorocaba
 d_sucre;175;192;228;Sucre
@@ -258,6 +262,7 @@ d_tapajos;245;223;23;Tapajós
 d_tapes;21;224;78;Tapes
 d_tarapaca;221;21;58;Tarapacá
 d_taumaturgia;245;255;63;Taumaturgia
+d_teresina;245;96;90;Teresina
 d_the_district;245;9;195;the District
 d_tierra_del_fuego;102;153;0;Tierra del Fuego
 d_tocantins;245;248;168;Tocantins
@@ -303,20 +308,22 @@ e_la_plata;179;112;116;La Plata
 e_nordeste;113;176;108;Nordeste
 e_patagonia;53;217;163;Patagonia
 e_peru;59;1;120;Perú
+e_sudeste;191;248;98;Sudeste
 e_sulista;88;157;187;Sulista
 e_venezuela;126;90;205;Venezuela
-e_vera_cruz;191;248;98;Vera Cruz
 k_acre;191;255;12;Acre
 k_amazonas;80;21;47;Amazonas
 k_antioquia;229;223;53;Antioquia
 k_araucania;11;160;65;Araucanía
 k_atacama;196;45;45;Atacama
-k_bolivia;157;118;154;Bolivia
+k_baixo_sao_francisco;225;75;163;Baixo São Francisco
 k_buenos_aires;0;123;224;Buenos Aires
 k_cabo_norte;194;144;97;Cabo Norte
 k_ceara;103;186;103;Ceará
 k_chile;249;155;57;Chile
+k_chinchay;1;123;70;Chinchay
 k_chubut;85;174;120;Chubut
+k_collao;157;118;154;Collao
 k_cordoba;225;17;64;Córdoba
 k_cundiboyaca;184;52;36;Cundiboyacá
 k_cuyo;249;27;104;Cuyo
@@ -329,25 +336,30 @@ k_fluminense;201;238;103;Fluminense
 k_goias;225;29;185;Goias
 k_gran_chaco;213;4;149;Gran Chaco
 k_grigota;70;239;147;Grigotá
-k_ilheus;225;75;163;Ilhéus
+k_ilheus;168;44;170;Ilhéus
 k_la_pampa;111;154;178;La Pampa
 k_los_llanos;91;195;60;Los Llanos
 k_magallanes;118;200;118;Magallanes
 k_maranhao;30;90;175;Maranhão
-k_mato_grosso;65;92;66;Mato Grosso
+k_mato_grosso;117;165;119;Mato Grosso
+k_mato_grosso_do_sul;65;92;66;Mato Grosso do Sul
 k_mesopotamia;158;25;168;Mesopotamia
 k_minas_gerais;201;159;34;Minas
+k_neuquen;56;138;170;Neuquén
 k_norte_viejo;67;100;106;Norte Viejo
 k_omagua;219;226;240;Omagua
 k_pachacamac;126;29;138;Pachacamac
 k_para;104;194;189;Pará
 k_paraguay;129;208;102;Paraguay
+k_paraiba;193;113;153;Paraíba
 k_parana;32;78;204;Paraná
 k_pernambuco;170;32;183;Pernambuco
 k_piaui;225;116;80;Piauí
 k_puente_grande;15;166;236;Puente Grande
+k_rio_grande_do_norte;194;144;97;Rio Grande do Norte
 k_rio_grande_do_sul;98;147;192;Rio Grande do Sul
 k_rio_negro;35;163;228;Río Negro
+k_rondonia;188;184;103;Rondônia
 k_salvador;101;29;112;Salvador
 k_santa_catarina;108;180;41;Santa Catarina
 k_santa_cruz_de_patagonia;70;98;196;Santa Cruz de Patagonia
@@ -355,6 +367,8 @@ k_sao_francisco;225;12;130;São Francisco
 k_sao_paulo;134;28;28;São Paulo
 k_sipan;225;174;115;Sipán
 k_tierradentro;17;157;121;Tierradentro
+k_tiete;204;144;144;Tietê
+k_tocantins;31;178;72;Tocantins
 k_triangle;215;194;51;Triângulo
 k_uruguay;189;102;121;Uruguay
 k_venezuela;17;79;190;Venezuela
