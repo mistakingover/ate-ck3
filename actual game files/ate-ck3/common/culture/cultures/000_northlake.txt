@@ -279,7 +279,12 @@
 	dairylander = {
 
 		ethnicities = {
-	10 = caucasian
+	6 = african
+	5 = asian
+	75 = caucasian
+	5 = mediterranean
+	5 = med_indigenous
+	4 = multiracial
 }
 			color = { 140 127 76 }
 
@@ -305,7 +310,10 @@
 	northlander = {
 
 		ethnicities = {
-	10 = caucasian
+	4 = asian
+	85 = caucasian
+	6 = east african
+	5 = multiracial
 }
 			color = { 165 114 127 }
 

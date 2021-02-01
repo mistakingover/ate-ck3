@@ -418,7 +418,12 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	20 = african
+	5 = asian
+	60 = caucasian
+	5 = mediterranean
+	5 = black_white
+	5 = multiracial
 }
 	}
 	dixie = {
@@ -770,7 +775,11 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-	10 = caucasian
+	25 = african
+	3 = asian
+	55 = caucasian
+	7 = med_indigenous
+	10 = black_white
 }
 	}
 	gulfard = {
@@ -1045,7 +1054,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	5 = asian
+	45 = caucasian
+	20 = mediterranean
+	10 = med_indigenous
+	5 = black_white
+	5 = multiracial
 }
 	}
 	tuskegean = {
@@ -1363,7 +1378,12 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	30 = african
+	2 = asian
+	30 = caucasian
+	3 = mediterranean
+	5 = med_indigenous
+	30 = black_white
 }
 	}
 	gullah = {
@@ -1534,7 +1554,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	30 = african
+	2 = asian
+	30 = caucasian
+	5 = mediterranean
+	5 = med_indigenous
+	25 = black_white
+	3 = multiracial
 }
 	}
 	neomoor = {

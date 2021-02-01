@@ -1145,7 +1145,12 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	2 = african
+	10 = asian
+	60 = caucasian
+	10 = mediterranean
+	10 = med_indigenous
+	8 = multiracial
 }
 	}
 	
@@ -1834,10 +1839,12 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	80 = caucasian
-	5 = indian
-	10 = slavic
-	5 = amerindian
+	2 = african
+	5 = asian
+	65 = caucasian
+	10 = mediterranean
+	10 = med_indigenous
+	8 = multiracial
 }
 	}
 	ktunaxa = {

@@ -394,7 +394,12 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	6 = asian
+	47 = caucasian
+	20 = mediterranean
+	20 = slavic
+	20 = med_indigenous
 }
 	}
 	tejano = {
@@ -649,7 +654,11 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	12 = african
+	6 = asian
+	20 = caucasian
+	20 = mediterranean
+	40 = med_indigenous
 }
 	}
 	texan = {
@@ -923,7 +932,11 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-	10 = caucasian
+	12 = african
+	6 = asian
+	40 = caucasian
+	20 = mediterranean
+	20 = med_indigenous
 }
 	}
 	texaner = {
@@ -1133,7 +1146,11 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	6 = asian
+	47 = caucasian
+	20 = mediterranean
+	20 = med_indigenous
 }
 	}
 }

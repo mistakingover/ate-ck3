@@ -154,7 +154,8 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	90 = amerindian
+	10 = white_indigenous
 }
 		mercenary_names = {
 			{ name = "mercenary_company_" }
@@ -163,7 +164,8 @@
 	cherokee = {
 
 		ethnicities = {
-	10 = caucasian
+	90 = amerindian
+	10 = white_indigenous
 }
 			color = { 204 216 204 }
 
@@ -187,7 +189,8 @@
 	muscogee = {
 
 		ethnicities = {
-	10 = caucasian
+	90 = amerindian
+	10 = white_indigenous
 }
 			color = { 127 204 178 }
 
@@ -211,7 +214,8 @@
 	catawba = {
 
 		ethnicities = {
-	10 = caucasian
+	90 = amerindian
+	10 = white_indigenous
 }
 			color = { 140 165 242 }
 

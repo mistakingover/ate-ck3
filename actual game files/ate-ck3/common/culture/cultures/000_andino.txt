@@ -998,7 +998,9 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	70 = andean
+	20 = amazonian
+	10 = med_indigenous
 }
 	}
 	wanka = {
@@ -1034,7 +1036,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	10 = caucasian
+	99 = andean
+	1 = med_indigenous
 }
 	}
 }
