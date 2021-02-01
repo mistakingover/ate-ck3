@@ -29,17 +29,31 @@
 		gene = clothes
 		template = cemanahuac_high_nobility_clothes
 	}	
-	maxlatl_common = {
+	amazonian_loincloth_common = {
 		dna_modifiers = {
             accessory = {
 				mode = add
                 gene = legwear
-                template = maxlatl_clothes
+                template = amazonian_loincloth_common
             }
             accessory = {
 				mode = add
                 gene = clothes
-                template = no_clothes
+                template = amazonian_neckpiece_common
+            }
+        }
+	}
+	amazonian_loincloth_nobility = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = amazonian_loincloth_nobility
+            }
+            accessory = {
+				mode = add
+                gene = clothes
+                template = amazonian_neckpiece_common
             }
         }
 	}

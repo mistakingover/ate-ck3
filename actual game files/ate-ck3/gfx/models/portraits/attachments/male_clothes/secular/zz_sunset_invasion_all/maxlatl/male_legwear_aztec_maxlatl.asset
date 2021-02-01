@@ -33,48 +33,46 @@ entity = {
 	
 	game_data = {
 		portrait_accessory = {
-			pattern_mask = "gfx/models/portraits/attachments/maxlatl/maxlatl_mask.dds"
+			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/zz_sunset_invasion_all/maxlatl/maxlatl_mask.dds"
 			variation = "maxlatl_variation"
 		}
 	}
 }
-pdxmesh = {
-	name = "female_maxlatl_mesh"
-	file = "female_legwear_aztec_maxlatl.mesh"
 
-	#blend_shape = { id = "male_legwear_aztec_maxlatl_fat"				type = "male_legwear_aztec_maxlatl_fat.mesh" }
-	#blend_shape = { id = "male_legwear_aztec_maxlatl_gaunt"				type = "male_legwear_aztec_maxlatl_gaunt.mesh" }
-	#blend_shape = { id = "male_legwear_aztec_maxlatl_infant"				type = "male_legwear_aztec_maxlatl_infant.mesh" }
-	#blend_shape = { id = "male_legwear_aztec_maxlatl_dwarf"				type = "male_legwear_aztec_maxlatl_dwarf.mesh" }
-	#blend_shape = { id = "male_legwear_aztec_maxlatl_muscular"				type = "male_legwear_aztec_maxlatl_muscular.mesh" }	
-	#blend_shape = { id = "male_legwear_aztec_maxlatl_old"				type = "male_legwear_aztec_maxlatl_old.mesh" }
-	
-	meshsettings = {
-		name = "female_legwear_aztec_maxlatlShape"
-		index = 0
-		texture_diffuse = "male_legwear_aztec_maxlatl_diffuse.dds"
-		texture_normal = "male_legwear_aztec_maxlatl_normal.dds"
-		texture_specular = "male_legwear_aztec_maxlatl_properties.dds"
-		shader = "portrait_attachment_pattern"
-		shader_file = "gfx/FX/jomini/portrait.shader"
-	}
-}
 
 entity = {
-	name = "female_maxlatl_entity"
-	pdxmesh = "female_maxlatl_mesh"
+	name = "male_amazonian_loincloth_entity"
+	pdxmesh = "male_maxlatl_mesh"
 	
-	#attribute = { name = "bs_body_fat_1"								blend_shape = "male_legwear_aztec_maxlatl_fat" }
-	#attribute = { name = "bs_body_gaunt_1"								blend_shape = "male_legwear_aztec_maxlatl_gaunt" }
-	#attribute = { name = "bs_body_infant_1"								blend_shape = "male_legwear_aztec_maxlatl_infant" }
-	#attribute = { name = "bs_body_dwarf_1"								blend_shape = "male_legwear_aztec_maxlatl_dwarf" }	
-	#attribute = { name = "bs_body_muscular_1"								blend_shape = "male_legwear_aztec_maxlatl_muscular" }	
-	#attribute = { name = "bs_body_old_1"								blend_shape = "male_legwear_aztec_maxlatl_old" }	
+	attribute = { name = "bs_body_fat_1"								blend_shape = "male_legwear_aztec_maxlatl_fat" }
+	attribute = { name = "bs_body_gaunt_1"								blend_shape = "male_legwear_aztec_maxlatl_gaunt" }
+	attribute = { name = "bs_body_infant_1"								blend_shape = "male_legwear_aztec_maxlatl_infant" }
+	attribute = { name = "bs_body_dwarf_1"								blend_shape = "male_legwear_aztec_maxlatl_dwarf" }	
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "male_legwear_aztec_maxlatl_muscular" }	
+	attribute = { name = "bs_body_old_1"								blend_shape = "male_legwear_aztec_maxlatl_old" }	
 	
 	game_data = {
 		portrait_accessory = {
-			pattern_mask = "gfx/models/portraits/attachments/maxlatl/maxlatl_mask.dds"
-			variation = "maxlatl_variation"
+			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/zz_sunset_invasion_all/maxlatl/maxlatl_mask.dds"
+			variation = "amazonian_loincloth_variation_common"
+		}
+	}
+}
+entity = {
+	name = "male_amazonian_loincloth_nobility_entity"
+	pdxmesh = "male_maxlatl_mesh"
+	
+	attribute = { name = "bs_body_fat_1"								blend_shape = "male_legwear_aztec_maxlatl_fat" }
+	attribute = { name = "bs_body_gaunt_1"								blend_shape = "male_legwear_aztec_maxlatl_gaunt" }
+	attribute = { name = "bs_body_infant_1"								blend_shape = "male_legwear_aztec_maxlatl_infant" }
+	attribute = { name = "bs_body_dwarf_1"								blend_shape = "male_legwear_aztec_maxlatl_dwarf" }	
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "male_legwear_aztec_maxlatl_muscular" }	
+	attribute = { name = "bs_body_old_1"								blend_shape = "male_legwear_aztec_maxlatl_old" }	
+	
+	game_data = {
+		portrait_accessory = {
+			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/zz_sunset_invasion_all/maxlatl/maxlatl_mask.dds"
+			variation = "amazonian_loincloth_variation_nobility"
 		}
 	}
 }

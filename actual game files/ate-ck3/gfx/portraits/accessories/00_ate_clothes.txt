@@ -39,7 +39,20 @@ female_andean_cloak = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_andean_cloak_entity }
 }
 male_andean_cloak = {
-	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_andean_cloak_entity }
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_andean_cloak_entity }
+}
+
+female_amazonian_loincloth_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_amazonian_loincloth_entity }
+}
+male_amazonian_loincloth_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_amazonian_loincloth_entity }
+}
+female_amazonian_loincloth_nobility = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_amazonian_loincloth_nobility_entity }
+}
+male_amazonian_loincloth_nobility = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_amazonian_loincloth_nobility_entity }
 }
 ##########################################################################
 

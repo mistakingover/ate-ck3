@@ -34,8 +34,46 @@ entity = {
 	
 	game_data = {
 		portrait_accessory = {
-			pattern_mask = "gfx/models/portraits/attachments/maxlatl/maxlatl_mask.dds"
+			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/zz_sunset_invasion_all/maxlatl/maxlatl_mask.dds"
 			variation = "maxlatl_variation"
+		}
+	}
+}
+
+
+entity = {
+	name = "female_amazonian_loincloth_entity"
+	pdxmesh = "female_maxlatl_mesh"
+	
+	attribute = { name = "bs_body_fat_1"								blend_shape = "male_legwear_aztec_maxlatl_fat" }
+	attribute = { name = "bs_body_gaunt_1"								blend_shape = "male_legwear_aztec_maxlatl_gaunt" }
+	attribute = { name = "bs_body_infant_1"								blend_shape = "male_legwear_aztec_maxlatl_infant" }
+	attribute = { name = "bs_body_dwarf_1"								blend_shape = "male_legwear_aztec_maxlatl_dwarf" }	
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "male_legwear_aztec_maxlatl_muscular" }	
+	attribute = { name = "bs_body_old_1"								blend_shape = "male_legwear_aztec_maxlatl_old" }	
+	
+	game_data = {
+		portrait_accessory = {
+			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/zz_sunset_invasion_all/maxlatl/maxlatl_mask.dds"
+			variation = "amazonian_loincloth_variation_common"
+		}
+	}
+}
+entity = {
+	name = "female_amazonian_loincloth_nobility_entity"
+	pdxmesh = "female_maxlatl_mesh"
+	
+	attribute = { name = "bs_body_fat_1"								blend_shape = "male_legwear_aztec_maxlatl_fat" }
+	attribute = { name = "bs_body_gaunt_1"								blend_shape = "male_legwear_aztec_maxlatl_gaunt" }
+	attribute = { name = "bs_body_infant_1"								blend_shape = "male_legwear_aztec_maxlatl_infant" }
+	attribute = { name = "bs_body_dwarf_1"								blend_shape = "male_legwear_aztec_maxlatl_dwarf" }	
+	attribute = { name = "bs_body_muscular_1"								blend_shape = "male_legwear_aztec_maxlatl_muscular" }	
+	attribute = { name = "bs_body_old_1"								blend_shape = "male_legwear_aztec_maxlatl_old" }	
+	
+	game_data = {
+		portrait_accessory = {
+			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/zz_sunset_invasion_all/maxlatl/maxlatl_mask.dds"
+			variation = "amazonian_loincloth_variation_nobility"
 		}
 	}
 }
