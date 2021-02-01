@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "male_headgear_secular_south_america_chupalla_mesh"
+	file = "male_headgear_secular_south_america_chupalla.mesh"
+
+	meshsettings = {
+		name = "male_headgear_secular_south_america_chupallaShape"
+		index = 0
+		texture_diffuse = "male_headgear_secular_south_america_chupalla_diffuse.dds"
+		texture_normal = "male_headgear_secular_south_america_chupalla_normal.dds"
+		texture_specular = "male_headgear_secular_south_america_chupalla_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+entity = {
+	name = "male_headgear_secular_south_america_chupalla_entity"
+	pdxmesh = "male_headgear_secular_south_america_chupalla_mesh"
+}
