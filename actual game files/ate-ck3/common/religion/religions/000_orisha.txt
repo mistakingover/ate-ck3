@@ -1,4 +1,4 @@
-orisha_religion = {
+﻿orisha_religion = {
 	family = rf_abrahamic
 
 	doctrine = afrosyncretic_hostility_doctrine
@@ -196,7 +196,7 @@ orisha_religion = {
 
 	faiths = {
 		lucumi = {
-			color = hsv { 0.6 0.75 0.0 }
+			color = { 153 191 0 }
 			icon = lucumi
 			
 			doctrine = special_doctrine_saintly_spirits
@@ -207,7 +207,7 @@ orisha_religion = {
 		}
 		
 		candomble = {
-			color = hsv { 0.6 0.75 0.2 }
+			color = { 153 191 51 }
 			icon = candomble
 			
 			doctrine = special_doctrine_saintly_spirits

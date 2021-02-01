@@ -201,7 +201,7 @@
 
 	faiths = {
 		galvanist = {
-			color = hsv { 0.7 0.35 0.2 }
+			color = { 178 89 51 }
 			icon = galvanist
 			#no religious head title yet
 
@@ -210,7 +210,7 @@
 			doctrine = tenet_united_in_labor
 		}
 		adnate = {
-			color = hsv { 0.7 0.7 0.62 }
+			color = { 178 178 158 }
 			icon = adnate
 			#no religious head title yet
 			

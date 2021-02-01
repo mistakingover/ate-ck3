@@ -192,7 +192,7 @@
 
 	faiths = {
 		inkarri_religion = {
-			color = hsv { 0.95 0.75 0.05 }
+			color = { 242 191 12 }
 			icon = inkarri
 
 			#holy_site = trinidad
@@ -305,7 +305,7 @@
 			}	
 		}
 		inti_religion = {
-			color = hsv { 0.85 0.82 0 }
+			color = { 216 209 0 }
 			icon = inti
 
 			#holy_site = trinidad

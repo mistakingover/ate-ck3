@@ -11,7 +11,7 @@ graphical_cultures = {
 			heartlander_coa_gfx
 		}
 		
-		color = rgb { 132 34 49 }
+			color = { 132 34 49 }
 	
 		cadet_dynasty_names = {
 			"dynn_Ackerman"
@@ -330,7 +330,7 @@ graphical_cultures = {
 			grangelander_coa_gfx
 		}
 		
-		color = { 0.5 0.1 0.05 }
+			color = { 127 25 12 }
 	
 		cadet_dynasty_names = {
 			"dynn_Barley"
@@ -574,7 +574,7 @@ graphical_cultures = {
 			uplander_coa_gfx
 		}
 		
-		color = rgb { 151 131 22 }
+			color = { 151 131 22 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -617,7 +617,7 @@ graphical_cultures = {
 			gatewayan_coa_gfx
 		}
 		
-		color = rgb { 211 152 118 }
+			color = { 211 152 118 }
 	
 		cadet_dynasty_names = {
 			"dynn_"

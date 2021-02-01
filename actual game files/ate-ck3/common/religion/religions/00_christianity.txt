@@ -211,7 +211,7 @@
 
 	faiths = {
 		catholic = {
-			color = { 0.8 0.8 0.6 }
+			color = { 204 204 153 }
 			religious_head = k_papal_state
 			graphical_faith = "catholic_gfx"
 		
@@ -282,7 +282,7 @@
 			}
 		}
 		tridentinism = {
-			color = { 0.91 0.8 0.6 }
+			color = { 232 204 153 }
 			graphical_faith = "catholic_gfx"
 			icon = tridentine		
 			#Special Tolerance
@@ -354,7 +354,7 @@
 		}
 
 		liberationism = {
-			color = { 0.85 0.75 0.4 }
+			color = { 216 191 102 }
 			graphical_faith = "catholic_gfx"
 			icon = liberationism	
 			#Special Tolerance
@@ -432,7 +432,7 @@
 		}
 
 		apostolicism = {
-			color = { 0.75 0.8 0.3 }
+			color = { 191 204 76 }
 			icon = apostolic
 			graphical_faith = "catholic_gfx"
 						
@@ -521,7 +521,7 @@
 			}
 		}
 		ciceritism = {
-			color = { 0.75 0.9 0.3 }
+			color = { 191 229 76 }
 			icon = cicerite
 			graphical_faith = "catholic_gfx"
 						
@@ -611,7 +611,7 @@
 			}
 		}
 		celestism = {
-			color = { 0.65 0.9 0.4 }
+			color = { 165 229 102 }
 			icon = celeste
 			graphical_faith = "catholic_gfx"
 						
@@ -706,7 +706,7 @@
 			}
 		}		
 		muckerism = {
-			color = { 0.65 0.9 0.4 }
+			color = { 175 188 95 }
 			icon = mucker
 			graphical_faith = "catholic_gfx"
 						
@@ -803,7 +803,7 @@
 			}
 		}
 		guadalupan = {
-			color = { 0.85 0.7 0.3 }
+			color = { 216 178 76 }
 			icon = guadalupe
 			graphical_faith = "catholic_gfx"
 						
@@ -905,7 +905,7 @@
 		}
 
 		el_santo = {
-			color = { 0.88 0.65 0.27 }
+			color = { 224 165 68 }
 			icon = el_santo
 			graphical_faith = "catholic_gfx"
 						
@@ -1019,7 +1019,7 @@
 		}
 
 		santa_muerte = {
-			color = { 0.87 0.6 0.45 }
+			color = { 221 153 114 }
 			icon = santa_muerte
 			graphical_faith = "catholic_gfx"
 						
@@ -1136,7 +1136,7 @@
 		}
 
 		patria_grande = {
-			color = { 0.85 0.85 0.3 }
+			color = { 216 216 76 }
 			icon = patria_grande
 			graphical_faith = "catholic_gfx"
 			religious_head = d_caudillo_patria_grande					
@@ -1277,7 +1277,7 @@
 		}
 
 		particularism = {
-			color = { 0.85 0.85 0.4 }
+			color = { 216 216 102 }
 			icon = particularist
 			religious_head = d_patriarchy_particular
 			graphical_faith = "catholic_gfx"
@@ -1363,7 +1363,7 @@
 			}
 		}				
 		neognostic = {
-			color = { 0.9 0.9 0.5 }
+			color = { 229 229 127 }
 			icon = neognostic
 			graphical_faith = "catholic_gfx"
 
@@ -1402,7 +1402,7 @@
 			}
 		}
 		ursuline = {
-			color = { 0.9 0.7 0 }
+			color = { 229 178 0 }
 			graphical_faith = "catholic_gfx"
 			icon = ursuline
 						
@@ -1472,7 +1472,7 @@
 			}
 		}
 		angeline = {
-			color = { 0.8 0.6 0.2 }
+			color = { 204 153 51 }
 			graphical_faith = "catholic_gfx"
 			icon = angeline
 						
@@ -1541,7 +1541,7 @@
 			}
 		}		
 		evangelical = {
-			color = { 0.5 0.8 0.8 }
+			color = { 127 204 204 }
 			graphical_faith = "catholic_gfx"
 			icon = evangelical
 						
@@ -1567,7 +1567,7 @@
 			}
 		}
 		charismaticism = {
-			color = { 0.55 0.7 0.8 }
+			color = { 174 208 204 }
 			graphical_faith = "catholic_gfx"
 			icon = charismaticism
 						
@@ -1594,7 +1594,7 @@
 			}
 		}	
 		neopentecostalism = {
-			color = { 0.6 0.6 0.8 }
+			color = { 153 153 204 }
 			graphical_faith = "catholic_gfx"
 			icon = neopentecostal
 						
@@ -1621,7 +1621,7 @@
 			}
 		}
 		nonconformism = {
-			color = { 0.55 0.7 0.8 }
+			color = { 140 178 204 }
 			graphical_faith = "catholic_gfx"
 			icon = nonconformism
 						
@@ -1646,7 +1646,7 @@
 			}
 		}		
 		anglican = {
-			color = { 0.6 0.65 0.8 }
+			color = { 153 165 204 }
 			graphical_faith = "catholic_gfx"
 			icon = anglican
 						
@@ -1669,7 +1669,7 @@
 			}
 		}
 		anabaptist = {
-			color = { 0.6 0.6 0.25 }
+			color = { 153 153 63 }
 			graphical_faith = "catholic_gfx"
 			icon = anabaptist
 						
@@ -1697,7 +1697,7 @@
 			}
 		}
 		batenburger = {
-			color = { 0.5 0.5 0.1 }
+			color = { 127 127 25 }
 			graphical_faith = "catholic_gfx"
 			icon = batenburger
 						
@@ -1721,7 +1721,7 @@
 			}
 		}
 		falling_star = {
-			color = { 0.9 0.8 0.3 }
+			color = { 229 204 76 }
 			graphical_faith = "catholic_gfx"
 			icon = falling_star
 	
@@ -1754,7 +1754,7 @@
 			}
 		}
 		moravian = {
-			color = { 0.8 0.8 0.4 }
+			color = { 204 204 102 }
 			graphical_faith = "catholic_gfx"
 			icon = moravian
 	
@@ -1778,7 +1778,7 @@
 			
 		}
 		mormon = {
-			color = hsv { 0.75 0.4 0.55 }
+			color = { 191 102 140 }
 			graphical_faith = "catholic_gfx"
 			icon = mormon
 			
@@ -1852,7 +1852,7 @@
 			}
 		}
 		community_of_christ = {
-			color = hsv { 0.65 0.35 0.45 }
+			color = { 165 89 114 }
 			graphical_faith = "catholic_gfx"
 			icon = community_of_christ
 			
@@ -1904,7 +1904,7 @@
 		#ADD OTHER MORMON FAITHS LATER
 		
 		hebrew_christianity = { #watch me whip, now watch me nae nae
-			color = hsv { 0.05 0.15 0.35 }
+			color = { 12 38 89 }
 			graphical_faith = "catholic_gfx"
 			icon = hebrew_christianity
 			
@@ -2024,7 +2024,7 @@
 			}
 		}
 		insular_carribean = {
-			color = { 0.7 0.7 0.65 }
+			color = { 178 178 165 }
 			graphical_faith = "catholic_gfx"
 			icon = insular
 			

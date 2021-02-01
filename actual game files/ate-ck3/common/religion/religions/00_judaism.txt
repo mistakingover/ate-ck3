@@ -200,7 +200,7 @@
 
 	faiths = {
 		haredi = {
-			color = { 0.1 0.7 1.0 }
+			color = { 25 178 255 }
 			icon = judaism
 			
 			#special doctrine
@@ -216,7 +216,7 @@
 		}
 
 		reform = {
-			color = { 0.1 0.5 0.9 }
+			color = { 25 127 229 }
 			icon = rabbinism
 
 			#special doctrine
@@ -259,7 +259,7 @@
 		}
 
 		meshichist = {
-			color = { 0.1 0.3 0.7 }
+			color = { 25 76 178 }
 			icon = kabarism
 
 			#special doctrine
@@ -285,7 +285,7 @@
 		}
 		
 		amazonian = { #needs localization
-			color = { 0.3 0.5 0.7 }
+			color = { 76 127 178 }
 			icon = malabarism
 
 			#special doctrine

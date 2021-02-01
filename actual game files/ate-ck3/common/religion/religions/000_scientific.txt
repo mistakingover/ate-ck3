@@ -197,7 +197,7 @@
 
 	faiths = {
 		atomicist = {
-			color = hsv { 0.75 1.0 0.02 }
+			color = { 191 255 5 }
 			icon = atomicist
 			#no religious head title yet
 
@@ -206,7 +206,7 @@
 			doctrine = tenet_inner_journey
 		}
 		aphite = {
-			color = hsv { 0.6 0.4 0.2 }
+			color = { 153 102 51 }
 			icon = aphite
 			#no religious head title yet
 			

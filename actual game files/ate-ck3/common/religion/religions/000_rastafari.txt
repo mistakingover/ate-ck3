@@ -1,4 +1,4 @@
-rastafari_religion = {
+﻿rastafari_religion = {
 	family = rf_abrahamic
 	
 	doctrine = abrahamic_hostility_doctrine
@@ -194,7 +194,7 @@ rastafari_religion = {
 	
 	faiths = {
 		bobo_ashanti = {
-			color = hsv { 0.9 0.45 0 }
+			color = { 229 114 0 }
 			icon = bobo_ashanti
 			
 			#special hostility doctrine
@@ -222,7 +222,7 @@ rastafari_religion = {
 		}
 		
 		nyabinghi = {
-			color = hsv { 0.7 0.3 0.15 }
+			color = { 178 76 38 }
 			icon = nyabinghi
 			
 			#special hostility doctrine
@@ -234,7 +234,7 @@ rastafari_religion = {
 		}
 		
 		twelve_tribes = {
-			color = hsv { 0.8 0.4 0 }
+			color = { 204 102 0 }
 			icon = twelve_tribes
 			
 			#special hostility doctrine

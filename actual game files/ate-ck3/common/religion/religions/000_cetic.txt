@@ -1,4 +1,4 @@
-karmic_religion = {
+﻿karmic_religion = {
 	family = rf_harmonic
 	graphical_faith = dharmic_gfx
 	doctrine = harmonic_hostility_doctrine
@@ -213,7 +213,7 @@ karmic_religion = {
 
 	faiths = {
 		cetic = {
-			color = hsv { 0.7 0.52 0.90 }
+			color = { 178 132 229 }
 			icon = cetic
 			
 			doctrine = special_doctrine_manyfold_path

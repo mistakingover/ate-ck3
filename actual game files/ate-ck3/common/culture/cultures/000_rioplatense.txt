@@ -1,4 +1,4 @@
-rioplatense_group = {
+﻿rioplatense_group = {
 graphical_cultures = {
 	rioplatense_group_gfx
 	mediterranean_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			urbuguayo_coa_gfx
 		}
 
-		color = { 0.18 1.0 1.0 }
+			color = { 45 255 255 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -236,7 +236,7 @@ graphical_cultures = {
 			litoraleno_coa_gfx
 		}
 
-		color = { 0.49 0.73 1.0 }
+			color = { 124 186 255 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -484,7 +484,7 @@ graphical_cultures = {
 			porteno_coa_gfx
 		}
 
-		color = { 0.48 0.89 0.97 }
+			color = { 122 226 247 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -682,7 +682,7 @@ graphical_cultures = {
 			pampeano_coa_gfx
 		}
 
-		color = { 0.25 0.58 0.66 }
+			color = { 63 147 168 }
 
 		cadet_dynasty_names = {
 			"dynn_"

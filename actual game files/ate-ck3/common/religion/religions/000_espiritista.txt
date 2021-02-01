@@ -198,7 +198,7 @@
 
 	faiths = {
 		tres_potencias = {
-			color = hsv { 0.6 0.75 0.1 }
+			color = { 153 191 25 }
 			icon = espiritista_tres_potencias
 
 			#holy_site = trinidad
@@ -297,7 +297,7 @@
 		}
 
 		kardecist = {
-			color = hsv { 0.6 0.75 0.75 }
+			color = { 153 191 191 }
 			icon = kardecist
 
 			#holy_site = araxa

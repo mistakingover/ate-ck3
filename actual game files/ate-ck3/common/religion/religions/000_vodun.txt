@@ -1,4 +1,4 @@
-vodun_religion = {
+﻿vodun_religion = {
 	family = rf_abrahamic
 
 	doctrine = afrosyncretic_hostility_doctrine
@@ -195,7 +195,7 @@ vodun_religion = {
 
 	faiths = {
 		vodou = {
-			color = hsv { 0.2 0.5 0.3 }
+			color = { 51 127 76 }
 			icon = vodou
 			
 			#special hostility doctrine
@@ -207,7 +207,7 @@ vodun_religion = {
 		}
 		
 		voodoo = {
-			color = hsv { 0.3 0.5 0.2 }
+			color = { 76 127 51 }
 			icon = voodoo
 			
 			#special hostility doctrine

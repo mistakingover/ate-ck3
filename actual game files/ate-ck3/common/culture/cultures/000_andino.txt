@@ -1,4 +1,4 @@
-andino_group = {
+﻿andino_group = {
 graphical_cultures = {
 	andino_group_gfx
 	indian_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			camba_coa_gfx
 		}
 
-		color = { 1.0 0.84 0.56 }
+			color = { 255 214 142 }
 
 		cadet_dynasty_names = {
 			"dynn_A_n_tld_ez"
@@ -205,7 +205,7 @@ graphical_cultures = {
 			kolla_coa_gfx
 		}
 
-		color = { 0.8 0.49 0.21 }
+			color = { 204 124 53 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -406,7 +406,7 @@ graphical_cultures = {
 			quechua_coa_gfx
 		}
 
-		color = { 0.48 0.35 0.24 }
+			color = { 122 89 61 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -631,7 +631,7 @@ graphical_cultures = {
 			aymara_coa_gfx
 		}
 
-		color = { 0.76 0.56 0.38 }
+			color = { 193 142 96 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -819,7 +819,7 @@ graphical_cultures = {
 			selvalteno_coa_gfx
 		}
 
-		color = { 0.71 0.45 0.2 }
+			color = { 181 114 51 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -1046,7 +1046,7 @@ graphical_cultures = {
 			wanka_coa_gfx
 		}
 
-		color = { 0.71 0.55 0.4 }
+			color = { 181 140 102 }
 
 		cadet_dynasty_names = {
 					"dynn_wanka_placeholder"

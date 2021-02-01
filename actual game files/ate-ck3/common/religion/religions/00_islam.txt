@@ -227,7 +227,7 @@
 
 	faiths = {
 		traditionalist = {
-			color = { 0 0.6 0 }
+			color = { 0 153 0 }
 			icon = islam_2
 			#religious_head = d_traditionalist
 
@@ -256,7 +256,7 @@
 		}
 		
 		revivalist = {
-			color = { 0 0.4 0 }
+			color = { 0 102 0 }
 			icon = islam_3
 			#religious_head = d_revivalist
 
@@ -284,7 +284,7 @@
 		}
 
 		imamite = { # Imamites
-			color = { 0.1 0.5 0.3 }
+			color = { 25 127 76 }
 			icon = islam_1
 			#religious_head = d_imamite
 
@@ -320,7 +320,7 @@
 		}
 
 		alawiyya = { # Fundamentalist Shia
-			color = { 0 0.6 0.2 }
+			color = { 0 153 51 }
 			icon = islam_4
 			#religious_head = d_alawiyya
 
@@ -355,7 +355,7 @@
 		}
 
 		qingzhen = { #
-			color = { 0 0.7 0.5 }
+			color = { 0 178 127 }
 			icon = islam_4
 
 			#holy_site = mecca
@@ -394,7 +394,7 @@
 		}
 
 		orientalist = {
-			color = { 0.2 0.7 0.1 }
+			color = { 51 178 25 }
 			icon = islam_4
 			#religious_head = d_orientalist
 			
@@ -429,7 +429,7 @@
 		}
 
 		misrist = { #Seveners (default Shia)
-			color = { 0.2 0.8 0 }
+			color = { 51 204 0 }
 			icon = islam_3
 			religious_head = d_misrist
 

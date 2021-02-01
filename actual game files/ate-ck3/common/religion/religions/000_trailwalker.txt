@@ -194,7 +194,7 @@
 
 	faiths = {
 		real_road = {
-			color = { 0.0 0.2 0.8 }
+			color = { 68 102 204 }
 			icon = real_road
 			reformed_icon = real_road
 			
@@ -215,7 +215,7 @@
 		#}
 		
 		eversky = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0 51 204 }
 			icon = eversky
 			reformed_icon = eversky
 			
@@ -232,7 +232,7 @@
 		}
 		
 		dustrider = {
-			color = { 0.0 0.2 0.8 }
+			color = { 37 61 133 }
 			icon = dustrider
 			reformed_icon = dustrider
 			
