@@ -423,8 +423,9 @@ graphical_cultures = {
 		
 		ethnicities = {
 	20 = african
+	5 = asian
 	20 = mediterranean
-	30 = med_indigenous
+	10 = med_indigenous
 	30 = black_white
 }
 
@@ -1008,8 +1009,10 @@ graphical_cultures = {
 		ethnicities = {
 	10 = african
 	10 = mediterranean
-	70 = med_indigenous
-	10 = black_white
+	20 = med_indigenous
+	30 = black_white
+	20 = multiracial
+	5 = caucasian
 }
 
 

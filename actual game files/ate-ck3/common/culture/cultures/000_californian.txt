@@ -641,7 +641,15 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	5 = arab
+	20 = asian
+	40 = caucasian
+	20 = indian
+	8 = mediterranean
+	10 = med_indigenous
+	10 = white_indigenous
+	20 = white_asian
+	10 = multiracial
 }
 
 
@@ -984,7 +992,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	15 = caucasian
+	5 = white_indigenous
+	30 = white_indigenous
+	5 = mesoamerican
+	5 = amerindian
+	15 = mediterranean
+	15 = multiracial
+	10 = african
 }
 
 
@@ -1462,7 +1477,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	45 = asian
+	5 = arab
+	5 = indian
+	35 = white_asian
 }
 
 
