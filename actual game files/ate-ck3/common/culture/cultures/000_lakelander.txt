@@ -234,14 +234,6 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
 	}
 	steelfolk = {
 		graphical_cultures = {
@@ -500,14 +492,6 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
 	}
 	chicagoan = {
 		graphical_cultures = {
@@ -824,16 +808,14 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	15 = african
+	8 = asian
+	45 = caucasian
+	10 = mediterranean
+	2 = amerindian
+	15 = med_indigenous
+	5 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	motowner = {
 		graphical_cultures = {
@@ -1148,16 +1130,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	30 = african
+	3 = asian
+	30 = caucasian
+	5 = med_indigenous
+	30 = black_white
+	2 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 	chiraqi = {
 		graphical_cultures = {
@@ -1373,15 +1352,12 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	5 = asian
+	60 = caucasian
+	5 = med_indigenous
+	15 = black_white
+	5 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 }

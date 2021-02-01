@@ -317,16 +317,13 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	5 = asian
+	65 = caucasian
+	15 = mediterranean
+	5 = med_indigenous
+	5 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	upstater = {
 		graphical_cultures = {
@@ -643,14 +640,6 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
 	}
 	delawarean = {
 		graphical_cultures = {
@@ -943,16 +932,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	15 = african
+	5 = asian
+	55 = caucasian
+	10 = mediterranean
+	10 = med_indigenous
+	5 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	beltway = {
 		graphical_cultures = {
@@ -1166,30 +1152,27 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	15 = african
+	10 = asian
+	35 = caucasian
+	10 = mediterranean
+	15 = med_indigenous
+	10 = black_white
+	5 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 	gothamite = {
 
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	9 = asian
+	35 = caucasian
+	14 = mediterranean
+	5 = slavic
+	15 = med_indigenous
+	5 = black_white
+	2 = multiracial
 }
-
-
-
-
-
-
-
-
 			color = { 25 178 229 }
 
 		cadet_dynasty_names = {

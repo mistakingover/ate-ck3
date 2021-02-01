@@ -344,14 +344,6 @@ graphical_cultures = {
 	10 = black_indigenous
 	10 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 	papiamen = {
 		graphical_cultures = {
@@ -619,15 +611,10 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
+	60 = african
 	10 = caucasian
+	20 = black_white
+	10 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 }

@@ -291,16 +291,11 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	20 = african
+	45 = caucasian
+	5 = med_indigenous
+	30 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	creole = {
 		graphical_cultures = {
@@ -733,15 +728,10 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-	10 = caucasian
+	45 = african
+	20 = caucasian
+	5 = med_indigenous
+	30 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 }

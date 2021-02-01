@@ -210,26 +210,16 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	2 = african
+	7 = african
 	2 = arab
-	5 = byzantine
-	30 = caucasian
-	45 = mediterranean
+	10 = caucasian
+	50 = mediterranean
 	5 = slavic
 	2 = amazonian
-	5 = med_indigenous
-	3 = black_white
+	20 = med_indigenous
+	4 = black_white
 	1 = white_asian
-	1 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	litoraleno = {
 		graphical_cultures = {
@@ -462,22 +452,14 @@ graphical_cultures = {
 		
 		ethnicities = {
 	2 = arab
-	25 = caucasian
-	40 = mediterranean
+	5 = caucasian
+	50 = mediterranean
 	5 = slavic
 	5 = amazonian
-	15 = med_indigenous
+	25 = med_indigenous
 	5 = white_indigenous
 	2 = white_asian
 }
-
-
-
-
-
-
-
-
 	}
 	porteno = {
 		graphical_cultures = {
@@ -660,22 +642,14 @@ graphical_cultures = {
 		
 		ethnicities = {
 	2 = arab
-	35 = caucasian
-	45 = mediterranean
+	10 = caucasian
+	50 = mediterranean
 	5 = slavic
-	5 = med_indigenous
+	25 = med_indigenous
 	5 = white_indigenous
 	2 = black_white
 	2 = white_asian
 }
-
-
-
-
-
-
-
-
 	}
 	pampeano = {
 		graphical_cultures = {
@@ -922,21 +896,13 @@ graphical_cultures = {
 		
 		ethnicities = {
 	2 = arab
-	35 = caucasian
-	45 = mediterranean
+	10 = caucasian
+	55 = mediterranean
 	5 = slavic
-	5 = med_indigenous
+	20 = med_indigenous
 	5 = white_indigenous
 	2 = black_white
 	2 = white_asian
 }
-
-
-
-
-
-
-
-
 	}
 }

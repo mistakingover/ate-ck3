@@ -732,14 +732,6 @@ graphical_cultures = {
 	20 = black_indigenous
 	3 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	amapaense = {
 		graphical_cultures = {
@@ -1243,14 +1235,6 @@ graphical_cultures = {
 	20 = black_indigenous
 	3 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	amazonense = {
 		graphical_cultures = {
@@ -1788,14 +1772,6 @@ graphical_cultures = {
 	20 = black_indigenous
 	3 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	roraimense = {
 		graphical_cultures = {
@@ -2437,14 +2413,6 @@ graphical_cultures = {
 	20 = black_indigenous
 	3 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 
 	
@@ -2997,14 +2965,6 @@ graphical_cultures = {
 	20 = black_indigenous
 	3 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	tapajosense = {
 		graphical_cultures = {
@@ -3732,14 +3692,6 @@ graphical_cultures = {
 	20 = black_indigenous
 	3 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	
 acreano = {
@@ -4262,21 +4214,13 @@ acreano = {
 
 		ethnicities = {
 	5 = african
-	30 = caucasian
-	30 = mediterranean
+	20 = caucasian
+	40 = mediterranean
 	15 = amazonian
 	10 = med_indigenous
 	5 = white_indigenous
 	5 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	rondonio = {
 		graphical_cultures = {
@@ -4853,21 +4797,13 @@ acreano = {
 
 		ethnicities = {
 	5 = african
-	35 = caucasian
-	25 = mediterranean
+	40 = caucasian
+	20 = mediterranean
 	15 = amazonian
 	10 = med_indigenous
 	5 = white_indigenous
 	5 = med_black_ind
 }
-
-
-
-
-
-
-
-
 	}
 	
 }

@@ -320,14 +320,6 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
 	}
 	bayfolk = {
 		graphical_cultures = {
@@ -641,24 +633,17 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	2 = arab
-	10 = asian
-	20 = caucasian
-	10 = indian
-	8 = mediterranean
-	5 = med_indigenous
-	5 = white_indigenous
-	10 = white_asian
-	5 = multiracial
+	5 = arab
+	20 = asian
+	40 = caucasian
+	20 = indian
+	10 = south indian
+	5 = mediterranean
+	10 = med_indigenous
+	10 = white_indigenous
+	20 = white_asian
+	10 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 	valleyan = {
 		graphical_cultures = {
@@ -992,23 +977,20 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	15 = caucasian
-	5 = white_indigenous
-	30 = white_indigenous
-	5 = mesoamerican
-	5 = amerindian
-	15 = mediterranean
-	15 = multiracial
 	10 = african
+	10 = arab
+	5 = asian
+	15 = caucasian
+	5 = indian
+	5 = south indian
+	15 = mediterranean
+	5 = amerindian
+	5 = mesoamerican
+	30 = med_indigenous
+	5 = white_indigenous
+	5 = white_asian
+	15 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 	anjalusi = {
 		graphical_cultures = {
@@ -1143,14 +1125,6 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
 	}
 	tehrangeleno = {
 		graphical_cultures = {
@@ -1281,22 +1255,6 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 	towner = {
 		graphical_cultures = {
@@ -1477,18 +1435,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	45 = asian
 	5 = arab
+	45 = asian
 	5 = indian
-	35 = white_asian
+	5 = south indian
+	40 = white_asian
 }
-
-
-
-
-
-
-
-
 	}
 }

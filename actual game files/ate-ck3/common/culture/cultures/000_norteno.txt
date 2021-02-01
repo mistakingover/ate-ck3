@@ -322,15 +322,9 @@ graphical_cultures = {
 		ethnicities = {
 	10 = caucasian
 	10 = mediterranean
+	10 = mesoamerican
+	70 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	
 	chinola = {
@@ -687,16 +681,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	5 = caucasian
+	15 = mediterranean
+	80 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	
 	##Credit to Mr_Badaniel
@@ -1094,16 +1082,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
+	5 = asian
 	10 = caucasian
+	20 = mediterranean
+	5 = mesoamerican
+	50 = med_indigenous
+	5 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	
 	##Credit to Mr_Badaniel
@@ -1436,14 +1421,9 @@ graphical_cultures = {
 		
 		ethnicities = {
 	10 = caucasian
+	30 = mediterranean
+	5 = mesoamerican
+	65 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 }

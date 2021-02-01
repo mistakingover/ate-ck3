@@ -259,16 +259,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	5 = mediterranean
+	80 = mesoamerican
+	15 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	garinagu = {
 		graphical_cultures = {
@@ -470,16 +464,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	10 = mediterranean
+	40 = med_indigenous
+	40 = black_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	kriol = {
 		graphical_cultures = {
@@ -793,16 +782,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	20 = african
+	2 = asian
+	5 = caucasian
+	10 = mediterranean
+	18 = mesoamerican
+	30 = med_indigenous
+	15 = black_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	raizal = {
 		graphical_cultures = {
@@ -1069,15 +1056,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	25 = african
+	15 = mediterranean
+	25 = med_indigenous
+	20 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 }

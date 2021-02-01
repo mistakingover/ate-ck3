@@ -129,16 +129,9 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	95 = caucasian
+	5 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	wladfaeg = {
 		graphical_cultures = {
@@ -250,15 +243,9 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	30 = caucasian
+	10 = patagonian
+	30 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 }

@@ -171,16 +171,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	25 = caucasian
+	35 = mediterranean
+	10 = patagonian
+	15 = med_indigenous
+	15 = white_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	santacruceno = {
 		graphical_cultures = {
@@ -320,16 +316,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	10 = byzantine
+	15 = caucasian
+	40 = mediterranean
+	10 = patagonian
+	25 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	australino = {
 		graphical_cultures = {
@@ -515,19 +507,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
+	15 = byzantine
 	15 = mediterranean
-	15 = slavic
 	25 = patagonian
 	40 = med_indigenous
 	5 = white_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 }

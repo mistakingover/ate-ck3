@@ -313,17 +313,15 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-	10 = caucasian
+	1 = african
+	3 = asian
+	3 = byzantine
+	75 = caucasian
+	3 = mediterranean
+	2 = slavic
+	1 = amerindian
+	12 = med_indigenous
 }
-
-
-
-
-
-
-
-
-
 		mercenary_names = {
 			{ name = "mercenary_company" }
 		}
@@ -862,15 +860,6 @@
 		ethnicities = {
 	10 = caucasian
 }
-
-
-
-
-
-
-
-
-
 		mercenary_names = {
 			{ name = "mercenary_company" }
 		}
@@ -1224,16 +1213,13 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	2 = african
+	3 = asian
+	30 = caucasian
+	20 = mediterranean
+	15 = amerindian
+	30 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	arixan = {
 		graphical_cultures = {
@@ -1443,16 +1429,14 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	5 = asian
+	40 = caucasian
+	10 = mediterranean
+	5 = amerindian
+	30 = med_indigenous
+	5 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 	battleborn = {
 		graphical_cultures = {
@@ -1741,15 +1725,12 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	10 = asian
+	45 = caucasian
+	10 = mediterranean
+	10 = med_indigenous
+	15 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 }

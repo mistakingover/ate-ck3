@@ -482,10 +482,10 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			15 = african
-			80 = caucasian
-			5 = amerindian
-		}
+	15 = african
+	80 = caucasian
+	5 = amerindian
+}
 	}
 	
 	pictonish = {
@@ -887,14 +887,6 @@
 	80 = caucasian
 	10 = amerindian
 }
-
-
-
-
-
-
-
-
 	}
 	newfoundlander = {
 		graphical_cultures = {
@@ -1272,14 +1264,6 @@
 	90 = caucasian
 	10 = white_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	yankee = {
 		graphical_cultures = {
@@ -1699,17 +1683,14 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	4 = african
+	5 = asian
+	55 = caucasian
+	20 = mediterranean
+	5 = slavic
+	7 = med_indigenous
+	4 = black_white
 }
-
-
-
-
-
-
-
-
-
 		mercenary_names = {
 			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
 			{ name = "mercenary_company_hawkwoods_band" }
@@ -1950,15 +1931,6 @@
 	80 = amerindian
 	10 = white_indigenous
 }
-
-
-
-
-
-
-
-
-
 		mercenary_names = {
 			{ name = "mercenary_company" }
 		}
@@ -1970,14 +1942,6 @@
 	80 = amerindian
 	10 = white_indigenous
 }
-
-
-
-
-
-
-
-
 			color = { 114 142 224 }
 		
 		cadet_dynasty_names = {

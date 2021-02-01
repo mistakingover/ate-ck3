@@ -192,14 +192,6 @@ graphical_cultures = {
 	15 = patagonian
 	50 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	huaso = {
 		graphical_cultures = {
@@ -379,14 +371,6 @@ graphical_cultures = {
 	8 = patagonian
 	50 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	centrino = {
 		graphical_cultures = {
@@ -590,22 +574,13 @@ graphical_cultures = {
 		
 		ethnicities = {
 	10 = arab
-	5 = byzantine
+	10 = byzantine
 	5 = caucasian
 	20 = mediterranean
-	5 = slavic
 	5 = andean
 	5 = patagonian
 	50 = med_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	atacameno = {
 		graphical_cultures = {
@@ -788,20 +763,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
+	10 = byzantine
 	5 = caucasian
 	25 = mediterranean
-	10 = slavic
 	15 = andean
 	54 = med_indigenous
 	1 = black_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 }

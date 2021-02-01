@@ -299,16 +299,10 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	90 = african
+	5 = caucasian
+	5 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	calypsonian = {
 		graphical_cultures = {
@@ -561,16 +555,12 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	35 = african
+	25 = indian
+	10 = south indian
+	15 = black_white
+	15 = black_indigenous
 }
-
-
-
-
-
-
-
-
 	}
 	bermudian = {
 		graphical_cultures = {
@@ -762,16 +752,11 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	55 = african
+	5 = asian
+	30 = caucasian
+	10 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	guyanese = {
 		graphical_cultures = {
@@ -1004,15 +989,14 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	30 = african
+	30 = indian
+	10 = south indian
+	10 = amazonian
+	10 = black_white
+	10 = black_indigenous
+	5 = med_black_ind
+	5 = multiracial
 }
-
-
-
-
-
-
-
-
 	}
 }

@@ -536,16 +536,9 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	95 = african
+	5 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	venteux = {
 		graphical_cultures = {
@@ -1219,16 +1212,12 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	60 = african
+	5 = asian
+	5 = caucasian
+	10 = indian
+	20 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 	cayennais = {
 		graphical_cultures = {
@@ -1460,15 +1449,11 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	40 = african
+	5 = asian
+	15 = caucasian
+	10 = amazonian
+	30 = black_white
 }
-
-
-
-
-
-
-
-
 	}
 }
