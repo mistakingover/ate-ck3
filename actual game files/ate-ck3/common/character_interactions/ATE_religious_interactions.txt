@@ -531,3 +531,74 @@ lay_on_hands_interaction = {
 		}
 	}
 }
+
+#Deliverance Ministry
+deliver_from_evil_interaction = {
+	category = interaction_category_religion
+	desc = deliver_from_evil_interaction_desc
+
+	is_shown = {
+		NOT = { scope:actor = scope:recipient }
+		scope:actor.faith = {
+			has_doctrine_parameter = deliverance_ministry_enabled
+		}
+		scope:recipient = {
+			OR = {
+				AND = {
+				is_landed = yes
+					OR = {
+						liege = scope:actor	#You may deliver direct vassals.
+						liege = scope:actor.liege	#You may deliver vassals with whom you share a liege.
+						scope:actor.liege = scope:recipient	#You may deliver your direct liege.
+					}
+				}
+				is_courtier_of = scope:actor #You may deliver your courtiers
+			}
+			has_trait = possessed
+		}
+	}
+
+	is_valid = {
+		custom_description = {
+			text = deliverance_ministry_timing
+			scope:actor = {
+				NOT = { has_character_modifier = used_deliverance_ministry_modifier }
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+		scope:recipient = {
+			faith = scope:actor.faith
+		}
+		custom_description = {
+			text = deliver_from_evil_interaction_has_been_delivered
+			object = scope:recipient
+			scope:recipient = {
+				NOT = { has_character_modifier = delivered_from_evil_modifier }
+			}
+		}
+		scope:recipient = {
+			is_adult = yes
+		}
+		scope:recipient = {
+			NOT = { has_strong_hook = scope:actor }
+		}
+
+		scope:recipient = { is_diplomatically_available = yes }
+	}
+
+	auto_accept = yes
+
+	on_accept = {
+		hidden_effect = {
+			scope:actor = {
+				trigger_event = { id = ate_religious_interaction.109 }
+			}
+		}
+		custom_tooltip = deliver_from_evil_interaction.tt_modifiers
+		scope:recipient = {
+			custom_tooltip = deliver_from_evil_interaction.tt_winnings_recipient
+		}
+	}
+}

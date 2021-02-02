@@ -148,3 +148,12 @@ say_no_to_paradise= {
 	stewardship= 2
 }
 
+used_deliverance_ministry_modifier={
+	icon = piety_positive 
+	monthly_piety = 0.1
+}
+
+delivered_from_evil_modifier={
+	icon = piety_positive 
+	monthly_piety = 0.1
+}

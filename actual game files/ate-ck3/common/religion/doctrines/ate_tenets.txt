@@ -1771,8 +1771,8 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							icon = charismaticism
-							icon = neopentecostal
+							ROOT = faith:charismaticism
+							ROOT = faith:neopentecostalism
 						}
 					}
 					desc = tenet_religious_legal_pronouncements_fivefold

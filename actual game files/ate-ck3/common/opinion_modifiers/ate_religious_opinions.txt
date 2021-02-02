@@ -30,3 +30,14 @@ assembly_bribe_refused = {
 sodomite_indifferent = {
 	opinion = -5
 }
+
+delivered_from_evil_resist_opinion = {
+	opinion = -15
+	years = 5
+	decaying = yes
+}
+delivered_from_evil_accept_opinion = {
+	opinion = 15
+	years = 5
+	decaying = yes
+}
