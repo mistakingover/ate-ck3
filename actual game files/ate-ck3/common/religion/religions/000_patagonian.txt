@@ -1,0 +1,215 @@
+patagonian_religion = {##TODO
+	family = rf_pagan
+	graphical_faith = pagan_gfx
+
+	pagan_roots = yes
+
+	doctrine = pagan_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_varied_domination
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_accepted
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+
+	traits = {
+		virtues = { brave ambitious deceitful }
+		sins = { craven content lazy }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_stallion_riders" }
+		{ name = "holy_order_death_mares" }
+	}
+
+	holy_order_maa = { espantador }
+
+	localization = {
+		#HighGodName
+		HighGodName = patagonian_high_god_name
+		HighGodNamePossessive = patagonian_high_god_name_possessive
+		HighGodNameSheHe = patagonian_high_god_shehe
+		HighGodHerselfHimself = patagonian_high_god_herselfhimself
+		HighGodHerHis = patagonian_high_god_herhis
+		HighGodNameAlternate = patagonian_high_god_alternate
+		HighGodNameAlternatePossessive = patagonian_high_god_alternate_possessive
+
+		#Creator
+		CreatorName = patagonian_creator_god_name
+		CreatorNamePossessive = patagonian_creator_god_name_possessive
+		CreatorSheHe = patagonian_high_god_shehe
+		CreatorHerHis = patagonian_high_god_herselfhimself
+		CreatorHerHim = CHARACTER_HERHIM_IT
+
+		#HealthGod
+		HealthGodName = patagonian_health_god_name
+		HealthGodNamePossessive = patagonian_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = patagonian_fertility_god_name
+		FertilityGodNamePossessive = patagonian_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = patagonian_wealth_god_name
+		WealthGodNamePossessive = patagonian_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = patagonian_household_god_name
+		HouseholdGodNamePossessive = patagonian_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_IT
+		HouseholdGodHerHis = CHARACTER_HERHIS_ITS
+		HouseholdGodHerHim = CHARACTER_HERHIM_IT
+
+		#FateGod
+		FateGodName = patagonian_fate_god_name
+		FateGodNamePossessive = patagonian_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_SHE
+		FateGodHerHis = CHARACTER_HERHIS_HER
+		FateGodHerHim = CHARACTER_HERHIM_HER
+
+		#KnowledgeGod
+		KnowledgeGodName = patagonian_knowledge_god_name
+		KnowledgeGodNamePossessive = patagonian_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = patagonian_war_god_name
+		WarGodNamePossessive = patagonian_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = patagonian_trickster_god_name
+		TricksterGodNamePossessive = patagonian_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_SHE
+		TricksterGodHerHis = CHARACTER_HERHIS_HER
+		TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+		#NightGod
+		NightGodName = patagonian_night_god_name
+		NightGodNamePossessive = patagonian_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = patagonian_water_god_name
+		WaterGodNamePossessive = patagonian_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		PantheonTerm = religion_espantos
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			patagonian_high_god_name
+			patagonian_high_god_name_alternate
+			patagonian_good_god_burning_bush
+			patagonian_good_god_white_lamb
+			patagonian_good_god_the_voice
+			patagonian_good_god_the_light
+		}
+		DevilName = patagonian_devil_name
+		DevilNamePossessive = patagonian_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			patagonian_devil_name
+			patagonian_evil_god_satan
+		}
+		HouseOfWorship = patagonian_house_of_worship
+		HouseOfWorshipPlural = patagonian_house_of_worship_plural
+		ReligiousSymbol = patagonian_religious_symbol
+		ReligiousText = patagonian_religious_text
+		ReligiousHeadName = patagonian_religious_head_title
+		ReligiousHeadTitleName = patagonian_religious_head_title_name
+		DevoteeMale = patagonian_devotee_male
+		DevoteeMalePlural = patagonian_devotee_male_plural
+		DevoteeFemale = patagonian_devotee_female
+		DevoteeFemalePlural = patagonian_devotee_female_plural
+		DevoteeNeuter = patagonian_devotee_male
+		DevoteeNeuterPlural = patagonian_devotee_male_plural
+		PriestMale = patagonian_priest_male
+		PriestMalePlural = patagonian_priest_male_plural
+		PriestFemale = patagonian_priest_female
+		PriestFemalePlural = patagonian_priest_female_plural
+		PriestNeuter = patagonian_priest_male
+		PriestNeuterPlural = patagonian_priest_male_plural
+		AltPriestTermPlural = paganism_priest_plural
+		BishopMale = patagonian_bishop_male
+		BishopMalePlural = patagonian_bishop_male_plural
+		BishopFemale = patagonian_bishop_female
+		BishopFemalePlural = patagonian_bishop_female_plural
+		BishopNeuter = patagonian_bishop_male
+		BishopNeuterPlural = patagonian_bishop_male_plural
+		DivineRealm = patagonian_divine_realm
+		PositiveAfterLife = patagonian_divine_realm
+		NegativeAfterLife = patagonian_afterlife_negative
+		DeathDeityName = patagonian_death_deity_name
+		DeathDeityNamePossessive = patagonian_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERHIS_ITS
+		WitchGodName = patagonian_devil_name
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}
+
+	faiths = {
+		calafatist = { ##TODO
+			color = { 121 163 117 }
+			icon = calafatist
+			reformed_icon = calafatist_reformed
+
+			doctrine = unreformed_faith_doctrine
+
+			doctrine = tenet_astrology
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_sacramental_herbs
+		}
+	}
+}
