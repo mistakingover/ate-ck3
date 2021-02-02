@@ -1395,7 +1395,7 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
-
+		
 
 		religious_anahuac_high_clothes = {
 			index = 75
@@ -1407,6 +1407,24 @@ accessory_genes = {
 
 			female = {
 				1 = female_clothes_religious_african_high_01_common
+			}
+
+			boy = male
+			girl = female
+		}
+		
+		
+		
+		amazonian_neckpiece_common = {
+			index = 76
+
+			male = {
+				1 = empty
+				
+			}
+
+			female = {
+				1 = empty
 			}
 
 			boy = male

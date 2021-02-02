@@ -270,6 +270,29 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
+		
+		amazonian_loincloth_common = {
+			index = 7
+			male = {
+				1 = male_amazonian_loincloth_common
+			}
+			female = {
+				1 = female_amazonian_loincloth_common
+			}
+			boy = male
+			girl = female
+		}
+		amazonian_loincloth_nobility = {
+			index = 8
+			male = {
+				1 = male_amazonian_loincloth_nobility
+			}
+			female = {
+				1 = female_amazonian_loincloth_nobility
+			}
+			boy = male
+			girl = female
+		}
 	}
 
 
