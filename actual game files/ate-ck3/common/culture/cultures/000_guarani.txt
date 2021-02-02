@@ -181,9 +181,9 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	5 = mediterranean
-	10 = amazonian
-	85 = med_indigenous
+	1 = asian
+	74 = med_indigenous
+	5 = black_white
 }
 	}
 	kaiowa = {
@@ -219,8 +219,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	99 = amazonian
-	1 = med_indigenous
+	70 = amazonian
+	30 = med_indigenous
 }
 	}
 	nhandeva = {
@@ -256,8 +256,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	99 = amazonian
-	1 = med_indigenous
+	70 = amazonian
+	30 = med_indigenous
 }
 	}
 	mbya = {
@@ -293,8 +293,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	99 = amazonian
-	1 = med_indigenous
+	70 = amazonian
+	30 = med_indigenous
 }
 	}
 	kaingang = {
@@ -330,8 +330,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-	90 = amazonian
-	10 = med_indigenous
+	70 = amazonian
+	30 = med_indigenous
 }
 	}
 }
