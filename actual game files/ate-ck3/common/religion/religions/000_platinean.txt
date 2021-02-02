@@ -1,0 +1,268 @@
+platinean_religion = { ##TODO
+	family = rf_antiquarian
+
+	doctrine = antiquarian_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_lay_clergy
+
+	#Marriage
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_restricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_extended_family_crime
+	doctrine = doctrine_deviancy_shunned
+	doctrine = doctrine_witchcraft_crime
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+
+	traits = {
+		virtues = { brave arrogant ambitious vengeful }
+		sins = { craven content humble forgiving }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = holy_order_liberators }
+	}
+
+	holy_order_maa = { minuteman }
+
+	localization = {
+		HighGodName = platinean_high_god_name
+		HighGodNamePossessive = platinean_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_IT
+		HighGodHerselfHimself = CHARACTER_ITSELF
+		HighGodHerHis = CHARACTER_HERHIS_ITS
+		HighGodNameAlternate = platinean_high_god_name_alternate
+		HighGodNameAlternatePossessive = platinean_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = platinean_creator_god_name
+		CreatorNamePossessive = platinean_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_IT
+		CreatorHerHis = CHARACTER_HERHIS_ITS
+		CreatorHerHim = CHARACTER_HERHIM_IT
+
+		#HealthGod
+		HealthGodName = platinean_health_god_name
+		HealthGodNamePossessive = platinean_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = platinean_fertility_god_name
+		FertilityGodNamePossessive = platinean_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = platinean_wealth_god_name
+		WealthGodNamePossessive = platinean_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = platinean_household_god_name
+		HouseholdGodNamePossessive = platinean_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_IT
+		HouseholdGodHerHis = CHARACTER_HERHIS_ITS
+		HouseholdGodHerHim = CHARACTER_HERHIM_IT
+
+		#FateGod
+		FateGodName = platinean_fate_god_name
+		FateGodNamePossessive = platinean_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = platinean_knowledge_god_name
+		KnowledgeGodNamePossessive = platinean_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = platinean_war_god_name
+		WarGodNamePossessive = platinean_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = platinean_trickster_god_name
+		TricksterGodNamePossessive = platinean_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = platinean_night_god_name
+		NightGodNamePossessive = platinean_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = platinean_water_god_name
+		WaterGodNamePossessive = platinean_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		PantheonTerm = platinean_pantheon_the_founders
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			platinean_high_god_name
+			platinean_high_god_name_alternate
+			platinean_good_god_washington
+			platinean_good_god_jefferson
+			platinean_good_god_franklin
+			platinean_good_god_adams
+			platinean_good_god_hamilton
+			platinean_good_god_lincoln
+			platinean_good_god_roosevelt
+			platinean_good_god_uncle_sam
+			platinean_good_god_the_flag
+		}
+		DevilName = platinean_devil_name
+		DevilNamePossessive = platinean_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			platinean_devil_name
+			platinean_evil_god_the_tyrant
+		}
+		HouseOfWorship = platinean_house_of_worship
+		HouseOfWorshipPlural = platinean_house_of_worship_plural
+		ReligiousSymbol = platinean_religious_symbol
+		ReligiousText = platinean_religious_text
+		ReligiousHeadName = platinean_religious_head_title
+		ReligiousHeadTitleName = platinean_religious_head_title_name
+		DevoteeMale = platinean_devotee
+		DevoteeMalePlural = platinean_devoteeplural
+		DevoteeFemale = platinean_devotee
+		DevoteeFemalePlural = platinean_devoteeplural
+		DevoteeNeuter = platinean_devotee
+		DevoteeNeuterPlural = platinean_devoteeplural
+		PriestMale = platinean_priest
+		PriestMalePlural = platinean_priest_plural
+		PriestFemale = platinean_priest
+		PriestFemalePlural = platinean_priest_plural
+		PriestNeuter = platinean_priest
+		PriestNeuterPlural = platinean_priest_plural
+		AltPriestTermPlural = platinean_priest_alternate_plural
+		BishopMale = platinean_priest_alternate
+		BishopMalePlural = platinean_priest_alternate_plural
+		BishopFemale = platinean_priest_alternate
+		BishopFemalePlural = platinean_priest_alternate_plural
+		BishopNeuter = platinean_priest_alternate
+		BishopNeuterPlural = platinean_priest_alternate_plural
+		DivineRealm = platinean_divine_realm
+		PositiveAfterLife = platinean_divine_realm
+		NegativeAfterLife = platinean_afterlife_negative
+		DeathDeityName = platinean_death_deity_name
+		DeathDeityNamePossessive = platinean_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = witchgodname_platinean_marx
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = witch_master
+ 		WitchGodMotherFather = witch_father
+		
+		GHWName = ghw_intervention
+		GHWNamePlural = ghw_interventions
+	}	
+
+	faiths = {
+		farrapo = {
+			color = { 72 0 255 }
+			icon = farrapo
+			#no religious head title yet
+			
+			#special doctrine
+			#doctrine = special_doctrine_freedom_of_speech
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_ritual_celebrations
+		}
+		
+		bandean = {
+			color = { 38 119 160 }
+			icon = bandean
+			#no religious head title yet
+			
+			#special doctrine
+			#doctrine = special_doctrine_freedom_of_speech
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_ritual_celebrations
+		}
+		
+		pirrimano = {
+			color = { 163 92 137 }
+			icon = pirrimano
+			#no religious head title yet
+			
+			#special doctrine
+			#doctrine = special_doctrine_freedom_of_speech
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_ritual_celebrations
+		}
+		
+		san_martinean = {
+			color = { 134 208 216 }
+			icon = san_martinean
+			#no religious head title yet
+			
+			#special doctrine
+			#doctrine = special_doctrine_freedom_of_speech
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_ritual_celebrations
+		}
+		
+		rosalian = {
+			color = { 120 151 160 }
+			icon = san_martinean
+			#no religious head title yet
+			
+			#special doctrine
+			#doctrine = special_doctrine_freedom_of_speech
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_ritual_celebrations
+		}
+		
+	}
+}
