@@ -282,7 +282,7 @@
 			}
 		}
 		tridentinism = {
-			color = { 232 204 153 }
+			color = { 211 186 110 }
 			graphical_faith = "catholic_gfx"
 			icon = tridentine		
 			#Special Tolerance
@@ -354,7 +354,7 @@
 		}
 
 		liberationism = {
-			color = { 216 191 102 }
+			color = { 182 145 28 }
 			graphical_faith = "catholic_gfx"
 			icon = liberationism	
 			#Special Tolerance
@@ -432,7 +432,7 @@
 		}
 
 		apostolicism = {
-			color = { 191 204 76 }
+			color = { 232 232 58 }
 			icon = apostolic
 			graphical_faith = "catholic_gfx"
 						
@@ -521,7 +521,7 @@
 			}
 		}
 		ciceritism = {
-			color = { 191 229 76 }
+			color = { 255 106 0 }
 			icon = cicerite
 			graphical_faith = "catholic_gfx"
 						
@@ -611,7 +611,7 @@
 			}
 		}
 		celestism = {
-			color = { 165 229 102 }
+			color = { 255 178 127 }
 			icon = celeste
 			graphical_faith = "catholic_gfx"
 						
@@ -706,7 +706,7 @@
 			}
 		}		
 		muckerism = {
-			color = { 175 188 95 }
+			color = { 80 66 99 }
 			icon = mucker
 			graphical_faith = "catholic_gfx"
 						
@@ -1277,7 +1277,7 @@
 		}
 
 		particularism = {
-			color = { 216 216 102 }
+			color = { 234 176 53 }
 			icon = particularist
 			religious_head = d_patriarchy_particular
 			graphical_faith = "catholic_gfx"
@@ -1594,7 +1594,7 @@
 			}
 		}	
 		neopentecostalism = {
-			color = { 153 153 204 }
+			color = { 50 29 68 }
 			graphical_faith = "catholic_gfx"
 			icon = neopentecostal
 						
@@ -1621,7 +1621,7 @@
 			}
 		}
 		nonconformism = {
-			color = { 140 178 204 }
+			color = { 149 123 183 }
 			graphical_faith = "catholic_gfx"
 			icon = nonconformism
 						
@@ -2101,6 +2101,478 @@
 				WaterGodSheHe = CHARACTER_SHEHE_HE
 				WaterGodHerHis = CHARACTER_HERHIS_HIS
 				WaterGodHerHim = CHARACTER_HERHIM_HIM
+			}
+		}
+		
+		animism = { ##TODO
+			color = { 224 154 89 }
+			icon = animist
+			religious_head = d_patriarchy_animist
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_latin_rite
+
+			#Tenets
+			doctrine = tenet_pentarchy
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_hallowed_shrines #TODO add the correct one
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_columbus" coat_of_arms = "ho_knights_of_columbus" }
+				{ name = "holy_order_knights_of_peter_claver" coat_of_arms = "ho_knights_of_peter_claver"  }
+			}
+
+			localization = { # A mix of Chilean/Argentinian Saints and Blessed People with some Animitas 
+				#HealthGod
+				HealthGodName = particularism_health_god_name
+				HealthGodNamePossessive = particularism_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = particularism_fertility_god_name
+				FertilityGodNamePossessive = particularism_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = particularism_wealth_god_name
+				WealthGodNamePossessive = particularism_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = particularism_household_god_name
+				HouseholdGodNamePossessive = particularism_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = particularism_knowledge_god_name
+				KnowledgeGodNamePossessive = particularism_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = west_christian_war_god_name
+				WarGodNamePossessive = west_christian_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = particularism_trickster_god_name
+				TricksterGodNamePossessive = particularism_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGod = particularism_night_god_name
+				NightGodNamePossessive = particularism_night_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = west_christian_water_god_name
+				WaterGodNamePossessive = west_christian_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+			}
+		}
+		
+		santa_diablada = { ##TODO
+			color = { 181 14 17 }
+			icon = santa_diablada
+			#religious_head = d_patriarchy_diablada
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_saintly_spirits
+
+			#Tenets
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_communal_identity
+			doctrine = tenet_hallowed_shrines #TODO add the correct one
+			#Theology
+			doctrine = doctrine_no_head
+			doctrine = doctrine_pluralism_pluralistic
+
+		}
+		
+		divina_chicha = { ##TODO
+			color = { 175 144 117 }
+			icon = divina_chicha
+			#religious_head = d_patriarchy_diablada
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_saintly_spirits
+
+			#Tenets
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_communal_identity
+			doctrine = tenet_sky_burials #TODO add the correct one
+			#Theology
+			doctrine = doctrine_no_head
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_clerical_function_alms_and_pacification
+
+		}
+		##nino_compadrito ##TODO
+		
+		pentecostalism = { ##TODO
+			color = { 142 137 175 }
+			graphical_faith = "catholic_gfx"
+			icon = pentecostal
+						
+			#Special Tolerance
+			doctrine = special_doctrine_mainstream_protestant
+
+			#Tenets
+			doctrine = tenet_sola_fide
+			doctrine = tenet_open_air_preachers
+			doctrine = tenet_gifts_of_the_spirit
+			
+			doctrine = doctrine_no_head
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_clerical_succession_spiritual_temporal_appointment
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_theocracy_lay_clergy
+			
+			#Theology
+			doctrine = doctrine_baptism_believers
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_salvation" coat_of_arms = "ho_knights_of_salvation" }
+				{ name = "holy_order_national_cathedral_association" coat_of_arms = "ho_national_cathedral_association"  }
+			}
+		}
+		
+		benzedura = { ##TODO
+			color = { 182 255 0 }
+			icon = benzedeira
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_latin_rite
+			#Main Doctrines
+			doctrine = doctrine_pluralism_pluralistic 
+			doctrine = doctrine_clerical_marriage_allowed
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_witchcraft_accepted
+			#Tenets
+			doctrine = tenet_faith_healing
+			doctrine = tenet_adaptive
+			doctrine = tenet_esotericism
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_nha_chica" coat_of_arms = "ho_knights_of_christs_cross" }
+			}
+
+			localization = { # Utilizes Brazilian Saints
+				#HealthGod
+				HealthGodName = apostolicism_health_god_name
+				HealthGodNamePossessive = apostolicism_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = apostolicism_fertility_god_name
+				FertilityGodNamePossessive = apostolicism_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = apostolicism_wealth_god_name
+				WealthGodNamePossessive = apostolicism_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = apostolicism_household_god_name
+				HouseholdGodNamePossessive = apostolicism_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = apostolicism_knowledge_god_name
+				KnowledgeGodNamePossessive = apostolicism_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = ciceritism_war_god_name
+				WarGodNamePossessive = ciceritism_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = apostolicism_trickster_god_name
+				TricksterGodNamePossessive = apostolicism_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = apostolicism_water_god_name
+				WaterGodNamePossessive = apostolicism_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = apostolicism_night_god_name
+				NightGodNamePossessive = apostolicism_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				DevoteeMale = apostolicism_devotee_male
+				DevoteeMalePlural = apostolicism_devotee_male_plural
+			}
+		}
+		
+		santo_daime = { ##TODO
+			color = { 91 127 0 }
+			icon = santo_daime
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_saintly_spirits
+			#Main Doctrines
+			doctrine = doctrine_pluralism_pluralistic 
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_gender_either
+			#Clerical Functions
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_deviancy_accepted
+			#Tenets
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_inner_journey
+			doctrine = tenet_adaptive
+			#Theology
+			doctrine = doctrine_baptism_believers
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_the_daime" coat_of_arms = "ho_knights_of_christs_cross" }
+			}
+
+			localization = { # Utilizes Brazilian Saints
+				#HealthGod
+				HealthGodName = apostolicism_health_god_name
+				HealthGodNamePossessive = apostolicism_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = apostolicism_fertility_god_name
+				FertilityGodNamePossessive = apostolicism_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = apostolicism_wealth_god_name
+				WealthGodNamePossessive = apostolicism_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = apostolicism_household_god_name
+				HouseholdGodNamePossessive = apostolicism_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = apostolicism_knowledge_god_name
+				KnowledgeGodNamePossessive = apostolicism_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = apostolicism_war_god_name
+				WarGodNamePossessive = apostolicism_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = apostolicism_trickster_god_name
+				TricksterGodNamePossessive = apostolicism_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = apostolicism_water_god_name
+				WaterGodNamePossessive = apostolicism_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = apostolicism_night_god_name
+				NightGodNamePossessive = apostolicism_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				DevoteeMale = apostolicism_devotee_male
+				DevoteeMalePlural = apostolicism_devotee_male_plural
+			}
+		}
+		
+		culto_dos_santos = { ##TODO
+			color = { 204 159 102 }
+			icon = culto_dos_santos
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_latin_rite
+			#Main Doctrines
+			doctrine = doctrine_pluralism_pluralistic 
+			#Clerical Functions
+			doctrine = doctrine_witchcraft_shunned
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_deviancy_shunned
+			#Tenets
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_ritual_hospitality
+			doctrine = tenet_afro_syncretism ##TODO
+			#Theology
+			doctrine = doctrine_baptism_believers
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_the_good_end" coat_of_arms = "ho_knights_of_christs_cross" }
+			}
+
+			localization = { # Utilizes Brazilian Saints
+				#HealthGod
+				HealthGodName = apostolicism_health_god_name
+				HealthGodNamePossessive = apostolicism_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#FertilityGod
+				FertilityGodName = apostolicism_fertility_god_name
+				FertilityGodNamePossessive = apostolicism_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_HE
+				FertilityGodHerHis = CHARACTER_HERHIS_HIS
+				FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WealthGod
+				WealthGodName = apostolicism_wealth_god_name
+				WealthGodNamePossessive = apostolicism_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = apostolicism_household_god_name
+				HouseholdGodNamePossessive = apostolicism_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = apostolicism_knowledge_god_name
+				KnowledgeGodNamePossessive = apostolicism_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = apostolicism_war_god_name
+				WarGodNamePossessive = apostolicism_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = apostolicism_trickster_god_name
+				TricksterGodNamePossessive = apostolicism_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = apostolicism_water_god_name
+				WaterGodNamePossessive = apostolicism_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				#NightGod
+				NightGodName = apostolicism_night_god_name
+				NightGodNamePossessive = apostolicism_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				DevoteeMale = apostolicism_devotee_male
+				DevoteeMalePlural = apostolicism_devotee_male_plural
+			}
+		}
+		
+		bnei_anussim = { ##TODO
+		color = { 0 148 255 }
+			icon = anussim
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			#doctrine = special_doctrine_latin_rite
+			#Main Doctrines
+			#Clerical Functions
+			#Tenets
+			doctrine = tenet_jewish_syncretism
+			doctrine = tenet_communal_identity
+			doctrine = tenet_religious_legal_pronouncements ##TODO
+			#Theology
+			#doctrine = doctrine_baptism_believers
+		}
+		
+		byzantine_rite = { ##TODO
+			color = { 178 0 255 }
+			icon = byzantine
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			doctrine = special_doctrine_latin_rite
+			#Main Doctrines
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_communal_identity
+			doctrine = tenet_monasticism
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_saint_basil" coat_of_arms = "ho_knights_of_christs_cross" }
 			}
 		}
 	}

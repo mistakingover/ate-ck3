@@ -353,7 +353,13 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	8 = african
+	2 = asian
+	74 = caucasian
+	3 = mediterranean
+	3 = med_indigenous
+	8 = black_white
+	2 = multiracial
 }
 	}
 	melungeon = {
@@ -524,7 +530,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	2 = asian
+	34 = caucasian
+	3 = mediterranean
+	2 = med_indigenous
+	4 = black_white
+	50 = multiracial
 }
 	}
 	riverlander = {
@@ -755,7 +767,13 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	2 = asian
+	84 = caucasian
+	3 = mediterranean
+	2 = med_indigenous
+	3 = black_white
+	1 = multiracial
 }
 	}
 	ozark = {
@@ -990,7 +1008,12 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	2 = asian
+	75 = south indian
+	5 = mediterranean
+	3 = white_indigenous
+	5 = black_white
 }
 	}
 	okie = {
@@ -1204,7 +1227,11 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-	10 = caucasian
+	7 = african
+	5 = asian
+	80 = caucasian
+	5 = med_indigenous
+	3 = black_white
 }
 	}
 }
