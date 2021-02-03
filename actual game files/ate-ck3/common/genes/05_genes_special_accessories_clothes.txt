@@ -1419,12 +1419,14 @@ accessory_genes = {
 			index = 76
 
 			male = {
-				1 = empty
+				#1 = empty
+				2 = male_clothing_secular_amazonian_common_01
 				
 			}
 
 			female = {
-				1 = empty
+				#1 = empty
+				2 = female_clothing_secular_amazonian_common_01
 			}
 
 			boy = male

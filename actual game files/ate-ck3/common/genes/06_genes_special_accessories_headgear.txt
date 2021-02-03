@@ -1051,7 +1051,7 @@ accessory_genes = {
 		hat_cedar = {
 			index = 70
 			male = {
-				10 = male_headgear_secular_haida_common_01
+				1 = male_headgear_secular_haida_common_01
 				
 			}
 			female = male
@@ -1061,7 +1061,7 @@ accessory_genes = {
 		nwc_low_nobility_01 = {
 			index = 71
 			male = {
-				20 = male_headgear_secular_haida_low_nobility_01
+				1 = male_headgear_secular_haida_low_nobility_01
 				
 			}
 			female = male
@@ -1071,7 +1071,7 @@ accessory_genes = {
 		nwc_high_nobility_01 = {
 			index = 72
 			male = {
-				100 = male_headgear_secular_haida_high_nobility_01
+				1 = male_headgear_secular_haida_high_nobility_01
 				
 			}
 			female = male
@@ -1081,7 +1081,7 @@ accessory_genes = {
 		nwc_royalty = {
 			index = 73
 			male = {
-				100 = male_headgear_secular_haida_royalty_01
+				1 = male_headgear_secular_haida_royalty_01
 				
 			}
 			female = male
@@ -1094,7 +1094,7 @@ accessory_genes = {
 		hat_chullo = {
 			index = 74
 			male = {
-				10 = male_headgear_secular_andean_common_01
+				1 = male_headgear_secular_andean_common_01
 				
 			}
 			female = male
@@ -1215,8 +1215,8 @@ accessory_genes = {
 		cowboy_common = {
 			index = 85
 			male = {
-				10 = male_headgear_secular_ate_cowboy_common_01
-				10 = male_headgear_secular_ate_cowboy_common_02
+				1 = male_headgear_secular_ate_cowboy_common_01
+				1 = male_headgear_secular_ate_cowboy_common_02
 				
 			}
 			female = male
@@ -1226,8 +1226,8 @@ accessory_genes = {
 		cowboy_low_nobility = {
 			index = 86
 			male = {
-				10 = male_headgear_secular_ate_cowboy_low_nobility_01
-				10 = male_headgear_secular_ate_cowboy_low_nobility_02
+				1 = male_headgear_secular_ate_cowboy_low_nobility_01
+				1 = male_headgear_secular_ate_cowboy_low_nobility_02
 				
 			}
 			female = male
@@ -1237,8 +1237,8 @@ accessory_genes = {
 		cowboy_high_nobility = {
 			index = 87
 			male = {
-				10 = male_headgear_secular_ate_cowboy_high_nobility_01
-				10 = male_headgear_secular_ate_cowboy_high_nobility_02
+				1 = male_headgear_secular_ate_cowboy_high_nobility_01
+				1 = male_headgear_secular_ate_cowboy_high_nobility_02
 				
 			}
 			female = male
@@ -1248,8 +1248,8 @@ accessory_genes = {
 		cowboy_royalty = {
 			index = 88
 			male = {
-				10 = male_headgear_secular_ate_cowboy_royalty_01
-				10 = male_headgear_secular_ate_cowboy_royalty_02
+				1 = male_headgear_secular_ate_cowboy_royalty_01
+				1 = male_headgear_secular_ate_cowboy_royalty_02
 				
 			}
 			female = male

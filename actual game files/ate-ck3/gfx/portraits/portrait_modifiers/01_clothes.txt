@@ -2101,11 +2101,6 @@ clothes = {
 		dna_modifiers = {
             accessory = {
 				mode = add
-                gene = legwear
-                template = amazonian_loincloth_common
-            }
-            accessory = {
-				mode = add
                 gene = clothes
                 template = amazonian_neckpiece_common
             }
@@ -2129,11 +2124,6 @@ clothes = {
 
 	amazonian_nobility_low = {
 		dna_modifiers = {
-            accessory = {
-				mode = add
-                gene = legwear
-                template = amazonian_loincloth_nobility
-            }
             accessory = {
 				mode = add
                 gene = clothes

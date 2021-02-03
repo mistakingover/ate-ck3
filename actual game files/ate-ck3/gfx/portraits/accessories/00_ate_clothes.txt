@@ -54,6 +54,14 @@ female_amazonian_loincloth_nobility = {
 male_amazonian_loincloth_nobility = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_amazonian_loincloth_nobility_entity }
 }
+
+
+male_clothing_secular_amazonian_common_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothing_secular_amazonian_common_01_entity }
+}
+female_clothing_secular_amazonian_common_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothing_secular_amazonian_common_01_entity }
+}
 ##########################################################################
 
 
