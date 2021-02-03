@@ -2575,5 +2575,41 @@
 				{ name = "holy_order_knights_of_saint_basil" coat_of_arms = "ho_knights_of_christs_cross" }
 			}
 		}
+		
+				
+		israelite = { #TODO
+			color = { 31 96 165 }
+			icon = israelite
+
+			#special doctrine
+			doctrine = special_doctrine_shema_yisrael
+			
+			#tenets
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_sola_scriptura
+			doctrine = tenet_religious_legal_pronouncements
+
+			#Doctrines
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_deviancy_crime
+			doctrine = doctrine_homosexuality_crime
+			doctrine = doctrine_witchcraft_crime
+			doctrine = doctrine_pluralism_fundamentalist
+		}
+		
+		peace_church = { #TODO
+			color = { 20 62 84 }
+			icon = peace_church
+
+			#special doctrine
+			doctrine = special_doctrine_protestant_heritage
+			
+			#tenets
+			doctrine = tenet_pacifism
+			doctrine = tenet_monasticism
+			doctrine = tenet_communion
+
+			#Doctrines
+		}
 	}
 }

@@ -284,8 +284,8 @@
 			}
 		}
 		
-		amazonian = { #needs localization
-			color = { 76 127 178 }
+		edah_amazonah = { #needs localization
+			color = { 0 148 151 }
 			icon = malabarism
 
 			#special doctrine
@@ -302,5 +302,6 @@
 			#Doctrines
 			doctrine = doctrine_spiritual_head
 		}
+
 	}
 }
