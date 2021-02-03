@@ -1276,8 +1276,8 @@
 			}
 		}
 
-		particularism = {
-			color = { 234 176 53 }
+		particularist = {
+			color = { 224 176 53 }
 			icon = particularist
 			religious_head = d_patriarchy_particular
 			graphical_faith = "catholic_gfx"
@@ -2736,5 +2736,27 @@
 				BishopNeuterPlural = patria_grande_bishop_plural
 			}
 		}
+		
+		rosalimense = { #TODO
+			color = { 224 198 124 }
+			graphical_faith = "catholic_gfx"
+			icon = rosalimense	
+			#Special Tolerance
+			doctrine = special_doctrine_catholic_heritage
+			#Main Doctrines
+			doctrine = doctrine_no_head
+			doctrine = doctrine_pluralism_pluralistic
+			#doctrine = doctrine_theocracy_lay_clergy
+			doctrine = doctrine_gender_equal
+			#Clerical Doctrines
+			doctrine = doctrine_clerical_function_control
+			doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+			#Tenets
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_monasticism
+			doctrine = tenet_communal_identity
+			#Theology
+			doctrine = doctrine_baptism_infant
+			}
 	}
 }

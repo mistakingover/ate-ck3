@@ -1,4 +1,4 @@
-﻿chon_religion = {
+mapuche_religion = {
 	family = rf_amerindian
 	graphical_faith = pagan_gfx
 	doctrine = amerindian_hostility_doctrine
@@ -43,142 +43,142 @@
 	holy_order_maa = { bush_hunter }
 
 	localization = {
-		HighGodName = chon_high_god_name
-		HighGodNamePossessive = chon_high_god_name_possessive
+		HighGodName = mapuche_high_god_name
+		HighGodNamePossessive = mapuche_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
 		HighGodHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternate = chon_high_god_name_alternate
-		HighGodNameAlternatePossessive = chon_high_god_name_alternate_possessive
+		HighGodNameAlternate = mapuche_high_god_name_alternate
+		HighGodNameAlternatePossessive = mapuche_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = chon_creator_god_name
-		CreatorNamePossessive = chon_creator_god_name_possessive
+		CreatorName = mapuche_creator_god_name
+		CreatorNamePossessive = mapuche_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_HE
 		CreatorHerHis = CHARACTER_HERHIS_HIS
 		CreatorHerHim = CHARACTER_HERHIM_HIM
 
 		#HealthGod
-		HealthGodName = chon_health_god_name
-		HealthGodNamePossessive = chon_health_god_name_possessive
+		HealthGodName = mapuche_health_god_name
+		HealthGodNamePossessive = mapuche_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_THEY
 		HealthGodHerHis = CHARACTER_HERHIS_THEIR
 		HealthGodHerHim = CHARACTER_HERHIM_THEM
 		
 		#FertilityGod
-		FertilityGodName = chon_fertility_god_name
-		FertilityGodNamePossessive = chon_fertility_god_name_possessive
+		FertilityGodName = mapuche_fertility_god_name
+		FertilityGodNamePossessive = mapuche_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = chon_wealth_god_name
-		WealthGodNamePossessive = chon_wealth_god_name_possessive
+		WealthGodName = mapuche_wealth_god_name
+		WealthGodNamePossessive = mapuche_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_THEY
 		WealthGodHerHis = CHARACTER_HERHIS_THEIR
 		WealthGodHerHim = CHARACTER_HERHIM_THEM
 
 		#HouseholdGod
-		HouseholdGodName = chon_household_god_name
-		HouseholdGodNamePossessive = chon_household_god_name_possessive
+		HouseholdGodName = mapuche_household_god_name
+		HouseholdGodNamePossessive = mapuche_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_THEY
 		HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
 		HouseholdGodHerHim = CHARACTER_HERHIM_THEM
 
 		#FateGod
-		FateGodName = chon_fate_god_name
-		FateGodNamePossessive = chon_fate_god_name_possessive
+		FateGodName = mapuche_fate_god_name
+		FateGodNamePossessive = mapuche_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_IT
 		FateGodHerHis = CHARACTER_HERHIS_ITS
 		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
-		KnowledgeGodName = chon_knowledge_god_name
-		KnowledgeGodNamePossessive = chon_knowledge_god_name_possessive
+		KnowledgeGodName = mapuche_knowledge_god_name
+		KnowledgeGodNamePossessive = mapuche_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
 
 		#WarGod
-		WarGodName = chon_war_god_name
-		WarGodNamePossessive = chon_war_god_name_possessive
+		WarGodName = mapuche_war_god_name
+		WarGodNamePossessive = mapuche_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = chon_trickster_god_name
-		TricksterGodNamePossessive = chon_trickster_god_name_possessive
+		TricksterGodName = mapuche_trickster_god_name
+		TricksterGodNamePossessive = mapuche_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = chon_night_god_name
-		NightGodNamePossessive = chon_night_god_name_possessive
+		NightGodName = mapuche_night_god_name
+		NightGodNamePossessive = mapuche_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_IT
 		NightGodHerHis = CHARACTER_HERHIS_ITS
 		NightGodHerHim = CHARACTER_HERHIM_IT
 
 		#WaterGod
-		WaterGodName = chon_water_god_name
-		WaterGodNamePossessive = chon_water_god_name_possessive
+		WaterGodName = mapuche_water_god_name
+		WaterGodNamePossessive = mapuche_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_HE
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
 
 
 		GoodGodNames = { 
-			chon_high_god_name 
-			chon_high_god_name_alternate 
-			chon_health_god_name 
-			chon_fertility_god_name 
-			chon_wealth_god_name 
-			chon_household_god_name 
-			chon_knowledge_god_name 
-			chon_war_god_name 
-			chon_night_god_name 
-			chon_water_god_name
+			mapuche_high_god_name 
+			mapuche_high_god_name_alternate 
+			mapuche_health_god_name 
+			mapuche_fertility_god_name 
+			mapuche_wealth_god_name 
+			mapuche_household_god_name 
+			mapuche_knowledge_god_name 
+			mapuche_war_god_name 
+			mapuche_night_god_name 
+			mapuche_water_god_name
 		}
-		PantheonTerm = chon_pantheon
+		PantheonTerm = mapuche_pantheon
 		PantheonTerm = pantheon_term_have
-		DevilName = chon_devil_name
-		DevilNamePossessive = chon_devil_name_possessive
+		DevilName = mapuche_devil_name
+		DevilNamePossessive = mapuche_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_THEY
 		DevilHerHis = CHARACTER_HERHIS_THEIR
-		DevilHerselfHimself = chon_devil_herselfhimself
-		EvilGodNames = { chon_devil_name }
-		HouseOfWorship = chon_house_of_worship
-		HouseOfWorshipPlural = chon_house_of_worship_plural
-		ReligiousSymbol = chon_religious_symbol
-		ReligiousText = chon_religious_text
-		ReligiousHeadName = chon_religious_head_title
-		ReligiousHeadTitleName = chon_religious_head_title_name
-		DevoteeMale = chon_devotee
-		DevoteeMalePlural = chon_devoteeplural
-		DevoteeFemale = chon_devotee
-		DevoteeFemalePlural = chon_devoteeplural
-		DevoteeNeuter = chon_devotee
-		DevoteeNeuterPlural = chon_devoteeplural
-		PriestMale = chon_priest
-		PriestMalePlural = chon_priest_plural
-		PriestFemale = chon_priest
-		PriestFemalePlural = chon_priest_plural
-		PriestNeuter = chon_priest
-		PriestNeuterPlural = chon_priest_plural
-		AltPriestTermPlural = chon_priest_alternate_plural
-		BishopMale = chon_priest
-		BishopMalePlural = chon_priest_plural
-		BishopFemale = chon_priest
-		BishopFemalePlural = chon_priest_plural
-		BishopNeuter = chon_priest
-		BishopNeuterPlural = chon_priest_plural
-		DivineRealm = chon_divine_realm
-		PositiveAfterLife = chon_divine_realm
-		NegativeAfterLife = chon_divine_realm
-		DeathDeityName = chon_death_name
-		DeathDeityNamePossessive = chon_death_name_possessive
+		DevilHerselfHimself = mapuche_devil_herselfhimself
+		EvilGodNames = { mapuche_devil_name }
+		HouseOfWorship = mapuche_house_of_worship
+		HouseOfWorshipPlural = mapuche_house_of_worship_plural
+		ReligiousSymbol = mapuche_religious_symbol
+		ReligiousText = mapuche_religious_text
+		ReligiousHeadName = mapuche_religious_head_title
+		ReligiousHeadTitleName = mapuche_religious_head_title_name
+		DevoteeMale = mapuche_devotee
+		DevoteeMalePlural = mapuche_devoteeplural
+		DevoteeFemale = mapuche_devotee
+		DevoteeFemalePlural = mapuche_devoteeplural
+		DevoteeNeuter = mapuche_devotee
+		DevoteeNeuterPlural = mapuche_devoteeplural
+		PriestMale = mapuche_priest
+		PriestMalePlural = mapuche_priest_plural
+		PriestFemale = mapuche_priest
+		PriestFemalePlural = mapuche_priest_plural
+		PriestNeuter = mapuche_priest
+		PriestNeuterPlural = mapuche_priest_plural
+		AltPriestTermPlural = mapuche_priest_alternate_plural
+		BishopMale = mapuche_priest
+		BishopMalePlural = mapuche_priest_plural
+		BishopFemale = mapuche_priest
+		BishopFemalePlural = mapuche_priest_plural
+		BishopNeuter = mapuche_priest
+		BishopNeuterPlural = mapuche_priest_plural
+		DivineRealm = mapuche_divine_realm
+		PositiveAfterLife = mapuche_divine_realm
+		NegativeAfterLife = mapuche_divine_realm
+		DeathDeityName = mapuche_death_name
+		DeathDeityNamePossessive = mapuche_death_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
 		WitchGodName = witchgodname_chon
@@ -193,21 +193,17 @@
 	}	
 
 	faiths = {
-		xoon = {
-			color = { 112 69 82 }
-			icon = xoon
+		nguillatun = {
+			color = { 39 170 89 }
+			icon = nguillatun
 
-			#holy_site = trinidad
-			#holy_site = ciudad_bolivar
-			#holy_site = caracas
-			#holy_site = yaracui
-			#holy_site = san_juan
-
-			doctrine = tenet_communal_identity
+			doctrine = tenet_armed_pilgrimages
 			doctrine = tenet_ancestor_worship
-			doctrine = tenet_esotericism
+			doctrine = tenet_sanctity_of_nature
 
 			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_clerical_gender_female_only
+			doctrine = doctrine_clerical_function_alms_and_pacification
 			doctrine = doctrine_adultery_men_shunned
 			doctrine = doctrine_adultery_women_crime
 		}	
