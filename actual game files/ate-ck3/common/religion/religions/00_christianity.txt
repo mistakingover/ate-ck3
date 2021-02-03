@@ -1136,7 +1136,7 @@
 		}
 
 		patria_grande = {
-			color = { 216 216 76 }
+			color = { 204 79 57 }
 			icon = patria_grande
 			graphical_faith = "catholic_gfx"
 			religious_head = d_caudillo_patria_grande					
@@ -2593,6 +2593,148 @@
 			doctrine = tenet_communion
 
 			#Doctrines
+		}
+		
+		madre_patria = { ##TODO
+			color = { 175 142 49 }
+			icon = madre_patria
+			graphical_faith = "catholic_gfx"
+			religious_head = d_caudilla_madre_patria					
+			#Special Tolerance
+			doctrine = special_doctrine_saintly_spirits
+			#Tenets
+			doctrine = tenet_national_pantheon
+			doctrine = tenet_tax_nonbelievers
+			doctrine = tenet_constituyente_primario
+			#Main
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_theocracy_town_clergy
+			#Marriage
+			doctrine = doctrine_concubines
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
+			#Clerical
+			doctrine = doctrine_gender_female_dominated
+			doctrine = doctrine_clerical_gender_female_only
+			doctrine = doctrine_clerical_marriage_allowed
+			#Crime
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_kinslaying_extended_family_crime
+			#Theology
+			doctrine = doctrine_baptism_infant
+
+			holy_order_names = {
+				{ name = "holy_order_knights_of_aparecida" coat_of_arms = "ho_knights_of_christs_cross" }
+				{ name = "holy_order_knights_of_the_new_song" coat_of_arms = "ho_order_of_the_golden_bunnya"  }
+			}
+
+			localization = { # Utilizes Northern South America Saints and Procers
+				#Creator
+				CreatorGod = patria_grande_creator_god_name
+				CreatorGodNamePossessive = patria_grande_creator_god_name_possessive
+				CreatorGodSheHe = CHARACTER_SHEHE_HE
+				CreatorGodHerHis = CHARACTER_HERHIS_HIS
+				CreatorGodHerHim = CHARACTER_HERHIM_HIM
+				#HealthGod
+				HealthGodName = patria_grande_health_god_name
+				HealthGodNamePossessive = patria_grande_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FertilityGod
+				FertilityGodName = patria_grande_fertility_god_name
+				FertilityGodNamePossessive = patria_grande_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = patria_grande_wealth_god_name
+				WealthGodNamePossessive = patria_grande_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_SHE
+				WealthGodHerHis = CHARACTER_HERHIS_HER
+				WealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#HouseholdGod
+				HouseholdGodName = patria_grande_household_god_name
+				HouseholdGodNamePossessive = patria_grande_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				#FateGod
+				KnowledgeGodName = patria_grande_fate_god_name
+				KnowledgeGodNamePossessive = patria_grande_fate_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#KnowledgeGod
+				KnowledgeGodName = patria_grande_knowledge_god_name
+				KnowledgeGodNamePossessive = patria_grande_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = patria_grande_war_god_name
+				WarGodNamePossessive = patria_grande_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#TricksterGod
+				TricksterGod = patria_grande_trickster_god_name
+				TricksterGodNamePossessive = patria_grande_trickster_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHES_HE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = patria_grande_water_god_name
+				WaterGodNamePossessive = patria_grande_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = patria_grande_night_god_name
+				NightGodNamePossessive = patria_grande_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIM
+				NightGodHerHim = CHARACTER_HERHIM_HIM
+				GoodGodNames = { 
+					patria_grande_creator_god_name
+					patria_grande_health_god_name 
+					patria_grande_fertility_god_name 
+					patria_grande_wealth_god_name 
+					patria_grande_household_god_name 
+					patria_grande_knowledge_god_name 
+					patria_grande_war_god_name 
+					patria_grande_trickster_god_name 
+					patria_grande_night_god_name 
+					patria_grande_water_god_name
+				}
+				DevilName = patria_grande_devil_name
+				DevilNamePossessive = patria_grande_devil_name_possessive
+				DevilSheHe = CHARACTER_SHEHE_HE
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerHis = CHARACTER_HERHIS_HIS
+				DevilHerselfHimself = CHARACTER_HIMSELF
+				EvilGodNames = {
+					patria_grande_devil_name
+					patria_grande_evil_god_pepe_botella
+					patria_grande_evil_god_pablo_morillo
+				}
+				BishopMale = patria_grande_bishop
+				BishopMalePlural = patria_grande_bishop_plural
+				BishopFemale = patria_grande_bishop
+				BishopFemalePlural = patria_grande_bishop_plural
+				BishopNeuter = patria_grande_bishop
+				BishopNeuterPlural = patria_grande_bishop_plural
+			}
 		}
 	}
 }
