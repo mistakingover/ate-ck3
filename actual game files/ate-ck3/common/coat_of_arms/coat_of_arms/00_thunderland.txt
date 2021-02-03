@@ -260,7 +260,8 @@ d_palliser = {
 		instance = { position = { 0.5 0.3 } scale = { -0.5 0.5 }  }
 	}
 }
-d_saskatchewan = {
+
+k_saskatchewan = {
 	pattern = "pattern_horizontal_split_02.dds"
 	color1 = "green_light"
 	color2 = "yellow"
@@ -278,6 +279,20 @@ d_saskatchewan = {
 		color1 = "red"
 		color2 = "blue"
 		instance = { position = { 0.5 0.17 } scale = { 0.9 0.9 }  }
+	}
+}
+d_saskatchewan = {
+	pattern = "pattern_solid.dds"
+	color1 = "green_light"
+	color2 = "green_light"
+	
+	colored_emblem = {
+		texture = "ce_grain.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.33 0.65 }  }
+		instance = { position = { 0.25 0.5 } scale = { 0.33 0.65 }  }
+		instance = { position = { 0.75 0.5 } scale = { 0.33 0.65 }  }
 	}
 }
 d_chinook = {

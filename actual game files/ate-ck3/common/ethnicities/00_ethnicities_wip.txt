@@ -12,7 +12,7 @@ amerindian = {
 #}
 
 andean = {
- template = "mesoamerican"
+ template = "base_andean"
 }
 
 amazonian = {
@@ -29,41 +29,78 @@ lagid = {
 }
 
 med_indigenous = {
- template = "base_amazonian"
- 
-	skin_color = {
-		10 = { 0 0.55 0.2 0.65 }
-		10 = { 0.5 0.4 0.8 0.5 }
-		40 = { 0.25 0.475 0.5 0.575 }
-		5 = { 0.615 0.756 0.765 0.906 }
-		5 = { 0.58 0.76 0.73 0.91 }
-		5 = { 0.498 0.678 0.648 0.828 }
-		5 = { 0.498 0.678 0.648 0.828 }
-		5 = { 0.494 0.701 0.644 0.851 }
-		5 = { 0.619 0.749 0.769 0.899 }
+ template = "mediterranean"
+ 	skin_color = {
+		70 = { 0.4 0.5 0.8 0.65 }
+		30 = { 0.4 0.6 0.7 0.7 }
 	}
-
 	eye_color = {
+		# Brown
+		50 = { 0.05 0.7 0.35 1.0 }
+		# Black
 		50 = { 0.05 0.95 0.35 1.0 }
-		20 = { 0.05 0.5 0.33 0.8 }
-        # Green
-        5 = { 0.33 0.5 0.67 0.8 }
 	}
 	hair_color = {
-		40 = { 0 0.95 0.4 1.0 }
-		5 = { 0.65 0.7 0.9 1.0 }
+		# Blonde
+		# 10 = { 0.25 0.2 0.75 0.55 }
+		# Brown
+		2 = { 0.65 0.7 0.9 1.0 }
+		# # Red
+		# 10 = { 0.85 0.0 1.0 0.5 }
+		# Black
+		98 = { 0.01 0.9 0.5 0.99 }
 	}
+
 	hairstyles = {
-	    10 = { name = mesoamerican_hairstyles           range = { 0.0 1.0 } }
-		10 = { name = western_hairstyles          range = { 0.0 1.0 } }
-
+	    10 = { name = mena_hairstyles          range = { 0.0 1.0 } }
+	    10 = { name = byzantine_hairstyles          range = { 0.0 1.0 } }
+	    10 = { name = western_hairstyles          range = { 0.0 1.0 } }
 	}
+
 	beards = {
-		 10 = { name = no_beard 		range = { 0.0 0.0 } }
-		10 = { name = western_beards          range = { 0.0 1.0 } }
+	    50 = { name = western_beards          range = { 0.0 1.0 } }
+	    50 = { name = no_beard          range = { 0.0 1.0 } }
 
 	}
- 
+	gene_bs_nose_profile = {
+	    0 = { name = nose_profile_neg    range = { 0.4 0.5   }    }
+	    0 = { name = nose_profile_neg    range = { 0.15 0.4  }    }
+	    0 = { name = nose_profile_neg    range = { 0.0 0.15  }    }
+	    40 = { name = nose_profile_pos    range = { 0.0 0.15  }    }
+	    15 = { name = nose_profile_pos    range = { 0.15 0.4  }    }
+	    5 = { name = nose_profile_pos    range = { 0.4 0.5   }    }
+
+	}
+
+	gene_bs_nose_nostril_width = {
+	    0 = { name = nose_nostril_width_neg    range = { @blend3min @blend3max }    }
+	    0 = { name = nose_nostril_width_neg    range = { @blend2min @blend2max }    }
+	    15 = { name = nose_nostril_width_neg    range = { @blend1min @blend1max }    }
+	    40 = { name = nose_nostril_width_pos    range = { @blend1min @blend1max }    }
+	    15 = { name = nose_nostril_width_pos    range = { @blend2min @blend2max }    }
+	    0 = { name = nose_nostril_width_pos    range = { @blend3min @blend3max }    }
+
+	}
+
+	gene_bs_nose_ridge_width = {
+	    0 = { name = nose_ridge_width_neg    range = { @blend3min @blend3max }    }
+	    1 = { name = nose_ridge_width_neg    range = { @blend2min @blend2max }    }
+	    20 = { name = nose_ridge_width_neg    range = { @blend1min @blend1max }    }
+	    40 = { name = nose_ridge_width_pos    range = { @blend1min @blend1max }    }
+	    20 = { name = nose_ridge_width_pos    range = { @blend2min @blend2max }    }
+	    5 = { name = nose_ridge_width_pos    range = { @blend3min @blend3max }    }
+
+	}
+
+	gene_bs_nose_tip_angle = {
+	    1 = { name = nose_tip_angle_neg    range = { 0.4 0.5   }    }
+	    15 = { name = nose_tip_angle_neg    range = { 0.15 0.4  }    }
+	    40 = { name = nose_tip_angle_neg    range = { 0.0 0.15  }    }
+	    20 = { name = nose_tip_angle_pos    range = { @blend1min @blend1max  }    }
+	    # 25 = { name = nose_tip_angle_pos    range = { @blend2min @blend2max  }    }
+	    # 10 = { name = nose_tip_angle_pos    range = { @blend3min @blend3max   }    }
+
+	} 
 }
 
 white_indigenous = {
@@ -99,22 +136,52 @@ white_indigenous = {
 
 black_white = {
  template = "african"
- skin_color = {
-		10 = { 0.4 0.7 0.7 0.85 }
-		10 = { 0.0 0.1 0.5 0.15 }
-		40 = { 0.2 0.4 0.6 0.5 }
+	skin_color = {
+		80 = { 0.4 0.6 0.7 0.7 }
+		20 = { 0.4 0.7 0.7 0.85 }
 	}
-	
-	hairstyles = {
-		10 = { name = western_hairstyles          range = { 0.0 1.0 } }
-	    10 = { name = sub_saharan_hairstyles          range = { 0.0 1.0 } }
-	    10 = { name = mena_hairstyles          range = { 0.0 1.0 } }
+	eye_color = {
+		# Brown
+		10 = { 0.05 0.7 0.35 1.0 }
+		# Black
+		90 = { 0.05 0.95 0.35 1.0 }
 	}
-	
-	beards = {
-		10 = { name = western_beards          range = { 0.0 1.0 } }
-	    10 = { name = sub_saharan_beards          range = { 0.0 1.0 } }
-	    10 = { name = mena_beards          range = { 0.0 1.0 } }
+	hair_color = {
+		# Blonde
+		# 10 = { 0.25 0.2 0.75 0.55 }
+		# Brown
+		30 = { 0.65 0.7 0.9 1.0 }
+		# # Red
+		# 10 = { 0.85 0.0 1.0 0.5 }
+		# Black
+		70 = { 0.01 0.9 0.5 0.99 }
+	}
+	gene_mouth_upper_lip_size = {
+	    0 = { name = mouth_upper_lip_size_neg    range = { @neg3_min @neg3_max }    }
+	    2 = { name = mouth_upper_lip_size_neg    range = { @neg2_min @neg2_max }    }
+	    10 = { name = mouth_upper_lip_size_neg    range = { @neg1_min @neg1_max }    }
+	    40 = { name = mouth_upper_lip_size_pos    range = { 0.5 0.7 }    }
+	    30 = { name = mouth_upper_lip_size_pos    range = {0.7 0.8 }    }
+	    10 = { name = mouth_upper_lip_size_pos    range = { 0.8 0.9 }    }
+
+	    #Beauty Section
+	    0 = { name = mouth_upper_lip_size_neg    range = { @beauty1min @beauty1max }    traits = { beauty_1 }    }
+	    0 = { name = mouth_upper_lip_size_neg    range = { @beauty2min @beauty2max }    traits = { beauty_2 }    }
+	    0 = { name = mouth_upper_lip_size_neg    range = { @beauty3min @beauty3max }    traits = { beauty_3 }    }
+	}
+
+	gene_mouth_lower_lip_size = {
+	    0 = { name = mouth_lower_lip_size_neg    range = { @neg3_min @neg3_max }    }
+	    2 = { name = mouth_lower_lip_size_neg    range = { @neg2_min @neg2_max }    }
+	    10 = { name = mouth_lower_lip_size_neg    range = { @neg1_min @neg1_max }    }
+	    40 = { name = mouth_lower_lip_size_pos    range = { 0.5 0.7 }    }
+	    30 = { name = mouth_lower_lip_size_pos    range = { 0.7 0.8 }    }
+	    10 = { name = mouth_lower_lip_size_pos    range = { 0.8 0.9 }    }
+
+	    #Beauty Section
+	    0 = { name = mouth_lower_lip_size_neg    range = { @beauty1min @beauty1max }    traits = { beauty_1 }    }
+	    0 = { name = mouth_lower_lip_size_neg    range = { @beauty2min @beauty2max }    traits = { beauty_2 }    }
+	    0 = { name = mouth_lower_lip_size_neg    range = { @beauty3min @beauty3max }    traits = { beauty_3 }    }
 	}
 }
 
