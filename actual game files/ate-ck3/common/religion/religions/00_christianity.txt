@@ -2539,23 +2539,6 @@
 			}
 		}
 		
-		anussim = { ##TODO
-		color = { 0 148 255 }
-			icon = anussim
-			graphical_faith = "catholic_gfx"
-						
-			#Special Tolerance
-			#doctrine = special_doctrine_latin_rite
-			#Main Doctrines
-			#Clerical Functions
-			#Tenets
-			doctrine = tenet_jewish_syncretism
-			doctrine = tenet_communal_identity
-			doctrine = tenet_religious_legal_pronouncements ##TODO
-			#Theology
-			#doctrine = doctrine_baptism_believers
-		}
-		
 		byzantine_rite = { ##TODO
 			color = { 178 0 255 }
 			icon = byzantine

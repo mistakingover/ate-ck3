@@ -302,6 +302,22 @@
 			#Doctrines
 			doctrine = doctrine_spiritual_head
 		}
+		
+		anussim = { ##TODO
+		color = { 0 148 255 }
+			icon = anussim
+			graphical_faith = "catholic_gfx"
+						
+			#Special Tolerance
+			#doctrine = special_doctrine_shema_yisrael
+			#Main Doctrines
+			#Clerical Functions
+			#Tenets
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_pacifism
+			doctrine = tenet_adaptive ##TODO
+			#Theology
+		}
 
 	}
 }
