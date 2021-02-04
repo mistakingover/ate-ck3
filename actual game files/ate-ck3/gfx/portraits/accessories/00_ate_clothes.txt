@@ -81,6 +81,12 @@ male_clothing_secular_amazonian_common_01 = {
 female_clothing_secular_amazonian_common_01 = {
 	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothing_secular_amazonian_common_01_entity }
 }
+male_clothing_secular_amazonian_common_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothing_secular_amazonian_common_02_entity }
+}
+female_clothing_secular_amazonian_common_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothing_secular_amazonian_common_02_entity }
+}
 ##########################################################################
 
 

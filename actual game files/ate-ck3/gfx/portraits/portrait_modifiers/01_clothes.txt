@@ -2103,6 +2103,7 @@ clothes = {
 				mode = add
                 gene = clothes
                 template = amazonian_neckpiece_common
+				range = { 0 1 } # For the randomness to work correctly
             }
         }
 		weight = {
@@ -2128,6 +2129,7 @@ clothes = {
 				mode = add
                 gene = clothes
                 template = amazonian_neckpiece_common
+				range = { 0 1 } # For the randomness to work correctly
             }
         }
 		weight = {
