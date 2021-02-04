@@ -215,18 +215,15 @@
 			doctrine = tenet_hedonistic #potential standin for whatever custom tenet we want to invent that makes raiding better
 		}
 		
-		#pelagic = { #needs custom loc
-		#	color = hsv { 0.8 0.8 0.8 }
-		#	icon = pelagic
-		#	reformed_icon = pelagic
-		#
-		#	doctrine = unreformed_faith_doctrine
-		#	
-		#	doctrine = doctrine_witchcraft_accepted
-		#
-		#	doctrine = tenet_astrology
-		#	doctrine = tenet_sky_burials #standin for sea burials, which will be added later
-		#	doctrine = tenet_pastoral_isolation #standin for whatever custom tenet we want to invent that gives them whale hunt decision
-		#}
+		pelagic = { #TODO
+			color = hsv { 80 80 80 }
+			icon = pelagic
+			reformed_icon = pelagic
+		
+			doctrine = unreformed_faith_doctrine
+			
+			doctrine = doctrine_witchcraft_accepted
+		
+		}
 	}
 }

@@ -2758,5 +2758,17 @@
 			#Theology
 			doctrine = doctrine_baptism_infant
 			}
+		
+		united_church = { #TODO
+			color = { 200 37 28 }
+			icon = united_church
+
+			#special doctrine
+			doctrine = special_doctrine_protestant_heritage
+			
+			#tenets
+
+			#Doctrines
+		}
 	}
 }

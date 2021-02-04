@@ -211,5 +211,29 @@
 			doctrine = tenet_christian_syncretism
 			doctrine = tenet_serpentine_strength
 		}
+		exovedate = {
+			color = { 244 168 150 }
+			icon = exovedate
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_serpentine_strength
+		}
+		cross_faith = {
+			color = { 178 0 127 }
+			icon = cross_faith
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_serpentine_strength
+		}
+		peyotist = {
+			color = { 255 96 22 }
+			icon = peyotist
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_serpentine_strength
+		}
 	}
 }
