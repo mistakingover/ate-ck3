@@ -1284,11 +1284,14 @@ accessory_genes = {
 			index = 68
 
 			male = {
-				2 = male_clothes_secular_andean_nobility_01_common
-				2 = male_clothes_secular_andean_nobility_02_common
+				1 = male_clothes_secular_andean_nobility_01_common
+				1 = male_clothes_secular_andean_nobility_02_common
 			}
 
-			female = male
+			female = {
+				1 = female_clothes_secular_andean_nobility_01_common
+				1 = female_clothes_secular_andean_nobility_02_common
+			}
 
 			boy = male
 			girl = female
@@ -1297,11 +1300,14 @@ accessory_genes = {
 			index = 69
 
 			male = {
-				2 = male_clothes_secular_andean_nobility_01_low
-				2 = male_clothes_secular_andean_nobility_02_low
+				1 = male_clothes_secular_andean_nobility_01_low
+				1 = male_clothes_secular_andean_nobility_02_low
 			}
 
-			female = male
+			female = {
+				1 = female_clothes_secular_andean_nobility_01_low
+				1 = female_clothes_secular_andean_nobility_02_low
+			}
 
 			boy = male
 			girl = female
@@ -1310,11 +1316,14 @@ accessory_genes = {
 			index = 70
 
 			male = {
-				2 = male_clothes_secular_andean_nobility_01_high
-				2 = male_clothes_secular_andean_nobility_02_high
+				1 = male_clothes_secular_andean_nobility_01_high
+				1 = male_clothes_secular_andean_nobility_02_high
 			}
 
-			female = male
+			female = {
+				1 = female_clothes_secular_andean_nobility_01_high
+				1 = female_clothes_secular_andean_nobility_02_high
+			}
 
 			boy = male
 			girl = female
@@ -1414,7 +1423,7 @@ accessory_genes = {
 		}
 		
 		
-		
+		##### amazon #####
 		amazonian_neckpiece_common = {
 			index = 76
 

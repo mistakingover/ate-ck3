@@ -110,9 +110,17 @@ variation = {
 	pattern = { 
 		weight = 3
 		#r,g,b,a here refers to the channels in the pattern_mask scripted in the entity
-		r = { textures = "inca_01_trim_04" layout = "inca_trim_layout_01" }
+		r = { textures = "inca_01_trim_07" layout = "inca_trim_layout_01" }
 		g = { textures = "inca_wool_01" layout = "inca_trim_layout_01" }
-		b = { textures = "inca_01_trim_04" layout = "inca_trim_layout_01" }
+		b = { textures = "inca_01_trim_07" layout = "inca_trim_layout_01" }
+		a = { textures = "inca_wool_01" layout = "inca_trim_layout_01" }
+	}		
+	pattern = { 
+		weight = 3
+		#r,g,b,a here refers to the channels in the pattern_mask scripted in the entity
+		r = { textures = "inca_01_trim_06" layout = "inca_trim_layout_01" }
+		g = { textures = "inca_wool_01" layout = "inca_trim_layout_01" }
+		b = { textures = "inca_01_trim_06" layout = "inca_trim_layout_01" }
 		a = { textures = "inca_wool_01" layout = "inca_trim_layout_01" }
 	}
 
@@ -214,6 +222,22 @@ variation = {
 		r = { textures = "inca_01_trim_07" layout = "inca_trim_layout_02" }
 		g = { textures = "byzantine_silk_brocade_03" layout = "inca_trim_layout_02" }
 		b = { textures = "inca_01_trim_05" layout = "inca_trim_layout_02" }
+		a = { textures = "inca_wool_01" layout = "inca_trim_layout_02" }
+	}	
+	pattern = { 
+		weight = 1
+		#r,g,b,a here refers to the channels in the pattern_mask scripted in the entity
+		r = { textures = "steppe_trim_silk_03" layout = "inca_trim_layout_02" }
+		g = { textures = "steppe_trim_silk_04" layout = "inca_trim_layout_02" }
+		b = { textures = "steppe_trim_silk_03" layout = "inca_trim_layout_02" }
+		a = { textures = "inca_wool_01" layout = "inca_trim_layout_02" }
+	}
+	pattern = { 
+		weight = 1
+		#r,g,b,a here refers to the channels in the pattern_mask scripted in the entity
+		r = { textures = "inca_wool_01" layout = "inca_trim_layout_02" }
+		g = { textures = "steppe_trim_silk_04" layout = "inca_trim_layout_02" }
+		b = { textures = "western_wool_belt_01" layout = "inca_trim_layout_02" }
 		a = { textures = "inca_wool_01" layout = "inca_trim_layout_02" }
 	}
 
