@@ -1,6 +1,9 @@
 
 northwest = {
- template = "base_amerindian"
+ template = "mesoamerican"
+ 	skin_color = {
+		70 = { 0.4 0.5 0.8 0.65 }
+	}
 }
 
 amerindian = {
@@ -20,58 +23,11 @@ amazonian = {
 }
 
 
-yupik = {
- template = "asian"
-
-	hairstyles = {
-		10 = { name = native_hairstyles          range = { 0.0 1.0 } }
-	}
-	beards = {
-	    10 = { name = no_beard          range = { 0.0 1.0 } }
-
-	}
-
-    face_detail_temple_def = {
-        80 = {  name = temple_def             range = { 0.7 0.8 }     }
-        20 = {  name = temple_def             range = { 0.8 0.9 }     }
-    }
-    gene_bs_cheek_width = {
-        10 = { name = cheek_width_pos    range = { 0.7 0.9 }    }
-	}
-	gene_eye_shut = {
-		5 = { name = eye_shut_pos    range = { 0.65 0.87 }    }
-	}
-	gene_forehead_width = {
-		5 = { name = forehead_width_neg    range = { 0.443 0.593 }    }
-	}
-	gene_bs_cheek_forward = {
-		5 = { name = cheek_forward_pos    range = { 0.55 0.85 }    }
-	}
-	face_detail_cheek_fat = {
-		5 = { name = cheek_fat_03_pos    range = { 0.317 0.467 }    }
-		5 = { name = cheek_fat_01_pos    range = { 0.75 1.0 }    }
-		5 = { name = cheek_fat_04_pos    range = { 0.66 0.92 }    }
-		5 = { name = cheek_fat_01_neg    range = { 0.09 0.24 }    }
-	}
-	gene_jaw_angle = {
-		10 = { name = jaw_angle_neg    range = { 0.411 0.7 }    }
-		0 = { name = jaw_angle_pos    range = { 0.015 0.22 }    }
-	}
-	gene_jaw_forward = {
-		5 = { name = jaw_forward_neg    range = { 0.0 0.25 }    }    }
-	}
-	gene_jaw_width = {
-		5 = { name = jaw_width_pos    range = { 0.5 0.75 }    }
-		1 = { name = jaw_width_neg    range = { 0.0 0.2 }    }
-	}
-	gene_mouth_open = {
-		5 = { name = mouth_open_neg    range = { 0.509 1 }    }
-		0 = { name = mouth_open_pos    range = { 0.0 0.15 }    }
-	}
-}
-
 patagonian = {
  template = "mesoamerican"
+ 	skin_color = {
+		70 = { 0.4 0.5 0.8 0.65 }
+	}
 }
 
 lagid = {
@@ -153,35 +109,115 @@ med_indigenous = {
 	} 
 }
 
+
 white_indigenous = {
- template = "base_amerindian"
+ template = "caucasian"
  
 	skin_color = {
-		10 = { 0 0.55 0.2 0.65 }
-		10 = { 0.5 0.4 0.8 0.5 }
-		40 = { 0.25 0.475 0.5 0.575 }
+		10 = { 0.0 0.4 0.5 0.15 }
 	}
-
 	eye_color = {
-		50 = { 0.05 0.95 0.35 1.0 }
-		20 = { 0.05 0.5 0.33 0.8 }
-        # Green
-        5 = { 0.33 0.5 0.67 0.8 }
+		100 = { 0.08 0.72 0.1 0.99 }
 	}
 	hair_color = {
-		40 = { 0 0.95 0.4 1.0 }
-		5 = { 0.65 0.7 0.9 1.0 }
-	}
-	hairstyles = {
-	    10 = { name = mesoamerican_hairstyles           range = { 0.0 1.0 } }
-		10 = { name = western_hairstyles          range = { 0.0 1.0 } }
-
+		100 = { 0.18 0.97 0.21 0.99 }
 	}
 	beards = {
-		 10 = { name = no_beard 		range = { 0.0 0.0 } }
-		10 = { name = western_beards          range = { 0.0 1.0 } }
-
+	    10 = { name = western_beards          range = { 0.0 1.0 } }
+	    10 = { name = no_beards          range = { 0.0 1.0 } }
 	}
+    gene_bs_nose_forward = {
+        #1 = { name = nose_forward_neg    range = { 0.0 0.0 }    }
+        99 = { name = nose_forward_pos    range = { 0.0 0.8 }    }
+    }
+
+    gene_bs_nose_height = {
+        75 = { name = nose_height_neg    range = { 0.0 0.5 }    }
+        25 = { name = nose_height_pos    range = { 0.0 0.1 }    }
+    }
+	# new
+    gene_bs_nose_length = {
+        88 = { name = nose_length_neg    range = { 0.1 0.5 }    }
+        #20 = { name = nose_length_pos    range = { 0.0 0.14 }    }
+    }
+
+    gene_bs_nose_nostril_height = {
+        99 = { name = nose_nostril_height_neg    range = { 0.08 0.37  }    }
+        #40 = { name = nose_nostril_height_pos    range = { 0.53 0.55  }    }
+    }
+
+    gene_bs_nose_nostril_width = {
+        #50 = { name = nose_nostril_width_neg    range = { 0.2 0.33 }    }
+        99 = { name = nose_nostril_width_pos    range = { 0.3 0.48 }    }
+    }
+	# nose_hawk
+    gene_bs_nose_profile = {
+        #1 = { name = nose_profile_neg    range = { 0.0 0.02  }    }
+        12 = { name = nose_profile_pos    range = { 0.3 0.48  }    }
+        10 = { name = nose_profile_hawk    range = { 0.0 0.5   }    }
+        50 = { name = nose_profile_hawk_pos    range = { 0.0 0.8   }    }
+    }
+
+    gene_eye_depth = {
+        60 = { name = eye_depth_neg    range = { 0.3 0.7 }    }
+        #40 = { name = eye_depth_pos    range = { 0.68 0.8 }    }
+
+        #Beauty Section
+        0 = { name = eye_depth_neg    range = { 0.28 0.44 }    traits = { beauty_1 }    }
+        0 = { name = eye_depth_neg    range = { 0.28 0.44 }    traits = { beauty_2 }    }
+        0 = { name = eye_depth_neg    range = { 0.28 0.44 }    traits = { beauty_3 }    }
+    }
+
+    gene_eye_height = {
+        60 = { name = eye_height_neg    range = { 0.5 0.8 }    }
+        40 = { name = eye_height_pos    range = { 0.5 0.8 }    }
+
+        #Beauty Section
+        0 = { name = eye_height_neg    range = { 0.61 0.72 }    traits = { beauty_1 }    }
+        0 = { name = eye_height_neg    range = { 0.61 0.72 }    traits = { beauty_2 }    }
+        0 = { name = eye_height_neg    range = { 0.61 0.72 }    traits = { beauty_3 }    }
+    }
+
+    gene_eye_distance = {
+        60 = { name = eye_distance_neg    range = { 0.5 0.7 }    }
+        40 = { name = eye_distance_pos    range = { 0.6 0.8 }    }
+
+        #Beauty Section
+        0 = { name = eye_distance_neg    range = { 0.55 0.68 }    traits = { beauty_1 }    }
+        0 = { name = eye_distance_neg    range = { 0.55 0.68 }    traits = { beauty_2 }    }
+        0 = { name = eye_distance_neg    range = { 0.55 0.68 }    traits = { beauty_3 }    }
+    }
+
+    gene_bs_nose_ridge_angle = {
+        99 = { name = nose_ridge_angle_neg    range = { 0.0 0.7  }    }
+        #1 = { name = nose_ridge_angle_pos    range = { 0.0 0.02  }    }
+    }
+
+    gene_bs_nose_ridge_width = {
+        80 = { name = nose_ridge_width_neg    range = { 0.0 0.33 }    }
+        20 = { name = nose_ridge_width_pos    range = { 0.0 0.18 }    }
+    }
+
+    gene_bs_nose_size = {
+        #1 = { name = nose_size_neg    range = { 0.0 0.02 }    }
+        99 = { name = nose_size_pos    range = { 0.15 0.5 }    }
+    }
+
+    gene_bs_nose_tip_angle = {
+        99 = { name = nose_tip_angle_neg    range = { 0.14 0.24  }    }
+        #40 = { name = nose_tip_angle_pos    range = { 0.62 0.64  }    }
+    }
+	# gene_bs_nose_tipLength
+    gene_bs_nose_tip_forward = {
+        80 = { name = nose_tip_forward_neg    range = { 0.2 0.7 }    }
+        20 = { name = nose_tip_forward_pos    range = { 0.0 0.07 }    }
+    }
+
+    gene_bs_nose_tip_width = {
+        20 = { name = nose_tip_width_neg    range = { 0.05 0.11 }    }
+        80 = { name = nose_tip_width_pos    range = { 0.05 0.15 }    }
+    }
+
 }
 
 black_white = {

@@ -116,7 +116,7 @@ entity = {
 
 	game_data = {
 		portrait_accessory = {
-			pattern_mask = "gfx/models/portraits/attachments/female_clothes/secular/steppe/nobility_01/female_clothes_secular_steppe_nobility_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
+			pattern_mask = "gfx/models/portraits/attachments/female_clothes/secular/steppe/nobility_01/female_clothing_secular_steppe_nobility_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
 			variation = "andean_nobility_common_01"	#A "variation" object in gfx/portraits/accessory_variations/
 		}
 	}
@@ -138,7 +138,7 @@ entity = {
 
 	game_data = {
 		portrait_accessory = {
-			pattern_mask = "gfx/models/portraits/attachments/female_clothes/secular/steppe/nobility_01/female_clothes_secular_steppe_nobility_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
+			pattern_mask = "gfx/models/portraits/attachments/female_clothes/secular/steppe/nobility_01/female_clothing_secular_steppe_nobility_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
 			variation = "andean_nobility_low_01"	#A "variation" object in gfx/portraits/accessory_variations/
 		}
 	}
@@ -160,7 +160,7 @@ entity = {
 
 	game_data = {
 		portrait_accessory = {
-			pattern_mask = "gfx/models/portraits/attachments/female_clothes/secular/steppe/nobility_01/female_clothes_secular_steppe_nobility_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
+			pattern_mask = "gfx/models/portraits/attachments/female_clothes/secular/steppe/nobility_01/female_clothing_secular_steppe_nobility_01_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
 			variation = "andean_nobility_low_01"	#A "variation" object in gfx/portraits/accessory_variations/
 		}
 	}
