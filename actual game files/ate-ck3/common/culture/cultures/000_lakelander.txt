@@ -232,7 +232,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	5 = asian
+	60 = caucasian
+	5 = mediterranean
+	5 = med_indigenous
+	5 = black_white
+	10 = multiracial
 }
 	}
 	steelfolk = {
@@ -490,7 +496,13 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	5 = asian
+	60 = caucasian
+	5 = mediterranean
+	5 = med_indigenous
+	5 = black_white
+	10 = multiracial
 }
 	}
 	chicagoan = {

@@ -890,7 +890,12 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	5 = african
+	65 = caucasian
+	10 = mediterranean
+	10 = amerindian
+	5 = med_indigenous
+	5 = multiracial
 }
 	}
 	cascadian = {
@@ -1985,13 +1990,15 @@
 		mother_name_chance = 25
 		
 		ethnicities = {
-	10 = caucasian
+	75 = northwest
+	25 = white_indigenous
 }
 	}
 	shuswap = {
 
 		ethnicities = {
-	10 = caucasian
+	75 = northwest
+	25 = white_indigenous
 }
 			color = { 140 38 153 }
 
@@ -2015,7 +2022,8 @@
 	dakelh = {
 
 		ethnicities = {
-	10 = caucasian
+	75 = northwest
+	25 = white_indigenous
 }
 			color = { 173 76 145 }
 

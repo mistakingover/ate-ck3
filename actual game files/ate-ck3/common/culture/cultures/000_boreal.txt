@@ -273,7 +273,9 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-	10 = caucasian
+	70 = caucasian
+	20 = yupik
+	10 = white_asian
 }
 	}
 	alaskan = {
@@ -459,7 +461,12 @@
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	2 = african
+	5 = asian
+	66 = caucasian
+	3 = black_white
+	14 = yupik
+	10 = white_asian
 }
 	}
 	klondiker = {

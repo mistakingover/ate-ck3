@@ -234,7 +234,9 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	90 = caucasian
+	5 = mediterranean
+	5 = multiracial
 }
 	}
 	plautsdeutsch = {
@@ -536,7 +538,12 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-	10 = caucasian
+	3 = african
+	15 = arab
+	2 = asian
+	30 = caucasian
+	43 = slavic
+	7 = med_indigenous
 }
 	}
 }

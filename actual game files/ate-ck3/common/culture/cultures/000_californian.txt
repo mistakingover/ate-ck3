@@ -1128,7 +1128,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	2 = african
+	20 = arab
+	15 = asian
+	15 = caucasian
+	5 = indian
+	5 = mediterranean
+	30 = med_indigenous
+	2 = multiracial
 }
 	}
 	tehrangeleno = {
@@ -1258,7 +1265,12 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-	10 = caucasian
+	78 = arab
+	5 = asian
+	5 = caucasian
+	5 = mediterranean
+	5 = med_indigenous
+	2 = multiracial
 }
 	}
 	towner = {

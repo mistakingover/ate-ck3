@@ -1775,7 +1775,13 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-	10 = caucasian
+	10 = african
+	5 = asian
+	45 = caucasian
+	20 = mediterranean
+	10 = med_indigenous
+	5 = black_white
+	5 = multiracial
 }
 	}
 }
