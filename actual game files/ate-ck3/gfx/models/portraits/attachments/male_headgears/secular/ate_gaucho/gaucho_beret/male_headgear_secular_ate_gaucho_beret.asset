@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "male_headgear_secular_ate_gaucho_beret_mesh"
+	file = "male_headgear_secular_ate_gaucho_beret.mesh"
+
+	meshsettings = {
+		name = "male_headgear_secular_ate_gaucho_beretShape"
+		index = 0
+		texture_diffuse = "male_headgear_secular_ate_gaucho_beret_diffuse.dds"
+		texture_normal = "male_headgear_secular_ate_gaucho_beret_normal.dds"
+		texture_specular = "male_headgear_secular_ate_gaucho_beret_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+entity = {
+	name = "male_headgear_secular_ate_gaucho_beret_entity"
+	pdxmesh = "male_headgear_secular_ate_gaucho_beret_mesh"
+}
