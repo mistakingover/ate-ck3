@@ -216,13 +216,17 @@
 		}
 		
 		pelagic = { #TODO
-			color = hsv { 80 80 80 }
+			color =  { 80 80 80 }
 			icon = pelagic
 			reformed_icon = pelagic
 		
 			doctrine = unreformed_faith_doctrine
 			
 			doctrine = doctrine_witchcraft_accepted
+			
+			doctrine = tenet_astrology
+			doctrine = tenet_ancestor_worship #These are placeholders, not yet discussed and approved
+			doctrine = tenet_pastoral_isolation
 		
 		}
 	}
