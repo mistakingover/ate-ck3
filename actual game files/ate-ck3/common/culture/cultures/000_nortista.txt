@@ -738,7 +738,7 @@ graphical_cultures = {
 			amapaense_coa_gfx
 		}
 
-			color = { 51 61 56 }
+			color = { 51 61 55 }
 
 		cadet_dynasty_names = {
 			"dynn_Abdon"
@@ -1778,7 +1778,7 @@ graphical_cultures = {
 			roraimense_coa_gfx
 		}
 
-			color = { 68 130 94 }
+			color = { 68 130 95 }
 
 		cadet_dynasty_names = {
 			"dynn_Acerola"
@@ -2421,7 +2421,7 @@ graphical_cultures = {
 			imperatrizense_coa_gfx
 		}
 
-			color = { 30 76 56 }
+			color = { 30 76 57 }
 
 		cadet_dynasty_names = {
 			"dynn_Aboud"
@@ -2971,7 +2971,7 @@ graphical_cultures = {
 			tapajosense_coa_gfx
 		}
 
-			color = { 40 135 96 }
+			color = { 41 135 97 }
 
 		cadet_dynasty_names = {
 			"dynn_Abussafi"
@@ -4227,7 +4227,7 @@ acreano = {
 			rondonio_coa_gfx
 		}
 
-			color = { 96 135 40 }
+			color = { 98 135 40 }
 
 		cadet_dynasty_names = {
 					"dynn_Abreu"
@@ -4805,5 +4805,43 @@ acreano = {
 	5 = med_black_ind
 }
 	}
+	mura = {
+		graphical_cultures = {
+			mura_coa_gfx
+			amazonian_clothing_gfx
+		}
+
+			color = { 34 112 100 }
+
+		cadet_dynasty_names = {
+					"dynn_Mura"
+		}
+		dynasty_names = {
+					"dynn_Mura"
+		}
+
+		male_names = {
+			"mura_placeholder_mnames"
+		}
+		female_names = {
+			"mura_placeholder_fnames"
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+
+		ethnicities = {
+	75 = med_indigenous
+	20 = white_indigenous
+	5 = med_black_ind
+}
 	
 }
