@@ -1126,6 +1126,26 @@
 		}
 	}
 
+	tenet_saintly_mission = {
+		icon = core_tenet_missionary
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = llanoism_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+			pilgrimage_decision_active = yes
+		}
+	}
+
 	#############################################################
 	
 	tenet_aniconism = {
