@@ -247,5 +247,21 @@
 			}
 
 		}
+		midnight_sun = {
+			color = { 114 6 129 }
+			icon = midnight_sun
+			reformed_icon = midnight_sun
+			
+			doctrine = tenet_ritual_hospitality
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_warmonger
+			
+			doctrine = doctrine_the_marshal
+			
+			localization = {
+				GoodGodNames = { trailwalker_good_god_kelso }
+			}
+
+		}
 	}
 }
