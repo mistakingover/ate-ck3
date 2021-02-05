@@ -1,4 +1,4 @@
-mapuche_religion = {
+﻿mapuche_religion = {
 	family = rf_amerindian
 	graphical_faith = pagan_gfx
 	doctrine = amerindian_hostility_doctrine
@@ -139,7 +139,6 @@ mapuche_religion = {
 			mapuche_knowledge_god_name 
 			mapuche_war_god_name 
 			mapuche_night_god_name 
-			mapuche_water_god_name
 		}
 		PantheonTerm = mapuche_pantheon
 		PantheonTerm = pantheon_term_have
@@ -179,15 +178,22 @@ mapuche_religion = {
 		NegativeAfterLife = mapuche_divine_realm
 		DeathDeityName = mapuche_death_name
 		DeathDeityNamePossessive = mapuche_death_name_possessive
-		DeathDeitySheHe = CHARACTER_SHEHE_HE
-		DeathDeityHerHis = CHARACTER_HERHIS_HIS
-		WitchGodName = witchgodname_chon
-		WitchGodHerHis = CHARACTER_HERHIS_HIS
-		WitchGodSheHe = CHARACTER_SHEHE_HE
-		WitchGodHerHim = CHARACTER_HERHIM_HIM
-		WitchGodMistressMaster = master
-		WitchGodMotherFather = father
-
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERHIS_ITS
+		WitchGodName = mapuche_devil_name
+		WitchGodHerHis = CHARACTER_HERHIS_THEIR
+		WitchGodSheHe = CHARACTER_SHEHE_THEY
+		WitchGodHerHim = CHARACTER_HERHIM_THEM
+		WitchGodMistressMaster = masters
+		WitchGodMotherFather = fathers
+		EvilGodNames = {
+			mapuche_devil_name
+			mapuche_water_god_name
+			mapuche_trickster_god_name
+			mapuche_calcus
+			mapuche_chonchon
+			mapuche_piulchen
+		}
 		GHWName = ghw_great_holy_war
 		GHWNamePlural = ghw_great_holy_wars
 	}	
@@ -201,11 +207,27 @@ mapuche_religion = {
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 
+			#Main
 			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_temporal_head
+			doctrine = doctrine_theocracy_lay_clergy
+			#Marriage
+			doctrine = doctrine_concubines
+			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_restricted
+			#Clerical
 			doctrine = doctrine_clerical_gender_female_only
 			doctrine = doctrine_clerical_function_alms_and_pacification
-			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
+			#Crime
+			doctrine = doctrine_homosexuality_shunned
+			doctrine = doctrine_adultery_men_crime
 			doctrine = doctrine_adultery_women_crime
+			doctrine = doctrine_deviancy_accepted
+			doctrine = doctrine_witchcraft_crime
+			doctrine = doctrine_kinslaying_close_kin_crime
 		}	
 	}
 }
