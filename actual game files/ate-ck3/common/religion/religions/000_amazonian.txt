@@ -194,7 +194,8 @@ amazonian_religion = { ##TODO placeholder
 		hekura = { ##TODO WIP
 			color = { 175 25 19 }
 			icon = hekura
-
+			reformed_icon = hekura_reformed
+			doctrine = unreformed_faith_doctrine
 
 			#Special Doctrines
 			#doctrine = special_doctrine_crown_of_the_andes
@@ -217,7 +218,9 @@ amazonian_religion = { ##TODO placeholder
 			color = { 182 85 25 }
 			icon = winti
 
-
+			reformed_icon = winti_reformed
+			doctrine = unreformed_faith_doctrine
+			
 			#Special Doctrines
 			#doctrine = special_doctrine_crown_of_the_andes
 
@@ -234,33 +237,14 @@ amazonian_religion = { ##TODO placeholder
 	
 
 		}	
-
-		winti = { ##TODO WIP
-			color = { 182 85 25 }
-			icon = winti
-
-
-			#Special Doctrines
-			#doctrine = special_doctrine_crown_of_the_andes
-
-			doctrine = tenet_communal_identity
-			doctrine = tenet_sanctity_of_nature
-			doctrine = tenet_ritual_celebrations
-
-			doctrine = doctrine_no_head
-			doctrine = doctrine_theocracy_temporal
-			doctrine = doctrine_pluralism_pluralistic
-
-			doctrine = doctrine_clerical_function_control
-			doctrine = doctrine_clerical_succession_spiritual_fixed_appointment
-	
-
-		}
 		
 		layeredfaith = { ##TODO WIP
 			color = { 188 255 186 }
 			icon = layeredfaith
 
+			reformed_icon = layeredfaith_reformed
+			doctrine = unreformed_faith_doctrine
+			
 
 			#Special Doctrines
 			#doctrine = special_doctrine_crown_of_the_andes
@@ -283,7 +267,9 @@ amazonian_religion = { ##TODO placeholder
 			color = { 91 127 167 }
 			icon = ticunaprotestant
 
-
+			reformed_icon = ticunaprotestant_reformed
+			doctrine = unreformed_faith_doctrine
+			
 			#Special Doctrines
 			#doctrine = special_doctrine_crown_of_the_andes
 
@@ -305,6 +291,9 @@ amazonian_religion = { ##TODO placeholder
 			color = { 181 167 120 }
 			icon = layeredinfinite
 
+			reformed_icon = layeredinfinite_reformed
+			doctrine = unreformed_faith_doctrine
+			
 
 			#Special Doctrines
 			#doctrine = special_doctrine_crown_of_the_andes
@@ -327,6 +316,9 @@ amazonian_religion = { ##TODO placeholder
 			color = { 127 153 255 }
 			icon = xingu_faith
 
+			reformed_icon = xingu_faith_reformed
+			doctrine = unreformed_faith_doctrine
+			
 
 			#Special Doctrines
 			#doctrine = special_doctrine_crown_of_the_andes
