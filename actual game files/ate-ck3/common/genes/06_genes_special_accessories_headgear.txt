@@ -1438,6 +1438,21 @@ accessory_genes = {
 			boy = male
             girl = female
 		}
+		
+		
+		#### Canadian ####
+		
+		canadian_common = {
+			index = 107
+			male = {
+				2 = male_headgear_secular_racoon_cap
+				2 = male_headgear_secular_north_america_fur_ushanka
+				1 = male_headgear_secular_steppe_common_01
+			}
+			female = male
+			boy = male
+            girl = female
+		}
 	}
 }
 }

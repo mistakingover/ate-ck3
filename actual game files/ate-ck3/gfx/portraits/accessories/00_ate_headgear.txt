@@ -231,3 +231,14 @@ female_facial_secular_amazonian_yanomami_01 = {
 female_facial_secular_amazonian_yanomami_02 = {
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_facial_secular_amazonian_yanomami_02_entity 	 }		
 }
+
+## Canadian ###
+
+male_headgear_secular_racoon_cap = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_racoon_cap_entity 	 }		
+}
+male_headgear_secular_north_america_fur_ushanka = {	
+	set_tags = "cap"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_north_america_fur_ushanka_entity 	 }		
+}
