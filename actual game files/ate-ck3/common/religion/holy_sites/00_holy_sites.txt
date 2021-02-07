@@ -1,1 +1,101 @@
-﻿
+﻿#apostolic holy sites
+
+aparecida = {
+	county = c_br_27_guaratinguet_
+	barony = b_br_27_aparecida
+	
+	character_modifier = {
+		name = holy_site_aparecida_effect_name
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+
+rio_de_janeiro = {
+	county = c_br_21_rio_de_janeiro
+
+	character_modifier = {
+		name = holy_site_rio_de_janeiro_effect_name
+		intrigue_per_piety_level = 1
+	}
+}
+
+salvador = {
+	county = c_br_05_salvador
+
+	character_modifier = {
+		name = holy_site_salvador_effect_name
+		diplomacy_per_piety_level = 1
+	}
+}
+
+mariana = {
+	county = c_ouro_preto
+	barony = b_br_15_mariana
+
+	character_modifier = {
+		name = holy_site_mariana_effect_name
+		learning_per_piety_level = 1
+	}
+}
+
+manaus = {
+	county = c_br_04_manaus
+
+	character_modifier = {
+		name = holy_site_manaus_effect_name
+		jungle_advantage = 5
+		martial = 1
+	}
+}
+
+#modernist holy sites
+brasilia = {
+	county = c_br_07_bras_lia
+	
+	character_modifier = {
+		name = holy_site_brasilia_effect_name
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+
+belo_horizonte = {
+	county = c_br_15_belo_horizonte
+	
+	character_modifier = {
+		name = holy_site_belo_horizonte_effect_name
+		clergy_opinion = 10
+		monthly_prestige_gain_mult = 0.2
+	}
+}
+
+sao_paulo = {
+	county = c_br_27_s_o_paulo
+	
+	character_modifier = {
+		name = holy_site_sao_paulo_effect_name
+		cultural_head_fascination_mult = 0.05
+		monthly_county_control_change_factor = 0.05
+	}
+}
+
+palmas = {
+	county = c_br_31_palmas
+	
+	character_modifier = {
+		name = holy_site_palmas_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+niteroi = {
+	county = c_br_21_niter_i
+	
+	character_modifier = {
+		name = holy_site_niteroi_effect_name
+		diplomacy = 1
+		monthly_prestige_gain_mult = 0.05
+	}
+}

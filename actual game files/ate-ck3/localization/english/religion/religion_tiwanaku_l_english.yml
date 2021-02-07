@@ -69,7 +69,7 @@
 
 
 
-  #Inti
+  #Pachamama
  pachamama_religion:0 "Pachamama"
  pachamama_religion_adj:0 "Pachamamist"
  pachamama_religion_adherent:0 "Pachamamist"
@@ -80,8 +80,35 @@
  tenet_pacha_ayni_desc:0 "Living in harmony with the land and having reciprocity with everything it gives us, allows us to hold ever closer contact with the world itself."
  tenet_challa_name:0 "Ch'alla"
  tenet_challa_desc:0 "Reciprocity is core to our beliefs, and there is no greater act of reciprocity than the rite of Ch'alla, giving our ritual beverages for Earth to taste."
- doctrine_parameter_challa_ritual_enabled:0 "May pay the ch'alla to the Pachamama, thanking her for everything we have and bring our realm together in this special occasion." 
+ doctrine_parameter_challa_ritual_enabled:0 "May hold the Ch'alla Ritual ceremony to the Pachamama, thanking her for everything she has given us and bringing our realm together in this special occasion." 
  special_doctrine_earth_mother_name:0 "Earth Mother"
  special_doctrine_earth_mother_desc:0 "While it has many names in different cultures, the core of our beliefs in Mother Earth, by whichever name it goes, and wherever it is found."
  doctrine_parameter_hostility_override_special_doctrine_earth_mother:0 "Considers [faiths|E] with the Earth Mother doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  doctrine_parameter_hostility_override_special_doctrine_naked_priests:0 "Considers [faiths|E] with the Naked Priests doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+
+ hold_challa_ritual_decision:0 "Hold Ch'alla Ritual"
+ hold_challa_ritual_decision_desc:0 "Everything we have has been a kind gift of our mother, the Pachamama. It's thus necessary to properly thank her and give offerings, or Ch'alla, back to her, showing our gratitude and our devotion, as we aspire to gain her continued blessing."
+ hold_challa_ritual_decision_tooltip:0 "Hold a Ch'alla Ritual, where we offer gifts to the Pachamama."
+ hold_challa_ritual_effect:0 "A Ch'alla Ritual will be held, where you will give offerings to the Pachamama, showing your piety as well as asking for her blessing this upcoming season."
+ hold_challa_ritual_decision_confirm:0 "Hold Ch'alla Ritual"
+
+ challa_blessing_1:0 "Pachamama's Blessing"
+ challa_blessing_1_desc:0 "This character has realized the Ch'alla ceremony and asked Pachamama for a fruitful season."
+ challa_blessing_2:0 "Pachamama's Blessing"
+ challa_blessing_2_desc:0 "This character has realized a generous Ch'alla ceremony and asked Pachamama for a fruitful season."
+ challa_blessing_3:0 "Pachamama's Blessing"
+ challa_blessing_3_desc:0 "This character has realized an extravagant Ch'alla ceremony and asked Pachamama for a fruitful season."
+
+ ate_religious_decision.110.t:0 "Thanking Our Mother"
+ ate_religious_decision.110.desc:0 "As the time has come to celebrate the past season, thanking our Earth Mother, the Pachamama, through the offerings of the Ch'alla, is utterly essential. However, not all seasons are created equal, and while we are very lucky with the generous our Mother is, we can't always thank her with everything we've got.\n\nYou have accounted for the different gifts of the feast that will be given in the ceremony to the Pachamama, and while you certainly have enough for a traditional ceremony that nobody could question, granting larger and larger offerings is a show of how thankful and how devout someone is. Maybe, a larger and more generous offering could be done."
+ ate_religious_decision.110.a:0 "What we have prepared is good enough."
+ ate_religious_decision.110.b:0 "We can put a little bit of more gratitude into it."
+ ate_religious_decision.110.c:0 "Everyone will see how thankful and devout we are."
+ ate_religious_decision.111.t:0 "The Offerings Given"
+ ate_religious_decision.111.desc.1:0 "As we arrive in the ceremony site on the grounds of our manor, the colourful decorations drown the area, as a dance of clothes, dyes, and flowers.\n\nOn the center, a fair altar has been assembled, composed of the seasonal textile, littered with different selected fruits, grains, bread, a bit of candy, llama fetus, and a bottle of the season's wine. You proceed to begin the ceremony officially, by serving the first glass of the wine, and pouring it over the grounds, thus granting the Pachamama the honor of the first drink. You then proceed to serve drinks for everyone else, and as everyone is enjoying the drinks and some snacks, you proceed to begin a small fire, using the traditional Koa sacred wood, to burn into ashes the offerings and the altar you have assembled.\n\nFrom these ashes, what she has given us, will once again return to her, to the earth. You ask for her blessing once again, to have a fruitful season, as everyone cheers."
+ ate_religious_decision.111.desc.2:0 "As we arrive in the ceremony site on the grounds of our manor, the colourful decorations drown the area, as a dance of clothes, dyes, and flowers.\n\nOn the center, a well-decorated altar has been assembled, composed of artisanal textiles, showered with a wide selection fruits, grains, bread, colorful candy, llama fetus and some meat, as well as several bottles of the season's wine. You proceed to begin the ceremony officially, by serving the first glass of the wine on an elegant cup, and pouring it over the grounds, thus granting the Pachamama the honor of the first drink. You then proceed to serve drinks for everyone else, and as everyone is enjoying the drinks and the feast, you proceed to begin a small fire, using the traditional Koa and Palo Santo sacred woods, to burn into ashes the offerings and the altar you have assembled.\n\nFrom these ashes, what she has given us, will once again return to her, to the earth. You ask for her blessing once again, to have a fruitful season, as everyone cheers."
+ ate_religious_decision.111.desc.3:0 "As we arrive in the ceremony site on the grounds of our manor, an elegant sea of colour makes the place look like a painting, as a dance of the most expensive textiles, dyes, and flowers drown the whole area.\n\nOn the center, a large, masterfully crafted altar has been assembled, composed of the most precious artisanal textiles and jewels, holding with an impressive feast of fruits, grains, bread, artisanal candy, llama fetus and meats, as well as several bottles of the season's wine and of expensive aged wine. You proceed to begin the ceremony officially, by serving the first glass of the most expensive wine on an elegant, jeweled cup, and pouring it over the grounds, thus granting the Pachamama the honor of the first drink. You then proceed to serve drinks for everyone else, and as everyone is enjoying the magnificent drinks and the generous feast, you proceed to begin a small fire, using the traditional Koa and Palo Santo sacred woods, to burn into ashes the offerings and the altar you have assembled.\n\nFrom these ashes, what she has given us, will once again return to her, to the earth. You ask for her blessing once again, to have a fruitful season, as everyone cheers."
+ ate_religious_decision.111.a:0 "We hope to deserve your grace once again, Pachamama."
+ ate_religious_decision.111.b:0 "We hope to deserve your grace once again, Pachamama."
+ ate_religious_decision.111.c:0 "The whole world I can give back to our Mother."
+

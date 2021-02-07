@@ -435,6 +435,12 @@
 			color = { 232 232 58 }
 			icon = apostolic
 			graphical_faith = "catholic_gfx"
+			
+			holy_site = aparecida
+			holy_site = rio_de_janeiro
+			holy_site = salvador
+			holy_site = mariana
+			holy_site = manaus
 						
 			#Special Tolerance
 			doctrine = special_doctrine_latin_rite
