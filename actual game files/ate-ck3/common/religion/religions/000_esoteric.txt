@@ -1,5 +1,5 @@
-occultist_religion = {
-	family = rf_pagan
+esoteric_religion = {
+	family = rf_harmonic
 	graphical_faith = dharmic_gfx
 	doctrine = pagan_hostility_doctrine
 
@@ -46,145 +46,145 @@ occultist_religion = {
 	holy_order_maa = { bush_hunter }
 
 	localization = {
-		HighGodName = occultist_high_god_name
-		HighGodNamePossessive = occultist_high_god_name_possessive
+		HighGodName = esoteric_high_god_name
+		HighGodNamePossessive = esoteric_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_IT
 		HighGodHerselfHimself = CHARACTER_ITSELF
 		HighGodHerHis = CHARACTER_HERHIS_ITS
-		HighGodNameAlternate = occultist_high_god_name_alternate
-		HighGodNameAlternatePossessive = occultist_high_god_name_alternate_possessive
+		HighGodNameAlternate = esoteric_high_god_name_alternate
+		HighGodNameAlternatePossessive = esoteric_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = occultist_creator_god_name
-		CreatorNamePossessive = occultist_creator_god_name_possessive
+		CreatorName = esoteric_creator_god_name
+		CreatorNamePossessive = esoteric_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_IT
 		CreatorHerHis = CHARACTER_HERHIS_ITS
 		CreatorHerHim = CHARACTER_SHEHE_IT
 
 		#HealthGod
-		HealthGodName = occultist_health_god_name
-		HealthGodNamePossessive = occultist_health_god_name_possessive
+		HealthGodName = esoteric_health_god_name
+		HealthGodNamePossessive = esoteric_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_HE
 		HealthGodHerHis = CHARACTER_HERHIS_HIS
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = occultist_fertility_god_name
-		FertilityGodNamePossessive = occultist_fertility_god_name_possessive
+		FertilityGodName = esoteric_fertility_god_name
+		FertilityGodNamePossessive = esoteric_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = occultist_wealth_god_name
-		WealthGodNamePossessive = occultist_wealth_god_name_possessive
+		WealthGodName = esoteric_wealth_god_name
+		WealthGodNamePossessive = esoteric_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_HE
 		WealthGodHerHis = CHARACTER_HERHIS_HIS
 		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
-		HouseholdGodName = occultist_household_god_name
-		HouseholdGodNamePossessive = occultist_household_god_name_possessive
+		HouseholdGodName = esoteric_household_god_name
+		HouseholdGodNamePossessive = esoteric_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = occultist_fate_god_name
-		FateGodNamePossessive = occultist_fate_god_name_possessive
+		FateGodName = esoteric_fate_god_name
+		FateGodNamePossessive = esoteric_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_IT
 		FateGodHerHis = CHARACTER_HERHIS_ITS
 		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
-		KnowledgeGodName = occultist_knowledge_god_name
-		KnowledgeGodNamePossessive = occultist_knowledge_god_name_possessive
+		KnowledgeGodName = esoteric_knowledge_god_name
+		KnowledgeGodNamePossessive = esoteric_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WarGod
-		WarGodName = occultist_war_god_name
-		WarGodNamePossessive = occultist_war_god_name_possessive
+		WarGodName = esoteric_war_god_name
+		WarGodNamePossessive = esoteric_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = occultist_trickster_god_name
-		TricksterGodNamePossessive = occultist_trickster_god_name_possessive
+		TricksterGodName = esoteric_trickster_god_name
+		TricksterGodNamePossessive = esoteric_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_THEY # Plural they
 		TricksterGodHerHis = CHARACTER_HERHIS_THEIR
 		TricksterGodHerHim = CHARACTER_HERHIM_THEM
 
 		#NightGod
-		NightGodName = occultist_night_god_name
-		NightGodNamePossessive = occultist_night_god_name_possessive
+		NightGodName = esoteric_night_god_name
+		NightGodNamePossessive = esoteric_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_HE
 		NightGodHerHis = CHARACTER_HERHIS_HIS
 		NightGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WaterGod
-		WaterGodName = occultist_water_god_name
-		WaterGodNamePossessive = occultist_water_god_name_possessive
+		WaterGodName = esoteric_water_god_name
+		WaterGodNamePossessive = esoteric_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_THEY # Singular they
 		WaterGodHerHis = CHARACTER_HERHIS_THEIR
 		WaterGodHerHim = CHARACTER_HERHIM_THEM
 
 
 		GoodGodNames = { 
-			occultist_high_god_name 
-			occultist_high_god_name_alternate 
-			occultist_health_god_name 
-			occultist_fertility_god_name 
-			occultist_wealth_god_name 
-			occultist_household_god_name 
-			occultist_knowledge_god_name 
-			occultist_war_god_name 
-			occultist_night_god_name 
-			occultist_water_god_name 
+			esoteric_high_god_name 
+			esoteric_high_god_name_alternate 
+			esoteric_health_god_name 
+			esoteric_fertility_god_name 
+			esoteric_wealth_god_name 
+			esoteric_household_god_name 
+			esoteric_knowledge_god_name 
+			esoteric_war_god_name 
+			esoteric_night_god_name 
+			esoteric_water_god_name 
 		}
-		PantheonTerm = occultist_the_spirits
+		PantheonTerm = esoteric_the_spirits
 		PantheonTermHasHave = pantheon_term_have
-		DevilName = occultist_devil_name
-		DevilNamePossessive = occultist_devil_name_possessive
+		DevilName = esoteric_devil_name
+		DevilNamePossessive = esoteric_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_THEY
 		DevilHerHis = CHARACTER_HERHIS_THEIR
-		DevilHerselfHimself = occultist_devil_herselfhimself
-		EvilGodNames = { occultist_devil_name }
-		HouseOfWorship = occultist_house_of_worship
-		HouseOfWorshipPlural = occultist_house_of_worship_plural
-		ReligiousSymbol = occultist_religious_symbol
-		ReligiousText = occultist_religious_text
-		ReligiousHeadName = occultist_religious_head_title
-		ReligiousHeadTitleName = occultist_religious_head_title_name
-		DevoteeMale = occultist_devotee
-		DevoteeMalePlural = occultist_devoteeplural
-		DevoteeFemale = occultist_devotee
-		DevoteeFemalePlural = occultist_devoteeplural
-		DevoteeNeuter = occultist_devotee
-		DevoteeNeuterPlural = occultist_devoteeplural
-		PriestMale = occultist_priest
-		PriestMalePlural = occultist_priest_plural
-		PriestFemale = occultist_priest
-		PriestFemalePlural = occultist_priest_plural
-		PriestNeuter = occultist_priest
-		PriestNeuterPlural = occultist_priest_plural
-		AltPriestTermPlural = occultist_priest_alternate_plural
-		BishopMale = occultist_priest
-		BishopMalePlural = occultist_priest_plural
-		BishopFemale = occultist_priest
-		BishopFemalePlural = occultist_priest_plural
-		BishopNeuter = occultist_priest
-		BishopNeuterPlural = occultist_priest_plural
-		DivineRealm = occultist_divine_realm
-		PositiveAfterLife = occultist_divine_realm
-		NegativeAfterLife = occultist_divine_realm
-		DeathDeityName = occultist_death_name
-		DeathDeityNamePossessive = occultist_death_name_possessive
+		DevilHerselfHimself = esoteric_devil_herselfhimself
+		EvilGodNames = { esoteric_devil_name }
+		HouseOfWorship = esoteric_house_of_worship
+		HouseOfWorshipPlural = esoteric_house_of_worship_plural
+		ReligiousSymbol = esoteric_religious_symbol
+		ReligiousText = esoteric_religious_text
+		ReligiousHeadName = esoteric_religious_head_title
+		ReligiousHeadTitleName = esoteric_religious_head_title_name
+		DevoteeMale = esoteric_devotee
+		DevoteeMalePlural = esoteric_devoteeplural
+		DevoteeFemale = esoteric_devotee
+		DevoteeFemalePlural = esoteric_devoteeplural
+		DevoteeNeuter = esoteric_devotee
+		DevoteeNeuterPlural = esoteric_devoteeplural
+		PriestMale = esoteric_priest
+		PriestMalePlural = esoteric_priest_plural
+		PriestFemale = esoteric_priest
+		PriestFemalePlural = esoteric_priest_plural
+		PriestNeuter = esoteric_priest
+		PriestNeuterPlural = esoteric_priest_plural
+		AltPriestTermPlural = esoteric_priest_alternate_plural
+		BishopMale = esoteric_priest
+		BishopMalePlural = esoteric_priest_plural
+		BishopFemale = esoteric_priest
+		BishopFemalePlural = esoteric_priest_plural
+		BishopNeuter = esoteric_priest
+		BishopNeuterPlural = esoteric_priest_plural
+		DivineRealm = esoteric_divine_realm
+		PositiveAfterLife = esoteric_divine_realm
+		NegativeAfterLife = esoteric_divine_realm
+		DeathDeityName = esoteric_death_name
+		DeathDeityNamePossessive = esoteric_death_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
-		WitchGodName = witchgodname_espiritista
+		WitchGodName = witchgodname_esoteric
 		WitchGodHerHis = CHARACTER_HERHIS_HIS
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HIM
@@ -196,13 +196,14 @@ occultist_religion = {
 	}	
 
 	faiths = {
-		masonic = {
-			color = { 12 97 60 }
-			icon = masonic
-			
-			doctrine = tenet_communal_identity
+		theosophist = {
+			color = { 137 38 112 }
+			icon = theosophy
+
 			doctrine = tenet_esotericism
 			doctrine = tenet_gnosticism
+			doctrine = tenet_wisdom_of_gurus
+
 		}
 
 	}

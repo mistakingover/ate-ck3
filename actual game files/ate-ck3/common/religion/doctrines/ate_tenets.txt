@@ -1145,6 +1145,90 @@
 			pilgrimage_decision_active = yes
 		}
 	}
+	
+	tenet_vereda_worship = {
+		icon = core_tenet_skyshaman
+
+		name = {
+			first_valid = {
+				desc = tenet_vereda_worship_name
+			}
+		}
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		parameters = {
+			#summer_festivals_active = yes
+			trial_by_sun_active = yes ##TODO reimplement as Trial by Vereda
+		}
+		
+		traits = {
+			virtues = { hunter_1 hunter_2 hunter_3 }
+		}
+
+		character_modifier = {
+			drylands_attrition_mult = -0.25
+			plains_attrition_mult = -0.25
+			steppe_attrition_mult = -0.25
+		}
+
+		piety_cost = faith_tenet_cost_mid
+	}
+	
+	tenet_sacred_architecture = {
+		icon = core_tenet_altar
+		
+		name = {
+			first_valid = {
+				desc = tenet_sacred_architecture_name
+			}
+		}
+		
+		piety_cost = {
+			if = {
+				limit = {
+					OR = {
+						religion_tag = modernist_religion
+						religion_tag = columbian_religion
+						religion_tag = occulist_religion
+					}
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_sacred_architecture }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		character_modifier = {
+			additional_fort_level = 1
+			church_holding_build_speed = 0.33
+			church_holding_build_gold_cost = -0.33
+			church_holding_holding_build_speed = 0.33
+			church_holding_holding_build_gold_cost = -0.33
+		}
+	}
+	
 
 	#############################################################
 	
@@ -1925,6 +2009,13 @@
 					}
 					desc = tenet_bhakti_personal_orisha
 				}
+				triggered_desc = {
+					trigger = {
+						ROOT = faith:culto_dos_santos
+					}
+					desc = tenet_bhakti_personal_saint
+				}
+				
 				desc = tenet_bhakti_name
 			}
 		}
