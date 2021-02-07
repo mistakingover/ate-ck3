@@ -122,7 +122,7 @@ ate_religious_decision.81 = { #beginning of assembly
 			limit = {
 				highest_held_title_tier > tier_kingdom
 			}
-			add_gold = major_gold_loss
+			remove_short_term_gold = major_gold_value
 			if = {
 				limit = {
 					title:c_co_21_c_cuta = {
@@ -131,14 +131,14 @@ ate_religious_decision.81 = { #beginning of assembly
 						}
 					}	
 				}
-				add_gold = major_gold_loss
+				remove_short_term_gold = major_gold_value
 			}
 		}
 		else_if = {
 			limit = {
 				highest_held_title_tier = tier_kingdom
 			}
-			add_gold = medium_gold_loss
+			remove_short_term_gold = medium_gold_value
 			if = {
 				limit = {
 					title:c_co_21_c_cuta = {
@@ -147,11 +147,11 @@ ate_religious_decision.81 = { #beginning of assembly
 						}
 					}	
 				}
-				add_gold = medium_gold_loss
+				remove_short_term_gold = medium_gold_value
 			}
 		}
 		else = {
-			add_gold = minor_gold_loss
+			remove_short_term_gold = minor_gold_value
 			if = {
 				limit = {
 					title:c_co_21_c_cuta = {
@@ -160,7 +160,7 @@ ate_religious_decision.81 = { #beginning of assembly
 						}
 					}	
 				}
-				add_gold = minor_gold_loss
+				remove_short_term_gold = minor_gold_value
 			}
 		}
 		hidden_effect = {
@@ -2447,13 +2447,6 @@ ate_religious_decision.103 = {
 		name = ate_religious_decision.103.a
 		add_trait = patron_difunta_correa
 		remove_variable = temporary_established_anima
-		if = {
-			limit = {
-				NOT = { has_variable = temporary_established_anima }
-				has_global_variable = greater_anima_1					
-			}
-			add_gold = 150
-		}
 	}
 	option = {
 		name = ate_religious_decision.103.b
@@ -3026,4 +3019,136 @@ ate_religious_decision.104 = {
 		}
 
 	}	
+}
+
+ate_religious_decision.110 = { 
+	type = character_event
+	title = ate_religious_decision.110.t
+	desc = ate_religious_decision.110.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	override_background = {
+		event_background = throne_room
+	}
+	option = {
+		name = ate_religious_decision.110.a
+		add_character_flag = {
+			flag = challa_base
+			months = 6
+		}
+		stress_impact = {
+			zealous = 20
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.111
+				days = 2
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.110.b
+		remove_short_term_gold = minor_gold_value
+		add_character_flag = {
+			flag = challa_plus
+			months = 6
+		}
+		stress_impact = {
+			greedy = 20
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.111
+				days = 2
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.110.c
+		remove_short_term_gold = medium_gold_value
+		add_character_flag = {
+			flag = challa_plusplus
+			months = 6
+		}
+		stress_impact = {
+			greedy = 40
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.111
+				days = 2
+			}
+		}
+	}
+}
+
+ate_religious_decision.111 = { 
+	type = character_event
+	title = ate_religious_decision.111.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_character_flag = challa_plusplus
+				}
+				desc = ate_religious_decision.111.desc.3
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = challa_plus
+				}
+				desc = ate_religious_decision.111.desc.2
+			}
+			desc = ate_religious_decision.111.desc.1
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_content
+	}
+	override_background = {
+		trigger = {	scope:at_home = yes }
+		event_background = farmland
+	}
+	override_background = {
+		trigger = {	scope:at_home = no }
+		event_background = wilderness_scope
+	}
+	option = {
+		name = ate_religious_decision.111.a
+		trigger = {
+			has_character_flag = challa_base
+		}
+		add_piety = 50
+		add_character_modifier = {
+			modifier = challa_blessing_1
+			years = 1
+		}
+	}
+	option = {
+		name = ate_religious_decision.111.b
+		trigger = {
+			has_character_flag = challa_plus
+		}
+		add_piety = 100
+		add_character_modifier = {
+			modifier = challa_blessing_2
+			years = 1
+		}
+	}
+	option = 
+{		name = ate_religious_decision.111.c
+		trigger = {
+			has_character_flag = challa_plusplus
+		}
+		add_piety = 150
+		add_character_modifier = {
+			modifier = challa_blessing_3
+			years = 1
+		}
+	}
 }
