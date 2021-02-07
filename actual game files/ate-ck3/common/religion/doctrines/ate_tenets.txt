@@ -1229,6 +1229,49 @@
 		}
 	}
 	
+	tenet_art_of_beauty = {
+		icon = core_tenet_altar
+		
+		name = {
+			first_valid = {
+				desc = tenet_art_of_beauty_name
+			}
+		}
+		
+		piety_cost = {
+			if = {
+				limit = {
+					OR = {
+						religion_tag = neoniponic_religion
+					}
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_art_of_beauty }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		character_modifier = {
+			development_growth_factor = 0.1
+			diplomacy_per_piety_level = 1
+		}
+	}
+	
 
 	#############################################################
 	
