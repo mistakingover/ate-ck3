@@ -228,7 +228,7 @@
 	faiths = {
 		traditionalist = {
 			color = { 0 153 0 }
-			icon = islam_2
+			icon = traditionalist
 			#religious_head = d_traditionalist
 
 			#holy_site = mecca
@@ -257,7 +257,7 @@
 		
 		revivalist = {
 			color = { 0 102 0 }
-			icon = islam_3
+			icon = revivalist
 			#religious_head = d_revivalist
 
 			#holy_site = mecca
@@ -356,7 +356,7 @@
 
 		qingzhen = { #
 			color = { 0 178 127 }
-			icon = islam_4
+			icon = qingzhen
 
 			#holy_site = mecca
 			#holy_site = medina
@@ -395,7 +395,7 @@
 
 		orientalist = {
 			color = { 51 178 25 }
-			icon = islam_4
+			icon = orientalist
 			#religious_head = d_orientalist
 			
 			#holy_site = mecca
@@ -430,7 +430,7 @@
 
 		misrist = { #Seveners (default Shia)
 			color = { 51 204 0 }
-			icon = islam_3
+			icon = misrist
 			religious_head = d_misrist
 
 
