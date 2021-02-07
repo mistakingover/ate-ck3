@@ -1,0 +1,120 @@
+###Latin America
+count_cacique = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { tribal_government clan_government }
+	culture_groups = { amazonico_group guarani_group xingu_group caribeno_group costero_group antillais_group caribbanglo_group centrano_group chacoan_group  }
+}
+count_cacique_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { tribal_government clan_government }
+	culture_groups = { amazonico_group guarani_group xingu_group caribeno_group costero_group antillais_group caribbanglo_group centrano_group chacoan_group   }
+}
+county_tribe = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { tribal_government clan_government }
+	culture_groups = { amazonico_group guarani_group xingu_group caribeno_group costero_group antillais_group caribbanglo_group centrano_group chacoan_group   }
+}
+
+
+###Brazil
+count_viscount = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { sudestino_group sulista_group }
+}
+count_viscount_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { sudestino_group sulista_group }
+}
+county_viscounty = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { sudestino_group sulista_group }
+}
+
+duke_marquis = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { sudestino_group sulista_group }
+}
+duke_marquis_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { sudestino_group sulista_group }
+}
+duchy_marquisate = {
+	type = title
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { sudestino_group sulista_group }
+}
+
+
+count_colonel = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { nordestino_group estino_group }
+}
+count_colonel_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { nordestino_group estino_group }
+}
+county_colonelate = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { feudal_government clan_government imperial_government }
+	culture_groups = { nordestino_group estino_group }
+}
+
