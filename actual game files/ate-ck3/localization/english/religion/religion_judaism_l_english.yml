@@ -59,14 +59,14 @@
  haredi_adj:0 "Haredi"
  haredi_adherent:0 "Haredi"
  haredi_adherent_plural:0 "Haredim"
- haredi_desc:0 "Haredim are the successors of the most traditional pre-Event communities, who banded together and accepted many Jews into their ranks during the chaos following the Event. Haredim are united in their anticipation of the arrival of Moshiach, or Messiah, who will gather the exiles and return them to the land of their forefathers when the time is right."
+ haredi_desc:0 "Haredim are the successors of the most traditional pre-Event communities, who banded together and accepted many other Jews into their ranks during the chaos after the Event. Haredim are united in their anticipation of the Moshiach, or Messiah, who will gather the exiled Jews and return them to the land of their forefathers when the time is right. Until then, they pray devoutly and live traditional lives, believing that this will facilitate his swift arrival."
 
  #Reform
  reform:0 "Reform Judaism"
  reform_adj:0 "Reform"
  reform_adherent:0 "Reform Jew"
  reform_adherent_plural:0 "Reform Jews"
- reform_desc:0 "Reform Judaism emerged before the Event, and its ideas have persisted in Jewish communities across the centuries. Reform Jews believe that Halakha, or Jewish religious law, is non-binding. They instead believe that each Reform Jew has the autonomy to interpret and practice Judaism as they see fit. Reform Jews do not believe in the imminent arrival of Moshiach, and are instead devoted to the principle of Tikkun Olam, or repair of the world. This principle holds that each Reform Jew must work to restore the pre-Event world through collective effort and force of will."
+ reform_desc:0 "Reform Judaism emerged before the Event, and its ideas have persisted in Jewish communities across the centuries. Reform Jews believe that Halakha, or Jewish religious law, is non-binding and that every Jew can autonomously interpret and practice Judaism as they see fit. Reform Jews do not believe in the imminent arrival of the Moshiach, and are instead devoted to the principle of Tikkun Olam, or repair of the world. This principle holds that each Reform Jew must work to restore the pre-Event world through collective effort and force of will."
  reform_house_of_worship:0 "Temple"
  reform_house_of_worship_plural:0 "Temples"
  reform_religious_head_title:0 "Union of Judaism"
@@ -81,7 +81,7 @@
  meshichist_adj:0 "Meshichist"
  meshichist_adherent:0 "Meshichist"
  meshichist_adherent_plural:0 "Meshichists"
- meshichist_desc:0 "Meshichism emerged as a distinct branch of the Jewish religion in the chaos following the Event. Meshichists believe that the last great pre-Event Haredi Rebbe is actually Moshiach. The notion of a dead man being Moshiach would contradict most Jewish teachings on this issue, but Meshichists claim that 'the Rebbe' is still 'alive' in a metaphorical sense. Meshichists also place a great deal of importance on the more mystical and esoteric aspects of Jewish belief."
+ meshichist_desc:0 "Meshichism emerged as a distinct branch of the Jewish religion in the chaos following the Event. Meshichists believe that the last great pre-Event Haredi Rebbe is actually the Moshiach. The notion of a dead man being the Moshiach would contradict most Jewish teachings on the subject, but Meshichists claim that the Rebbe is still 'alive' in a metaphorical sense. Meshichists also place a great deal of importance on the more mystical and esoteric aspects of Jewish belief."
  meshichist_prophet_the_rebbe:0 "The Rebbe"
  
  #Amazonian
@@ -96,4 +96,4 @@
  special_doctrine_shema_yisrael_desc:0 "Although we Jews may disagree on the particulars of each other's practices, we are united in our worship of the One God of Israel. We must set aside our differences in these strange times, for we are all children of Israel."
  
  doctrine_parameter_hostility_override_special_doctrine_shema_yisrael:0 "Considers [faiths|E] with the Shema Yisrael doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
- tenet_sanctity_of_nature_eretz_amazonia:0 "Eretz Amazonia"
+ tenet_sanctity_of_nature_eretz_amazonia:0 "Eretz Amazonah"
