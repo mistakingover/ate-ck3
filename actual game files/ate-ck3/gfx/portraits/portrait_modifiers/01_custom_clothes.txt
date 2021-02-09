@@ -1,0 +1,372 @@
+﻿custom_clothes = {
+	usage = customization
+	interface_position = 0
+	
+	
+	############################################## ATE ############################################
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = andean_commoner
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = andean_low
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = andean_high
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = cemanahuac_commoner_clothes
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = cemanahuac_low_nobility_clothes
+	}
+	add_accessory_modifiers = {
+		gene = clothes
+		template = cemanahuac_high_nobility_clothes
+	}	
+	
+	amazonian_loincloth_common = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = amazonian_loincloth_common
+            }
+            accessory = {
+				mode = add
+                gene = clothes
+                template = amazonian_neckpiece_common
+            }
+        }
+	}
+	
+	amazonian_loincloth_nobility = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = amazonian_loincloth_nobility
+            }
+            accessory = {
+				mode = add
+                gene = clothes
+                template = amazonian_neckpiece_common
+            }
+        }
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = canuck_common
+	}	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = canuck_war
+	}	
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = canadian_common
+	}	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = canadian_war
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	################################################## VANILLA ##########################################
+	add_accessory_modifiers = {
+		gene = clothes
+		template = western_commoner_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = western_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		# is_valid_custom = {
+		# 	highest_held_title_tier > tier_county
+		# }
+		template = western_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		# is_valid_custom = {
+		# 	highest_held_title_tier > tier_duchy
+		# }
+		template = western_royal_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = western_war_nobility_clothes
+	}
+
+	# add_accessory_modifiers = {
+	# 	gene = clothes
+	# 	is_valid_custom = {
+	# 		highest_held_title_tier > tier_kingdom
+	# 	}
+	# 	template = western_imperial_clothes
+	# }
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = western_prison
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = western_bedchamber
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = western_crusades
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = northern_commoner_clothes
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = northern_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = northern_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = northern_war_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = byzantine_commoner_clothes
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = byzantine_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = byzantine_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = byzantine_war_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = mena_commoner_clothes
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = mena_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = mena_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = mena_war_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = steppe_commoner_clothes
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = steppe_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = steppe_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = steppe_war_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = indian_commoner_clothes
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = indian_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = indian_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = indian_war_nobility_clothes
+	}
+	
+	
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = sub_saharan_commoner_clothes
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = sub_saharan_low_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = sub_saharan_high_nobility_clothes
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_hre_commoner_clothes
+		is_valid_custom = {
+			has_dlc = "Garments of the Holy Roman Empire"
+		}
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_hre_low_nobility_clothes
+		is_valid_custom = {
+			has_dlc = "Garments of the Holy Roman Empire"
+		}
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_hre_high_nobility_clothes
+		is_valid_custom = {
+			has_dlc = "Garments of the Holy Roman Empire"
+		}
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_hre_war_nobility_clothes
+		is_valid_custom = {
+			has_dlc = "Garments of the Holy Roman Empire"
+		}
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_abbasid_commoner_clothes
+		is_valid_custom = {
+			has_dlc = "Fashion of the Abbasid Court"
+		}
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_abbasid_low_nobility_clothes
+		is_valid_custom = {
+			has_dlc = "Fashion of the Abbasid Court"
+		}
+	}
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_abbasid_high_nobility_clothes
+		is_valid_custom = {
+			has_dlc = "Fashion of the Abbasid Court"
+		}
+	}
+	
+	add_accessory_modifiers = {
+		gene = clothes
+		template = dde_abbasid_war_nobility_clothes
+		is_valid_custom = {
+			has_dlc = "Fashion of the Abbasid Court"
+		}
+	}
+
+	# add_accessory_modifiers = {
+	# 	gene = clothes
+	# 	template = religious_orthodox_high_clothes
+	# }
+
+	# add_accessory_modifiers = {
+	# 	gene = clothes
+	# 	template = religious_orthodox_head_clothes
+	# }
+
+	# add_accessory_modifiers = {
+	# 	gene = clothes
+	# 	template = religious_muslim_high_clothes
+	# }
+
+	# add_accessory_modifiers = {
+	# 	gene = clothes
+	# 	template = religious_orthodox_high_clothes
+	# }
+
+	#add_accessory_modifiers = {
+	#	gene = hairstyles
+	#	template = rtt_hairstyles
+	#	
+	#	is_valid_custom = {
+	#		monarchs_journey_unlock = 1
+	#	}
+	#}
+
+}

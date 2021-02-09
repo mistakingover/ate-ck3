@@ -1,4 +1,5 @@
 ﻿l_english:
+
  doctrine_protestant_tolerance:0 "Special Tolerance"
  doctrine_catholic_tolerance:0 "Special Tolerance"
  doctrine_mormon_tolerance:0 "Special Tolerance"
@@ -10,6 +11,7 @@
  doctrine_parameter_hostility_override_special_doctrine_mainstream_protestant:0 "Considers [faiths|E] with the Mainstream Protestant doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_protestant_background_name:0 "Protestant Heritage"
  special_doctrine_protestant_background_desc:0 "Although our beliefs have evolved over time, our origins still lie in the ancient Reformation. Other Christians with similar origins view us positively."
+ doctrine_parameter_hostility_override_special_doctrine_protestant_background_name:0 "Considers [faiths|E] with the Protestant Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_catholic_heritage_name:0 "Catholic Heritage"
  special_doctrine_catholic_heritage_desc:0 "Although our beliefs have evolved over time, our origins still lie in the ancient Church of Saint Peter. Other Christians with similar origins view us positively."
  doctrine_parameter_hostility_override_special_doctrine_catholic_heritage:0 "Considers [faiths|E] with the Catholic Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
@@ -22,7 +24,6 @@
  special_doctrine_juju_name:0 "Juju"
  special_doctrine_juju_desc:0 "Our practices are strange and alarming to some, but they are ultimately done in service of familiar powers."
  doctrine_parameter_hostility_override_special_doctrine_juju:0 "Considers [faiths|E] with the Juju doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
- doctrine_parameter_hostility_override_special_doctrine_protestant_heritage:0 "Considers [faiths|E] with the Protestant Heritage doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  special_doctrine_latter_day_saints_name:0 "Latter-Day Saints"
  special_doctrine_latter_day_saints_desc:0 "We trace our spiritual heritage back to Joseph Smith and the divine revelation he received from the golden plates. Our unique views have caused other Christians to view us with disdain, meaning that those who accept Smith's teachings must retain good relations."
  doctrine_parameter_hostility_override_special_doctrine_latter_day_saints:0 "Considers [faiths|E] with the Latter-Day Saints doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
@@ -33,6 +34,9 @@
  special_doctrine_old_covenant_desc:0 "The Hebrew roots of our faith are both obvious and undeniable, and it would be wrong of us to condemn faiths with similar roots."
  special_doctrine_syllabus_of_errors_name:0 "Syllabus of Errors"
  special_doctrine_syllabus_of_errors_desc:0 "Countless mistakes, heresies and errors have come into the world and led mankind far from God's intented path, even amongst those that dare call themselves Christians." 
+ special_doctrine_render_unto_caesar_name:0 "Render Unto Caesar"
+ special_doctrine_render_unto_caesar_desc:0 "Placeholder!"
+ doctrine_parameter_hostility_override_special_doctrine_render_unto_caesar_name:0 "Considers [faiths|E] with the Render Unto Caesar doctrine to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
  
  tenet_sola_scriptura_name:0 "Sola Scriptura"
  tenet_prima_scriptura:0 "Prima Scriptura"
@@ -82,6 +86,9 @@
  tenet_constituyente_primario_desc:0 "The Consituent Assembly is essential to your faith."
  tenet_national_pantheon_name:0 "National Pantheon"
  tenet_national_pantheon_desc:0 "Prócers are venerated in our faith."
+ tenet_saintly_mission_name:0 "Saintly Mission"
+ tenet_saintly_mission_desc:0 "Since our foundation, spreading and strengthening the faith is our mission. It's through this selfless venture that we connect with God and bring prosperity to our people."
+
 
  FAITH_DOCTRINES_THEOLOGY:0 "Theology"
  doctrine_baptism_name:0 "Baptism"
@@ -96,14 +103,15 @@
 
  doctrine_parameter_lay_on_hands_enabled:0 "May Pray for the Health of the sick and wounded in exchange for [piety|E]. If they get better, they might become Zealous if they belong to the same faith as you, or might convert to your faith otherwise."
  doctrine_parameter_deliverance_ministry_enabled:0 "May enact a deliverance ministry on Possessed people."
- doctrine_parameter_build_tragedy_shrine_enabled:0 "May construct a shrine to venerate a dynasty member who did not die of old age. If your capital is located in such a shrine, you can visit it sporadically as a decision."
+ doctrine_parameter_anima_shrines_active:0 "May select one of the major ánimas as your Patron by decision.\nMay build and dedicate a shrine in your capital to the ánima of a close one that has perished before their time. As the enshrined ánima gains notoriety, you might select it as your Patron ánima as long as the shrine is found in your capital.\nPowerful and pious rulers might build a sanctuary to the enshrined ánima, elevating it to a major ánima, and enabling all adherents of the faith to select it as their Patron, wherever they are."
  doctrine_parameter_wrestling_match_enabled:0 "Enables the Challenge to a Wrestling Match interaction of characters of the same faith."
  doctrine_parameter_bargain_death_enabled:0 "Enables the Bargain with Death decision, seeking the Holiest Death's blessing, for a price."
 
  tenet_mission_service_name:0 "Mission Service"
  tenet_mission_service_desc:0 "Our faith expects every young man to spend time preaching the faith to nonbelievers. When done right, this can cause huge numbers of people to join our flock very quickly."
- tenet_doctrine_and_covenants_name:0 "Doctrine and Covenants"
- tenet_doctrine_and_covenants_desc:0 "Our faith continually updates our doctrine and covenants, creating a large and codified body of practices which are unique to our faith."
 
  doctrine_parameter_theocracy_town_cleargy_lease:0 "City [holdings|E] are leased out to their Holder's [realm_priest|E], who then serves them as a [theocratic|E] [vassal|E]"
  doctrine_parameter_select_national_pantheon_active:0 "Enables to select a Prócer from the National Pantheon as your Patron."
+ doctrine_parameter_enables_constituent_assembly:0 "Enables the Caudillo to call for one Constituent Assembly during their reign and in no less than forty years since the last Assembly was called.\nDuring the Assembly, landed rulers of the faith may vote on several issues and determine different doctrines of the faith until the next Assembly is called and modifies them."
+ doctrine_parameter_meditate_on_the_marquess_active:0 "May Meditate on the writings of the Marquess of García, trying to understand the underlying prophecies."
+ doctrine_parameter_create_gran_colombia_active:0 "Enables the Restoration of the Gran Colombia, uniting the Patria Grande under the same banner once again."

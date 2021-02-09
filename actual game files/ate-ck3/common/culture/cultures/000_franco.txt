@@ -1,17 +1,17 @@
 ﻿franco_group = {
-graphical_cultures = {
-	franco_group_gfx
-	western_building_gfx
-	western_clothing_gfx
-	western_unit_gfx
-}
+	graphical_cultures = {
+		franco_group_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
 	
 	ontarien = {
 		graphical_cultures = {
 			ontarien_coa_gfx
 		}
 		
-		color = { 0.1 0.1 0.5 }
+			color = { 25 25 127 }
 	
 		cadet_dynasty_names = {
 			"dynn_Ault"
@@ -419,18 +419,17 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	85 = caucasian
+	5 = amerindian
+}
 	}
 	quebecois = {
 		graphical_cultures = {
 			quebecois_coa_gfx
 		}
 		
-		color = { 0.2 0.3 0.6 }
+			color = { 51 76 153 }
 	
 		cadet_dynasty_names = {
 			"dynn_Angers"
@@ -1100,18 +1099,19 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	10 = arab
+	5 = asian
+	75 = caucasian
+	5 = amerindian
+}
 	}
 	acadien = {
 		graphical_cultures = {
 			acadien_coa_gfx
 		}
 		
-		color = { 0.4 0.5 0.8 }
+			color = { 102 127 204 }
 	
 		cadet_dynasty_names = {
 			"dynn_Amirault"
@@ -1521,370 +1521,9 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
-	metis = {
-		graphical_cultures = {
-			metis_coa_gfx
-		}
-		
-		color = { 0.85 0.5 0.7 }
-	
-		cadet_dynasty_names = {
-			"dynn_Abrahamson"
-			"dynn_Allard"
-			"dynn_Asham"
-			"dynn_Baikie"
-			"dynn_Beaucage"
-			"dynn_Beauchemin"
-			"dynn_Bellegarde"
-			"dynn_Bellehumeur"
-			"dynn_Bissaillon"
-			"dynn_Blais"
-			"dynn_Blayone"
-			"dynn_Boniface"
-			"dynn_Bottineau"
-			"dynn_Boucher"
-			"dynn_Bourgonje"
-			"dynn_Bourque"
-			"dynn_Bouyer"
-			"dynn_Br_e_act_mault"
-			"dynn_Breland"
-			"dynn_Broatch"
-			"dynn_Bruinooge"
-			"dynn_Bruneau"
-			"dynn_Calahasen"
-			"dynn_Callihoo"
-			"dynn_Cardinal"
-			"dynn_Carri_e_grv_re"
-			"dynn_Chabot"
-			"dynn_Chalifoux"
-			"dynn_Chalizonnce"
-			"dynn_Charpentier"
-			"dynn_Chartrand"
-			"dynn_Chatelain"
-			"dynn_Chenalque"
-			"dynn_Combot"
-			"dynn_Courchene"
-			"dynn_Cuthand"
-			"dynn_Cutknife"
-			"dynn_Dauphinais"
-			"dynn_DeLaRonde"
-			"dynn_DeMontigny"
-			"dynn_Delorme"
-			"dynn_Desjarlais"
-			"dynn_Desrochers"
-			"dynn_Dickson"
-			"dynn_Dimaline"
-			"dynn_Disbrowe"
-			"dynn_Ducharme"
-			"dynn_Duguette"
-			"dynn_Dumont"
-			"dynn_Eklund"
-			"dynn_Erickson"
-			"dynn_Eyolfson"
-			"dynn_Fafard"
-			"dynn_Fayant"
-			"dynn_Firth"
-			"dynn_Fleury"
-			"dynn_Forget"
-			"dynn_Frechette"
-			"dynn_Gardepy"
-			"dynn_Garrioch"
-			"dynn_Geddes"
-			"dynn_Gemerce"
-			"dynn_Goulet"
-			"dynn_Gouvereau"
-			"dynn_Gr_e_act_goire"
-			"dynn_Grant"
-			"dynn_Guiboche"
-			"dynn_Gunn"
-			"dynn_Gustufson"
-			"dynn_Halliday"
-			"dynn_Hivernant"
-			"dynn_Hothwell"
-			"dynn_Houle"
-			"dynn_Hourie"
-			"dynn_Isbister"
-			"dynn_Iserhoff"
-			"dynn_L_e_act_pine"
-			"dynn_LaBoucane"
-			"dynn_Lafert_e_act_"
-			"dynn_Lafleche"
-			"dynn_Lafond"
-			"dynn_Lagimodiere"
-			"dynn_Laurendeau"
-			"dynn_Leost"
-			"dynn_Letendre"
-			"dynn_Loguier"
-			"dynn_Longsneck"
-			"dynn_Mascasin"
-			"dynn_McKweassige"
-			"dynn_McLeod"
-			"dynn_McNarland"
-			"dynn_Menard"
-			"dynn_Mercival"
-			"dynn_Mercredi"
-			"dynn_Merizique"
-			"dynn_Montour"
-			"dynn_Mosionier"
-			"dynn_Nolin"
-			"dynn_Norquay"
-			"dynn_Norris"
-			"dynn_Norwest"
-			"dynn_O_pst_Kweziesai"
-			"dynn_O_pst_Soup"
-			"dynn_O_pst_Toole"
-			"dynn_Ouellette"
-			"dynn_Overvold"
-			"dynn_Parenteau"
-			"dynn_Philippot"
-			"dynn_Poitras"
-			"dynn_Pr_e_act_fontaine"
-			"dynn_Racette"
-			"dynn_Redden"
-			"dynn_Ritchot"
-			"dynn_Rivet"
-			"dynn_Savoyard"
-			"dynn_Sayer"
-			"dynn_Scofield"
-			"dynn_Shanks"
-			"dynn_Singosobie"
-			"dynn_Souray"
-			"dynn_Sourdif"
-			"dynn_Southbranch"
-			"dynn_Supernault"
-			"dynn_Teillet"
-			"dynn_Throssel"
-			"dynn_Tomlinson"
-			"dynn_Tourangean"
-			"dynn_Tourond"
-			"dynn_Tremaudan"
-			"dynn_Trottier"
-			"dynn_Turpel"
-			"dynn_Udgarten"
-			"dynn_Vandal"
-			"dynn_Vautour"
-			"dynn_Vermette"
-			"dynn_Wayshorn"
-			"dynn_Wilkie"
-			"dynn_Zastre"
-			"dynn_Zebeaux"
-			"dynn_Zoldy"
-		}
-		dynasty_names = {
-			"dynn_Abrahamson"
-			"dynn_Allard"
-			"dynn_Asham"
-			"dynn_Baikie"
-			"dynn_Beaucage"
-			"dynn_Beauchemin"
-			"dynn_Bellegarde"
-			"dynn_Bellehumeur"
-			"dynn_Bissaillon"
-			"dynn_Blais"
-			"dynn_Blayone"
-			"dynn_Boniface"
-			"dynn_Bottineau"
-			"dynn_Boucher"
-			"dynn_Bourgonje"
-			"dynn_Bourque"
-			"dynn_Bouyer"
-			"dynn_Br_e_act_mault"
-			"dynn_Breland"
-			"dynn_Broatch"
-			"dynn_Bruinooge"
-			"dynn_Bruneau"
-			"dynn_Calahasen"
-			"dynn_Callihoo"
-			"dynn_Cardinal"
-			"dynn_Carri_e_grv_re"
-			"dynn_Chabot"
-			"dynn_Chalifoux"
-			"dynn_Chalizonnce"
-			"dynn_Charpentier"
-			"dynn_Chartrand"
-			"dynn_Chatelain"
-			"dynn_Chenalque"
-			"dynn_Combot"
-			"dynn_Courchene"
-			"dynn_Cuthand"
-			"dynn_Cutknife"
-			"dynn_Dauphinais"
-			"dynn_DeLaRonde"
-			"dynn_DeMontigny"
-			"dynn_Delorme"
-			"dynn_Desjarlais"
-			"dynn_Desrochers"
-			"dynn_Dickson"
-			"dynn_Dimaline"
-			"dynn_Disbrowe"
-			"dynn_Ducharme"
-			"dynn_Duguette"
-			"dynn_Dumont"
-			"dynn_Eklund"
-			"dynn_Erickson"
-			"dynn_Eyolfson"
-			"dynn_Fafard"
-			"dynn_Fayant"
-			"dynn_Firth"
-			"dynn_Fleury"
-			"dynn_Forget"
-			"dynn_Frechette"
-			"dynn_Gardepy"
-			"dynn_Garrioch"
-			"dynn_Geddes"
-			"dynn_Gemerce"
-			"dynn_Goulet"
-			"dynn_Gouvereau"
-			"dynn_Gr_e_act_goire"
-			"dynn_Grant"
-			"dynn_Guiboche"
-			"dynn_Gunn"
-			"dynn_Gustufson"
-			"dynn_Halliday"
-			"dynn_Hivernant"
-			"dynn_Hothwell"
-			"dynn_Houle"
-			"dynn_Hourie"
-			"dynn_Isbister"
-			"dynn_Iserhoff"
-			"dynn_L_e_act_pine"
-			"dynn_LaBoucane"
-			"dynn_Lafert_e_act_"
-			"dynn_Lafleche"
-			"dynn_Lafond"
-			"dynn_Lagimodiere"
-			"dynn_Laurendeau"
-			"dynn_Leost"
-			"dynn_Letendre"
-			"dynn_Loguier"
-			"dynn_Longsneck"
-			"dynn_Mascasin"
-			"dynn_McKweassige"
-			"dynn_McLeod"
-			"dynn_McNarland"
-			"dynn_Menard"
-			"dynn_Mercival"
-			"dynn_Mercredi"
-			"dynn_Merizique"
-			"dynn_Montour"
-			"dynn_Mosionier"
-			"dynn_Nolin"
-			"dynn_Norquay"
-			"dynn_Norris"
-			"dynn_Norwest"
-			"dynn_O_pst_Kweziesai"
-			"dynn_O_pst_Soup"
-			"dynn_O_pst_Toole"
-			"dynn_Ouellette"
-			"dynn_Overvold"
-			"dynn_Parenteau"
-			"dynn_Philippot"
-			"dynn_Poitras"
-			"dynn_Pr_e_act_fontaine"
-			"dynn_Racette"
-			"dynn_Redden"
-			"dynn_Ritchot"
-			"dynn_Rivet"
-			"dynn_Savoyard"
-			"dynn_Sayer"
-			"dynn_Scofield"
-			"dynn_Shanks"
-			"dynn_Singosobie"
-			"dynn_Souray"
-			"dynn_Sourdif"
-			"dynn_Southbranch"
-			"dynn_Supernault"
-			"dynn_Teillet"
-			"dynn_Throssel"
-			"dynn_Tomlinson"
-			"dynn_Tourangean"
-			"dynn_Tourond"
-			"dynn_Tremaudan"
-			"dynn_Trottier"
-			"dynn_Turpel"
-			"dynn_Udgarten"
-			"dynn_Vandal"
-			"dynn_Vautour"
-			"dynn_Vermette"
-			"dynn_Wayshorn"
-			"dynn_Wilkie"
-			"dynn_Zastre"
-			"dynn_Zebeaux"
-			"dynn_Zoldy"
-		}
-		
-		male_names = {
-			Ad_e_act_lard Albert Alec Alexandre-Antonin Alexis Alexis-Andr_e_act_ Ambroise-Dydime Ambrose Andr_e_act_ Angus Antoine Antonin Arron Arthur August Augustin Axel
-			Baptiste Bernard Brian Bronson Buckley
-			Calvin Capote-Blank Charles Charles-Michel Cl_e_act_ment Clyde Conroy Cuthbert Cuthbert-Louis Cyril
-			Darcy Darren David Delbert Denis Derrick Diom Don Douglas Doyle Duane Dwight Dydime Dylan
-			Eldon Elmer Elz_e_act_ar Ervin Esprit-Errant Eug_e_grv_ne
-			F_e_act_lix Floyd Fran_c_ced_ois Fran_c_ced_ois-Xavier
-			Gabriel Garvin Gaspard G_e_act_d_e_act_on George Gerald Germain Gregory Guillaume
-			Hamelin Harley Henri Hippolyte Honor_e_act_ Honor_e_act_-Jacques Howard
-			Jaco Jacques Jacques-Raphael Jaxon Jean Jean-Baptiste Jess Joe John-Bruce John-Lazarus Jonas Jonathan Jules
-			Keith Kevin Kornai
-			Laird Laurent-Salomon Lawrence Leroy Louis Louis-Hippolyte Louis-Philippe Louis-Riel
-			Malcolm Maxime Michel
-			Norbert
-			Ours-Fou Ovide Ozias
-			Pascal Patrice Paul Perry Pierre Pierre-Narcisse Prosper
-			Ralph Ranald Raoul Ray Ren_e_act_ Ren_e_act_-L_e_act_onidas Rh_e_act_aume Rick Robert Robert-Falcon Rocky Rod Ryan
-			Salomon Shane Sheldon
-			Th_e_act_ophile Theoren Thomas Todd Travis Tyrone
-			Vernon Victor
-			Wade Walter Warren Wayne
-			Xavier
-			Yvon
-			Zetwel
-		}
-		female_names = {
-			Ad_e_grv_le Anabelle Andrea Ang_e_act_lique Arlette Audrey
-			Bernadette Berth Bethsy Blanche Brigitte
-			Carole Celeigh Chantell Charlotte Christine Claire Claudine Colleen
-			Deanna Dominique
-			E_act_l_e_act_onore Elise Evelyn
-			FE_licia Florence Fran_c_ced_oise
-			Gabrielle Gertrude Ginette Gis_e_grv_le
-			H_e_act_l_e_grv_ne Holly
-			Ir_e_grv_ne Isabelle
-			Janet Jennifer Jo-Ann Jocelyne Josephine Josette Juanita Julie Justine
-			Kamala Katherena Kinnie
-			Laura Laurence Laurette L_e_act_opoldine Loretta
-			Madeline Manon Marguerite Marianne Marie Marie-Marguerite Marie-Th_e_act_r_e_grv_se Marilyn Martine Mathilde Maude
-			Nancy Norma
-			Odette Olympe Or_e_act_lie
-			Pauline Pearl Phoenix
-			Rosalie Roseanne Rose-Marie Ruzh
-			Sally Sandra Sarah Sharon Shelly Signa Sonia Sophie Stella Suzanne
-			Thelma Th_e_act_r_e_grv_se
-			Vanessa Virginie Vitaline
-			Yvonne
-			Zo_e_act_
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 60
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 60
-		mother_name_chance = 10
-		
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = arab
+	90 = caucasian
+	5 = amerindian
+}
 	}
 }

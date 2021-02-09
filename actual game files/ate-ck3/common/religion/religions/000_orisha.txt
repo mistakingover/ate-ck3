@@ -1,4 +1,4 @@
-orisha_religion = {
+﻿orisha_religion = {
 	family = rf_abrahamic
 
 	doctrine = afrosyncretic_hostility_doctrine
@@ -196,7 +196,7 @@ orisha_religion = {
 
 	faiths = {
 		lucumi = {
-			color = hsv { 0.6 0.75 0.0 }
+			color = { 153 191 0 }
 			icon = lucumi
 			
 			doctrine = special_doctrine_saintly_spirits
@@ -207,12 +207,134 @@ orisha_religion = {
 		}
 		
 		candomble = {
-			color = hsv { 0.6 0.75 0.2 }
+			color = { 38 127 0 }
 			icon = candomble
 			
 			doctrine = special_doctrine_saintly_spirits
 
 			doctrine = tenet_esotericism
+			doctrine = tenet_bhakti
+			doctrine = tenet_ancestor_worship
+			
+			localization = {
+				HighGodName = candomble_high_god_name
+				HighGodNamePossessive = candomble_high_god_name_possessive
+				HighGodNameSheHe = CHARACTER_SHEHE_HE
+				HighGodHerselfHimself = CHARACTER_HIMSELF
+				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodNameAlternate = candomble_high_god_name_alternate
+				HighGodNameAlternatePossessive = candomble_high_god_name_alternate_possessive
+
+				#Creator
+				CreatorName = candomble_creator_god_name
+				CreatorNamePossessive = candomble_creator_god_name_possessive
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
+
+				#HealthGod
+				HealthGodName = candomble_health_god_name
+				HealthGodNamePossessive = candomble_health_god_name_possessive
+				HealthGodSheHe = CHARACTER_SHEHE_HE
+				HealthGodHerHis = CHARACTER_HERHIS_HIS
+				HealthGodHerHim = CHARACTER_HERHIM_HIM
+				
+				#FertilityGod
+				FertilityGodName = candomble_fertility_god_name
+				FertilityGodNamePossessive = candomble_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = candomble_wealth_god_name
+				WealthGodNamePossessive = candomble_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_SHE
+				WealthGodHerHis = CHARACTER_HERHIS_HER
+				WealthGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = candomble_knowledge_god_name
+				KnowledgeGodNamePossessive = candomble_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = candomble_war_god_name
+				WarGodNamePossessive = candomble_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#TricksterGod
+				TricksterGodName = candomble_trickster_god_name
+				TricksterGodNamePossessive = candomble_trickster_god_name_possessive
+				TricksterGodSheHe = CHARACTER_SHEHE_HE
+				TricksterGodHerHis = CHARACTER_HERHIS_HIS
+				TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+				#NightGod
+				NightGodName = candomble_night_god_name
+				NightGodNamePossessive = candomble_night_god_name_possessive
+				NightGodSheHe = CHARACTER_SHEHE_SHE
+				NightGodHerHis = CHARACTER_HERHIS_HER
+				NightGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = candomble_water_god_name
+				WaterGodNamePossessive = candomble_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				GoodGodNames = {
+					candomble_health_god_name
+					candomble_fertility_god_name
+					candomble_wealth_god_name
+					candomble_household_god_name
+					candomble_knowledge_god_name
+					candomble_war_god_name
+					candomble_night_god_name
+				}
+				HouseOfWorship = candomble_house_of_worship #House
+				HouseOfWorshipPlural = candomble_house_of_worship_plural
+				ReligiousSymbol = candomble_religious_symbol
+				ReligiousText = candomble_religious_text
+				DevoteeMale = candomble_devotee
+				DevoteeMalePlural = candomble_devoteeplural
+				DevoteeFemale = candomble_devotee
+				DevoteeFemalePlural = candomble_devoteeplural
+				DevoteeNeuter = candomble_devotee
+				DevoteeNeuterPlural = candomble_devoteeplural
+				PriestMale = candomble_priest_male
+				PriestMalePlural = candomble_priest_male_plural
+				PriestFemale = candomble_priest_female
+				PriestFemalePlural = candomble_priest_female_plural
+				PriestNeuter = candomble_priest_neuter
+				PriestNeuterPlural = candomble_priest_neuter_plural
+				AltPriestTermPlural = candomble_priest_alternate_plural
+				BishopMale = candomble_priest_male
+				BishopMalePlural = candomble_priest_male_plural
+				BishopFemale = candomble_priest_female
+				BishopFemalePlural = candomble_priest_female_plural
+				BishopNeuter = candomble_priest_neuter
+				BishopNeuterPlural = candomble_priest_alternate_plural
+				DivineRealm = candomble_divine_realm
+				PositiveAfterLife = candomble_divine_realm
+				NegativeAfterLife = candomble_divine_realm
+				DeathDeityName = candomble_death_deity_name
+				DeathDeityNamePossessive = candomble_death_deity_name_possessive
+			}
+		}
+		
+		xango = { ##TODO
+			color = { 34 177 76 }
+			icon = xango
+			
+			doctrine = special_doctrine_saintly_spirits
+
+			doctrine = tenet_armed_pilgrimages
 			doctrine = tenet_bhakti
 			doctrine = tenet_ancestor_worship
 			

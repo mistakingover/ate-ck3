@@ -11,7 +11,7 @@ graphical_cultures = {
 			grangelander_coa_gfx
 		}
 		
-		color = { 0.5 0.1 0.05 }
+			color = { 127 25 12 }
 	
 		cadet_dynasty_names = {
 			"dynn_Barley"
@@ -239,18 +239,23 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
+
+
+
+
+
+
 	}
 	texan = {
 		graphical_cultures = {
 			texan_coa_gfx
 		}
 		
-		color = { 0.5 0.3 0.1 }
+			color = { 127 76 25 }
 	
 		cadet_dynasty_names = {
 			"dynn_Adair"
@@ -516,18 +521,23 @@ graphical_cultures = {
 		mother_name_chance = 15
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
+
+
+
+
+
+
 	}
 	arixan = {
 		graphical_cultures = {
 			arixan_coa_gfx
 		}
 		
-		color = { 0.3 0.1 0.1 }
+			color = { 76 25 25 }
 	
 		cadet_dynasty_names = {
 			"dynn_Alvarez"
@@ -730,18 +740,23 @@ graphical_cultures = {
 		mother_name_chance = 15
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
+
+
+
+
+
+
 	}
 	battleborn = {
 		graphical_cultures = {
 			battleborn_coa_gfx
 		}
 		
-		color = { 0.49 0.30 0.45 }
+			color = { 124 76 114 }
 	
 		cadet_dynasty_names = {
 			"dynn_Algodones"
@@ -1023,18 +1038,23 @@ graphical_cultures = {
 		mother_name_chance = 15
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
+
+
+
+
+
+
 	}
 	okie = {
 		graphical_cultures = {
 			okie_coa_gfx
 		}
 		
-		color = { 0.21 0.16 0.32 }
+			color = { 53 40 81 }
 	
 		cadet_dynasty_names = {
 			"dynn_Bartlett"
@@ -1240,10 +1260,15 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+}
+
+
+
+
+
+
+
+
 	}
 }

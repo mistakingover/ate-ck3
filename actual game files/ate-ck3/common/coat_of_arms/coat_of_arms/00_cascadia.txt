@@ -19,7 +19,7 @@ e_cascadia = {
 	}
 }
 
-k_vancouver = {
+k_beecee = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -59,7 +59,7 @@ k_vancouver = {
 		instance = { position = { 0.8 0.2 } scale = { 0.3 0.3 }  }
 	}
 }
-d_fraser = {
+d_lower_mainland = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -90,7 +90,7 @@ d_fraser = {
 		instance = { position = { 0.5 0.33 } scale = { 0.4 0.4 }  }
 	}
 }
-d_victoria = {
+d_vancouver_island = {
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
 	color2 = "blue"
@@ -126,7 +126,7 @@ d_up_island = {
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
 	}
 }
-d_dire_straits = {
+d_central_coast = {
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
 	color2 = "yellow"
@@ -222,7 +222,7 @@ k_cascadia = {
         instance = { position = { 0.5 0.4 } scale = { 0.75 0.75 }  }
     }
 }
-d_willamette = {
+d_jackson = {
     pattern = "pattern_solid.dds"
     color1 = "white"
     color2 = "white"
@@ -240,7 +240,32 @@ d_willamette = {
         instance = { position = { 0.25 0.56 } scale = { 0.4 0.4 } rotation = 10 }
     }
 }
-d_portlandia = {
+d_us_or_washington = {
+	pattern = "pattern_solid.dds"
+	color1 = "green_light"
+	color2 = "green_light"
+	
+	colored_emblem = {
+		texture = "ce_circle_mask.dds"
+		color1 = "blue_light"
+		color2 = "blue_light"
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_washington_head.dds"
+		color1 = "black"
+		color2 = rgb { 204 138 112 }
+		color3 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_pagan_circle_frame.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 }  }
+	}
+}
+c_us_or_portland = {
     pattern = "pattern_solid.dds"
     color1 = "green"
     color2 = "green"
@@ -249,10 +274,11 @@ d_portlandia = {
             texture = "ce_portland_cross.dds"
             color1 = "blue_light"
             color2 = "yellow"
+            color3 = "white"
         instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
     }
 }
-d_olympus = {
+d_us_wa_kitsap = {
     pattern = "pattern_horizontal_split_02.dds"
     color1 = "white"
     color2 = "white"
@@ -298,7 +324,7 @@ d_olympus = {
         instance = { position = { 0.72 0.5 } scale = { 0.34 0.36 }  }
     }
 }
-d_puget = {
+d_us_wa_king = {
     pattern = "pattern_solid.dds"
     color1 = "red"
     color2 = "red"
@@ -372,30 +398,6 @@ k_oregon = {
 		color1 = "yellow"
 		color2 = "yellow"
 		instance = { position = { 0.5 0.33 } scale = { 0.75 0.75 }  }
-	}
-}
-k_washington = {
-	pattern = "pattern_solid.dds"
-	color1 = "green_light"
-	color2 = "green_light"
-	
-	colored_emblem = {
-		texture = "ce_circle_mask.dds"
-		color1 = "blue_light"
-		color2 = "blue_light"
-		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
-	}
-	colored_emblem = {
-		texture = "ce_washington_head.dds"
-		color1 = "black"
-		color2 = rgb { 204 138 112 }
-		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
-	}
-	colored_emblem = {
-		texture = "ce_pagan_circle_frame.dds"
-		color1 = "yellow"
-		color2 = "yellow"
-		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 }  }
 	}
 }
 
@@ -670,7 +672,7 @@ d_colville = {
 		instance = { position = { 0.5 0.75 } scale = { 1.0 0.5 } rotation = 90 }
 	}
 }
-d_columbia_valley = {
+d_us_wa_spokane = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"
@@ -700,7 +702,7 @@ d_columbia_valley = {
         instance = { position = { 0.5 0.8 } scale = { 0.9 0.9 } rotation = -22.5 }
     }
 }
-d_horse_heaven = {
+d_us_wa_yakima = {
 	pattern = "pattern_solid.dds"
 	color1 = "brown"
 	color2 = "brown"
@@ -718,7 +720,7 @@ d_horse_heaven = {
         instance = { position = { 0.7 0.45 } scale = { 0.6 0.6 } rotation = -15 }
     }
 }
-d_blue_mountains = {
+d_us_or_umatilla = {
 	pattern = "pattern_chief.dds"
 	color1 = "red"
 	color2 = "red"

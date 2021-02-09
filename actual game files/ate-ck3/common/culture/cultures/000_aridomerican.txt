@@ -11,7 +11,7 @@ graphical_cultures = {
 			raramuri_coa_gfx
 		}
 		
-		color = { 0.6 0.8 0.9 }
+			color = { 153 204 229 }
 	
 		cadet_dynasty_names = {
 			"dynn_Aboreachi"
@@ -211,11 +211,9 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	90 = mesoamerican
+	10 = med_indigenous
+}
 	}
 	#Credit to Mr_Badaniel
 	cahita = {
@@ -223,7 +221,7 @@ graphical_cultures = {
 			cahita_coa_gfx
 		}
 		
-		color = { 0.61 0.8 0.9 }
+			color = { 155 204 229 }
 	
 		cadet_dynasty_names = {
 			"dynn_A_act_lvarez"
@@ -444,10 +442,8 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	90 = mesoamerican
+	10 = med_indigenous
+}
 	}
 }

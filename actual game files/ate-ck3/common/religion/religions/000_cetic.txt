@@ -1,4 +1,4 @@
-karmic_religion = {
+﻿karmic_religion = {
 	family = rf_harmonic
 	graphical_faith = dharmic_gfx
 	doctrine = harmonic_hostility_doctrine
@@ -16,7 +16,7 @@ karmic_religion = {
 	doctrine = doctrine_consanguinity_restricted
 
 	#Crimes
-	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_homosexuality_indifferent
 	doctrine = doctrine_adultery_men_crime
 	doctrine = doctrine_adultery_women_crime
 	doctrine = doctrine_kinslaying_any_dynasty_member_crime
@@ -213,8 +213,10 @@ karmic_religion = {
 
 	faiths = {
 		cetic = {
-			color = hsv { 0.7 0.52 0.90 }
+			color = { 178 132 229 }
 			icon = cetic
+			
+			doctrine = special_doctrine_manyfold_path
 
 			doctrine = tenet_asceticism
 			doctrine = tenet_wisdom_of_gurus

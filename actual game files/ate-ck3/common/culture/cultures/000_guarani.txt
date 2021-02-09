@@ -1,4 +1,4 @@
-guarani_group = {
+﻿guarani_group = {
 graphical_cultures = {
 	guarani_group_gfx
 	african_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			yopara_coa_gfx
 		}
 
-		color = { 0.77 0.39 0.31 }
+			color = { 196 99 79 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -181,18 +181,17 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = asian
+	74 = med_indigenous
+	5 = black_white
+}
 	}
 	kaiowa = {
 		graphical_cultures = {
 			kaiowa_coa_gfx
 		}
 
-		color = { 0.78 0.35 0.41 }
+			color = { 198 89 104 }
 
 		cadet_dynasty_names = {
 					"dynn_Kaiow_a_act_"
@@ -220,18 +219,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	70 = amazonian
+	30 = med_indigenous
+}
 	}
 	nhandeva = {
 		graphical_cultures = {
 			nhandeva_coa_gfx
 		}
 
-		color = { 0.59 0.15 0.22 }
+			color = { 150 38 56 }
 
 		cadet_dynasty_names = {
 					"dynn_Nhandev_a_act_"
@@ -259,18 +256,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	70 = amazonian
+	30 = med_indigenous
+}
 	}
 	mbya = {
 		graphical_cultures = {
 			mbya_coa_gfx
 		}
 
-		color = { 0.6 0.11 0.18 }
+			color = { 153 28 45 }
 
 		cadet_dynasty_names = {
 					"dynn_Mby_a_act_"
@@ -298,18 +293,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	70 = amazonian
+	30 = med_indigenous
+}
 	}
 	kaingang = {
 		graphical_cultures = {
 			kaingang_coa_gfx
 		}
 
-		color = { 0.8 0.49 0.57 }
+			color = { 204 124 145 }
 
 		cadet_dynasty_names = {
 					"dynn_Kaingang"
@@ -337,10 +330,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	70 = amazonian
+	30 = med_indigenous
+}
 	}
 }

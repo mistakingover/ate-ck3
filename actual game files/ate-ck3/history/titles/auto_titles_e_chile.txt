@@ -1,0 +1,567 @@
+c_cl_12_santiago = {
+	2656.1.1 = {
+		holder = character_c_cl_12_santiago
+	}
+}
+d_santiago = {
+	2656.1.1 = {
+		holder = character_c_cl_12_santiago
+	}
+}
+k_chile = {
+	2656.1.1 = {
+		holder = character_c_cl_12_santiago
+	}
+}
+e_chile = {
+	2656.1.1 = {
+		holder = character_c_cl_12_santiago
+	}
+}
+
+c_puente_alto = {
+	2000.1.1 = {
+	 liege = d_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_puente_alto
+	}
+}
+
+c_cl_12_pe_aflor = {
+	2000.1.1 = {
+	 liege = d_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_cl_12_pe_aflor
+	}
+}
+
+c_cl_12_melipilla = {
+	2000.1.1 = {
+	 liege = d_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_cl_12_melipilla
+	}
+}
+
+c_chacabuco = {
+	2000.1.1 = {
+	 liege = d_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_chacabuco
+	}
+}
+
+c_cl_01_vi_a_del_mar = {
+	2656.1.1 = {
+		holder = character_c_cl_01_vi_a_del_mar
+	}
+}
+d_valparaiso = {
+	2000.1.1 = {
+	 liege = k_chile
+	}
+	2656.1.1 = {
+		holder = character_c_cl_01_vi_a_del_mar
+	}
+}
+
+c_cl_01_quillota = {
+	2000.1.1 = {
+	 liege = d_valparaiso
+	}
+	2656.1.1 = {
+		holder = character_c_cl_01_quillota
+	}
+}
+
+c_cl_01_san_felipe = {
+	2000.1.1 = {
+	 liege = d_valparaiso
+	}
+	2656.1.1 = {
+		holder = character_c_cl_01_san_felipe
+	}
+}
+
+c_cl_01_san_antonio = {
+	2000.1.1 = {
+	 liege = d_valparaiso
+	}
+	2656.1.1 = {
+		holder = character_c_cl_01_san_antonio
+	}
+}
+
+c_cl_01_la_ligua = {
+	2000.1.1 = {
+	 liege = d_valparaiso
+	}
+	2656.1.1 = {
+		holder = character_c_cl_01_la_ligua
+	}
+}
+
+c_cl_11_talca = {
+	2656.1.1 = {
+		holder = character_c_cl_11_talca
+	}
+}
+d_maule = {
+	2000.1.1 = {
+	 liege = k_chile
+	}
+	2656.1.1 = {
+		holder = character_c_cl_11_talca
+	}
+}
+
+c_cl_11_curic_ = {
+	2000.1.1 = {
+	 liege = d_maule
+	}
+	2656.1.1 = {
+		holder = character_c_cl_11_curic_
+	}
+}
+
+c_cl_11_linares = {
+	2000.1.1 = {
+	 liege = d_maule
+	}
+	2656.1.1 = {
+		holder = character_c_cl_11_linares
+	}
+}
+
+c_cl_11_constituci_n = {
+	2000.1.1 = {
+	 liege = d_maule
+	}
+	2656.1.1 = {
+		holder = character_c_cl_11_constituci_n
+	}
+}
+
+c_cl_11_cauquenes = {
+	2000.1.1 = {
+	 liege = d_maule
+	}
+	2656.1.1 = {
+		holder = character_c_cl_11_cauquenes
+	}
+}
+
+c_cachapoal = {
+	2656.1.1 = {
+		holder = character_c_cachapoal
+	}
+}
+d_ohiggins = {
+	2000.1.1 = {
+	 liege = k_chile
+	}
+	2656.1.1 = {
+		holder = character_c_cachapoal
+	}
+}
+
+c_colchagua = {
+	2000.1.1 = {
+	 liege = d_ohiggins
+	}
+	2656.1.1 = {
+		holder = character_c_colchagua
+	}
+}
+
+c_cardenal_caro = {
+	2000.1.1 = {
+	 liege = d_ohiggins
+	}
+	2656.1.1 = {
+		holder = character_c_cardenal_caro
+	}
+}
+
+c_cl_18_chill_n = {
+	2656.1.1 = {
+		holder = character_c_cl_18_chill_n
+	}
+}
+d_nuble = {
+	2000.1.1 = {
+	 liege = k_chile
+	}
+	2656.1.1 = {
+		holder = character_c_cl_18_chill_n
+	}
+}
+
+c_cl_18_san_carlos = {
+	2000.1.1 = {
+	 liege = d_nuble
+	}
+	2656.1.1 = {
+		holder = character_c_cl_18_san_carlos
+	}
+}
+
+c_cl_18_quirihue = {
+	2000.1.1 = {
+	 liege = d_nuble
+	}
+	2656.1.1 = {
+		holder = character_c_cl_18_quirihue
+	}
+}
+
+c_cl_06_talcahuano = {
+	2656.1.1 = {
+		holder = character_c_cl_06_talcahuano
+	}
+}
+d_biobio = {
+	2656.1.1 = {
+		holder = character_c_cl_06_talcahuano
+	}
+}
+k_araucania = {
+	2000.1.1 = {
+	 liege = e_chile
+	}
+	2656.1.1 = {
+		holder = character_c_cl_06_talcahuano
+	}
+}
+
+c_cl_06_los_ngeles = {
+	2000.1.1 = {
+	 liege = d_biobio
+	}
+	2656.1.1 = {
+		holder = character_c_cl_06_los_ngeles
+	}
+}
+
+c_cl_06_curanilahue = {
+	2000.1.1 = {
+	 liege = d_biobio
+	}
+	2656.1.1 = {
+		holder = character_c_cl_06_curanilahue
+	}
+}
+
+c_cl_04_temuco = {
+	2656.1.1 = {
+		holder = character_c_cl_04_temuco
+	}
+}
+d_araucania = {
+	2000.1.1 = {
+	 liege = k_araucania
+	}
+	2656.1.1 = {
+		holder = character_c_cl_04_temuco
+	}
+}
+
+c_cl_04_angol = {
+	2000.1.1 = {
+	 liege = d_araucania
+	}
+	2656.1.1 = {
+		holder = character_c_cl_04_angol
+	}
+}
+
+c_cl_04_villarrica = {
+	2000.1.1 = {
+	 liege = d_araucania
+	}
+	2656.1.1 = {
+		holder = character_c_cl_04_villarrica
+	}
+}
+
+c_cl_04_nueva_imperial = {
+	2000.1.1 = {
+	 liege = d_araucania
+	}
+	2656.1.1 = {
+		holder = character_c_cl_04_nueva_imperial
+	}
+}
+
+c_cl_14_puerto_montt = {
+	2656.1.1 = {
+		holder = character_c_cl_14_puerto_montt
+	}
+}
+d_los_lagos = {
+	2000.1.1 = {
+	 liege = k_araucania
+	}
+	2656.1.1 = {
+		holder = character_c_cl_14_puerto_montt
+	}
+}
+
+c_cl_14_osorno = {
+	2000.1.1 = {
+	 liege = d_los_lagos
+	}
+	2656.1.1 = {
+		holder = character_c_cl_14_osorno
+	}
+}
+
+c_cl_14_castro = {
+	2000.1.1 = {
+	 liege = d_los_lagos
+	}
+	2656.1.1 = {
+		holder = character_c_cl_14_castro
+	}
+}
+
+c_cl_14_calbuco = {
+	2000.1.1 = {
+	 liege = d_los_lagos
+	}
+	2656.1.1 = {
+		holder = character_c_cl_14_calbuco
+	}
+}
+
+c_cl_14_chait_n = {
+	2000.1.1 = {
+	 liege = d_los_lagos
+	}
+	2656.1.1 = {
+		holder = character_c_cl_14_chait_n
+	}
+}
+
+c_cl_17_valdivia = {
+	2656.1.1 = {
+		holder = character_c_cl_17_valdivia
+	}
+}
+d_los_rios = {
+	2000.1.1 = {
+	 liege = k_araucania
+	}
+	2656.1.1 = {
+		holder = character_c_cl_17_valdivia
+	}
+}
+
+c_cl_17_la_uni_n = {
+	2000.1.1 = {
+	 liege = d_los_rios
+	}
+	2656.1.1 = {
+		holder = character_c_cl_17_la_uni_n
+	}
+}
+
+c_cl_17_panguipulli = {
+	2000.1.1 = {
+	 liege = d_los_rios
+	}
+	2656.1.1 = {
+		holder = character_c_cl_17_panguipulli
+	}
+}
+
+c_cl_03_antofagasta = {
+	2656.1.1 = {
+		holder = character_c_cl_03_antofagasta
+	}
+}
+d_antofagasta = {
+	2656.1.1 = {
+		holder = character_c_cl_03_antofagasta
+	}
+}
+k_atacama = {
+	2000.1.1 = {
+	 liege = e_chile
+	}
+	2656.1.1 = {
+		holder = character_c_cl_03_antofagasta
+	}
+}
+
+c_cl_03_calama = {
+	2000.1.1 = {
+	 liege = d_antofagasta
+	}
+	2656.1.1 = {
+		holder = character_c_cl_03_calama
+	}
+}
+
+c_cl_03_tocopilla = {
+	2000.1.1 = {
+	 liege = d_antofagasta
+	}
+	2656.1.1 = {
+		holder = character_c_cl_03_tocopilla
+	}
+}
+
+c_cl_03_taltal = {
+	2000.1.1 = {
+	 liege = d_antofagasta
+	}
+	2656.1.1 = {
+		holder = character_c_cl_03_taltal
+	}
+}
+
+c_cl_07_coquimbo = {
+	2656.1.1 = {
+		holder = character_c_cl_07_coquimbo
+	}
+}
+d_coquimbo = {
+	2000.1.1 = {
+	 liege = k_atacama
+	}
+	2656.1.1 = {
+		holder = character_c_cl_07_coquimbo
+	}
+}
+
+c_cl_07_ovalle = {
+	2000.1.1 = {
+	 liege = d_coquimbo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_07_ovalle
+	}
+}
+
+c_cl_07_illapel = {
+	2000.1.1 = {
+	 liege = d_coquimbo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_07_illapel
+	}
+}
+
+c_cl_07_monte_patria = {
+	2000.1.1 = {
+	 liege = d_coquimbo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_07_monte_patria
+	}
+}
+
+c_cl_07_vicu_a = {
+	2000.1.1 = {
+	 liege = d_coquimbo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_07_vicu_a
+	}
+}
+
+c_cl_15_iquique = {
+	2656.1.1 = {
+		holder = character_c_cl_15_iquique
+	}
+}
+d_tarapaca = {
+	2000.1.1 = {
+	 liege = k_atacama
+	}
+	2656.1.1 = {
+		holder = character_c_cl_15_iquique
+	}
+}
+
+c_cl_16_arica = {
+	2000.1.1 = {
+	 liege = d_tarapaca
+	}
+	2656.1.1 = {
+		holder = character_c_cl_16_arica
+	}
+}
+
+c_cl_15_huara = {
+	2000.1.1 = {
+	 liege = d_tarapaca
+	}
+	2656.1.1 = {
+		holder = character_c_cl_15_huara
+	}
+}
+
+c_cl_15_almonte = {
+	2000.1.1 = {
+	 liege = d_tarapaca
+	}
+	2656.1.1 = {
+		holder = character_c_cl_15_almonte
+	}
+}
+
+c_cl_05_copiap_ = {
+	2656.1.1 = {
+		holder = character_c_cl_05_copiap_
+	}
+}
+d_copiapo = {
+	2000.1.1 = {
+	 liege = k_atacama
+	}
+	2656.1.1 = {
+		holder = character_c_cl_05_copiap_
+	}
+}
+
+c_cl_05_vallenar = {
+	2000.1.1 = {
+	 liege = d_copiapo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_05_vallenar
+	}
+}
+
+c_cl_05_diego_de_almagro = {
+	2000.1.1 = {
+	 liege = d_copiapo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_05_diego_de_almagro
+	}
+}
+
+c_cl_05_freirina = {
+	2000.1.1 = {
+	 liege = d_copiapo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_05_freirina
+	}
+}
+
+c_cl_05_majada_el_tomate = {
+	2000.1.1 = {
+	 liege = d_copiapo
+	}
+	2656.1.1 = {
+		holder = character_c_cl_05_majada_el_tomate
+	}
+}

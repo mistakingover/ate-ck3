@@ -1,137 +1,146 @@
 ﻿woodlands_group = {
-graphical_cultures = {
-	woodlands_group_gfx
-	african_building_gfx
-	mongol_clothing_gfx
-	sub_saharan_unit_gfx
-}
-	
-	iroquois = {
-		graphical_cultures = {
-			iroquois_coa_gfx
-		}
-		
-		color = { 0.66 0.55 0.9 }
-	
-		cadet_dynasty_names = {
-			"dynn_Beauvais"
-			"dynn_Bomberry"
-			"dynn_Boncore"
-			"dynn_Brant"
-			"dynn_Bucktooth"
-			"dynn_Burnam"
-			"dynn_Cornelius"
-			"dynn_Cornplanter"
-			"dynn_Deer"
-			"dynn_Doctor"
-			"dynn_Farmer"
-			"dynn_Gabriel"
-			"dynn_General"
-			"dynn_Gibson"
-			"dynn_Goodleaf"
-			"dynn_Green"
-			"dynn_Hess"
-			"dynn_Hill"
-			"dynn_Horn"
-			"dynn_Jacobs"
-			"dynn_Jamieson"
-			"dynn_Johnson"
-			"dynn_Kirby"
-			"dynn_LaForme"
-			"dynn_Lahache"
-			"dynn_Larocque"
-			"dynn_Leborgne"
-			"dynn_Loft"
-			"dynn_Longboat"
-			"dynn_Longfish"
-			"dynn_Maracle"
-			"dynn_Martin"
-			"dynn_Miller"
-			"dynn_Montour"
-			"dynn_Nanticoke"
-			"dynn_Oakes"
-			"dynn_Parker"
-			"dynn_Powless"
-			"dynn_Printup"
-			"dynn_Rice"
-			"dynn_Rickard"
-			"dynn_Robertson"
-			"dynn_Shenandoah"
-			"dynn_Staats"
-			"dynn_Stacey"
-			"dynn_Thompson"
-			"dynn_Two-Axe"
-			"dynn_Two-Rivers"
-			"dynn_Vyse"
-			"dynn_Wheelock"
-		}
-		dynasty_names = {
-			"dynn_Allen"
-		}
-		
-		male_names = {
-			Ahyonwaeghs Aroniawenrate
-			Deskaheh Donehogawa
-			Gayogwadoke Guyasuta
-			Hasanoanda Hayonhwonhish Hutgohsodoneh
-			Kaientaronkwen Kaiiontwakon Kanentakeron
-			Odeserundiye Onondeyoh Onwanonsyshon Oronhyatekha
-			Sakayengwaraton Sganyodaiyo Sosondowa
-			Taiaiake Tehoka Teyoninhokarawen Thaonawyuthe Thayendanegea
-			
-			Arnold Charles David Delby Floyd Frederick George Gilbert Graham Harold Henry James John Joseph Levi Norton Paul Peter Samuel Simon Stanley Thomas William
-		}
-		female_names = {
-			Anahareo
-			Gowongo
-			Kahntineta Kaniehtiio Kawennahere Kawisenhawe
-			Tekatsitsiakawa
-			Waneek
-			Yowehsonh
-			
-			Alicia Emily Julia Mary Pauline Roberta Sarah
-		}
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
-		mat_grf_name_chance = 15
-		father_name_chance = 30
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 10
-		mother_name_chance = 40
-		
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_" }
-		}
+	graphical_cultures = {
+		woodlands_group_gfx
+		african_building_gfx
+		mongol_clothing_gfx
+		sub_saharan_unit_gfx
 	}
+	
 	lumbee = {
 		graphical_cultures = {
 			lumbee_coa_gfx
 		}
 		
-		color = rgb { 122 103 157 }
+			color = { 122 103 157 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
 		}
 		dynasty_names = {
-			"dynn_"
+			"dynn_Alford"
+			"dynn_Barfield"
+			"dynn_Barnhill"
+			"dynn_Barton"
+			"dynn_Baxley"
+			"dynn_Bethea"
+			"dynn_Bird"
+			"dynn_Blanks"
+			"dynn_Brayboy"
+			"dynn_Brewer"
+			"dynn_Britt"
+			"dynn_Brooks"
+			"dynn_Buie"
+			"dynn_Bullard"
+			"dynn_Burnett"
+			"dynn_Canady"
+			"dynn_Caulder"
+			"dynn_Chavers"
+			"dynn_Chavis"
+			"dynn_Cummings"
+			"dynn_Davenport"
+			"dynn_Deese"
+			"dynn_Dial"
+			"dynn_Eddings"
+			"dynn_Faulk"
+			"dynn_Godwin"
+			"dynn_Goins"
+			"dynn_Goolsby"
+			"dynn_Hagans"
+			"dynn_Hammonds"
+			"dynn_Hardin"
+			"dynn_Hargett"
+			"dynn_Huggins"
+			"dynn_Hunt"
+			"dynn_Inman"
+			"dynn_Ivey"
+			"dynn_Jacobs"
+			"dynn_Jones"
+			"dynn_Lamb"
+			"dynn_Leach"
+			"dynn_Leggett"
+			"dynn_Locklear"
+			"dynn_Love"
+			"dynn_Lowery"
+			"dynn_Maynor"
+			"dynn_McBryde"
+			"dynn_McCallum"
+			"dynn_McGirt"
+			"dynn_McMillan"
+			"dynn_McNair"
+			"dynn_McNeill"
+			"dynn_McPhatter"
+			"dynn_McPhaul"
+			"dynn_McQueen"
+			"dynn_McRae"
+			"dynn_Monroe"
+			"dynn_Moore"
+			"dynn_Murnahan"
+			"dynn_Oxendine"
+			"dynn_Parnell"
+			"dynn_Pate"
+			"dynn_Pierce"
+			"dynn_Purcell"
+			"dynn_Quick"
+			"dynn_Ransom"
+			"dynn_Revels"
+			"dynn_Rozier"
+			"dynn_Sampson"
+			"dynn_Sanderson"
+			"dynn_Sealey"
+			"dynn_Seals"
+			"dynn_Sessoms"
+			"dynn_Strickland"
+			"dynn_Stubbs"
+			"dynn_Townsend"
+			"dynn_Tyner"
+			"dynn_Warriax"
+			"dynn_Wilkerson"
+			"dynn_Woodell"
+			"dynn_Woods"
 		}
 		
 		male_names = {
-			
+			Aaron Alfred Allen Alton Alvin Ancil Anthony Avery
+			Benford Benjamin Billy Bradley
+			Charles Chris Clifton Corbin
+			Dale Daniel David Dean Delany Dewey Douglas
+			Earl Ellis Everett
+			Frank
+			Gary Gaston Gene Gerald Greg
+			Hamilton Harlan Harvey Hayes Henry Horace
+			Isaac
+			Jackson James Jarrod Jimmy Johnny Joseph Joshua Julian
+			Kelvin Kent Kenwin
+			Landon Larry Lee Leroy Lonnie Lowry Luther
+			Malcolm Mike
+			Nate Neil Newman Norman
+			Patrick
+			Raymond Reginald Ricky Rod Ryan
+			Sanford Simeon
+			Terrell Terry Tommy
+			Vernon
+			Wesley William Woodrow
+			Zachariah
 		}
 		female_names = {
-			
+			Alice Anita Ann Arlinda Ashley
+			Belinda Brittany
+			Candice Carol
+			Effie Erica
+			Grace
+			Hatty Hellen
+			Ida
+			Jana Jewel Jo_Ann Judy Julia
+			Kathy Kendra
+			Lacy Lanedra Lindsay Lisa Loretta Lorna
+			Madison Malinda Mary Mary_Beth
+			Onnette
+			Paula Peggy
+			Raisa Reena Rhoda Rhonda Rita Rosa Ruth
+			Sabrina Samantha Sandra Shania Sharon Shelley Stacey Sylvia
+			Theresa Tiffany
+			Wendy Whitney Wilma
+			Yolanda Yvonne
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -145,12 +154,9 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-
+	90 = amerindian
+	10 = white_indigenous
+}
 		mercenary_names = {
 			{ name = "mercenary_company_" }
 		}
@@ -158,12 +164,10 @@ graphical_cultures = {
 	cherokee = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.8 0.85 0.8 }
+	90 = amerindian
+	10 = white_indigenous
+}
+			color = { 204 216 204 }
 
 		male_names = {
 			
@@ -185,12 +189,10 @@ graphical_cultures = {
 	muscogee = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.5 0.80 0.70 }
+	90 = amerindian
+	10 = white_indigenous
+}
+			color = { 127 204 178 }
 
 		male_names = {
 			
@@ -212,39 +214,10 @@ graphical_cultures = {
 	catawba = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.55 0.65 0.95 }
-
-		male_names = {
-			
-		}
-
-		female_names = {
-			
-		}
-
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-	}
-	abenaki = {
-
-		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.45 0.56 0.88 }
+	90 = amerindian
+	10 = white_indigenous
+}
+			color = { 140 165 242 }
 
 		male_names = {
 			

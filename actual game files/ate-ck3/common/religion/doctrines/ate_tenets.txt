@@ -406,7 +406,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:anglican
+						ROOT = faith:anglican
 					}
 					desc = tenet_prima_scriptura
 				}
@@ -1083,8 +1083,195 @@
 
 		parameters = {
 			select_national_pantheon_active = yes
+			meditate_on_the_marquess_active = yes
+			create_gran_colombia_active = yes
 		}
 	}
+
+	tenet_horrors_of_the_plains = {
+		icon = core_tenet_adorcism
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = llanoism_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			select_machete_spells_active = yes
+		}
+	}
+
+	tenet_songs_of_machete = {
+		icon = core_tenet_festivities
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = llanoism_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			enable_contrapunteo_interaction = yes
+		}
+	}
+
+	tenet_saintly_mission = {
+		icon = core_tenet_missionary
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			religion_tag = llanoism_religion
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		parameters = {
+			mendicant_preachers_conversion_active = yes
+			pilgrimage_decision_active = yes
+		}
+	}
+	
+	tenet_vereda_worship = {
+		icon = core_tenet_skyshaman
+
+		name = {
+			first_valid = {
+				desc = tenet_vereda_worship_name
+			}
+		}
+
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		parameters = {
+			#summer_festivals_active = yes
+			trial_by_sun_active = yes ##TODO reimplement as Trial by Vereda
+		}
+		
+		traits = {
+			virtues = { hunter_1 hunter_2 hunter_3 }
+		}
+
+		character_modifier = {
+			drylands_attrition_mult = -0.25
+			plains_attrition_mult = -0.25
+			steppe_attrition_mult = -0.25
+		}
+
+		piety_cost = faith_tenet_cost_mid
+	}
+	
+	tenet_sacred_architecture = {
+		icon = core_tenet_altar
+		
+		name = {
+			first_valid = {
+				desc = tenet_sacred_architecture_name
+			}
+		}
+		
+		piety_cost = {
+			if = {
+				limit = {
+					OR = {
+						religion_tag = modernist_religion
+						religion_tag = columbian_religion
+						religion_tag = occulist_religion
+					}
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_sacred_architecture }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		character_modifier = {
+			additional_fort_level = 1
+			church_holding_build_speed = 0.33
+			church_holding_build_gold_cost = -0.33
+			church_holding_holding_build_speed = 0.33
+			church_holding_holding_build_gold_cost = -0.33
+		}
+	}
+	
+	tenet_art_of_beauty = {
+		icon = core_tenet_altar
+		
+		name = {
+			first_valid = {
+				desc = tenet_art_of_beauty_name
+			}
+		}
+		
+		piety_cost = {
+			if = {
+				limit = {
+					OR = {
+						religion_tag = neoniponic_religion
+					}
+				}
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_mid
+			}
+
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_art_of_beauty }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
+
+		is_shown = {
+			always = yes
+		}
+
+		can_pick = {
+			always = yes
+		}
+
+		character_modifier = {
+			development_growth_factor = 0.1
+			diplomacy_per_piety_level = 1
+		}
+	}
+	
 
 	#############################################################
 	
@@ -1140,7 +1327,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:guadalupan
+						ROOT = faith:guadalupan
 					}
 					desc = tenet_santa_cristiada_name
 				}
@@ -1151,7 +1338,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:guadalupan
+						ROOT = faith:guadalupan
 					}
 					desc = tenet_santa_cristiada_desc
 				}
@@ -1204,7 +1391,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:guadalupan
+						ROOT = faith:guadalupan
 					}
 					desc = tenet_patroness_of_the_new_world_name
 				}
@@ -1215,7 +1402,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:guadalupan
+						ROOT = faith:guadalupan
 					}
 					desc = tenet_patroness_of_the_new_world_desc
 				}
@@ -1357,7 +1544,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_masked_friars_name
 				}
@@ -1368,7 +1555,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_masked_friars_desc
 				}
@@ -1474,7 +1661,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_saintly_justice_name
 				}
@@ -1485,7 +1672,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:el_santo
+						ROOT = faith:el_santo
 					}
 					desc = tenet_saintly_justice_desc
 				}
@@ -1528,7 +1715,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:insular_carribean
+						ROOT = faith:insular_carribean
 					}
 					desc = tenet_tropical_isolation
 				}
@@ -1586,7 +1773,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:santa_muerte
+						ROOT = faith:santa_muerte
 					}
 					desc = tenet_all_equal_in_death_name
 				}
@@ -1597,7 +1784,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:santa_muerte
+						ROOT = faith:santa_muerte
 					}
 					desc = tenet_all_equal_in_death_desc
 				}
@@ -1731,8 +1918,8 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							icon = charismaticism
-							icon = neopentecostal
+							ROOT = faith:charismaticism
+							ROOT = faith:neopentecostalism
 						}
 					}
 					desc = tenet_religious_legal_pronouncements_fivefold
@@ -1865,6 +2052,13 @@
 					}
 					desc = tenet_bhakti_personal_orisha
 				}
+				triggered_desc = {
+					trigger = {
+						ROOT = faith:culto_dos_santos
+					}
+					desc = tenet_bhakti_personal_saint
+				}
+				
 				desc = tenet_bhakti_name
 			}
 		}
@@ -2105,7 +2299,7 @@
 			first_valid = {
 				triggered_desc = {
 					trigger = {
-						SCOPE = faith:celestism
+						ROOT = faith:celestism
 					}
 					desc = tenet_messianic_figures_name
 				}
@@ -2138,8 +2332,8 @@
 				triggered_desc = {
 					trigger = {
 						OR = {
-							SCOPE = faith:moravian
-							SCOPE = faith:falling_star
+							ROOT = faith:moravian
+							ROOT = faith:falling_star
 						}
 					}
 					desc = tenet_lovefeasts

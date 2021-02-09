@@ -1,0 +1,52 @@
+﻿
+portrait_northwest_coast_clothing_trigger = {
+	culture = { has_graphical_culture = northwest_coast_group_gfx }
+}
+
+portrait_plains_clothing_trigger = {
+	culture = { has_graphical_culture = plains_group_gfx }
+}
+
+portrait_woodlands_clothing_trigger = {
+	culture = { has_graphical_culture = woodlands_group_gfx }
+}
+portrait_american_clothing_trigger = {
+	culture = { has_graphical_culture = americanist_clothing_gfx }
+}
+portrait_cowboy_clothing_trigger = {
+	OR = {
+		culture = { has_graphical_culture = texan_group_gfx }
+		culture = { has_graphical_culture = west_anglo_group_gfx }
+	}
+}
+
+portrait_sa_cowboy_clothing_trigger = {
+	OR = {
+		culture = { has_graphical_culture = centrestino_group_gfx }
+		culture = { has_graphical_culture = caipira_coa_gfx }
+		culture = { has_graphical_culture = capiau_coa_gfx }
+		culture = { has_graphical_culture = llanero_coa_gfx }
+	}
+}
+
+portrait_cangaco_clothing_trigger = {
+	OR = {
+		culture = { has_graphical_culture = nordestino_group_gfx }
+		culture = { has_graphical_culture = estino_group_gfx }
+	}
+}
+portrait_amazonian_clothing_trigger = {
+	#culture = { has_graphical_culture = amazonian_clothing_gfx }
+	OR = {
+		culture = { has_graphical_culture = amazonian_clothing_gfx }
+		culture = { has_graphical_culture = amazonico_group_gfx }
+		culture = { has_graphical_culture = xingu_group_gfx }
+	}
+}
+portrait_andean_clothing_trigger = {
+	#culture = { has_graphical_culture = andino_clothing_gfx }
+	OR = {
+		culture = { has_graphical_culture = andino_clothing_gfx }
+		culture = { has_graphical_culture = andino_group_gfx }
+	}
+}

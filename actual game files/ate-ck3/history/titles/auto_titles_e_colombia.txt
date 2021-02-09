@@ -1,0 +1,859 @@
+c_co_34_bogot_ = {
+	2656.1.1 = {
+		holder = character_c_co_34_bogot_
+	}
+}
+d_cundinamarca = {
+	2656.1.1 = {
+		holder = character_c_co_34_bogot_
+	}
+}
+k_cundiboyaca = {
+	2656.1.1 = {
+		holder = character_c_co_34_bogot_
+	}
+}
+e_colombia = {
+	2656.1.1 = {
+		holder = character_c_co_34_bogot_
+	}
+}
+
+c_co_33_soacha = {
+	2000.1.1 = {
+	 liege = d_cundinamarca
+	}
+	2656.1.1 = {
+		holder = character_c_co_33_soacha
+	}
+}
+
+c_co_33_zipaquir_ = {
+	2000.1.1 = {
+	 liege = d_cundinamarca
+	}
+	2656.1.1 = {
+		holder = character_c_co_33_zipaquir_
+	}
+}
+
+c_co_33_girardot_city = {
+	2000.1.1 = {
+	 liege = d_cundinamarca
+	}
+	2656.1.1 = {
+		holder = character_c_co_33_girardot_city
+	}
+}
+
+c_co_33_fusagasug_ = {
+	2000.1.1 = {
+	 liege = d_cundinamarca
+	}
+	2656.1.1 = {
+		holder = character_c_co_33_fusagasug_
+	}
+}
+
+c_co_33_guaduas = {
+	2000.1.1 = {
+	 liege = d_cundinamarca
+	}
+	2656.1.1 = {
+		holder = character_c_co_33_guaduas
+	}
+}
+
+c_co_33_c_queza = {
+	2000.1.1 = {
+	 liege = d_cundinamarca
+	}
+	2656.1.1 = {
+		holder = character_c_co_33_c_queza
+	}
+}
+
+c_co_26_bucaramanga = {
+	2656.1.1 = {
+		holder = character_c_co_26_bucaramanga
+	}
+}
+d_santander = {
+	2000.1.1 = {
+	 liege = k_cundiboyaca
+	}
+	2656.1.1 = {
+		holder = character_c_co_26_bucaramanga
+	}
+}
+
+c_co_26_barrancabermeja = {
+	2000.1.1 = {
+	 liege = d_santander
+	}
+	2656.1.1 = {
+		holder = character_c_co_26_barrancabermeja
+	}
+}
+
+c_co_21_pamplona = {
+	2000.1.1 = {
+	 liege = d_santander
+	}
+	2656.1.1 = {
+		holder = character_c_co_21_pamplona
+	}
+}
+
+c_co_26_cimitarra = {
+	2000.1.1 = {
+	 liege = d_santander
+	}
+	2656.1.1 = {
+		holder = character_c_co_26_cimitarra
+	}
+}
+
+c_co_36_sogamoso = {
+	2656.1.1 = {
+		holder = character_c_co_36_sogamoso
+	}
+}
+d_boyaca = {
+	2000.1.1 = {
+	 liege = k_cundiboyaca
+	}
+	2656.1.1 = {
+		holder = character_c_co_36_sogamoso
+	}
+}
+
+c_co_36_tunja = {
+	2000.1.1 = {
+	 liege = d_boyaca
+	}
+	2656.1.1 = {
+		holder = character_c_co_36_tunja
+	}
+}
+
+c_co_36_chiquinquir_ = {
+	2000.1.1 = {
+	 liege = d_boyaca
+	}
+	2656.1.1 = {
+		holder = character_c_co_36_chiquinquir_
+	}
+}
+
+c_co_26_san_gil = {
+	2000.1.1 = {
+	 liege = d_boyaca
+	}
+	2656.1.1 = {
+		holder = character_c_co_26_san_gil
+	}
+}
+
+c_co_36_garagoa = {
+	2000.1.1 = {
+	 liege = d_boyaca
+	}
+	2656.1.1 = {
+		holder = character_c_co_36_garagoa
+	}
+}
+
+c_co_04_barranquilla = {
+	2656.1.1 = {
+		holder = character_c_co_04_barranquilla
+	}
+}
+d_macondo = {
+	2656.1.1 = {
+		holder = character_c_co_04_barranquilla
+	}
+}
+k_el_caribe = {
+	2000.1.1 = {
+	 liege = e_colombia
+	}
+	2656.1.1 = {
+		holder = character_c_co_04_barranquilla
+	}
+}
+
+c_co_35_cartagena = {
+	2000.1.1 = {
+	 liege = d_macondo
+	}
+	2656.1.1 = {
+		holder = character_c_co_35_cartagena
+	}
+}
+
+c_co_27_sincelejo = {
+	2000.1.1 = {
+	 liege = d_macondo
+	}
+	2656.1.1 = {
+		holder = character_c_co_27_sincelejo
+	}
+}
+
+c_co_35_magangu_ = {
+	2000.1.1 = {
+	 liege = d_macondo
+	}
+	2656.1.1 = {
+		holder = character_c_co_35_magangu_
+	}
+}
+
+c_co_12_monter_a = {
+	2000.1.1 = {
+	 liege = d_cordoba
+	}
+	2656.1.1 = {
+		holder = character_c_co_12_monter_a
+	}
+}
+
+c_co_02_apartad_ = {
+	2000.1.1 = {
+	 liege = d_cordoba
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_apartad_
+	}
+}
+
+c_co_12_montel_bano = {
+	2000.1.1 = {
+	 liege = d_cordoba
+	}
+	2656.1.1 = {
+		holder = character_c_co_12_montel_bano
+	}
+}
+
+c_co_27_san_marcos = {
+	2000.1.1 = {
+	 liege = d_cordoba
+	}
+	2656.1.1 = {
+		holder = character_c_co_27_san_marcos
+	}
+}
+
+c_co_38_santa_marta = {
+	2656.1.1 = {
+		holder = character_c_co_38_santa_marta
+	}
+}
+d_magdalena = {
+	2000.1.1 = {
+	 liege = k_el_caribe
+	}
+	2656.1.1 = {
+		holder = character_c_co_38_santa_marta
+	}
+}
+
+c_co_38_el_banco = {
+	2000.1.1 = {
+	 liege = d_magdalena
+	}
+	2656.1.1 = {
+		holder = character_c_co_38_el_banco
+	}
+}
+
+c_co_38_fundaci_n = {
+	2000.1.1 = {
+	 liege = d_magdalena
+	}
+	2656.1.1 = {
+		holder = character_c_co_38_fundaci_n
+	}
+}
+
+c_co_38_plato = {
+	2000.1.1 = {
+	 liege = d_magdalena
+	}
+	2656.1.1 = {
+		holder = character_c_co_38_plato
+	}
+}
+
+c_co_10_valledupar = {
+	2656.1.1 = {
+		holder = character_c_co_10_valledupar
+	}
+}
+d_cesar = {
+	2000.1.1 = {
+	 liege = k_el_caribe
+	}
+	2656.1.1 = {
+		holder = character_c_co_10_valledupar
+	}
+}
+
+c_co_10_aguachica = {
+	2000.1.1 = {
+	 liege = d_cesar
+	}
+	2656.1.1 = {
+		holder = character_c_co_10_aguachica
+	}
+}
+
+c_co_21_oca_a = {
+	2000.1.1 = {
+	 liege = d_cesar
+	}
+	2656.1.1 = {
+		holder = character_c_co_21_oca_a
+	}
+}
+
+c_co_10_curuman_ = {
+	2000.1.1 = {
+	 liege = d_cesar
+	}
+	2656.1.1 = {
+		holder = character_c_co_10_curuman_
+	}
+}
+
+c_co_02_medell_n = {
+	2656.1.1 = {
+		holder = character_c_co_02_medell_n
+	}
+}
+d_antioquia = {
+	2656.1.1 = {
+		holder = character_c_co_02_medell_n
+	}
+}
+k_antioquia = {
+	2000.1.1 = {
+	 liege = e_colombia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_medell_n
+	}
+}
+
+c_co_02_itag_ = {
+	2000.1.1 = {
+	 liege = d_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_itag_
+	}
+}
+
+c_co_02_caldas = {
+	2000.1.1 = {
+	 liege = d_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_caldas
+	}
+}
+
+c_co_02_caucasia = {
+	2000.1.1 = {
+	 liege = d_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_caucasia
+	}
+}
+
+c_co_02_segovia = {
+	2000.1.1 = {
+	 liege = d_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_segovia
+	}
+}
+
+c_co_02_dabeiba = {
+	2000.1.1 = {
+	 liege = d_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_dabeiba
+	}
+}
+
+c_co_02_barbosa = {
+	2000.1.1 = {
+	 liege = d_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_barbosa
+	}
+}
+
+c_co_24_pereira = {
+	2656.1.1 = {
+		holder = character_c_co_24_pereira
+	}
+}
+d_eje_cafetero = {
+	2000.1.1 = {
+	 liege = k_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_24_pereira
+	}
+}
+
+c_co_37_manizales = {
+	2000.1.1 = {
+	 liege = d_eje_cafetero
+	}
+	2656.1.1 = {
+		holder = character_c_co_37_manizales
+	}
+}
+
+c_co_23_armenia = {
+	2000.1.1 = {
+	 liege = d_eje_cafetero
+	}
+	2656.1.1 = {
+		holder = character_c_co_23_armenia
+	}
+}
+
+c_co_28_l_bano = {
+	2000.1.1 = {
+	 liege = d_eje_cafetero
+	}
+	2656.1.1 = {
+		holder = character_c_co_28_l_bano
+	}
+}
+
+c_co_37_la_dorada = {
+	2656.1.1 = {
+		holder = character_c_co_37_la_dorada
+	}
+}
+d_magdalena_medio = {
+	2000.1.1 = {
+	 liege = k_antioquia
+	}
+	2656.1.1 = {
+		holder = character_c_co_37_la_dorada
+	}
+}
+
+c_co_02_carmen_de_viboral = {
+	2000.1.1 = {
+	 liege = d_magdalena_medio
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_carmen_de_viboral
+	}
+}
+
+c_co_02_puerto_berr_o = {
+	2000.1.1 = {
+	 liege = d_magdalena_medio
+	}
+	2656.1.1 = {
+		holder = character_c_co_02_puerto_berr_o
+	}
+}
+
+c_co_29_cali = {
+	2656.1.1 = {
+		holder = character_c_co_29_cali
+	}
+}
+d_cauca = {
+	2656.1.1 = {
+		holder = character_c_co_29_cali
+	}
+}
+k_el_pacifico = {
+	2000.1.1 = {
+	 liege = e_colombia
+	}
+	2656.1.1 = {
+		holder = character_c_co_29_cali
+	}
+}
+
+c_co_29_tulu_ = {
+	2000.1.1 = {
+	 liege = d_cauca
+	}
+	2656.1.1 = {
+		holder = character_c_co_29_tulu_
+	}
+}
+
+c_co_29_palmira = {
+	2000.1.1 = {
+	 liege = d_cauca
+	}
+	2656.1.1 = {
+		holder = character_c_co_29_palmira
+	}
+}
+
+c_co_09_popay_n = {
+	2000.1.1 = {
+	 liege = d_cauca
+	}
+	2656.1.1 = {
+		holder = character_c_co_09_popay_n
+	}
+}
+
+c_co_29_darien = {
+	2000.1.1 = {
+	 liege = d_cauca
+	}
+	2656.1.1 = {
+		holder = character_c_co_29_darien
+	}
+}
+
+c_co_29_buenaventura = {
+	2656.1.1 = {
+		holder = character_c_co_29_buenaventura
+	}
+}
+d_pacifico = {
+	2000.1.1 = {
+	 liege = k_el_pacifico
+	}
+	2656.1.1 = {
+		holder = character_c_co_29_buenaventura
+	}
+}
+
+c_co_20_tumaco = {
+	2000.1.1 = {
+	 liege = d_pacifico
+	}
+	2656.1.1 = {
+		holder = character_c_co_20_tumaco
+	}
+}
+
+c_co_09_guap_ = {
+	2000.1.1 = {
+	 liege = d_pacifico
+	}
+	2656.1.1 = {
+		holder = character_c_co_09_guap_
+	}
+}
+
+c_co_11_quibd_ = {
+	2656.1.1 = {
+		holder = character_c_co_11_quibd_
+	}
+}
+d_choco = {
+	2000.1.1 = {
+	 liege = k_el_pacifico
+	}
+	2656.1.1 = {
+		holder = character_c_co_11_quibd_
+	}
+}
+
+c_co_11_istmina = {
+	2000.1.1 = {
+	 liege = d_choco
+	}
+	2656.1.1 = {
+		holder = character_c_co_11_istmina
+	}
+}
+
+c_co_11_riosucio = {
+	2000.1.1 = {
+	 liege = d_choco
+	}
+	2656.1.1 = {
+		holder = character_c_co_11_riosucio
+	}
+}
+
+c_pa_08_panam_ = {
+	2656.1.1 = {
+		holder = character_c_pa_08_panam_
+	}
+}
+d_panama = {
+	2656.1.1 = {
+		holder = character_c_pa_08_panam_
+	}
+}
+k_puente_grande = {
+	2000.1.1 = {
+	 liege = e_colombia
+	}
+	2656.1.1 = {
+		holder = character_c_pa_08_panam_
+	}
+}
+
+c_pa_04_col_n = {
+	2000.1.1 = {
+	 liege = d_panama
+	}
+	2656.1.1 = {
+		holder = character_c_pa_04_col_n
+	}
+}
+
+c_pa_08_corregimiento_chepo = {
+	2000.1.1 = {
+	 liege = d_panama
+	}
+	2656.1.1 = {
+		holder = character_c_pa_08_corregimiento_chepo
+	}
+}
+
+c_pa_08_corregimiento_chepo = {
+	2000.1.1 = {
+	 liege = d_panama
+	}
+	2656.1.1 = {
+		holder = character_c_pa_08_corregimiento_chepo
+	}
+}
+
+c_pa_09_nargana = {
+	2000.1.1 = {
+	 liege = d_panama
+	}
+	2656.1.1 = {
+		holder = character_c_pa_09_nargana
+	}
+}
+
+c_pa_05_meteti = {
+	2000.1.1 = {
+	 liege = d_panama
+	}
+	2656.1.1 = {
+		holder = character_c_pa_05_meteti
+	}
+}
+
+c_pa_13_arraij_n = {
+	2656.1.1 = {
+		holder = character_c_pa_13_arraij_n
+	}
+}
+d_cocle = {
+	2000.1.1 = {
+	 liege = k_puente_grande
+	}
+	2656.1.1 = {
+		holder = character_c_pa_13_arraij_n
+	}
+}
+
+c_pa_06_corregimiento_monagrillo = {
+	2000.1.1 = {
+	 liege = d_cocle
+	}
+	2656.1.1 = {
+		holder = character_c_pa_06_corregimiento_monagrillo
+	}
+}
+
+c_pa_03_corregimiento_penonom_ = {
+	2000.1.1 = {
+	 liege = d_cocle
+	}
+	2656.1.1 = {
+		holder = character_c_pa_03_corregimiento_penonom_
+	}
+}
+
+c_pa_10_santiago_de_veraguas = {
+	2000.1.1 = {
+	 liege = d_cocle
+	}
+	2656.1.1 = {
+		holder = character_c_pa_10_santiago_de_veraguas
+	}
+}
+
+c_pa_02_corregimiento_david = {
+	2656.1.1 = {
+		holder = character_c_pa_02_corregimiento_david
+	}
+}
+d_chiriqui = {
+	2000.1.1 = {
+	 liege = k_puente_grande
+	}
+	2656.1.1 = {
+		holder = character_c_pa_02_corregimiento_david
+	}
+}
+
+c_pa_01_corregimiento_de_changuinola = {
+	2000.1.1 = {
+	 liege = d_chiriqui
+	}
+	2656.1.1 = {
+		holder = character_c_pa_01_corregimiento_de_changuinola
+	}
+}
+
+c_pa_12_corregimiento_chichica = {
+	2000.1.1 = {
+	 liege = d_chiriqui
+	}
+	2656.1.1 = {
+		holder = character_c_pa_12_corregimiento_chichica
+	}
+}
+
+c_pa_10_corregimiento_gobernadora = {
+	2000.1.1 = {
+	 liege = d_chiriqui
+	}
+	2656.1.1 = {
+		holder = character_c_pa_10_corregimiento_gobernadora
+	}
+}
+
+c_co_28_ibagu_ = {
+	2656.1.1 = {
+		holder = character_c_co_28_ibagu_
+	}
+}
+d_co_28_ibagu_ = {
+	2656.1.1 = {
+		holder = character_c_co_28_ibagu_
+	}
+}
+k_tierradentro = {
+	2000.1.1 = {
+	 liege = e_colombia
+	}
+	2656.1.1 = {
+		holder = character_c_co_28_ibagu_
+	}
+}
+
+c_co_16_neiva = {
+	2000.1.1 = {
+	 liege = d_co_28_ibagu_
+	}
+	2656.1.1 = {
+		holder = character_c_co_16_neiva
+	}
+}
+
+c_co_28_espinal = {
+	2000.1.1 = {
+	 liege = d_co_28_ibagu_
+	}
+	2656.1.1 = {
+		holder = character_c_co_28_espinal
+	}
+}
+
+c_co_16_pitalito = {
+	2000.1.1 = {
+	 liege = d_co_28_ibagu_
+	}
+	2656.1.1 = {
+		holder = character_c_co_16_pitalito
+	}
+}
+
+c_co_20_pasto = {
+	2656.1.1 = {
+		holder = character_c_co_20_pasto
+	}
+}
+d_co_20_pasto = {
+	2000.1.1 = {
+	 liege = k_tierradentro
+	}
+	2656.1.1 = {
+		holder = character_c_co_20_pasto
+	}
+}
+
+c_co_20_ipiales = {
+	2000.1.1 = {
+	 liege = d_co_20_pasto
+	}
+	2656.1.1 = {
+		holder = character_c_co_20_ipiales
+	}
+}
+
+c_co_22_puerto_as_s = {
+	2000.1.1 = {
+	 liege = d_co_20_pasto
+	}
+	2656.1.1 = {
+		holder = character_c_co_22_puerto_as_s
+	}
+}
+
+c_co_22_mocoa = {
+	2000.1.1 = {
+	 liege = d_co_20_pasto
+	}
+	2656.1.1 = {
+		holder = character_c_co_22_mocoa
+	}
+}
+
+c_co_08_florencia = {
+	2656.1.1 = {
+		holder = character_c_co_08_florencia
+	}
+}
+d_caqueta = {
+	2000.1.1 = {
+	 liege = k_tierradentro
+	}
+	2656.1.1 = {
+		holder = character_c_co_08_florencia
+	}
+}
+
+c_co_08_curillo = {
+	2000.1.1 = {
+	 liege = d_caqueta
+	}
+	2656.1.1 = {
+		holder = character_c_co_08_curillo
+	}
+}
+
+c_co_08_puerto_rico = {
+	2000.1.1 = {
+	 liege = d_caqueta
+	}
+	2656.1.1 = {
+		holder = character_c_co_08_puerto_rico
+	}
+}

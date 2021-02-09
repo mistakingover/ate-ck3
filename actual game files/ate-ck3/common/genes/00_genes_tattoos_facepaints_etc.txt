@@ -490,6 +490,628 @@ special_genes = {
 				boy = male
 				girl = male
 			}
+			
+			
+			face_tattoo_xingu = {
+				index = 1
+				male = {
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/kayapo_face/kayapo_facepaint_red_06.dds"
+							properties = "gfx/models/portraits/decals/kayapo_face/kayapo_face_paint_properties_06.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.2  0.0 }
+							{ 0.2  1.0 }
+							{ 0.6  1.0 }
+							{ 0.6  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/kayapo_face/kayapo_facepaint_red_07.dds"
+							properties = "gfx/models/portraits/decals/kayapo_face/kayapo_face_paint_properties_07.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.6  0.0 }
+							{ 0.6  1.0 }
+							{ 1.0  1.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/misc_face/xingu_facepaint_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.1  0.0 }
+							{ 0.1  1.0 }
+							{ 0.15  1.0 }
+							{ 0.15  0.0 }
+							{ 0.2  0.0 }
+							{ 0.2  1.0 }
+							{ 0.4  1.0 }
+							{ 0.4  0.0 }
+							{ 0.6  0.0 }
+							{ 0.6  1.0 }
+							{ 0.8  1.0 }
+							{ 0.8  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/misc_face/xingu_facepaint_02.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.15  0.0 }
+							{ 0.15  1.0 }
+							{ 0.2  1.0 }
+							{ 0.2  0.0 }
+							{ 0.4  0.0 }
+							{ 0.4  1.0 }
+							{ 0.6  1.0 }
+							{ 0.6  0.0 }
+							{ 0.8  0.0 }
+							{ 0.8  1.0 }
+							{ 1.0  1.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+				}
+				female = male
+				boy = male
+				girl = male
+			}
+			
+			
+			face_tattoo_yanomami = {
+				index = 2
+				male = {
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_02.dds"
+							properties = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_02_properties.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.07  0.0 }
+							{ 0.07  1.0 }
+							{ 0.14  1.0 }
+							{ 0.14  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_01.dds"
+							properties = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_01_properties.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.14  0.0 }
+							{ 0.14  1.0 }
+							{ 0.28  1.0 }
+							{ 0.28  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_03.dds"
+							properties = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_03_properties.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.21  0.0 }
+							{ 0.21  1.0 }
+							{ 0.28  1.0 }
+							{ 0.28  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_04.dds"
+							properties = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_red_04_properties.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.28  0.0 }
+							{ 0.28  1.0 }
+							{ 0.35  1.0 }
+							{ 0.35  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.35  0.0 }
+							{ 0.35  1.0 }
+							{ 0.42  1.0 }
+							{ 0.42  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_02.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.42  0.0 }
+							{ 0.42  1.0 }
+							{ 0.49  1.0 }
+							{ 0.49  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_03.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.49  0.0 }
+							{ 0.49  1.0 }
+							{ 0.56  1.0 }
+							{ 0.56  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_04.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.56  0.0 }
+							{ 0.56  1.0 }
+							{ 0.63  1.0 }
+							{ 0.63  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_05.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.63  0.0 }
+							{ 0.63  1.0 }
+							{ 0.70  1.0 }
+							{ 0.70  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_06.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.70  0.0 }
+							{ 0.70  1.0 }
+							{ 0.77  1.0 }
+							{ 0.77  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_07.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.77  0.0 }
+							{ 0.77  1.0 }
+							{ 0.84  1.0 }
+							{ 0.84  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_08.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.84  0.0 }
+							{ 0.84  1.0 }
+							{ 0.91  1.0 }
+							{ 0.91  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = head
+						textures = {
+							diffuse = "gfx/models/portraits/decals/yanomami_face/yanomami_face_tattoo_09.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.91  0.0 }
+							{ 0.91  1.0 }
+							{ 0.98  1.0 }
+							{ 0.98  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = overlay 
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+				}
+				female = male
+				boy = male
+				girl = male
+			}
+		}
+		
+		
+		
+		
+		
+		##############################################################################################################
+		################################################# body #######################################################
+		##############################################################################################################
+		
+		
+		
+		
+		gene_body_tattoos = {
+		
+			body_tattoo_kaiapo = {
+				index = 0
+				male = {
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/kayapo_body/kayapo_body_tatoo_01.dds"
+							#properties = "gfx/models/portraits/decals/kayapo_face/kayapo_body_paint_properties_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.15  0.0 }
+							{ 0.15  0.96 }
+							{ 0.3  0.96 }
+							{ 0.3  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/kayapo_body/kayapo_body_tatoo_02.dds"
+							#properties = "gfx/models/portraits/decals/kayapo_face/kayapo_body_paint_properties_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.3  0.0 }
+							{ 0.3  0.96 }
+							{ 0.45  0.96 }
+							{ 0.45  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/kayapo_body/kayapo_body_tatoo_03.dds"
+							#properties = "gfx/models/portraits/decals/kayapo_face/kayapo_body_paint_properties_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.45  0.0 }
+							{ 0.45  0.96 }
+							{ 0.6  0.96 }
+							{ 0.6  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/kayapo_body/kayapo_body_tatoo_04.dds"
+							#properties = "gfx/models/portraits/decals/kayapo_face/kayapo_body_paint_properties_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.6  0.0 }
+							{ 0.6  0.96 }
+							{ 0.75  0.96 }
+							{ 0.75  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/misc_body/male_body_tattoo_full.dds"
+							#properties = "gfx/models/portraits/decals/kayapo_face/kayapo_body_paint_properties_01.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.75  0.0 }
+							{ 0.75  0.96 }
+							{ 0.9  0.96 }
+							{ 0.9  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/misc_body/male_body_tattoo_full_red_belly.dds"
+							properties = "gfx/models/portraits/decals/misc_body/male_body_tattoo_full_red_belly_properties.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.9  0.0 }
+							{ 0.9  0.96 }
+							{ 1.0  0.96 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+				}
+				female = male
+				boy = male
+				girl = male
+			}
+			
+			body_tattoo_xavante = {
+				index = 1
+				male = {
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/misc_body/male_body_tattoo_full.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.96 }
+							#{ 0.25  0.0 }
+							#{ 0.25  0.96 }
+							{ 0.5  0.96 }
+							{ 0.5  0.0 }
+							{ 1.0  0.0 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							#properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+					decal = {
+						body_part = torso
+						textures = {
+							diffuse = "gfx/models/portraits/decals/misc_body/male_body_tattoo_full_red_belly.dds"
+							properties = "gfx/models/portraits/decals/misc_body/male_body_tattoo_full_red_belly_properties.dds"
+						}
+						alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+							#gene strength%, decal alpha
+							{ 0.0  0.0 }
+							{ 0.5  0.0 }
+							{ 0.5  0.96 }
+							{ 1.0  0.96 }
+						}
+						blend_modes = {              #overlay/replace/hard_light/multiply
+							diffuse = replace
+							#normal = overlay                        
+							properties = overlay
+						}
+						priority = 10
+						decal_apply_order = post_skin_color # pre_skin_color | post_skin_color
+					}
+				}
+				female = male
+				boy = male
+				girl = male
+			}
 		}
 	}
 }

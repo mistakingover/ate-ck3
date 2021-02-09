@@ -198,7 +198,7 @@
 
 	faiths = {
 		tres_potencias = {
-			color = hsv { 0.6 0.75 0.1 }
+			color = { 175 100 19 }
 			icon = espiritista_tres_potencias
 
 			#holy_site = trinidad
@@ -297,7 +297,7 @@
 		}
 
 		kardecist = {
-			color = hsv { 0.6 0.75 0.75 }
+			color = { 127 106 0 }
 			icon = kardecist
 
 			#holy_site = araxa
@@ -306,8 +306,8 @@
 			#holy_site = brasilia
 			#holy_site = ?
 
+			doctrine = tenet_faith_healing
 			doctrine = tenet_reincarnation
-			doctrine = tenet_christian_syncretism
 			doctrine = tenet_adorcism
 			
 			doctrine = doctrine_monogamy

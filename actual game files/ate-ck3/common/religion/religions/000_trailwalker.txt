@@ -194,7 +194,7 @@
 
 	faiths = {
 		real_road = {
-			color = { 0.0 0.2 0.8 }
+			color = { 68 102 204 }
 			icon = real_road
 			reformed_icon = real_road
 			
@@ -215,7 +215,7 @@
 		#}
 		
 		eversky = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0 51 204 }
 			icon = eversky
 			reformed_icon = eversky
 			
@@ -232,7 +232,7 @@
 		}
 		
 		dustrider = {
-			color = { 0.0 0.2 0.8 }
+			color = { 37 61 133 }
 			icon = dustrider
 			reformed_icon = dustrider
 			
@@ -244,6 +244,22 @@
 			
 			localization = {
 				GoodGodNames = { trailwalker_good_god_lewison_clark }
+			}
+
+		}
+		midnight_sun = {
+			color = { 114 6 129 }
+			icon = midnight_sun
+			reformed_icon = midnight_sun
+			
+			doctrine = tenet_ritual_hospitality
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_warmonger
+			
+			doctrine = doctrine_the_marshal
+			
+			localization = {
+				GoodGodNames = { trailwalker_good_god_kelso }
 			}
 
 		}

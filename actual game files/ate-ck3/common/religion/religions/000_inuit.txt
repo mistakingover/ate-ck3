@@ -1,0 +1,221 @@
+﻿inuit_religion = {
+	family = rf_amerindian
+	graphical_faith = pagan_gfx
+	doctrine = amerindian_hostility_doctrine
+
+	#Main Group
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_pluralism_fundamentalist
+	doctrine = doctrine_theocracy_temporal
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_disallowed
+	doctrine = doctrine_bastardry_all
+	doctrine = doctrine_consanguinity_restricted
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_kinslaying_any_dynasty_member_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_male_only
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_fixed_appointment
+	traits = {
+		virtues = { brave just vengeful }
+		sins = { craven arbitrary forgiving }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1
+	}
+
+	holy_order_names = {
+		{ name = "holy_order_guardians_of_divinerealm" }
+		{ name = "holy_order_faithful_of_highgod" }
+		{ name = "holy_order_warriors_of_the_symbol" }
+	}
+
+	holy_order_maa = { bush_hunter }
+
+	localization = {
+		HighGodName = inuit_high_god_name
+		HighGodNamePossessive = inuit_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = inuit_high_god_name_alternate
+		HighGodNameAlternatePossessive = inuit_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = inuit_creator_god_name
+		CreatorNamePossessive = inuit_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = inuit_health_god_name
+		HealthGodNamePossessive = inuit_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_THEY
+		HealthGodHerHis = CHARACTER_HERHIS_THEIR
+		HealthGodHerHim = CHARACTER_HERHIM_THEM
+		
+		#FertilityGod
+		FertilityGodName = inuit_fertility_god_name
+		FertilityGodNamePossessive = inuit_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = inuit_wealth_god_name
+		WealthGodNamePossessive = inuit_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_THEY
+		WealthGodHerHis = CHARACTER_HERHIS_THEIR
+		WealthGodHerHim = CHARACTER_HERHIM_THEM
+
+		#HouseholdGod
+		HouseholdGodName = inuit_household_god_name
+		HouseholdGodNamePossessive = inuit_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_THEY
+		HouseholdGodHerHis = CHARACTER_HERHIS_THEIR
+		HouseholdGodHerHim = CHARACTER_HERHIM_THEM
+
+		#FateGod
+		FateGodName = inuit_fate_god_name
+		FateGodNamePossessive = inuit_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = inuit_knowledge_god_name
+		KnowledgeGodNamePossessive = inuit_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = inuit_war_god_name
+		WarGodNamePossessive = inuit_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = inuit_trickster_god_name
+		TricksterGodNamePossessive = inuit_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = inuit_night_god_name
+		NightGodNamePossessive = inuit_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_IT
+		NightGodHerHis = CHARACTER_HERHIS_ITS
+		NightGodHerHim = CHARACTER_HERHIM_IT
+
+		#WaterGod
+		WaterGodName = inuit_water_god_name
+		WaterGodNamePossessive = inuit_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+
+		GoodGodNames = { 
+			inuit_high_god_name 
+			inuit_high_god_name_alternate 
+			inuit_health_god_name 
+			inuit_fertility_god_name 
+			inuit_wealth_god_name 
+			inuit_household_god_name 
+			inuit_knowledge_god_name 
+			inuit_war_god_name 
+			inuit_night_god_name 
+			inuit_water_god_name
+		}
+		PantheonTerm = inuit_pantheon
+		PantheonTerm = pantheon_term_have
+		DevilName = inuit_devil_name
+		DevilNamePossessive = inuit_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_THEY
+		DevilHerHis = CHARACTER_HERHIS_THEIR
+		DevilHerselfHimself = inuit_devil_herselfhimself
+		EvilGodNames = { inuit_devil_name }
+		HouseOfWorship = inuit_house_of_worship
+		HouseOfWorshipPlural = inuit_house_of_worship_plural
+		ReligiousSymbol = inuit_religious_symbol
+		ReligiousText = inuit_religious_text
+		ReligiousHeadName = inuit_religious_head_title
+		ReligiousHeadTitleName = inuit_religious_head_title_name
+		DevoteeMale = inuit_devotee
+		DevoteeMalePlural = inuit_devoteeplural
+		DevoteeFemale = inuit_devotee
+		DevoteeFemalePlural = inuit_devoteeplural
+		DevoteeNeuter = inuit_devotee
+		DevoteeNeuterPlural = inuit_devoteeplural
+		PriestMale = inuit_priest
+		PriestMalePlural = inuit_priest_plural
+		PriestFemale = inuit_priest
+		PriestFemalePlural = inuit_priest_plural
+		PriestNeuter = inuit_priest
+		PriestNeuterPlural = inuit_priest_plural
+		AltPriestTermPlural = inuit_priest_alternate_plural
+		BishopMale = inuit_priest
+		BishopMalePlural = inuit_priest_plural
+		BishopFemale = inuit_priest
+		BishopFemalePlural = inuit_priest_plural
+		BishopNeuter = inuit_priest
+		BishopNeuterPlural = inuit_priest_plural
+		DivineRealm = inuit_divine_realm
+		PositiveAfterLife = inuit_divine_realm
+		NegativeAfterLife = inuit_divine_realm
+		DeathDeityName = inuit_death_name
+		DeathDeityNamePossessive = inuit_death_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = witchgodname_inuit
+		WitchGodHerHis = CHARACTER_HERHIS_HIS
+		WitchGodSheHe = CHARACTER_SHEHE_HE
+		WitchGodHerHim = CHARACTER_HERHIM_HIM
+		WitchGodMistressMaster = master
+		WitchGodMotherFather = father
+
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+
+	faiths = {
+		unipkaaq = { #TODO
+			color = { 63 165 45 }
+			icon = unipkaaq
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_esotericism
+
+			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_crime
+		}
+		ilisaijjut = { #TODO
+			color = { 51 71 167 }
+			icon = ilisaijjut
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_esotericism
+
+			doctrine = doctrine_gender_male_dominated
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_crime
+		}
+	}
+}

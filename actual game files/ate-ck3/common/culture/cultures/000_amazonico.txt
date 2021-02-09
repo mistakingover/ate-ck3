@@ -1,4 +1,4 @@
-amazonico_group = {
+﻿amazonico_group = {
 graphical_cultures = {
 	amazonico_group_gfx
 	african_building_gfx
@@ -8,9 +8,10 @@ graphical_cultures = {
 	charapa = {
 		graphical_cultures = {
 			charapa_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.4 0.42 0.24 }
+			color = { 102 107 61 }
 
 		cadet_dynasty_names = {
 			"dynn_Charapa"
@@ -38,18 +39,20 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = caucasian
+	15 = mediterranean
+	50 = amazonian
+	20 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
+}
 	}
 	ashaninka = {
 		graphical_cultures = {
 			ashaninka_coa_gfx
 		}
 
-		color = { 0.42 0.62 0.09 }
+			color = { 107 158 22 }
 
 		cadet_dynasty_names = {
 					"dynn_Ashaninka"
@@ -77,96 +80,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = amazonian
+}
 	}
-	acreano = {
-		graphical_cultures = {
-			acreano_coa_gfx
-		}
-
-		color = { 0.24 0.36 0.05 }
-
-		cadet_dynasty_names = {
-					"dynn_Acreano"
-		}
-		dynasty_names = {
-					"dynn_Acreano"
-		}
-
-		male_names = {
-			"acreano_placeholder_mnames"
-		}
-		female_names = {
-			"acreano_placeholder_fnames"
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 10
-		father_name_chance = 5
-
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 10
-		mother_name_chance = 5
-
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
-	rondonio = {
-		graphical_cultures = {
-			rondonio_coa_gfx
-		}
-
-		color = { 0.38 0.53 0.16 }
-
-		cadet_dynasty_names = {
-					"dynn_Rond_o_hat_nio"
-		}
-		dynasty_names = {
-					"dynn_Rond_o_hat_nio"
-		}
-
-		male_names = {
-			"rondonio_placeholder_mnames"
-		}
-		female_names = {
-			"rondonio_placeholder_fnames"
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 10
-		father_name_chance = 5
-
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 10
-		mother_name_chance = 5
-
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
+	
 	trifinio = {
 		graphical_cultures = {
 			trifinio_coa_gfx
 		}
 
-		color = { 0.52 0.57 0.21 }
+			color = { 132 145 53 }
 
 		cadet_dynasty_names = {
 					"dynn_Trifinio"
@@ -194,18 +117,21 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = caucasian
+	15 = mediterranean
+	50 = amazonian
+	20 = med_indigenous
+	5 = white_indigenous
+	5 = med_black_ind
+}
 	}
 	tukano = {
 		graphical_cultures = {
 			tukano_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.22 0.25 0.05 }
+			color = { 56 63 12 }
 
 		cadet_dynasty_names = {
 					"dynn_Tukano"
@@ -233,18 +159,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = amazonian
+}
 	}
 	yanomami = {
 		graphical_cultures = {
 			yanomami_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.19 0.25 0.1 }
+			color = { 48 63 25 }
 
 		cadet_dynasty_names = {
 					"dynn_Yanomami"
@@ -272,18 +196,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = amazonian
+}
 	}
 	makushi = {
 		graphical_cultures = {
 			makushi_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.57 0.8 0.27 }
+			color = { 145 204 68 }
 
 		cadet_dynasty_names = {
 					"dynn_Makushi"
@@ -311,18 +233,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 	matses = {
 		graphical_cultures = {
 			matses_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.62 0.82 0.08 }
+			color = { 158 209 20 }
 
 		cadet_dynasty_names = {
 					"dynn_Mats_e_act_s"
@@ -350,18 +271,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 	ticuna = {
 		graphical_cultures = {
 			ticuna_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.53 0.64 0.14 }
+			color = { 135 163 35 }
 
 		cadet_dynasty_names = {
 					"dynn_Ticuna"
@@ -389,18 +309,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 	karipuna = {
 		graphical_cultures = {
 			karipuna_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.36 0.39 0.14 }
+			color = { 91 99 35 }
 
 		cadet_dynasty_names = {
 					"dynn_Karipuna"
@@ -428,57 +347,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
-	mura = {
-		graphical_cultures = {
-			mura_coa_gfx
-		}
-
-		color = { 0.67 0.77 0.52 }
-
-		cadet_dynasty_names = {
-					"dynn_Mura"
-		}
-		dynasty_names = {
-					"dynn_Mura"
-		}
-
-		male_names = {
-			"mura_placeholder_mnames"
-		}
-		female_names = {
-			"mura_placeholder_fnames"
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 10
-		mat_grf_name_chance = 10
-		father_name_chance = 5
-
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 10
-		mother_name_chance = 5
-
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 	kulina = {
 		graphical_cultures = {
 			kulina_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.31 0.36 0.24 }
+			color = { 79 91 61 }
 
 		cadet_dynasty_names = {
 					"dynn_Kulina"
@@ -506,18 +385,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 	munduruku = {
 		graphical_cultures = {
 			munduruku_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = { 0.41 0.6 0.35 }
+			color = { 104 153 89 }
 
 		cadet_dynasty_names = {
 				"dynn_Munduruku"
@@ -545,18 +423,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 	nambikwara = {
 		graphical_cultures = {
 			nambikwara_coa_gfx
+			amazonian_clothing_gfx
 		}
 
-		color = rgb { 143 196 58 }
+			color = { 143 196 58 }
 
 		cadet_dynasty_names = {
 				"dynn_Nambikwara"
@@ -584,10 +461,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	80 = amazonian
+	20 = med_indigenous
+}
 	}
 }

@@ -11,7 +11,7 @@ graphical_cultures = {
 			bravo_coa_gfx
 		}
 		
-		color = { 0.95 0.9 0.40 }
+			color = { 242 229 102 }
 	
 		cadet_dynasty_names = {
 			"dynn_Abdal_a_act_"
@@ -320,11 +320,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+	10 = mediterranean
+	10 = mesoamerican
+	70 = med_indigenous
+}
 	}
 	
 	chinola = {
@@ -332,7 +332,7 @@ graphical_cultures = {
 			chinola_coa_gfx
 		}
 		
-		color = { 0.55 0.42 0.04 }
+			color = { 160 107 10 }
 	
 		cadet_dynasty_names = {
 			"dynn_Acosta"
@@ -681,11 +681,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = caucasian
+	15 = mediterranean
+	80 = med_indigenous
+}
 	}
 	
 	##Credit to Mr_Badaniel
@@ -694,7 +693,7 @@ graphical_cultures = {
 			californiano_coa_gfx
 		}
 		
-		color = { 0.7 0.8 0.2 }
+			color = { 178 204 51 }
 	
 		cadet_dynasty_names = {
 			"dynn_A_act_vila"
@@ -1083,11 +1082,13 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = asian
+	10 = caucasian
+	20 = mediterranean
+	5 = mesoamerican
+	50 = med_indigenous
+	5 = black_white
+}
 	}
 	
 	##Credit to Mr_Badaniel
@@ -1096,7 +1097,7 @@ graphical_cultures = {
 			chihuahuense_coa_gfx
 		}
 		
-		color = { 0.54 0.39 0.03 }
+			color = { 137 99 7 }
 	
 		cadet_dynasty_names = {
 			"dynn_Alvelais"
@@ -1419,10 +1420,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+	30 = mediterranean
+	5 = mesoamerican
+	65 = med_indigenous
+}
 	}
 }

@@ -1,4 +1,4 @@
-chacoan_group = {
+﻿chacoan_group = {
 graphical_cultures = {
 	chacoan_group_gfx
 	steppe_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			kadiweu_coa_gfx
 		}
 
-		color = { 0.07 0.04 0.1 }
+			color = { 17 10 25 }
 
 		cadet_dynasty_names = {
 					"dynn_kadiweu_placeholder"
@@ -38,18 +38,18 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amazonian
+	15 = med_indigenous
+	5 = black_indigenous
+	5 = med_black_ind
+}
 	}
 	nivacle = {
 		graphical_cultures = {
 			nivacle_coa_gfx
 		}
 
-		color = { 0.47 0.23 0.56 }
+			color = { 119 58 142 }
 
 		cadet_dynasty_names = {
 					"dynn_nivacle_placeholder"
@@ -77,18 +77,19 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = mediterranean
+	30 = andean
+	35 = amazonian
+	10 = med_indigenous
+	10 = white_indigenous
+}
 	}
 	qom = {
 		graphical_cultures = {
 			qom_coa_gfx
 		}
 
-		color = { 0.31 0.23 0.36 }
+			color = { 79 58 91 }
 
 		cadet_dynasty_names = {
 					"dynn_qom_placeholder"
@@ -116,18 +117,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = andean
+	15 = med_indigenous
+	10 = white_indigenous
+}
 	}
 	ayoreo = {
 		graphical_cultures = {
 			ayoreo_coa_gfx
 		}
 
-		color = { 0.5 0.17 0.72 }
+			color = { 127 43 183 }
 
 		cadet_dynasty_names = {
 					"dynn_ayoreo_placeholder"
@@ -155,18 +155,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = andean
+	25 = med_indigenous
+}
 	}
 	mascoy = {
 		graphical_cultures = {
 			mascoy_coa_gfx
 		}
 
-		color = { 0.48 0.36 0.56 }
+			color = { 122 91 142 }
 
 		cadet_dynasty_names = {
 					"dynn_mascoy_placeholder"
@@ -194,18 +192,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amazonian
+	25 = med_indigenous
+}
 	}
 	wichi = {
 		graphical_cultures = {
 			wichi_coa_gfx
 		}
 
-		color = { 0.66 0.49 0.77 }
+			color = { 168 124 196 }
 
 		cadet_dynasty_names = {
 					"dynn_wichi_placeholder"
@@ -233,10 +229,8 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amazonian
+	25 = med_indigenous
+}
 	}
 }

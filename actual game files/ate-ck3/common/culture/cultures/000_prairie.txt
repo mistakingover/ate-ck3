@@ -1,17 +1,17 @@
 ﻿prairie_group = {
-graphical_cultures = {
-	prairie_group_gfx
-	steppe_building_gfx
-	mongol_clothing_gfx
-	mongol_unit_gfx
-}
+	graphical_cultures = {
+		prairie_group_gfx
+		steppe_building_gfx
+		mongol_clothing_gfx
+		mongol_unit_gfx
+	}
 	
 	prairielander = {
 		graphical_cultures = {
 			prairielander_coa_gfx
 		}
 		
-		color = { 0.0 0.5 0.15 }
+			color = { 0 127 38 }
 	
 		cadet_dynasty_names = {
 			"dynn_Alexis"
@@ -36,10 +36,13 @@ graphical_cultures = {
 			"dynn_Burkett"
 			"dynn_Butts"
 			"dynn_Calmutsky"
+			"dynn_Cardinal"
+			"dynn_Chan"
 			"dynn_Chernoff"
 			"dynn_Cherwick"
 			"dynn_Chong"
 			"dynn_Clugston"
+			"dynn_Dang"
 			"dynn_Davies"
 			"dynn_Decker"
 			"dynn_Decore"
@@ -102,6 +105,7 @@ graphical_cultures = {
 			"dynn_Kirczenow"
 			"dynn_Kirkness"
 			"dynn_Kissel"
+			"dynn_Kiyooka"
 			"dynn_Klassen"
 			"dynn_Klein"
 			"dynn_Kletke"
@@ -118,11 +122,12 @@ graphical_cultures = {
 			"dynn_Kreviazuk"
 			"dynn_Kuemper"
 			"dynn_Kwong"
-			"dynn_LabontE_"
+			"dynn_Labont_e_act_"
 			"dynn_Lacombe"
-			"dynn_LagassE_"
+			"dynn_Lagass_e_act_"
 			"dynn_Lamoureux"
 			"dynn_Langkow"
+			"dynn_Lau"
 			"dynn_Lautermilch"
 			"dynn_LeBihan"
 			"dynn_Lehman"
@@ -130,11 +135,13 @@ graphical_cultures = {
 			"dynn_Liepert"
 			"dynn_Lindhout"
 			"dynn_Lougheed"
+			"dynn_Lozinski"
 			"dynn_Lupul"
 			"dynn_MacAuley"
 			"dynn_MacWilliam"
 			"dynn_Macdonald"
 			"dynn_Macoun"
+			"dynn_Mah"
 			"dynn_Manning"
 			"dynn_Marleau"
 			"dynn_Marryat"
@@ -184,6 +191,7 @@ graphical_cultures = {
 			"dynn_Parlby"
 			"dynn_Peake"
 			"dynn_Pederson"
+			"dynn_Phung"
 			"dynn_Pickersgill"
 			"dynn_Prentice"
 			"dynn_Ramsland"
@@ -197,8 +205,9 @@ graphical_cultures = {
 			"dynn_Russenholt"
 			"dynn_Rutherford"
 			"dynn_Sahlmark"
+			"dynn_Sakamoto"
 			"dynn_Sanderson"
-			"dynn_SauvE_"
+			"dynn_Sauv_e_act_"
 			"dynn_Sawchuck"
 			"dynn_Scharfenberg"
 			"dynn_Schellenberg"
@@ -217,6 +226,7 @@ graphical_cultures = {
 			"dynn_Sharpe"
 			"dynn_Shevchuck"
 			"dynn_Shewfelt"
+			"dynn_Senda"
 			"dynn_Sifton"
 			"dynn_Sivell"
 			"dynn_Sivertz"
@@ -298,10 +308,13 @@ graphical_cultures = {
 			"dynn_Burkett"
 			"dynn_Butts"
 			"dynn_Calmutsky"
+			"dynn_Cardinal"
+			"dynn_Chan"
 			"dynn_Chernoff"
 			"dynn_Cherwick"
 			"dynn_Chong"
 			"dynn_Clugston"
+			"dynn_Dang"
 			"dynn_Davies"
 			"dynn_Decker"
 			"dynn_Decore"
@@ -364,6 +377,7 @@ graphical_cultures = {
 			"dynn_Kirczenow"
 			"dynn_Kirkness"
 			"dynn_Kissel"
+			"dynn_Kiyooka"
 			"dynn_Klassen"
 			"dynn_Klein"
 			"dynn_Kletke"
@@ -380,11 +394,12 @@ graphical_cultures = {
 			"dynn_Kreviazuk"
 			"dynn_Kuemper"
 			"dynn_Kwong"
-			"dynn_LabontE_"
+			"dynn_Labont_e_act_"
 			"dynn_Lacombe"
-			"dynn_LagassE_"
+			"dynn_Lagass_e_act_"
 			"dynn_Lamoureux"
 			"dynn_Langkow"
+			"dynn_Lau"
 			"dynn_Lautermilch"
 			"dynn_LeBihan"
 			"dynn_Lehman"
@@ -392,11 +407,13 @@ graphical_cultures = {
 			"dynn_Liepert"
 			"dynn_Lindhout"
 			"dynn_Lougheed"
+			"dynn_Lozinski"
 			"dynn_Lupul"
 			"dynn_MacAuley"
 			"dynn_MacWilliam"
 			"dynn_Macdonald"
 			"dynn_Macoun"
+			"dynn_Mah"
 			"dynn_Manning"
 			"dynn_Marleau"
 			"dynn_Marryat"
@@ -446,6 +463,7 @@ graphical_cultures = {
 			"dynn_Parlby"
 			"dynn_Peake"
 			"dynn_Pederson"
+			"dynn_Phung"
 			"dynn_Pickersgill"
 			"dynn_Prentice"
 			"dynn_Ramsland"
@@ -459,8 +477,9 @@ graphical_cultures = {
 			"dynn_Russenholt"
 			"dynn_Rutherford"
 			"dynn_Sahlmark"
+			"dynn_Sakamoto"
 			"dynn_Sanderson"
-			"dynn_SauvE_"
+			"dynn_Sauv_e_act_"
 			"dynn_Sawchuck"
 			"dynn_Scharfenberg"
 			"dynn_Schellenberg"
@@ -479,6 +498,7 @@ graphical_cultures = {
 			"dynn_Sharpe"
 			"dynn_Shevchuck"
 			"dynn_Shewfelt"
+			"dynn_Senda"
 			"dynn_Sifton"
 			"dynn_Sivell"
 			"dynn_Sivertz"
@@ -577,7 +597,7 @@ graphical_cultures = {
 			Margaret Martha Mary Melanie Myrna
 			Nadine Nancy Natalia Nellie Nicole
 			Olivia
-			Rachel Raynell Rebecca RenE_e Rhiannon Rhonda Rita Rose
+			Rachel Raynell Rebecca Ren_e_act_e Rhiannon Rhonda Rita Rose
 			Sheena Sophia Stephanie
 			Theresa Tabitha
 			Veronica Violet Virnetta
@@ -598,11 +618,12 @@ graphical_cultures = {
 		mother_name_chance = 15
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = asian
+	60 = caucasian
+	20 = slavic
+	10 = amerindian
+}
 	}
 	
 	preiryansky = {
@@ -610,7 +631,7 @@ graphical_cultures = {
 			preiryansky_coa_gfx
 		}
 		
-		color = { 0.6 0.8 0.3 }
+			color = { 153 204 76 }
 	
 		cadet_dynasty_names = {
 			"dynn_Achtymichuk"
@@ -644,6 +665,7 @@ graphical_cultures = {
 			"dynn_Brodziak"
 			"dynn_Bucklaschuk"
 			"dynn_Bucmaniuk"
+			"dynn_Bucyk"
 			"dynn_Burtnyk"
 			"dynn_Buyarski"
 			"dynn_Bzdel"
@@ -656,11 +678,13 @@ graphical_cultures = {
 			"dynn_Choriawy"
 			"dynn_Chornopyski"
 			"dynn_Chrapko"
+			"dynn_Chubak"
 			"dynn_Cipywnyk"
 			"dynn_Czahar"
 			"dynn_Czurylowicz"
 			"dynn_Danyluk"
 			"dynn_Dashchuk"
+			"dynn_Diachuk"
 			"dynn_Dlugosh"
 			"dynn_Dmytruk"
 			"dynn_Dobrinsky"
@@ -718,10 +742,12 @@ graphical_cultures = {
 			"dynn_Jacyk"
 			"dynn_Jarymowycz"
 			"dynn_Jendzjowsky"
+			"dynn_Kalenchuk"
 			"dynn_Kalistchuk"
 			"dynn_Kalturnyk"
 			"dynn_Kalyniuk"
 			"dynn_Kaminsky"
+			"dynn_Karpyshyn"
 			"dynn_Kasyanchuk"
 			"dynn_Katerynuk"
 			"dynn_Khoroshy"
@@ -742,6 +768,7 @@ graphical_cultures = {
 			"dynn_Krawetz"
 			"dynn_Kruczko"
 			"dynn_Krysak"
+			"dynn_Krywulak"
 			"dynn_Krzyzaniak"
 			"dynn_Kshyk"
 			"dynn_Kurelek"
@@ -759,6 +786,7 @@ graphical_cultures = {
 			"dynn_Luckyj"
 			"dynn_Lucyk"
 			"dynn_Lukiwski"
+			"dynn_Lukowich"
 			"dynn_Lupyczuk"
 			"dynn_Lysiak"
 			"dynn_Mackiw"
@@ -766,12 +794,15 @@ graphical_cultures = {
 			"dynn_Makowsky"
 			"dynn_Malarchuk"
 			"dynn_Malischewski"
+			"dynn_Mandziak"
 			"dynn_Martyniuk"
 			"dynn_Martynowych"
 			"dynn_Marynuk"
 			"dynn_Maslany"
 			"dynn_Masniuk"
+			"dynn_Mastrachuk"
 			"dynn_Mazankowski"
+			"dynn_Melenchuk"
 			"dynn_Melenka"
 			"dynn_Meleschuk"
 			"dynn_Melnyk"
@@ -788,6 +819,7 @@ graphical_cultures = {
 			"dynn_Nesterenko"
 			"dynn_Nowosad"
 			"dynn_Nowoselsky"
+			"dynn_Oleksyn"
 			"dynn_Oleskiw"
 			"dynn_Onyschuk"
 			"dynn_Opryshko"
@@ -818,12 +850,14 @@ graphical_cultures = {
 			"dynn_Roborecky"
 			"dynn_Romaniuk"
 			"dynn_Romaniw"
+			"dynn_Rudachyk"
 			"dynn_Rudnyckyj"
 			"dynn_Rybchuk"
 			"dynn_Samagalski"
 			"dynn_Savaryn"
 			"dynn_Sawchuk"
 			"dynn_Sawkiw"
+			"dynn_Sekulich"
 			"dynn_Sembaliuk"
 			"dynn_Semenko"
 			"dynn_Shalka"
@@ -835,6 +869,8 @@ graphical_cultures = {
 			"dynn_Shpylka"
 			"dynn_Shyiak"
 			"dynn_Skeskowicz"
+			"dynn_Skoropad"
+			"dynn_Slemko"
 			"dynn_Smerchanski"
 			"dynn_Smyl"
 			"dynn_Smytaniuk"
@@ -873,13 +909,16 @@ graphical_cultures = {
 			"dynn_Uruski"
 			"dynn_Wakaluk"
 			"dynn_Warawa"
+			"dynn_Warwaruk"
 			"dynn_Wawrykow"
 			"dynn_Welechko"
 			"dynn_Wengzynowski"
 			"dynn_Wichenko"
+			"dynn_Wolodko"
 			"dynn_Woloshyn"
 			"dynn_Worobetz"
 			"dynn_Worobey"
+			"dynn_Woron"
 			"dynn_Wowchuk"
 			"dynn_Woycheshin"
 			"dynn_Woytkiw"
@@ -901,9 +940,11 @@ graphical_cultures = {
 			"dynn_Yuzyk"
 			"dynn_Zakaluzny"
 			"dynn_Zakordonski"
+			"dynn_Zakreski"
 			"dynn_Zamonsky"
 			"dynn_Zaretski"
 			"dynn_Zasitko"
+			"dynn_Zbraschuk"
 			"dynn_Zazelenchuk"
 			"dynn_Zerebecky"
 			"dynn_Zeschuk"
@@ -946,6 +987,7 @@ graphical_cultures = {
 			"dynn_Brodziak"
 			"dynn_Bucklaschuk"
 			"dynn_Bucmaniuk"
+			"dynn_Bucyk"
 			"dynn_Burtnyk"
 			"dynn_Buyarski"
 			"dynn_Bzdel"
@@ -958,11 +1000,13 @@ graphical_cultures = {
 			"dynn_Choriawy"
 			"dynn_Chornopyski"
 			"dynn_Chrapko"
+			"dynn_Chubak"
 			"dynn_Cipywnyk"
 			"dynn_Czahar"
 			"dynn_Czurylowicz"
 			"dynn_Danyluk"
 			"dynn_Dashchuk"
+			"dynn_Diachuk"
 			"dynn_Dlugosh"
 			"dynn_Dmytruk"
 			"dynn_Dobrinsky"
@@ -1020,10 +1064,12 @@ graphical_cultures = {
 			"dynn_Jacyk"
 			"dynn_Jarymowycz"
 			"dynn_Jendzjowsky"
+			"dynn_Kalenchuk"
 			"dynn_Kalistchuk"
 			"dynn_Kalturnyk"
 			"dynn_Kalyniuk"
 			"dynn_Kaminsky"
+			"dynn_Karpyshyn"
 			"dynn_Kasyanchuk"
 			"dynn_Katerynuk"
 			"dynn_Khoroshy"
@@ -1044,6 +1090,7 @@ graphical_cultures = {
 			"dynn_Krawetz"
 			"dynn_Kruczko"
 			"dynn_Krysak"
+			"dynn_Krywulak"
 			"dynn_Krzyzaniak"
 			"dynn_Kshyk"
 			"dynn_Kurelek"
@@ -1061,6 +1108,7 @@ graphical_cultures = {
 			"dynn_Luckyj"
 			"dynn_Lucyk"
 			"dynn_Lukiwski"
+			"dynn_Lukowich"
 			"dynn_Lupyczuk"
 			"dynn_Lysiak"
 			"dynn_Mackiw"
@@ -1068,12 +1116,15 @@ graphical_cultures = {
 			"dynn_Makowsky"
 			"dynn_Malarchuk"
 			"dynn_Malischewski"
+			"dynn_Mandziak"
 			"dynn_Martyniuk"
 			"dynn_Martynowych"
 			"dynn_Marynuk"
 			"dynn_Maslany"
 			"dynn_Masniuk"
+			"dynn_Mastrachuk"
 			"dynn_Mazankowski"
+			"dynn_Melenchuk"
 			"dynn_Melenka"
 			"dynn_Meleschuk"
 			"dynn_Melnyk"
@@ -1090,6 +1141,7 @@ graphical_cultures = {
 			"dynn_Nesterenko"
 			"dynn_Nowosad"
 			"dynn_Nowoselsky"
+			"dynn_Oleksyn"
 			"dynn_Oleskiw"
 			"dynn_Onyschuk"
 			"dynn_Opryshko"
@@ -1120,12 +1172,14 @@ graphical_cultures = {
 			"dynn_Roborecky"
 			"dynn_Romaniuk"
 			"dynn_Romaniw"
+			"dynn_Rudachyk"
 			"dynn_Rudnyckyj"
 			"dynn_Rybchuk"
 			"dynn_Samagalski"
 			"dynn_Savaryn"
 			"dynn_Sawchuk"
 			"dynn_Sawkiw"
+			"dynn_Sekulich"
 			"dynn_Sembaliuk"
 			"dynn_Semenko"
 			"dynn_Shalka"
@@ -1137,6 +1191,8 @@ graphical_cultures = {
 			"dynn_Shpylka"
 			"dynn_Shyiak"
 			"dynn_Skeskowicz"
+			"dynn_Skoropad"
+			"dynn_Slemko"
 			"dynn_Smerchanski"
 			"dynn_Smyl"
 			"dynn_Smytaniuk"
@@ -1175,13 +1231,16 @@ graphical_cultures = {
 			"dynn_Uruski"
 			"dynn_Wakaluk"
 			"dynn_Warawa"
+			"dynn_Warwaruk"
 			"dynn_Wawrykow"
 			"dynn_Welechko"
 			"dynn_Wengzynowski"
 			"dynn_Wichenko"
+			"dynn_Wolodko"
 			"dynn_Woloshyn"
 			"dynn_Worobetz"
 			"dynn_Worobey"
+			"dynn_Woron"
 			"dynn_Wowchuk"
 			"dynn_Woycheshin"
 			"dynn_Woytkiw"
@@ -1203,9 +1262,11 @@ graphical_cultures = {
 			"dynn_Yuzyk"
 			"dynn_Zakaluzny"
 			"dynn_Zakordonski"
+			"dynn_Zakreski"
 			"dynn_Zamonsky"
 			"dynn_Zaretski"
 			"dynn_Zasitko"
+			"dynn_Zbraschuk"
 			"dynn_Zazelenchuk"
 			"dynn_Zerebecky"
 			"dynn_Zeschuk"
@@ -1225,13 +1286,13 @@ graphical_cultures = {
 			Fedir Filip Frank
 			Gary Gordon Gregory
 			Harold
-			Ilya Isydore
+			Ihor Illya Isydore Ivan
 			Jaroslaw John Joseph
-			Kyrylo
-			Larry Leonid Louis Lubomyr
-			Maksim Markian Martin Michael Morris Mstyslaw Mykola Myrislaw Myron
+			Karl Kazymyr Kostyantyn Kyrylo
+			Larry Leonid Lorne Louis Lubomyr Lyle
+			Maksim Markian Martin Melvin Michael Morris Mstyslaw Mykhaylo Mykola Myrislaw Myron
 			Nestor Norman
-			Oleh Oleksander Orest Ostap
+			Oleh Oleksander Orest Ostap Osyp
 			Patrick Paul Peter
 			Robert Roman Roy Ruslan
 			Serhiy Severian Slawko Stefan
@@ -1243,20 +1304,24 @@ graphical_cultures = {
 		}
 		female_names = {
 			Anna
-			Darya
-			Erika Evanka
+			Brenda
+			Darya Donna
+			Elizabeth Erika Evanka
 			Franciszka
+			Heather Helen
 			Irena
-			Klazina
-			Larysa Lidiya Luba
-			Marsha Marta Marya Myrna
-			Natalia
-			Oksana Olha Orysia
-			Slavka Svitlana Sylvia
+			Kateryna Kathy Klazina
+			Larysa Leona Lidiya Lilya Linda Luba
+			Marjorie Marsha Marta Marya Maryna Myrna
+			Nadine Nancy Natalia Nicole Nina Norma
+			Oksana Olena Olha Orysia
+			Rachel Romana Rose
+			Sarah Slavka Sofia Stefaniya Svitlana Sylvia
 			Tamara Tatyana
-			Ursula
-			Yana Yevhena
-			Zinayida Zlata
+			Ulyana Ursula
+			Wanda Wendy
+			Yana Yevhena Yuliya
+			Zinayida Zlata Zoya
 		}
 		patronym_suffix_male = "dynnpat_suf_yowych"
 		patronym_suffix_female = "dynnpat_suf_yiwna"
@@ -1272,291 +1337,19 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	20 = caucasian
+	70 = slavic
+	10 = amerindian
+}
 	}
 	
-	plautsdeutsch = {
-		graphical_cultures = {
-			plautsdeutsch_coa_gfx
-		}
-		
-		color = { 0.6 0.6 0.4 }
 	
-		cadet_dynasty_names = {
-			"dynn_Banman"
-			"dynn_Barkman"
-			"dynn_Bartel"
-			"dynn_Bechtel"
-			"dynn_Berg"
-			"dynn_Bergen"
-			"dynn_Bergman"
-			"dynn_Bickert"
-			"dynn_Boehr"
-			"dynn_Brandt"
-			"dynn_Braun"
-			"dynn_Broesky"
-			"dynn_Bueckert"
-			"dynn_Buhler"
-			"dynn_Doerksen"
-			"dynn_Driedger"
-			"dynn_Dueck"
-			"dynn_Engbrecht"
-			"dynn_Enns"
-			"dynn_Epp"
-			"dynn_Erb"
-			"dynn_Esau"
-			"dynn_Falk"
-			"dynn_Fast"
-			"dynn_Fehderau"
-			"dynn_Fehr"
-			"dynn_Friesen"
-			"dynn_Froese"
-			"dynn_Funk"
-			"dynn_Gerbrandt"
-			"dynn_Giesbrecht"
-			"dynn_Goertzen"
-			"dynn_Groening"
-			"dynn_Gruenwald"
-			"dynn_Guenther"
-			"dynn_Hamm"
-			"dynn_Harder"
-			"dynn_Harms"
-			"dynn_Heidebrecht"
-			"dynn_Heinrichs"
-			"dynn_Hiebert"
-			"dynn_Hildebrandt"
-			"dynn_Hoeppner"
-			"dynn_Hoestler"
-			"dynn_Huebner"
-			"dynn_Janzen"
-			"dynn_Kehler"
-			"dynn_Klassen"
-			"dynn_Kleinsasser"
-			"dynn_Koop"
-			"dynn_Kornelsen"
-			"dynn_Kraft"
-			"dynn_Krahn"
-			"dynn_Krause"
-			"dynn_Kroeger"
-			"dynn_Kroetsch"
-			"dynn_Krueger"
-			"dynn_Letkeman"
-			"dynn_Loeppky"
-			"dynn_Loewen"
-			"dynn_Martens"
-			"dynn_Mierau"
-			"dynn_Neufeld"
-			"dynn_Nickel"
-			"dynn_Olfert"
-			"dynn_Pankratz"
-			"dynn_Penner"
-			"dynn_Peters"
-			"dynn_Petkau"
-			"dynn_Plett"
-			"dynn_Poetker"
-			"dynn_Redekop"
-			"dynn_Regehr"
-			"dynn_Reimer"
-			"dynn_Rempel"
-			"dynn_Sawatzky"
-			"dynn_Schantz"
-			"dynn_Schroeder"
-			"dynn_Siemens"
-			"dynn_Snyder"
-			"dynn_Stahlberg"
-			"dynn_Stobbe"
-			"dynn_Stoesz"
-			"dynn_Suderman"
-			"dynn_Thiessen"
-			"dynn_Toews"
-			"dynn_Unger"
-			"dynn_Unrau"
-			"dynn_Unruh"
-			"dynn_Vogt"
-			"dynn_Voth"
-			"dynn_Wall"
-			"dynn_Warkentin"
-			"dynn_Wenger"
-			"dynn_Wiebe"
-			"dynn_Wieler"
-			"dynn_Wiens"
-			"dynn_Yost"
-			"dynn_Zacharias"
-			"dynn_Zehr"
-		}
-		dynasty_names = {
-			"dynn_Banman"
-			"dynn_Barkman"
-			"dynn_Bartel"
-			"dynn_Bechtel"
-			"dynn_Berg"
-			"dynn_Bergen"
-			"dynn_Bergman"
-			"dynn_Bickert"
-			"dynn_Boehr"
-			"dynn_Brandt"
-			"dynn_Braun"
-			"dynn_Broesky"
-			"dynn_Bueckert"
-			"dynn_Buhler"
-			"dynn_Doerksen"
-			"dynn_Driedger"
-			"dynn_Dueck"
-			"dynn_Engbrecht"
-			"dynn_Enns"
-			"dynn_Epp"
-			"dynn_Erb"
-			"dynn_Esau"
-			"dynn_Falk"
-			"dynn_Fast"
-			"dynn_Fehderau"
-			"dynn_Fehr"
-			"dynn_Friesen"
-			"dynn_Froese"
-			"dynn_Funk"
-			"dynn_Gerbrandt"
-			"dynn_Giesbrecht"
-			"dynn_Goertzen"
-			"dynn_Groening"
-			"dynn_Gruenwald"
-			"dynn_Guenther"
-			"dynn_Hamm"
-			"dynn_Harder"
-			"dynn_Harms"
-			"dynn_Heidebrecht"
-			"dynn_Heinrichs"
-			"dynn_Hiebert"
-			"dynn_Hildebrandt"
-			"dynn_Hoeppner"
-			"dynn_Hoestler"
-			"dynn_Huebner"
-			"dynn_Janzen"
-			"dynn_Kehler"
-			"dynn_Klassen"
-			"dynn_Kleinsasser"
-			"dynn_Koop"
-			"dynn_Kornelsen"
-			"dynn_Kraft"
-			"dynn_Krahn"
-			"dynn_Krause"
-			"dynn_Kroeger"
-			"dynn_Kroetsch"
-			"dynn_Krueger"
-			"dynn_Letkeman"
-			"dynn_Loeppky"
-			"dynn_Loewen"
-			"dynn_Martens"
-			"dynn_Mierau"
-			"dynn_Neufeld"
-			"dynn_Nickel"
-			"dynn_Olfert"
-			"dynn_Pankratz"
-			"dynn_Penner"
-			"dynn_Peters"
-			"dynn_Petkau"
-			"dynn_Plett"
-			"dynn_Poetker"
-			"dynn_Redekop"
-			"dynn_Regehr"
-			"dynn_Reimer"
-			"dynn_Rempel"
-			"dynn_Sawatzky"
-			"dynn_Schantz"
-			"dynn_Schroeder"
-			"dynn_Siemens"
-			"dynn_Snyder"
-			"dynn_Stahlberg"
-			"dynn_Stobbe"
-			"dynn_Stoesz"
-			"dynn_Suderman"
-			"dynn_Thiessen"
-			"dynn_Toews"
-			"dynn_Unger"
-			"dynn_Unrau"
-			"dynn_Unruh"
-			"dynn_Vogt"
-			"dynn_Voth"
-			"dynn_Wall"
-			"dynn_Warkentin"
-			"dynn_Wenger"
-			"dynn_Wiebe"
-			"dynn_Wieler"
-			"dynn_Wiens"
-			"dynn_Yost"
-			"dynn_Zacharias"
-			"dynn_Zehr"
-		}
-		
-		male_names = {
-			Abram Adolf Alan Albert Alfred Andreas Armin Arno Art
-			Bart Benno Bernhard Brad Bryan Byron
-			Christian Christopher Cornelius Curwin
-			Dave Delbert Diedrich Dick Dirk Don
-			Earl Ed Elias Elmer Elwin Erhart Erich Ernie Erwin
-			Floyd Franz Fred
-			Garth Gary Gerhard Gregor
-			Hank Hans Harry Helmut Herman Homer Howard
-			Isaac
-			Jakob Joel Johan Jonathan Joseph
-			Karl Kelvin Klaas
-			Leonhard
-			Mark Maurice Menno Matt
-			Nikolai
-			Otto
-			Patrick Paul Peter
-			Ray Reginald Reuben Rob Ron Rudolf
-			Samuel Siegfried Simon Stan Steven
-			Thom
-			Vernon Victor Vincent
-			Werner
-		}
-		female_names = {
-			Abby Aganetha Allison Anne
-			Barbara Becky
-			Candice Carrie Cindy
-			Dora Doris Dorothy
-			Edna Elizabeth Emma Erna Esther
-			Gertrude Greta
-			Hannah Harriet Heather Helen Henrietta
-			Ingrid
-			Jane Janice Judith Julia
-			Katherine
-			Lilly Lisa Lois Lynette
-			Magdalena Marge Martha Mary Miriam
-			Nancy
-			Rachel Rebecca Ruth 
-			Sarah Sophie
-			Wanda
-		}
-		dynasty_of_location_prefix = "dynnp_von"
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 30
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 50
-		mother_name_chance = 10
-		
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
 	doukhobor = {
 		graphical_cultures = {
 			doukhobor_coa_gfx
 		}
 		
-		color = { 0.45 0.6 0.2 }
+			color = { 114 153 51 }
 	
 		cadet_dynasty_names = {
 			"dynn_Abetkoff"
@@ -2160,10 +1953,367 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
+	20 = caucasian
+	80 = slavic
+}
+	}
+	metis = {
+		graphical_cultures = {
+			metis_coa_gfx
 		}
+		
+			color = { 216 127 178 }
+	
+		cadet_dynasty_names = {
+			"dynn_Abrahamson"
+			"dynn_Allard"
+			"dynn_Asham"
+			"dynn_Baikie"
+			"dynn_Beaucage"
+			"dynn_Beauchemin"
+			"dynn_Bellegarde"
+			"dynn_Bellehumeur"
+			"dynn_Bissaillon"
+			"dynn_Blais"
+			"dynn_Blayone"
+			"dynn_Boniface"
+			"dynn_Bottineau"
+			"dynn_Boucher"
+			"dynn_Bourgonje"
+			"dynn_Bourque"
+			"dynn_Bouyer"
+			"dynn_Br_e_act_mault"
+			"dynn_Breland"
+			"dynn_Broatch"
+			"dynn_Bruinooge"
+			"dynn_Bruneau"
+			"dynn_Calahasen"
+			"dynn_Callihoo"
+			"dynn_Cardinal"
+			"dynn_Carri_e_grv_re"
+			"dynn_Chabot"
+			"dynn_Chalifoux"
+			"dynn_Chalizonnce"
+			"dynn_Charpentier"
+			"dynn_Chartrand"
+			"dynn_Chatelain"
+			"dynn_Chenalque"
+			"dynn_Combot"
+			"dynn_Courchene"
+			"dynn_Cuthand"
+			"dynn_Cutknife"
+			"dynn_Dauphinais"
+			"dynn_DeLaRonde"
+			"dynn_DeMontigny"
+			"dynn_Delorme"
+			"dynn_Desjarlais"
+			"dynn_Desrochers"
+			"dynn_Dickson"
+			"dynn_Dimaline"
+			"dynn_Disbrowe"
+			"dynn_Ducharme"
+			"dynn_Duguette"
+			"dynn_Dumont"
+			"dynn_Eklund"
+			"dynn_Erickson"
+			"dynn_Eyolfson"
+			"dynn_Fafard"
+			"dynn_Fayant"
+			"dynn_Firth"
+			"dynn_Fleury"
+			"dynn_Forget"
+			"dynn_Frechette"
+			"dynn_Gardepy"
+			"dynn_Garrioch"
+			"dynn_Geddes"
+			"dynn_Gemerce"
+			"dynn_Goulet"
+			"dynn_Gouvereau"
+			"dynn_Gr_e_act_goire"
+			"dynn_Grant"
+			"dynn_Guiboche"
+			"dynn_Gunn"
+			"dynn_Gustufson"
+			"dynn_Halliday"
+			"dynn_Hivernant"
+			"dynn_Hothwell"
+			"dynn_Houle"
+			"dynn_Hourie"
+			"dynn_Isbister"
+			"dynn_Iserhoff"
+			"dynn_L_e_act_pine"
+			"dynn_LaBoucane"
+			"dynn_Lafert_e_act_"
+			"dynn_Lafleche"
+			"dynn_Lafond"
+			"dynn_Lagimodiere"
+			"dynn_Laurendeau"
+			"dynn_Leost"
+			"dynn_Letendre"
+			"dynn_Loguier"
+			"dynn_Longsneck"
+			"dynn_Mascasin"
+			"dynn_McKweassige"
+			"dynn_McLeod"
+			"dynn_McNarland"
+			"dynn_Menard"
+			"dynn_Mercival"
+			"dynn_Mercredi"
+			"dynn_Merizique"
+			"dynn_Montour"
+			"dynn_Mosionier"
+			"dynn_Nolin"
+			"dynn_Norquay"
+			"dynn_Norris"
+			"dynn_Norwest"
+			"dynn_O_pst_Kweziesai"
+			"dynn_O_pst_Soup"
+			"dynn_O_pst_Toole"
+			"dynn_Ouellette"
+			"dynn_Overvold"
+			"dynn_Parenteau"
+			"dynn_Philippot"
+			"dynn_Poitras"
+			"dynn_Pr_e_act_fontaine"
+			"dynn_Racette"
+			"dynn_Redden"
+			"dynn_Ritchot"
+			"dynn_Rivet"
+			"dynn_Savoyard"
+			"dynn_Sayer"
+			"dynn_Scofield"
+			"dynn_Shanks"
+			"dynn_Singosobie"
+			"dynn_Souray"
+			"dynn_Sourdif"
+			"dynn_Southbranch"
+			"dynn_Supernault"
+			"dynn_Teillet"
+			"dynn_Throssel"
+			"dynn_Tomlinson"
+			"dynn_Tourangean"
+			"dynn_Tourond"
+			"dynn_Tremaudan"
+			"dynn_Trottier"
+			"dynn_Turpel"
+			"dynn_Udgarten"
+			"dynn_Vandal"
+			"dynn_Vautour"
+			"dynn_Vermette"
+			"dynn_Wayshorn"
+			"dynn_Wilkie"
+			"dynn_Zastre"
+			"dynn_Zebeaux"
+			"dynn_Zoldy"
+		}
+		dynasty_names = {
+			"dynn_Abrahamson"
+			"dynn_Allard"
+			"dynn_Asham"
+			"dynn_Baikie"
+			"dynn_Beaucage"
+			"dynn_Beauchemin"
+			"dynn_Bellegarde"
+			"dynn_Bellehumeur"
+			"dynn_Bissaillon"
+			"dynn_Blais"
+			"dynn_Blayone"
+			"dynn_Boniface"
+			"dynn_Bottineau"
+			"dynn_Boucher"
+			"dynn_Bourgonje"
+			"dynn_Bourque"
+			"dynn_Bouyer"
+			"dynn_Br_e_act_mault"
+			"dynn_Breland"
+			"dynn_Broatch"
+			"dynn_Bruinooge"
+			"dynn_Bruneau"
+			"dynn_Calahasen"
+			"dynn_Callihoo"
+			"dynn_Cardinal"
+			"dynn_Carri_e_grv_re"
+			"dynn_Chabot"
+			"dynn_Chalifoux"
+			"dynn_Chalizonnce"
+			"dynn_Charpentier"
+			"dynn_Chartrand"
+			"dynn_Chatelain"
+			"dynn_Chenalque"
+			"dynn_Combot"
+			"dynn_Courchene"
+			"dynn_Cuthand"
+			"dynn_Cutknife"
+			"dynn_Dauphinais"
+			"dynn_DeLaRonde"
+			"dynn_DeMontigny"
+			"dynn_Delorme"
+			"dynn_Desjarlais"
+			"dynn_Desrochers"
+			"dynn_Dickson"
+			"dynn_Dimaline"
+			"dynn_Disbrowe"
+			"dynn_Ducharme"
+			"dynn_Duguette"
+			"dynn_Dumont"
+			"dynn_Eklund"
+			"dynn_Erickson"
+			"dynn_Eyolfson"
+			"dynn_Fafard"
+			"dynn_Fayant"
+			"dynn_Firth"
+			"dynn_Fleury"
+			"dynn_Forget"
+			"dynn_Frechette"
+			"dynn_Gardepy"
+			"dynn_Garrioch"
+			"dynn_Geddes"
+			"dynn_Gemerce"
+			"dynn_Goulet"
+			"dynn_Gouvereau"
+			"dynn_Gr_e_act_goire"
+			"dynn_Grant"
+			"dynn_Guiboche"
+			"dynn_Gunn"
+			"dynn_Gustufson"
+			"dynn_Halliday"
+			"dynn_Hivernant"
+			"dynn_Hothwell"
+			"dynn_Houle"
+			"dynn_Hourie"
+			"dynn_Isbister"
+			"dynn_Iserhoff"
+			"dynn_L_e_act_pine"
+			"dynn_LaBoucane"
+			"dynn_Lafert_e_act_"
+			"dynn_Lafleche"
+			"dynn_Lafond"
+			"dynn_Lagimodiere"
+			"dynn_Laurendeau"
+			"dynn_Leost"
+			"dynn_Letendre"
+			"dynn_Loguier"
+			"dynn_Longsneck"
+			"dynn_Mascasin"
+			"dynn_McKweassige"
+			"dynn_McLeod"
+			"dynn_McNarland"
+			"dynn_Menard"
+			"dynn_Mercival"
+			"dynn_Mercredi"
+			"dynn_Merizique"
+			"dynn_Montour"
+			"dynn_Mosionier"
+			"dynn_Nolin"
+			"dynn_Norquay"
+			"dynn_Norris"
+			"dynn_Norwest"
+			"dynn_O_pst_Kweziesai"
+			"dynn_O_pst_Soup"
+			"dynn_O_pst_Toole"
+			"dynn_Ouellette"
+			"dynn_Overvold"
+			"dynn_Parenteau"
+			"dynn_Philippot"
+			"dynn_Poitras"
+			"dynn_Pr_e_act_fontaine"
+			"dynn_Racette"
+			"dynn_Redden"
+			"dynn_Ritchot"
+			"dynn_Rivet"
+			"dynn_Savoyard"
+			"dynn_Sayer"
+			"dynn_Scofield"
+			"dynn_Shanks"
+			"dynn_Singosobie"
+			"dynn_Souray"
+			"dynn_Sourdif"
+			"dynn_Southbranch"
+			"dynn_Supernault"
+			"dynn_Teillet"
+			"dynn_Throssel"
+			"dynn_Tomlinson"
+			"dynn_Tourangean"
+			"dynn_Tourond"
+			"dynn_Tremaudan"
+			"dynn_Trottier"
+			"dynn_Turpel"
+			"dynn_Udgarten"
+			"dynn_Vandal"
+			"dynn_Vautour"
+			"dynn_Vermette"
+			"dynn_Wayshorn"
+			"dynn_Wilkie"
+			"dynn_Zastre"
+			"dynn_Zebeaux"
+			"dynn_Zoldy"
+		}
+		
+		male_names = {
+			Ad_e_act_lard Albert Alec Alexandre-Antonin Alexis Alexis-Andr_e_act_ Ambroise-Dydime Ambrose Andr_e_act_ Angus Antoine Antonin Arron Arthur August Augustin Axel
+			Baptiste Bernard Brian Bronson Buckley
+			Calvin Capote-Blank Charles Charles-Michel Cl_e_act_ment Clyde Conroy Cuthbert Cuthbert-Louis Cyril
+			Darcy Darren David Delbert Denis Derrick Diom Don Douglas Doyle Duane Dwight Dydime Dylan
+			Eldon Elmer Elz_e_act_ar Ervin Esprit-Errant Eug_e_grv_ne
+			F_e_act_lix Floyd Fran_c_ced_ois Fran_c_ced_ois-Xavier
+			Gabriel Garvin Gaspard G_e_act_d_e_act_on George Gerald Germain Gregory Guillaume
+			Hamelin Harley Henri Hippolyte Honor_e_act_ Honor_e_act_-Jacques Howard
+			Jaco Jacques Jacques-Raphael Jaxon Jean Jean-Baptiste Jess Joe John-Bruce John-Lazarus Jonas Jonathan Jules
+			Keith Kevin Kornai
+			Laird Laurent-Salomon Lawrence Leroy Louis Louis-Hippolyte Louis-Philippe Louis-Riel
+			Malcolm Maxime Michel
+			Norbert
+			Ours-Fou Ovide Ozias
+			Pascal Patrice Paul Perry Pierre Pierre-Narcisse Prosper
+			Ralph Ranald Raoul Ray Ren_e_act_ Ren_e_act_-L_e_act_onidas Rh_e_act_aume Rick Robert Robert-Falcon Rocky Rod Ryan
+			Salomon Shane Sheldon
+			Th_e_act_ophile Theoren Thomas Todd Travis Tyrone
+			Vernon Victor
+			Wade Walter Warren Wayne
+			Xavier
+			Yvon
+			Zetwel
+		}
+		female_names = {
+			Ad_e_grv_le Anabelle Andrea Ang_e_act_lique Arlette Audrey
+			Bernadette Berth Bethsy Blanche Brigitte
+			Carole Celeigh Chantell Charlotte Christine Claire Claudine Colleen
+			Deanna Dominique
+			E_act_l_e_act_onore Elise Evelyn
+			FE_licia Florence Fran_c_ced_oise
+			Gabrielle Gertrude Ginette Gis_e_grv_le
+			H_e_act_l_e_grv_ne Holly
+			Ir_e_grv_ne Isabelle
+			Janet Jennifer Jo-Ann Jocelyne Josephine Josette Juanita Julie Justine
+			Kamala Katherena Kinnie
+			Laura Laurence Laurette L_e_act_opoldine Loretta
+			Madeline Manon Marguerite Marianne Marie Marie-Marguerite Marie-Th_e_act_r_e_grv_se Marilyn Martine Mathilde Maude
+			Nancy Norma
+			Odette Olympe Or_e_act_lie
+			Pauline Pearl Phoenix
+			Rosalie Roseanne Rose-Marie Ruzh
+			Sally Sandra Sarah Sharon Shelly Signa Sonia Sophie Stella Suzanne
+			Thelma Th_e_act_r_e_grv_se
+			Vanessa Virginie Vitaline
+			Yvonne
+			Zo_e_act_
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+		
+		ethnicities = {
+	10 = caucasian
+	20 = amerindian
+	70 = white_indigenous
+}
 	}
 }

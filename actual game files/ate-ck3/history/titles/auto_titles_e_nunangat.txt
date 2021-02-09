@@ -1,0 +1,550 @@
+c_gl_07_nuuk = {
+	2656.1.1 = {
+		holder = character_c_gl_07_nuuk
+	}
+}
+d_kitaa = {
+	2656.1.1 = {
+		holder = character_c_gl_07_nuuk
+	}
+}
+k_greenland = {
+	2656.1.1 = {
+		holder = character_c_gl_07_nuuk
+	}
+}
+e_nunangat = {
+	2656.1.1 = {
+		holder = character_c_gl_07_nuuk
+	}
+}
+
+c_gl_06_sisimiut = {
+	2000.1.1 = {
+	 liege = d_kitaa
+	}
+	2656.1.1 = {
+		holder = character_c_gl_06_sisimiut
+	}
+}
+
+c_gl_03_maniitsoq_kommune = {
+	2000.1.1 = {
+	 liege = d_kitaa
+	}
+	2656.1.1 = {
+		holder = character_c_gl_03_maniitsoq_kommune
+	}
+}
+
+c_gl_03_paamiut_kommuniat = {
+	2000.1.1 = {
+	 liege = d_kitaa
+	}
+	2656.1.1 = {
+		holder = character_c_gl_03_paamiut_kommuniat
+	}
+}
+
+c_gl_03_ilulissat_kommuniat = {
+	2656.1.1 = {
+		holder = character_c_gl_03_ilulissat_kommuniat
+	}
+}
+d_qeqertarsuup = {
+	2000.1.1 = {
+	 liege = k_greenland
+	}
+	2656.1.1 = {
+		holder = character_c_gl_03_ilulissat_kommuniat
+	}
+}
+
+c_gl_11839534_aasiaat_kommuniat = {
+	2000.1.1 = {
+	 liege = d_qeqertarsuup
+	}
+	2656.1.1 = {
+		holder = character_c_gl_11839534_aasiaat_kommuniat
+	}
+}
+
+c_gl_05_uummannaq_kommune = {
+	2000.1.1 = {
+	 liege = d_qeqertarsuup
+	}
+	2656.1.1 = {
+		holder = character_c_gl_05_uummannaq_kommune
+	}
+}
+
+c_gl_03_qeqertarsuaq_kommune = {
+	2000.1.1 = {
+	 liege = d_qeqertarsuup
+	}
+	2656.1.1 = {
+		holder = character_c_gl_03_qeqertarsuaq_kommune
+	}
+}
+
+c_gl_04_qaqortoq = {
+	2656.1.1 = {
+		holder = character_c_gl_04_qaqortoq
+	}
+}
+d_kujalleq = {
+	2000.1.1 = {
+	 liege = k_greenland
+	}
+	2656.1.1 = {
+		holder = character_c_gl_04_qaqortoq
+	}
+}
+
+c_gl_04_narsaq = {
+	2000.1.1 = {
+	 liege = d_kujalleq
+	}
+	2656.1.1 = {
+		holder = character_c_gl_04_narsaq
+	}
+}
+
+c_gl_04_nanortalik = {
+	2000.1.1 = {
+	 liege = d_kujalleq
+	}
+	2656.1.1 = {
+		holder = character_c_gl_04_nanortalik
+	}
+}
+
+c_gl_11839537_upernavik = {
+	2656.1.1 = {
+		holder = character_c_gl_11839537_upernavik
+	}
+}
+d_avannaata = {
+	2000.1.1 = {
+	 liege = k_greenland
+	}
+	2656.1.1 = {
+		holder = character_c_gl_11839537_upernavik
+	}
+}
+
+c_gl_11839537_qaanaaq_kommune = {
+	2000.1.1 = {
+	 liege = d_avannaata
+	}
+	2656.1.1 = {
+		holder = character_c_gl_11839537_qaanaaq_kommune
+	}
+}
+
+c_gl_11839537_kullorsuaq = {
+	2000.1.1 = {
+	 liege = d_avannaata
+	}
+	2656.1.1 = {
+		holder = character_c_gl_11839537_kullorsuaq
+	}
+}
+
+c_sj_21_longyearbyen = {
+	2656.1.1 = {
+		holder = character_c_sj_21_longyearbyen
+	}
+}
+d_sj_21_longyearbyen = {
+	2000.1.1 = {
+	 liege = k_greenland
+	}
+	2656.1.1 = {
+		holder = character_c_sj_21_longyearbyen
+	}
+}
+
+c_ca_nu_iqaluit = {
+	2656.1.1 = {
+		holder = character_c_ca_nu_iqaluit
+	}
+}
+d_qikiqtaaluk = {
+	2656.1.1 = {
+		holder = character_c_ca_nu_iqaluit
+	}
+}
+k_nunavut = {
+	2000.1.1 = {
+	 liege = e_nunangat
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_iqaluit
+	}
+}
+
+c_ca_nu_pangnirtung = {
+	2000.1.1 = {
+	 liege = d_qikiqtaaluk
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_pangnirtung
+	}
+}
+
+c_ca_nu_clyde_river = {
+	2000.1.1 = {
+	 liege = d_qikiqtaaluk
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_clyde_river
+	}
+}
+
+c_ca_nu_nuwata = {
+	2000.1.1 = {
+	 liege = d_qikiqtaaluk
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_nuwata
+	}
+}
+
+c_ca_nt_inuvik = {
+	2656.1.1 = {
+		holder = character_c_ca_nt_inuvik
+	}
+}
+d_inuvik = {
+	2000.1.1 = {
+	 liege = k_nunavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nt_inuvik
+	}
+}
+
+c_ca_nu_kugluktuk = {
+	2000.1.1 = {
+	 liege = d_inuvik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_kugluktuk
+	}
+}
+
+c_ca_nt_stanton = {
+	2000.1.1 = {
+	 liege = d_inuvik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nt_stanton
+	}
+}
+
+c_ca_nt_stanton = {
+	2000.1.1 = {
+	 liege = d_inuvik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nt_stanton
+	}
+}
+
+c_ca_nu_rankin_inlet = {
+	2656.1.1 = {
+		holder = character_c_ca_nu_rankin_inlet
+	}
+}
+d_kivalliq = {
+	2000.1.1 = {
+	 liege = k_nunavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_rankin_inlet
+	}
+}
+
+c_ca_nu_arviat = {
+	2000.1.1 = {
+	 liege = d_kivalliq
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_arviat
+	}
+}
+
+c_ca_nu_baker_lake = {
+	2000.1.1 = {
+	 liege = d_kivalliq
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_baker_lake
+	}
+}
+
+c_ca_nu_coral_harbour = {
+	2000.1.1 = {
+	 liege = d_kivalliq
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_coral_harbour
+	}
+}
+
+c_ca_nu_cambridge_bay = {
+	2656.1.1 = {
+		holder = character_c_ca_nu_cambridge_bay
+	}
+}
+d_kitikmeot = {
+	2000.1.1 = {
+	 liege = k_nunavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_cambridge_bay
+	}
+}
+
+c_ca_nu_gjoa_haven = {
+	2000.1.1 = {
+	 liege = d_kitikmeot
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_gjoa_haven
+	}
+}
+
+c_ca_nu_gjoa_haven = {
+	2000.1.1 = {
+	 liege = d_kitikmeot
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_gjoa_haven
+	}
+}
+
+c_ca_nu_thom_bay = {
+	2000.1.1 = {
+	 liege = d_kitikmeot
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_thom_bay
+	}
+}
+
+c_ca_nu_arctic_bay = {
+	2656.1.1 = {
+		holder = character_c_ca_nu_arctic_bay
+	}
+}
+d_iglulik = {
+	2000.1.1 = {
+	 liege = k_nunavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_arctic_bay
+	}
+}
+
+c_ca_nu_hall_beach = {
+	2000.1.1 = {
+	 liege = d_iglulik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_hall_beach
+	}
+}
+
+c_ca_nu_igloolik = {
+	2000.1.1 = {
+	 liege = d_iglulik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_igloolik
+	}
+}
+
+c_ca_nu_resolute = {
+	2656.1.1 = {
+		holder = character_c_ca_nu_resolute
+	}
+}
+d_arctic_archipelago = {
+	2000.1.1 = {
+	 liege = k_nunavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nu_resolute
+	}
+}
+
+c_labrador_west = {
+	2656.1.1 = {
+		holder = character_c_labrador_west
+	}
+}
+d_caniapiscau = {
+	2656.1.1 = {
+		holder = character_c_labrador_west
+	}
+}
+k_nunavik = {
+	2000.1.1 = {
+	 liege = e_nunangat
+	}
+	2656.1.1 = {
+		holder = character_c_labrador_west
+	}
+}
+
+c_fermont = {
+	2000.1.1 = {
+	 liege = d_caniapiscau
+	}
+	2656.1.1 = {
+		holder = character_c_fermont
+	}
+}
+
+c_schefferville = {
+	2000.1.1 = {
+	 liege = d_caniapiscau
+	}
+	2656.1.1 = {
+		holder = character_c_schefferville
+	}
+}
+
+c_melville = {
+	2656.1.1 = {
+		holder = character_c_melville
+	}
+}
+d_labrador = {
+	2000.1.1 = {
+	 liege = k_nunavik
+	}
+	2656.1.1 = {
+		holder = character_c_melville
+	}
+}
+
+c_cartwright = {
+	2000.1.1 = {
+	 liege = d_labrador
+	}
+	2656.1.1 = {
+		holder = character_c_cartwright
+	}
+}
+
+c_alexis = {
+	2000.1.1 = {
+	 liege = d_labrador
+	}
+	2656.1.1 = {
+		holder = character_c_alexis
+	}
+}
+
+c_ca_qc_salluit = {
+	2656.1.1 = {
+		holder = character_c_ca_qc_salluit
+	}
+}
+d_ungava = {
+	2000.1.1 = {
+	 liege = k_nunavik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_salluit
+	}
+}
+
+c_ca_qc_rivi_re_koksoak = {
+	2000.1.1 = {
+	 liege = d_ungava
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_rivi_re_koksoak
+	}
+}
+
+c_ca_qc_whapmagoostui = {
+	2000.1.1 = {
+	 liege = d_ungava
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_whapmagoostui
+	}
+}
+
+c_ca_qc_whapmagoostui = {
+	2000.1.1 = {
+	 liege = d_ungava
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_whapmagoostui
+	}
+}
+
+c_ca_qc_puvirnituq = {
+	2000.1.1 = {
+	 liege = d_ungava
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_puvirnituq
+	}
+}
+
+c_ca_qc_aupaluk = {
+	2000.1.1 = {
+	 liege = d_ungava
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_aupaluk
+	}
+}
+
+c_ca_qc_kangiqsujuaq = {
+	2000.1.1 = {
+	 liege = d_ungava
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_kangiqsujuaq
+	}
+}
+
+c_ca_nl_hopedale = {
+	2656.1.1 = {
+		holder = character_c_ca_nl_hopedale
+	}
+}
+d_nunatsiavut = {
+	2000.1.1 = {
+	 liege = k_nunavik
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nl_hopedale
+	}
+}
+
+c_ca_nl_moores_harbour = {
+	2000.1.1 = {
+	 liege = d_nunatsiavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nl_moores_harbour
+	}
+}
+
+c_ca_qc_kangiqsualujjuaq = {
+	2000.1.1 = {
+	 liege = d_nunatsiavut
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_kangiqsualujjuaq
+	}
+}

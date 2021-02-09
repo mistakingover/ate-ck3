@@ -11,7 +11,7 @@ graphical_cultures = {
 			west_indian_coa_gfx
 		}
 		
-		color = { 0.0 0.85 0.16 }
+			color = { 0 216 40 }
 	
 		cadet_dynasty_names = {
 			"dynn_Abbot"
@@ -299,18 +299,17 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	90 = african
+	5 = caucasian
+	5 = black_white
+}
 	}
 	calypsonian = {
 		graphical_cultures = {
 			calypsonian_coa_gfx
 		}
 		
-		color = { 0.1 0.9 0.4 }
+			color = { 25 229 102 }
 	
 		cadet_dynasty_names = {
 			"dynn_Alexander"
@@ -556,18 +555,19 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	35 = african
+	25 = indian
+	10 = south indian
+	15 = black_white
+	15 = black_indigenous
+}
 	}
 	bermudian = {
 		graphical_cultures = {
 			bermudian_coa_gfx
 		}
 		
-		color = { 0.1 0.7 0.4 }
+			color = { 25 178 102 }
 	
 		cadet_dynasty_names = {
 			"dynn_Astwood"
@@ -752,18 +752,18 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	55 = african
+	5 = asian
+	30 = caucasian
+	10 = black_white
+}
 	}
 	guyanese = {
 		graphical_cultures = {
 			guyanese_coa_gfx
 		}
 		
-		color = { 0.8 0.7 0.25 }
+			color = { 204 178 63 }
 	
 		cadet_dynasty_names = {
 			"dynn_Ali"
@@ -989,10 +989,14 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	30 = african
+	30 = indian
+	10 = south indian
+	10 = amazonian
+	10 = black_white
+	10 = black_indigenous
+	5 = med_black_ind
+	5 = multiracial
+}
 	}
 }

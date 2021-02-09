@@ -11,7 +11,7 @@ graphical_cultures = {
 			cajun_coa_gfx
 		}
 		
-		color = { 0.7 0.6 0.8 }
+			color = { 178 153 204 }
 	
 		cadet_dynasty_names = {
 			"dynn_Ancelet"
@@ -291,18 +291,18 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	20 = african
+	45 = caucasian
+	5 = med_indigenous
+	30 = black_white
+}
 	}
 	creole = {
 		graphical_cultures = {
 			creole_coa_gfx
 		}
 		
-		color = { 0.4 0.36 0.67 }
+			color = { 102 91 170 }
 	
 		cadet_dynasty_names = {
 			"dynn_Abshire"
@@ -728,10 +728,10 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	45 = african
+	20 = caucasian
+	5 = med_indigenous
+	30 = black_white
+}
 	}
 }

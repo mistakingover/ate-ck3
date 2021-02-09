@@ -1,0 +1,1115 @@
+c_us_ny_new_york_city = {
+	2656.1.1 = {
+		holder = character_c_us_ny_new_york_city
+	}
+}
+d_us_ny_new_york = {
+	2656.1.1 = {
+		holder = character_c_us_ny_new_york_city
+	}
+}
+k_new_york = {
+	2656.1.1 = {
+		holder = character_c_us_ny_new_york_city
+	}
+}
+e_atlantica = {
+	2656.1.1 = {
+		holder = character_c_us_ny_new_york_city
+	}
+}
+
+c_us_ct_stamford = {
+	2000.1.1 = {
+	 liege = d_us_ny_new_york
+	}
+	2656.1.1 = {
+		holder = character_c_us_ct_stamford
+	}
+}
+
+c_brooklyn = {
+	2656.1.1 = {
+		holder = character_c_brooklyn
+	}
+}
+d_long_island = {
+	2000.1.1 = {
+	 liege = k_new_york
+	}
+	2656.1.1 = {
+		holder = character_c_brooklyn
+	}
+}
+
+c_us_ny_hempstead = {
+	2000.1.1 = {
+	 liege = d_long_island
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_hempstead
+	}
+}
+
+c_suffolk = {
+	2000.1.1 = {
+	 liege = d_long_island
+	}
+	2656.1.1 = {
+		holder = character_c_suffolk
+	}
+}
+
+c_us_nj_newark = {
+	2656.1.1 = {
+		holder = character_c_us_nj_newark
+	}
+}
+d_north_jersey = {
+	2000.1.1 = {
+	 liege = k_new_york
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_newark
+	}
+}
+
+c_us_nj_middlesex = {
+	2000.1.1 = {
+	 liege = d_north_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_middlesex
+	}
+}
+
+c_us_nj_brick = {
+	2000.1.1 = {
+	 liege = d_north_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_brick
+	}
+}
+
+c_us_nj_toms_river = {
+	2000.1.1 = {
+	 liege = d_north_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_toms_river
+	}
+}
+
+c_us_nj_sparta = {
+	2000.1.1 = {
+	 liege = d_north_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_sparta
+	}
+}
+
+c_hartford = {
+	2656.1.1 = {
+		holder = character_c_hartford
+	}
+}
+d_connecticut = {
+	2000.1.1 = {
+	 liege = k_new_york
+	}
+	2656.1.1 = {
+		holder = character_c_hartford
+	}
+}
+
+c_quinnipiac = {
+	2000.1.1 = {
+	 liege = d_connecticut
+	}
+	2656.1.1 = {
+		holder = character_c_quinnipiac
+	}
+}
+
+c_norwich = {
+	2000.1.1 = {
+	 liege = d_connecticut
+	}
+	2656.1.1 = {
+		holder = character_c_norwich
+	}
+}
+
+c_us_ct_new_britain = {
+	2000.1.1 = {
+	 liege = d_connecticut
+	}
+	2656.1.1 = {
+		holder = character_c_us_ct_new_britain
+	}
+}
+
+c_quiet_corner = {
+	2000.1.1 = {
+	 liege = d_connecticut
+	}
+	2656.1.1 = {
+		holder = character_c_quiet_corner
+	}
+}
+
+c_us_nj_camden = {
+	2656.1.1 = {
+		holder = character_c_us_nj_camden
+	}
+}
+d_jersey = {
+	2000.1.1 = {
+	 liege = k_new_york
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_camden
+	}
+}
+
+c_us_nj_trenton = {
+	2000.1.1 = {
+	 liege = d_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_trenton
+	}
+}
+
+c_us_nj_mount_laurel = {
+	2000.1.1 = {
+	 liege = d_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_mount_laurel
+	}
+}
+
+c_us_nj_egg_harbor = {
+	2000.1.1 = {
+	 liege = d_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_egg_harbor
+	}
+}
+
+c_us_nj_vineland = {
+	2000.1.1 = {
+	 liege = d_jersey
+	}
+	2656.1.1 = {
+		holder = character_c_us_nj_vineland
+	}
+}
+
+c_us_md_baltimore = {
+	2656.1.1 = {
+		holder = character_c_us_md_baltimore
+	}
+}
+d_maryland = {
+	2656.1.1 = {
+		holder = character_c_us_md_baltimore
+	}
+}
+k_columbia = {
+	2000.1.1 = {
+	 liege = e_atlantica
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_baltimore
+	}
+}
+
+c_us_md_waldorf = {
+	2000.1.1 = {
+	 liege = d_maryland
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_waldorf
+	}
+}
+
+c_us_md_frederick = {
+	2000.1.1 = {
+	 liege = d_maryland
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_frederick
+	}
+}
+
+c_us_md_germantown = {
+	2000.1.1 = {
+	 liege = d_maryland
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_germantown
+	}
+}
+
+c_us_md_hagerstown = {
+	2000.1.1 = {
+	 liege = d_maryland
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_hagerstown
+	}
+}
+
+c_us_dc_washington = {
+	2656.1.1 = {
+		holder = character_c_us_dc_washington
+	}
+}
+d_capital = {
+	2000.1.1 = {
+	 liege = k_columbia
+	}
+	2656.1.1 = {
+		holder = character_c_us_dc_washington
+	}
+}
+
+c_us_pa_philadelphia = {
+	2656.1.1 = {
+		holder = character_c_us_pa_philadelphia
+	}
+}
+d_delaware_valley = {
+	2000.1.1 = {
+	 liege = k_columbia
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_philadelphia
+	}
+}
+
+c_us_de_wilmington = {
+	2000.1.1 = {
+	 liege = d_delaware_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_de_wilmington
+	}
+}
+
+c_us_md_salisbury = {
+	2656.1.1 = {
+		holder = character_c_us_md_salisbury
+	}
+}
+d_delmarva = {
+	2000.1.1 = {
+	 liege = k_columbia
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_salisbury
+	}
+}
+
+c_us_de_dover = {
+	2000.1.1 = {
+	 liege = d_delmarva
+	}
+	2656.1.1 = {
+		holder = character_c_us_de_dover
+	}
+}
+
+c_us_md_easton = {
+	2000.1.1 = {
+	 liege = d_delmarva
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_easton
+	}
+}
+
+c_us_md_pocomoke_city = {
+	2000.1.1 = {
+	 liege = d_delmarva
+	}
+	2656.1.1 = {
+		holder = character_c_us_md_pocomoke_city
+	}
+}
+
+c_boston = {
+	2656.1.1 = {
+		holder = character_c_boston
+	}
+}
+d_boston = {
+	2656.1.1 = {
+		holder = character_c_boston
+	}
+}
+k_new_england = {
+	2000.1.1 = {
+	 liege = e_atlantica
+	}
+	2656.1.1 = {
+		holder = character_c_boston
+	}
+}
+
+c_merrimack = {
+	2000.1.1 = {
+	 liege = d_boston
+	}
+	2656.1.1 = {
+		holder = character_c_merrimack
+	}
+}
+
+c_plymouth = {
+	2000.1.1 = {
+	 liege = d_boston
+	}
+	2656.1.1 = {
+		holder = character_c_plymouth
+	}
+}
+
+c_us_ma_brockton = {
+	2000.1.1 = {
+	 liege = d_boston
+	}
+	2656.1.1 = {
+		holder = character_c_us_ma_brockton
+	}
+}
+
+c_us_ma_worcester = {
+	2656.1.1 = {
+		holder = character_c_us_ma_worcester
+	}
+}
+d_massachusetts = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_us_ma_worcester
+	}
+}
+
+c_providence = {
+	2000.1.1 = {
+	 liege = d_massachusetts
+	}
+	2656.1.1 = {
+		holder = character_c_providence
+	}
+}
+
+c_pioneer_valley = {
+	2000.1.1 = {
+	 liege = d_massachusetts
+	}
+	2656.1.1 = {
+		holder = character_c_pioneer_valley
+	}
+}
+
+c_us_ma_northampton = {
+	2000.1.1 = {
+	 liege = d_massachusetts
+	}
+	2656.1.1 = {
+		holder = character_c_us_ma_northampton
+	}
+}
+
+c_berkshires = {
+	2000.1.1 = {
+	 liege = d_massachusetts
+	}
+	2656.1.1 = {
+		holder = character_c_berkshires
+	}
+}
+
+c_worcester = {
+	2656.1.1 = {
+		holder = character_c_worcester
+	}
+}
+d_white_mountains = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_worcester
+	}
+}
+
+c_monadnock = {
+	2000.1.1 = {
+	 liege = d_white_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_monadnock
+	}
+}
+
+c_concord = {
+	2000.1.1 = {
+	 liege = d_white_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_concord
+	}
+}
+
+c_bennington = {
+	2000.1.1 = {
+	 liege = d_white_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_bennington
+	}
+}
+
+c_white_mountain = {
+	2000.1.1 = {
+	 liege = d_white_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_white_mountain
+	}
+}
+
+c_sebago = {
+	2656.1.1 = {
+		holder = character_c_sebago
+	}
+}
+d_maine = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_sebago
+	}
+}
+
+c_belknap_lakes = {
+	2000.1.1 = {
+	 liege = d_maine
+	}
+	2656.1.1 = {
+		holder = character_c_belknap_lakes
+	}
+}
+
+c_kennebec = {
+	2000.1.1 = {
+	 liege = d_maine
+	}
+	2656.1.1 = {
+		holder = character_c_kennebec
+	}
+}
+
+c_us_me_north_bath = {
+	2000.1.1 = {
+	 liege = d_maine
+	}
+	2656.1.1 = {
+		holder = character_c_us_me_north_bath
+	}
+}
+
+c_burlington = {
+	2656.1.1 = {
+		holder = character_c_burlington
+	}
+}
+d_green_mountains = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_burlington
+	}
+}
+
+c_montpelier = {
+	2000.1.1 = {
+	 liege = d_green_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_montpelier
+	}
+}
+
+c_rutland = {
+	2000.1.1 = {
+	 liege = d_green_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_rutland
+	}
+}
+
+c_newport = {
+	2000.1.1 = {
+	 liege = d_green_mountains
+	}
+	2656.1.1 = {
+		holder = character_c_newport
+	}
+}
+
+c_us_ma_barnstable = {
+	2656.1.1 = {
+		holder = character_c_us_ma_barnstable
+	}
+}
+d_us_ma_barnstable = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_us_ma_barnstable
+	}
+}
+
+c_vineyard = {
+	2000.1.1 = {
+	 liege = d_us_ma_barnstable
+	}
+	2656.1.1 = {
+		holder = character_c_vineyard
+	}
+}
+
+c_nantucket = {
+	2000.1.1 = {
+	 liege = d_us_ma_barnstable
+	}
+	2656.1.1 = {
+		holder = character_c_nantucket
+	}
+}
+
+c_penobscot = {
+	2656.1.1 = {
+		holder = character_c_penobscot
+	}
+}
+d_penobscot = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_penobscot
+	}
+}
+
+c_mount_desert = {
+	2000.1.1 = {
+	 liege = d_penobscot
+	}
+	2656.1.1 = {
+		holder = character_c_mount_desert
+	}
+}
+
+c_st_john_valley = {
+	2000.1.1 = {
+	 liege = d_penobscot
+	}
+	2656.1.1 = {
+		holder = character_c_st_john_valley
+	}
+}
+
+c_passamaquoddy = {
+	2000.1.1 = {
+	 liege = d_penobscot
+	}
+	2656.1.1 = {
+		holder = character_c_passamaquoddy
+	}
+}
+
+c_caribou = {
+	2000.1.1 = {
+	 liege = d_penobscot
+	}
+	2656.1.1 = {
+		holder = character_c_caribou
+	}
+}
+
+c_katahdin = {
+	2656.1.1 = {
+		holder = character_c_katahdin
+	}
+}
+d_us_me_oxford = {
+	2000.1.1 = {
+	 liege = k_new_england
+	}
+	2656.1.1 = {
+		holder = character_c_katahdin
+	}
+}
+
+c_mahoosuc = {
+	2000.1.1 = {
+	 liege = d_us_me_oxford
+	}
+	2656.1.1 = {
+		holder = character_c_mahoosuc
+	}
+}
+
+c_coos = {
+	2000.1.1 = {
+	 liege = d_us_me_oxford
+	}
+	2656.1.1 = {
+		holder = character_c_coos
+	}
+}
+
+c_moosehead = {
+	2000.1.1 = {
+	 liege = d_us_me_oxford
+	}
+	2656.1.1 = {
+		holder = character_c_moosehead
+	}
+}
+
+c_us_ny_ramapo = {
+	2656.1.1 = {
+		holder = character_c_us_ny_ramapo
+	}
+}
+d_hudson_valley = {
+	2656.1.1 = {
+		holder = character_c_us_ny_ramapo
+	}
+}
+k_hudsonia = {
+	2000.1.1 = {
+	 liege = e_atlantica
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_ramapo
+	}
+}
+
+c_dutchess = {
+	2000.1.1 = {
+	 liege = d_hudson_valley
+	}
+	2656.1.1 = {
+		holder = character_c_dutchess
+	}
+}
+
+c_us_ny_kingston = {
+	2000.1.1 = {
+	 liege = d_hudson_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_kingston
+	}
+}
+
+c_us_ny_troy = {
+	2000.1.1 = {
+	 liege = d_hudson_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_troy
+	}
+}
+
+c_columbia = {
+	2000.1.1 = {
+	 liege = d_hudson_valley
+	}
+	2656.1.1 = {
+		holder = character_c_columbia
+	}
+}
+
+c_us_ny_rochester = {
+	2656.1.1 = {
+		holder = character_c_us_ny_rochester
+	}
+}
+d_finger_lakes = {
+	2000.1.1 = {
+	 liege = k_hudsonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_rochester
+	}
+}
+
+c_us_ny_elmira = {
+	2000.1.1 = {
+	 liege = d_finger_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_elmira
+	}
+}
+
+c_us_ny_ithaca = {
+	2000.1.1 = {
+	 liege = d_finger_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_ithaca
+	}
+}
+
+c_us_ny_geneva = {
+	2000.1.1 = {
+	 liege = d_finger_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_geneva
+	}
+}
+
+c_us_ny_albany = {
+	2656.1.1 = {
+		holder = character_c_us_ny_albany
+	}
+}
+d_mohawk_valley = {
+	2000.1.1 = {
+	 liege = k_hudsonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_albany
+	}
+}
+
+c_us_ny_utica = {
+	2000.1.1 = {
+	 liege = d_mohawk_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_utica
+	}
+}
+
+c_us_ny_clifton_park = {
+	2000.1.1 = {
+	 liege = d_mohawk_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_clifton_park
+	}
+}
+
+c_us_ny_syracuse = {
+	2656.1.1 = {
+		holder = character_c_us_ny_syracuse
+	}
+}
+d_onondaga = {
+	2000.1.1 = {
+	 liege = k_hudsonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_syracuse
+	}
+}
+
+c_us_ny_auburn = {
+	2000.1.1 = {
+	 liege = d_onondaga
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_auburn
+	}
+}
+
+c_us_ny_cortland = {
+	2000.1.1 = {
+	 liege = d_onondaga
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_cortland
+	}
+}
+
+c_us_ny_oswego = {
+	2000.1.1 = {
+	 liege = d_onondaga
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_oswego
+	}
+}
+
+c_us_ny_watertown = {
+	2656.1.1 = {
+		holder = character_c_us_ny_watertown
+	}
+}
+d_adirondack = {
+	2000.1.1 = {
+	 liege = k_hudsonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_watertown
+	}
+}
+
+c_us_ny_potsdam = {
+	2000.1.1 = {
+	 liege = d_adirondack
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_potsdam
+	}
+}
+
+c_us_ny_malone = {
+	2000.1.1 = {
+	 liege = d_adirondack
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_malone
+	}
+}
+
+c_us_ny_lowville = {
+	2000.1.1 = {
+	 liege = d_adirondack
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_lowville
+	}
+}
+
+c_us_ny_north_elba = {
+	2000.1.1 = {
+	 liege = d_adirondack
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_north_elba
+	}
+}
+
+c_us_ny_parishville = {
+	2000.1.1 = {
+	 liege = d_adirondack
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_parishville
+	}
+}
+
+c_us_ny_oneonta = {
+	2656.1.1 = {
+		holder = character_c_us_ny_oneonta
+	}
+}
+d_catskill = {
+	2000.1.1 = {
+	 liege = k_hudsonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_oneonta
+	}
+}
+
+c_us_ny_delaware = {
+	2000.1.1 = {
+	 liege = d_catskill
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_delaware
+	}
+}
+
+c_us_ny_amsterdam = {
+	2000.1.1 = {
+	 liege = d_catskill
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_amsterdam
+	}
+}
+
+c_us_ny_queensbury = {
+	2656.1.1 = {
+		holder = character_c_us_ny_queensbury
+	}
+}
+d_champlain = {
+	2000.1.1 = {
+	 liege = k_hudsonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_queensbury
+	}
+}
+
+c_us_ny_plattsburgh = {
+	2000.1.1 = {
+	 liege = d_champlain
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_plattsburgh
+	}
+}
+
+c_us_ny_ticonderoga = {
+	2000.1.1 = {
+	 liege = d_champlain
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_ticonderoga
+	}
+}
+
+c_us_pa_allentown = {
+	2656.1.1 = {
+		holder = character_c_us_pa_allentown
+	}
+}
+d_coalland = {
+	2656.1.1 = {
+		holder = character_c_us_pa_allentown
+	}
+}
+k_deitscherei = {
+	2000.1.1 = {
+	 liege = e_atlantica
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_allentown
+	}
+}
+
+c_us_pa_scranton = {
+	2000.1.1 = {
+	 liege = d_coalland
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_scranton
+	}
+}
+
+c_us_pa_reading = {
+	2000.1.1 = {
+	 liege = d_coalland
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_reading
+	}
+}
+
+c_us_pa_lancaster = {
+	2000.1.1 = {
+	 liege = d_coalland
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_lancaster
+	}
+}
+
+c_us_pa_bloomsburg = {
+	2000.1.1 = {
+	 liege = d_coalland
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_bloomsburg
+	}
+}
+
+c_us_ny_port_jervis = {
+	2000.1.1 = {
+	 liege = d_coalland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_port_jervis
+	}
+}
+
+c_us_pa_harrisburg = {
+	2656.1.1 = {
+		holder = character_c_us_pa_harrisburg
+	}
+}
+d_lower_susquehanna = {
+	2000.1.1 = {
+	 liege = k_deitscherei
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_harrisburg
+	}
+}
+
+c_us_pa_altoona = {
+	2000.1.1 = {
+	 liege = d_lower_susquehanna
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_altoona
+	}
+}
+
+c_us_pa_york = {
+	2000.1.1 = {
+	 liege = d_lower_susquehanna
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_york
+	}
+}
+
+c_us_pa_williamsport = {
+	2656.1.1 = {
+		holder = character_c_us_pa_williamsport
+	}
+}
+d_upper_susquehanna = {
+	2000.1.1 = {
+	 liege = k_deitscherei
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_williamsport
+	}
+}
+
+c_us_ny_union = {
+	2000.1.1 = {
+	 liege = d_upper_susquehanna
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_union
+	}
+}
+
+c_us_pa_sayre = {
+	2000.1.1 = {
+	 liege = d_upper_susquehanna
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_sayre
+	}
+}

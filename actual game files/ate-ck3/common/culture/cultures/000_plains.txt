@@ -1,17 +1,17 @@
 ﻿plains_group = {
-graphical_cultures = {
-	plains_group_gfx
-	steppe_building_gfx
-	mongol_clothing_gfx
-	mongol_unit_gfx
-}
+	graphical_cultures = {
+		plains_group_gfx
+		steppe_building_gfx
+		mongol_clothing_gfx
+		mongol_unit_gfx
+	}
 	
 	comanche = {
 		graphical_cultures = {
 			comanche_coa_gfx
 		}
 		
-		color = { 0.8 0.8 0.9 }
+			color = { 204 204 229 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -85,105 +85,103 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	lakota = {
 		graphical_cultures = {
 			lakota_coa_gfx
 		}
 		
-		color = { 0.9 0.9 0.97 }
+			color = { 229 229 247 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
 		}
 		dynasty_names = {
 			"dynn_C_crn_h_a_act__eng_n_u_act__eng_pa"
+			"dynn_C_crn_ha_eng_t_e_act__Oh_i_act_tika"
+			"dynn_C_crn_ha_eng_t_e_act__s_crn__i_act__c_crn_a"
+			"dynn_C_crn_ha_eng_h_a_act_hake"
+			"dynn_C_crn_a_eng_kahuh_a_act__eng_"
+			"dynn_C_crn_het_a_act__eng__Oh_i_act_tika"
 			"dynn_H_a_act_wah_o_act_ta"
+			"dynn_H_e_act_n_u_act__eng_pa"
 			"dynn_H_u_act__eng_kpapha"
+			"dynn_H_u_act_th_o_act_"
+			"dynn_Heh_a_act_ka_N_u_act__eng_pa"
 			"dynn_Hu_eng_kpatila"
+			"dynn_I_act__eng_ya_eng_haow_i_act_eng_"
+			"dynn_I_act_yak_o_act_za"
 			"dynn_It_a_act_zip_c_crn_ho"
+			"dynn_It_a_act_zipa_s_crn_a"
 			"dynn_It_e_act__s_crn__i_act__c_crn_a"
+			"dynn_K_i_act_yaksa"
+			"dynn_Kha_eng_r_i_act__s_crn__u_act__eng__Ph_e_act_gnaka"
+			"dynn_Kha_eng_r_i_act__Z_a_act_pta_eng_"
+			"dynn_Kha_eng_r_i_act_y_u_act_ha"
+			"dynn_M_a_act_za_Ph_e_act_gnaka"
+			"dynn_Math_o_act__N_u_act__eng_pa"
+			"dynn_Math_o_act__Y_a_act_mni"
 			"dynn_Mni_s_crn__a_act_la"
 			"dynn_Mnikh_o_act_wo_z_crn_u"
+			"dynn_Nir_e_act__Th_a_act__eng_ka"
 			"dynn_Ogl_a_act_la"
 			"dynn_O_i_act_glapta"
 			"dynn_O_o_act_henu_eng_pa"
+			"dynn_Oy_u_act_hpe"
+			"dynn_S_crn_in_a_act__L_u_act_ta_Ow_i_act__eng_"
+			"dynn_S_crn_ik_s_crn__i_act__c_crn_elah"
 			"dynn_S_crn__u_act__eng_ka_Y_u_act_tes_crn_ni"
 			"dynn_Si_c_crn_h_a_act__eng_ru"
 			"dynn_Sih_a_act_sapa"
+			"dynn_Th_i_act_yopa_C_crn_a_eng__u_act_pa"
+			"dynn_Tha_s_crn__u_act__eng_ke_Z_a_act_pta_eng_"
+			"dynn_Tha_s_crn__u_act__eng_ke_Z_i_act_"
+			"dynn_Thal_o_act__Y_u_act_ta"
 			"dynn_Thath_a_act__eng_ka_C_crn_hesl_i_act_"
+			"dynn_Thath_a_act__eng_ka_N_u_act__eng_pa"
+			"dynn_Thath_a_act__eng_ka_Wa_eng__z_crn__i_act_"
+			"dynn_Thez_i_act__Th_a_act__eng_ka"
+			"dynn_U_eng_k_c_crn__e_act__Y_u_act_ta"
 			"dynn_W_a_act__eng__Naw_e_act_ra"
+			"dynn_W_a_act_gluhe"
+			"dynn_W_i_act_yake_Sk_a_act_"
+			"dynn_Wa_z_crn_a_z_crn_a"
+			"dynn_Wagl_e_act_za_Ow_i_act__eng_"
+			"dynn_Wakpoki_eng_y_a_act__eng_"
+			"dynn_Wamn_u_act_h_pst_a_Ow_i_act__eng_"
 			"dynn_Wan_u_act__eng_waktenula"
-			
-			"dynn_Apewantanka"
-			"dynn_C_crn_hokatowela"
-			"dynn_Ca_eng_kahuha_eng_"
-			"dynn_Glaglaheca"
-			"dynn_Hohe"
-			"dynn_Hokayuta"
-			"dynn_Ihanktonwan"
-			"dynn_Inyanhaoin"
-			"dynn_Iyakoza"
-			"dynn_Kangi_shun_pegnake"
-			"dynn_Kha_eng_r_i_act_yuha"
-			"dynn_Kiyaksa"
-			"dynn_Kuinyan"
-			"dynn_Makaicu"
-			"dynn_Maza_pegnaka"
-			"dynn_Nakhpakhpa"
-			"dynn_Nige_Tanka"
-			"dynn_Payabya"
-			"dynn_Pispizawichasha"
-			"dynn_Oyupe"
-			"dynn_Shawala"
-			"dynn_Shinaluta"
-			"dynn_Shiyolanka"
-			"dynn_Siksicela"
-			"dynn_Tapi_s_crn_leca"
-			"dynn_Tatanka_Cesli"
-			"dynn_Tiyopa_Canupa"
-			"dynn_Unkche_yuta"
-			"dynn_Wacheunpa"
-			"dynn_Wagleza_oin"
-			"dynn_Wagluhe"
-			"dynn_Waka_eng_"
-			"dynn_Wakpokinyan"
-			"dynn_Waleghaunwohan"
-			"dynn_Wamnuga_Owin"
-			"dynn_Wazhazha"
-			"dynn_Wolutayuta"
+			"dynn_Zi_eng_tk_a_act_la_Z_i_act_"
 		}
 		
-		
-		#Antelope: Thath_o_act_ka, Bear Math_o_act_, Bull: Thath_a_act__eng_ka, Crow: Kha_eng_r_i_act_, Deer: Hu_s_crn_t_e_act_, Dog: S_crn__u_act__eng_ka, Elk: Heh_a_act_ka, Hair: Pheh_i_act__eng_, Hawk: C_crn_het_a_act__eng_, Horse: Tha_s_crn__u_act__eng_ke, 
+		#Antelope: Thath_o_act_ka, Bear Math_o_act_, Bull: Thath_a_act__eng_ka, Crow: Kha_eng_r_i_act_, Deer: Th_a_act_h_c_crn_a, Dog: S_crn__u_act__eng_ka, Elk: Heh_a_act_ka, Hair: Pheh_i_act__eng_, Hawk: C_crn_het_a_act__eng_, Horse: Tha_s_crn__u_act__eng_ke, 
 		#Black: S_a_act_pa Charging: Wath_a_act_kpe, Conquering: Way_u_act_hi, Iron: M_a_act_za, Jumping: Naps_i_act_ca, Kicking: Wan_a_act_htake, Little: C_crn__i_act_k_pst_ala, Red: L_u_act_ta or S_crn__a_act_, Running: I_act__eng_ya_eng_ke, Spotted: Gle_s_crn_k_a_act_, White: Sk_a_act_, Yellow: Z_i_act_
 		#woman: wi_eng_
 		male_names = {
-			C_crn_a_eng_k_a_act__Wa_eng_k_a_act_tuya C_crn_eh_u_act_pa C_crn_h_a_act__eng__O_act_ha_eng_ C_crn_het_a_act__eng__C_crn__i_act_k_pst_ala C_crn_het_a_act__eng__Ki_eng_y_a_act__eng_ C_crn_het_a_act__eng__S_a_act_pa C_crn_het_a_act__eng__Z_i_act_
-			H_u_act__eng_ke_s_crn_ni Heh_a_act_ka_Gle_s_crn_k_a_act_ Heh_a_act_ka_I_act__eng_ya_eng_ke Heh_a_act_ka_Ph_a_act_ Heh_a_act_ka_S_a_act_pa Hew_a_act__eng__z_crn_i_c_crn_a
-			It_e_act__Om_a_act_ra_z_crn_u Ith_a_act__eng_ka
+			C_crn_a_eng_k_a_act__Wa_eng_k_a_act_tuya C_crn_eh_u_act_pa C_crn_h_a_act__eng__O_act_ha_eng_ C_crn_ha_eng_l_i_act_ C_crn_het_a_act__eng__C_crn__i_act_k_pst_ala C_crn_het_a_act__eng__Ki_eng_y_a_act__eng_ C_crn_het_a_act__eng__S_a_act_pa C_crn_het_a_act__eng__Sk_a_act_ C_crn_het_a_act__eng__Z_i_act_
+			Gnugn_u_act__s_crn_ka
+			H_e_act__Wa_eng__z_crn__i_act_ H_u_act__eng_ke_s_crn_ni Heh_a_act_ka_Gle_s_crn_k_a_act_ Heh_a_act_ka_I_act__eng_ya_eng_ke Heh_a_act_ka_Ph_a_act_ Heh_a_act_ka_S_a_act_pa Hew_a_act__eng__z_crn_i_c_crn_a
+			I_act__eng_ya_eng__S_a_act_pa It_e_act__Om_a_act_ra_z_crn_u Ith_a_act__eng_ka
 			Kha_eng_r_i_act__C_crn__i_act_k_pst_ala Kha_eng_r_i_act__I_act_yotake Kha_eng_r_i_act__Ki_eng_y_a_act__eng_ Kha_eng_r_i_act__M_a_act_za Kha_eng_r_i_act__S_crn__u_act__eng_ka Kha_eng_r_i_act__Y_a_act_tapi
-			Mahp_i_act_ya_H_e_act_ Mahp_i_act_ya_I_act_yapat_pst_o Mahp_i_act_ya_I_c_crn__a_act_htagya Mahp_i_act_ya_L_u_act_ta Mahp_i_act_ya_M_a_act_za Mar_a_act_ska Math_o_act__C_crn__i_act_k_pst_ala Math_o_act__C_crn_huth_u_act_hu Math_o_act__H_e_act_hlore_c_crn_a Math_o_act__Nakp_a_act_ Math_o_act__N_a_act__z_crn_i_eng_ Math_o_act__S_a_act_pa Math_o_act__Wan_a_act_htake Math_o_act__Wath_a_act_kpe Math_o_act__Way_u_act_hi Math_o_act__Z_i_act_ Miw_a_act_tani_H_a_act__eng_ska Mn_i_act__N_i_act__c_crn_a
+			Mahp_i_act_ya_H_e_act_ Mahp_i_act_ya_I_act_yapat_pst_o Mahp_i_act_ya_I_c_crn__a_act_htagya Mahp_i_act_ya_L_u_act_ta Mahp_i_act_ya_M_a_act_za Mar_a_act_ska Mar_a_act_ska_Sk_a_act_ Math_o_act__C_crn__i_act_k_pst_ala Math_o_act__C_crn_huth_u_act_hu Math_o_act__H_e_act_hlore_c_crn_a Math_o_act__Nakp_a_act_ Math_o_act__N_a_act__z_crn_i_eng_ Math_o_act__Oh_i_act_tika Math_o_act__S_a_act_pa Math_o_act__Wan_a_act_htake Math_o_act__Wath_a_act_kpe Math_o_act__Way_u_act_hi Math_o_act__Z_i_act_ Miw_a_act_tani_H_a_act__eng_ska Mn_i_act__N_i_act__c_crn_a
 			N_u_act_m_Kahp_a_act_
 			O_act_gle_S_crn__a_act_ O_act_ta_Kt_e_act_
 			Pheh_i_act__eng__S_crn__a_act_ Pheh_i_act__eng__Yuh_a_act_ha Pheh_i_act__eng__Z_i_act_ Phiz_i_act_ Pteh_e_act__W_o_act_ptuh_pst_a
-			S_crn__o_act_ta S_crn__u_act__eng_ka_Blok_a_act_ S_crn__u_act__eng_ka_Gle_s_crn_k_a_act_ S_crn__u_act__eng_ka_I_act__eng_ya_eng_ke S_crn__u_act__eng_ka_Kh_u_act__c_crn_iyela S_crn__u_act__eng_ka_S_a_act_pa S_crn__u_act__eng_ka_Z_i_act_ Si_eng_t_e_act__M_a_act_za Si_eng_t_e_act__Gle_s_crn_k_a_act_ Si_eng_t_e_act__Sk_a_act_ Si_Th_a_act__eng_ka
-			Th_a_act_h_c_crn_a_Hu_s_crn_t_e_act_ Th_a_act_wih_a_act__eng_bla_Kpar_o_act_ Tha_o_act_pi__C_crn__i_act_k_pst_ala Tha_s_crn__u_act__eng_ke Tha_s_crn__u_act__eng_ke_Gle_s_crn_k_a_act_ Tha_s_crn__u_act__eng_ke_I_act__eng_ya_eng_ke Tha_s_crn__u_act__eng_ke_Khok_i_act_phapi Tha_s_crn__u_act__eng_ke_L_u_act_ta Tha_s_crn__u_act__eng_ke_Naps_i_act_ca Tha_s_crn__u_act__eng_ke_Wan_a_act_htake Tha_s_crn__u_act__eng_ke_Wath_a_act_kpe Tha_s_crn__u_act__eng_ke_Way_u_act_hi Tha_s_crn__u_act__eng_ke_Witk_o_act_ Thah_u_act__Wan_i_act__c_crn_e That_e_act_iyumni Thath_a_act__eng_ka_C_crn_ha_eng_t_e_act__s_crn_i_c_crn_a Thath_a_act__eng_ka_I_act__eng_ya_eng_ke Thath_a_act__eng_ka_I_act_yotake Thath_a_act__eng_ka_N_a_act__z_crn_i_eng_ Thath_a_act__eng_ka_Naps_i_act_ca Thath_a_act__eng_ka_Ph_a_act_ Thath_a_act__eng_ka_Pt_e_act__c_crn_ela Thath_a_act__eng_ka_S_a_act_pa Thath_a_act__eng_ka_Sk_a_act_ Thath_a_act__eng_ka_Wa_eng__z_crn__i_act_la Thath_a_act__eng_ka_Wath_a_act_kpe Thath_o_act_ka_I_act__eng_ya_eng_ke Thok_e_act_ya_In_a_act__z_crn_i_eng_ Tukiha_M_a_act_za
-			W_i_act__S_a_act_pa W_i_act_hin_a_act_pha Wa_eng_bl_i_act__C_crn__i_act_k_pst_ala Wa_eng_bl_i_act__Ki_eng_y_a_act__eng_ Wa_eng_bl_i_act__Kte Wa_eng_bl_i_act__L_u_act_ta Wa_eng_bl_i_act__S_a_act_pa Wa_eng_bl_i_act__Ta_H_o_act_coka_Wa_s_crn_t_e_act_ Wa_eng_bl_i_act__Waph_a_act_ha Wa_s_crn__i_act__c_crn__eng__Tha_s_crn__u_act__eng_ke Wagl_u_act_la Wah_a_act__c_crn_ha_eng_ka_L_u_act_ta Wah_a_act__c_crn_ha_eng_ka_S_a_act_pa Wah_u_act_kheza_Sk_a_act_ Wak_i_act__eng_ya_eng__C_crn__i_act_k_pst_ala Was_u_act__M_a_act_za Wi_c_crn_h_a_act__s_crn_a_Th_a_act__eng_kala
+			S_crn__o_act_ta S_crn__u_act__eng_ka_Blok_a_act_ S_crn__u_act__eng_ka_Gle_s_crn_k_a_act_ S_crn__u_act__eng_ka_I_act__eng_ya_eng_ke S_crn__u_act__eng_ka_Kh_u_act__c_crn_iyela S_crn__u_act__eng_ka_L_u_act_ta S_crn__u_act__eng_ka_Oh_i_act_tika S_crn__u_act__eng_ka_S_a_act_pa S_crn__u_act__eng_ka_Z_i_act_ Si_eng_t_e_act__M_a_act_za Si_eng_t_e_act__Gle_s_crn_k_a_act_ Si_eng_t_e_act__Sk_a_act_ Si_Th_a_act__eng_ka
+			Th_a_act_h_c_crn_a_Hu_s_crn_t_e_act_ Th_a_act_wih_a_act__eng_bla_Kpar_o_act_ Tha_o_act_pi__C_crn__i_act_k_pst_ala Tha_s_crn__u_act__eng_ke Tha_s_crn__u_act__eng_ke_Gle_s_crn_k_a_act_ Tha_s_crn__u_act__eng_ke_I_act__eng_ya_eng_ke Tha_s_crn__u_act__eng_ke_Khok_i_act_phapi Tha_s_crn__u_act__eng_ke_L_u_act_ta Tha_s_crn__u_act__eng_ke_Naps_i_act_ca Tha_s_crn__u_act__eng_ke_Th_o_act_ Tha_s_crn__u_act__eng_ke_Wan_a_act_htake Tha_s_crn__u_act__eng_ke_Wath_a_act_kpe Tha_s_crn__u_act__eng_ke_Way_u_act_hi Tha_s_crn__u_act__eng_ke_Witk_o_act_ Thah_u_act__Wan_i_act__c_crn_e Tham_i_act_laph_e_act__s_crn_ni That_e_act_iyumni Thath_a_act__eng_ka_C_crn_ha_eng_t_e_act__s_crn_i_c_crn_a Thath_a_act__eng_ka_I_act__eng_ya_eng_ke Thath_a_act__eng_ka_I_act_yotake Thath_a_act__eng_ka_N_a_act__z_crn_i_eng_ Thath_a_act__eng_ka_Naps_i_act_ca Thath_a_act__eng_ka_Oh_i_act_tika Thath_a_act__eng_ka_Ph_a_act_ Thath_a_act__eng_ka_Pt_e_act__c_crn_ela Thath_a_act__eng_ka_S_a_act_pa Thath_a_act__eng_ka_Sk_a_act_ Thath_a_act__eng_ka_Wa_eng__z_crn__i_act_la Thath_a_act__eng_ka_Wath_a_act_kpe Thath_o_act_ka_I_act__eng_ya_eng_ke Thez_i_act__Hle_c_crn__a_act_ha_eng_ Thok_e_act_ya_In_a_act__z_crn_i_eng_ Tukiha_M_a_act_za
+			W_a_act__c_crn_hi_eng_hi_eng__L_u_act_ta W_i_act__S_a_act_pa W_i_act_hin_a_act_pha Wa_eng__z_crn__i_act_ni_C_crn_ha_eng_t_e_act_ Wa_eng_bl_i_act__C_crn__i_act_k_pst_ala Wa_eng_bl_i_act__Ki_eng_y_a_act__eng_ Wa_eng_bl_i_act__Kte Wa_eng_bl_i_act__L_u_act_ta Wa_eng_bl_i_act__Oh_i_act_tika Wa_eng_bl_i_act__S_a_act_pa Wa_eng_bl_i_act__Ta_H_o_act_coka_Wa_s_crn_t_e_act_ Wa_eng_bl_i_act__Th_a_act__eng_ka Wa_eng_bl_i_act__Waph_a_act_ha Wa_s_crn__i_act__c_crn__eng__Tha_s_crn__u_act__eng_ke Wagl_u_act_la Wagm_e_act_za Wah_a_act__c_crn_ha_eng_ka_L_u_act_ta Wah_a_act__c_crn_ha_eng_ka_S_a_act_pa Wah_u_act_kheza_Sk_a_act_ Wak_i_act__eng_ya_eng__C_crn__i_act_k_pst_ala Wamn_u_act_h_pst_a_M_a_act_za Was_u_act__M_a_act_za Wi_c_crn_h_a_act__s_crn_a_Th_a_act__eng_kala
 		}
 		female_names = {
 			A_i_act__c_crn_amna-wi_eng_
-			H_e_act_hlore_c_crn_a_Wi_eng_ Hi_eng_h_a_act__eng__Wa_s_crn_t_e_act__Wi_eng_
+			C_crn_ha_eng_k_u_act__Wa_s_crn_t_e_act__Wi_eng_
+			H_e_act__M_a_act_za_Wi_eng_ H_e_act_hlore_c_crn_a_Wi_eng_ Hi_eng_h_a_act__eng__Wa_s_crn_t_e_act__Wi_eng_
 			Igl_a_act_ka-wi_eng_ Ith_u_act__eng_kasa_eng__Wa_s_crn_t_e_act_la
-			Mahp_i_act_ya_Bor_a_act__eng_wi_eng_ Mniy_a_act_ta_O_z_crn__a_act__eng__z_crn_a_eng__Wi_eng_
+			Mahp_i_act_ya_Bor_a_act__eng_wi_eng_ Mahp_i_act_ya_Sk_a_act_Wi_eng_ Mniy_a_act_ta_O_z_crn__a_act__eng__z_crn_a_eng__Wi_eng_
 			Khok_i_act_phapiwi_eng_
 			S_crn__u_act__eng_ka_Gle_s_crn_k_a_act__Wi_eng_
-			Th_a_act_h_c_crn_a_Gle_s_crn_k_a_act__Wi_eng_ Th_a_act_h_c_crn_a_I_act__eng_ya_eng_ke_Wi_eng_ Tha_s_crn__i_act_na_Hlahl_a_act__Wi_eng_ Tha_s_crn__i_act_na_L_u_act_ta_Wi_eng_ Tha_s_crn__i_act_na_M_a_act_ni Tha_s_crn__i_act_na_S_a_act_pa_Wi_eng_ Tha_s_crn__u_act__eng_ke_O_act_ta-wi_eng_ Thah_o_act__Kahw_o_act_ka-wi_eng_ Thath_a_act__eng_ka_S_a_act_pawi_eng_
+			Th_a_act_h_c_crn_a_Gle_s_crn_k_a_act__Wi_eng_ Th_a_act_h_c_crn_a_I_act__eng_ya_eng_ke_Wi_eng_ Tha_s_crn__i_act_na_Hlahl_a_act__Wi_eng_ Tha_s_crn__i_act_na_L_u_act_ta_Wi_eng_ Tha_s_crn__i_act_na_M_a_act_ni Tha_s_crn__i_act_na_S_a_act_pa_Wi_eng_ Tha_s_crn__u_act__eng_ke_Gle_s_crn_k_a_act__Wi_eng_ Tha_s_crn__u_act__eng_ke_O_act_ta-wi_eng_ Thah_o_act__Kahw_o_act_ka-wi_eng_ Thath_a_act__eng_ka_S_a_act_pawi_eng_
 			W_i_act_gmu_eng_ke_Wa_s_crn_t_e_act__Wi_eng_ Wa_eng_bl_i_act__Ay_u_act_tepiwi_eng_ Wa_s_crn__i_act__c_crn_uwi_eng_
 		}
 		
@@ -198,18 +196,16 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	dakota = {
 		graphical_cultures = {
 			dakota_coa_gfx
 		}
 		
-		color = { 0.81 0.83 0.91 }
+			color = { 206 211 232 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -264,18 +260,16 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	crow = {
 		graphical_cultures = {
 			crow_coa_gfx
 		}
 		
-		color = { 0.8 0.4 0.4 }
+			color = { 204 102 102 }
 	
 		cadet_dynasty_names = {
 			"dynn_Ammitaalassh_e_act_"
@@ -348,18 +342,16 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	blackfoot = {
 		graphical_cultures = {
 			blackfoot_coa_gfx
 		}
 		
-		color = { 0.3 0.3 0.4 }
+			color = { 76 76 102 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -386,31 +378,88 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	cheyenne = {
 		graphical_cultures = {
 			cheyenne_coa_gfx
 		}
 		
-		color = { 0.30 0.45 0.63 }
+			color = { 76 114 160 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
 		}
 		dynasty_names = {
-			
+			"dynn_Ansk_o_act_w_i_hat_n_i_hat_s"
+			"dynn_Bear_Comes_Out"
+			"dynn_Blackowl"
+			"dynn_E_act__s_crn_e_pst_he_Ohn_e_act__s_crn_esestse"
+			"dynn_Elk_Shoulder"
+			"dynn_Fire_Crow"
+			"dynn_H_a_act_ov_o_act_hn_o_act_vahese"
+			"dynn_H_o_act_nowa"
+			"dynn_He_e_act_v_a_hat_hetaneo_pst_o"
+			"dynn_Hes_e_act__pst_ome_e_act_taneo_pst_o"
+			"dynn_Heviksnipahis"
+			"dynn_Ho_pst_n_e_act_hevotoom_a_act_he"
+			"dynn_Hot_o_act_a_pst__o_hat_xh_a_act_a_pst__e_hat_staestse"
+			"dynn_Inkanish"
+			"dynn_K_a_hat_ham_a_hat_x_e_act_ve_o_act_ht_a_act_he"
+			"dynn_Killsnight"
+			"dynn_Limberhand"
+			"dynn_Little_Thunder"
+			"dynn_Littlebear"
+			"dynn_Littlebird"
+			"dynn_M_o_hat_s_e_act__s_crn_kanets_e_act_noon_a_act_he"
+			"dynn_Maseh_a_act_voo_pst_x_e_act_n_e_act_he"
+			"dynn_Masikota"
+			"dynn_Mo_pst__o_hat_htavetoo_pst_o"
+			"dynn_Mo_pst__o_hat_ht_a_act_voheomen_e_act_no"
+			"dynn_Mots_e_hat_s_o_act_one"
+			"dynn_N_a_act__pst_kuimana"
+			"dynn_Nestamen_o_act_oheo_pst_o"
+			"dynn_Notameohm_e_act_s_e_hat_hese"
+			"dynn_O_act__pst_k_o_hat_h_o_act_m_o_hat_xh_a_act_ahketa"
+			"dynn_O_act_noneo_pst_o"
+			"dynn_O_act_nonev_o_act_o_pst_x_e_act_n_e_act_he"
+			"dynn_O_e_act_vemanaho"
+			"dynn_Om_i_act_sis"
+			"dynn_Oo_pst_k_o_act_hta_pst_on_a_act_"
+			"dynn_S_o_act__pst_taeo_pst_o"
+			"dynn_Shoulderblade"
+			"dynn_Spang"
+			"dynn_T_u_act_toiman_a_act_h"
+			"dynn_Ts_e_act_ts_e_hat_h_e_act_st_a_hat_hese"
+			"dynn_V_o_act__o_act_h_e_act_h_e_act_ve"
+			"dynn_V_o_act_hko_pst_x_e_act_n_e_act_he"
+			"dynn_V_o_act_hpoom_e_act_taneo_pst_o"
+			"dynn_W_o_act_hkpotsit"
+			"dynn_Wot_a_act_pio"
 		}
 		
 		male_names = {
-			
+			Bently
+			David
+			Edgar
+			George
+			Hachivi Harvey Henry Honanisto
+			John
+			Levi
+			Merlin Minimic
+			Ochinee Okuhatuh
+			Peter
+			Richard
+			Walter William
 		}
 		female_names = {
-			
+			Amache
+			Bethany
+			Eyophsta
+			Margaret Mochi Monahsetah
+			Nanessan Nomee
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -424,18 +473,16 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	kiowa = {
 		graphical_cultures = {
 			kiowa_coa_gfx
 		}
 		
-		color = {  0.91 0.83 0.71 }
+			color = { 232 211 181 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -556,18 +603,16 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	arapaho = {
 		graphical_cultures = {
 			arapaho_coa_gfx
 		}
 		
-		color = { 0.89 0.81 0.76 }
+			color = { 226 206 193 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -594,18 +639,16 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 	dhegihan = {
 		graphical_cultures = {
 			dhegihan_coa_gfx
 		}
 		
-		color = { 0.94 0.81 0.69 }
+			color = { 239 206 175 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -632,10 +675,44 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
+	75 = amerindian
+	25 = white_indigenous
+}
+	}
+	plains_cree = {
+		graphical_cultures = {
+			plains_cree_coa_gfx
 		}
+		
+			color = { 76 102 229 }
+	
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		ethnicities = {
+	75 = amerindian
+	25 = white_indigenous
+}
 	}
 }

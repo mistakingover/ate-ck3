@@ -191,13 +191,21 @@ coat_of_arms_template_lists = {
 		# African Paganism - Single charge, geometrical patterns
 		special_selection = {
 			trigger = {
-				#coa_african_religion_trigger = yes
-				always = no
+				OR = {
+					scope:culture = { has_graphical_culture = amazonico_group_gfx }
+					scope:culture = { has_graphical_culture = guarani_group_gfx }
+					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
+					scope:culture = { has_graphical_culture = nortista_group_gfx }
+					scope:culture = { has_graphical_culture = caribeno_group_gfx }
+					scope:culture = { has_graphical_culture = mesoamerican_group_gfx }
+					scope:culture = { has_graphical_culture = mayan_group_gfx }
+				}
 			}
-			2000 = basic_african_template
-			2000 = basic_african_template_inverted	
-			2000 = circled_african_template
-			2000 = circled_african_template_inverted
+			250 = basic_african_template
+			250 = basic_african_template_inverted	
+			500 = circled_african_template
+			500 = circled_african_template_inverted
 			2500 = geometrical_african_template
 			2500 = geometrical_african_template_inverted					
 		}		
@@ -285,6 +293,7 @@ coat_of_arms_template_lists = {
 				OR = {
 					scope:culture = { has_graphical_culture = nortista_group_gfx }
 					scope:culture = { has_graphical_culture = nordestino_group_gfx }
+					scope:culture = { has_graphical_culture = estino_group_gfx }
 					scope:culture = { has_graphical_culture = sudestino_group_gfx }
 					scope:culture = { has_graphical_culture = centrestino_group_gfx }
 					scope:culture = { has_graphical_culture = sulista_group_gfx }

@@ -1,4 +1,4 @@
-rioplatense_group = {
+﻿rioplatense_group = {
 graphical_cultures = {
 	rioplatense_group_gfx
 	mediterranean_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			urbuguayo_coa_gfx
 		}
 
-		color = { 0.18 1.0 1.0 }
+			color = { 45 255 255 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -210,18 +210,23 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	7 = african
+	2 = arab
+	10 = caucasian
+	50 = mediterranean
+	5 = slavic
+	2 = amazonian
+	20 = med_indigenous
+	4 = black_white
+	1 = white_asian
+}
 	}
 	litoraleno = {
 		graphical_cultures = {
 			litoraleno_coa_gfx
 		}
 
-		color = { 0.49 0.73 1.0 }
+			color = { 124 186 255 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -446,18 +451,22 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	2 = arab
+	5 = caucasian
+	50 = mediterranean
+	5 = slavic
+	5 = amazonian
+	25 = med_indigenous
+	5 = white_indigenous
+	2 = white_asian
+}
 	}
 	porteno = {
 		graphical_cultures = {
 			porteno_coa_gfx
 		}
 
-		color = { 0.48 0.89 0.97 }
+			color = { 122 226 247 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -632,18 +641,22 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	2 = arab
+	10 = caucasian
+	50 = mediterranean
+	5 = slavic
+	25 = med_indigenous
+	5 = white_indigenous
+	2 = black_white
+	2 = white_asian
+}
 	}
 	pampeano = {
 		graphical_cultures = {
 			pampeano_coa_gfx
 		}
 
-		color = { 0.25 0.58 0.66 }
+			color = { 63 147 168 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -882,10 +895,14 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	2 = arab
+	10 = caucasian
+	55 = mediterranean
+	5 = slavic
+	20 = med_indigenous
+	5 = white_indigenous
+	2 = black_white
+	2 = white_asian
+}
 	}
 }

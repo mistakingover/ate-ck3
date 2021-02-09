@@ -1,0 +1,1021 @@
+c_us_wa_seattle = {
+	2656.1.1 = {
+		holder = character_c_us_wa_seattle
+	}
+}
+d_us_wa_king = {
+	2656.1.1 = {
+		holder = character_c_us_wa_seattle
+	}
+}
+k_cascadia = {
+	2656.1.1 = {
+		holder = character_c_us_wa_seattle
+	}
+}
+e_cascadia = {
+	2656.1.1 = {
+		holder = character_c_us_wa_seattle
+	}
+}
+
+c_us_wa_mount_vernon = {
+	2000.1.1 = {
+	 liege = d_us_wa_king
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_mount_vernon
+	}
+}
+
+c_us_wa_bellingham = {
+	2000.1.1 = {
+	 liege = d_us_wa_king
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_bellingham
+	}
+}
+
+c_us_wa_creek = {
+	2000.1.1 = {
+	 liege = d_us_wa_king
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_creek
+	}
+}
+
+c_us_wa_darrington = {
+	2000.1.1 = {
+	 liege = d_us_wa_king
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_darrington
+	}
+}
+
+c_us_or_portland = {
+	2656.1.1 = {
+		holder = character_c_us_or_portland
+	}
+}
+d_us_or_washington = {
+	2000.1.1 = {
+	 liege = k_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_portland
+	}
+}
+
+c_us_or_tigard = {
+	2000.1.1 = {
+	 liege = d_us_or_washington
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_tigard
+	}
+}
+
+c_us_or_corvallis = {
+	2000.1.1 = {
+	 liege = d_us_or_washington
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_corvallis
+	}
+}
+
+c_us_or_astoria = {
+	2000.1.1 = {
+	 liege = d_us_or_washington
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_astoria
+	}
+}
+
+c_us_or_tillamook = {
+	2000.1.1 = {
+	 liege = d_us_or_washington
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_tillamook
+	}
+}
+
+c_us_or_gresham = {
+	2656.1.1 = {
+		holder = character_c_us_or_gresham
+	}
+}
+d_us_or_multnomah = {
+	2000.1.1 = {
+	 liege = k_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_gresham
+	}
+}
+
+c_us_wa_vancouver = {
+	2000.1.1 = {
+	 liege = d_us_or_multnomah
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_vancouver
+	}
+}
+
+c_us_or_keizer = {
+	2000.1.1 = {
+	 liege = d_us_or_multnomah
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_keizer
+	}
+}
+
+c_us_or_the_dalles = {
+	2000.1.1 = {
+	 liege = d_us_or_multnomah
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_the_dalles
+	}
+}
+
+c_us_or_government_camp = {
+	2000.1.1 = {
+	 liege = d_us_or_multnomah
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_government_camp
+	}
+}
+
+c_us_or_salem = {
+	2656.1.1 = {
+		holder = character_c_us_or_salem
+	}
+}
+d_us_or_lane = {
+	2000.1.1 = {
+	 liege = k_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_salem
+	}
+}
+
+c_us_or_eugene = {
+	2000.1.1 = {
+	 liege = d_us_or_lane
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_eugene
+	}
+}
+
+c_us_or_cottage_grove = {
+	2000.1.1 = {
+	 liege = d_us_or_lane
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_cottage_grove
+	}
+}
+
+c_us_or_sweet_home = {
+	2000.1.1 = {
+	 liege = d_us_or_lane
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_sweet_home
+	}
+}
+
+c_us_or_oakridge = {
+	2000.1.1 = {
+	 liege = d_us_or_lane
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_oakridge
+	}
+}
+
+c_us_or_coburg = {
+	2000.1.1 = {
+	 liege = d_us_or_lane
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_coburg
+	}
+}
+
+c_us_wa_olympia = {
+	2656.1.1 = {
+		holder = character_c_us_wa_olympia
+	}
+}
+d_us_wa_pierce = {
+	2000.1.1 = {
+	 liege = k_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_olympia
+	}
+}
+
+c_us_wa_graham = {
+	2000.1.1 = {
+	 liege = d_us_wa_pierce
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_graham
+	}
+}
+
+c_us_wa_longview = {
+	2000.1.1 = {
+	 liege = d_us_wa_pierce
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_longview
+	}
+}
+
+c_us_wa_aberdeen = {
+	2000.1.1 = {
+	 liege = d_us_wa_pierce
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_aberdeen
+	}
+}
+
+c_us_wa_raymond = {
+	2000.1.1 = {
+	 liege = d_us_wa_pierce
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_raymond
+	}
+}
+
+c_us_wa_woodland = {
+	2000.1.1 = {
+	 liege = d_us_wa_pierce
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_woodland
+	}
+}
+
+c_us_wa_bremerton = {
+	2656.1.1 = {
+		holder = character_c_us_wa_bremerton
+	}
+}
+d_us_wa_kitsap = {
+	2000.1.1 = {
+	 liege = k_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_bremerton
+	}
+}
+
+c_us_wa_port_angeles = {
+	2000.1.1 = {
+	 liege = d_us_wa_kitsap
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_port_angeles
+	}
+}
+
+c_us_wa_hoquiam = {
+	2000.1.1 = {
+	 liege = d_us_wa_kitsap
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_hoquiam
+	}
+}
+
+c_us_wa_forks = {
+	2000.1.1 = {
+	 liege = d_us_wa_kitsap
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_forks
+	}
+}
+
+c_ca_bc_vancouver = {
+	2656.1.1 = {
+		holder = character_c_ca_bc_vancouver
+	}
+}
+d_lower_mainland = {
+	2656.1.1 = {
+		holder = character_c_ca_bc_vancouver
+	}
+}
+k_beecee = {
+	2000.1.1 = {
+	 liege = e_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_vancouver
+	}
+}
+
+c_ca_bc_surrey = {
+	2000.1.1 = {
+	 liege = d_lower_mainland
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_surrey
+	}
+}
+
+c_ca_bc_coquitlam = {
+	2000.1.1 = {
+	 liege = d_lower_mainland
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_coquitlam
+	}
+}
+
+c_ca_bc_chilliwack = {
+	2000.1.1 = {
+	 liege = d_lower_mainland
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_chilliwack
+	}
+}
+
+c_beyond_hope = {
+	2000.1.1 = {
+	 liege = d_lower_mainland
+	}
+	2656.1.1 = {
+		holder = character_c_beyond_hope
+	}
+}
+
+c_ca_bc_victoria = {
+	2656.1.1 = {
+		holder = character_c_ca_bc_victoria
+	}
+}
+d_vancouver_island = {
+	2000.1.1 = {
+	 liege = k_beecee
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_victoria
+	}
+}
+
+c_ca_bc_nanaimo = {
+	2000.1.1 = {
+	 liege = d_vancouver_island
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_nanaimo
+	}
+}
+
+c_ca_bc_vernon = {
+	2000.1.1 = {
+	 liege = d_vancouver_island
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_vernon
+	}
+}
+
+c_ca_bc_campbell_river = {
+	2000.1.1 = {
+	 liege = d_vancouver_island
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_campbell_river
+	}
+}
+
+c_us_wa_san_juan = {
+	2000.1.1 = {
+	 liege = d_vancouver_island
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_san_juan
+	}
+}
+
+c_sunshine_coast = {
+	2656.1.1 = {
+		holder = character_c_sunshine_coast
+	}
+}
+d_central_coast = {
+	2000.1.1 = {
+	 liege = k_beecee
+	}
+	2656.1.1 = {
+		holder = character_c_sunshine_coast
+	}
+}
+
+c_sea_to_sky = {
+	2000.1.1 = {
+	 liege = d_central_coast
+	}
+	2656.1.1 = {
+		holder = character_c_sea_to_sky
+	}
+}
+
+c_ca_bc_read_island = {
+	2000.1.1 = {
+	 liege = d_central_coast
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_read_island
+	}
+}
+
+c_us_wa_spokane = {
+	2656.1.1 = {
+		holder = character_c_us_wa_spokane
+	}
+}
+d_us_wa_spokane = {
+	2656.1.1 = {
+		holder = character_c_us_wa_spokane
+	}
+}
+k_lincoln = {
+	2000.1.1 = {
+	 liege = e_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_spokane
+	}
+}
+
+c_us_wa_pasco = {
+	2000.1.1 = {
+	 liege = d_us_wa_spokane
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_pasco
+	}
+}
+
+c_us_wa_pullman = {
+	2000.1.1 = {
+	 liege = d_us_wa_spokane
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_pullman
+	}
+}
+
+c_us_wa_moses_lake = {
+	2000.1.1 = {
+	 liege = d_us_wa_spokane
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_moses_lake
+	}
+}
+
+c_us_wa_ephrata = {
+	2000.1.1 = {
+	 liege = d_us_wa_spokane
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_ephrata
+	}
+}
+
+c_us_wa_bridgeport = {
+	2000.1.1 = {
+	 liege = d_us_wa_spokane
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_bridgeport
+	}
+}
+
+c_us_wa_yakima = {
+	2656.1.1 = {
+		holder = character_c_us_wa_yakima
+	}
+}
+d_us_wa_yakima = {
+	2000.1.1 = {
+	 liege = k_lincoln
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_yakima
+	}
+}
+
+c_us_wa_kennewick = {
+	2000.1.1 = {
+	 liege = d_us_wa_yakima
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_kennewick
+	}
+}
+
+c_us_wa_wenatchee = {
+	2000.1.1 = {
+	 liege = d_us_wa_yakima
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_wenatchee
+	}
+}
+
+c_us_wa_sunnyside = {
+	2000.1.1 = {
+	 liege = d_us_wa_yakima
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_sunnyside
+	}
+}
+
+c_us_wa_goldendale = {
+	2000.1.1 = {
+	 liege = d_us_wa_yakima
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_goldendale
+	}
+}
+
+c_us_mt_butte_silver_bow = {
+	2656.1.1 = {
+		holder = character_c_us_mt_butte_silver_bow
+	}
+}
+d_clearwater = {
+	2000.1.1 = {
+	 liege = k_lincoln
+	}
+	2656.1.1 = {
+		holder = character_c_us_mt_butte_silver_bow
+	}
+}
+
+c_us_mt_butte_silver_bow = {
+	2000.1.1 = {
+	 liege = d_clearwater
+	}
+	2656.1.1 = {
+		holder = character_c_us_mt_butte_silver_bow
+	}
+}
+
+c_us_id_coeur_d_alene = {
+	2000.1.1 = {
+	 liege = d_clearwater
+	}
+	2656.1.1 = {
+		holder = character_c_us_id_coeur_d_alene
+	}
+}
+
+c_flathead = {
+	2000.1.1 = {
+	 liege = d_clearwater
+	}
+	2656.1.1 = {
+		holder = character_c_flathead
+	}
+}
+
+c_us_id_sandpoint = {
+	2000.1.1 = {
+	 liege = d_clearwater
+	}
+	2656.1.1 = {
+		holder = character_c_us_id_sandpoint
+	}
+}
+
+c_us_id_saint_maries = {
+	2000.1.1 = {
+	 liege = d_clearwater
+	}
+	2656.1.1 = {
+		holder = character_c_us_id_saint_maries
+	}
+}
+
+c_us_or_hermiston = {
+	2656.1.1 = {
+		holder = character_c_us_or_hermiston
+	}
+}
+d_us_or_umatilla = {
+	2000.1.1 = {
+	 liege = k_lincoln
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_hermiston
+	}
+}
+
+c_us_wa_walla_walla = {
+	2000.1.1 = {
+	 liege = d_us_or_umatilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_walla_walla
+	}
+}
+
+c_us_or_la_grande = {
+	2000.1.1 = {
+	 liege = d_us_or_umatilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_la_grande
+	}
+}
+
+c_us_or_enterprise = {
+	2000.1.1 = {
+	 liege = d_us_or_umatilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_enterprise
+	}
+}
+
+c_us_or_john_day = {
+	2000.1.1 = {
+	 liege = d_us_or_umatilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_john_day
+	}
+}
+
+c_us_or_bend = {
+	2656.1.1 = {
+		holder = character_c_us_or_bend
+	}
+}
+d_us_or_deschutes = {
+	2000.1.1 = {
+	 liege = k_lincoln
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_bend
+	}
+}
+
+c_us_or_redmond = {
+	2000.1.1 = {
+	 liege = d_us_or_deschutes
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_redmond
+	}
+}
+
+c_us_or_deschutes_river = {
+	2000.1.1 = {
+	 liege = d_us_or_deschutes
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_deschutes_river
+	}
+}
+
+c_us_or_burns = {
+	2000.1.1 = {
+	 liege = d_us_or_deschutes
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_burns
+	}
+}
+
+c_us_or_madras = {
+	2000.1.1 = {
+	 liege = d_us_or_deschutes
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_madras
+	}
+}
+
+c_us_or_harper = {
+	2000.1.1 = {
+	 liege = d_us_or_deschutes
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_harper
+	}
+}
+
+c_us_id_post_falls = {
+	2656.1.1 = {
+		holder = character_c_us_id_post_falls
+	}
+}
+d_us_wa_stevens = {
+	2000.1.1 = {
+	 liege = k_lincoln
+	}
+	2656.1.1 = {
+		holder = character_c_us_id_post_falls
+	}
+}
+
+c_us_wa_omak = {
+	2000.1.1 = {
+	 liege = d_us_wa_stevens
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_omak
+	}
+}
+
+c_us_wa_inchelium = {
+	2000.1.1 = {
+	 liege = d_us_wa_stevens
+	}
+	2656.1.1 = {
+		holder = character_c_us_wa_inchelium
+	}
+}
+
+c_shuswap = {
+	2656.1.1 = {
+		holder = character_c_shuswap
+	}
+}
+d_okanagan = {
+	2656.1.1 = {
+		holder = character_c_shuswap
+	}
+}
+k_caledonia = {
+	2000.1.1 = {
+	 liege = e_cascadia
+	}
+	2656.1.1 = {
+		holder = character_c_shuswap
+	}
+}
+
+c_kelowna = {
+	2000.1.1 = {
+	 liege = d_okanagan
+	}
+	2656.1.1 = {
+		holder = character_c_kelowna
+	}
+}
+
+c_kamloops = {
+	2000.1.1 = {
+	 liege = d_okanagan
+	}
+	2656.1.1 = {
+		holder = character_c_kamloops
+	}
+}
+
+c_ca_bc_oliver = {
+	2000.1.1 = {
+	 liege = d_okanagan
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_oliver
+	}
+}
+
+c_similkameen = {
+	2000.1.1 = {
+	 liege = d_okanagan
+	}
+	2656.1.1 = {
+		holder = character_c_similkameen
+	}
+}
+
+c_koocanusa = {
+	2656.1.1 = {
+		holder = character_c_koocanusa
+	}
+}
+d_kootenay = {
+	2000.1.1 = {
+	 liege = k_caledonia
+	}
+	2656.1.1 = {
+		holder = character_c_koocanusa
+	}
+}
+
+c_banff = {
+	2000.1.1 = {
+	 liege = d_kootenay
+	}
+	2656.1.1 = {
+		holder = character_c_banff
+	}
+}
+
+c_kootenai = {
+	2000.1.1 = {
+	 liege = d_kootenay
+	}
+	2656.1.1 = {
+		holder = character_c_kootenai
+	}
+}
+
+c_kokanee = {
+	2000.1.1 = {
+	 liege = d_kootenay
+	}
+	2656.1.1 = {
+		holder = character_c_kokanee
+	}
+}
+
+c_yoho = {
+	2000.1.1 = {
+	 liege = d_kootenay
+	}
+	2656.1.1 = {
+		holder = character_c_yoho
+	}
+}
+
+c_prince_george = {
+	2656.1.1 = {
+		holder = character_c_prince_george
+	}
+}
+d_omineca = {
+	2000.1.1 = {
+	 liege = k_caledonia
+	}
+	2656.1.1 = {
+		holder = character_c_prince_george
+	}
+}
+
+c_bulkley = {
+	2000.1.1 = {
+	 liege = d_omineca
+	}
+	2656.1.1 = {
+		holder = character_c_bulkley
+	}
+}
+
+c_robson = {
+	2000.1.1 = {
+	 liege = d_omineca
+	}
+	2656.1.1 = {
+		holder = character_c_robson
+	}
+}
+
+c_robson = {
+	2000.1.1 = {
+	 liege = d_omineca
+	}
+	2656.1.1 = {
+		holder = character_c_robson
+	}
+}
+
+c_nechako = {
+	2000.1.1 = {
+	 liege = d_omineca
+	}
+	2656.1.1 = {
+		holder = character_c_nechako
+	}
+}
+
+c_nechako = {
+	2000.1.1 = {
+	 liege = d_omineca
+	}
+	2656.1.1 = {
+		holder = character_c_nechako
+	}
+}
+
+c_pine_pass = {
+	2000.1.1 = {
+	 liege = d_omineca
+	}
+	2656.1.1 = {
+		holder = character_c_pine_pass
+	}
+}
+
+c_ca_bc_williams_lake = {
+	2656.1.1 = {
+		holder = character_c_ca_bc_williams_lake
+	}
+}
+d_cariboo = {
+	2000.1.1 = {
+	 liege = k_caledonia
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_williams_lake
+	}
+}
+
+c_cariboo = {
+	2000.1.1 = {
+	 liege = d_cariboo
+	}
+	2656.1.1 = {
+		holder = character_c_cariboo
+	}
+}
+
+c_chilcotin = {
+	2000.1.1 = {
+	 liege = d_cariboo
+	}
+	2656.1.1 = {
+		holder = character_c_chilcotin
+	}
+}
+
+c_lillooet = {
+	2000.1.1 = {
+	 liege = d_cariboo
+	}
+	2656.1.1 = {
+		holder = character_c_lillooet
+	}
+}
+
+c_thompson_valley = {
+	2000.1.1 = {
+	 liege = d_cariboo
+	}
+	2656.1.1 = {
+		holder = character_c_thompson_valley
+	}
+}
+
+c_ca_bc_trail = {
+	2656.1.1 = {
+		holder = character_c_ca_bc_trail
+	}
+}
+d_monashee = {
+	2000.1.1 = {
+	 liege = k_caledonia
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_trail
+	}
+}
+
+c_boundary = {
+	2000.1.1 = {
+	 liege = d_monashee
+	}
+	2656.1.1 = {
+		holder = character_c_boundary
+	}
+}
+
+c_selkirk = {
+	2000.1.1 = {
+	 liege = d_monashee
+	}
+	2656.1.1 = {
+		holder = character_c_selkirk
+	}
+}

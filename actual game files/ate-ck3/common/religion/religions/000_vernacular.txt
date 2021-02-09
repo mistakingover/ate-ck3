@@ -1,4 +1,4 @@
-vernacular_religion = {
+﻿vernacular_religion = {
 	family = rf_pagan
 	graphical_faith = pagan_gfx
 
@@ -201,11 +201,35 @@ vernacular_religion = {
 
 	faiths = {
 		revelationist = {
-			color = hsv { 0.6 0.7 0.4 }
+			color = { 153 178 102 }
 			icon = revelationist
 			reformed_icon = revelationist_reformed
 
 			doctrine = unreformed_faith_doctrine
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_serpentine_strength
+		}
+		exovedate = {
+			color = { 244 168 150 }
+			icon = exovedate
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_serpentine_strength
+		}
+		cross_faith = {
+			color = { 178 0 127 }
+			icon = cross_faith
+
+			doctrine = tenet_esotericism
+			doctrine = tenet_christian_syncretism
+			doctrine = tenet_serpentine_strength
+		}
+		peyotist = {
+			color = { 255 96 22 }
+			icon = peyotist
 
 			doctrine = tenet_esotericism
 			doctrine = tenet_christian_syncretism

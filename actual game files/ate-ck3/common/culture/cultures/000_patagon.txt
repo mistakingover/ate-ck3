@@ -1,4 +1,4 @@
-patagon_group = {
+﻿patagon_group = {
 graphical_cultures = {
 	patagon_group_gfx
 	steppe_building_gfx
@@ -11,7 +11,7 @@ graphical_cultures = {
 			desertico_coa_gfx
 		}
 
-		color = { 0.5 0.48 0.07 }
+			color = { 127 122 17 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -171,18 +171,19 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	25 = caucasian
+	35 = mediterranean
+	10 = patagonian
+	15 = med_indigenous
+	15 = white_indigenous
+}
 	}
 	santacruceno = {
 		graphical_cultures = {
 			santacruceno_coa_gfx
 		}
 
-		color = { 0.92 0.95 0.37 }
+			color = { 234 242 94 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -315,18 +316,19 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = byzantine
+	15 = caucasian
+	40 = mediterranean
+	10 = patagonian
+	25 = med_indigenous
+}
 	}
 	australino = {
 		graphical_cultures = {
 			australino_coa_gfx
 		}
 
-		color = { 0.74 0.71 0.28 }
+			color = { 188 181 71 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -505,10 +507,11 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = byzantine
+	15 = mediterranean
+	25 = patagonian
+	40 = med_indigenous
+	5 = white_indigenous
+}
 	}
 }

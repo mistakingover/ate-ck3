@@ -1,0 +1,19 @@
+﻿
+culture_era_tribal = {
+	year = 0
+}
+
+culture_era_early_medieval = {	
+	year = 2500
+	invalid_for_government = tribal_government
+}
+
+culture_era_high_medieval = {
+	year = 2650
+	invalid_for_government = tribal_government
+}
+
+culture_era_late_medieval = {
+	year = 2800
+	invalid_for_government = tribal_government
+}

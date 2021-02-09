@@ -11,7 +11,7 @@ graphical_cultures = {
 			paisa_coa_gfx
 		}
 		
-		color = { 0.71 0.64 0.4 }
+			color = { 181 163 102 }
 	
 		cadet_dynasty_names = {
 			"dynn_A_act_lvarez"
@@ -359,18 +359,18 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	40 = mediterranean
+	45 = med_indigenous
+	10 = black_white
+}
 	}
 	gocho = {
 		graphical_cultures = {
 			gocho_coa_gfx
 		}
 		
-		color = { 0.95 0.82 0.38 }
+			color = { 242 209 96 }
 	
 		cadet_dynasty_names = {
 			"dynn_Acosti"
@@ -614,18 +614,17 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	40 = mediterranean
+	50 = med_indigenous
+	10 = black_white
+}
 	}
 	cachaco = {
 		graphical_cultures = {
 			cachaco_coa_gfx
 		}
 		
-		color = { 0.85 0.71 0.18 }
+			color = { 216 181 45 }
 	
 		cadet_dynasty_names = {
 			"dynn_A_act_lvarez"
@@ -950,18 +949,17 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	40 = mediterranean
+	55 = med_indigenous
+	5 = black_white
+}
 	}
 	valluno = {
 		graphical_cultures = {
 			valluno_coa_gfx
 		}
 		
-		color = { 0.71 0.55 0.0 }
+			color = { 181 140 0 }
 	
 		cadet_dynasty_names = {
 			"dynn_A_act_lvarez"
@@ -1228,18 +1226,18 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	20 = mediterranean
+	50 = med_indigenous
+	20 = black_white
+}
 	}
 	llanero = {
 		graphical_cultures = {
 			llanero_coa_gfx
 		}
 		
-		color = { 0.66 0.59 0.34 }
+			color = { 168 150 86 }
 	
 		cadet_dynasty_names = {
 			"dynn_Aguilar"
@@ -1586,18 +1584,19 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	30 = mediterranean
+	10 = amazonian
+	40 = med_indigenous
+	10 = black_white
+}
 	}
 	pastuso = {
 		graphical_cultures = {
 			pastuso_coa_gfx
 		}
 		
-		color = { 0.83 0.73 0.39 }
+			color = { 211 186 99 }
 	
 		cadet_dynasty_names = {
 			"dynn_Achicanoy"
@@ -1796,18 +1795,19 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = african
+	30 = mediterranean
+	10 = amazonian
+	40 = med_indigenous
+	10 = black_white
+}
 	}
 	opitas = {
 		graphical_cultures = {
 			opitas_coa_gfx
 		}
 		
-		color = { 0.47 0.36 0.0 }
+			color = { 119 91 0 }
 	
 		cadet_dynasty_names = {
 			"dynn_A_act_lape"
@@ -1972,10 +1972,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	40 = mediterranean
+	10 = amazonian
+	47 = med_indigenous
+	3 = black_white
+}
 	}
 }

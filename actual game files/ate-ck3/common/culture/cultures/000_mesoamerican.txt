@@ -8,12 +8,9 @@ graphical_cultures = {
 	nahua = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.31 0.55 0.81 }
+	25 = med_indigenous
+}
+			color = { 79 140 206 }
 
 		male_names = {
 			
@@ -35,12 +32,11 @@ graphical_cultures = {
 	mixtec = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.1 0.7 0.7 }
+	5 = african
+	25 = med_indigenous
+	5 = black_indigenous
+}
+			color = { 25 178 178 }
 
 		male_names = {
 			
@@ -62,12 +58,11 @@ graphical_cultures = {
 	zapotec = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
-		color = { 0.1 0.4 0.5 }
+	5 = african
+	25 = med_indigenous
+	5 = black_indigenous
+}
+			color = { 25 102 127 }
 
 		male_names = {
 			
@@ -89,12 +84,250 @@ graphical_cultures = {
 	purepecha = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
+	25 = med_indigenous
+}
+			color = { 127 102 229 }
+
+		male_names = {
+			
 		}
-		color = { 0.5 0.4 0.9 }
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	mazatec = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 132 227 184 }
+			
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Alej_a_act_ndrez"
+			"dynn_Alfaro"
+			"dynn_Anastacio"
+			"dynn_Andrade"
+			"dynn_Aniceto"
+			"dynn_Apolonio"
+			"dynn_Arista"
+			"dynn_Atilano"
+			"dynn_Ayuso"
+			"dynn_Azamar"
+			"dynn_Bartolo"
+			"dynn_Becerril"
+			"dynn_Bello"
+			"dynn_Betanzos"
+			"dynn_Bibiano"
+			"dynn_Bola_n_tld_os"
+			"dynn_Bonfil"
+			"dynn_Bonifacio"
+			"dynn_Cabanzo"
+			"dynn_Calixto"
+			"dynn_Calleja"
+			"dynn_Calvo"
+			"dynn_Canseco"
+			"dynn_Carretero"
+			"dynn_Casiano"
+			"dynn_Casimiro"
+			"dynn_Catarino"
+			"dynn_Cecilio"
+			"dynn_Cerqueda"
+			"dynn_Cervantes"
+			"dynn_Chazarez"
+			"dynn_Cirilo"
+			"dynn_Crisanto"
+			"dynn_Cuesta"
+			"dynn_Daza"
+			"dynn_Delfino"
+			"dynn_Dionicio"
+			"dynn_Dorantes"
+			"dynn_Escudero"
+			"dynn_Eslava"
+			"dynn_Estrada"
+			"dynn_Feliciano"
+			"dynn_Filio"
+			"dynn_Gamboa"
+			"dynn_Garc_i_act_a"
+			"dynn_Gavito"
+			"dynn_Gracida"
+			"dynn_Granados"
+			"dynn_Granja"
+			"dynn_Gregorio"
+			"dynn_Guerrero"
+			"dynn_Hermenegildo"
+			"dynn_Herr_a_act_n"
+			"dynn_Hilario"
+			"dynn_Ignacio"
+			"dynn_Ildefonso"
+			"dynn_Imbilimbo"
+			"dynn_Isidro"
+			"dynn_Juan"
+			"dynn_Juli_a_act_n"
+			"dynn_Justo"
+			"dynn_Laureano"
+			"dynn_Lerdo"
+			"dynn_Lezama"
+			"dynn_Manuel"
+			"dynn_Mariano"
+			"dynn_Mart_i_act_n"
+			"dynn_Miram_o_act_n"
+			"dynn_Montalvo"
+			"dynn_Monterrubio"
+			"dynn_Morelos"
+			"dynn_Moreno"
+			"dynn_Nava"
+			"dynn_Nieto"
+			"dynn_Norberto"
+			"dynn_Olmos"
+			"dynn_Pantale_o_act_n"
+			"dynn_Pantoja"
+			"dynn_Pascual"
+			"dynn_Pastel_i_act_n"
+			"dynn_Patricio"
+			"dynn_Pereda"
+			"dynn_Pineda"
+			"dynn_Pioquinto"
+			"dynn_Prisciliano"
+			"dynn_Quintanar"
+			"dynn_Quirino"
+			"dynn_Quiroga"
+			"dynn_Quizam_a_act_n"
+			"dynn_R_e_act_gules"
+			"dynn_Rafael"
+			"dynn_Rebollar"
+			"dynn_Remolino"
+			"dynn_Rocha"
+			"dynn_Rosalino"
+			"dynn_Sabino"
+			"dynn_Sebasti_a_act_n"
+			"dynn_Severiano"
+			"dynn_Silvar_a_act_n"
+			"dynn_Sim_o_act_n"
+			"dynn_Te_o_act_filo"
+			"dynn_Tejeda"
+			"dynn_Teodoro"
+			"dynn_Ter_a_act_n"
+			"dynn_Tereso"
+			"dynn_Terrero"
+			"dynn_Valladares"
+			"dynn_Victoriano"
+			"dynn_Vidauria"
+			"dynn_Zaragoza"
+		}
+
+		male_names = {
+			Alberto
+			Leonardo
+			Pedro
+			Ricardo
+		}
+
+		female_names = {
+			Ana
+			Mar_i_act_a
+			Sabina
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	mixe = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 128 203 219 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	chinantec = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 24 134 173 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	huastec = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 66 47 174 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	huichol = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 17 23 173 }
 
 		male_names = {
 			

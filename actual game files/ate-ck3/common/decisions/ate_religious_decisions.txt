@@ -73,6 +73,9 @@ call_constituent_assembly_decision = {
 			has_doctrine_parameter = enables_constituent_assembly
 		}
 		has_title = d_caudillo_patria_grande
+		NOT = {
+			has_character_flag = assembly_once_lifetime
+		}
 	}
 
 	is_valid = {
@@ -89,6 +92,12 @@ call_constituent_assembly_decision = {
 	effect = {
 		trigger_event = ate_religious_decision.81
 		custom_tooltip = call_constituent_assembly_effect
+		set_global_variable = {
+			name = recent_constituent_assembly
+			value = 1
+			years = 40
+		}
+		add_character_flag = assembly_once_lifetime
 	}
 
 	ai_check_interval = 36
@@ -102,6 +111,44 @@ call_constituent_assembly_decision = {
 	}
 }
 
+meditate_on_the_marquess_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+	desc = meditate_on_the_marquess_decision_desc
+	selection_tooltip = meditate_on_the_marquess_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = meditate_on_the_marquess_active
+		}
+	}
+	cooldown = { 
+		years = 20 
+	}
+	is_valid = {
+	}
+
+	is_valid_showing_failures_only = {
+	}
+	cost = {
+		piety = 100
+	}
+	effect = {
+		custom_tooltip = meditate_on_the_marquess_decision_tt
+		hidden_effect = {
+			trigger_event = ate_religious_decision.89
+		}
+	}
+
+	ai_check_interval = 96
+	
+	ai_potential = {
+		piety >= 100
+	}
+
+	ai_will_do = {
+		base = 10
+	}
+}
 
 draw_geoglyph_decision = {
 	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
@@ -208,7 +255,10 @@ dedicate_anima_shrine = {
 			}
 		}
 		add_piety = medium_piety_value
-		add_stress = medium_stress_loss
+		stress_impact = {
+			base = medium_stress_loss
+			cynical = 20
+		}
 		remove_variable = tragical_anima
 		hidden_effect = {
 			trigger_event = {
@@ -336,5 +386,57 @@ build_sanctuary_anima = {
 
 	ai_will_do = {
 		base = 1
+	}
+}
+
+hold_challa_ritual_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = hold_challa_ritual_decision_desc
+	selection_tooltip = hold_challa_ritual_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = challa_ritual_enabled
+		}
+		NOR = {
+			has_character_modifier = challa_blessing_1
+			has_character_modifier = challa_blessing_2
+			has_character_modifier = challa_blessing_3
+		}
+	}
+	cooldown = { 
+		years = 1
+	}
+	is_valid = {
+
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		hidden_effect = {
+			trigger_event = ate_religious_decision.110
+		}
+		custom_tooltip = hold_challa_ritual_effect
+		stress_impact = {
+			cynical = 20
+		}
+	}
+
+	cost = { 
+		gold = standard_activity_cost 
+	}
+
+	ai_check_interval = 36
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
 	}
 }

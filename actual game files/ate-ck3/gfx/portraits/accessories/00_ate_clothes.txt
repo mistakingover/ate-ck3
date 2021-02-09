@@ -1,0 +1,152 @@
+﻿## these assets are then used in the genes (game/common/genes/..) at the bottom of the file. 
+
+
+#####################################
+#									#
+# 			AtE  Clothes			#
+#									#
+#####################################
+
+## Andean Male ##
+
+male_clothes_secular_andean_nobility_01_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_01_common_entity }
+}
+female_clothes_secular_andean_nobility_01_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_andean_nobility_01_common_entity }
+}
+
+male_clothes_secular_andean_nobility_01_low = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_01_low_entity }
+}
+female_clothes_secular_andean_nobility_01_low = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_andean_nobility_01_low_entity }
+}
+
+male_clothes_secular_andean_nobility_01_high = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_01_high_entity }
+}
+female_clothes_secular_andean_nobility_01_high = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_andean_nobility_01_high_entity }
+}
+
+male_clothes_secular_andean_nobility_02_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_02_common_entity }
+}
+female_clothes_secular_andean_nobility_02_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_andean_nobility_02_common_entity }
+}
+
+male_clothes_secular_andean_nobility_02_low = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_02_low_entity }
+}
+female_clothes_secular_andean_nobility_02_low = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_andean_nobility_02_low_entity }
+}
+
+male_clothes_secular_andean_nobility_02_high = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_andean_nobility_02_high_entity }
+}
+female_clothes_secular_andean_nobility_02_high = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_andean_nobility_02_high_entity }
+}
+
+
+
+female_andean_cloak = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_andean_cloak_entity }
+}
+male_andean_cloak = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_andean_cloak_entity }
+}
+
+
+female_amazonian_loincloth_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_amazonian_loincloth_entity }
+}
+male_amazonian_loincloth_common = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_amazonian_loincloth_entity }
+}
+female_amazonian_loincloth_nobility = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_amazonian_loincloth_nobility_entity }
+}
+male_amazonian_loincloth_nobility = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_amazonian_loincloth_nobility_entity }
+}
+
+
+male_clothing_secular_amazonian_common_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothing_secular_amazonian_common_01_entity }
+}
+female_clothing_secular_amazonian_common_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothing_secular_amazonian_common_01_entity }
+}
+male_clothing_secular_amazonian_common_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothing_secular_amazonian_common_02_entity }
+}
+female_clothing_secular_amazonian_common_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothing_secular_amazonian_common_02_entity }
+}
+
+
+
+
+male_clothes_secular_canuck_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canuck_nobility_01_entity }
+}
+female_clothes_secular_canuck_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canuck_nobility_01_entity }
+}
+male_clothes_secular_canuck_nobility_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canuck_nobility_02_entity }
+}
+female_clothes_secular_canuck_nobility_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canuck_nobility_02_entity }
+}
+male_clothes_secular_canuck_nobility_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canuck_nobility_03_entity }
+}
+female_clothes_secular_canuck_nobility_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canuck_nobility_03_entity }
+}
+
+male_clothes_secular_canuck_war_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canuck_war_nobility_01_entity }
+}
+female_clothes_secular_canuck_war_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canuck_war_nobility_01_entity }
+}
+
+
+
+
+male_clothes_secular_canadian_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canadian_nobility_01_entity }
+}
+female_clothes_secular_canadian_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canadian_nobility_01_entity }
+}
+male_clothes_secular_canadian_nobility_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canadian_nobility_02_entity }
+}
+female_clothes_secular_canadian_nobility_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canadian_nobility_02_entity }
+}
+male_clothes_secular_canadian_nobility_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canadian_nobility_03_entity }
+}
+female_clothes_secular_canadian_nobility_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canadian_nobility_03_entity }
+}
+
+male_clothes_secular_canadian_war_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_canadian_war_nobility_01_entity }
+}
+female_clothes_secular_canadian_war_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_canadian_war_nobility_01_entity }
+}
+##########################################################################
+
+
+
+

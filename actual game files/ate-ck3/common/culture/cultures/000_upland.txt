@@ -11,7 +11,7 @@ graphical_cultures = {
 			appalachian_coa_gfx
 		}
 		
-		color = { 0.95 0.62 0.15 }
+			color = { 242 158 38 }
 	
 		cadet_dynasty_names = {
 			"dynn_Agee"
@@ -353,18 +353,21 @@ graphical_cultures = {
 		mother_name_chance = 20
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	8 = african
+	2 = asian
+	74 = caucasian
+	3 = mediterranean
+	3 = med_indigenous
+	8 = black_white
+	2 = multiracial
+}
 	}
 	melungeon = {
 		graphical_cultures = {
 			melungeon_coa_gfx
 		}
 		
-		color = { 0.84 0.69 0.24 }
+			color = { 214 175 61 }
 	
 		cadet_dynasty_names = {
 			"dynn_Barnett"
@@ -527,18 +530,21 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	2 = asian
+	34 = caucasian
+	3 = mediterranean
+	2 = med_indigenous
+	4 = black_white
+	50 = multiracial
+}
 	}
 	riverlander = {
 		graphical_cultures = {
 			riverlander_coa_gfx
 		}
 		
-		color = { 1.0 0.72 0.0 }
+			color = { 255 183 0 }
 	
 		cadet_dynasty_names = {
 			"dynn_Adkins"
@@ -761,18 +767,21 @@ graphical_cultures = {
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	2 = asian
+	84 = caucasian
+	3 = mediterranean
+	2 = med_indigenous
+	3 = black_white
+	1 = multiracial
+}
 	}
 	ozark = {
 		graphical_cultures = {
 			ozark_coa_gfx
 		}
 		
-		color = { 0.85 0.8 0.08 }
+			color = { 216 204 20 }
 	
 		cadet_dynasty_names = {
 			"dynn_Aleshire"
@@ -999,10 +1008,230 @@ graphical_cultures = {
 		mother_name_chance = 25
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
+	10 = african
+	2 = asian
+	75 = south indian
+	5 = mediterranean
+	3 = white_indigenous
+	5 = black_white
+}
+	}
+	okie = {
+		graphical_cultures = {
+			okie_coa_gfx
 		}
+		
+			color = { 53 40 81 }
+	
+		cadet_dynasty_names = {
+			"dynn_Bartlett"
+			"dynn_Billy"
+			"dynn_Broken-Arrow"
+			"dynn_Brooks"
+			"dynn_Busey"
+			"dynn_Clark"
+			"dynn_Copperhead"
+			"dynn_Coyne"
+			"dynn_Dean"
+			"dynn_Edmondson"
+			"dynn_Ellison"
+			"dynn_England"
+			"dynn_Evans"
+			"dynn_Fields"
+			"dynn_Garner"
+			"dynn_Gaylord"
+			"dynn_Geronimo"
+			"dynn_Guthrie"
+			"dynn_Hader"
+			"dynn_Hale"
+			"dynn_Hall"
+			"dynn_Harris"
+			"dynn_Hawkins"
+			"dynn_Helfin"
+			"dynn_Hill"
+			"dynn_Howard"
+			"dynn_Joad"
+			"dynn_Johnson"
+			"dynn_Keating"
+			"dynn_Kerr"
+			"dynn_Kirkpatrick"
+			"dynn_Leviason"
+			"dynn_Leviathan"
+			"dynn_Luper"
+			"dynn_Mai"
+			"dynn_Mankiller"
+			"dynn_Manning"
+			"dynn_Mantle"
+			"dynn_Marsden"
+			"dynn_McDaniel"
+			"dynn_McEntire"
+			"dynn_Morgan"
+			"dynn_Murrah"
+			"dynn_Nguyen"
+			"dynn_Norris"
+			"dynn_Ogle"
+			"dynn_Parker"
+			"dynn_Payne"
+			"dynn_Pierce"
+			"dynn_Pitt"
+			"dynn_Post"
+			"dynn_Ramsey"
+			"dynn_Reed"
+			"dynn_Reeves"
+			"dynn_Ridge"
+			"dynn_Roberts"
+			"dynn_Rogers"
+			"dynn_Ross"
+			"dynn_Rother"
+			"dynn_Sharp"
+			"dynn_Thong"
+			"dynn_Thorpe"
+			"dynn_Tinker"
+			"dynn_Tran"
+			"dynn_Turpen"
+			"dynn_Underwood"
+			"dynn_Wallace"
+			"dynn_Walton"
+			"dynn_Warren"
+			"dynn_Woodward"
+		}
+		dynasty_names = {
+			"dynn_Bartlett"
+			"dynn_Billy"
+			"dynn_Broken-Arrow"
+			"dynn_Brooks"
+			"dynn_Busey"
+			"dynn_Clark"
+			"dynn_Copperhead"
+			"dynn_Coyne"
+			"dynn_Dean"
+			"dynn_Edmondson"
+			"dynn_Ellison"
+			"dynn_England"
+			"dynn_Evans"
+			"dynn_Fields"
+			"dynn_Garner"
+			"dynn_Gaylord"
+			"dynn_Geronimo"
+			"dynn_Guthrie"
+			"dynn_Hader"
+			"dynn_Hale"
+			"dynn_Hall"
+			"dynn_Harris"
+			"dynn_Hawkins"
+			"dynn_Helfin"
+			"dynn_Hill"
+			"dynn_Howard"
+			"dynn_Joad"
+			"dynn_Johnson"
+			"dynn_Keating"
+			"dynn_Kerr"
+			"dynn_Kirkpatrick"
+			"dynn_Leviason"
+			"dynn_Leviathan"
+			"dynn_Luper"
+			"dynn_Mai"
+			"dynn_Mankiller"
+			"dynn_Manning"
+			"dynn_Mantle"
+			"dynn_Marsden"
+			"dynn_McDaniel"
+			"dynn_McEntire"
+			"dynn_Morgan"
+			"dynn_Murrah"
+			"dynn_Nguyen"
+			"dynn_Norris"
+			"dynn_Ogle"
+			"dynn_Parker"
+			"dynn_Payne"
+			"dynn_Pierce"
+			"dynn_Pitt"
+			"dynn_Post"
+			"dynn_Ramsey"
+			"dynn_Reed"
+			"dynn_Reeves"
+			"dynn_Ridge"
+			"dynn_Roberts"
+			"dynn_Rogers"
+			"dynn_Ross"
+			"dynn_Rother"
+			"dynn_Sharp"
+			"dynn_Thong"
+			"dynn_Thorpe"
+			"dynn_Tinker"
+			"dynn_Tran"
+			"dynn_Turpen"
+			"dynn_Underwood"
+			"dynn_Wallace"
+			"dynn_Walton"
+			"dynn_Warren"
+			"dynn_Woodward"
+		}
+		
+		male_names = {
+			Alfalfa Alfalfa_Bill Aloysius
+			Bass Ben Bill Bixby Bob Boomer Boone Brad Bradley Brayden Brian Bryce
+			Carpenter Ceegee Cherokee Chuck Clarence Clay Clinton Clyde Coffer Cogar Cole
+			Dalton Dancel David Dewey Drew
+			Earnest Ed Elgin Emmet Enoch Evan
+			Frank Fred
+			Gage Garth Gary Gene_Autry George Gotebo
+			Harold Haskell Hennesy Hobart
+			Jack James Jesse Jim Jocko Johnny Joseph
+			Kelly Kent Kevin
+			Latham Lee Leon Lon Loyal
+			Martin Mickey Mike Minco Moses Moses-Drawn-from-Deluge Muley
+			Neil Noah Norman
+			Omega Oral
+			Paden
+			Ralph Rance Raymond Red Ron Roy
+			Sam Spiro Stand Stuart Sylvan
+			Tecumseh Tom
+			Waite Wayne Wesley Whirlwind Wild-Bill Wiley Will Winfield Woody Wyatt
+			Van Vince
+			Yancy
+		}
+		female_names = {
+			Ada Aggie Alfre Alma Amber Amy Angel_Woudn Anita Anna April Arcadia
+			Bonnie
+			Calamity Carrie Chelsea Cheyenne Clara Connie
+			Dara Debra Dianne Donna
+			Elizabeth Emmaline Eva Eve
+			Florence
+			Harrah Helen Henryetta
+			Ida Ina Inola
+			Jane Jari Jean Jenny Jesse Joan Judy June
+			Kate Kelly Kimberly
+			LaDonna Laura Leah Linda Lisa Lydie
+			Maree Martha May Miriam Mona
+			Nancy Nanyehi Naomi Norma
+			Olivia Opal
+			Patti Purdy
+			Reba Redbird Rita Rue Ruthie
+			Sarah Savannah Sharon Shawnee
+			Taylor T_pst_la-yub Trust
+			Velma
+			Whirlwind Wilma
+		}
+		
+		bastard_dynasty_prefix = "dynnp_Half"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
+		
+		ethnicities = {
+	7 = african
+	5 = asian
+	80 = caucasian
+	5 = med_indigenous
+	3 = black_white
+}
 	}
 }

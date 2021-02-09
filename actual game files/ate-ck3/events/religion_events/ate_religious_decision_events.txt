@@ -122,7 +122,7 @@ ate_religious_decision.81 = { #beginning of assembly
 			limit = {
 				highest_held_title_tier > tier_kingdom
 			}
-			add_gold = major_gold_loss
+			remove_short_term_gold = major_gold_value
 			if = {
 				limit = {
 					title:c_co_21_c_cuta = {
@@ -131,14 +131,14 @@ ate_religious_decision.81 = { #beginning of assembly
 						}
 					}	
 				}
-				add_gold = major_gold_loss
+				remove_short_term_gold = major_gold_value
 			}
 		}
 		else_if = {
 			limit = {
 				highest_held_title_tier = tier_kingdom
 			}
-			add_gold = medium_gold_loss
+			remove_short_term_gold = medium_gold_value
 			if = {
 				limit = {
 					title:c_co_21_c_cuta = {
@@ -147,11 +147,11 @@ ate_religious_decision.81 = { #beginning of assembly
 						}
 					}	
 				}
-				add_gold = medium_gold_loss
+				remove_short_term_gold = medium_gold_value
 			}
 		}
 		else = {
-			add_gold = minor_gold_loss
+			remove_short_term_gold = minor_gold_value
 			if = {
 				limit = {
 					title:c_co_21_c_cuta = {
@@ -160,7 +160,7 @@ ate_religious_decision.81 = { #beginning of assembly
 						}
 					}	
 				}
-				add_gold = minor_gold_loss
+				remove_short_term_gold = minor_gold_value
 			}
 		}
 		hidden_effect = {
@@ -220,7 +220,7 @@ ate_religious_decision.81 = { #beginning of assembly
 			}
 		}
 		hidden_effect = {
-			every_player = {
+			every_player = {#if the player is not caudillo they get the assembly wherever they are. Do not do multiplayer patria
 				limit = {
 					this.faith = faith:patria_grande
 					NOT = {
@@ -232,7 +232,7 @@ ate_religious_decision.81 = { #beginning of assembly
 					days = 7
 				}
 			}
-			if = {
+			if = { #if the caudillo is the player, they get the assembly instead
 				limit = {
 					is_ai = no
 				}
@@ -367,6 +367,13 @@ ate_religious_decision.82 = { #call of democracy
 			}
 		}
 		remove_short_term_gold = pilgrimage_medium_extra_cost
+		add_character_flag = {
+			flag = assembly_heir
+			years = 2
+		}
+		primary_heir = {
+			save_scope_as = heir_pilgrim
+		}
 	}
 	option = {
 		name = ate_religious_decision.82.d
@@ -382,6 +389,19 @@ ate_religious_decision.82 = { #call of democracy
 			}
 		}
 		add_piety = -10
+		if = { #if the player cant go, the ai caudillo gets the assembly events instead
+			limit = {
+				scope:caudillo = {
+					is_ai = yes
+				}
+			}
+			hidden_effect = {
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 7
+				}
+			}
+		}
 	}
 	option = {
 		name = ate_religious_decision.82.e
@@ -397,6 +417,19 @@ ate_religious_decision.82 = { #call of democracy
 			}
 		}
 		add_piety = -50
+		if = { #if the player cant go, the ai caudillo gets the assembly events instead
+			limit = {
+				scope:caudillo = {
+					is_ai = yes
+				}
+			}
+			hidden_effect = {
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 7
+				}
+			}
+		}
 	}	
 }
 
@@ -426,11 +459,8 @@ ate_religious_decision.83 = { #an unseemly proposal
 
 	option = {
 		name = ate_religious_decision.83.a
-		if = {
-			limit = {
-				has_trait = greedy
-			}
-			add_stress = 20
+		stress_impact = {
+			greedy = 20
 		}
 		add_piety = 25
 		reverse_add_opinion = {
@@ -446,14 +476,9 @@ ate_religious_decision.83 = { #an unseemly proposal
 	}
 	option = {
 		name = ate_religious_decision.83.b
-		if = {
-			limit = {
-				OR = {
-					has_trait = honest
-					has_trait = zealous
-				}
-			}
-			add_stress = 20
+		stress_impact = {
+			honest = 20
+			zealous = 20
 		}
 		if = {
 			limit = {
@@ -474,6 +499,14 @@ ate_religious_decision.83 = { #an unseemly proposal
 				add_character_modifier = {
 					modifier = corrupt_elector_assembly
 					years = 20
+				}
+			}
+		}
+		hidden_effect = {#if you accept the bribe the briber gets the assembly instead
+			scope:briber = {
+				trigger_event = {
+					id = ate_religious_decision.84
+					days = 4
 				}
 			}
 		}
@@ -507,18 +540,50 @@ ate_religious_decision.84 = { #time to begin
 		trigger = {
 			has_title = d_caudillo_patria_grande
 		}
+		random_list = {
+			33 = {
+				set_doctrine_deviancy_accepted = yes
+				set_doctrine_adultery_men_accepted = yes
+				set_doctrine_adultery_women_accepted = yes
+				set_doctrine_homosexuality_accepted = yes
+			}
+			33 = {
+				set_doctrine_deviancy_shunned = yes
+				set_doctrine_adultery_men_shunned = yes
+				set_doctrine_adultery_women_shunned = yes
+				set_doctrine_homosexuality_shunned = yes
+			}
+			33 = {
+				set_doctrine_deviancy_crime = yes
+				set_doctrine_adultery_men_crime = yes
+				set_doctrine_adultery_women_crime = yes
+				set_doctrine_homosexuality_crime = yes
+			}
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.85
+				days = 4
+			}
+		}
 	}
 	option = {
 		name = ate_religious_decision.84.b
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.85
+				days = 4
+			}
+		}
 		if = {
 			limit = {
 				has_title = d_caudillo_patria_grande
 			}
 			add_tyranny = 15
-				set_doctrine_deviancy_accepted = yes
-				set_doctrine_adultery_men_accepted = yes
-				set_doctrine_adultery_women_accepted = yes
-				set_doctrine_homosexuality_accepted = yes
+			set_doctrine_deviancy_accepted = yes
+			set_doctrine_adultery_men_accepted = yes
+			set_doctrine_adultery_women_accepted = yes
+			set_doctrine_homosexuality_accepted = yes
 		}
 		else = {
 			if = {
@@ -597,15 +662,21 @@ ate_religious_decision.84 = { #time to begin
 	}
 	option = {
 		name = ate_religious_decision.84.c
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.85
+				days = 4
+			}
+		}
 		if = {
 			limit = {
 				has_title = d_caudillo_patria_grande
 			}
 			add_tyranny = 15
-				set_doctrine_deviancy_shunned = yes
-				set_doctrine_adultery_men_shunned = yes
-				set_doctrine_adultery_women_shunned = yes
-				set_doctrine_homosexuality_shunned = yes
+			set_doctrine_deviancy_shunned = yes
+			set_doctrine_adultery_men_shunned = yes
+			set_doctrine_adultery_women_shunned = yes
+			set_doctrine_homosexuality_shunned = yes
 		}
 		else = {
 			if = {
@@ -684,15 +755,21 @@ ate_religious_decision.84 = { #time to begin
 	}
 	option = {
 		name = ate_religious_decision.84.d
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.85
+				days = 4
+			}
+		}
 		if = {
 			limit = {
 				has_title = d_caudillo_patria_grande
 			}
 			add_tyranny = 15
-				set_doctrine_deviancy_crime = yes
-				set_doctrine_adultery_men_crime = yes
-				set_doctrine_adultery_women_crime = yes
-				set_doctrine_homosexuality_crime = yes
+			set_doctrine_deviancy_crime = yes
+			set_doctrine_adultery_men_crime = yes
+			set_doctrine_adultery_women_crime = yes
+			set_doctrine_homosexuality_crime = yes
 		}
 		else = {
 			if = {
@@ -767,6 +844,1054 @@ ate_religious_decision.84 = { #time to begin
 					}
 				}				
 			}
+		}
+	}
+}
+
+
+ate_religious_decision.85 = { #family law
+	type = character_event
+	title = ate_religious_decision.85.t
+	desc = ate_religious_decision.85.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.85.a
+		trigger = {
+			has_title = d_caudillo_patria_grande
+		}
+		random_list = {
+			33 = {
+				set_doctrine_divorce_disallowed = yes
+				set_doctrine_bastardry_none = yes
+			}
+			33 = {
+				set_doctrine_divorce_approval = yes
+				set_doctrine_bastardry_legitimization = yes
+			}
+			33 = {
+				set_doctrine_divorce_allowed = yes
+				set_doctrine_bastardry_all = yes
+			}
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.86
+				days = 4
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.85.b
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.86
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_divorce_disallowed = yes
+			set_doctrine_bastardry_none = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.stewardship >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					5 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+					5 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.stewardship >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					15 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+					15 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					30 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+					30 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.85.c
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.86
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_divorce_approval = yes
+			set_doctrine_bastardry_legitimization = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.stewardship >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+					5 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					5 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.stewardship >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+					15 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					15 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+					30 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					30 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.85.d
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.86
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_divorce_allowed = yes
+			set_doctrine_bastardry_all = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.stewardship >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+					5 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					5 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.stewardship >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+					15 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					15 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_divorce_allowed = yes
+						set_doctrine_bastardry_all = yes
+					}
+					30 = {
+						set_doctrine_divorce_disallowed = yes
+						set_doctrine_bastardry_none = yes
+					}
+					30 = {
+						set_doctrine_divorce_approval = yes
+						set_doctrine_bastardry_legitimization = yes
+					}
+				}				
+			}
+		}
+	}
+}
+
+ate_religious_decision.86 = { #kinship law
+	type = character_event
+	title = ate_religious_decision.86.t
+	desc = ate_religious_decision.86.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.86.a
+		trigger = {
+			has_title = d_caudillo_patria_grande
+		}
+		random_list = {
+			33 = {
+				set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+				set_doctrine_kinslaying_any_dynasty_member_crime = yes
+			}
+			33 = {
+				set_doctrine_consanguinity_cousins = yes
+				set_doctrine_kinslaying_close_kin_crime = yes
+			}
+			33 = {
+				set_doctrine_consanguinity_restricted = yes
+				set_doctrine_kinslaying_accepted = yes
+			}
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.87
+				days = 4
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.86.b
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.87
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+			set_doctrine_kinslaying_any_dynasty_member_crime = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.diplomacy >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					5 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+					5 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.diplomacy >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					15 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+					15 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					30 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+					30 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.86.c
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.87
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_consanguinity_cousins = yes
+			set_doctrine_kinslaying_close_kin_crime = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.diplomacy >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+					5 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					5 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.diplomacy >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+					15 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					15 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+					30 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					30 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.86.d
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.87
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_consanguinity_restricted = yes
+			set_doctrine_kinslaying_accepted = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.diplomacy >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+					5 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					5 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.diplomacy >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+					15 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					15 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_consanguinity_restricted = yes
+						set_doctrine_kinslaying_accepted = yes
+					}
+					30 = {
+						set_doctrine_consanguinity_aunt_nephew_and_uncle_niece = yes
+						set_doctrine_kinslaying_any_dynasty_member_crime = yes
+					}
+					30 = {
+						set_doctrine_consanguinity_cousins = yes
+						set_doctrine_kinslaying_close_kin_crime = yes
+					}
+				}				
+			}
+		}
+	}
+}
+
+ate_religious_decision.87 = { #clerical law
+	type = character_event
+	title = ate_religious_decision.87.t
+	desc = ate_religious_decision.87.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.87.a
+		trigger = {
+			has_title = d_caudillo_patria_grande
+		}
+		random_list = {
+			33 = {
+				set_doctrine_clerical_gender_male_only = yes
+				set_doctrine_clerical_function_recruitment = yes
+			}
+			33 = {
+				set_doctrine_clerical_gender_either = yes
+				set_doctrine_clerical_function_taxation = yes
+			}
+			33 = {
+				set_doctrine_clerical_gender_female_only = yes
+				set_doctrine_clerical_function_alms_and_pacification = yes
+			}
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.88
+				days = 4
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.87.b
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.88
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_clerical_gender_male_only = yes
+			set_doctrine_clerical_function_recruitment = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.learning >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+					5 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					5 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.learning >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+					15 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					15 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+					30 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					30 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.87.c
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.88
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_clerical_gender_either = yes
+			set_doctrine_clerical_function_taxation = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.learning >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					5 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+					5 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.learning >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					15 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+					15 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					30 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+					30 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+				}				
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.87.d
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.88
+				days = 4
+			}
+		}
+		if = {
+			limit = {
+				has_title = d_caudillo_patria_grande
+			}
+			add_tyranny = 15
+			set_doctrine_clerical_gender_female_only = yes
+			set_doctrine_clerical_function_alms_and_pacification = yes
+		}
+		else = {
+			if = {
+				limit = {
+					root.learning >= 17
+				}
+				random_list = {
+					90 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+					5 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					5 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					root.learning >= 13
+				}
+				random_list = {
+					70 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+					15 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					15 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+				}				
+			}
+			else = {
+				random_list = {
+					40 = {
+						set_doctrine_clerical_gender_female_only = yes
+						set_doctrine_clerical_function_alms_and_pacification = yes
+					}
+					30 = {
+						set_doctrine_clerical_gender_either = yes
+						set_doctrine_clerical_function_taxation = yes
+					}
+					30 = {
+						set_doctrine_clerical_gender_male_only = yes
+						set_doctrine_clerical_function_recruitment = yes
+					}
+				}				
+			}
+		}
+	}
+}
+
+ate_religious_decision.88 = { #end of the assembly
+	type = character_event
+	title = ate_religious_decision.88.t
+	desc = ate_religious_decision.88.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.88.a
+		medium_pilgrimage_reward_effect = yes
+		if = {
+			limit = {
+				has_character_flag = assembly_heir
+			}
+			scope:heir_pilgrim = {
+				medium_pilgrimage_reward_effect = yes
+			}
+		}
+	}
+}
+
+ate_religious_decision.89 = { #marquess base event
+	type = character_event
+	title = ate_religious_decision.89.t
+	desc = ate_religious_decision.89.desc
+	theme = faith
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = ate_religious_decision.89.a
+		custom_tooltip = meditate_on_the_marquess_event_tt
+		random_list = {
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.90
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.91
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.92
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.93
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.94
+				}
+			}
+			10 = {
+				hidden_effect = {
+					trigger_event = ate_religious_decision.95
+				}
+			}
+		}
+	}
+}
+
+ate_religious_decision.90 = { 
+	type = character_event
+	title = ate_religious_decision.90.t
+	desc = ate_religious_decision.90.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.90.a
+		stress_impact = {
+			greedy = -40
+			generous = 40
+		}
+		add_character_modifier = {
+			modifier = desire_for_beauty 
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.90.b
+		stress_impact = {
+			greedy = 40
+			generous = -40
+		}
+		add_character_modifier = {
+			modifier = detachment_from_wordly_affairs  
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.91 = { 
+	type = character_event
+	title = ate_religious_decision.91.t
+	desc = ate_religious_decision.91.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.91.a
+		stress_impact = {
+			fickle = -40
+			stubborn = 40
+		}
+		add_character_modifier = {
+			modifier = peace_with_death  
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.91.b
+		stress_impact = {
+			fickle = 40
+			stubborn = -40
+		}
+		add_character_modifier = {
+			modifier = live_life_in_spite   
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.92 = { 
+	type = character_event
+	title = ate_religious_decision.92.t
+	desc = ate_religious_decision.92.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.92.a
+		stress_impact = {
+			humble = -40
+			arrogant = 40
+		}
+		add_character_modifier = {
+			modifier = slave_of_destiny   
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.92.b
+		stress_impact = {
+			arrogant = -40
+			humble = 40
+		}
+		add_character_modifier = {
+			modifier = above_destiny    
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.93 = { 
+	type = character_event
+	title = ate_religious_decision.93.t
+	desc = ate_religious_decision.93.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.93.a
+		stress_impact = {
+			content = -40
+			ambitious = 40
+		}
+		add_character_modifier = {
+			modifier = no_time_like_present    
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.93.b
+		stress_impact = {
+			ambitious = -40
+			content = 40
+		}
+		add_character_modifier = {
+			modifier = unreal_nostalgia     
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.94 = { 
+	type = character_event
+	title = ate_religious_decision.94.t
+	desc = ate_religious_decision.94.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.94.a
+		stress_impact = {
+			chaste = -40
+			lustful = 40
+		}
+		add_character_modifier = {
+			modifier = fleeing_from_romance    
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.94.b
+		stress_impact = {
+			lustful = -40
+			chaste = 40
+		}
+		add_character_modifier = {
+			modifier = dying_of_love     
+			years = 10
+		}
+	}
+}
+
+ate_religious_decision.95 = { 
+	type = character_event
+	title = ate_religious_decision.95.t
+	desc = ate_religious_decision.95.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = disbelief
+	}
+
+	option = {
+		name = ate_religious_decision.95.a
+		stress_impact = {
+			trusting = -40
+			paranoid = 40
+		}
+		add_character_modifier = {
+			modifier = eternal_peace    
+			years = 10
+		}
+	}
+	option = {
+		name = ate_religious_decision.95.b
+		stress_impact = {
+			paranoid = -40
+			trusting = 40
+		}
+		add_character_modifier = {
+			modifier = say_no_to_paradise   
+			years = 10
 		}
 	}
 }
@@ -1322,13 +2447,6 @@ ate_religious_decision.103 = {
 		name = ate_religious_decision.103.a
 		add_trait = patron_difunta_correa
 		remove_variable = temporary_established_anima
-		if = {
-			limit = {
-				NOT = { has_variable = temporary_established_anima }
-				has_global_variable = greater_anima_1					
-			}
-			add_gold = 150
-		}
 	}
 	option = {
 		name = ate_religious_decision.103.b
@@ -1901,4 +3019,136 @@ ate_religious_decision.104 = {
 		}
 
 	}	
+}
+
+ate_religious_decision.110 = { 
+	type = character_event
+	title = ate_religious_decision.110.t
+	desc = ate_religious_decision.110.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	override_background = {
+		event_background = throne_room
+	}
+	option = {
+		name = ate_religious_decision.110.a
+		add_character_flag = {
+			flag = challa_base
+			months = 6
+		}
+		stress_impact = {
+			zealous = 20
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.111
+				days = 2
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.110.b
+		remove_short_term_gold = minor_gold_value
+		add_character_flag = {
+			flag = challa_plus
+			months = 6
+		}
+		stress_impact = {
+			greedy = 20
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.111
+				days = 2
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.110.c
+		remove_short_term_gold = medium_gold_value
+		add_character_flag = {
+			flag = challa_plusplus
+			months = 6
+		}
+		stress_impact = {
+			greedy = 40
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.111
+				days = 2
+			}
+		}
+	}
+}
+
+ate_religious_decision.111 = { 
+	type = character_event
+	title = ate_religious_decision.111.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_character_flag = challa_plusplus
+				}
+				desc = ate_religious_decision.111.desc.3
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = challa_plus
+				}
+				desc = ate_religious_decision.111.desc.2
+			}
+			desc = ate_religious_decision.111.desc.1
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_content
+	}
+	override_background = {
+		trigger = {	scope:at_home = yes }
+		event_background = farmland
+	}
+	override_background = {
+		trigger = {	scope:at_home = no }
+		event_background = wilderness_scope
+	}
+	option = {
+		name = ate_religious_decision.111.a
+		trigger = {
+			has_character_flag = challa_base
+		}
+		add_piety = 50
+		add_character_modifier = {
+			modifier = challa_blessing_1
+			years = 1
+		}
+	}
+	option = {
+		name = ate_religious_decision.111.b
+		trigger = {
+			has_character_flag = challa_plus
+		}
+		add_piety = 100
+		add_character_modifier = {
+			modifier = challa_blessing_2
+			years = 1
+		}
+	}
+	option = 
+{		name = ate_religious_decision.111.c
+		trigger = {
+			has_character_flag = challa_plusplus
+		}
+		add_piety = 150
+		add_character_modifier = {
+			modifier = challa_blessing_3
+			years = 1
+		}
+	}
 }

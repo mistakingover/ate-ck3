@@ -11,7 +11,7 @@ graphical_cultures = {
 			hudsonian_coa_gfx
 		}
 		
-		color = { 0.1 0.6 0.6 }
+			color = { 25 153 153 }
 	
 		cadet_dynasty_names = {
 			"dynn_Adder"
@@ -317,18 +317,20 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = asian
+	65 = caucasian
+	15 = mediterranean
+	5 = med_indigenous
+	5 = black_white
+}
 	}
 	upstater = {
 		graphical_cultures = {
 			upstater_coa_gfx
 		}
 		
-		color = { 0.37 0.52 0.50 }
+			color = { 94 132 127 }
 	
 		cadet_dynasty_names = {
 			"dynn_Adams"
@@ -577,45 +579,47 @@ graphical_cultures = {
 		
 		#Classical larp
 		male_names = {
-			Achilles Adrian Aeneas Agapett Ajax Albert Alonzo Anthony Apollo Archimedes Ardolph Argus Aristotle Atticus Augustus Aurelius
-			Bartolomeus Boniface Brutus
-			Caesar Caloger Camillus Carmine Cashunyon Castor Cato Cephas Chandler Cicero Cincinnatus Claudius Columbus Constantin Cornelius Crassus Crispus Croton Curtis Cyrus
-			Damian Darius David Decatur Dewitt Dorian Dryden
-			Ellis Ercole Erasmus Erastus Eric Euclid Ezio
+			Achilles Adonis Adrian Aeneas Agapett Ajax Albert Alonzo Alphonso Angelo Anthony Apollo Archimedes Ardolph Argus Aristotle Arthur Atticus Augustus Aurelius
+			Bartolomeus Boniface Brutus Byron
+			Caesar Caloger Camillus Carmine Cashunyon Castor Cato Cephas Chandler Cicero Cincinnatus Claudius Columbus Constantine Cornelius Crassus Crispus Cristoforo Croton Curtis Cyrus
+			Damian Daniel Darius David Decatur Dewitt Dorian Dryden
+			Ellis Enrico Ercole Erasmus Erastus Eric Euclid Eugene Ezio
 			Fabius Flavius Florell Fordyce Francis
-			Galen Garibald George Giovanus Gregorius Guyasut
+			Galen Garibaldi George Giovanni Gregorius Guyasut
 			Hannibal Hector Himerius Homer Horatio
-			Ignatius Isaac
-			Jacobus Josephus Julius Junius
-			Lafayette Leo Lorenzo Lucian Ludovic Lysander
-			Manlius Marcellus Marcus Martin Matteus Menelaus Michael Millard
+			Ignatius Isaac Isaiah
+			Jacob James Joseph Julius Junius
+			Lafayette Leo Lorenzo Luca Luciano Lucius Ludovic Lysander
+			Manlius Marcellus Marcian Marcus Martin Matteus Menelaus Michael Millard
 			Nestor
 			Orion Orlando Orpheus Otetian Ottavis Ovid
 			Paris Paulus Peregrin Petrus Pharcellus Philip Phineas Pindar Plato Pompey Priam Publius
+			Quinton
 			Remus Rex Ricardo Robert Romulus Rufus
 			Samuel Scamander Scipio Sempronius Seneca Silus Simeon Solomon Solon Stanwix Stephanus Sterling Stratis Sulla Sylvan
-			Tacitus Terrance Theodorus Theseus Thomas Trajan Tullis
+			Tacitus Terrance Theodorus Theseus Thomas Trajan Travis Tullis
 			Ulysses
 			Vincent Virgil
+			William Willis
 			Xander
 			Zeno Zeus
 		}
 		female_names = {
-			Ada Albertina Alda Alexandra Alexia Amelia Amenia Anna Annalise Annetta Athena Augusta Aurora
+			Ada Albertina Alda Alexandra Alexia Amelia Amenia Angela Anna Annalise Annetta Athena Augusta Aurora
 			Barbara Bardonia Bellona Berenice Bethany Bettina Beulah Brunella
 			Camilla Carlotta Cassandra Catharina Ceres Clara Columbia Constantia Cornelia Cynthia
 			Delphi Diana Dido Dolores Donata
-			Eden Edmonia Elba Eleanor Electra Estella Etna Eunice
+			Eden Edmonia Elba Eleanor Electra Emma Estella Etna Eunice
 			Georgina
 			Helen Henrietta
-			Irene
-			Julia Juliana Juno
-			Lana Latoya Lavinia Leona Lillia Lucrecia
+			Irene Iris
+			Jessica Julia Juliana Juno
+			Lana Latoya Lavantia Lavinia Leona Lillia Lucrecia
 			Magdalena Marcia Margaret Maria Mariana Martha Matilda Maxima Minerva Modena
 			Ogarita
 			Pandora Patricia Paulina Penelope Phyllis
 			Ramona Rebecca Regina Renata Rhoda Rosa
-			Sophia Stephania
+			Sophia Stella Stephania
 			Tania Teresa Theodosia Tiffany
 			Velma Vera Victoria Viola
 			Waneik Wilhelmina
@@ -634,18 +638,20 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = african
+	5 = asian
+	65 = caucasian
+	15 = mediterranean
+	5 = med_indigenous
+	5 = black_white
+}
 	}
 	delawarean = {
 		graphical_cultures = {
 			delawarean_coa_gfx
 		}
 		
-		color = { 0.4 0.6 0.7 }
+			color = { 102 153 178 }
 	
 		cadet_dynasty_names = {
 			"dynn_Agnew"
@@ -931,18 +937,20 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	5 = asian
+	55 = caucasian
+	10 = mediterranean
+	10 = med_indigenous
+	5 = black_white
+}
 	}
 	beltway = {
 		graphical_cultures = {
 			beltway_coa_gfx
 		}
 		
-		color = { 0.9 0.8 0.6 }
+			color = { 229 204 153 }
 	
 		cadet_dynasty_names = {
 			"dynn_Almodovar"
@@ -1091,10 +1099,10 @@ graphical_cultures = {
 		
 		#Legal jargon, presidents, and supreme court justices
 		male_names = {
-			Abe Actus Albert Alexander Alonzo Americus Amicus Andrew Anthony Armistead Arrelious Arthur Augustine Avatus Avery
+			Abe Actus Albert Alexander Alonzo Americus Amicus Andrew Anthony Armistead Arthur Augustine Avatus Avery
 			Bannister Benjamin Benning Booker Brandeis Broadus Brocard Brutus Buchanan Burleith Bushrod Byron
 			Calvin Carver Cato Certioraris Charles Chase Chavous Chester Clark Collis Coram Corbin Cornelius Corpus Custis
-			Delano Delonte Deodand Derwin Deventre Dewey Dignatus Douglass Dupont
+			Delano Delonte Deodand Deondre Derwin Dewey Dignatus Douglass Dupont
 			Edgar Elgin Elias Elliot Emerson Emmanuel Eugene
 			Farragut Fielding Filibuster Franklin Fuller
 			Gravamen
@@ -1108,8 +1116,8 @@ graphical_cultures = {
 			Parnell Patton Paul Penn Pershing Peter Petworth Preamble Prentice
 			Quentin Quincy Quorum
 			Randolph Rexford Riddick Robert Ronald Rutherford Rutledge
-			Samuel Seymour Sharrod Shaw Sherman Shipley Sidney Silvan Sirvaliant Statute Stephen
-			Taft Tenley Thaddeus Theodore Thomas Thurl Truman Truxton
+			Samuel Seymour Sharrod Shaw Sherman Shipley Sidney Silvan Statute Stephen
+			Taft Tenley Thaddeus Theodore Thomas Thurgood Thurl Truman Truxton
 			Ulysses
 			Vernon Victor Vincent Volens
 			Walter Warren Washington Wesley William Woodrow
@@ -1149,28 +1157,273 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = african
+	10 = asian
+	35 = caucasian
+	10 = mediterranean
+	15 = med_indigenous
+	10 = black_white
+	5 = multiracial
+}
 	}
-	metropolitan = {
+	gothamite = {
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
+	10 = african
+	9 = asian
+	35 = caucasian
+	14 = mediterranean
+	5 = slavic
+	15 = med_indigenous
+	5 = black_white
+	2 = multiracial
+}
+			color = { 25 178 229 }
+
+		cadet_dynasty_names = {
+			"dynn_"
 		}
-		color = { 0.1 0.7 0.9 }
+		dynasty_names = {
+			"dynn_Abramov"
+			"dynn_Acosta"
+			"dynn_Adamo"
+			"dynn_Ali"
+			"dynn_Almonte"
+			"dynn_Alvarez"
+			"dynn_Amato"
+			"dynn_Aminov"
+			"dynn_Arias"
+			"dynn_Avila"
+			"dynn_Azaria"
+			"dynn_Baldanza"
+			"dynn_Baptiste"
+			"dynn_Barone"
+			"dynn_Battaglia"
+			"dynn_Beharry"
+			"dynn_Betances"
+			"dynn_Bleecker"
+			"dynn_Bogart"
+			"dynn_Boyle"
+			"dynn_Brady"
+			"dynn_Brennan"
+			"dynn_Brodsky"
+			"dynn_Bruno"
+			"dynn_Buscemi"
+			"dynn_Calabrese"
+			"dynn_Calle"
+			"dynn_Campoverde"
+			"dynn_Carbone"
+			"dynn_Cardona"
+			"dynn_Carlo"
+			"dynn_Carter"
+			"dynn_Caruso"
+			"dynn_Catalano"
+			"dynn_Chacko"
+			"dynn_Chen"
+			"dynn_Chin"
+			"dynn_Cho"
+			"dynn_Chowdhury"
+			"dynn_Chu"
+			"dynn_Clancy"
+			"dynn_Collado"
+			"dynn_Colon"
+			"dynn_Coppola"
+			"dynn_Corazon"
+			"dynn_Costanzo"
+			"dynn_Cronin"
+			"dynn_Cruz"
+			"dynn_Dangelo"
+			"dynn_Davydov"
+			"dynn_Dejesus"
+			"dynn_Dekalb"
+			"dynn_Delacruz"
+			"dynn_Deleon"
+			"dynn_Delligatti"
+			"dynn_Deluca"
+			"dynn_Dibenedetto"
+			"dynn_Ditmars"
+			"dynn_Dolan"
+			"dynn_Durante"
+			"dynn_Ellington"
+			"dynn_Eng"
+			"dynn_Espinal"
+			"dynn_Espiritu"
+			"dynn_Esposito"
+			"dynn_Falco"
+			"dynn_Farina"
+			"dynn_Feliciano"
+			"dynn_Fernandez"
+			"dynn_FitzGerald"
+			"dynn_FitzPatrick"
+			"dynn_FitzSimmons"
+			"dynn_Friedman"
+			"dynn_Gallagher"
+			"dynn_Gambino"
+			"dynn_Genao"
+			"dynn_Genovese"
+			"dynn_Gentile"
+			"dynn_Georgiou"
+			"dynn_Goldstein"
+			"dynn_Gonzalez"
+			"dynn_Grabowski"
+			"dynn_Graziano"
+			"dynn_Greenberg"
+			"dynn_Grillo"
+			"dynn_Hassan"
+			"dynn_Haynes"
+			"dynn_Highsmith"
+			"dynn_Hossain"
+			"dynn_Hu"
+			"dynn_Hwang"
+			"dynn_Hyun"
+			"dynn_Iskhakov"
+			"dynn_Islam"
+			"dynn_Jhaveri"
+			"dynn_Jun"
+			"dynn_Kane"
+			"dynn_Katz"
+			"dynn_Keitel"
+			"dynn_Kelly"
+			"dynn_Knickerbocker"
+			"dynn_Koo"
+			"dynn_Kramer"
+			"dynn_Lavarro"
+			"dynn_Liang"
+			"dynn_Lieberman"
+			"dynn_Lin"
+			"dynn_Liu"
+			"dynn_Lopez"
+			"dynn_Lott"
+			"dynn_Ma"
+			"dynn_Marino"
+			"dynn_Martinez"
+			"dynn_Matos"
+			"dynn_Messina"
+			"dynn_Miah"
+			"dynn_Milazzo"
+			"dynn_Meng"
+			"dynn_Meyer"
+			"dynn_Mohabir"
+			"dynn_Montalvo"
+			"dynn_Moraglia"
+			"dynn_Moreno"
+			"dynn_Munoz"
+			"dynn_Musheyev"
+			"dynn_Napolitano"
+			"dynn_Narang"
+			"dynn_Nieves"
+			"dynn_Nolan"
+			"dynn_Ocasio"
+			"dynn_Pagano"
+			"dynn_Palaguachi"
+			"dynn_Pappas"
+			"dynn_Park"
+			"dynn_Paulino"
+			"dynn_Peng"
+			"dynn_Peralta"
+			"dynn_Perez"
+			"dynn_Pichardo"
+			"dynn_Pierre"
+			"dynn_Polanco"
+			"dynn_Puzo"
+			"dynn_Qu"
+			"dynn_Quijano"
+			"dynn_Ramirez"
+			"dynn_Restrepo"
+			"dynn_Reyes"
+			"dynn_Richardson"
+			"dynn_Rivera"
+			"dynn_Rodriguez"
+			"dynn_Rosado"
+			"dynn_Rosenberg"
+			"dynn_Russo"
+			"dynn_Sanchez"
+			"dynn_Sanders"
+			"dynn_Santana"
+			"dynn_Santoro"
+			"dynn_Schwartz"
+			"dynn_Scully"
+			"dynn_Seo"
+			"dynn_Sessa"
+			"dynn_Shim"
+			"dynn_Sideris"
+			"dynn_Sorrentino"
+			"dynn_Sreenivasan"
+			"dynn_Stalzer"
+			"dynn_Sukhram"
+			"dynn_Sullivan"
+			"dynn_Sung"
+			"dynn_Tavarez"
+			"dynn_Tirado"
+			"dynn_Tokarev"
+			"dynn_Torres"
+			"dynn_Tracy"
+			"dynn_Uddin"
+			"dynn_Vanderveer"
+			"dynn_Varghese"
+			"dynn_Velez"
+			"dynn_Venezia"
+			"dynn_Vinci"
+			"dynn_Vitti"
+			"dynn_Wang"
+			"dynn_Weng"
+			"dynn_Wyckoff"
+			"dynn_Yahjian"
+			"dynn_Yang"
+			"dynn_Yoon"
+			"dynn_Yusupov"
+			"dynn_Zhong"
+			"dynn_Zolotin"
+		}
 
 		male_names = {
-			
+			Aaron Abdullah Abraham Achilles Albert Alexander Alfonso Ali Alonso Amado Andrew Angelo Anthony Ardolph Ari Arnold Arturo Aurelio Averell Aziz
+			Benicio Bernard Bruce Bruno
+			Cadwallader Caleb Carlos Carmine Casimir Charles Connor Conrado Corydon
+			Damian Daniel Dante Darius Darnell David Deepak Dewitt Diego Dmitri Dominic Donald Dorian
+			Ebenezer Edward Edwin Enrique Ercole Eric Esteban Ezio Ezra
+			Faris Faustino Felix Fernando Fiorello Flavio Francis Franklin
+			George Gerard Gianluca Gianpaolo
+			Hasan Hector Henry Herman Hongzhi Horace Hugo
+			Idris Igor Isaac Isaiah Israel Ivan
+			Jason Javier Jesus Joel John Jorge Jose Joseph Juan Julian Julius
+			Kareem Kennedy Kevin Kiran
+			Lakshman Leandro Leon Leonardo Levi Lewis Lorenzo Lucius
+			Malik Manohar Manuel Mario Mark Martin Marvin Matthew Melvin Meyer Michael Miguel Mohamed Mohan Moses
+			Nathan Neil Nestor Nicholas Noel
+			Olmsted Omar Oscar
+			Pablo Param Patrick Paul Pedro Peter Philip Plato
+			Rafael Raj Rama Raul Richard Robert Rohan Rohit Rolando Ruben Rudolph Ryan
+			Salvador Samir Samuel Santiago Sasha Schuyler Sergio Seymour Simcha Simon Steven
+			Thaddeus Thomas
+			Varian Vasily Vinay Victor Vincent Vladimir
+			Wagner Walter William
+			Yakov Yevgeny Yohan Yuri
+			Zachary Zev Zohran
 		}
 
 		female_names = {
-			
+			Ada Aida Aileen Alexandria Alexia Alicia Amina Angela Angelica Anna Annalise Annette Arianna Arya
+			Barbara Bernice Bianca Bridget Brunella
+			Carmen Catarina Chantel Chelsea Christina Consuela Cynthia
+			Daisy Daniela Dolores
+			Elaine Eleanor Emily Emma Esmeralda Estella Esther Eunice
+			Fay Fioretta Fiorina Flor Francesca
+			Gabriela Gemma GIna Gita Grace Graziella
+			Hannah Helen
+			Indra Inez Irene Isabel
+			Jennifer Julia Juliana
+			Lana Latoya Lauren Lila Lisa Lola Lucia
+			Magdalena Marcela Maria Martha Maya Mei Melissa Mercedes Miriam Mindy Mona Monica Myrtle
+			Nadia Natalia Nidia Nilda Nina
+			Olga
+			Pamela Pauline
+			Rachel Ramona Rebecca Regina Renata Rhoda Rin Rita Rosa Rosalia Ruth
+			Salome Sanya Sasha Sonia Sophia Stephanie Susan Sylvia
+			Tania Tara Tarana Teresa
+			Vanessa Velma Vera Veronica Victoria Virginia
+			Yolanda
+			Zelda Zelina Zena Zenobia
 		}
 
 		pat_grf_name_chance = 50

@@ -1,4 +1,4 @@
-interiorano_group = {
+﻿interiorano_group = {
 graphical_cultures = {
 	interiorano_group_gfx
 	steppe_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			cordobes_coa_gfx
 		}
 
-		color = { 1.0 0.9 0.0 }
+			color = { 255 229 0 }
 
 		cadet_dynasty_names = {
 			"dynn_Alcorta"
@@ -184,18 +184,18 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	15 = caucasian
+	50 = mediterranean
+	5 = lagid
+	30 = med_indigenous
+}
 	}
 	turco = {
 		graphical_cultures = {
 			turco_coa_gfx
 		}
 
-		color = { 0.85 0.83 0.0 }
+			color = { 216 211 0 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -331,18 +331,20 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	60 = arab
+	5 = byzantine
+	15 = caucasian
+	10 = mediterranean
+	5 = med_indigenous
+	5 = med_black_ind
+}
 	}
 	chaqueno = {
 		graphical_cultures = {
 			chaqueno_coa_gfx
 		}
 
-		color = { 1.0 0.66 0.0 }
+			color = { 255 168 0 }
 
 		cadet_dynasty_names = {
 					"dynn_chaqueno_placeholder"
@@ -587,18 +589,17 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	30 = mediterranean
+	15 = lagid
+	55 = med_indigenous
+}
 	}
 	norteno = {
 		graphical_cultures = {
 			norteno_coa_gfx
 		}
 
-		color = { 0.81 0.69 0.0 }
+			color = { 206 175 0 }
 
 		cadet_dynasty_names = {
 					"dynn_"
@@ -798,18 +799,19 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	5 = arab
+	25 = mediterranean
+	20 = andean
+	5 = lagid
+	45 = med_indigenous
+}
 	}
 	cuyano = {
 		graphical_cultures = {
 			cuyano_coa_gfx
 		}
 
-		color = { 0.7 0.53 0.07 }
+			color = { 178 135 17 }
 
 		cadet_dynasty_names = {
 			"dynn_"
@@ -1003,10 +1005,10 @@ graphical_cultures = {
 		mother_name_chance = 40
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	10 = caucasian
+	30 = mediterranean
+	10 = lagid
+	50 = med_indigenous
+}
 	}
 }

@@ -1,0 +1,476 @@
+c_us_fl_miami = {
+	2656.1.1 = {
+		holder = character_c_us_fl_miami
+	}
+}
+d_miami = {
+	2656.1.1 = {
+		holder = character_c_us_fl_miami
+	}
+}
+k_florida = {
+	2656.1.1 = {
+		holder = character_c_us_fl_miami
+	}
+}
+e_gulfcoast = {
+	2656.1.1 = {
+		holder = character_c_us_fl_miami
+	}
+}
+
+c_us_fl_miami = {
+	2000.1.1 = {
+	 liege = d_miami
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_miami
+	}
+}
+
+c_us_fl_miami = {
+	2000.1.1 = {
+	 liege = d_miami
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_miami
+	}
+}
+
+c_us_fl_port_saint_lucie = {
+	2000.1.1 = {
+	 liege = d_miami
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_port_saint_lucie
+	}
+}
+
+c_us_fl_homestead = {
+	2000.1.1 = {
+	 liege = d_miami
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_homestead
+	}
+}
+
+c_us_fl_key_west = {
+	2000.1.1 = {
+	 liege = d_miami
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_key_west
+	}
+}
+
+c_tampa = {
+	2656.1.1 = {
+		holder = character_c_tampa
+	}
+}
+d_suncoast = {
+	2000.1.1 = {
+	 liege = k_florida
+	}
+	2656.1.1 = {
+		holder = character_c_tampa
+	}
+}
+
+c_tampa = {
+	2000.1.1 = {
+	 liege = d_suncoast
+	}
+	2656.1.1 = {
+		holder = character_c_tampa
+	}
+}
+
+c_us_fl_cape_coral = {
+	2000.1.1 = {
+	 liege = d_suncoast
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_cape_coral
+	}
+}
+
+c_us_fl_sebring = {
+	2000.1.1 = {
+	 liege = d_suncoast
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_sebring
+	}
+}
+
+c_us_fl_orlando = {
+	2656.1.1 = {
+		holder = character_c_us_fl_orlando
+	}
+}
+d_citriana = {
+	2000.1.1 = {
+	 liege = k_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_orlando
+	}
+}
+
+c_us_fl_palm_bay = {
+	2000.1.1 = {
+	 liege = d_citriana
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_palm_bay
+	}
+}
+
+c_us_fl_spring_hill = {
+	2000.1.1 = {
+	 liege = d_citriana
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_spring_hill
+	}
+}
+
+c_ocala = {
+	2000.1.1 = {
+	 liege = d_citriana
+	}
+	2656.1.1 = {
+		holder = character_c_ocala
+	}
+}
+
+c_us_fl_saint_cloud = {
+	2000.1.1 = {
+	 liege = d_citriana
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_saint_cloud
+	}
+}
+
+c_us_fl_jacksonville = {
+	2656.1.1 = {
+		holder = character_c_us_fl_jacksonville
+	}
+}
+d_first_coast = {
+	2000.1.1 = {
+	 liege = k_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_jacksonville
+	}
+}
+
+c_us_fl_jacksonville = {
+	2000.1.1 = {
+	 liege = d_first_coast
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_jacksonville
+	}
+}
+
+c_us_fl_deltona = {
+	2000.1.1 = {
+	 liege = d_first_coast
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_deltona
+	}
+}
+
+c_us_fl_east_pensacola_heights = {
+	2656.1.1 = {
+		holder = character_c_us_fl_east_pensacola_heights
+	}
+}
+d_muskogee = {
+	2000.1.1 = {
+	 liege = k_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_east_pensacola_heights
+	}
+}
+
+c_us_fl_tallahassee = {
+	2000.1.1 = {
+	 liege = d_muskogee
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_tallahassee
+	}
+}
+
+c_us_fl_bay = {
+	2000.1.1 = {
+	 liege = d_muskogee
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_bay
+	}
+}
+
+c_us_al_mobile = {
+	2656.1.1 = {
+		holder = character_c_us_al_mobile
+	}
+}
+d_mobile = {
+	2000.1.1 = {
+	 liege = k_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_al_mobile
+	}
+}
+
+c_us_fl_alachua = {
+	2656.1.1 = {
+		holder = character_c_us_fl_alachua
+	}
+}
+d_timucua = {
+	2000.1.1 = {
+	 liege = k_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_alachua
+	}
+}
+
+c_us_fl_lake_city = {
+	2000.1.1 = {
+	 liege = d_timucua
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_lake_city
+	}
+}
+
+c_us_fl_cross_city = {
+	2000.1.1 = {
+	 liege = d_timucua
+	}
+	2656.1.1 = {
+		holder = character_c_us_fl_cross_city
+	}
+}
+
+c_us_la_baton_rouge = {
+	2656.1.1 = {
+		holder = character_c_us_la_baton_rouge
+	}
+}
+d_acadiana = {
+	2656.1.1 = {
+		holder = character_c_us_la_baton_rouge
+	}
+}
+k_louisiana = {
+	2000.1.1 = {
+	 liege = e_gulfcoast
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_baton_rouge
+	}
+}
+
+c_us_la_lafayette = {
+	2000.1.1 = {
+	 liege = d_acadiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_lafayette
+	}
+}
+
+c_us_la_saint_charles_parish = {
+	2000.1.1 = {
+	 liege = d_acadiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_saint_charles_parish
+	}
+}
+
+c_us_la_calcasieu_parish = {
+	2000.1.1 = {
+	 liege = d_acadiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_calcasieu_parish
+	}
+}
+
+c_us_la_crowley = {
+	2000.1.1 = {
+	 liege = d_acadiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_crowley
+	}
+}
+
+c_us_la_opelousas = {
+	2000.1.1 = {
+	 liege = d_acadiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_opelousas
+	}
+}
+
+c_us_la_new_orleans = {
+	2656.1.1 = {
+		holder = character_c_us_la_new_orleans
+	}
+}
+d_orleans = {
+	2000.1.1 = {
+	 liege = k_louisiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_new_orleans
+	}
+}
+
+c_us_la_marrero = {
+	2000.1.1 = {
+	 liege = d_orleans
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_marrero
+	}
+}
+
+c_us_ms_gulfport = {
+	2656.1.1 = {
+		holder = character_c_us_ms_gulfport
+	}
+}
+d_west_florida = {
+	2000.1.1 = {
+	 liege = k_louisiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_ms_gulfport
+	}
+}
+
+c_us_la_baton_rouge = {
+	2000.1.1 = {
+	 liege = d_west_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_baton_rouge
+	}
+}
+
+c_us_la_slidell = {
+	2000.1.1 = {
+	 liege = d_west_florida
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_slidell
+	}
+}
+
+c_us_la_monroe = {
+	2656.1.1 = {
+		holder = character_c_us_la_monroe
+	}
+}
+d_ouachita = {
+	2000.1.1 = {
+	 liege = k_louisiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_monroe
+	}
+}
+
+c_us_la_ruston = {
+	2000.1.1 = {
+	 liege = d_ouachita
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_ruston
+	}
+}
+
+c_us_la_minden = {
+	2000.1.1 = {
+	 liege = d_ouachita
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_minden
+	}
+}
+
+c_us_la_tallulah = {
+	2000.1.1 = {
+	 liege = d_ouachita
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_tallulah
+	}
+}
+
+c_us_la_winnfield = {
+	2000.1.1 = {
+	 liege = d_ouachita
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_winnfield
+	}
+}
+
+c_us_la_alexandria = {
+	2656.1.1 = {
+		holder = character_c_us_la_alexandria
+	}
+}
+d_alexandria = {
+	2000.1.1 = {
+	 liege = k_louisiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_alexandria
+	}
+}
+
+c_us_la_natchitoches = {
+	2000.1.1 = {
+	 liege = d_alexandria
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_natchitoches
+	}
+}
+
+c_us_la_deridder = {
+	2000.1.1 = {
+	 liege = d_alexandria
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_deridder
+	}
+}
+
+c_us_la_pineville = {
+	2000.1.1 = {
+	 liege = d_alexandria
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_pineville
+	}
+}

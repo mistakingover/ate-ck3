@@ -1,4 +1,4 @@
-peruano_group = {
+﻿peruano_group = {
 graphical_cultures = {
 	peruano_group_gfx
 	indian_building_gfx
@@ -10,7 +10,7 @@ graphical_cultures = {
 			ileno_coa_gfx
 		}
 
-		color = { 0.92 0.54 0.81 }
+			color = { 234 137 206 }
 
 		cadet_dynasty_names = {
 					"dynn_ileno_placeholder"
@@ -38,18 +38,24 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 	arequipeno = {
 		graphical_cultures = {
 			arequipeno_coa_gfx
 		}
 
-		color = { 0.62 0.49 0.58 }
+			color = { 158 124 147 }
 
 		cadet_dynasty_names = {
 					"dynn_arequipeno_placeholder"
@@ -77,18 +83,24 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 	iqueno = {
 		graphical_cultures = {
 			iqueno_coa_gfx
 		}
 
-		color = { 0.57 0.33 0.5 }
+			color = { 145 84 127 }
 
 		cadet_dynasty_names = {
 					"dynn_iqueno_placeholder"
@@ -116,18 +128,24 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	2 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 	rimense = {
 		graphical_cultures = {
 			rimense_coa_gfx
 		}
 
-		color = { 0.57 0.11 0.44 }
+			color = { 145 28 112 }
 
 		cadet_dynasty_names = {
 					"dynn_rimense_placeholder"
@@ -155,18 +173,24 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 	nortechicano = {
 		graphical_cultures = {
 			nortechicano_coa_gfx
 		}
 
-		color = { 0.72 0.38 0.62 }
+			color = { 183 96 158 }
 
 		cadet_dynasty_names = {
 					"dynn_nortechicano_placeholder"
@@ -194,18 +218,24 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 	costanorteno = {
 		graphical_cultures = {
 			costanorteno_coa_gfx
 		}
 
-		color = { 0.5 0.14 0.68 }
+			color = { 127 35 173 }
 
 		cadet_dynasty_names = {
 					"dynn_costanorteno_placeholder"
@@ -233,18 +263,24 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 	huascareno = {
 		graphical_cultures = {
 			huascareno_coa_gfx
 		}
 
-		color = { 0.72 0.21 0.42 }
+			color = { 183 53 107 }
 
 		cadet_dynasty_names = {
 					"dynn_huascareno_placeholder"
@@ -272,10 +308,16 @@ graphical_cultures = {
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	1 = african
+	1 = asian
+	1 = caucasian
+	5 = mediterranean
+	68 = andean
+	5 = amazonian
+	15 = med_indigenous
+	1 = white_asian
+	2 = black_indigenous
+	1 = multiracial
+}
 	}
 }

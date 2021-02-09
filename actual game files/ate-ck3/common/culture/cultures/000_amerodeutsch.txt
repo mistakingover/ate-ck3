@@ -1,17 +1,17 @@
 ﻿amerodeutsch_group = {
-graphical_cultures = {
-	amerodeutsch_group_gfx
-	western_building_gfx
-	western_clothing_gfx
-	northern_unit_gfx
-}
+	graphical_cultures = {
+		amerodeutsch_group_gfx
+		western_building_gfx
+		western_clothing_gfx
+		northern_unit_gfx
+	}
 	
 	deitsch = {
 		graphical_cultures = {
 			deitsch_coa_gfx
 		}
 		
-		color = { 0.4 0.4 0.3 }
+			color = { 102 102 76 }
 	
 		cadet_dynasty_names = {
 			"dynn_Amstutz"
@@ -234,620 +234,282 @@ graphical_cultures = {
 		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	90 = caucasian
+	5 = mediterranean
+	5 = multiracial
+}
 	}
-	adelsverer = {
+	plautsdeutsch = {
 		graphical_cultures = {
-			adelsverer_coa_gfx
+			plautsdeutsch_coa_gfx
 		}
 		
-		color = { 0.6 0.3 0.3 }
+			color = { 153 153 102 }
 	
 		cadet_dynasty_names = {
-			"dynn_Abbethern"
-			"dynn_Adolph"
-			"dynn_Amelung"
-			"dynn_Backofen"
-			"dynn_Bickler"
-			"dynn_Cappes"
-			"dynn_Degener"
-			"dynn_Deichert"
-			"dynn_Dethard"
-			"dynn_Diercks"
-			"dynn_Dresel"
-			"dynn_Eiband"
-			"dynn_Eisenhower"
-			"dynn_Ernst"
-			"dynn_Fischer"
-			"dynn_Flach"
-			"dynn_Frels"
-			"dynn_Furstenfeld"
-			"dynn_Glau"
-			"dynn_Hardberger"
-			"dynn_Harring"
-			"dynn_Herff"
-			"dynn_Herring"
-			"dynn_Hoerner"
-			"dynn_Holekamp"
-			"dynn_Kappelhoff"
-			"dynn_Kattmann"
-			"dynn_Kilian"
-			"dynn_Kirschbaum"
-			"dynn_Kleberg"
-			"dynn_Koebig"
-			"dynn_Krauskopf"
+			"dynn_Banman"
+			"dynn_Barkman"
+			"dynn_Bartel"
+			"dynn_Bechtel"
+			"dynn_Berg"
+			"dynn_Bergen"
+			"dynn_Bergman"
+			"dynn_Bickert"
+			"dynn_Boehr"
+			"dynn_Brandt"
+			"dynn_Braun"
+			"dynn_Broesky"
+			"dynn_Bueckert"
+			"dynn_Buhler"
+			"dynn_Doerksen"
+			"dynn_Driedger"
+			"dynn_Dueck"
+			"dynn_Engbrecht"
+			"dynn_Enns"
+			"dynn_Epp"
+			"dynn_Erb"
+			"dynn_Esau"
+			"dynn_Falk"
+			"dynn_Fast"
+			"dynn_Fehderau"
+			"dynn_Fehr"
+			"dynn_Friesen"
+			"dynn_Froese"
+			"dynn_Funk"
+			"dynn_Gerbrandt"
+			"dynn_Giesbrecht"
+			"dynn_Goertzen"
+			"dynn_Groening"
+			"dynn_Gruenwald"
+			"dynn_Guenther"
+			"dynn_Hamm"
+			"dynn_Harder"
+			"dynn_Harms"
+			"dynn_Heidebrecht"
+			"dynn_Heinrichs"
+			"dynn_Hiebert"
+			"dynn_Hildebrandt"
+			"dynn_Hoeppner"
+			"dynn_Hoestler"
+			"dynn_Huebner"
+			"dynn_Janzen"
+			"dynn_Kehler"
+			"dynn_Klassen"
+			"dynn_Kleinsasser"
+			"dynn_Koop"
+			"dynn_Kornelsen"
+			"dynn_Kraft"
+			"dynn_Krahn"
+			"dynn_Krause"
+			"dynn_Kroeger"
+			"dynn_Kroetsch"
 			"dynn_Krueger"
-			"dynn_Kuechler"
-			"dynn_Lerch"
-			"dynn_Lindheimer"
-			"dynn_Loeffler"
-			"dynn_Lungkwitz"
-			"dynn_Machemehl"
-			"dynn_Marx"
-			"dynn_Meier"
-			"dynn_Merding"
-			"dynn_Meusebach"
-			"dynn_Miller"
-			"dynn_Mutscher"
-			"dynn_Neff"
-			"dynn_Neugebauer"
-			"dynn_Ney"
-			"dynn_Nimitz"
-			"dynn_Nohl"
-			"dynn_Parker"
-			"dynn_Petri"
-			"dynn_Rauschenberg"
-			"dynn_Reichardt"
-			"dynn_Roeder"
-			"dynn_Schieffer"
-			"dynn_Schleicher"
-			"dynn_Schlenning"
-			"dynn_Schuze"
-			"dynn_Selig"
-			"dynn_Siemering"
-			"dynn_Spiess"
-			"dynn_Stahl"
-			"dynn_Strubberg"
-			"dynn_Wahrenberger"
-			"dynn_Wohlgemuth"
-			"dynn_Wundt"
-			"dynn_Wurzbach"
-			"dynn_Zink"
-			"dynn_Zoeller"
+			"dynn_Letkeman"
+			"dynn_Loeppky"
+			"dynn_Loewen"
+			"dynn_Martens"
+			"dynn_Mierau"
+			"dynn_Neufeld"
+			"dynn_Nickel"
+			"dynn_Olfert"
+			"dynn_Pankratz"
+			"dynn_Penner"
+			"dynn_Peters"
+			"dynn_Petkau"
+			"dynn_Plett"
+			"dynn_Poetker"
+			"dynn_Redekop"
+			"dynn_Regehr"
+			"dynn_Reimer"
+			"dynn_Rempel"
+			"dynn_Sawatzky"
+			"dynn_Schantz"
+			"dynn_Schroeder"
+			"dynn_Siemens"
+			"dynn_Snyder"
+			"dynn_Stahlberg"
+			"dynn_Stobbe"
+			"dynn_Stoesz"
+			"dynn_Suderman"
+			"dynn_Thiessen"
+			"dynn_Toews"
+			"dynn_Unger"
+			"dynn_Unrau"
+			"dynn_Unruh"
+			"dynn_Vogt"
+			"dynn_Voth"
+			"dynn_Wall"
+			"dynn_Warkentin"
+			"dynn_Wenger"
+			"dynn_Wiebe"
+			"dynn_Wieler"
+			"dynn_Wiens"
+			"dynn_Yost"
+			"dynn_Zacharias"
+			"dynn_Zehr"
 		}
 		dynasty_names = {
-			"dynn_Abbethern"
-			"dynn_Adolph"
-			"dynn_Amelung"
-			"dynn_Backofen"
-			"dynn_Bickler"
-			"dynn_Cappes"
-			"dynn_Degener"
-			"dynn_Deichert"
-			"dynn_Dethard"
-			"dynn_Diercks"
-			"dynn_Dresel"
-			"dynn_Eiband"
-			"dynn_Eisenhower"
-			"dynn_Ernst"
-			"dynn_Fischer"
-			"dynn_Flach"
-			"dynn_Frels"
-			"dynn_Furstenfeld"
-			"dynn_Glau"
-			"dynn_Hardberger"
-			"dynn_Harring"
-			"dynn_Herff"
-			"dynn_Herring"
-			"dynn_Hoerner"
-			"dynn_Holekamp"
-			"dynn_Kappelhoff"
-			"dynn_Kattmann"
-			"dynn_Kilian"
-			"dynn_Kirschbaum"
-			"dynn_Kleberg"
-			"dynn_Koebig"
-			"dynn_Krauskopf"
+			"dynn_Banman"
+			"dynn_Barkman"
+			"dynn_Bartel"
+			"dynn_Bechtel"
+			"dynn_Berg"
+			"dynn_Bergen"
+			"dynn_Bergman"
+			"dynn_Bickert"
+			"dynn_Boehr"
+			"dynn_Brandt"
+			"dynn_Braun"
+			"dynn_Broesky"
+			"dynn_Bueckert"
+			"dynn_Buhler"
+			"dynn_Doerksen"
+			"dynn_Driedger"
+			"dynn_Dueck"
+			"dynn_Engbrecht"
+			"dynn_Enns"
+			"dynn_Epp"
+			"dynn_Erb"
+			"dynn_Esau"
+			"dynn_Falk"
+			"dynn_Fast"
+			"dynn_Fehderau"
+			"dynn_Fehr"
+			"dynn_Friesen"
+			"dynn_Froese"
+			"dynn_Funk"
+			"dynn_Gerbrandt"
+			"dynn_Giesbrecht"
+			"dynn_Goertzen"
+			"dynn_Groening"
+			"dynn_Gruenwald"
+			"dynn_Guenther"
+			"dynn_Hamm"
+			"dynn_Harder"
+			"dynn_Harms"
+			"dynn_Heidebrecht"
+			"dynn_Heinrichs"
+			"dynn_Hiebert"
+			"dynn_Hildebrandt"
+			"dynn_Hoeppner"
+			"dynn_Hoestler"
+			"dynn_Huebner"
+			"dynn_Janzen"
+			"dynn_Kehler"
+			"dynn_Klassen"
+			"dynn_Kleinsasser"
+			"dynn_Koop"
+			"dynn_Kornelsen"
+			"dynn_Kraft"
+			"dynn_Krahn"
+			"dynn_Krause"
+			"dynn_Kroeger"
+			"dynn_Kroetsch"
 			"dynn_Krueger"
-			"dynn_Kuechler"
-			"dynn_Lerch"
-			"dynn_Lindheimer"
-			"dynn_Loeffler"
-			"dynn_Lungkwitz"
-			"dynn_Machemehl"
-			"dynn_Marx"
-			"dynn_Meier"
-			"dynn_Merding"
-			"dynn_Meusebach"
-			"dynn_Miller"
-			"dynn_Mutscher"
-			"dynn_Neff"
-			"dynn_Neugebauer"
-			"dynn_Ney"
-			"dynn_Nimitz"
-			"dynn_Nohl"
-			"dynn_Parker"
-			"dynn_Petri"
-			"dynn_Rauschenberg"
-			"dynn_Reichardt"
-			"dynn_Roeder"
-			"dynn_Schieffer"
-			"dynn_Schleicher"
-			"dynn_Schlenning"
-			"dynn_Schuze"
-			"dynn_Selig"
-			"dynn_Siemering"
-			"dynn_Spiess"
-			"dynn_Stahl"
-			"dynn_Strubberg"
-			"dynn_Wahrenberger"
-			"dynn_Wohlgemuth"
-			"dynn_Wundt"
-			"dynn_Wurzbach"
-			"dynn_Zink"
-			"dynn_Zoeller"
+			"dynn_Letkeman"
+			"dynn_Loeppky"
+			"dynn_Loewen"
+			"dynn_Martens"
+			"dynn_Mierau"
+			"dynn_Neufeld"
+			"dynn_Nickel"
+			"dynn_Olfert"
+			"dynn_Pankratz"
+			"dynn_Penner"
+			"dynn_Peters"
+			"dynn_Petkau"
+			"dynn_Plett"
+			"dynn_Poetker"
+			"dynn_Redekop"
+			"dynn_Regehr"
+			"dynn_Reimer"
+			"dynn_Rempel"
+			"dynn_Sawatzky"
+			"dynn_Schantz"
+			"dynn_Schroeder"
+			"dynn_Siemens"
+			"dynn_Snyder"
+			"dynn_Stahlberg"
+			"dynn_Stobbe"
+			"dynn_Stoesz"
+			"dynn_Suderman"
+			"dynn_Thiessen"
+			"dynn_Toews"
+			"dynn_Unger"
+			"dynn_Unrau"
+			"dynn_Unruh"
+			"dynn_Vogt"
+			"dynn_Voth"
+			"dynn_Wall"
+			"dynn_Warkentin"
+			"dynn_Wenger"
+			"dynn_Wiebe"
+			"dynn_Wieler"
+			"dynn_Wiens"
+			"dynn_Yost"
+			"dynn_Zacharias"
+			"dynn_Zehr"
 		}
 		
 		male_names = {
-			Alexander Anselm Antonie August
-			Burchard
-			Chester Clark
-			David Dewey Dwight
-			Earl Edgar Edward Engelbert Ernest
-			Ferdinand Francis Franklin Friedrich
-			Georg Gustav
-			Hans Harry Heinrich Hermann Homer
-			Jacob Johann Julius Justin Justus
-			Karl Kel
-			Ludolph Ludwig
-			Milton Newton
-			Nikolaus
-			Ottfried Otto Ovie
-			Paul Phil
-			Ralph Randy Raymond Richard Robert Rudolph
-			Stover
-			Tom
-			Viktor
-			William
-			Zachary
+			Abram Adolf Alan Albert Alfred Andreas Armin Arno Art
+			Bart Benno Bernhard Brad Bryan Byron
+			Christian Christopher Cornelius Curwin
+			Dave Delbert Diedrich Dick Dirk Don
+			Earl Ed Elias Elmer Elwin Erhart Erich Ernie Erwin
+			Floyd Franz Fred
+			Garth Gary Gerhard Gregor
+			Hank Hans Harry Helmut Herman Homer Howard
+			Isaac
+			Jakob Joel Johan Jonathan Joseph
+			Karl Kelvin Klaas
+			Leonhard
+			Mark Maurice Menno Matt
+			Nikolai
+			Otto
+			Patrick Paul Peter
+			Ray Reginald Reuben Rob Ron Rudolf
+			Samuel Siegfried Simon Stan Steven
+			Thom
+			Vernon Victor Vincent
+			Werner
 		}
 		female_names = {
-			Abby Aganetha Allison Anna
-			Barbara Becky Betty
+			Abby Aganetha Allison Anne
+			Barbara Becky
 			Candice Carrie Cindy
-			Dora Doris Dotty
+			Dora Doris Dorothy
 			Edna Elizabeth Emma Erna Esther
 			Gertrude Greta
-			Hannah Harriet Helena Henrietta
+			Hannah Harriet Heather Helen Henrietta
 			Ingrid
-			Jane Janice Judith Judy Julia
-			Katherina
+			Jane Janice Judith Julia
+			Katherine
 			Lilly Lisa Lois Lynette
-			Magdalena Maggy Marge Maria Martha Michelle
+			Magdalena Marge Martha Mary Miriam
 			Nancy
-			Rachel Rebecca Robyn
-			Sarah Sophie Suzy
-			Trudy
+			Rachel Rebecca Ruth 
+			Sarah Sophie
 			Wanda
 		}
 		dynasty_of_location_prefix = "dynnp_von"
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
+		mat_grf_name_chance = 30
 		father_name_chance = 10
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
+		pat_grm_name_chance = 25
 		mat_grm_name_chance = 50
-		mother_name_chance = 5
+		mother_name_chance = 10
 		
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
-	}
-	czexan = {
-		graphical_cultures = {
-			czexan_coa_gfx
-		}
-		
-		color = { 0.70 0.42 0.41  }
-	
-		cadet_dynasty_names = {
-			"dynn_Bajer"
-			"dynn_Barta"
-			"dynn_Bartosh"
-			"dynn_Beran"
-			"dynn_Bertsch"
-			"dynn_Beseda"
-			"dynn_Bludau"
-			"dynn_Bohac"
-			"dynn_Brosch"
-			"dynn_Bucanek"
-			"dynn_Bujnoch"
-			"dynn_Canik"
-			"dynn_Cernosek"
-			"dynn_Cervenka"
-			"dynn_Chovanec
-			"dynn_Chudej"
-			"dynn_Coufal"
-			"dynn_Cufr"
-			"dynn_Darilek"
-			"dynn_Dornak"
-			"dynn_Drozd"
-			"dynn_Dudik"
-			"dynn_Dvorak"
-			"dynn_Etzel"
-			"dynn_Fojtik"
-			"dynn_Fritsch"
-			"dynn_Gerik"
-			"dynn_Goerig"
-			"dynn_Hajek"
-			"dynn_Halamicek"
-			"dynn_Henneke"
-			"dynn_Hlavaty"
-			"dynn_Holecek"
-			"dynn_Horak"
-			"dynn_Hrncir"
-			"dynn_Hromadka"
-			"dynn_Hutyra"
-			"dynn_Hykel"
-			"dynn_Jakubik"
-			"dynn_Jalufka"
-			"dynn_Janda"
-			"dynn_Janek"
-			"dynn_Jansky"
-			"dynn_Jares"
-			"dynn_Jarosek"
-			"dynn_Jezisek"
-			"dynn_Junek"
-			"dynn_Jurecka"
-			"dynn_Kaderka"
-			"dynn_Kaiser"
-			"dynn_Kallus"
-			"dynn_Kaluza"
-			"dynn_Kapavik"
-			"dynn_Karlik"
-			"dynn_Kaska"
-			"dynn_Kasmiersky"
-			"dynn_Klekar"
-			"dynn_Klesel"
-			"dynn_Klimitchek"
-			"dynn_Kloesel"
-			"dynn_Knapek"
-			"dynn_Knesek"
-			"dynn_Kocian"
-			"dynn_Kocurek"
-			"dynn_Kolar"
-			"dynn_Kostecka"
-			"dynn_Kovar"
-			"dynn_Krenek"
-			"dynn_Kresta"
-			"dynn_Kubala"
-			"dynn_Kubena"
-			"dynn_Kucera"
-			"dynn_Kudelka"
-			"dynn_Kulhanek"
-			"dynn_Kutscherousky"
-			"dynn_Labaj"
-			"dynn_Lednicky"
-			"dynn_Machacek"
-			"dynn_Macik"
-			"dynn_Malota"
-			"dynn_Marek"
-			"dynn_Maresh"
-			"dynn_Mascheck"
-			"dynn_Matocha"
-			"dynn_Matula"
-			"dynn_Matus"
-			"dynn_Michalsky"
-			"dynn_Moeller"
-			"dynn_Mozisek"
-			"dynn_Muska"
-			"dynn_Muzny"
-			"dynn_Mynarcik"
-			"dynn_Nemec"
-			"dynn_Nors"
-			"dynn_Novosad"
-			"dynn_Ofczarzak"
-			"dynn_Ondrasek"
-			"dynn_Orsak"
-			"dynn_Pavelka"
-			"dynn_Pavlicek"
-			"dynn_Pekar"
-			"dynn_Picha"
-			"dynn_Pietsch"
-			"dynn_Podsednik"
-			"dynn_Pohl"
-			"dynn_Pokluda"
-			"dynn_Polansky"
-			"dynn_Polasek"
-			"dynn_Pratka"
-			"dynn_Prazak"
-			"dynn_Pustejovsky"
-			"dynn_Pustka"
-			"dynn_Rejcek"
-			"dynn_Repek"
-			"dynn_Rother"
-			"dynn_Roznos"
-			"dynn_Roznovsky"
-			"dynn_Schielak"
-			"dynn_Schindler"
-			"dynn_Schley"
-			"dynn_Sebesta"
-			"dynn_Sefcik"
-			"dynn_Selucky"
-			"dynn_Sembera"
-			"dynn_Shirocky"
-			"dynn_Simcik"
-			"dynn_Sklar"
-			"dynn_Skrabanek"
-			"dynn_Skrhak"
-			"dynn_Smolik"
-			"dynn_Snider"
-			"dynn_Snokhous"
-			"dynn_Sodek"
-			"dynn_Soukup"
-			"dynn_Srubar"
-			"dynn_Steffek"
-			"dynn_Stojanik"
-			"dynn_Strmiska"
-			"dynn_Sulak"
-			"dynn_Supak"
-			"dynn_Surovik"
-			"dynn_Svetlik"
-			"dynn_Sykora"
-			"dynn_Urbanovsky"
-			"dynn_Vajdak"
-			"dynn_Vanek"
-			"dynn_Vasut"
-			"dynn_Vavra"
-			"dynn_Veselka"
-			"dynn_Vitek"
-			"dynn_Vochoska"
-			"dynn_Vrabel"
-			"dynn_Vrana"
-			"dynn_Vrba"
-			"dynn_Zahirniak"
-			"dynn_Zapalac"
-			"dynn_Zavodny"
-			"dynn_Zboril"
-			"dynn_Zgabay"
-			"dynn_Zrubek"
-		}
-		dynasty_names = {
-			"dynn_Bajer"
-			"dynn_Barta"
-			"dynn_Bartosh"
-			"dynn_Beran"
-			"dynn_Bertsch"
-			"dynn_Beseda"
-			"dynn_Bludau"
-			"dynn_Bohac"
-			"dynn_Brosch"
-			"dynn_Bucanek"
-			"dynn_Bujnoch"
-			"dynn_Canik"
-			"dynn_Cernosek"
-			"dynn_Cervenka"
-			"dynn_Chovanec
-			"dynn_Chudej"
-			"dynn_Coufal"
-			"dynn_Cufr"
-			"dynn_Darilek"
-			"dynn_Dornak"
-			"dynn_Drozd"
-			"dynn_Dudik"
-			"dynn_Dvorak"
-			"dynn_Etzel"
-			"dynn_Fojtik"
-			"dynn_Fritsch"
-			"dynn_Gerik"
-			"dynn_Goerig"
-			"dynn_Hajek"
-			"dynn_Halamicek"
-			"dynn_Henneke"
-			"dynn_Hlavaty"
-			"dynn_Holecek"
-			"dynn_Horak"
-			"dynn_Hrncir"
-			"dynn_Hromadka"
-			"dynn_Hutyra"
-			"dynn_Hykel"
-			"dynn_Jakubik"
-			"dynn_Jalufka"
-			"dynn_Janda"
-			"dynn_Janek"
-			"dynn_Jansky"
-			"dynn_Jares"
-			"dynn_Jarosek"
-			"dynn_Jezisek"
-			"dynn_Junek"
-			"dynn_Jurecka"
-			"dynn_Kaderka"
-			"dynn_Kaiser"
-			"dynn_Kallus"
-			"dynn_Kaluza"
-			"dynn_Kapavik"
-			"dynn_Karlik"
-			"dynn_Kaska"
-			"dynn_Kasmiersky"
-			"dynn_Klekar"
-			"dynn_Klesel"
-			"dynn_Klimitchek"
-			"dynn_Kloesel"
-			"dynn_Knapek"
-			"dynn_Knesek"
-			"dynn_Kocian"
-			"dynn_Kocurek"
-			"dynn_Kolar"
-			"dynn_Kostecka"
-			"dynn_Kovar"
-			"dynn_Krenek"
-			"dynn_Kresta"
-			"dynn_Kubala"
-			"dynn_Kubena"
-			"dynn_Kucera"
-			"dynn_Kudelka"
-			"dynn_Kulhanek"
-			"dynn_Kutscherousky"
-			"dynn_Labaj"
-			"dynn_Lednicky"
-			"dynn_Machacek"
-			"dynn_Macik"
-			"dynn_Malota"
-			"dynn_Marek"
-			"dynn_Maresh"
-			"dynn_Mascheck"
-			"dynn_Matocha"
-			"dynn_Matula"
-			"dynn_Matus"
-			"dynn_Michalsky"
-			"dynn_Moeller"
-			"dynn_Mozisek"
-			"dynn_Muska"
-			"dynn_Muzny"
-			"dynn_Mynarcik"
-			"dynn_Nemec"
-			"dynn_Nors"
-			"dynn_Novosad"
-			"dynn_Ofczarzak"
-			"dynn_Ondrasek"
-			"dynn_Orsak"
-			"dynn_Pavelka"
-			"dynn_Pavlicek"
-			"dynn_Pekar"
-			"dynn_Picha"
-			"dynn_Pietsch"
-			"dynn_Podsednik"
-			"dynn_Pohl"
-			"dynn_Pokluda"
-			"dynn_Polansky"
-			"dynn_Polasek"
-			"dynn_Pratka"
-			"dynn_Prazak"
-			"dynn_Pustejovsky"
-			"dynn_Pustka"
-			"dynn_Rejcek"
-			"dynn_Repek"
-			"dynn_Rother"
-			"dynn_Roznos"
-			"dynn_Roznovsky"
-			"dynn_Schielak"
-			"dynn_Schindler"
-			"dynn_Schley"
-			"dynn_Sebesta"
-			"dynn_Sefcik"
-			"dynn_Selucky"
-			"dynn_Sembera"
-			"dynn_Shirocky"
-			"dynn_Simcik"
-			"dynn_Sklar"
-			"dynn_Skrabanek"
-			"dynn_Skrhak"
-			"dynn_Smolik"
-			"dynn_Snider"
-			"dynn_Snokhous"
-			"dynn_Sodek"
-			"dynn_Soukup"
-			"dynn_Srubar"
-			"dynn_Steffek"
-			"dynn_Stojanik"
-			"dynn_Strmiska"
-			"dynn_Sulak"
-			"dynn_Supak"
-			"dynn_Surovik"
-			"dynn_Svetlik"
-			"dynn_Sykora"
-			"dynn_Urbanovsky"
-			"dynn_Vajdak"
-			"dynn_Vanek"
-			"dynn_Vasut"
-			"dynn_Vavra"
-			"dynn_Veselka"
-			"dynn_Vitek"
-			"dynn_Vochoska"
-			"dynn_Vrabel"
-			"dynn_Vrana"
-			"dynn_Vrba"
-			"dynn_Zahirniak"
-			"dynn_Zapalac"
-			"dynn_Zavodny"
-			"dynn_Zboril"
-			"dynn_Zgabay"
-			"dynn_Zrubek"
-		}
-		
-		male_names = {
-			Adam Albert Alexander Alfred Allen Anton Antonin Arthur Austin
-			Bedrich Bill Bohumil Boris
-			Daniel Darrell David
-			Edmund Edward Egon Ellis Erik
-			Frank Frederick
-			George
-			Henrik Hugo
-			Jan Jaromir Jaroslav Jay Josef
-			Karel Kaspar
-			Ladislav Len Lubomir Ludvik
-			Mark Martin Matthew Michael Mikulas Miloslav Miroslav Mojmir
-			Norbert
-			Oldrich Oliver Ondrew Osvald
-			Patrick Paul Peter
-			Raymond Richard Robert Roman Rudolf
-			Samuel Slavek Stepan
-			Theodor Tim Tomas
-			Vaclav Valentin Vladimir Vladislav Vojtech
-			Walter
-		}
-		female_names = {
-			Albina Amelia Angelika Anna
-			Barbara
-			Danica Daniela Daria Denise Dominika Donna Dora
-			Elena Emma Erika Eva
-			Gisela
-			Hannah
-			Ilona Irena Isabella Ivana
-			Jana Janica Jarmila Jessica Judith
-			Karolina Kathrine
-			Lena Liana Livia Lucia Ludmila
-			Magdalena Maria Marilyn Martha Martina Mila Milena Mira Miriam Monika
-			Nadia Natasha Nicole Nina
-			Olga Olivia
-			Paulina
-			Renata Romana Rosa
-			Sabina Sarah Stefania Susana
-			Tamara Tatiana
-			Valeria Vanessa
-			Wilma
-		}
-		dynasty_of_location_prefix = "dynnp_z"
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 5
-		
-		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
-		}
+	100 = caucasian
+}
 	}
 	yiddish = {
-		color = { 0.5 0.05 0.05 }
+			color = { 127 12 12 }
 	
 		cadet_dynasty_names = {
 			"dynn_"
@@ -876,10 +538,12 @@ graphical_cultures = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
-		}
+	3 = african
+	15 = arab
+	2 = asian
+	30 = caucasian
+	43 = slavic
+	7 = med_indigenous
+}
 	}
 }

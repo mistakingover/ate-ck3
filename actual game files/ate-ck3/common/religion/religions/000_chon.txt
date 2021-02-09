@@ -1,4 +1,4 @@
-chon_religion = {
+﻿chon_religion = {
 	family = rf_amerindian
 	graphical_faith = pagan_gfx
 	doctrine = amerindian_hostility_doctrine
@@ -194,7 +194,7 @@ chon_religion = {
 
 	faiths = {
 		xoon = {
-			color = hsv { 0.8 0.25 0.4 }
+			color = { 112 69 82 }
 			icon = xoon
 
 			#holy_site = trinidad

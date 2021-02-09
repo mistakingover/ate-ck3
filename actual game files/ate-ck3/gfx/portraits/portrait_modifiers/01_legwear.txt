@@ -153,5 +153,84 @@
 			}
 		}
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	############################ A T E ##############################
+	
+	
+	amazonian_common_legwear = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = amazonian_loincloth_common
+            }
+        }
+		weight = {
+			base = 0
+			modifier = {
+				add = 50
+				portrait_amazonian_clothing_trigger = yes
+				highest_held_title_tier < tier_county
+				NOR = {
+					AND = {
+						has_government = republic_government
+						primary_title.tier > 1
+					}
+					has_government = theocracy_government
+				}
+			}
+		}
+	}
+
+	amazonian_nobility_low_legwear = {
+		dna_modifiers = {
+            accessory = {
+				mode = add
+                gene = legwear
+                template = amazonian_loincloth_nobility
+            }
+        }
+		weight = {
+			base = 0
+			modifier = {
+				add = 70
+				OR = {
+					AND = {
+						OR = {
+							highest_held_title_tier > tier_barony
+							AND = {
+								has_government = republic_government
+								primary_title.tier > 1
+							}
+							has_government = theocracy_government
+						}
+						portrait_amazonian_clothing_trigger = yes
+					}
+					AND = {
+						exists = primary_spouse
+						is_ruler = no
+						primary_spouse = {
+							OR = {
+								highest_held_title_tier > tier_county
+								AND = {
+									has_government = republic_government
+									primary_title.tier > 1
+								}
+								has_government = theocracy_government
+							}
+							portrait_amazonian_clothing_trigger = yes
+						}
+					}
+				}
+			}
+		}
+	}
 
 }

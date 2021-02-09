@@ -1,0 +1,31 @@
+﻿metropolis_holding = {
+	primary_building = metropolis_01
+	buildings = {
+		metro_university_01
+		metro_temple_01
+		metro_palace_01
+		metro_monument_01
+		metro_stadium_01
+		metro_fortress_01
+		metro_harbour_01
+		metro_trade_01
+		metro_arsenal_01
+		metro_tower_01
+		
+		farm_estates_01
+		cereal_fields_01
+		pastures_01
+		peat_quarries_01
+		hill_farms_01
+		logging_camps_01
+		plantations_01
+		quarries_01
+		orchards_01
+		elephant_pens_01
+		hunting_grounds_01
+		camel_farms_01
+
+		common_tradeport_01
+	}
+	flag = castle
+}

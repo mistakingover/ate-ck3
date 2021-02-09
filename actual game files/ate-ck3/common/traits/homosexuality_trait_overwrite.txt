@@ -1,0 +1,36 @@
+sodomite = {
+	index = 234
+	fame = yes
+
+	same_opinion = 10
+	
+	shown_in_ruler_designer = no
+	
+	triggered_opinion = {
+		parameter = homosexuality_illegal
+		opinion_modifier = sodomite_crime
+		ignore_opinion_value_if_same_trait = yes
+	}
+	triggered_opinion = {
+		parameter = homosexuality_shunned
+		opinion_modifier = sodomite_intolerant
+		ignore_opinion_value_if_same_trait = yes
+	}
+	triggered_opinion = {
+		parameter = homosexuality_indifferent
+		opinion_modifier = sodomite_indifferent
+		ignore_opinion_value_if_same_trait = yes
+	}
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_sodomite_desc
+			}
+			desc = trait_sodomite_character_desc
+		}
+	}
+}
