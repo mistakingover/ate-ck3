@@ -1,0 +1,795 @@
+c_ve_25_caracas = {
+	2656.1.1 = {
+		holder = character_c_ve_25_caracas
+	}
+}
+d_gran_caracas = {
+	2656.1.1 = {
+		holder = character_c_ve_25_caracas
+	}
+}
+k_venezuela = {
+	2656.1.1 = {
+		holder = character_c_ve_25_caracas
+	}
+}
+e_venezuela = {
+	2656.1.1 = {
+		holder = character_c_ve_25_caracas
+	}
+}
+
+c_ve_04_maracay = {
+	2000.1.1 = {
+	 liege = d_gran_caracas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_04_maracay
+	}
+}
+
+c_ve_07_valencia = {
+	2000.1.1 = {
+	 liege = d_gran_caracas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_07_valencia
+	}
+}
+
+c_ve_15_guatire = {
+	2000.1.1 = {
+	 liege = d_gran_caracas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_15_guatire
+	}
+}
+
+c_ve_26_catia_la_mar = {
+	2000.1.1 = {
+	 liege = d_gran_caracas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_26_catia_la_mar
+	}
+}
+
+c_ve_15_verde = {
+	2000.1.1 = {
+	 liege = d_gran_caracas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_15_verde
+	}
+}
+
+c_ve_13_barquisimeto = {
+	2656.1.1 = {
+		holder = character_c_ve_13_barquisimeto
+	}
+}
+d_lara = {
+	2000.1.1 = {
+	 liege = k_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_13_barquisimeto
+	}
+}
+
+c_ve_22_yaritagua = {
+	2000.1.1 = {
+	 liege = d_lara
+	}
+	2656.1.1 = {
+		holder = character_c_ve_22_yaritagua
+	}
+}
+
+c_ve_13_carora = {
+	2000.1.1 = {
+	 liege = d_lara
+	}
+	2656.1.1 = {
+		holder = character_c_ve_13_carora
+	}
+}
+
+c_ve_02_barcelona = {
+	2656.1.1 = {
+		holder = character_c_ve_02_barcelona
+	}
+}
+d_anzoategui = {
+	2000.1.1 = {
+	 liege = k_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_02_barcelona
+	}
+}
+
+c_ve_02_el_tigre = {
+	2000.1.1 = {
+	 liege = d_anzoategui
+	}
+	2656.1.1 = {
+		holder = character_c_ve_02_el_tigre
+	}
+}
+
+c_ve_02_anaco = {
+	2000.1.1 = {
+	 liege = d_anzoategui
+	}
+	2656.1.1 = {
+		holder = character_c_ve_02_anaco
+	}
+}
+
+c_ve_06_los_frailes = {
+	2000.1.1 = {
+	 liege = d_anzoategui
+	}
+	2656.1.1 = {
+		holder = character_c_ve_06_los_frailes
+	}
+}
+
+c_ve_16_matur_n = {
+	2656.1.1 = {
+		holder = character_c_ve_16_matur_n
+	}
+}
+d_monagas = {
+	2000.1.1 = {
+	 liege = k_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_16_matur_n
+	}
+}
+
+c_ve_09_tucupita = {
+	2000.1.1 = {
+	 liege = d_monagas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_09_tucupita
+	}
+}
+
+c_ve_16_el_cerro_del_chivo = {
+	2000.1.1 = {
+	 liege = d_monagas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_16_el_cerro_del_chivo
+	}
+}
+
+c_ve_11_coro = {
+	2656.1.1 = {
+		holder = character_c_ve_11_coro
+	}
+}
+d_falcon = {
+	2000.1.1 = {
+	 liege = k_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_11_coro
+	}
+}
+
+c_ve_11_punto_fijo = {
+	2000.1.1 = {
+	 liege = d_falcon
+	}
+	2656.1.1 = {
+		holder = character_c_ve_11_punto_fijo
+	}
+}
+
+c_ve_11_chichiriviche = {
+	2000.1.1 = {
+	 liege = d_falcon
+	}
+	2656.1.1 = {
+		holder = character_c_ve_11_chichiriviche
+	}
+}
+
+c_ve_11_madre_de_agua = {
+	2000.1.1 = {
+	 liege = d_falcon
+	}
+	2656.1.1 = {
+		holder = character_c_ve_11_madre_de_agua
+	}
+}
+
+c_ve_19_cuman_ = {
+	2656.1.1 = {
+		holder = character_c_ve_19_cuman_
+	}
+}
+d_sucre = {
+	2000.1.1 = {
+	 liege = k_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_19_cuman_
+	}
+}
+
+c_ve_19_car_pano = {
+	2000.1.1 = {
+	 liege = d_sucre
+	}
+	2656.1.1 = {
+		holder = character_c_ve_19_car_pano
+	}
+}
+
+c_ve_16_tenteduro = {
+	2000.1.1 = {
+	 liege = d_sucre
+	}
+	2656.1.1 = {
+		holder = character_c_ve_16_tenteduro
+	}
+}
+
+c_ve_23_maracaibo = {
+	2656.1.1 = {
+		holder = character_c_ve_23_maracaibo
+	}
+}
+d_zulia = {
+	2656.1.1 = {
+		holder = character_c_ve_23_maracaibo
+	}
+}
+k_zulia = {
+	2000.1.1 = {
+	 liege = e_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_23_maracaibo
+	}
+}
+
+c_ve_23_machiques = {
+	2000.1.1 = {
+	 liege = d_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_ve_23_machiques
+	}
+}
+
+c_ve_23_san_carlos_del_zulia = {
+	2000.1.1 = {
+	 liege = d_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_ve_23_san_carlos_del_zulia
+	}
+}
+
+c_ve_14_miraflores = {
+	2000.1.1 = {
+	 liege = d_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_ve_14_miraflores
+	}
+}
+
+c_ve_14_buena_vista = {
+	2000.1.1 = {
+	 liege = d_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_ve_14_buena_vista
+	}
+}
+
+c_co_21_c_cuta = {
+	2656.1.1 = {
+		holder = character_c_co_21_c_cuta
+	}
+}
+d_los_andes = {
+	2000.1.1 = {
+	 liege = k_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_co_21_c_cuta
+	}
+}
+
+c_ve_14_m_rida = {
+	2000.1.1 = {
+	 liege = d_los_andes
+	}
+	2656.1.1 = {
+		holder = character_c_ve_14_m_rida
+	}
+}
+
+c_ve_20_san_crist_bal = {
+	2000.1.1 = {
+	 liege = d_los_andes
+	}
+	2656.1.1 = {
+		holder = character_c_ve_20_san_crist_bal
+	}
+}
+
+c_ve_14_el_vig_a = {
+	2000.1.1 = {
+	 liege = d_los_andes
+	}
+	2656.1.1 = {
+		holder = character_c_ve_14_el_vig_a
+	}
+}
+
+c_co_21_tib_ = {
+	2000.1.1 = {
+	 liege = d_los_andes
+	}
+	2656.1.1 = {
+		holder = character_c_co_21_tib_
+	}
+}
+
+c_ve_05_parroquia_puerto_vivas = {
+	2000.1.1 = {
+	 liege = d_los_andes
+	}
+	2656.1.1 = {
+		holder = character_c_ve_05_parroquia_puerto_vivas
+	}
+}
+
+c_ve_23_cabimas = {
+	2656.1.1 = {
+		holder = character_c_ve_23_cabimas
+	}
+}
+d_aguas = {
+	2000.1.1 = {
+	 liege = k_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_ve_23_cabimas
+	}
+}
+
+c_ve_21_valera = {
+	2000.1.1 = {
+	 liege = d_aguas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_21_valera
+	}
+}
+
+c_ve_23_lagunillas = {
+	2000.1.1 = {
+	 liege = d_aguas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_23_lagunillas
+	}
+}
+
+c_ve_14_las_mesas = {
+	2000.1.1 = {
+	 liege = d_aguas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_14_las_mesas
+	}
+}
+
+c_co_17_maicao = {
+	2656.1.1 = {
+		holder = character_c_co_17_maicao
+	}
+}
+d_guajira = {
+	2000.1.1 = {
+	 liege = k_zulia
+	}
+	2656.1.1 = {
+		holder = character_c_co_17_maicao
+	}
+}
+
+c_co_17_riohacha = {
+	2000.1.1 = {
+	 liege = d_guajira
+	}
+	2656.1.1 = {
+		holder = character_c_co_17_riohacha
+	}
+}
+
+c_ve_23_guampesi = {
+	2000.1.1 = {
+	 liege = d_guajira
+	}
+	2656.1.1 = {
+		holder = character_c_ve_23_guampesi
+	}
+}
+
+c_ve_05_barinas = {
+	2656.1.1 = {
+		holder = character_c_ve_05_barinas
+	}
+}
+d_barinas = {
+	2656.1.1 = {
+		holder = character_c_ve_05_barinas
+	}
+}
+k_zamora = {
+	2000.1.1 = {
+	 liege = e_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_ve_05_barinas
+	}
+}
+
+c_ve_03_garcitas = {
+	2000.1.1 = {
+	 liege = d_barinas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_03_garcitas
+	}
+}
+
+c_ve_05_parroquia_la_uni_n = {
+	2000.1.1 = {
+	 liege = d_barinas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_05_parroquia_la_uni_n
+	}
+}
+
+c_ve_05_parroquia_andr_s_bello = {
+	2000.1.1 = {
+	 liege = d_barinas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_05_parroquia_andr_s_bello
+	}
+}
+
+c_ve_05_parroquia_santa_catalina = {
+	2000.1.1 = {
+	 liege = d_barinas
+	}
+	2656.1.1 = {
+		holder = character_c_ve_05_parroquia_santa_catalina
+	}
+}
+
+c_ve_18_acarigua = {
+	2656.1.1 = {
+		holder = character_c_ve_18_acarigua
+	}
+}
+d_portuguesa = {
+	2000.1.1 = {
+	 liege = k_zamora
+	}
+	2656.1.1 = {
+		holder = character_c_ve_18_acarigua
+	}
+}
+
+c_ve_08_tinaquillo = {
+	2000.1.1 = {
+	 liege = d_portuguesa
+	}
+	2656.1.1 = {
+		holder = character_c_ve_08_tinaquillo
+	}
+}
+
+c_ve_18_guanare = {
+	2000.1.1 = {
+	 liege = d_portuguesa
+	}
+	2656.1.1 = {
+		holder = character_c_ve_18_guanare
+	}
+}
+
+c_ve_08_el_palmar = {
+	2000.1.1 = {
+	 liege = d_portuguesa
+	}
+	2656.1.1 = {
+		holder = character_c_ve_08_el_palmar
+	}
+}
+
+c_ve_12_calabozo = {
+	2656.1.1 = {
+		holder = character_c_ve_12_calabozo
+	}
+}
+d_calabozo = {
+	2000.1.1 = {
+	 liege = k_zamora
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_calabozo
+	}
+}
+
+c_ve_12_san_juan_de_los_morros = {
+	2000.1.1 = {
+	 liege = d_calabozo
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_san_juan_de_los_morros
+	}
+}
+
+c_ve_04_guayabito = {
+	2000.1.1 = {
+	 liege = d_calabozo
+	}
+	2656.1.1 = {
+		holder = character_c_ve_04_guayabito
+	}
+}
+
+c_ve_12_los_dragos = {
+	2000.1.1 = {
+	 liege = d_calabozo
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_los_dragos
+	}
+}
+
+c_ve_12_de_la_pascua = {
+	2656.1.1 = {
+		holder = character_c_ve_12_de_la_pascua
+	}
+}
+d_guarico = {
+	2000.1.1 = {
+	 liege = k_zamora
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_de_la_pascua
+	}
+}
+
+c_ve_12_zaraza = {
+	2000.1.1 = {
+	 liege = d_guarico
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_zaraza
+	}
+}
+
+c_ve_12_altagracia_de_orituco = {
+	2000.1.1 = {
+	 liege = d_guarico
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_altagracia_de_orituco
+	}
+}
+
+c_ve_12_la_veguita = {
+	2000.1.1 = {
+	 liege = d_guarico
+	}
+	2656.1.1 = {
+		holder = character_c_ve_12_la_veguita
+	}
+}
+
+c_co_19_villavicencio = {
+	2656.1.1 = {
+		holder = character_c_co_19_villavicencio
+	}
+}
+d_meta = {
+	2656.1.1 = {
+		holder = character_c_co_19_villavicencio
+	}
+}
+k_los_llanos = {
+	2000.1.1 = {
+	 liege = e_venezuela
+	}
+	2656.1.1 = {
+		holder = character_c_co_19_villavicencio
+	}
+}
+
+c_co_19_acac_as = {
+	2000.1.1 = {
+	 liege = d_meta
+	}
+	2656.1.1 = {
+		holder = character_c_co_19_acac_as
+	}
+}
+
+c_co_14_san_jos_del_guaviare = {
+	2000.1.1 = {
+	 liege = d_meta
+	}
+	2656.1.1 = {
+		holder = character_c_co_14_san_jos_del_guaviare
+	}
+}
+
+c_co_19_puerto_gait_n = {
+	2000.1.1 = {
+	 liege = d_meta
+	}
+	2656.1.1 = {
+		holder = character_c_co_19_puerto_gait_n
+	}
+}
+
+c_ve_03_arauca = {
+	2656.1.1 = {
+		holder = character_c_ve_03_arauca
+	}
+}
+d_casanare = {
+	2000.1.1 = {
+	 liege = k_los_llanos
+	}
+	2656.1.1 = {
+		holder = character_c_ve_03_arauca
+	}
+}
+
+c_co_32_yopal = {
+	2000.1.1 = {
+	 liege = d_casanare
+	}
+	2656.1.1 = {
+		holder = character_c_co_32_yopal
+	}
+}
+
+c_co_03_tame = {
+	2000.1.1 = {
+	 liege = d_casanare
+	}
+	2656.1.1 = {
+		holder = character_c_co_03_tame
+	}
+}
+
+c_co_32_aguazul = {
+	2000.1.1 = {
+	 liege = d_casanare
+	}
+	2656.1.1 = {
+		holder = character_c_co_32_aguazul
+	}
+}
+
+c_co_32_villanueva = {
+	2000.1.1 = {
+	 liege = d_casanare
+	}
+	2656.1.1 = {
+		holder = character_c_co_32_villanueva
+	}
+}
+
+c_co_32_trinidad = {
+	2000.1.1 = {
+	 liege = d_casanare
+	}
+	2656.1.1 = {
+		holder = character_c_co_32_trinidad
+	}
+}
+
+c_ve_03_san_fernando_de_apure = {
+	2656.1.1 = {
+		holder = character_c_ve_03_san_fernando_de_apure
+	}
+}
+d_apure = {
+	2000.1.1 = {
+	 liege = k_los_llanos
+	}
+	2656.1.1 = {
+		holder = character_c_ve_03_san_fernando_de_apure
+	}
+}
+
+c_ve_03_guasdualito = {
+	2000.1.1 = {
+	 liege = d_apure
+	}
+	2656.1.1 = {
+		holder = character_c_ve_03_guasdualito
+	}
+}
+
+c_ve_03_puerto_infante = {
+	2000.1.1 = {
+	 liege = d_apure
+	}
+	2656.1.1 = {
+		holder = character_c_ve_03_puerto_infante
+	}
+}
+
+c_ve_06_la_ollita = {
+	2000.1.1 = {
+	 liege = d_apure
+	}
+	2656.1.1 = {
+		holder = character_c_ve_06_la_ollita
+	}
+}
+
+c_ve_03_tronador = {
+	2000.1.1 = {
+	 liege = d_apure
+	}
+	2656.1.1 = {
+		holder = character_c_ve_03_tronador
+	}
+}
+
+c_co_31_cumaribo = {
+	2656.1.1 = {
+		holder = character_c_co_31_cumaribo
+	}
+}
+d_vichada = {
+	2000.1.1 = {
+	 liege = k_los_llanos
+	}
+	2656.1.1 = {
+		holder = character_c_co_31_cumaribo
+	}
+}
+
+c_co_31_puerto_carre_o = {
+	2000.1.1 = {
+	 liege = d_vichada
+	}
+	2656.1.1 = {
+		holder = character_c_co_31_puerto_carre_o
+	}
+}
+
+c_co_31_arebe = {
+	2000.1.1 = {
+	 liege = d_vichada
+	}
+	2656.1.1 = {
+		holder = character_c_co_31_arebe
+	}
+}

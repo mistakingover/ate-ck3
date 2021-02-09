@@ -1,0 +1,1048 @@
+c_us_ca_los_angeles = {
+	2656.1.1 = {
+		holder = character_c_us_ca_los_angeles
+	}
+}
+d_los_angeles = {
+	2656.1.1 = {
+		holder = character_c_us_ca_los_angeles
+	}
+}
+k_socal = {
+	2656.1.1 = {
+		holder = character_c_us_ca_los_angeles
+	}
+}
+e_california = {
+	2656.1.1 = {
+		holder = character_c_us_ca_los_angeles
+	}
+}
+
+c_us_ca_orange = {
+	2000.1.1 = {
+	 liege = d_los_angeles
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_orange
+	}
+}
+
+c_us_ca_avalon = {
+	2000.1.1 = {
+	 liege = d_los_angeles
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_avalon
+	}
+}
+
+c_us_ca_riverside = {
+	2656.1.1 = {
+		holder = character_c_us_ca_riverside
+	}
+}
+d_berdoo = {
+	2000.1.1 = {
+	 liege = k_socal
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_riverside
+	}
+}
+
+c_us_ca_santa_clarita = {
+	2000.1.1 = {
+	 liege = d_berdoo
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_santa_clarita
+	}
+}
+
+c_us_ca_indio = {
+	2000.1.1 = {
+	 liege = d_berdoo
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_indio
+	}
+}
+
+c_us_ca_twentynine_palms = {
+	2000.1.1 = {
+	 liege = d_berdoo
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_twentynine_palms
+	}
+}
+
+c_us_ca_san_diego = {
+	2656.1.1 = {
+		holder = character_c_us_ca_san_diego
+	}
+}
+d_salton = {
+	2000.1.1 = {
+	 liege = k_socal
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_san_diego
+	}
+}
+
+c_us_ca_oceanside = {
+	2000.1.1 = {
+	 liege = d_salton
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_oceanside
+	}
+}
+
+c_us_ca_el_centro = {
+	2000.1.1 = {
+	 liege = d_salton
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_el_centro
+	}
+}
+
+c_us_ca_blythe = {
+	2000.1.1 = {
+	 liege = d_salton
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_blythe
+	}
+}
+
+c_us_nv_las_vegas = {
+	2656.1.1 = {
+		holder = character_c_us_nv_las_vegas
+	}
+}
+d_mojave = {
+	2000.1.1 = {
+	 liege = k_socal
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_las_vegas
+	}
+}
+
+c_us_ca_needles = {
+	2000.1.1 = {
+	 liege = d_mojave
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_needles
+	}
+}
+
+c_us_ca_oxnard = {
+	2656.1.1 = {
+		holder = character_c_us_ca_oxnard
+	}
+}
+d_los_padres = {
+	2000.1.1 = {
+	 liege = k_socal
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_oxnard
+	}
+}
+
+c_us_ca_santa_maria = {
+	2000.1.1 = {
+	 liege = d_los_padres
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_santa_maria
+	}
+}
+
+c_us_ca_san_jose = {
+	2656.1.1 = {
+		holder = character_c_us_ca_san_jose
+	}
+}
+d_east_bay = {
+	2656.1.1 = {
+		holder = character_c_us_ca_san_jose
+	}
+}
+k_francisco = {
+	2000.1.1 = {
+	 liege = e_california
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_san_jose
+	}
+}
+
+c_us_ca_oakland = {
+	2000.1.1 = {
+	 liege = d_east_bay
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_oakland
+	}
+}
+
+c_us_ca_antioch = {
+	2000.1.1 = {
+	 liege = d_east_bay
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_antioch
+	}
+}
+
+c_us_ca_san_francisco = {
+	2656.1.1 = {
+		holder = character_c_us_ca_san_francisco
+	}
+}
+d_goldengate = {
+	2000.1.1 = {
+	 liege = k_francisco
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_san_francisco
+	}
+}
+
+c_us_ca_redwood_city = {
+	2000.1.1 = {
+	 liege = d_goldengate
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_redwood_city
+	}
+}
+
+c_us_ca_san_rafael = {
+	2000.1.1 = {
+	 liege = d_goldengate
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_san_rafael
+	}
+}
+
+c_us_ca_vallejo = {
+	2656.1.1 = {
+		holder = character_c_us_ca_vallejo
+	}
+}
+d_wineland = {
+	2000.1.1 = {
+	 liege = k_francisco
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_vallejo
+	}
+}
+
+c_us_ca_santa_rosa = {
+	2000.1.1 = {
+	 liege = d_wineland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_santa_rosa
+	}
+}
+
+c_us_ca_napa = {
+	2000.1.1 = {
+	 liege = d_wineland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_napa
+	}
+}
+
+c_us_ca_clearlake = {
+	2000.1.1 = {
+	 liege = d_wineland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_clearlake
+	}
+}
+
+c_us_ca_salinas = {
+	2656.1.1 = {
+		holder = character_c_us_ca_salinas
+	}
+}
+d_salinas = {
+	2000.1.1 = {
+	 liege = k_francisco
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_salinas
+	}
+}
+
+c_us_ca_san_luis_obispo = {
+	2000.1.1 = {
+	 liege = d_salinas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_san_luis_obispo
+	}
+}
+
+c_us_ca_hollister = {
+	2000.1.1 = {
+	 liege = d_salinas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_hollister
+	}
+}
+
+c_us_ca_bakersfield = {
+	2656.1.1 = {
+		holder = character_c_us_ca_bakersfield
+	}
+}
+d_kern = {
+	2656.1.1 = {
+		holder = character_c_us_ca_bakersfield
+	}
+}
+k_the_valley = {
+	2000.1.1 = {
+	 liege = e_california
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_bakersfield
+	}
+}
+
+c_us_ca_visalia = {
+	2000.1.1 = {
+	 liege = d_kern
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_visalia
+	}
+}
+
+c_us_ca_hanford = {
+	2000.1.1 = {
+	 liege = d_kern
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_hanford
+	}
+}
+
+c_us_ca_orange_cove = {
+	2000.1.1 = {
+	 liege = d_kern
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_orange_cove
+	}
+}
+
+c_us_ca_stockton = {
+	2656.1.1 = {
+		holder = character_c_us_ca_stockton
+	}
+}
+d_motherlode = {
+	2000.1.1 = {
+	 liege = k_the_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_stockton
+	}
+}
+
+c_us_ca_modesto = {
+	2000.1.1 = {
+	 liege = d_motherlode
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_modesto
+	}
+}
+
+c_us_ca_ione = {
+	2000.1.1 = {
+	 liege = d_motherlode
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_ione
+	}
+}
+
+c_us_ca_diamond_springs = {
+	2000.1.1 = {
+	 liege = d_motherlode
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_diamond_springs
+	}
+}
+
+c_us_ca_sonora = {
+	2000.1.1 = {
+	 liege = d_motherlode
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_sonora
+	}
+}
+
+c_us_ca_cool = {
+	2000.1.1 = {
+	 liege = d_motherlode
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_cool
+	}
+}
+
+c_us_ca_fresno = {
+	2656.1.1 = {
+		holder = character_c_us_ca_fresno
+	}
+}
+d_central_valley = {
+	2000.1.1 = {
+	 liege = k_the_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_fresno
+	}
+}
+
+c_us_ca_merced = {
+	2000.1.1 = {
+	 liege = d_central_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_merced
+	}
+}
+
+c_us_ca_madera = {
+	2000.1.1 = {
+	 liege = d_central_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_madera
+	}
+}
+
+c_us_ca_los_banos = {
+	2000.1.1 = {
+	 liege = d_central_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_los_banos
+	}
+}
+
+c_us_ca_patterson = {
+	2000.1.1 = {
+	 liege = d_central_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_patterson
+	}
+}
+
+c_us_ca_mendota = {
+	2000.1.1 = {
+	 liege = d_central_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_mendota
+	}
+}
+
+c_us_ca_mariposa = {
+	2000.1.1 = {
+	 liege = d_central_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_mariposa
+	}
+}
+
+c_us_ca_yuba_city = {
+	2656.1.1 = {
+		holder = character_c_us_ca_yuba_city
+	}
+}
+d_north_valley = {
+	2000.1.1 = {
+	 liege = k_the_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_yuba_city
+	}
+}
+
+c_us_ca_davis = {
+	2000.1.1 = {
+	 liege = d_north_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_davis
+	}
+}
+
+c_us_ca_chico = {
+	2000.1.1 = {
+	 liege = d_north_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_chico
+	}
+}
+
+c_us_ca_oroville = {
+	2000.1.1 = {
+	 liege = d_north_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_oroville
+	}
+}
+
+c_us_ca_colusa = {
+	2000.1.1 = {
+	 liege = d_north_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_colusa
+	}
+}
+
+c_us_ca_orland = {
+	2000.1.1 = {
+	 liege = d_north_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_orland
+	}
+}
+
+c_mx_02_tijuana = {
+	2656.1.1 = {
+		holder = character_c_mx_02_tijuana
+	}
+}
+d_baja = {
+	2656.1.1 = {
+		holder = character_c_mx_02_tijuana
+	}
+}
+k_baja_california = {
+	2000.1.1 = {
+	 liege = e_california
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_tijuana
+	}
+}
+
+c_mx_02_ensenada = {
+	2000.1.1 = {
+	 liege = d_baja
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_ensenada
+	}
+}
+
+c_mx_02_l_zaro_c_rdenas = {
+	2000.1.1 = {
+	 liege = d_baja
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_l_zaro_c_rdenas
+	}
+}
+
+c_mx_02_san_felipe = {
+	2000.1.1 = {
+	 liege = d_baja
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_san_felipe
+	}
+}
+
+c_mx_02_san_luis = {
+	2000.1.1 = {
+	 liege = d_baja
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_san_luis
+	}
+}
+
+c_mx_02_mexicali = {
+	2656.1.1 = {
+		holder = character_c_mx_02_mexicali
+	}
+}
+d_ensenada = {
+	2000.1.1 = {
+	 liege = k_baja_california
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_mexicali
+	}
+}
+
+c_mx_03_la_paz = {
+	2656.1.1 = {
+		holder = character_c_mx_03_la_paz
+	}
+}
+d_baja_sur = {
+	2000.1.1 = {
+	 liege = k_baja_california
+	}
+	2656.1.1 = {
+		holder = character_c_mx_03_la_paz
+	}
+}
+
+c_mx_03_san_jos_del_cabo = {
+	2000.1.1 = {
+	 liege = d_baja_sur
+	}
+	2656.1.1 = {
+		holder = character_c_mx_03_san_jos_del_cabo
+	}
+}
+
+c_mx_03_constituci_n = {
+	2000.1.1 = {
+	 liege = d_baja_sur
+	}
+	2656.1.1 = {
+		holder = character_c_mx_03_constituci_n
+	}
+}
+
+c_mx_02_guerrero_negro = {
+	2000.1.1 = {
+	 liege = d_baja_sur
+	}
+	2656.1.1 = {
+		holder = character_c_mx_02_guerrero_negro
+	}
+}
+
+c_mx_03_santa_rosal_a = {
+	2000.1.1 = {
+	 liege = d_baja_sur
+	}
+	2656.1.1 = {
+		holder = character_c_mx_03_santa_rosal_a
+	}
+}
+
+c_us_ca_sacramento = {
+	2656.1.1 = {
+		holder = character_c_us_ca_sacramento
+	}
+}
+d_sacramento = {
+	2656.1.1 = {
+		holder = character_c_us_ca_sacramento
+	}
+}
+k_sacramento = {
+	2000.1.1 = {
+	 liege = e_california
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_sacramento
+	}
+}
+
+c_us_ca_roseville = {
+	2000.1.1 = {
+	 liege = d_sacramento
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_roseville
+	}
+}
+
+c_us_or_medford = {
+	2656.1.1 = {
+		holder = character_c_us_or_medford
+	}
+}
+d_us_or_jackson = {
+	2656.1.1 = {
+		holder = character_c_us_or_medford
+	}
+}
+k_jefferson = {
+	2000.1.1 = {
+	 liege = e_california
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_medford
+	}
+}
+
+c_us_or_roseburg = {
+	2000.1.1 = {
+	 liege = d_us_or_jackson
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_roseburg
+	}
+}
+
+c_us_or_grants_pass = {
+	2000.1.1 = {
+	 liege = d_us_or_jackson
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_grants_pass
+	}
+}
+
+c_us_or_coos_bay = {
+	2000.1.1 = {
+	 liege = d_us_or_jackson
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_coos_bay
+	}
+}
+
+c_us_ca_crescent_city = {
+	2000.1.1 = {
+	 liege = d_us_or_jackson
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_crescent_city
+	}
+}
+
+c_us_ca_redding = {
+	2656.1.1 = {
+		holder = character_c_us_ca_redding
+	}
+}
+d_shasta_cascade = {
+	2000.1.1 = {
+	 liege = k_jefferson
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_redding
+	}
+}
+
+c_us_ca_red_bluff = {
+	2000.1.1 = {
+	 liege = d_shasta_cascade
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_red_bluff
+	}
+}
+
+c_us_ca_yreka = {
+	2000.1.1 = {
+	 liege = d_shasta_cascade
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_yreka
+	}
+}
+
+c_us_ca_weaverville = {
+	2000.1.1 = {
+	 liege = d_shasta_cascade
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_weaverville
+	}
+}
+
+c_us_ca_eureka = {
+	2656.1.1 = {
+		holder = character_c_us_ca_eureka
+	}
+}
+d_redwoods = {
+	2000.1.1 = {
+	 liege = k_jefferson
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_eureka
+	}
+}
+
+c_us_ca_ukiah = {
+	2000.1.1 = {
+	 liege = d_redwoods
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_ukiah
+	}
+}
+
+c_us_ca_fortuna = {
+	2000.1.1 = {
+	 liege = d_redwoods
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_fortuna
+	}
+}
+
+c_us_ca_covelo = {
+	2000.1.1 = {
+	 liege = d_redwoods
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_covelo
+	}
+}
+
+c_us_ca_truckee = {
+	2656.1.1 = {
+		holder = character_c_us_ca_truckee
+	}
+}
+d_nevada = {
+	2000.1.1 = {
+	 liege = k_jefferson
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_truckee
+	}
+}
+
+c_us_ca_susanville = {
+	2000.1.1 = {
+	 liege = d_nevada
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_susanville
+	}
+}
+
+c_us_ca_alturas = {
+	2000.1.1 = {
+	 liege = d_nevada
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_alturas
+	}
+}
+
+c_us_or_altamont = {
+	2656.1.1 = {
+		holder = character_c_us_or_altamont
+	}
+}
+d_us_or_klamath = {
+	2000.1.1 = {
+	 liege = k_jefferson
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_altamont
+	}
+}
+
+c_us_or_lakeview = {
+	2000.1.1 = {
+	 liege = d_us_or_klamath
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_lakeview
+	}
+}
+
+c_us_or_chiloquin = {
+	2000.1.1 = {
+	 liege = d_us_or_klamath
+	}
+	2656.1.1 = {
+		holder = character_c_us_or_chiloquin
+	}
+}
+
+c_us_nv_reno = {
+	2656.1.1 = {
+		holder = character_c_us_nv_reno
+	}
+}
+d_us_nv_washoe = {
+	2656.1.1 = {
+		holder = character_c_us_nv_reno
+	}
+}
+k_nevada = {
+	2000.1.1 = {
+	 liege = e_california
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_reno
+	}
+}
+
+c_us_nv_fernley = {
+	2000.1.1 = {
+	 liege = d_us_nv_washoe
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_fernley
+	}
+}
+
+c_us_ca_ridgecrest = {
+	2656.1.1 = {
+		holder = character_c_us_ca_ridgecrest
+	}
+}
+d_death_valley = {
+	2000.1.1 = {
+	 liege = k_nevada
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_ridgecrest
+	}
+}
+
+c_us_nv_pahrump = {
+	2000.1.1 = {
+	 liege = d_death_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_pahrump
+	}
+}
+
+c_us_ca_mammoth_lakes = {
+	2000.1.1 = {
+	 liege = d_death_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_ca_mammoth_lakes
+	}
+}
+
+c_us_nv_elko = {
+	2656.1.1 = {
+		holder = character_c_us_nv_elko
+	}
+}
+d_northern_basin = {
+	2000.1.1 = {
+	 liege = k_nevada
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_elko
+	}
+}
+
+c_us_nv_winnemucca = {
+	2000.1.1 = {
+	 liege = d_northern_basin
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_winnemucca
+	}
+}
+
+c_us_id_homedale = {
+	2000.1.1 = {
+	 liege = d_northern_basin
+	}
+	2656.1.1 = {
+		holder = character_c_us_id_homedale
+	}
+}
+
+c_us_nv_spring_creek = {
+	2656.1.1 = {
+		holder = character_c_us_nv_spring_creek
+	}
+}
+d_us_nv_churchill = {
+	2000.1.1 = {
+	 liege = k_nevada
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_spring_creek
+	}
+}
+
+c_us_nv_fallon = {
+	2000.1.1 = {
+	 liege = d_us_nv_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_fallon
+	}
+}
+
+c_us_nv_fallon = {
+	2000.1.1 = {
+	 liege = d_us_nv_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_fallon
+	}
+}
+
+c_us_nv_ely = {
+	2000.1.1 = {
+	 liege = d_us_nv_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_ely
+	}
+}
+
+c_us_nv_ely = {
+	2000.1.1 = {
+	 liege = d_us_nv_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_ely
+	}
+}
+
+c_us_nv_caliente = {
+	2000.1.1 = {
+	 liege = d_us_nv_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_caliente
+	}
+}
+
+c_us_nv_crescent_valley = {
+	2000.1.1 = {
+	 liege = d_us_nv_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_us_nv_crescent_valley
+	}
+}

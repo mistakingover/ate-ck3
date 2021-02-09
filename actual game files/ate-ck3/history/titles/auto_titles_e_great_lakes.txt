@@ -1,0 +1,1194 @@
+c_us_il_dupage = {
+	2656.1.1 = {
+		holder = character_c_us_il_dupage
+	}
+}
+d_outer_chicagoland = {
+	2656.1.1 = {
+		holder = character_c_us_il_dupage
+	}
+}
+k_chicagoland = {
+	2656.1.1 = {
+		holder = character_c_us_il_dupage
+	}
+}
+e_great_lakes = {
+	2656.1.1 = {
+		holder = character_c_us_il_dupage
+	}
+}
+
+c_us_il_dupage = {
+	2000.1.1 = {
+	 liege = d_outer_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_dupage
+	}
+}
+
+c_us_il_elgin = {
+	2000.1.1 = {
+	 liege = d_outer_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_elgin
+	}
+}
+
+c_us_il_rockford = {
+	2000.1.1 = {
+	 liege = d_outer_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_rockford
+	}
+}
+
+c_us_il_kankakee = {
+	2000.1.1 = {
+	 liege = d_outer_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_kankakee
+	}
+}
+
+c_us_il_chicago = {
+	2656.1.1 = {
+		holder = character_c_us_il_chicago
+	}
+}
+d_cook = {
+	2000.1.1 = {
+	 liege = k_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_chicago
+	}
+}
+
+c_us_wi_milwaukee = {
+	2656.1.1 = {
+		holder = character_c_us_wi_milwaukee
+	}
+}
+d_badgerland = {
+	2000.1.1 = {
+	 liege = k_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_milwaukee
+	}
+}
+
+c_us_wi_madison = {
+	2000.1.1 = {
+	 liege = d_badgerland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_madison
+	}
+}
+
+c_us_wi_appleton = {
+	2000.1.1 = {
+	 liege = d_badgerland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_appleton
+	}
+}
+
+c_us_wi_sheboygan = {
+	2000.1.1 = {
+	 liege = d_badgerland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_sheboygan
+	}
+}
+
+c_us_wi_watertown = {
+	2000.1.1 = {
+	 liege = d_badgerland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_watertown
+	}
+}
+
+c_us_wi_grand_rapids = {
+	2000.1.1 = {
+	 liege = d_badgerland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_grand_rapids
+	}
+}
+
+c_us_in_indianapolis = {
+	2656.1.1 = {
+		holder = character_c_us_in_indianapolis
+	}
+}
+d_indianapolis = {
+	2000.1.1 = {
+	 liege = k_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_indianapolis
+	}
+}
+
+c_us_in_muncie = {
+	2000.1.1 = {
+	 liege = d_indianapolis
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_muncie
+	}
+}
+
+c_us_in_kokomo = {
+	2000.1.1 = {
+	 liege = d_indianapolis
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_kokomo
+	}
+}
+
+c_us_in_monroe = {
+	2000.1.1 = {
+	 liege = d_indianapolis
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_monroe
+	}
+}
+
+c_us_il_peoria = {
+	2656.1.1 = {
+		holder = character_c_us_il_peoria
+	}
+}
+d_illinois = {
+	2000.1.1 = {
+	 liege = k_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_peoria
+	}
+}
+
+c_us_il_springfield = {
+	2000.1.1 = {
+	 liege = d_illinois
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_springfield
+	}
+}
+
+c_us_il_bloomington = {
+	2000.1.1 = {
+	 liege = d_illinois
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_bloomington
+	}
+}
+
+c_us_il_upper_alton = {
+	2000.1.1 = {
+	 liege = d_illinois
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_upper_alton
+	}
+}
+
+c_us_il_charleston = {
+	2000.1.1 = {
+	 liege = d_illinois
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_charleston
+	}
+}
+
+c_us_il_woodford = {
+	2000.1.1 = {
+	 liege = d_illinois
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_woodford
+	}
+}
+
+c_us_il_champaign = {
+	2656.1.1 = {
+		holder = character_c_us_il_champaign
+	}
+}
+d_wabash = {
+	2000.1.1 = {
+	 liege = k_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_champaign
+	}
+}
+
+c_us_in_lafayette = {
+	2000.1.1 = {
+	 liege = d_wabash
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_lafayette
+	}
+}
+
+c_us_in_terre_haute = {
+	2000.1.1 = {
+	 liege = d_wabash
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_terre_haute
+	}
+}
+
+c_us_in_cass = {
+	2000.1.1 = {
+	 liege = d_wabash
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_cass
+	}
+}
+
+c_us_il_rantoul = {
+	2000.1.1 = {
+	 liege = d_wabash
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_rantoul
+	}
+}
+
+c_us_wi_la_crosse = {
+	2656.1.1 = {
+		holder = character_c_us_wi_la_crosse
+	}
+}
+d_coulee = {
+	2000.1.1 = {
+	 liege = k_chicagoland
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_la_crosse
+	}
+}
+
+c_us_il_freeport = {
+	2000.1.1 = {
+	 liege = d_coulee
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_freeport
+	}
+}
+
+c_us_il_freeport = {
+	2000.1.1 = {
+	 liege = d_coulee
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_freeport
+	}
+}
+
+c_us_wi_baraboo = {
+	2000.1.1 = {
+	 liege = d_coulee
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_baraboo
+	}
+}
+
+c_us_wi_platteville = {
+	2000.1.1 = {
+	 liege = d_coulee
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_platteville
+	}
+}
+
+c_us_oh_columbus = {
+	2656.1.1 = {
+		holder = character_c_us_oh_columbus
+	}
+}
+d_ohio = {
+	2656.1.1 = {
+		holder = character_c_us_oh_columbus
+	}
+}
+k_ohio = {
+	2000.1.1 = {
+	 liege = e_great_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_columbus
+	}
+}
+
+c_us_oh_akron = {
+	2000.1.1 = {
+	 liege = d_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_akron
+	}
+}
+
+c_us_oh_mansfield = {
+	2000.1.1 = {
+	 liege = d_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_mansfield
+	}
+}
+
+c_us_oh_newark = {
+	2000.1.1 = {
+	 liege = d_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_newark
+	}
+}
+
+c_us_oh_cleveland = {
+	2656.1.1 = {
+		holder = character_c_us_oh_cleveland
+	}
+}
+d_reserve = {
+	2000.1.1 = {
+	 liege = k_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_cleveland
+	}
+}
+
+c_us_oh_mentor = {
+	2000.1.1 = {
+	 liege = d_reserve
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_mentor
+	}
+}
+
+c_us_oh_cincinnati = {
+	2656.1.1 = {
+		holder = character_c_us_oh_cincinnati
+	}
+}
+d_cincy = {
+	2000.1.1 = {
+	 liege = k_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_cincinnati
+	}
+}
+
+c_us_oh_montgomery = {
+	2656.1.1 = {
+		holder = character_c_us_oh_montgomery
+	}
+}
+d_miami_valley = {
+	2000.1.1 = {
+	 liege = k_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_montgomery
+	}
+}
+
+c_us_oh_lima = {
+	2000.1.1 = {
+	 liege = d_miami_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_lima
+	}
+}
+
+c_us_oh_springfield = {
+	2000.1.1 = {
+	 liege = d_miami_valley
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_springfield
+	}
+}
+
+c_us_oh_youngstown = {
+	2656.1.1 = {
+		holder = character_c_us_oh_youngstown
+	}
+}
+d_upper_ohio = {
+	2000.1.1 = {
+	 liege = k_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_youngstown
+	}
+}
+
+c_us_oh_chillicothe = {
+	2000.1.1 = {
+	 liege = d_upper_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_chillicothe
+	}
+}
+
+c_us_oh_marietta = {
+	2000.1.1 = {
+	 liege = d_upper_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_marietta
+	}
+}
+
+c_us_oh_athens = {
+	2000.1.1 = {
+	 liege = d_upper_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_athens
+	}
+}
+
+c_us_oh_portsmouth = {
+	2000.1.1 = {
+	 liege = d_upper_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_portsmouth
+	}
+}
+
+c_us_oh_bowling_green = {
+	2656.1.1 = {
+		holder = character_c_us_oh_bowling_green
+	}
+}
+d_maumee = {
+	2000.1.1 = {
+	 liege = k_ohio
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_bowling_green
+	}
+}
+
+c_us_oh_findlay = {
+	2000.1.1 = {
+	 liege = d_maumee
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_findlay
+	}
+}
+
+c_us_mi_detroit = {
+	2656.1.1 = {
+		holder = character_c_us_mi_detroit
+	}
+}
+d_detroit = {
+	2656.1.1 = {
+		holder = character_c_us_mi_detroit
+	}
+}
+k_michigan = {
+	2000.1.1 = {
+	 liege = e_great_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_detroit
+	}
+}
+
+c_us_mi_oakland = {
+	2000.1.1 = {
+	 liege = d_detroit
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_oakland
+	}
+}
+
+c_us_mi_livonia = {
+	2000.1.1 = {
+	 liege = d_detroit
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_livonia
+	}
+}
+
+c_us_mi_flint = {
+	2000.1.1 = {
+	 liege = d_detroit
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_flint
+	}
+}
+
+c_us_mi_ann_arbor = {
+	2000.1.1 = {
+	 liege = d_detroit
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_ann_arbor
+	}
+}
+
+c_us_mi_port_huron = {
+	2000.1.1 = {
+	 liege = d_detroit
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_port_huron
+	}
+}
+
+c_us_in_gary = {
+	2656.1.1 = {
+		holder = character_c_us_in_gary
+	}
+}
+d_michiana = {
+	2000.1.1 = {
+	 liege = k_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_gary
+	}
+}
+
+c_us_in_fort_wayne = {
+	2000.1.1 = {
+	 liege = d_michiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_fort_wayne
+	}
+}
+
+c_us_in_south_bend = {
+	2000.1.1 = {
+	 liege = d_michiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_in_south_bend
+	}
+}
+
+c_us_mi_benton_harbor = {
+	2000.1.1 = {
+	 liege = d_michiana
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_benton_harbor
+	}
+}
+
+c_us_mi_grand_rapids = {
+	2656.1.1 = {
+		holder = character_c_us_mi_grand_rapids
+	}
+}
+d_west_michigan = {
+	2000.1.1 = {
+	 liege = k_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_grand_rapids
+	}
+}
+
+c_us_mi_kalamazoo = {
+	2000.1.1 = {
+	 liege = d_west_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_kalamazoo
+	}
+}
+
+c_us_mi_muskegon = {
+	2000.1.1 = {
+	 liege = d_west_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_muskegon
+	}
+}
+
+c_us_mi_manistee = {
+	2000.1.1 = {
+	 liege = d_west_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_manistee
+	}
+}
+
+c_us_mi_lansing = {
+	2656.1.1 = {
+		holder = character_c_us_mi_lansing
+	}
+}
+d_midmichigan = {
+	2000.1.1 = {
+	 liege = k_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_lansing
+	}
+}
+
+c_us_mi_jackson = {
+	2000.1.1 = {
+	 liege = d_midmichigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_jackson
+	}
+}
+
+c_us_mi_mount_pleasant = {
+	2000.1.1 = {
+	 liege = d_midmichigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_mount_pleasant
+	}
+}
+
+c_us_oh_toledo = {
+	2656.1.1 = {
+		holder = character_c_us_oh_toledo
+	}
+}
+d_toledo_strip = {
+	2000.1.1 = {
+	 liege = k_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_oh_toledo
+	}
+}
+
+c_us_mi_saginaw = {
+	2656.1.1 = {
+		holder = character_c_us_mi_saginaw
+	}
+}
+d_saginaw = {
+	2000.1.1 = {
+	 liege = k_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_saginaw
+	}
+}
+
+c_us_mi_midland = {
+	2000.1.1 = {
+	 liege = d_saginaw
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_midland
+	}
+}
+
+c_us_mi_caro = {
+	2000.1.1 = {
+	 liege = d_saginaw
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_caro
+	}
+}
+
+c_us_mi_bay_harbor = {
+	2656.1.1 = {
+		holder = character_c_us_mi_bay_harbor
+	}
+}
+d_upnorth = {
+	2000.1.1 = {
+	 liege = k_michigan
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_bay_harbor
+	}
+}
+
+c_us_mi_traverse_city = {
+	2000.1.1 = {
+	 liege = d_upnorth
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_traverse_city
+	}
+}
+
+c_us_mi_cadillac = {
+	2000.1.1 = {
+	 liege = d_upnorth
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_cadillac
+	}
+}
+
+c_us_mi_gaylord = {
+	2000.1.1 = {
+	 liege = d_upnorth
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_gaylord
+	}
+}
+
+c_us_mi_alpena = {
+	2000.1.1 = {
+	 liege = d_upnorth
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_alpena
+	}
+}
+
+c_us_mn_minneapolis = {
+	2656.1.1 = {
+		holder = character_c_us_mn_minneapolis
+	}
+}
+d_twin_cities = {
+	2656.1.1 = {
+		holder = character_c_us_mn_minneapolis
+	}
+}
+k_superior = {
+	2000.1.1 = {
+	 liege = e_great_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_minneapolis
+	}
+}
+
+c_us_mn_shakopee = {
+	2000.1.1 = {
+	 liege = d_twin_cities
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_shakopee
+	}
+}
+
+c_us_mn_elk_river = {
+	2000.1.1 = {
+	 liege = d_twin_cities
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_elk_river
+	}
+}
+
+c_us_wi_green_bay = {
+	2656.1.1 = {
+		holder = character_c_us_wi_green_bay
+	}
+}
+d_green_bay = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_green_bay
+	}
+}
+
+c_us_wi_manitowoc = {
+	2000.1.1 = {
+	 liege = d_green_bay
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_manitowoc
+	}
+}
+
+c_us_wi_marinette = {
+	2000.1.1 = {
+	 liege = d_green_bay
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_marinette
+	}
+}
+
+c_us_wi_shawano = {
+	2000.1.1 = {
+	 liege = d_green_bay
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_shawano
+	}
+}
+
+c_us_wi_eau_claire = {
+	2656.1.1 = {
+		holder = character_c_us_wi_eau_claire
+	}
+}
+d_chippewa = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_eau_claire
+	}
+}
+
+c_us_wi_barron = {
+	2000.1.1 = {
+	 liege = d_chippewa
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_barron
+	}
+}
+
+c_us_wi_hayward = {
+	2000.1.1 = {
+	 liege = d_chippewa
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_hayward
+	}
+}
+
+c_us_wi_wausau = {
+	2656.1.1 = {
+		holder = character_c_us_wi_wausau
+	}
+}
+d_northwoods = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_wausau
+	}
+}
+
+c_us_wi_wausau = {
+	2000.1.1 = {
+	 liege = d_northwoods
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_wausau
+	}
+}
+
+c_us_wi_antigo = {
+	2000.1.1 = {
+	 liege = d_northwoods
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_antigo
+	}
+}
+
+c_us_mn_duluth = {
+	2656.1.1 = {
+		holder = character_c_us_mn_duluth
+	}
+}
+d_superior = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_duluth
+	}
+}
+
+c_us_wi_ashland = {
+	2000.1.1 = {
+	 liege = d_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_wi_ashland
+	}
+}
+
+c_us_mn_hibbing = {
+	2656.1.1 = {
+		holder = character_c_us_mn_hibbing
+	}
+}
+d_arrowhead = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_hibbing
+	}
+}
+
+c_us_mn_pine_city = {
+	2000.1.1 = {
+	 liege = d_arrowhead
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_pine_city
+	}
+}
+
+c_us_mn_silver_bay = {
+	2000.1.1 = {
+	 liege = d_arrowhead
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_silver_bay
+	}
+}
+
+c_us_mn_silver_bay = {
+	2000.1.1 = {
+	 liege = d_arrowhead
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_silver_bay
+	}
+}
+
+c_us_mi_marquette = {
+	2656.1.1 = {
+		holder = character_c_us_mi_marquette
+	}
+}
+d_marquette = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_marquette
+	}
+}
+
+c_us_mi_escanaba = {
+	2000.1.1 = {
+	 liege = d_marquette
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_escanaba
+	}
+}
+
+c_us_mi_munising = {
+	2000.1.1 = {
+	 liege = d_marquette
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_munising
+	}
+}
+
+c_us_mi_houghton = {
+	2656.1.1 = {
+		holder = character_c_us_mi_houghton
+	}
+}
+d_copperland = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_houghton
+	}
+}
+
+c_us_mi_ironwood = {
+	2000.1.1 = {
+	 liege = d_copperland
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_ironwood
+	}
+}
+
+c_us_mi_sault_sainte_marie = {
+	2656.1.1 = {
+		holder = character_c_us_mi_sault_sainte_marie
+	}
+}
+d_soo = {
+	2000.1.1 = {
+	 liege = k_superior
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_sault_sainte_marie
+	}
+}
+
+c_us_mi_manistique = {
+	2000.1.1 = {
+	 liege = d_soo
+	}
+	2656.1.1 = {
+		holder = character_c_us_mi_manistique
+	}
+}
+
+c_us_pa_pittsburgh = {
+	2656.1.1 = {
+		holder = character_c_us_pa_pittsburgh
+	}
+}
+d_westsylvania = {
+	2656.1.1 = {
+		holder = character_c_us_pa_pittsburgh
+	}
+}
+k_allegheny = {
+	2000.1.1 = {
+	 liege = e_great_lakes
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_pittsburgh
+	}
+}
+
+c_us_pa_greensburg = {
+	2000.1.1 = {
+	 liege = d_westsylvania
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_greensburg
+	}
+}
+
+c_us_pa_lawrence = {
+	2000.1.1 = {
+	 liege = d_westsylvania
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_lawrence
+	}
+}
+
+c_us_pa_johnstown = {
+	2000.1.1 = {
+	 liege = d_westsylvania
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_johnstown
+	}
+}
+
+c_us_pa_dubois = {
+	2000.1.1 = {
+	 liege = d_westsylvania
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_dubois
+	}
+}
+
+c_us_ny_buffalo = {
+	2656.1.1 = {
+		holder = character_c_us_ny_buffalo
+	}
+}
+d_niagara = {
+	2000.1.1 = {
+	 liege = k_allegheny
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_buffalo
+	}
+}
+
+c_us_pa_erie = {
+	2000.1.1 = {
+	 liege = d_niagara
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_erie
+	}
+}
+
+c_us_ny_hamburg = {
+	2000.1.1 = {
+	 liege = d_niagara
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_hamburg
+	}
+}
+
+c_us_ny_attica = {
+	2000.1.1 = {
+	 liege = d_niagara
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_attica
+	}
+}
+
+c_us_ny_olean = {
+	2656.1.1 = {
+		holder = character_c_us_ny_olean
+	}
+}
+d_wilds = {
+	2000.1.1 = {
+	 liege = k_allegheny
+	}
+	2656.1.1 = {
+		holder = character_c_us_ny_olean
+	}
+}
+
+c_us_pa_shiloh = {
+	2000.1.1 = {
+	 liege = d_wilds
+	}
+	2656.1.1 = {
+		holder = character_c_us_pa_shiloh
+	}
+}
