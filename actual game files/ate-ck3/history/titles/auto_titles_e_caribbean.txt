@@ -1,0 +1,809 @@
+c_cu_02_havana = {
+	2656.1.1 = {
+		holder = character_c_cu_02_havana
+	}
+}
+d_havana = {
+	2656.1.1 = {
+		holder = character_c_cu_02_havana
+	}
+}
+k_cuba = {
+	2656.1.1 = {
+		holder = character_c_cu_02_havana
+	}
+}
+e_caribbean = {
+	2656.1.1 = {
+		holder = character_c_cu_02_havana
+	}
+}
+
+c_cu_ar_g_ira_de_melena = {
+	2000.1.1 = {
+	 liege = d_havana
+	}
+	2656.1.1 = {
+		holder = character_c_cu_ar_g_ira_de_melena
+	}
+}
+
+c_cu_01_pinar_del_r_o = {
+	2000.1.1 = {
+	 liege = d_havana
+	}
+	2656.1.1 = {
+		holder = character_c_cu_01_pinar_del_r_o
+	}
+}
+
+c_cu_ma_g_ines = {
+	2000.1.1 = {
+	 liege = d_havana
+	}
+	2656.1.1 = {
+		holder = character_c_cu_ma_g_ines
+	}
+}
+
+c_cu_01_minas_de_matahambre = {
+	2000.1.1 = {
+	 liege = d_havana
+	}
+	2656.1.1 = {
+		holder = character_c_cu_01_minas_de_matahambre
+	}
+}
+
+c_cu_04_nueva_gerona = {
+	2000.1.1 = {
+	 liege = d_havana
+	}
+	2656.1.1 = {
+		holder = character_c_cu_04_nueva_gerona
+	}
+}
+
+c_cu_15_santiago_de_cuba = {
+	2656.1.1 = {
+		holder = character_c_cu_15_santiago_de_cuba
+	}
+}
+d_oriente = {
+	2000.1.1 = {
+	 liege = k_cuba
+	}
+	2656.1.1 = {
+		holder = character_c_cu_15_santiago_de_cuba
+	}
+}
+
+c_cu_12_holgu_n = {
+	2000.1.1 = {
+	 liege = d_oriente
+	}
+	2656.1.1 = {
+		holder = character_c_cu_12_holgu_n
+	}
+}
+
+c_cu_10_guant_namo = {
+	2000.1.1 = {
+	 liege = d_oriente
+	}
+	2656.1.1 = {
+		holder = character_c_cu_10_guant_namo
+	}
+}
+
+c_cu_09_bayamo = {
+	2000.1.1 = {
+	 liege = d_oriente
+	}
+	2656.1.1 = {
+		holder = character_c_cu_09_bayamo
+	}
+}
+
+c_cu_09_manzanillo = {
+	2000.1.1 = {
+	 liege = d_oriente
+	}
+	2656.1.1 = {
+		holder = character_c_cu_09_manzanillo
+	}
+}
+
+c_cu_12_moa = {
+	2000.1.1 = {
+	 liege = d_oriente
+	}
+	2656.1.1 = {
+		holder = character_c_cu_12_moa
+	}
+}
+
+c_cu_16_santa_clara = {
+	2656.1.1 = {
+		holder = character_c_cu_16_santa_clara
+	}
+}
+d_las_villas = {
+	2000.1.1 = {
+	 liege = k_cuba
+	}
+	2656.1.1 = {
+		holder = character_c_cu_16_santa_clara
+	}
+}
+
+c_cu_03_matanzas = {
+	2000.1.1 = {
+	 liege = d_las_villas
+	}
+	2656.1.1 = {
+		holder = character_c_cu_03_matanzas
+	}
+}
+
+c_cu_14_sancti_sp_ritus = {
+	2000.1.1 = {
+	 liege = d_las_villas
+	}
+	2656.1.1 = {
+		holder = character_c_cu_14_sancti_sp_ritus
+	}
+}
+
+c_cu_08_cienfuegos = {
+	2000.1.1 = {
+	 liege = d_las_villas
+	}
+	2656.1.1 = {
+		holder = character_c_cu_08_cienfuegos
+	}
+}
+
+c_cu_03_jag_ey_grande = {
+	2000.1.1 = {
+	 liege = d_las_villas
+	}
+	2656.1.1 = {
+		holder = character_c_cu_03_jag_ey_grande
+	}
+}
+
+c_cu_05_camag_ey = {
+	2656.1.1 = {
+		holder = character_c_cu_05_camag_ey
+	}
+}
+d_camaguey = {
+	2000.1.1 = {
+	 liege = k_cuba
+	}
+	2656.1.1 = {
+		holder = character_c_cu_05_camag_ey
+	}
+}
+
+c_cu_13_las_tunas = {
+	2000.1.1 = {
+	 liege = d_camaguey
+	}
+	2656.1.1 = {
+		holder = character_c_cu_13_las_tunas
+	}
+}
+
+c_cu_07_ciego_de_vila = {
+	2000.1.1 = {
+	 liege = d_camaguey
+	}
+	2656.1.1 = {
+		holder = character_c_cu_07_ciego_de_vila
+	}
+}
+
+c_cu_07_mor_n = {
+	2000.1.1 = {
+	 liege = d_camaguey
+	}
+	2656.1.1 = {
+		holder = character_c_cu_07_mor_n
+	}
+}
+
+c_cu_05_gu_imaro = {
+	2000.1.1 = {
+	 liege = d_camaguey
+	}
+	2656.1.1 = {
+		holder = character_c_cu_05_gu_imaro
+	}
+}
+
+c_do_34_santo_domingo = {
+	2656.1.1 = {
+		holder = character_c_do_34_santo_domingo
+	}
+}
+d_santo_domingo = {
+	2656.1.1 = {
+		holder = character_c_do_34_santo_domingo
+	}
+}
+k_dominica = {
+	2000.1.1 = {
+	 liege = e_caribbean
+	}
+	2656.1.1 = {
+		holder = character_c_do_34_santo_domingo
+	}
+}
+
+c_do_33_de_san_crist_bal = {
+	2000.1.1 = {
+	 liege = d_santo_domingo
+	}
+	2656.1.1 = {
+		holder = character_c_do_33_de_san_crist_bal
+	}
+}
+
+c_do_12_de_la_romana = {
+	2000.1.1 = {
+	 liege = d_santo_domingo
+	}
+	2656.1.1 = {
+		holder = character_c_do_12_de_la_romana
+	}
+}
+
+c_do_24_san_pedro_de_macor_s = {
+	2000.1.1 = {
+	 liege = d_santo_domingo
+	}
+	2656.1.1 = {
+		holder = character_c_do_24_san_pedro_de_macor_s
+	}
+}
+
+c_do_03_de_barahona = {
+	2000.1.1 = {
+	 liege = d_santo_domingo
+	}
+	2656.1.1 = {
+		holder = character_c_do_03_de_barahona
+	}
+}
+
+c_do_23_de_san_juan = {
+	2000.1.1 = {
+	 liege = d_santo_domingo
+	}
+	2656.1.1 = {
+		holder = character_c_do_23_de_san_juan
+	}
+}
+
+c_do_25_santiago_de_los_caballeros = {
+	2656.1.1 = {
+		holder = character_c_do_25_santiago_de_los_caballeros
+	}
+}
+d_el_cibao = {
+	2000.1.1 = {
+	 liege = k_dominica
+	}
+	2656.1.1 = {
+		holder = character_c_do_25_santiago_de_los_caballeros
+	}
+}
+
+c_do_30_dominican = {
+	2000.1.1 = {
+	 liege = d_el_cibao
+	}
+	2656.1.1 = {
+		holder = character_c_do_30_dominican
+	}
+}
+
+c_do_06_san_francisco_de_macor_s = {
+	2000.1.1 = {
+	 liege = d_el_cibao
+	}
+	2656.1.1 = {
+		holder = character_c_do_06_san_francisco_de_macor_s
+	}
+}
+
+c_do_26_de_santiago_rodr_guez = {
+	2000.1.1 = {
+	 liege = d_el_cibao
+	}
+	2656.1.1 = {
+		holder = character_c_do_26_de_santiago_rodr_guez
+	}
+}
+
+c_ht_11_port_au_prince = {
+	2656.1.1 = {
+		holder = character_c_ht_11_port_au_prince
+	}
+}
+d_port_au_prince = {
+	2656.1.1 = {
+		holder = character_c_ht_11_port_au_prince
+	}
+}
+k_haiti = {
+	2000.1.1 = {
+	 liege = e_caribbean
+	}
+	2656.1.1 = {
+		holder = character_c_ht_11_port_au_prince
+	}
+}
+
+c_ht_14_j_r_mie = {
+	2000.1.1 = {
+	 liege = d_port_au_prince
+	}
+	2656.1.1 = {
+		holder = character_c_ht_14_j_r_mie
+	}
+}
+
+c_ht_12_les_cayes = {
+	2000.1.1 = {
+	 liege = d_port_au_prince
+	}
+	2656.1.1 = {
+		holder = character_c_ht_12_les_cayes
+	}
+}
+
+c_ht_13_jacmel = {
+	2000.1.1 = {
+	 liege = d_port_au_prince
+	}
+	2656.1.1 = {
+		holder = character_c_ht_13_jacmel
+	}
+}
+
+c_ht_11_anse_galets = {
+	2000.1.1 = {
+	 liege = d_port_au_prince
+	}
+	2656.1.1 = {
+		holder = character_c_ht_11_anse_galets
+	}
+}
+
+c_ht_03_port_de_paix = {
+	2656.1.1 = {
+		holder = character_c_ht_03_port_de_paix
+	}
+}
+d_gonave = {
+	2000.1.1 = {
+	 liege = k_haiti
+	}
+	2656.1.1 = {
+		holder = character_c_ht_03_port_de_paix
+	}
+}
+
+c_ht_09_okap = {
+	2000.1.1 = {
+	 liege = d_gonave
+	}
+	2656.1.1 = {
+		holder = character_c_ht_09_okap
+	}
+}
+
+c_ht_06_gona_ves = {
+	2000.1.1 = {
+	 liege = d_gonave
+	}
+	2656.1.1 = {
+		holder = character_c_ht_06_gona_ves
+	}
+}
+
+c_ht_07_centre = {
+	2000.1.1 = {
+	 liege = d_gonave
+	}
+	2656.1.1 = {
+		holder = character_c_ht_07_centre
+	}
+}
+
+c_ht_03_premi_re_pointe_des_oiseaux = {
+	2000.1.1 = {
+	 liege = d_gonave
+	}
+	2656.1.1 = {
+		holder = character_c_ht_03_premi_re_pointe_des_oiseaux
+	}
+}
+
+c_pr_127_san_juan = {
+	2656.1.1 = {
+		holder = character_c_pr_127_san_juan
+	}
+}
+d_puerto_rico = {
+	2656.1.1 = {
+		holder = character_c_pr_127_san_juan
+	}
+}
+k_antilles = {
+	2000.1.1 = {
+	 liege = e_caribbean
+	}
+	2656.1.1 = {
+		holder = character_c_pr_127_san_juan
+	}
+}
+
+c_pr_113_ponce = {
+	2000.1.1 = {
+	 liege = d_puerto_rico
+	}
+	2656.1.1 = {
+		holder = character_c_pr_113_ponce
+	}
+}
+
+c_pr_025_caguas = {
+	2000.1.1 = {
+	 liege = d_puerto_rico
+	}
+	2656.1.1 = {
+		holder = character_c_pr_025_caguas
+	}
+}
+
+c_pr_097_mayag_ez = {
+	2000.1.1 = {
+	 liege = d_puerto_rico
+	}
+	2656.1.1 = {
+		holder = character_c_pr_097_mayag_ez
+	}
+}
+
+c_gp_gp_de_pointe_pitre = {
+	2656.1.1 = {
+		holder = character_c_gp_gp_de_pointe_pitre
+	}
+}
+d_french_antilles = {
+	2000.1.1 = {
+	 liege = k_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_gp_gp_de_pointe_pitre
+	}
+}
+
+c_mq_mq_de_fort_de_france = {
+	2000.1.1 = {
+	 liege = d_french_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_mq_mq_de_fort_de_france
+	}
+}
+
+c_dm_04_roseau = {
+	2000.1.1 = {
+	 liege = d_french_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_dm_04_roseau
+	}
+}
+
+c_tt_cha_chaguanas = {
+	2656.1.1 = {
+		holder = character_c_tt_cha_chaguanas
+	}
+}
+d_trinidad_and_tobago = {
+	2000.1.1 = {
+	 liege = k_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_tt_cha_chaguanas
+	}
+}
+
+c_tt_cha_chaguanas = {
+	2000.1.1 = {
+	 liege = d_trinidad_and_tobago
+	}
+	2656.1.1 = {
+		holder = character_c_tt_cha_chaguanas
+	}
+}
+
+c_tt_05_port_of_spain = {
+	2000.1.1 = {
+	 liege = d_trinidad_and_tobago
+	}
+	2656.1.1 = {
+		holder = character_c_tt_05_port_of_spain
+	}
+}
+
+c_tt_05_port_of_spain = {
+	2000.1.1 = {
+	 liege = d_trinidad_and_tobago
+	}
+	2656.1.1 = {
+		holder = character_c_tt_05_port_of_spain
+	}
+}
+
+c_tt_11_scarborough = {
+	2000.1.1 = {
+	 liege = d_trinidad_and_tobago
+	}
+	2656.1.1 = {
+		holder = character_c_tt_11_scarborough
+	}
+}
+
+c_ve_17_porlamar = {
+	2656.1.1 = {
+		holder = character_c_ve_17_porlamar
+	}
+}
+d_leeward_antilles = {
+	2000.1.1 = {
+	 liege = k_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_ve_17_porlamar
+	}
+}
+
+c_aw_00_oranjestad = {
+	2000.1.1 = {
+	 liege = d_leeward_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_aw_00_oranjestad
+	}
+}
+
+c_ve_11_la_florida = {
+	2000.1.1 = {
+	 liege = d_leeward_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_ve_11_la_florida
+	}
+}
+
+c_ve_24_los_roques = {
+	2000.1.1 = {
+	 liege = d_leeward_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_ve_24_los_roques
+	}
+}
+
+c_bb_08_bridgetown = {
+	2656.1.1 = {
+		holder = character_c_bb_08_bridgetown
+	}
+}
+d_windward_isles = {
+	2000.1.1 = {
+	 liege = k_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_bb_08_bridgetown
+	}
+}
+
+c_lc_03_castries = {
+	2000.1.1 = {
+	 liege = d_windward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_lc_03_castries
+	}
+}
+
+c_vc_04_kingstown = {
+	2000.1.1 = {
+	 liege = d_windward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_vc_04_kingstown
+	}
+}
+
+c_gd_03_saint_george_s = {
+	2000.1.1 = {
+	 liege = d_windward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_gd_03_saint_george_s
+	}
+}
+
+c_vi_010_saint_croix = {
+	2656.1.1 = {
+		holder = character_c_vi_010_saint_croix
+	}
+}
+d_leeward_isles = {
+	2000.1.1 = {
+	 liege = k_antilles
+	}
+	2656.1.1 = {
+		holder = character_c_vi_010_saint_croix
+	}
+}
+
+c_vi_010_saint_croix = {
+	2000.1.1 = {
+	 liege = d_leeward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_vi_010_saint_croix
+	}
+}
+
+c_ag_04_saint_john_s = {
+	2000.1.1 = {
+	 liege = d_leeward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_ag_04_saint_john_s
+	}
+}
+
+c_kn__basseterre = {
+	2000.1.1 = {
+	 liege = d_leeward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_kn__basseterre
+	}
+}
+
+c_ai_00_the_valley = {
+	2000.1.1 = {
+	 liege = d_leeward_isles
+	}
+	2656.1.1 = {
+		holder = character_c_ai_00_the_valley
+	}
+}
+
+c_jm_08_kingston = {
+	2656.1.1 = {
+		holder = character_c_jm_08_kingston
+	}
+}
+d_jamaica = {
+	2656.1.1 = {
+		holder = character_c_jm_08_kingston
+	}
+}
+k_west_indies = {
+	2000.1.1 = {
+	 liege = e_caribbean
+	}
+	2656.1.1 = {
+		holder = character_c_jm_08_kingston
+	}
+}
+
+c_jm_10_spanish_town = {
+	2000.1.1 = {
+	 liege = d_jamaica
+	}
+	2656.1.1 = {
+		holder = character_c_jm_10_spanish_town
+	}
+}
+
+c_jm_12_montego_bay = {
+	2000.1.1 = {
+	 liege = d_jamaica
+	}
+	2656.1.1 = {
+		holder = character_c_jm_12_montego_bay
+	}
+}
+
+c_jm_10_linstead = {
+	2000.1.1 = {
+	 liege = d_jamaica
+	}
+	2656.1.1 = {
+		holder = character_c_jm_10_linstead
+	}
+}
+
+c_bs_23_nassau = {
+	2656.1.1 = {
+		holder = character_c_bs_23_nassau
+	}
+}
+d_bahama = {
+	2000.1.1 = {
+	 liege = k_west_indies
+	}
+	2656.1.1 = {
+		holder = character_c_bs_23_nassau
+	}
+}
+
+c_bs_25_lucaya = {
+	2000.1.1 = {
+	 liege = d_bahama
+	}
+	2656.1.1 = {
+		holder = character_c_bs_25_lucaya
+	}
+}
+
+c_bs_47_san_andros = {
+	2000.1.1 = {
+	 liege = d_bahama
+	}
+	2656.1.1 = {
+		holder = character_c_bs_47_san_andros
+	}
+}
+
+c_tc_00_cockburn_town = {
+	2000.1.1 = {
+	 liege = d_bahama
+	}
+	2656.1.1 = {
+		holder = character_c_tc_00_cockburn_town
+	}
+}
+
+c_ky_10346796_george_town = {
+	2656.1.1 = {
+		holder = character_c_ky_10346796_george_town
+	}
+}
+d_grand_cayman = {
+	2000.1.1 = {
+	 liege = k_west_indies
+	}
+	2656.1.1 = {
+		holder = character_c_ky_10346796_george_town
+	}
+}
+
+c_bs_15_clarence_town = {
+	2656.1.1 = {
+		holder = character_c_bs_15_clarence_town
+	}
+}
+d_oppenheimer = {
+	2000.1.1 = {
+	 liege = k_west_indies
+	}
+	2656.1.1 = {
+		holder = character_c_bs_15_clarence_town
+	}
+}

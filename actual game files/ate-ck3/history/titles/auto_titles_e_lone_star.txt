@@ -1,0 +1,679 @@
+c_tarrant = {
+	2656.1.1 = {
+		holder = character_c_tarrant
+	}
+}
+d_metroplex = {
+	2656.1.1 = {
+		holder = character_c_tarrant
+	}
+}
+k_jacinto = {
+	2656.1.1 = {
+		holder = character_c_tarrant
+	}
+}
+e_lone_star = {
+	2656.1.1 = {
+		holder = character_c_tarrant
+	}
+}
+
+c_dallas = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_dallas
+	}
+}
+
+c_us_tx_plano = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_plano
+	}
+}
+
+c_us_tx_killeen = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_killeen
+	}
+}
+
+c_tyler = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_tyler
+	}
+}
+
+c_waxahachie = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_waxahachie
+	}
+}
+
+c_mclennan = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_mclennan
+	}
+}
+
+c_us_tx_stephenville = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_stephenville
+	}
+}
+
+c_brownwood = {
+	2000.1.1 = {
+	 liege = d_metroplex
+	}
+	2656.1.1 = {
+		holder = character_c_brownwood
+	}
+}
+
+c_harris = {
+	2656.1.1 = {
+		holder = character_c_harris
+	}
+}
+d_houston = {
+	2000.1.1 = {
+	 liege = k_jacinto
+	}
+	2656.1.1 = {
+		holder = character_c_harris
+	}
+}
+
+c_sabine = {
+	2000.1.1 = {
+	 liege = d_houston
+	}
+	2656.1.1 = {
+		holder = character_c_sabine
+	}
+}
+
+c_matagorda = {
+	2000.1.1 = {
+	 liege = d_houston
+	}
+	2656.1.1 = {
+		holder = character_c_matagorda
+	}
+}
+
+c_brazos = {
+	2000.1.1 = {
+	 liege = d_houston
+	}
+	2656.1.1 = {
+		holder = character_c_brazos
+	}
+}
+
+c_us_tx_brenham = {
+	2000.1.1 = {
+	 liege = d_houston
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_brenham
+	}
+}
+
+c_colorado = {
+	2000.1.1 = {
+	 liege = d_houston
+	}
+	2656.1.1 = {
+		holder = character_c_colorado
+	}
+}
+
+c_travis = {
+	2656.1.1 = {
+		holder = character_c_travis
+	}
+}
+d_balcones = {
+	2000.1.1 = {
+	 liege = k_jacinto
+	}
+	2656.1.1 = {
+		holder = character_c_travis
+	}
+}
+
+c_comal = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_comal
+	}
+}
+
+c_comal = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_comal
+	}
+}
+
+c_concho = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_concho
+	}
+}
+
+c_us_tx_kyle = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_kyle
+	}
+}
+
+c_kerr = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_kerr
+	}
+}
+
+c_san_saba = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_san_saba
+	}
+}
+
+c_livermore = {
+	2000.1.1 = {
+	 liege = d_balcones
+	}
+	2656.1.1 = {
+		holder = character_c_livermore
+	}
+}
+
+c_us_la_shreveport = {
+	2656.1.1 = {
+		holder = character_c_us_la_shreveport
+	}
+}
+d_arklatex = {
+	2000.1.1 = {
+	 liege = k_jacinto
+	}
+	2656.1.1 = {
+		holder = character_c_us_la_shreveport
+	}
+}
+
+c_texarkana = {
+	2000.1.1 = {
+	 liege = d_arklatex
+	}
+	2656.1.1 = {
+		holder = character_c_texarkana
+	}
+}
+
+c_grayson = {
+	2000.1.1 = {
+	 liege = d_arklatex
+	}
+	2656.1.1 = {
+		holder = character_c_grayson
+	}
+}
+
+c_titus = {
+	2000.1.1 = {
+	 liege = d_arklatex
+	}
+	2656.1.1 = {
+		holder = character_c_titus
+	}
+}
+
+c_beaumont = {
+	2656.1.1 = {
+		holder = character_c_beaumont
+	}
+}
+d_neches = {
+	2000.1.1 = {
+	 liege = k_jacinto
+	}
+	2656.1.1 = {
+		holder = character_c_beaumont
+	}
+}
+
+c_san_jacinto = {
+	2000.1.1 = {
+	 liege = d_neches
+	}
+	2656.1.1 = {
+		holder = character_c_san_jacinto
+	}
+}
+
+c_el_paso = {
+	2000.1.1 = {
+	 liege = d_neches
+	}
+	2656.1.1 = {
+		holder = character_c_el_paso
+	}
+}
+
+c_us_tx_nacogdoches = {
+	2000.1.1 = {
+	 liege = d_neches
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_nacogdoches
+	}
+}
+
+c_us_tx_lumberton = {
+	2000.1.1 = {
+	 liege = d_neches
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_lumberton
+	}
+}
+
+c_duval = {
+	2000.1.1 = {
+	 liege = d_neches
+	}
+	2656.1.1 = {
+		holder = character_c_duval
+	}
+}
+
+c_us_tx_jasper = {
+	2000.1.1 = {
+	 liege = d_neches
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_jasper
+	}
+}
+
+c_us_ok_oklahoma_city = {
+	2656.1.1 = {
+		holder = character_c_us_ok_oklahoma_city
+	}
+}
+d_oklahoma = {
+	2656.1.1 = {
+		holder = character_c_us_ok_oklahoma_city
+	}
+}
+k_comancheria = {
+	2000.1.1 = {
+	 liege = e_lone_star
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_oklahoma_city
+	}
+}
+
+c_us_ok_stillwater = {
+	2000.1.1 = {
+	 liege = d_oklahoma
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_stillwater
+	}
+}
+
+c_us_ok_enid = {
+	2000.1.1 = {
+	 liege = d_oklahoma
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_enid
+	}
+}
+
+c_us_ok_osage = {
+	2000.1.1 = {
+	 liege = d_oklahoma
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_osage
+	}
+}
+
+c_us_nm_albuquerque = {
+	2656.1.1 = {
+		holder = character_c_us_nm_albuquerque
+	}
+}
+d_new_mexico = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_albuquerque
+	}
+}
+
+c_us_nm_santa_fe = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_santa_fe
+	}
+}
+
+c_us_nm_clovis = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_clovis
+	}
+}
+
+c_us_nm_taos = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_taos
+	}
+}
+
+c_us_nm_edgewood = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_edgewood
+	}
+}
+
+c_us_nm_ruidoso = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_ruidoso
+	}
+}
+
+c_us_nm_tucumcari = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_tucumcari
+	}
+}
+
+c_us_nm_logan = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_logan
+	}
+}
+
+c_us_nm_tokay = {
+	2000.1.1 = {
+	 liege = d_new_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_tokay
+	}
+}
+
+c_lubbock = {
+	2656.1.1 = {
+		holder = character_c_lubbock
+	}
+}
+d_estacado = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_lubbock
+	}
+}
+
+c_petroplex = {
+	2000.1.1 = {
+	 liege = d_estacado
+	}
+	2656.1.1 = {
+		holder = character_c_petroplex
+	}
+}
+
+c_dal_paso = {
+	2000.1.1 = {
+	 liege = d_estacado
+	}
+	2656.1.1 = {
+		holder = character_c_dal_paso
+	}
+}
+
+c_wichita_falls = {
+	2656.1.1 = {
+		holder = character_c_wichita_falls
+	}
+}
+d_abilene = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_wichita_falls
+	}
+}
+
+c_abilene = {
+	2000.1.1 = {
+	 liege = d_abilene
+	}
+	2656.1.1 = {
+		holder = character_c_abilene
+	}
+}
+
+c_possum = {
+	2000.1.1 = {
+	 liege = d_abilene
+	}
+	2656.1.1 = {
+		holder = character_c_possum
+	}
+}
+
+c_childress = {
+	2000.1.1 = {
+	 liege = d_abilene
+	}
+	2656.1.1 = {
+		holder = character_c_childress
+	}
+}
+
+c_amarillo = {
+	2656.1.1 = {
+		holder = character_c_amarillo
+	}
+}
+d_amarillo = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_amarillo
+	}
+}
+
+c_us_tx_dumas = {
+	2000.1.1 = {
+	 liege = d_amarillo
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_dumas
+	}
+}
+
+c_plainview = {
+	2000.1.1 = {
+	 liege = d_amarillo
+	}
+	2656.1.1 = {
+		holder = character_c_plainview
+	}
+}
+
+c_hobbs = {
+	2000.1.1 = {
+	 liege = d_amarillo
+	}
+	2656.1.1 = {
+		holder = character_c_hobbs
+	}
+}
+
+c_us_nm_las_cruces = {
+	2656.1.1 = {
+		holder = character_c_us_nm_las_cruces
+	}
+}
+d_mesilla = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_las_cruces
+	}
+}
+
+c_us_nm_roswell = {
+	2000.1.1 = {
+	 liege = d_mesilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_roswell
+	}
+}
+
+c_us_nm_alamogordo = {
+	2000.1.1 = {
+	 liege = d_mesilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_alamogordo
+	}
+}
+
+c_us_nm_carlsbad = {
+	2000.1.1 = {
+	 liege = d_mesilla
+	}
+	2656.1.1 = {
+		holder = character_c_us_nm_carlsbad
+	}
+}
+
+c_us_ok_lawton = {
+	2656.1.1 = {
+		holder = character_c_us_ok_lawton
+	}
+}
+d_washita = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_lawton
+	}
+}
+
+c_us_ok_washita = {
+	2000.1.1 = {
+	 liege = d_washita
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_washita
+	}
+}
+
+c_us_ok_altus = {
+	2000.1.1 = {
+	 liege = d_washita
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_altus
+	}
+}
+
+c_us_ok_woodward = {
+	2656.1.1 = {
+		holder = character_c_us_ok_woodward
+	}
+}
+d_outlet = {
+	2000.1.1 = {
+	 liege = k_comancheria
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_woodward
+	}
+}
+
+c_us_ok_guymon = {
+	2000.1.1 = {
+	 liege = d_outlet
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_guymon
+	}
+}

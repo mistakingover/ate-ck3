@@ -1,0 +1,526 @@
+c_mx_31_m_rida = {
+	2656.1.1 = {
+		holder = character_c_mx_31_m_rida
+	}
+}
+d_yucatan = {
+	2656.1.1 = {
+		holder = character_c_mx_31_m_rida
+	}
+}
+k_yucatan = {
+	2656.1.1 = {
+		holder = character_c_mx_31_m_rida
+	}
+}
+e_yucatan = {
+	2656.1.1 = {
+		holder = character_c_mx_31_m_rida
+	}
+}
+
+c_mx_31_uman = {
+	2000.1.1 = {
+	 liege = d_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_uman
+	}
+}
+
+c_mx_31_motul = {
+	2000.1.1 = {
+	 liege = d_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_motul
+	}
+}
+
+c_mx_31_tizim_n = {
+	2000.1.1 = {
+	 liege = d_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_tizim_n
+	}
+}
+
+c_mx_31_espita = {
+	2000.1.1 = {
+	 liege = d_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_espita
+	}
+}
+
+c_mx_27_villahermosa = {
+	2656.1.1 = {
+		holder = character_c_mx_27_villahermosa
+	}
+}
+d_tabasco = {
+	2000.1.1 = {
+	 liege = k_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_27_villahermosa
+	}
+}
+
+c_mx_27_c_rdenas = {
+	2000.1.1 = {
+	 liege = d_tabasco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_27_c_rdenas
+	}
+}
+
+c_mx_27_macuspana = {
+	2000.1.1 = {
+	 liege = d_tabasco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_27_macuspana
+	}
+}
+
+c_mx_23_canc_n = {
+	2656.1.1 = {
+		holder = character_c_mx_23_canc_n
+	}
+}
+d_quintana_roo = {
+	2000.1.1 = {
+	 liege = k_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_canc_n
+	}
+}
+
+c_mx_23_del_carmen = {
+	2000.1.1 = {
+	 liege = d_quintana_roo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_del_carmen
+	}
+}
+
+c_mx_23_cozumel = {
+	2000.1.1 = {
+	 liege = d_quintana_roo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_cozumel
+	}
+}
+
+c_mx_04_campeche = {
+	2656.1.1 = {
+		holder = character_c_mx_04_campeche
+	}
+}
+d_campeche = {
+	2000.1.1 = {
+	 liege = k_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_campeche
+	}
+}
+
+c_mx_04_calkin_ = {
+	2000.1.1 = {
+	 liege = d_campeche
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_calkin_
+	}
+}
+
+c_mx_04_hopelch_n = {
+	2000.1.1 = {
+	 liege = d_campeche
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_hopelch_n
+	}
+}
+
+c_mx_04_constituci_n = {
+	2000.1.1 = {
+	 liege = d_campeche
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_constituci_n
+	}
+}
+
+c_mx_31_ticul = {
+	2656.1.1 = {
+		holder = character_c_mx_31_ticul
+	}
+}
+d_mayapan = {
+	2000.1.1 = {
+	 liege = k_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_ticul
+	}
+}
+
+c_mx_31_valladolid = {
+	2000.1.1 = {
+	 liege = d_mayapan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_valladolid
+	}
+}
+
+c_mx_31_peto = {
+	2000.1.1 = {
+	 liege = d_mayapan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_31_peto
+	}
+}
+
+c_mx_04_del_carmen = {
+	2656.1.1 = {
+		holder = character_c_mx_04_del_carmen
+	}
+}
+d_laguna_de_terminos = {
+	2000.1.1 = {
+	 liege = k_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_del_carmen
+	}
+}
+
+c_mx_04_esc_rcega = {
+	2000.1.1 = {
+	 liege = d_laguna_de_terminos
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_esc_rcega
+	}
+}
+
+c_mx_04_candelaria = {
+	2000.1.1 = {
+	 liege = d_laguna_de_terminos
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_candelaria
+	}
+}
+
+c_mx_05_tuxtla = {
+	2656.1.1 = {
+		holder = character_c_mx_05_tuxtla
+	}
+}
+d_chiapas = {
+	2656.1.1 = {
+		holder = character_c_mx_05_tuxtla
+	}
+}
+k_chiapas = {
+	2000.1.1 = {
+	 liege = e_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_tuxtla
+	}
+}
+
+c_mx_05_tapachula = {
+	2000.1.1 = {
+	 liege = d_chiapas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_tapachula
+	}
+}
+
+c_mx_05_tonal_ = {
+	2000.1.1 = {
+	 liege = d_chiapas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_tonal_
+	}
+}
+
+c_mx_05_villaflores = {
+	2000.1.1 = {
+	 liege = d_chiapas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_villaflores
+	}
+}
+
+c_mx_05_jaltenango_de_la_paz = {
+	2000.1.1 = {
+	 liege = d_chiapas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_jaltenango_de_la_paz
+	}
+}
+
+c_mx_05_cintalapa_de_figueroa = {
+	2000.1.1 = {
+	 liege = d_chiapas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_cintalapa_de_figueroa
+	}
+}
+
+c_mx_05_san_crist_bal_de_las_casas = {
+	2656.1.1 = {
+		holder = character_c_mx_05_san_crist_bal_de_las_casas
+	}
+}
+d_zapata = {
+	2000.1.1 = {
+	 liege = k_chiapas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_san_crist_bal_de_las_casas
+	}
+}
+
+c_mx_05_comit_n = {
+	2000.1.1 = {
+	 liege = d_zapata
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_comit_n
+	}
+}
+
+c_mx_05_palenque = {
+	2000.1.1 = {
+	 liege = d_zapata
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_palenque
+	}
+}
+
+c_mx_27_teapa = {
+	2000.1.1 = {
+	 liege = d_zapata
+	}
+	2656.1.1 = {
+		holder = character_c_mx_27_teapa
+	}
+}
+
+c_mx_05_ocosingo = {
+	2000.1.1 = {
+	 liege = d_zapata
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_ocosingo
+	}
+}
+
+c_mx_23_chetumal = {
+	2656.1.1 = {
+		holder = character_c_mx_23_chetumal
+	}
+}
+d_chan_santa_cruz = {
+	2656.1.1 = {
+		holder = character_c_mx_23_chetumal
+	}
+}
+k_peten = {
+	2000.1.1 = {
+	 liege = e_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_chetumal
+	}
+}
+
+c_mx_23_felipe_carrillo_puerto = {
+	2000.1.1 = {
+	 liege = d_chan_santa_cruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_felipe_carrillo_puerto
+	}
+}
+
+c_mx_23_nicol_s_bravo = {
+	2000.1.1 = {
+	 liege = d_chan_santa_cruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_nicol_s_bravo
+	}
+}
+
+c_mx_23_jos_mar_a_morelos = {
+	2000.1.1 = {
+	 liege = d_chan_santa_cruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_jos_mar_a_morelos
+	}
+}
+
+c_mx_27_tenosique = {
+	2656.1.1 = {
+		holder = character_c_mx_27_tenosique
+	}
+}
+d_lacandon = {
+	2000.1.1 = {
+	 liege = k_peten
+	}
+	2656.1.1 = {
+		holder = character_c_mx_27_tenosique
+	}
+}
+
+c_mx_05_nueva_palestina = {
+	2000.1.1 = {
+	 liege = d_lacandon
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_nueva_palestina
+	}
+}
+
+c_gt_12_sayaxch_ = {
+	2000.1.1 = {
+	 liege = d_lacandon
+	}
+	2656.1.1 = {
+		holder = character_c_gt_12_sayaxch_
+	}
+}
+
+c_gt_12_san_benito = {
+	2656.1.1 = {
+		holder = character_c_gt_12_san_benito
+	}
+}
+d_peten = {
+	2000.1.1 = {
+	 liege = k_peten
+	}
+	2656.1.1 = {
+		holder = character_c_gt_12_san_benito
+	}
+}
+
+c_gt_12_popt_n = {
+	2000.1.1 = {
+	 liege = d_peten
+	}
+	2656.1.1 = {
+		holder = character_c_gt_12_popt_n
+	}
+}
+
+c_gt_12_melchor_de_mencos = {
+	2000.1.1 = {
+	 liege = d_peten
+	}
+	2656.1.1 = {
+		holder = character_c_gt_12_melchor_de_mencos
+	}
+}
+
+c_mx_04_miguel_hidalgo_y_costilla = {
+	2000.1.1 = {
+	 liege = d_peten
+	}
+	2656.1.1 = {
+		holder = character_c_mx_04_miguel_hidalgo_y_costilla
+	}
+}
+
+c_gt_12_dolores = {
+	2000.1.1 = {
+	 liege = d_peten
+	}
+	2656.1.1 = {
+		holder = character_c_gt_12_dolores
+	}
+}
+
+c_gt_12_carmelita = {
+	2000.1.1 = {
+	 liege = d_peten
+	}
+	2656.1.1 = {
+		holder = character_c_gt_12_carmelita
+	}
+}
+
+c_mx_05_balum_canan = {
+	2000.1.1 = {
+	 liege = d_peten
+	}
+	2656.1.1 = {
+		holder = character_c_mx_05_balum_canan
+	}
+}
+
+c_bz_01_belize_city = {
+	2656.1.1 = {
+		holder = character_c_bz_01_belize_city
+	}
+}
+d_belize = {
+	2000.1.1 = {
+	 liege = k_peten
+	}
+	2656.1.1 = {
+		holder = character_c_bz_01_belize_city
+	}
+}
+
+c_bz_02_san_ignacio = {
+	2000.1.1 = {
+	 liege = d_belize
+	}
+	2656.1.1 = {
+		holder = character_c_bz_02_san_ignacio
+	}
+}
+
+c_bz_04_orange_walk = {
+	2000.1.1 = {
+	 liege = d_belize
+	}
+	2656.1.1 = {
+		holder = character_c_bz_04_orange_walk
+	}
+}
+
+c_bz_06_punta_gorda = {
+	2000.1.1 = {
+	 liege = d_belize
+	}
+	2656.1.1 = {
+		holder = character_c_bz_06_punta_gorda
+	}
+}

@@ -1,0 +1,768 @@
+c_us_ak_anchorage = {
+	2656.1.1 = {
+		holder = character_c_us_ak_anchorage
+	}
+}
+d_alaska = {
+	2656.1.1 = {
+		holder = character_c_us_ak_anchorage
+	}
+}
+k_alaska = {
+	2656.1.1 = {
+		holder = character_c_us_ak_anchorage
+	}
+}
+e_alaska = {
+	2656.1.1 = {
+		holder = character_c_us_ak_anchorage
+	}
+}
+
+c_us_ak_kalifornsky = {
+	2000.1.1 = {
+	 liege = d_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_kalifornsky
+	}
+}
+
+c_us_ak_valdez = {
+	2000.1.1 = {
+	 liege = d_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_valdez
+	}
+}
+
+c_us_ak_seward = {
+	2000.1.1 = {
+	 liege = d_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_seward
+	}
+}
+
+c_us_ak_glennallen = {
+	2000.1.1 = {
+	 liege = d_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_glennallen
+	}
+}
+
+c_us_ak_healy = {
+	2000.1.1 = {
+	 liege = d_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_healy
+	}
+}
+
+c_us_ak_unalaska = {
+	2656.1.1 = {
+		holder = character_c_us_ak_unalaska
+	}
+}
+d_aleutians = {
+	2000.1.1 = {
+	 liege = k_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_unalaska
+	}
+}
+
+c_us_ak_kodiak = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_kodiak
+	}
+}
+
+c_us_ak_naknek = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_naknek
+	}
+}
+
+c_us_ak_naknek = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_naknek
+	}
+}
+
+c_us_ak_sand_point = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_sand_point
+	}
+}
+
+c_us_ak_sand_point = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_sand_point
+	}
+}
+
+c_us_ak_king_cove = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_king_cove
+	}
+}
+
+c_us_ak_atka = {
+	2000.1.1 = {
+	 liege = d_aleutians
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_atka
+	}
+}
+
+c_us_ak_bethel = {
+	2656.1.1 = {
+		holder = character_c_us_ak_bethel
+	}
+}
+d_kuskokwim = {
+	2000.1.1 = {
+	 liege = k_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_bethel
+	}
+}
+
+c_us_ak_bethel = {
+	2000.1.1 = {
+	 liege = d_kuskokwim
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_bethel
+	}
+}
+
+c_us_ak_dillingham = {
+	2000.1.1 = {
+	 liege = d_kuskokwim
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_dillingham
+	}
+}
+
+c_us_ak_togiak = {
+	2000.1.1 = {
+	 liege = d_kuskokwim
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_togiak
+	}
+}
+
+c_us_ak_mcgrath = {
+	2000.1.1 = {
+	 liege = d_kuskokwim
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_mcgrath
+	}
+}
+
+c_us_ak_denali_national_park = {
+	2000.1.1 = {
+	 liege = d_kuskokwim
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_denali_national_park
+	}
+}
+
+c_glacier_bay = {
+	2656.1.1 = {
+		holder = character_c_glacier_bay
+	}
+}
+d_yukon_delta = {
+	2000.1.1 = {
+	 liege = k_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_glacier_bay
+	}
+}
+
+c_us_ak_emmonak = {
+	2000.1.1 = {
+	 liege = d_yukon_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_emmonak
+	}
+}
+
+c_us_ak_unalakleet = {
+	2000.1.1 = {
+	 liege = d_yukon_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_unalakleet
+	}
+}
+
+c_us_ak_grayling = {
+	2000.1.1 = {
+	 liege = d_yukon_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_grayling
+	}
+}
+
+c_us_ak_grayling = {
+	2000.1.1 = {
+	 liege = d_yukon_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_grayling
+	}
+}
+
+c_us_ak_huslia = {
+	2656.1.1 = {
+		holder = character_c_us_ak_huslia
+	}
+}
+d_koyukuk = {
+	2000.1.1 = {
+	 liege = k_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_huslia
+	}
+}
+
+c_us_ak_tanana = {
+	2000.1.1 = {
+	 liege = d_koyukuk
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_tanana
+	}
+}
+
+c_us_ak_anaktuvuk_pass = {
+	2000.1.1 = {
+	 liege = d_koyukuk
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_anaktuvuk_pass
+	}
+}
+
+c_us_ak_fairbanks = {
+	2656.1.1 = {
+		holder = character_c_us_ak_fairbanks
+	}
+}
+d_goldfields = {
+	2656.1.1 = {
+		holder = character_c_us_ak_fairbanks
+	}
+}
+k_yukon = {
+	2000.1.1 = {
+	 liege = e_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_fairbanks
+	}
+}
+
+c_us_ak_deltana = {
+	2000.1.1 = {
+	 liege = d_goldfields
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_deltana
+	}
+}
+
+c_ca_yt_dawson_city = {
+	2000.1.1 = {
+	 liege = d_goldfields
+	}
+	2656.1.1 = {
+		holder = character_c_ca_yt_dawson_city
+	}
+}
+
+c_ca_yt_mayo = {
+	2000.1.1 = {
+	 liege = d_goldfields
+	}
+	2656.1.1 = {
+		holder = character_c_ca_yt_mayo
+	}
+}
+
+c_whitehorse = {
+	2656.1.1 = {
+		holder = character_c_whitehorse
+	}
+}
+d_yukon = {
+	2000.1.1 = {
+	 liege = k_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_whitehorse
+	}
+}
+
+c_ca_yt_yukon_crossing = {
+	2000.1.1 = {
+	 liege = d_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_ca_yt_yukon_crossing
+	}
+}
+
+c_atlin = {
+	2000.1.1 = {
+	 liege = d_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_atlin
+	}
+}
+
+c_ca_yt_ross_river = {
+	2000.1.1 = {
+	 liege = d_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_ca_yt_ross_river
+	}
+}
+
+c_teslin = {
+	2000.1.1 = {
+	 liege = d_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_teslin
+	}
+}
+
+c_chilkoot = {
+	2656.1.1 = {
+		holder = character_c_chilkoot
+	}
+}
+d_shakwak = {
+	2000.1.1 = {
+	 liege = k_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_chilkoot
+	}
+}
+
+c_kluane = {
+	2000.1.1 = {
+	 liege = d_shakwak
+	}
+	2656.1.1 = {
+		holder = character_c_kluane
+	}
+}
+
+c_us_ak_alcan_border = {
+	2000.1.1 = {
+	 liege = d_shakwak
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_alcan_border
+	}
+}
+
+c_ca_nt_fort_mcpherson = {
+	2656.1.1 = {
+		holder = character_c_ca_nt_fort_mcpherson
+	}
+}
+d_gwichin = {
+	2000.1.1 = {
+	 liege = k_yukon
+	}
+	2656.1.1 = {
+		holder = character_c_ca_nt_fort_mcpherson
+	}
+}
+
+c_us_ak_fort_yukon = {
+	2000.1.1 = {
+	 liege = d_gwichin
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_fort_yukon
+	}
+}
+
+c_us_ak_arctic_village = {
+	2000.1.1 = {
+	 liege = d_gwichin
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_arctic_village
+	}
+}
+
+c_ca_yt_whitestone_village = {
+	2000.1.1 = {
+	 liege = d_gwichin
+	}
+	2656.1.1 = {
+		holder = character_c_ca_yt_whitestone_village
+	}
+}
+
+c_us_ak_canyon_village = {
+	2000.1.1 = {
+	 liege = d_gwichin
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_canyon_village
+	}
+}
+
+c_ca_yt_old_crow = {
+	2000.1.1 = {
+	 liege = d_gwichin
+	}
+	2656.1.1 = {
+		holder = character_c_ca_yt_old_crow
+	}
+}
+
+c_juneau = {
+	2656.1.1 = {
+		holder = character_c_juneau
+	}
+}
+d_juneau = {
+	2656.1.1 = {
+		holder = character_c_juneau
+	}
+}
+k_great_coast = {
+	2000.1.1 = {
+	 liege = e_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_juneau
+	}
+}
+
+c_baranof = {
+	2000.1.1 = {
+	 liege = d_juneau
+	}
+	2656.1.1 = {
+		holder = character_c_baranof
+	}
+}
+
+c_chichagof = {
+	2000.1.1 = {
+	 liege = d_juneau
+	}
+	2656.1.1 = {
+		holder = character_c_chichagof
+	}
+}
+
+c_us_ak_yakutat = {
+	2000.1.1 = {
+	 liege = d_juneau
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_yakutat
+	}
+}
+
+c_kitimat = {
+	2656.1.1 = {
+		holder = character_c_kitimat
+	}
+}
+d_upper_coast = {
+	2000.1.1 = {
+	 liege = k_great_coast
+	}
+	2656.1.1 = {
+		holder = character_c_kitimat
+	}
+}
+
+c_prince_rupert = {
+	2000.1.1 = {
+	 liege = d_upper_coast
+	}
+	2656.1.1 = {
+		holder = character_c_prince_rupert
+	}
+}
+
+c_bella_coola = {
+	2000.1.1 = {
+	 liege = d_upper_coast
+	}
+	2656.1.1 = {
+		holder = character_c_bella_coola
+	}
+}
+
+c_fiordland = {
+	2000.1.1 = {
+	 liege = d_upper_coast
+	}
+	2656.1.1 = {
+		holder = character_c_fiordland
+	}
+}
+
+c_ketchikan = {
+	2656.1.1 = {
+		holder = character_c_ketchikan
+	}
+}
+d_alexander = {
+	2000.1.1 = {
+	 liege = k_great_coast
+	}
+	2656.1.1 = {
+		holder = character_c_ketchikan
+	}
+}
+
+c_kupreanof = {
+	2000.1.1 = {
+	 liege = d_alexander
+	}
+	2656.1.1 = {
+		holder = character_c_kupreanof
+	}
+}
+
+c_klawock = {
+	2000.1.1 = {
+	 liege = d_alexander
+	}
+	2656.1.1 = {
+		holder = character_c_klawock
+	}
+}
+
+c_wrangell = {
+	2000.1.1 = {
+	 liege = d_alexander
+	}
+	2656.1.1 = {
+		holder = character_c_wrangell
+	}
+}
+
+c_hydaburg = {
+	2000.1.1 = {
+	 liege = d_alexander
+	}
+	2656.1.1 = {
+		holder = character_c_hydaburg
+	}
+}
+
+c_nass = {
+	2656.1.1 = {
+		holder = character_c_nass
+	}
+}
+d_stikine = {
+	2000.1.1 = {
+	 liege = k_great_coast
+	}
+	2656.1.1 = {
+		holder = character_c_nass
+	}
+}
+
+c_cassiar = {
+	2000.1.1 = {
+	 liege = d_stikine
+	}
+	2656.1.1 = {
+		holder = character_c_cassiar
+	}
+}
+
+c_stikine = {
+	2000.1.1 = {
+	 liege = d_stikine
+	}
+	2656.1.1 = {
+		holder = character_c_stikine
+	}
+}
+
+c_gwaii_haanas = {
+	2656.1.1 = {
+		holder = character_c_gwaii_haanas
+	}
+}
+d_haida_gwaii = {
+	2000.1.1 = {
+	 liege = k_great_coast
+	}
+	2656.1.1 = {
+		holder = character_c_gwaii_haanas
+	}
+}
+
+c_kiis_gwaii = {
+	2000.1.1 = {
+	 liege = d_haida_gwaii
+	}
+	2656.1.1 = {
+		holder = character_c_kiis_gwaii
+	}
+}
+
+c_us_ak_nome = {
+	2656.1.1 = {
+		holder = character_c_us_ak_nome
+	}
+}
+d_nome = {
+	2656.1.1 = {
+		holder = character_c_us_ak_nome
+	}
+}
+k_inupiaq = {
+	2000.1.1 = {
+	 liege = e_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_nome
+	}
+}
+
+c_us_ak_kotzebue = {
+	2000.1.1 = {
+	 liege = d_nome
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_kotzebue
+	}
+}
+
+c_us_ak_selawik = {
+	2000.1.1 = {
+	 liege = d_nome
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_selawik
+	}
+}
+
+c_us_ak_barrow = {
+	2656.1.1 = {
+		holder = character_c_us_ak_barrow
+	}
+}
+d_north_slope = {
+	2000.1.1 = {
+	 liege = k_inupiaq
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_barrow
+	}
+}
+
+c_us_ak_prudhoe_bay = {
+	2000.1.1 = {
+	 liege = d_north_slope
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_prudhoe_bay
+	}
+}
+
+c_us_ak_point_hope = {
+	2000.1.1 = {
+	 liege = d_north_slope
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_point_hope
+	}
+}
+
+c_us_ak_gambell = {
+	2656.1.1 = {
+		holder = character_c_us_ak_gambell
+	}
+}
+d_chukotka = {
+	2656.1.1 = {
+		holder = character_c_us_ak_gambell
+	}
+}
+k_us_ak_gambell = {
+	2000.1.1 = {
+	 liege = e_alaska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_gambell
+	}
+}
+
+c_us_ak_diomede = {
+	2000.1.1 = {
+	 liege = d_chukotka
+	}
+	2656.1.1 = {
+		holder = character_c_us_ak_diomede
+	}
+}
+
+c_py_04_noname92237204 = {
+	2000.1.1 = {
+	 liege = d_chukotka
+	}
+	2656.1.1 = {
+		holder = character_c_py_04_noname92237204
+	}
+}

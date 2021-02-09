@@ -1,0 +1,444 @@
+c_greater_sudbury = {
+	2656.1.1 = {
+		holder = character_c_greater_sudbury
+	}
+}
+d_nickel_belt = {
+	2656.1.1 = {
+		holder = character_c_greater_sudbury
+	}
+}
+k_aurora = {
+	2656.1.1 = {
+		holder = character_c_greater_sudbury
+	}
+}
+e_ruperts_land = {
+	2656.1.1 = {
+		holder = character_c_greater_sudbury
+	}
+}
+
+c_timiskaming = {
+	2000.1.1 = {
+	 liege = d_nickel_belt
+	}
+	2656.1.1 = {
+		holder = character_c_timiskaming
+	}
+}
+
+c_elliot_lake = {
+	2000.1.1 = {
+	 liege = d_nickel_belt
+	}
+	2656.1.1 = {
+		holder = character_c_elliot_lake
+	}
+}
+
+c_manitoulin = {
+	2000.1.1 = {
+	 liege = d_nickel_belt
+	}
+	2656.1.1 = {
+		holder = character_c_manitoulin
+	}
+}
+
+c_lakehead = {
+	2656.1.1 = {
+		holder = character_c_lakehead
+	}
+}
+d_thunder = {
+	2000.1.1 = {
+	 liege = k_aurora
+	}
+	2656.1.1 = {
+		holder = character_c_lakehead
+	}
+}
+
+c_lakehead = {
+	2000.1.1 = {
+	 liege = d_thunder
+	}
+	2656.1.1 = {
+		holder = character_c_lakehead
+	}
+}
+
+c_greenstone = {
+	2000.1.1 = {
+	 liege = d_thunder
+	}
+	2656.1.1 = {
+		holder = character_c_greenstone
+	}
+}
+
+c_marathon = {
+	2000.1.1 = {
+	 liege = d_thunder
+	}
+	2656.1.1 = {
+		holder = character_c_marathon
+	}
+}
+
+c_quetico = {
+	2000.1.1 = {
+	 liege = d_thunder
+	}
+	2656.1.1 = {
+		holder = character_c_quetico
+	}
+}
+
+c_aguasabon = {
+	2000.1.1 = {
+	 liege = d_thunder
+	}
+	2656.1.1 = {
+		holder = character_c_aguasabon
+	}
+}
+
+c_nipigon = {
+	2000.1.1 = {
+	 liege = d_thunder
+	}
+	2656.1.1 = {
+		holder = character_c_nipigon
+	}
+}
+
+c_sault_ste_marie = {
+	2656.1.1 = {
+		holder = character_c_sault_ste_marie
+	}
+}
+d_algoma = {
+	2000.1.1 = {
+	 liege = k_aurora
+	}
+	2656.1.1 = {
+		holder = character_c_sault_ste_marie
+	}
+}
+
+c_wawa = {
+	2000.1.1 = {
+	 liege = d_algoma
+	}
+	2656.1.1 = {
+		holder = character_c_wawa
+	}
+}
+
+c_ivanhoe = {
+	2000.1.1 = {
+	 liege = d_algoma
+	}
+	2656.1.1 = {
+		holder = character_c_ivanhoe
+	}
+}
+
+c_batchawana = {
+	2000.1.1 = {
+	 liege = d_algoma
+	}
+	2656.1.1 = {
+		holder = character_c_batchawana
+	}
+}
+
+c_cochrane = {
+	2656.1.1 = {
+		holder = character_c_cochrane
+	}
+}
+d_clay_belt = {
+	2000.1.1 = {
+	 liege = k_aurora
+	}
+	2656.1.1 = {
+		holder = character_c_cochrane
+	}
+}
+
+c_kapuskasing = {
+	2000.1.1 = {
+	 liege = d_clay_belt
+	}
+	2656.1.1 = {
+		holder = character_c_kapuskasing
+	}
+}
+
+c_hearst = {
+	2000.1.1 = {
+	 liege = d_clay_belt
+	}
+	2656.1.1 = {
+		holder = character_c_hearst
+	}
+}
+
+c_osisko = {
+	2656.1.1 = {
+		holder = character_c_osisko
+	}
+}
+d_abitibi = {
+	2656.1.1 = {
+		holder = character_c_osisko
+	}
+}
+k_jamesie = {
+	2000.1.1 = {
+	 liege = e_ruperts_land
+	}
+	2656.1.1 = {
+		holder = character_c_osisko
+	}
+}
+
+c_vallee_de_l_or = {
+	2000.1.1 = {
+	 liege = d_abitibi
+	}
+	2656.1.1 = {
+		holder = character_c_vallee_de_l_or
+	}
+}
+
+c_kipawa = {
+	2000.1.1 = {
+	 liege = d_abitibi
+	}
+	2656.1.1 = {
+		holder = character_c_kipawa
+	}
+}
+
+c_chibougamau = {
+	2656.1.1 = {
+		holder = character_c_chibougamau
+	}
+}
+d_eeyou_istchee = {
+	2000.1.1 = {
+	 liege = k_jamesie
+	}
+	2656.1.1 = {
+		holder = character_c_chibougamau
+	}
+}
+
+c_mattagami = {
+	2000.1.1 = {
+	 liege = d_eeyou_istchee
+	}
+	2656.1.1 = {
+		holder = character_c_mattagami
+	}
+}
+
+c_nemaska = {
+	2000.1.1 = {
+	 liege = d_eeyou_istchee
+	}
+	2656.1.1 = {
+		holder = character_c_nemaska
+	}
+}
+
+c_ca_qc_chisasibi = {
+	2656.1.1 = {
+		holder = character_c_ca_qc_chisasibi
+	}
+}
+d_ca_qc_chisasibi = {
+	2000.1.1 = {
+	 liege = k_jamesie
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_chisasibi
+	}
+}
+
+c_ca_qc_waskaganish = {
+	2000.1.1 = {
+	 liege = d_ca_qc_chisasibi
+	}
+	2656.1.1 = {
+		holder = character_c_ca_qc_waskaganish
+	}
+}
+
+c_moosonee = {
+	2000.1.1 = {
+	 liege = d_ca_qc_chisasibi
+	}
+	2656.1.1 = {
+		holder = character_c_moosonee
+	}
+}
+
+c_attawapiskat = {
+	2000.1.1 = {
+	 liege = d_ca_qc_chisasibi
+	}
+	2656.1.1 = {
+		holder = character_c_attawapiskat
+	}
+}
+
+c_ca_on_fort_severn = {
+	2000.1.1 = {
+	 liege = d_ca_qc_chisasibi
+	}
+	2656.1.1 = {
+		holder = character_c_ca_on_fort_severn
+	}
+}
+
+c_flin_flon = {
+	2656.1.1 = {
+		holder = character_c_flin_flon
+	}
+}
+d_kameesak = {
+	2656.1.1 = {
+		holder = character_c_flin_flon
+	}
+}
+k_churchill = {
+	2000.1.1 = {
+	 liege = e_ruperts_land
+	}
+	2656.1.1 = {
+		holder = character_c_flin_flon
+	}
+}
+
+c_paskoyac = {
+	2000.1.1 = {
+	 liege = d_kameesak
+	}
+	2656.1.1 = {
+		holder = character_c_paskoyac
+	}
+}
+
+c_southend = {
+	2000.1.1 = {
+	 liege = d_kameesak
+	}
+	2656.1.1 = {
+		holder = character_c_southend
+	}
+}
+
+c_thompson = {
+	2656.1.1 = {
+		holder = character_c_thompson
+	}
+}
+d_nelson = {
+	2000.1.1 = {
+	 liege = k_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_thompson
+	}
+}
+
+c_gillam = {
+	2000.1.1 = {
+	 liege = d_nelson
+	}
+	2656.1.1 = {
+		holder = character_c_gillam
+	}
+}
+
+c_wapusk = {
+	2000.1.1 = {
+	 liege = d_nelson
+	}
+	2656.1.1 = {
+		holder = character_c_wapusk
+	}
+}
+
+c_amisk = {
+	2000.1.1 = {
+	 liege = d_nelson
+	}
+	2656.1.1 = {
+		holder = character_c_amisk
+	}
+}
+
+c_norway_house = {
+	2656.1.1 = {
+		holder = character_c_norway_house
+	}
+}
+d_keewatin = {
+	2000.1.1 = {
+	 liege = k_churchill
+	}
+	2656.1.1 = {
+		holder = character_c_norway_house
+	}
+}
+
+c_norway_house = {
+	2000.1.1 = {
+	 liege = d_keewatin
+	}
+	2656.1.1 = {
+		holder = character_c_norway_house
+	}
+}
+
+c_gods_lake = {
+	2000.1.1 = {
+	 liege = d_keewatin
+	}
+	2656.1.1 = {
+		holder = character_c_gods_lake
+	}
+}
+
+c_sachigo = {
+	2000.1.1 = {
+	 liege = d_keewatin
+	}
+	2656.1.1 = {
+		holder = character_c_sachigo
+	}
+}
+
+c_winisk = {
+	2000.1.1 = {
+	 liege = d_keewatin
+	}
+	2656.1.1 = {
+		holder = character_c_winisk
+	}
+}
+
+c_opasquia = {
+	2000.1.1 = {
+	 liege = d_keewatin
+	}
+	2656.1.1 = {
+		holder = character_c_opasquia
+	}
+}

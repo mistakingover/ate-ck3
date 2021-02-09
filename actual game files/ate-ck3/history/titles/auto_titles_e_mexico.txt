@@ -1,0 +1,1362 @@
+c_mx_09_mexico_city = {
+	2656.1.1 = {
+		holder = character_c_mx_09_mexico_city
+	}
+}
+d_mexico = {
+	2656.1.1 = {
+		holder = character_c_mx_09_mexico_city
+	}
+}
+k_mexico = {
+	2656.1.1 = {
+		holder = character_c_mx_09_mexico_city
+	}
+}
+e_mexico = {
+	2656.1.1 = {
+		holder = character_c_mx_09_mexico_city
+	}
+}
+
+c_mx_15_santa_mar_a_chimalhuac_n = {
+	2000.1.1 = {
+	 liege = d_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_15_santa_mar_a_chimalhuac_n
+	}
+}
+
+c_mx_17_cuernavaca = {
+	2000.1.1 = {
+	 liege = d_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_17_cuernavaca
+	}
+}
+
+c_mx_21_puebla = {
+	2656.1.1 = {
+		holder = character_c_mx_21_puebla
+	}
+}
+d_puebla = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_puebla
+	}
+}
+
+c_mx_29_tlaxcala = {
+	2000.1.1 = {
+	 liege = d_puebla
+	}
+	2656.1.1 = {
+		holder = character_c_mx_29_tlaxcala
+	}
+}
+
+c_mx_21_tehuac_n = {
+	2000.1.1 = {
+	 liege = d_puebla
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_tehuac_n
+	}
+}
+
+c_mx_21_atlixco = {
+	2000.1.1 = {
+	 liege = d_puebla
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_atlixco
+	}
+}
+
+c_mx_21_chiautla_de_tapia = {
+	2000.1.1 = {
+	 liege = d_puebla
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_chiautla_de_tapia
+	}
+}
+
+c_mx_15_toluca = {
+	2656.1.1 = {
+		holder = character_c_mx_15_toluca
+	}
+}
+d_mx_15_tenancingo = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_15_toluca
+	}
+}
+
+c_mx_15_nicol_s_romero = {
+	2000.1.1 = {
+	 liege = d_mx_15_tenancingo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_15_nicol_s_romero
+	}
+}
+
+c_mx_15_atlacomulco_de_fabela = {
+	2000.1.1 = {
+	 liege = d_mx_15_tenancingo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_15_atlacomulco_de_fabela
+	}
+}
+
+c_mx_15_tejupilco_de_hidalgo = {
+	2000.1.1 = {
+	 liege = d_mx_15_tenancingo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_15_tejupilco_de_hidalgo
+	}
+}
+
+c_mx_13_pachuca_de_soto = {
+	2656.1.1 = {
+		holder = character_c_mx_13_pachuca_de_soto
+	}
+}
+d_hidalgo = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_13_pachuca_de_soto
+	}
+}
+
+c_mx_13_tepeji_del_r_o_de_ocampo = {
+	2000.1.1 = {
+	 liege = d_hidalgo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_13_tepeji_del_r_o_de_ocampo
+	}
+}
+
+c_mx_13_huejutla_de_reyes = {
+	2000.1.1 = {
+	 liege = d_hidalgo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_13_huejutla_de_reyes
+	}
+}
+
+c_mx_13_ixmiquilpan = {
+	2000.1.1 = {
+	 liege = d_hidalgo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_13_ixmiquilpan
+	}
+}
+
+c_mx_30_c_rdoba = {
+	2656.1.1 = {
+		holder = character_c_mx_30_c_rdoba
+	}
+}
+d_veracruz = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_c_rdoba
+	}
+}
+
+c_mx_30_veracruz = {
+	2000.1.1 = {
+	 liege = d_veracruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_veracruz
+	}
+}
+
+c_mx_30_cosamaloapan = {
+	2000.1.1 = {
+	 liege = d_veracruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_cosamaloapan
+	}
+}
+
+c_mx_30_xalapa_de_enr_quez = {
+	2656.1.1 = {
+		holder = character_c_mx_30_xalapa_de_enr_quez
+	}
+}
+d_mx_30_rica_de_hidalgo = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_xalapa_de_enr_quez
+	}
+}
+
+c_mx_30_rica_de_hidalgo = {
+	2000.1.1 = {
+	 liege = d_mx_30_rica_de_hidalgo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_rica_de_hidalgo
+	}
+}
+
+c_mx_30_mart_nez_de_la_torre = {
+	2000.1.1 = {
+	 liege = d_mx_30_rica_de_hidalgo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_mart_nez_de_la_torre
+	}
+}
+
+c_mx_30_coatzacoalcos = {
+	2656.1.1 = {
+		holder = character_c_mx_30_coatzacoalcos
+	}
+}
+d_olmeca = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_coatzacoalcos
+	}
+}
+
+c_mx_30_san_andr_s_tuxtla = {
+	2000.1.1 = {
+	 liege = d_olmeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_san_andr_s_tuxtla
+	}
+}
+
+c_mx_30_acayucan = {
+	2000.1.1 = {
+	 liege = d_olmeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_acayucan
+	}
+}
+
+c_mx_30_isla = {
+	2000.1.1 = {
+	 liege = d_olmeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_isla
+	}
+}
+
+c_mx_30_las_choapas = {
+	2000.1.1 = {
+	 liege = d_olmeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_las_choapas
+	}
+}
+
+c_mx_21_teziutlan = {
+	2656.1.1 = {
+		holder = character_c_mx_21_teziutlan
+	}
+}
+d_mx_21_zongozotla = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_teziutlan
+	}
+}
+
+c_mx_21_huauchinango = {
+	2000.1.1 = {
+	 liege = d_mx_21_zongozotla
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_huauchinango
+	}
+}
+
+c_mx_21_serd_n = {
+	2000.1.1 = {
+	 liege = d_mx_21_zongozotla
+	}
+	2656.1.1 = {
+		holder = character_c_mx_21_serd_n
+	}
+}
+
+c_mx_28_tampico = {
+	2656.1.1 = {
+		holder = character_c_mx_28_tampico
+	}
+}
+d_tamaulipas = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_28_tampico
+	}
+}
+
+c_mx_28_victoria = {
+	2000.1.1 = {
+	 liege = d_tamaulipas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_28_victoria
+	}
+}
+
+c_mx_28_mante = {
+	2000.1.1 = {
+	 liege = d_tamaulipas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_28_mante
+	}
+}
+
+c_mx_28_tula = {
+	2000.1.1 = {
+	 liege = d_tamaulipas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_28_tula
+	}
+}
+
+c_mx_30_t_xpam_de_rodr_guez_cano = {
+	2656.1.1 = {
+		holder = character_c_mx_30_t_xpam_de_rodr_guez_cano
+	}
+}
+d_huasteca = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_t_xpam_de_rodr_guez_cano
+	}
+}
+
+c_mx_30_tantoyuca = {
+	2000.1.1 = {
+	 liege = d_huasteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_tantoyuca
+	}
+}
+
+c_mx_30_p_nuco = {
+	2000.1.1 = {
+	 liege = d_huasteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_30_p_nuco
+	}
+}
+
+c_mx_20_tuxtepec = {
+	2656.1.1 = {
+		holder = character_c_mx_20_tuxtepec
+	}
+}
+d_mx_20_santiago_zacatepec = {
+	2000.1.1 = {
+	 liege = k_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_tuxtepec
+	}
+}
+
+c_mx_20_huautla_de_jim_nez = {
+	2000.1.1 = {
+	 liege = d_mx_20_santiago_zacatepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_huautla_de_jim_nez
+	}
+}
+
+c_mx_20_san_miguel_quetzaltepec = {
+	2000.1.1 = {
+	 liege = d_mx_20_santiago_zacatepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_san_miguel_quetzaltepec
+	}
+}
+
+c_mx_20_ixtl_n_de_ju_rez = {
+	2000.1.1 = {
+	 liege = d_mx_20_santiago_zacatepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_ixtl_n_de_ju_rez
+	}
+}
+
+c_mx_11_le_n_de_los_aldama = {
+	2656.1.1 = {
+		holder = character_c_mx_11_le_n_de_los_aldama
+	}
+}
+d_guanajuato = {
+	2656.1.1 = {
+		holder = character_c_mx_11_le_n_de_los_aldama
+	}
+}
+k_bajio = {
+	2000.1.1 = {
+	 liege = e_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_le_n_de_los_aldama
+	}
+}
+
+c_mx_11_silao = {
+	2000.1.1 = {
+	 liege = d_guanajuato
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_silao
+	}
+}
+
+c_mx_11_san_miguel_de_allende = {
+	2000.1.1 = {
+	 liege = d_guanajuato
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_san_miguel_de_allende
+	}
+}
+
+c_mx_11_san_jos_iturbide = {
+	2000.1.1 = {
+	 liege = d_guanajuato
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_san_jos_iturbide
+	}
+}
+
+c_mx_11_celaya = {
+	2656.1.1 = {
+		holder = character_c_mx_11_celaya
+	}
+}
+d_mx_11_de_santiago = {
+	2000.1.1 = {
+	 liege = k_bajio
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_celaya
+	}
+}
+
+c_mx_11_irapuato = {
+	2000.1.1 = {
+	 liege = d_mx_11_de_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_irapuato
+	}
+}
+
+c_mx_11_salamanca = {
+	2000.1.1 = {
+	 liege = d_mx_11_de_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_salamanca
+	}
+}
+
+c_mx_11_ac_mbaro = {
+	2000.1.1 = {
+	 liege = d_mx_11_de_santiago
+	}
+	2656.1.1 = {
+		holder = character_c_mx_11_ac_mbaro
+	}
+}
+
+c_mx_22_santiago_de_quer_taro = {
+	2656.1.1 = {
+		holder = character_c_mx_22_santiago_de_quer_taro
+	}
+}
+d_queretaro = {
+	2000.1.1 = {
+	 liege = k_bajio
+	}
+	2656.1.1 = {
+		holder = character_c_mx_22_santiago_de_quer_taro
+	}
+}
+
+c_mx_22_san_juan_del_r_o = {
+	2000.1.1 = {
+	 liege = d_queretaro
+	}
+	2656.1.1 = {
+		holder = character_c_mx_22_san_juan_del_r_o
+	}
+}
+
+c_mx_22_cadereyta = {
+	2000.1.1 = {
+	 liege = d_queretaro
+	}
+	2656.1.1 = {
+		holder = character_c_mx_22_cadereyta
+	}
+}
+
+c_mx_01_aguascalientes = {
+	2656.1.1 = {
+		holder = character_c_mx_01_aguascalientes
+	}
+}
+d_mx_01_aguascalientes = {
+	2000.1.1 = {
+	 liege = k_bajio
+	}
+	2656.1.1 = {
+		holder = character_c_mx_01_aguascalientes
+	}
+}
+
+c_mx_01_pabell_n_de_arteaga = {
+	2000.1.1 = {
+	 liege = d_mx_01_aguascalientes
+	}
+	2656.1.1 = {
+		holder = character_c_mx_01_pabell_n_de_arteaga
+	}
+}
+
+c_mx_14_ocotl_n = {
+	2656.1.1 = {
+		holder = character_c_mx_14_ocotl_n
+	}
+}
+d_bajio_occidente = {
+	2000.1.1 = {
+	 liege = k_bajio
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_ocotl_n
+	}
+}
+
+c_mx_14_san_juan_de_los_lagos = {
+	2000.1.1 = {
+	 liege = d_bajio_occidente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_san_juan_de_los_lagos
+	}
+}
+
+c_mx_14_lagos_de_moreno = {
+	2000.1.1 = {
+	 liege = d_bajio_occidente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_lagos_de_moreno
+	}
+}
+
+c_mx_14_tepatitl_n_de_morelos = {
+	2000.1.1 = {
+	 liege = d_bajio_occidente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_tepatitl_n_de_morelos
+	}
+}
+
+c_mx_14_arandas = {
+	2000.1.1 = {
+	 liege = d_bajio_occidente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_arandas
+	}
+}
+
+c_mx_14_guadalajara = {
+	2656.1.1 = {
+		holder = character_c_mx_14_guadalajara
+	}
+}
+d_jalisco = {
+	2656.1.1 = {
+		holder = character_c_mx_14_guadalajara
+	}
+}
+k_jalisco = {
+	2000.1.1 = {
+	 liege = e_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_guadalajara
+	}
+}
+
+c_mx_14_zapopan = {
+	2000.1.1 = {
+	 liege = d_jalisco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_zapopan
+	}
+}
+
+c_mx_14_chapala = {
+	2000.1.1 = {
+	 liege = d_jalisco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_chapala
+	}
+}
+
+c_mx_14_zapotlanejo = {
+	2000.1.1 = {
+	 liege = d_jalisco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_zapotlanejo
+	}
+}
+
+c_mx_08_colima = {
+	2656.1.1 = {
+		holder = character_c_mx_08_colima
+	}
+}
+d_colima = {
+	2000.1.1 = {
+	 liege = k_jalisco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_08_colima
+	}
+}
+
+c_mx_14_guzm_n = {
+	2000.1.1 = {
+	 liege = d_colima
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_guzm_n
+	}
+}
+
+c_mx_08_manzanillo = {
+	2000.1.1 = {
+	 liege = d_colima
+	}
+	2656.1.1 = {
+		holder = character_c_mx_08_manzanillo
+	}
+}
+
+c_mx_14_sayula = {
+	2000.1.1 = {
+	 liege = d_colima
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_sayula
+	}
+}
+
+c_mx_14_autl_n_de_navarro = {
+	2656.1.1 = {
+		holder = character_c_mx_14_autl_n_de_navarro
+	}
+}
+d_mx_14_mascota = {
+	2000.1.1 = {
+	 liege = k_jalisco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_autl_n_de_navarro
+	}
+}
+
+c_mx_14_ameca = {
+	2000.1.1 = {
+	 liege = d_mx_14_mascota
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_ameca
+	}
+}
+
+c_mx_14_tequila = {
+	2000.1.1 = {
+	 liege = d_mx_14_mascota
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_tequila
+	}
+}
+
+c_mx_14_el_salto = {
+	2000.1.1 = {
+	 liege = d_mx_14_mascota
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_el_salto
+	}
+}
+
+c_mx_14_puerto_vallarta = {
+	2656.1.1 = {
+		holder = character_c_mx_14_puerto_vallarta
+	}
+}
+d_costalegre = {
+	2000.1.1 = {
+	 liege = k_jalisco
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_puerto_vallarta
+	}
+}
+
+c_mx_14_cihuatl_n = {
+	2000.1.1 = {
+	 liege = d_costalegre
+	}
+	2656.1.1 = {
+		holder = character_c_mx_14_cihuatl_n
+	}
+}
+
+c_mx_16_morelia = {
+	2656.1.1 = {
+		holder = character_c_mx_16_morelia
+	}
+}
+d_michoacan = {
+	2656.1.1 = {
+		holder = character_c_mx_16_morelia
+	}
+}
+k_michoacan = {
+	2000.1.1 = {
+	 liege = e_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_morelia
+	}
+}
+
+c_mx_16_zamora = {
+	2000.1.1 = {
+	 liege = d_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_zamora
+	}
+}
+
+c_mx_16_uruapan = {
+	2000.1.1 = {
+	 liege = d_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_uruapan
+	}
+}
+
+c_mx_16_p_tzcuaro = {
+	2000.1.1 = {
+	 liege = d_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_p_tzcuaro
+	}
+}
+
+c_mx_16_sahuayo_de_morelos = {
+	2000.1.1 = {
+	 liege = d_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_sahuayo_de_morelos
+	}
+}
+
+c_mx_16_zacapu = {
+	2000.1.1 = {
+	 liege = d_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_zacapu
+	}
+}
+
+c_mx_16_her_ica_zit_cuaro = {
+	2656.1.1 = {
+		holder = character_c_mx_16_her_ica_zit_cuaro
+	}
+}
+d_mx_16_zit_cuaro = {
+	2000.1.1 = {
+	 liege = k_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_her_ica_zit_cuaro
+	}
+}
+
+c_mx_16_hidalgo = {
+	2000.1.1 = {
+	 liege = d_mx_16_zit_cuaro
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_hidalgo
+	}
+}
+
+c_mx_16_tac_mbaro_de_codallos = {
+	2000.1.1 = {
+	 liege = d_mx_16_zit_cuaro
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_tac_mbaro_de_codallos
+	}
+}
+
+c_mx_16_maravat_o_de_ocampo = {
+	2000.1.1 = {
+	 liege = d_mx_16_zit_cuaro
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_maravat_o_de_ocampo
+	}
+}
+
+c_mx_16_apatzing_n = {
+	2656.1.1 = {
+		holder = character_c_mx_16_apatzing_n
+	}
+}
+d_mx_16_arteaga = {
+	2000.1.1 = {
+	 liege = k_michoacan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_apatzing_n
+	}
+}
+
+c_mx_16_l_zaro_c_rdenas = {
+	2000.1.1 = {
+	 liege = d_mx_16_arteaga
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_l_zaro_c_rdenas
+	}
+}
+
+c_mx_16_coalcom_n_de_v_zquez_pallares = {
+	2000.1.1 = {
+	 liege = d_mx_16_arteaga
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_coalcom_n_de_v_zquez_pallares
+	}
+}
+
+c_mx_12_chilpancingo = {
+	2656.1.1 = {
+		holder = character_c_mx_12_chilpancingo
+	}
+}
+d_tierra_caliente = {
+	2656.1.1 = {
+		holder = character_c_mx_12_chilpancingo
+	}
+}
+k_mixteca = {
+	2000.1.1 = {
+	 liege = e_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_chilpancingo
+	}
+}
+
+c_mx_12_iguala_de_la_independencia = {
+	2000.1.1 = {
+	 liege = d_tierra_caliente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_iguala_de_la_independencia
+	}
+}
+
+c_mx_16_altamirano = {
+	2000.1.1 = {
+	 liege = d_tierra_caliente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_16_altamirano
+	}
+}
+
+c_mx_12_arcelia = {
+	2000.1.1 = {
+	 liege = d_tierra_caliente
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_arcelia
+	}
+}
+
+c_mx_12_acapulco_de_ju_rez = {
+	2656.1.1 = {
+		holder = character_c_mx_12_acapulco_de_ju_rez
+	}
+}
+d_costa_grande = {
+	2000.1.1 = {
+	 liege = k_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_acapulco_de_ju_rez
+	}
+}
+
+c_mx_12_ixtapa_zihuatanejo = {
+	2000.1.1 = {
+	 liege = d_costa_grande
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_ixtapa_zihuatanejo
+	}
+}
+
+c_mx_12_ayutla_de_los_libres = {
+	2000.1.1 = {
+	 liege = d_costa_grande
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_ayutla_de_los_libres
+	}
+}
+
+c_mx_20_pinotepa_nacional = {
+	2656.1.1 = {
+		holder = character_c_mx_20_pinotepa_nacional
+	}
+}
+d_mixteca = {
+	2000.1.1 = {
+	 liege = k_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_pinotepa_nacional
+	}
+}
+
+c_mx_20_de_huajuapan_de_le_n = {
+	2000.1.1 = {
+	 liege = d_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_de_huajuapan_de_le_n
+	}
+}
+
+c_mx_20_heroica_de_tlaxiaco = {
+	2000.1.1 = {
+	 liege = d_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_heroica_de_tlaxiaco
+	}
+}
+
+c_mx_20_putla_de_guerrero = {
+	2000.1.1 = {
+	 liege = d_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_putla_de_guerrero
+	}
+}
+
+c_mx_20_asunci_n_nochixtl_n = {
+	2000.1.1 = {
+	 liege = d_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_asunci_n_nochixtl_n
+	}
+}
+
+c_mx_12_tlapa_de_comonfort = {
+	2656.1.1 = {
+		holder = character_c_mx_12_tlapa_de_comonfort
+	}
+}
+d_mx_12_ometepec = {
+	2000.1.1 = {
+	 liege = k_mixteca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_tlapa_de_comonfort
+	}
+}
+
+c_mx_12_ometepec = {
+	2000.1.1 = {
+	 liege = d_mx_12_ometepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_12_ometepec
+	}
+}
+
+c_mx_24_san_luis_potos_ = {
+	2656.1.1 = {
+		holder = character_c_mx_24_san_luis_potos_
+	}
+}
+d_mx_24_charcas = {
+	2656.1.1 = {
+		holder = character_c_mx_24_san_luis_potos_
+	}
+}
+k_gran_chichimeca = {
+	2000.1.1 = {
+	 liege = e_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_san_luis_potos_
+	}
+}
+
+c_mx_32_loreto = {
+	2000.1.1 = {
+	 liege = d_mx_24_charcas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_loreto
+	}
+}
+
+c_mx_24_matehuala = {
+	2000.1.1 = {
+	 liege = d_mx_24_charcas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_matehuala
+	}
+}
+
+c_mx_24_santa_mar_a_del_r_o = {
+	2000.1.1 = {
+	 liege = d_mx_24_charcas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_santa_mar_a_del_r_o
+	}
+}
+
+c_mx_24_salinas_de_hidalgo = {
+	2000.1.1 = {
+	 liege = d_mx_24_charcas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_salinas_de_hidalgo
+	}
+}
+
+c_mx_24_charcas = {
+	2000.1.1 = {
+	 liege = d_mx_24_charcas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_charcas
+	}
+}
+
+c_mx_24_cedral = {
+	2000.1.1 = {
+	 liege = d_mx_24_charcas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_cedral
+	}
+}
+
+c_mx_24_tamazunchale = {
+	2656.1.1 = {
+		holder = character_c_mx_24_tamazunchale
+	}
+}
+d_mx_24_tamasopo = {
+	2000.1.1 = {
+	 liege = k_gran_chichimeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_tamazunchale
+	}
+}
+
+c_mx_24_valles = {
+	2000.1.1 = {
+	 liege = d_mx_24_tamasopo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_valles
+	}
+}
+
+c_mx_24_rioverde = {
+	2000.1.1 = {
+	 liege = d_mx_24_tamasopo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_rioverde
+	}
+}
+
+c_mx_24_c_rdenas = {
+	2000.1.1 = {
+	 liege = d_mx_24_tamasopo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_c_rdenas
+	}
+}
+
+c_mx_24_san_ciro_de_acosta = {
+	2000.1.1 = {
+	 liege = d_mx_24_tamasopo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_24_san_ciro_de_acosta
+	}
+}
+
+c_mx_32_zacatecas = {
+	2656.1.1 = {
+		holder = character_c_mx_32_zacatecas
+	}
+}
+d_zacatecas = {
+	2000.1.1 = {
+	 liege = k_gran_chichimeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_zacatecas
+	}
+}
+
+c_mx_32_jerez_de_garc_a_salinas = {
+	2000.1.1 = {
+	 liege = d_zacatecas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_jerez_de_garc_a_salinas
+	}
+}
+
+c_mx_32_nochistl_n_de_mej_a = {
+	2000.1.1 = {
+	 liege = d_zacatecas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_nochistl_n_de_mej_a
+	}
+}
+
+c_mx_32_tlaltenango_de_s_nchez_rom_n = {
+	2000.1.1 = {
+	 liege = d_zacatecas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_tlaltenango_de_s_nchez_rom_n
+	}
+}
+
+c_mx_32_valpara_so = {
+	2000.1.1 = {
+	 liege = d_zacatecas
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_valpara_so
+	}
+}
+
+c_mx_32_fresnillo = {
+	2656.1.1 = {
+		holder = character_c_mx_32_fresnillo
+	}
+}
+d_mx_32_de_cos = {
+	2000.1.1 = {
+	 liege = k_gran_chichimeca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_fresnillo
+	}
+}
+
+c_mx_32_sombrerete = {
+	2000.1.1 = {
+	 liege = d_mx_32_de_cos
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_sombrerete
+	}
+}
+
+c_mx_32_de_cos = {
+	2000.1.1 = {
+	 liege = d_mx_32_de_cos
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_de_cos
+	}
+}
+
+c_mx_32_concepci_n_del_oro = {
+	2000.1.1 = {
+	 liege = d_mx_32_de_cos
+	}
+	2656.1.1 = {
+		holder = character_c_mx_32_concepci_n_del_oro
+	}
+}
+
+c_mx_20_oaxaca = {
+	2656.1.1 = {
+		holder = character_c_mx_20_oaxaca
+	}
+}
+d_mx_20_san_mateo_yucutindoo = {
+	2656.1.1 = {
+		holder = character_c_mx_20_oaxaca
+	}
+}
+k_oaxaca = {
+	2000.1.1 = {
+	 liege = e_mexico
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_oaxaca
+	}
+}
+
+c_mx_20_miahuatl_n_de_porfirio_d_az = {
+	2000.1.1 = {
+	 liege = d_mx_20_san_mateo_yucutindoo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_miahuatl_n_de_porfirio_d_az
+	}
+}
+
+c_mx_20_teojomulco = {
+	2000.1.1 = {
+	 liege = d_mx_20_san_mateo_yucutindoo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_teojomulco
+	}
+}
+
+c_mx_20_san_crist_bal_amatl_n = {
+	2000.1.1 = {
+	 liege = d_mx_20_san_mateo_yucutindoo
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_san_crist_bal_amatl_n
+	}
+}
+
+c_mx_20_juchit_n_de_zaragoza = {
+	2656.1.1 = {
+		holder = character_c_mx_20_juchit_n_de_zaragoza
+	}
+}
+d_mx_20_santo_domingo_zanatepec = {
+	2000.1.1 = {
+	 liege = k_oaxaca
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_juchit_n_de_zaragoza
+	}
+}
+
+c_mx_20_salina_cruz = {
+	2000.1.1 = {
+	 liege = d_mx_20_santo_domingo_zanatepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_salina_cruz
+	}
+}
+
+c_mx_20_puerto_escondido = {
+	2000.1.1 = {
+	 liege = d_mx_20_santo_domingo_zanatepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_puerto_escondido
+	}
+}
+
+c_mx_20_mat_as_romero = {
+	2000.1.1 = {
+	 liege = d_mx_20_santo_domingo_zanatepec
+	}
+	2656.1.1 = {
+		holder = character_c_mx_20_mat_as_romero
+	}
+}

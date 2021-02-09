@@ -1,0 +1,1000 @@
+c_us_ks_johnson = {
+	2656.1.1 = {
+		holder = character_c_us_ks_johnson
+	}
+}
+d_boonslick = {
+	2656.1.1 = {
+		holder = character_c_us_ks_johnson
+	}
+}
+k_missouri = {
+	2656.1.1 = {
+		holder = character_c_us_ks_johnson
+	}
+}
+e_heartland = {
+	2656.1.1 = {
+		holder = character_c_us_ks_johnson
+	}
+}
+
+c_us_mo_columbia = {
+	2000.1.1 = {
+	 liege = d_boonslick
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_columbia
+	}
+}
+
+c_us_mo_saint_joseph = {
+	2000.1.1 = {
+	 liege = d_boonslick
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_saint_joseph
+	}
+}
+
+c_us_mo_henry = {
+	2000.1.1 = {
+	 liege = d_boonslick
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_henry
+	}
+}
+
+c_us_mo_jefferson_city = {
+	2000.1.1 = {
+	 liege = d_boonslick
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_jefferson_city
+	}
+}
+
+c_us_mo_cass = {
+	2000.1.1 = {
+	 liege = d_boonslick
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_cass
+	}
+}
+
+c_us_mo_saint_louis = {
+	2656.1.1 = {
+		holder = character_c_us_mo_saint_louis
+	}
+}
+d_gateway = {
+	2000.1.1 = {
+	 liege = k_missouri
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_saint_louis
+	}
+}
+
+c_us_il_belleville = {
+	2000.1.1 = {
+	 liege = d_gateway
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_belleville
+	}
+}
+
+c_us_mo_rolla = {
+	2000.1.1 = {
+	 liege = d_gateway
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_rolla
+	}
+}
+
+c_us_mo_o_fallon = {
+	2656.1.1 = {
+		holder = character_c_us_mo_o_fallon
+	}
+}
+d_twain = {
+	2000.1.1 = {
+	 liege = k_missouri
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_o_fallon
+	}
+}
+
+c_us_mo_hannibal = {
+	2000.1.1 = {
+	 liege = d_twain
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_hannibal
+	}
+}
+
+c_us_mo_cape_girardeau = {
+	2656.1.1 = {
+		holder = character_c_us_mo_cape_girardeau
+	}
+}
+d_great_river = {
+	2000.1.1 = {
+	 liege = k_missouri
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_cape_girardeau
+	}
+}
+
+c_us_mo_kennett = {
+	2000.1.1 = {
+	 liege = d_great_river
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_kennett
+	}
+}
+
+c_us_mo_farmington = {
+	2000.1.1 = {
+	 liege = d_great_river
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_farmington
+	}
+}
+
+c_us_mo_chillicothe = {
+	2656.1.1 = {
+		holder = character_c_us_mo_chillicothe
+	}
+}
+d_chariton = {
+	2000.1.1 = {
+	 liege = k_missouri
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_chillicothe
+	}
+}
+
+c_us_mo_adair = {
+	2000.1.1 = {
+	 liege = d_chariton
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_adair
+	}
+}
+
+c_us_ia_osceola = {
+	2000.1.1 = {
+	 liege = d_chariton
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_osceola
+	}
+}
+
+c_us_il_quincy = {
+	2656.1.1 = {
+		holder = character_c_us_il_quincy
+	}
+}
+d_forgottonia = {
+	2000.1.1 = {
+	 liege = k_missouri
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_quincy
+	}
+}
+
+c_us_il_macomb = {
+	2000.1.1 = {
+	 liege = d_forgottonia
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_macomb
+	}
+}
+
+c_us_mo_poplar_bluff = {
+	2656.1.1 = {
+		holder = character_c_us_mo_poplar_bluff
+	}
+}
+d_lead_belt = {
+	2000.1.1 = {
+	 liege = k_missouri
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_poplar_bluff
+	}
+}
+
+c_us_mo_texas = {
+	2000.1.1 = {
+	 liege = d_lead_belt
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_texas
+	}
+}
+
+c_us_mo_winona = {
+	2000.1.1 = {
+	 liege = d_lead_belt
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_winona
+	}
+}
+
+c_us_ok_tulsa = {
+	2656.1.1 = {
+		holder = character_c_us_ok_tulsa
+	}
+}
+d_keetowah_nighthawk_band = {
+	2656.1.1 = {
+		holder = character_c_us_ok_tulsa
+	}
+}
+k_ozarks = {
+	2000.1.1 = {
+	 liege = e_heartland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_tulsa
+	}
+}
+
+c_us_ok_ardmore = {
+	2000.1.1 = {
+	 liege = d_keetowah_nighthawk_band
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_ardmore
+	}
+}
+
+c_us_ok_mcalester = {
+	2000.1.1 = {
+	 liege = d_keetowah_nighthawk_band
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_mcalester
+	}
+}
+
+c_us_ok_hugo = {
+	2000.1.1 = {
+	 liege = d_keetowah_nighthawk_band
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_hugo
+	}
+}
+
+c_us_ok_hugo = {
+	2000.1.1 = {
+	 liege = d_keetowah_nighthawk_band
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_hugo
+	}
+}
+
+c_us_ar_little_rock = {
+	2656.1.1 = {
+		holder = character_c_us_ar_little_rock
+	}
+}
+d_arkansas = {
+	2000.1.1 = {
+	 liege = k_ozarks
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_little_rock
+	}
+}
+
+c_us_ar_north_little_rock = {
+	2000.1.1 = {
+	 liege = d_arkansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_north_little_rock
+	}
+}
+
+c_us_ar_pine_bluff = {
+	2000.1.1 = {
+	 liege = d_arkansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_pine_bluff
+	}
+}
+
+c_us_ar_searcy = {
+	2000.1.1 = {
+	 liege = d_arkansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_searcy
+	}
+}
+
+c_us_ar_crossett = {
+	2000.1.1 = {
+	 liege = d_arkansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_crossett
+	}
+}
+
+c_us_ar_stuttgart = {
+	2000.1.1 = {
+	 liege = d_arkansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_stuttgart
+	}
+}
+
+c_us_ar_fayetteville = {
+	2656.1.1 = {
+		holder = character_c_us_ar_fayetteville
+	}
+}
+d_turner_ward_knob = {
+	2000.1.1 = {
+	 liege = k_ozarks
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_fayetteville
+	}
+}
+
+c_us_ar_russellville = {
+	2000.1.1 = {
+	 liege = d_turner_ward_knob
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_russellville
+	}
+}
+
+c_us_ar_harrison = {
+	2000.1.1 = {
+	 liege = d_turner_ward_knob
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_harrison
+	}
+}
+
+c_us_ar_batesville = {
+	2000.1.1 = {
+	 liege = d_turner_ward_knob
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_batesville
+	}
+}
+
+c_us_ar_mountain_home = {
+	2000.1.1 = {
+	 liege = d_turner_ward_knob
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_mountain_home
+	}
+}
+
+c_us_mo_springfield = {
+	2656.1.1 = {
+		holder = character_c_us_mo_springfield
+	}
+}
+d_salem = {
+	2000.1.1 = {
+	 liege = k_ozarks
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_springfield
+	}
+}
+
+c_us_mo_jasper = {
+	2000.1.1 = {
+	 liege = d_salem
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_jasper
+	}
+}
+
+c_us_mo_fort_leonard_wood = {
+	2000.1.1 = {
+	 liege = d_salem
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_fort_leonard_wood
+	}
+}
+
+c_us_mo_bolivar = {
+	2000.1.1 = {
+	 liege = d_salem
+	}
+	2656.1.1 = {
+		holder = character_c_us_mo_bolivar
+	}
+}
+
+c_us_ar_jonesboro = {
+	2656.1.1 = {
+		holder = character_c_us_ar_jonesboro
+	}
+}
+d_arkansas_delta = {
+	2000.1.1 = {
+	 liege = k_ozarks
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_jonesboro
+	}
+}
+
+c_us_ar_mississippi = {
+	2000.1.1 = {
+	 liege = d_arkansas_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_mississippi
+	}
+}
+
+c_us_ar_helena_west_helena = {
+	2000.1.1 = {
+	 liege = d_arkansas_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_helena_west_helena
+	}
+}
+
+c_us_ar_wynne = {
+	2000.1.1 = {
+	 liege = d_arkansas_delta
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_wynne
+	}
+}
+
+c_us_ar_fort_smith = {
+	2656.1.1 = {
+		holder = character_c_us_ar_fort_smith
+	}
+}
+d_timberland = {
+	2000.1.1 = {
+	 liege = k_ozarks
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_fort_smith
+	}
+}
+
+c_us_ar_el_dorado = {
+	2000.1.1 = {
+	 liege = d_timberland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ar_el_dorado
+	}
+}
+
+c_us_ok_idabel = {
+	2000.1.1 = {
+	 liege = d_timberland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ok_idabel
+	}
+}
+
+c_us_ia_des_moines = {
+	2656.1.1 = {
+		holder = character_c_us_ia_des_moines
+	}
+}
+d_moingona = {
+	2656.1.1 = {
+		holder = character_c_us_ia_des_moines
+	}
+}
+k_iowa = {
+	2000.1.1 = {
+	 liege = e_heartland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_des_moines
+	}
+}
+
+c_us_ia_sioux_city = {
+	2000.1.1 = {
+	 liege = d_moingona
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_sioux_city
+	}
+}
+
+c_us_ia_council_bluffs = {
+	2000.1.1 = {
+	 liege = d_moingona
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_council_bluffs
+	}
+}
+
+c_us_ia_fort_dodge = {
+	2000.1.1 = {
+	 liege = d_moingona
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_fort_dodge
+	}
+}
+
+c_us_sd_brandon = {
+	2000.1.1 = {
+	 liege = d_moingona
+	}
+	2656.1.1 = {
+		holder = character_c_us_sd_brandon
+	}
+}
+
+c_us_ia_spencer = {
+	2000.1.1 = {
+	 liege = d_moingona
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_spencer
+	}
+}
+
+c_us_ia_guthrie = {
+	2000.1.1 = {
+	 liege = d_moingona
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_guthrie
+	}
+}
+
+c_us_ia_cedar_rapids = {
+	2656.1.1 = {
+		holder = character_c_us_ia_cedar_rapids
+	}
+}
+d_iowa = {
+	2000.1.1 = {
+	 liege = k_iowa
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_cedar_rapids
+	}
+}
+
+c_us_ia_waterloo = {
+	2000.1.1 = {
+	 liege = d_iowa
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_waterloo
+	}
+}
+
+c_us_ia_marshalltown = {
+	2000.1.1 = {
+	 liege = d_iowa
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_marshalltown
+	}
+}
+
+c_us_ia_burlington = {
+	2000.1.1 = {
+	 liege = d_iowa
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_burlington
+	}
+}
+
+c_us_mn_rochester = {
+	2656.1.1 = {
+		holder = character_c_us_mn_rochester
+	}
+}
+d_driftless = {
+	2000.1.1 = {
+	 liege = k_iowa
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_rochester
+	}
+}
+
+c_us_ia_mason_city = {
+	2000.1.1 = {
+	 liege = d_driftless
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_mason_city
+	}
+}
+
+c_us_ia_dubuque = {
+	2000.1.1 = {
+	 liege = d_driftless
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_dubuque
+	}
+}
+
+c_us_mn_winona = {
+	2000.1.1 = {
+	 liege = d_driftless
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_winona
+	}
+}
+
+c_us_ia_davenport = {
+	2656.1.1 = {
+		holder = character_c_us_ia_davenport
+	}
+}
+d_quad_cities = {
+	2000.1.1 = {
+	 liege = k_iowa
+	}
+	2656.1.1 = {
+		holder = character_c_us_ia_davenport
+	}
+}
+
+c_us_il_rock_island = {
+	2000.1.1 = {
+	 liege = d_quad_cities
+	}
+	2656.1.1 = {
+		holder = character_c_us_il_rock_island
+	}
+}
+
+c_us_ne_omaha = {
+	2656.1.1 = {
+		holder = character_c_us_ne_omaha
+	}
+}
+d_nebraska = {
+	2656.1.1 = {
+		holder = character_c_us_ne_omaha
+	}
+}
+k_platte = {
+	2000.1.1 = {
+	 liege = e_heartland
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_omaha
+	}
+}
+
+c_us_ne_grand_island = {
+	2000.1.1 = {
+	 liege = d_nebraska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_grand_island
+	}
+}
+
+c_us_ne_fremont = {
+	2000.1.1 = {
+	 liege = d_nebraska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_fremont
+	}
+}
+
+c_us_ne_columbus = {
+	2000.1.1 = {
+	 liege = d_nebraska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_columbus
+	}
+}
+
+c_us_ne_norfolk = {
+	2000.1.1 = {
+	 liege = d_nebraska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_norfolk
+	}
+}
+
+c_us_ne_saint_paul = {
+	2000.1.1 = {
+	 liege = d_nebraska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_saint_paul
+	}
+}
+
+c_us_ne_o_neill = {
+	2000.1.1 = {
+	 liege = d_nebraska
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_o_neill
+	}
+}
+
+c_us_ks_wichita = {
+	2656.1.1 = {
+		holder = character_c_us_ks_wichita
+	}
+}
+d_chisholm = {
+	2000.1.1 = {
+	 liege = k_platte
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_wichita
+	}
+}
+
+c_us_ks_garden_city = {
+	2000.1.1 = {
+	 liege = d_chisholm
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_garden_city
+	}
+}
+
+c_us_ks_dodge_city = {
+	2000.1.1 = {
+	 liege = d_chisholm
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_dodge_city
+	}
+}
+
+c_us_ks_liberal = {
+	2000.1.1 = {
+	 liege = d_chisholm
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_liberal
+	}
+}
+
+c_us_ks_pratt = {
+	2000.1.1 = {
+	 liege = d_chisholm
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_pratt
+	}
+}
+
+c_us_ks_topeka = {
+	2656.1.1 = {
+		holder = character_c_us_ks_topeka
+	}
+}
+d_kansas = {
+	2000.1.1 = {
+	 liege = k_platte
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_topeka
+	}
+}
+
+c_us_ks_manhattan = {
+	2000.1.1 = {
+	 liege = d_kansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_manhattan
+	}
+}
+
+c_us_ks_salina = {
+	2000.1.1 = {
+	 liege = d_kansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_salina
+	}
+}
+
+c_us_ne_beatrice = {
+	2000.1.1 = {
+	 liege = d_kansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_beatrice
+	}
+}
+
+c_us_ks_emporia = {
+	2000.1.1 = {
+	 liege = d_kansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_emporia
+	}
+}
+
+c_us_ks_atchison = {
+	2000.1.1 = {
+	 liege = d_kansas
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_atchison
+	}
+}
+
+c_us_ne_north_platte = {
+	2656.1.1 = {
+		holder = character_c_us_ne_north_platte
+	}
+}
+d_smoky_hills = {
+	2000.1.1 = {
+	 liege = k_platte
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_north_platte
+	}
+}
+
+c_us_ks_hays = {
+	2000.1.1 = {
+	 liege = d_smoky_hills
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_hays
+	}
+}
+
+c_us_ks_colby = {
+	2000.1.1 = {
+	 liege = d_smoky_hills
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_colby
+	}
+}
+
+c_us_ks_phillips = {
+	2000.1.1 = {
+	 liege = d_smoky_hills
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_phillips
+	}
+}
+
+c_us_ks_oberlin = {
+	2000.1.1 = {
+	 liege = d_smoky_hills
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_oberlin
+	}
+}
+
+c_us_ks_labette = {
+	2656.1.1 = {
+		holder = character_c_us_ks_labette
+	}
+}
+d_verdigris = {
+	2000.1.1 = {
+	 liege = k_platte
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_labette
+	}
+}
+
+c_us_ks_ottawa = {
+	2000.1.1 = {
+	 liege = d_verdigris
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_ottawa
+	}
+}
+
+c_us_ks_clay_center = {
+	2000.1.1 = {
+	 liege = d_verdigris
+	}
+	2656.1.1 = {
+		holder = character_c_us_ks_clay_center
+	}
+}
+
+c_us_ne_scottsbluff = {
+	2656.1.1 = {
+		holder = character_c_us_ne_scottsbluff
+	}
+}
+d_kickatus = {
+	2000.1.1 = {
+	 liege = k_platte
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_scottsbluff
+	}
+}
+
+c_us_ne_ogallala = {
+	2000.1.1 = {
+	 liege = d_kickatus
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_ogallala
+	}
+}
+
+c_us_ne_chadron = {
+	2000.1.1 = {
+	 liege = d_kickatus
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_chadron
+	}
+}
+
+c_us_ne_ainsworth = {
+	2000.1.1 = {
+	 liege = d_kickatus
+	}
+	2656.1.1 = {
+		holder = character_c_us_ne_ainsworth
+	}
+}
