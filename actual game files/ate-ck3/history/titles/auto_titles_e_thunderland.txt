@@ -28,48 +28,12 @@ c_lethbridge = {
 	}
 }
 
-c_lethbridge = {
-	2000.1.1 = {
-	 liege = d_palliser
-	}
-	2656.1.1 = {
-		holder = character_c_lethbridge
-	}
-}
-
 c_medicine_hat = {
 	2000.1.1 = {
 	 liege = d_palliser
 	}
 	2656.1.1 = {
 		holder = character_c_medicine_hat
-	}
-}
-
-c_medicine_hat = {
-	2000.1.1 = {
-	 liege = d_palliser
-	}
-	2656.1.1 = {
-		holder = character_c_medicine_hat
-	}
-}
-
-c_foothills = {
-	2000.1.1 = {
-	 liege = d_palliser
-	}
-	2656.1.1 = {
-		holder = character_c_foothills
-	}
-}
-
-c_foothills = {
-	2000.1.1 = {
-	 liege = d_palliser
-	}
-	2656.1.1 = {
-		holder = character_c_foothills
 	}
 }
 
@@ -82,12 +46,12 @@ c_ca_ab_brooks = {
 	}
 }
 
-c_ca_ab_brooks = {
+c_foothills = {
 	2000.1.1 = {
 	 liege = d_palliser
 	}
 	2656.1.1 = {
-		holder = character_c_ca_ab_brooks
+		holder = character_c_foothills
 	}
 }
 
@@ -132,15 +96,6 @@ d_edmonton = {
 	}
 }
 
-c_leduc = {
-	2000.1.1 = {
-	 liege = d_edmonton
-	}
-	2656.1.1 = {
-		holder = character_c_leduc
-	}
-}
-
 c_camrose = {
 	2000.1.1 = {
 	 liege = d_edmonton
@@ -150,21 +105,21 @@ c_camrose = {
 	}
 }
 
-c_athabasca = {
-	2000.1.1 = {
-	 liege = d_edmonton
-	}
-	2656.1.1 = {
-		holder = character_c_athabasca
-	}
-}
-
 c_minburn = {
 	2000.1.1 = {
 	 liege = d_edmonton
 	}
 	2656.1.1 = {
 		holder = character_c_minburn
+	}
+}
+
+c_athabasca = {
+	2000.1.1 = {
+	 liege = d_edmonton
+	}
+	2656.1.1 = {
+		holder = character_c_athabasca
 	}
 }
 
@@ -218,9 +173,9 @@ c_oyen = {
 	}
 }
 
-c_ca_ab_whitecourt = {
+c_ca_ab_hinton = {
 	2656.1.1 = {
-		holder = character_c_ca_ab_whitecourt
+		holder = character_c_ca_ab_hinton
 	}
 }
 d_yellowhead = {
@@ -228,16 +183,25 @@ d_yellowhead = {
 	 liege = k_alberta
 	}
 	2656.1.1 = {
-		holder = character_c_ca_ab_whitecourt
+		holder = character_c_ca_ab_hinton
 	}
 }
 
-c_ca_ab_hinton = {
+c_ca_ab_whitecourt = {
 	2000.1.1 = {
 	 liege = d_yellowhead
 	}
 	2656.1.1 = {
-		holder = character_c_ca_ab_hinton
+		holder = character_c_ca_ab_whitecourt
+	}
+}
+
+c_leduc = {
+	2000.1.1 = {
+	 liege = d_yellowhead
+	}
+	2656.1.1 = {
+		holder = character_c_leduc
 	}
 }
 
@@ -432,9 +396,9 @@ c_us_sd_gettysburg = {
 	}
 }
 
-c_us_mn_moorhead = {
+c_us_nd_grand_forks = {
 	2656.1.1 = {
-		holder = character_c_us_mn_moorhead
+		holder = character_c_us_nd_grand_forks
 	}
 }
 d_pembina = {
@@ -442,16 +406,16 @@ d_pembina = {
 	 liege = k_lakotah
 	}
 	2656.1.1 = {
-		holder = character_c_us_mn_moorhead
+		holder = character_c_us_nd_grand_forks
 	}
 }
 
-c_us_nd_grand_forks = {
+c_us_mn_moorhead = {
 	2000.1.1 = {
 	 liege = d_pembina
 	}
 	2656.1.1 = {
-		holder = character_c_us_nd_grand_forks
+		holder = character_c_us_mn_moorhead
 	}
 }
 
@@ -461,6 +425,15 @@ c_us_mn_bemidji = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_mn_bemidji
+	}
+}
+
+c_us_mn_thief_river_falls = {
+	2000.1.1 = {
+	 liege = d_pembina
+	}
+	2656.1.1 = {
+		holder = character_c_us_mn_thief_river_falls
 	}
 }
 
@@ -770,15 +743,6 @@ d_parkland = {
 	}
 }
 
-c_brandon = {
-	2000.1.1 = {
-	 liege = d_parkland
-	}
-	2656.1.1 = {
-		holder = character_c_brandon
-	}
-}
-
 c_portage_la_prairie = {
 	2000.1.1 = {
 	 liege = d_parkland
@@ -916,6 +880,15 @@ k_saskatchewan = {
 	}
 }
 
+c_kindersley = {
+	2000.1.1 = {
+	 liege = d_saskatchewan
+	}
+	2656.1.1 = {
+		holder = character_c_kindersley
+	}
+}
+
 c_battle_river = {
 	2000.1.1 = {
 	 liege = d_saskatchewan
@@ -931,24 +904,6 @@ c_unity = {
 	}
 	2656.1.1 = {
 		holder = character_c_unity
-	}
-}
-
-c_unity = {
-	2000.1.1 = {
-	 liege = d_saskatchewan
-	}
-	2656.1.1 = {
-		holder = character_c_unity
-	}
-}
-
-c_kindersley = {
-	2000.1.1 = {
-	 liege = d_saskatchewan
-	}
-	2656.1.1 = {
-		holder = character_c_kindersley
 	}
 }
 
@@ -999,15 +954,6 @@ c_arm_river = {
 	}
 	2656.1.1 = {
 		holder = character_c_arm_river
-	}
-}
-
-c_qu_appelle = {
-	2000.1.1 = {
-	 liege = d_last_mountain
-	}
-	2656.1.1 = {
-		holder = character_c_qu_appelle
 	}
 }
 
@@ -1143,15 +1089,6 @@ c_rosthern = {
 	}
 }
 
-c_rosthern = {
-	2000.1.1 = {
-	 liege = d_north_saskatchewan
-	}
-	2656.1.1 = {
-		holder = character_c_rosthern
-	}
-}
-
 c_st_walburg = {
 	2000.1.1 = {
 	 liege = d_north_saskatchewan
@@ -1216,15 +1153,6 @@ c_humboldt = {
 	}
 }
 
-c_canora = {
-	2000.1.1 = {
-	 liege = d_kelsey
-	}
-	2656.1.1 = {
-		holder = character_c_canora
-	}
-}
-
 c_doghide = {
 	2000.1.1 = {
 	 liege = d_kelsey
@@ -1234,12 +1162,21 @@ c_doghide = {
 	}
 }
 
-c_quill_lakes = {
+c_canora = {
 	2000.1.1 = {
 	 liege = d_kelsey
 	}
 	2656.1.1 = {
-		holder = character_c_quill_lakes
+		holder = character_c_canora
+	}
+}
+
+c_qu_appelle = {
+	2000.1.1 = {
+	 liege = d_kelsey
+	}
+	2656.1.1 = {
+		holder = character_c_qu_appelle
 	}
 }
 
@@ -1286,15 +1223,6 @@ c_us_mt_lewistown = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_mt_lewistown
-	}
-}
-
-c_us_mt_harlowton = {
-	2000.1.1 = {
-	 liege = d_golden_valley
-	}
-	2656.1.1 = {
-		holder = character_c_us_mt_harlowton
 	}
 }
 

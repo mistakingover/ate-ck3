@@ -37,21 +37,21 @@ c_ve_06_santa_elena_de_uair_n = {
 	}
 }
 
-c_ve_06_zapateral = {
+c_ve_06_el_yagual = {
 	2000.1.1 = {
 	 liege = d_caroni
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_zapateral
+		holder = character_c_ve_06_el_yagual
 	}
 }
 
-c_ve_06_san_isidro = {
+c_ve_06_kil_metro_treinta_y_tres = {
 	2000.1.1 = {
 	 liege = d_caroni
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_san_isidro
+		holder = character_c_ve_06_kil_metro_treinta_y_tres
 	}
 }
 
@@ -69,12 +69,12 @@ d_angostura = {
 	}
 }
 
-c_ve_06_el_ventuario = {
+c_ve_06_palanc_n = {
 	2000.1.1 = {
 	 liege = d_angostura
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_el_ventuario
+		holder = character_c_ve_06_palanc_n
 	}
 }
 
@@ -87,21 +87,21 @@ c_ve_06_vuelta_larga = {
 	}
 }
 
-c_ve_06_las_palomas = {
+c_ve_06_uraima = {
 	2000.1.1 = {
 	 liege = d_angostura
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_las_palomas
+		holder = character_c_ve_06_uraima
 	}
 }
 
-c_ve_01_anacadi_a = {
+c_ve_01_travesia_del_marieta = {
 	2000.1.1 = {
 	 liege = d_angostura
 	}
 	2656.1.1 = {
-		holder = character_c_ve_01_anacadi_a
+		holder = character_c_ve_01_travesia_del_marieta
 	}
 }
 
@@ -137,9 +137,9 @@ c_co_15_san_felipe = {
 	}
 }
 
-c_ve_09_vuelta_de_los_indios = {
+c_ve_09_siawani = {
 	2656.1.1 = {
-		holder = character_c_ve_09_vuelta_de_los_indios
+		holder = character_c_ve_09_siawani
 	}
 }
 d_delta_amacuro = {
@@ -147,16 +147,16 @@ d_delta_amacuro = {
 	 liege = k_bolivar
 	}
 	2656.1.1 = {
-		holder = character_c_ve_09_vuelta_de_los_indios
+		holder = character_c_ve_09_siawani
 	}
 }
 
-c_ve_09_el_guasey = {
+c_ve_09_geina = {
 	2000.1.1 = {
 	 liege = d_delta_amacuro
 	}
 	2656.1.1 = {
-		holder = character_c_ve_09_el_guasey
+		holder = character_c_ve_09_geina
 	}
 }
 
@@ -284,15 +284,6 @@ d_sipaliwini = {
 	}
 }
 
-c_sr_10_brokopondo = {
-	2000.1.1 = {
-	 liege = d_sipaliwini
-	}
-	2656.1.1 = {
-		holder = character_c_sr_10_brokopondo
-	}
-}
-
 c_sr_18_akoelitatajeprati = {
 	2000.1.1 = {
 	 liege = d_sipaliwini
@@ -302,21 +293,12 @@ c_sr_18_akoelitatajeprati = {
 	}
 }
 
-c_sr_18_akoelitatajeprati = {
+c_sr_18_appera = {
 	2000.1.1 = {
 	 liege = d_sipaliwini
 	}
 	2656.1.1 = {
-		holder = character_c_sr_18_akoelitatajeprati
-	}
-}
-
-c_sr_18_bitagron = {
-	2000.1.1 = {
-	 liege = d_sipaliwini
-	}
-	2656.1.1 = {
-		holder = character_c_sr_18_bitagron
+		holder = character_c_sr_18_appera
 	}
 }
 
@@ -352,27 +334,27 @@ c_gy_19_lethem = {
 	}
 }
 
-c_gy_19_annai = {
+c_gy_19_achiwib = {
 	2000.1.1 = {
 	 liege = d_abak
 	}
 	2656.1.1 = {
-		holder = character_c_gy_19_annai
+		holder = character_c_gy_19_achiwib
 	}
 }
 
-c_gy_18_three_friends = {
+c_gy_13_epira = {
 	2000.1.1 = {
 	 liege = d_abak
 	}
 	2656.1.1 = {
-		holder = character_c_gy_18_three_friends
+		holder = character_c_gy_13_epira
 	}
 }
 
-c_br_03_louren_o = {
+c_br_03_marac_ = {
 	2656.1.1 = {
-		holder = character_c_br_03_louren_o
+		holder = character_c_br_03_marac_
 	}
 }
 d_calcoene = {
@@ -380,15 +362,15 @@ d_calcoene = {
 	 liege = k_guyana
 	}
 	2656.1.1 = {
-		holder = character_c_br_03_louren_o
+		holder = character_c_br_03_marac_
 	}
 }
 
-c_br_03_quil_metro_vinte_s_sete = {
+c_br_03_aldeia_palikur = {
 	2000.1.1 = {
 	 liege = d_calcoene
 	}
 	2656.1.1 = {
-		holder = character_c_br_03_quil_metro_vinte_s_sete
+		holder = character_c_br_03_aldeia_palikur
 	}
 }

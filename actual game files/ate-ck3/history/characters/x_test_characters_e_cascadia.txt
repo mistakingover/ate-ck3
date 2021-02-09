@@ -1,10 +1,8 @@
 character_c_us_wa_seattle = {
-	name = "Test"
+	name = Shepard
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -13,13 +11,11 @@ character_c_us_wa_seattle = {
 	}
 }
 character_c_us_wa_mount_vernon = {
-	name = "Test"
+	name = Yael
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_us_wa_mount_vernon = {
 	}
 }
 character_c_us_wa_bellingham = {
-	name = "Test"
+	name = Missy
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_us_wa_bellingham = {
 	}
 }
 character_c_us_wa_creek = {
-	name = "Test"
+	name = Zoe
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_us_wa_creek = {
 	}
 }
 character_c_us_wa_darrington = {
-	name = "Test"
+	name = Mackenzie
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_us_wa_darrington = {
 	}
 }
 character_c_us_or_portland = {
-	name = "Test"
+	name = Lilith
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_us_or_portland = {
 	}
 }
 character_c_us_or_tigard = {
-	name = "Test"
+	name = Pharoah
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_us_or_tigard = {
 	}
 }
 character_c_us_or_corvallis = {
-	name = "Test"
+	name = Shale
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_us_or_corvallis = {
 	}
 }
 character_c_us_or_astoria = {
-	name = "Test"
+	name = Laura
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_us_or_astoria = {
 	}
 }
 character_c_us_or_tillamook = {
-	name = "Test"
+	name = Oscar
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +119,11 @@ character_c_us_or_tillamook = {
 	}
 }
 character_c_us_or_gresham = {
-	name = "Test"
+	name = Jon
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,11 @@ character_c_us_or_gresham = {
 	}
 }
 character_c_us_wa_vancouver = {
-	name = "Test"
+	name = Curtis
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +143,11 @@ character_c_us_wa_vancouver = {
 	}
 }
 character_c_us_or_keizer = {
-	name = "Test"
+	name = Craig
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +155,11 @@ character_c_us_or_keizer = {
 	}
 }
 character_c_us_or_the_dalles = {
-	name = "Test"
+	name = Chopaka
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +167,11 @@ character_c_us_or_the_dalles = {
 	}
 }
 character_c_us_or_government_camp = {
-	name = "Test"
+	name = Cramer
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +179,11 @@ character_c_us_or_government_camp = {
 	}
 }
 character_c_us_or_salem = {
-	name = "Test"
+	name = Ynez
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +191,11 @@ character_c_us_or_salem = {
 	}
 }
 character_c_us_or_eugene = {
-	name = "Test"
+	name = Tiffeny
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +203,11 @@ character_c_us_or_eugene = {
 	}
 }
 character_c_us_or_cottage_grove = {
-	name = "Test"
+	name = Clark
 	religion = "gaian"
 	culture = "siskiyouan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +215,11 @@ character_c_us_or_cottage_grove = {
 	}
 }
 character_c_us_or_sweet_home = {
-	name = "Test"
+	name = Jon
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +227,11 @@ character_c_us_or_sweet_home = {
 	}
 }
 character_c_us_or_oakridge = {
-	name = "Test"
+	name = Becca
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +239,11 @@ character_c_us_or_oakridge = {
 	}
 }
 character_c_us_or_coburg = {
-	name = "Test"
+	name = Collin
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +251,11 @@ character_c_us_or_coburg = {
 	}
 }
 character_c_us_wa_olympia = {
-	name = "Test"
+	name = Sean
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +263,11 @@ character_c_us_wa_olympia = {
 	}
 }
 character_c_us_wa_graham = {
-	name = "Test"
+	name = Justin
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +275,11 @@ character_c_us_wa_graham = {
 	}
 }
 character_c_us_wa_longview = {
-	name = "Test"
+	name = Arwen
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +287,11 @@ character_c_us_wa_longview = {
 	}
 }
 character_c_us_wa_aberdeen = {
-	name = "Test"
+	name = Apollo
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +299,11 @@ character_c_us_wa_aberdeen = {
 	}
 }
 character_c_us_wa_raymond = {
-	name = "Test"
+	name = Tabitha
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +311,11 @@ character_c_us_wa_raymond = {
 	}
 }
 character_c_us_wa_woodland = {
-	name = "Test"
+	name = Roe
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +323,11 @@ character_c_us_wa_woodland = {
 	}
 }
 character_c_us_wa_bremerton = {
-	name = "Test"
+	name = Pietro
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +335,11 @@ character_c_us_wa_bremerton = {
 	}
 }
 character_c_us_wa_port_angeles = {
-	name = "Test"
+	name = Eric
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +347,11 @@ character_c_us_wa_port_angeles = {
 	}
 }
 character_c_us_wa_hoquiam = {
-	name = "Test"
+	name = Blossom
 	religion = "gaian"
 	culture = "cascadian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +359,11 @@ character_c_us_wa_hoquiam = {
 	}
 }
 character_c_us_wa_forks = {
-	name = "Test"
+	name = 
 	religion = "raven_tales"
 	culture = "wakashan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +371,11 @@ character_c_us_wa_forks = {
 	}
 }
 character_c_ca_bc_vancouver = {
-	name = "Test"
+	name = Yuet
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +383,11 @@ character_c_ca_bc_vancouver = {
 	}
 }
 character_c_ca_bc_surrey = {
-	name = "Test"
+	name = Rodney
 	religion = "sikhism"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +395,11 @@ character_c_ca_bc_surrey = {
 	}
 }
 character_c_ca_bc_coquitlam = {
-	name = "Test"
+	name = Sawyer
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +407,11 @@ character_c_ca_bc_coquitlam = {
 	}
 }
 character_c_ca_bc_chilliwack = {
-	name = "Test"
+	name = Kaden
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +419,11 @@ character_c_ca_bc_chilliwack = {
 	}
 }
 character_c_beyond_hope = {
-	name = "Test"
+	name = Linda
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +431,11 @@ character_c_beyond_hope = {
 	}
 }
 character_c_ca_bc_victoria = {
-	name = "Test"
+	name = Hadley
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +443,11 @@ character_c_ca_bc_victoria = {
 	}
 }
 character_c_ca_bc_nanaimo = {
-	name = "Test"
+	name = Adelaide
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +455,11 @@ character_c_ca_bc_nanaimo = {
 	}
 }
 character_c_ca_bc_vernon = {
-	name = "Test"
+	name = 
 	religion = "gaian"
 	culture = "wakashan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +467,11 @@ character_c_ca_bc_vernon = {
 	}
 }
 character_c_ca_bc_campbell_river = {
-	name = "Test"
+	name = 
 	religion = "raven_tales"
 	culture = "wakashan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +479,11 @@ character_c_ca_bc_campbell_river = {
 	}
 }
 character_c_us_wa_san_juan = {
-	name = "Test"
+	name = Luke
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +491,11 @@ character_c_us_wa_san_juan = {
 	}
 }
 character_c_sunshine_coast = {
-	name = "Test"
+	name = Jeremy
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +503,11 @@ character_c_sunshine_coast = {
 	}
 }
 character_c_sea_to_sky = {
-	name = "Test"
+	name = Hamish
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +515,11 @@ character_c_sea_to_sky = {
 	}
 }
 character_c_ca_bc_read_island = {
-	name = "Test"
+	name = 
 	religion = "raven_tales"
 	culture = "wakashan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +527,11 @@ character_c_ca_bc_read_island = {
 	}
 }
 character_c_us_wa_spokane = {
-	name = "Test"
+	name = Galena
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +539,11 @@ character_c_us_wa_spokane = {
 	}
 }
 character_c_us_wa_pasco = {
-	name = "Test"
+	name = Neil
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +551,11 @@ character_c_us_wa_pasco = {
 	}
 }
 character_c_us_wa_pullman = {
-	name = "Test"
+	name = Kelso
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +563,11 @@ character_c_us_wa_pullman = {
 	}
 }
 character_c_us_wa_moses_lake = {
-	name = "Test"
+	name = Sotin
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +575,11 @@ character_c_us_wa_moses_lake = {
 	}
 }
 character_c_us_wa_ephrata = {
-	name = "Test"
+	name = Jeff
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +587,11 @@ character_c_us_wa_ephrata = {
 	}
 }
 character_c_us_wa_bridgeport = {
-	name = "Test"
+	name = Emshaw
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +599,11 @@ character_c_us_wa_bridgeport = {
 	}
 }
 character_c_us_wa_yakima = {
-	name = "Test"
+	name = Steck
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +611,11 @@ character_c_us_wa_yakima = {
 	}
 }
 character_c_us_wa_kennewick = {
-	name = "Test"
+	name = Gladstone
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +623,11 @@ character_c_us_wa_kennewick = {
 	}
 }
 character_c_us_wa_wenatchee = {
-	name = "Test"
+	name = Wash
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +635,11 @@ character_c_us_wa_wenatchee = {
 	}
 }
 character_c_us_wa_sunnyside = {
-	name = "Test"
+	name = Kirk
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +647,11 @@ character_c_us_wa_sunnyside = {
 	}
 }
 character_c_us_wa_goldendale = {
-	name = "Test"
+	name = Bruce
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,27 +659,11 @@ character_c_us_wa_goldendale = {
 	}
 }
 character_c_us_mt_butte_silver_bow = {
-	name = "Test"
+	name = Heckla
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mt_butte_silver_bow = {
-	name = "Test"
-	religion = "gaian"
-	culture = "ktunaxa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +671,11 @@ character_c_us_mt_butte_silver_bow = {
 	}
 }
 character_c_us_id_coeur_d_alene = {
-	name = "Test"
+	name = Garf
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +683,11 @@ character_c_us_id_coeur_d_alene = {
 	}
 }
 character_c_flathead = {
-	name = "Test"
+	name = Naxni
 	religion = "gaian"
 	culture = "ktunaxa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +695,11 @@ character_c_flathead = {
 	}
 }
 character_c_us_id_sandpoint = {
-	name = "Test"
+	name = Mayuk
 	religion = "gaian"
 	culture = "ktunaxa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,13 +707,11 @@ character_c_us_id_sandpoint = {
 	}
 }
 character_c_us_id_saint_maries = {
-	name = "Test"
+	name = Crosse
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -853,13 +719,11 @@ character_c_us_id_saint_maries = {
 	}
 }
 character_c_us_or_hermiston = {
-	name = "Test"
+	name = Ted
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +731,11 @@ character_c_us_or_hermiston = {
 	}
 }
 character_c_us_wa_walla_walla = {
-	name = "Test"
+	name = Mack
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,13 +743,11 @@ character_c_us_wa_walla_walla = {
 	}
 }
 character_c_us_or_la_grande = {
-	name = "Test"
+	name = Alex
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -895,13 +755,11 @@ character_c_us_or_la_grande = {
 	}
 }
 character_c_us_or_enterprise = {
-	name = "Test"
+	name = Andrew
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +767,11 @@ character_c_us_or_enterprise = {
 	}
 }
 character_c_us_or_john_day = {
-	name = "Test"
+	name = Kully
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +779,11 @@ character_c_us_or_john_day = {
 	}
 }
 character_c_us_or_bend = {
-	name = "Test"
+	name = Cile
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -937,13 +791,11 @@ character_c_us_or_bend = {
 	}
 }
 character_c_us_or_redmond = {
-	name = "Test"
+	name = Franklin
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,13 +803,11 @@ character_c_us_or_redmond = {
 	}
 }
 character_c_us_or_deschutes_river = {
-	name = "Test"
+	name = Amun
 	religion = "gaian"
 	culture = "siskiyouan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -965,13 +815,11 @@ character_c_us_or_deschutes_river = {
 	}
 }
 character_c_us_or_burns = {
-	name = "Test"
+	name = 
 	religion = "gaian"
 	culture = "paiute"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -979,13 +827,11 @@ character_c_us_or_burns = {
 	}
 }
 character_c_us_or_madras = {
-	name = "Test"
+	name = Friday
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -993,13 +839,11 @@ character_c_us_or_madras = {
 	}
 }
 character_c_us_or_harper = {
-	name = "Test"
+	name = 
 	religion = "gaian"
 	culture = "paiute"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1007,13 +851,11 @@ character_c_us_or_harper = {
 	}
 }
 character_c_us_id_post_falls = {
-	name = "Test"
+	name = Torial
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1021,13 +863,11 @@ character_c_us_id_post_falls = {
 	}
 }
 character_c_us_wa_omak = {
-	name = "Test"
+	name = Canfield
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1035,13 +875,11 @@ character_c_us_wa_omak = {
 	}
 }
 character_c_us_wa_inchelium = {
-	name = "Test"
+	name = Evelyn
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1049,13 +887,11 @@ character_c_us_wa_inchelium = {
 	}
 }
 character_c_shuswap = {
-	name = "Test"
+	name = Grant
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1063,13 +899,11 @@ character_c_shuswap = {
 	}
 }
 character_c_kelowna = {
-	name = "Test"
+	name = Marble
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1077,13 +911,11 @@ character_c_kelowna = {
 	}
 }
 character_c_kamloops = {
-	name = "Test"
+	name = Zhiting
 	religion = "gaian"
 	culture = "canuck"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1091,13 +923,23 @@ character_c_kamloops = {
 	}
 }
 character_c_ca_bc_oliver = {
-	name = "Test"
+	name = Laner
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_merritt = {
+	name = George
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1105,13 +947,11 @@ character_c_ca_bc_oliver = {
 	}
 }
 character_c_similkameen = {
-	name = "Test"
+	name = William
 	religion = "gaian"
 	culture = "inlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1119,13 +959,11 @@ character_c_similkameen = {
 	}
 }
 character_c_koocanusa = {
-	name = "Test"
+	name = Aqawxatl
 	religion = "gaian"
 	culture = "ktunaxa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1133,13 +971,11 @@ character_c_koocanusa = {
 	}
 }
 character_c_banff = {
-	name = "Test"
+	name = Cam
 	religion = "gaian"
 	culture = "prairielander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1147,13 +983,11 @@ character_c_banff = {
 	}
 }
 character_c_kootenai = {
-	name = "Test"
+	name = Yamakpatl
 	religion = "gaian"
 	culture = "ktunaxa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1161,223 +995,11 @@ character_c_kootenai = {
 	}
 }
 character_c_kokanee = {
-	name = "Test"
+	name = Lorne
 	religion = "peace_church"
 	culture = "doukhobor"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_yoho = {
-	name = "Test"
-	religion = "gaian"
-	culture = "shuswap"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_prince_george = {
-	name = "Test"
-	religion = "gaian"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_bulkley = {
-	name = "Test"
-	religion = "gaian"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_robson = {
-	name = "Test"
-	religion = "eversky"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_robson = {
-	name = "Test"
-	religion = "gaian"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_nechako = {
-	name = "Test"
-	religion = "peace_church"
-	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_nechako = {
-	name = "Test"
-	religion = "gaian"
-	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pine_pass = {
-	name = "Test"
-	religion = "gaian"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_williams_lake = {
-	name = "Test"
-	religion = "gaian"
-	culture = "shuswap"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cariboo = {
-	name = "Test"
-	religion = "gaian"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_chilcotin = {
-	name = "Test"
-	religion = "gaian"
-	culture = "dakelh"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lillooet = {
-	name = "Test"
-	religion = "gaian"
-	culture = "shuswap"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_thompson_valley = {
-	name = "Test"
-	religion = "gaian"
-	culture = "shuswap"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_trail = {
-	name = "Test"
-	religion = "peace_church"
-	culture = "doukhobor"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_boundary = {
-	name = "Test"
-	religion = "peace_church"
-	culture = "doukhobor"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1385,13 +1007,167 @@ character_c_boundary = {
 	}
 }
 character_c_selkirk = {
-	name = "Test"
+	name = 
+	religion = "gaian"
+	culture = "shuswap"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_yoho = {
+	name = Jo
+	religion = "gaian"
+	culture = "ktunaxa"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_prince_george = {
+	name = Yests_pst_e
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bulkley = {
+	name = Yests_pst_e
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_robson = {
+	name = Talook
+	religion = "eversky"
+	culture = "dakelh"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_nechako = {
+	name = Dora
+	religion = "peace_church"
+	culture = "plautsdeutsch"
+	female = yes
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pine_pass = {
+	name = _pst_Ulhti
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_williams_lake = {
+	name = 
+	religion = "gaian"
+	culture = "shuswap"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cariboo = {
+	name = Chunihcho_John
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chilcotin = {
+	name = Susyaz
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lillooet = {
+	name = Angus
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_thompson_valley = {
+	name = 
+	religion = "gaian"
+	culture = "shuswap"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_trail = {
+	name = Maude
 	religion = "peace_church"
 	culture = "doukhobor"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_boundary = {
+	name = Cecil
+	religion = "peace_church"
+	culture = "doukhobor"
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

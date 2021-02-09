@@ -1,11 +1,9 @@
 character_c_ec_10_guayaquil = {
-	name = "Test"
+	name = Manuel
 	religion = "tridentinism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_ec_10_guayaquil = {
 	}
 }
 character_c_ec_14_manta = {
-	name = "Test"
+	name = Averroes
 	religion = "tridentinism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_ec_14_manta = {
 	}
 }
 character_c_ec_09_esmeraldas = {
-	name = "Test"
+	name = Diana
 	religion = "tridentinism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_ec_09_esmeraldas = {
 	}
 }
 character_c_ec_10_la_libertad = {
-	name = "Test"
+	name = M_a_act_ximo
 	religion = "tridentinism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_ec_10_la_libertad = {
 	}
 }
 character_c_ec_10_naranjal = {
-	name = "Test"
+	name = Carlos
 	religion = "nonconformism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_ec_10_naranjal = {
 	}
 }
 character_c_ec_18_quito = {
-	name = "Test"
+	name = Freddy
 	religion = "tridentinism"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_ec_18_quito = {
 	}
 }
 character_c_ec_11_ibarra = {
-	name = "Test"
+	name = V_i_act_ctor
 	religion = "tridentinism"
 	culture = "pastuso"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_ec_11_ibarra = {
 	}
 }
 character_c_ec_13_babahoyo = {
-	name = "Test"
+	name = Mois_e_act_s
 	religion = "tridentinism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_ec_13_babahoyo = {
 	}
 }
 character_c_ec_10_milagro = {
-	name = "Test"
+	name = Federico
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_ec_10_milagro = {
 	}
 }
 character_c_ec_26_santo_domingo_de_los_colorados = {
-	name = "Test"
+	name = Alfonso
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +119,11 @@ character_c_ec_26_santo_domingo_de_los_colorados = {
 	}
 }
 character_c_ec_18_manuel_cornejo_astorga = {
-	name = "Test"
+	name = Sim_o_act_n
 	religion = "tridentinism"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,11 @@ character_c_ec_18_manuel_cornejo_astorga = {
 	}
 }
 character_c_ec_02_cuenca = {
-	name = "Test"
+	name = Juliana
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +143,11 @@ character_c_ec_02_cuenca = {
 	}
 }
 character_c_ec_08_machala = {
-	name = "Test"
+	name = Mar_i_act_a_Cristina
 	religion = "nonconformism"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +155,11 @@ character_c_ec_08_machala = {
 	}
 }
 character_c_ec_12_loja = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +167,11 @@ character_c_ec_12_loja = {
 	}
 }
 character_c_ec_04_la_troncal = {
-	name = "Test"
+	name = Freddy
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +179,11 @@ character_c_ec_04_la_troncal = {
 	}
 }
 character_c_ec_20_zamora = {
-	name = "Test"
+	name = Renato
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +191,11 @@ character_c_ec_20_zamora = {
 	}
 }
 character_c_ec_19_ambato = {
-	name = "Test"
+	name = Evelio
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +203,11 @@ character_c_ec_19_ambato = {
 	}
 }
 character_c_ec_13_quevedo = {
-	name = "Test"
+	name = Joaqu_i_act_n
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +215,11 @@ character_c_ec_13_quevedo = {
 	}
 }
 character_c_ec_07_latacunga = {
-	name = "Test"
+	name = Marcelo
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +227,11 @@ character_c_ec_07_latacunga = {
 	}
 }
 character_c_ec_24_puerto_francisco_de_orellana = {
-	name = "Test"
+	name = David
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +239,11 @@ character_c_ec_24_puerto_francisco_de_orellana = {
 	}
 }
 character_c_ec_17_puyo = {
-	name = "Test"
+	name = Esther
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +251,11 @@ character_c_ec_17_puyo = {
 	}
 }
 character_c_ec_15_macas = {
-	name = "Test"
+	name = A_act_lvaro
 	religion = "inkarri_religion"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +263,11 @@ character_c_ec_15_macas = {
 	}
 }
 character_c_pe_16_pantoja = {
-	name = "Test"
+	name = H_o_act_lger
 	religion = "santo_daime"
 	culture = "serrano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +275,11 @@ character_c_pe_16_pantoja = {
 	}
 }
 character_c_ec_01_puerto_ayora = {
-	name = "Test"
-	religion = "undefined_religion_153_135_120"
+	name = Mar_i_act_a_Cristina
+	religion = "camino_estelar"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +287,11 @@ character_c_ec_01_puerto_ayora = {
 	}
 }
 character_c_ec_01_puerto_baquerizo_moreno = {
-	name = "Test"
+	name = Manuel
 	religion = "undefined_religion_153_135_120"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +299,11 @@ character_c_ec_01_puerto_baquerizo_moreno = {
 	}
 }
 character_c_ec_01_puerto_villamil = {
-	name = "Test"
-	religion = "camino_estelar"
+	name = Jos_e_act__Mar_i_act_a
+	religion = "undefined_religion_153_135_120"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +311,11 @@ character_c_ec_01_puerto_villamil = {
 	}
 }
 character_c_ec_01_bellavista = {
-	name = "Test"
-	religion = "camino_estelar"
+	name = Marcelino
+	religion = "undefined_religion_153_135_120"
 	culture = "guayanenese"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +323,11 @@ character_c_ec_01_bellavista = {
 	}
 }
 character_c_pe_20_piura = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +335,11 @@ character_c_pe_20_piura = {
 	}
 }
 character_c_pe_20_sullana = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +347,11 @@ character_c_pe_20_sullana = {
 	}
 }
 character_c_pe_24_tumbes = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +359,11 @@ character_c_pe_24_tumbes = {
 	}
 }
 character_c_pe_13_trujillo = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +371,11 @@ character_c_pe_13_trujillo = {
 	}
 }
 character_c_pe_06_cajamarca = {
-	name = "Test"
+	name = huascareno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "huascareno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +383,11 @@ character_c_pe_06_cajamarca = {
 	}
 }
 character_c_pe_13_chocope = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +395,11 @@ character_c_pe_13_chocope = {
 	}
 }
 character_c_pe_13_huamachuco = {
-	name = "Test"
+	name = huascareno_placeholder_fnames
 	religion = "inti_religion"
 	culture = "huascareno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +407,11 @@ character_c_pe_13_huamachuco = {
 	}
 }
 character_c_pe_14_chiclayo = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +419,11 @@ character_c_pe_14_chiclayo = {
 	}
 }
 character_c_pe_06_ja_n = {
-	name = "Test"
+	name = huascareno_placeholder_fnames
 	religion = "divina_chicha"
 	culture = "huascareno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +431,11 @@ character_c_pe_06_ja_n = {
 	}
 }
 character_c_pe_14_motupe = {
-	name = "Test"
+	name = costanorteno_placeholder_mnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +443,11 @@ character_c_pe_14_motupe = {
 	}
 }
 character_c_pe_06_chota = {
-	name = "Test"
+	name = huascareno_placeholder_mnames
 	religion = "divina_chicha"
 	culture = "huascareno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +455,11 @@ character_c_pe_06_chota = {
 	}
 }
 character_c_pe_02_chimbote = {
-	name = "Test"
+	name = nortechicano_placeholder_mnames
 	religion = "nonconformism"
 	culture = "nortechicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +467,11 @@ character_c_pe_02_chimbote = {
 	}
 }
 character_c_pe_02_huaraz = {
-	name = "Test"
+	name = nortechicano_placeholder_mnames
 	religion = "nonconformism"
 	culture = "nortechicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +479,11 @@ character_c_pe_02_huaraz = {
 	}
 }
 character_c_pe_15_barranca = {
-	name = "Test"
+	name = nortechicano_placeholder_mnames
 	religion = "liberationism"
 	culture = "nortechicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +491,11 @@ character_c_pe_15_barranca = {
 	}
 }
 character_c_pe_02_yauya = {
-	name = "Test"
+	name = huascareno_placeholder_fnames
 	religion = "inti_religion"
 	culture = "huascareno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +503,11 @@ character_c_pe_02_yauya = {
 	}
 }
 character_c_pe_10_hu_nuco = {
-	name = "Test"
+	name = wanka_placeholder_mnames
 	religion = "inti_religion"
 	culture = "wanka"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +515,11 @@ character_c_pe_10_hu_nuco = {
 	}
 }
 character_c_pe_10_tingo_mar_a = {
-	name = "Test"
+	name = charapa_placeholder_fnames
 	religion = "inti_religion"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +527,11 @@ character_c_pe_10_tingo_mar_a = {
 	}
 }
 character_c_pe_16_iquitos = {
-	name = "Test"
+	name = trifinio_placeholder_mnames
 	religion = "santo_daime"
 	culture = "trifinio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +539,11 @@ character_c_pe_16_iquitos = {
 	}
 }
 character_c_pe_16_yurimaguas = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "santo_daime"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +551,11 @@ character_c_pe_16_yurimaguas = {
 	}
 }
 character_c_pe_16_barranca = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "inkarri_religion"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +563,11 @@ character_c_pe_16_barranca = {
 	}
 }
 character_c_pe_16_francisco_de_orellana = {
-	name = "Test"
+	name = trifinio_placeholder_mnames
 	religion = "santo_daime"
 	culture = "trifinio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +575,11 @@ character_c_pe_16_francisco_de_orellana = {
 	}
 }
 character_c_pe_16_saquena = {
-	name = "Test"
+	name = matses_placeholder_mnames
 	religion = "santo_daime"
 	culture = "matses"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +587,11 @@ character_c_pe_16_saquena = {
 	}
 }
 character_c_pe_16_san_jos_de_saramuro = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "santo_daime"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +599,11 @@ character_c_pe_16_san_jos_de_saramuro = {
 	}
 }
 character_c_pe_22_moyobamba = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "inti_religion"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +611,11 @@ character_c_pe_22_moyobamba = {
 	}
 }
 character_c_pe_01_bagua_grande = {
-	name = "Test"
+	name = huascareno_placeholder_mnames
 	religion = "divina_chicha"
 	culture = "huascareno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +623,11 @@ character_c_pe_01_bagua_grande = {
 	}
 }
 character_c_pe_01_la_peca = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "inkarri_religion"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +635,11 @@ character_c_pe_01_la_peca = {
 	}
 }
 character_c_pe_25_pucallpa = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "santo_daime"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +647,11 @@ character_c_pe_25_pucallpa = {
 	}
 }
 character_c_pe_25_puntijao = {
-	name = "Test"
+	name = ashaninka_placeholder_mnames
 	religion = "santo_daime"
 	culture = "ashaninka"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +659,11 @@ character_c_pe_25_puntijao = {
 	}
 }
 character_c_pe_17_tambopata = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "inti_religion"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +671,11 @@ character_c_pe_17_tambopata = {
 	}
 }
 character_c_pe_21_sandia = {
-	name = "Test"
+	name = C_e_act_sar
 	religion = "pachamama_religion"
 	culture = "kolla"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +683,11 @@ character_c_pe_21_sandia = {
 	}
 }
 character_c_pe_17_huepetuhe = {
-	name = "Test"
+	name = charapa_placeholder_mnames
 	religion = "inti_religion"
 	culture = "charapa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +695,11 @@ character_c_pe_17_huepetuhe = {
 	}
 }
 character_c_pe_21_coasa = {
-	name = "Test"
+	name = Bernardino
 	religion = "inti_religion"
 	culture = "aymara"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +707,11 @@ character_c_pe_21_coasa = {
 	}
 }
 character_c_pe_17_grupo_ocho = {
-	name = "Test"
+	name = ashaninka_placeholder_mnames
 	religion = "santo_daime"
 	culture = "ashaninka"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

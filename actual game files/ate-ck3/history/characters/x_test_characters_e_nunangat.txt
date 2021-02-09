@@ -1,11 +1,9 @@
 character_c_gl_07_nuuk = {
-	name = "Test"
+	name = Norsaq
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_gl_07_nuuk = {
 	}
 }
 character_c_gl_06_sisimiut = {
-	name = "Test"
+	name = Juaannannguaq
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_gl_06_sisimiut = {
 	}
 }
 character_c_gl_03_maniitsoq_kommune = {
-	name = "Test"
+	name = Anaukak
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_gl_03_maniitsoq_kommune = {
 	}
 }
 character_c_gl_03_paamiut_kommuniat = {
-	name = "Test"
+	name = Taaraq
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_gl_03_paamiut_kommuniat = {
 	}
 }
 character_c_gl_03_ilulissat_kommuniat = {
-	name = "Test"
+	name = Gutivfarik
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_gl_03_ilulissat_kommuniat = {
 	}
 }
 character_c_gl_11839534_aasiaat_kommuniat = {
-	name = "Test"
+	name = Piilla
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_gl_11839534_aasiaat_kommuniat = {
 	}
 }
 character_c_gl_05_uummannaq_kommune = {
-	name = "Test"
+	name = Ussarkak
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_gl_05_uummannaq_kommune = {
 	}
 }
 character_c_gl_03_qeqertarsuaq_kommune = {
-	name = "Test"
+	name = Pekilak
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_gl_03_qeqertarsuaq_kommune = {
 	}
 }
 character_c_gl_04_qaqortoq = {
-	name = "Test"
+	name = Uinneq
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_gl_04_qaqortoq = {
 	}
 }
 character_c_gl_04_narsaq = {
-	name = "Test"
+	name = Akamak
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +119,11 @@ character_c_gl_04_narsaq = {
 	}
 }
 character_c_gl_04_nanortalik = {
-	name = "Test"
+	name = Aqqaluk
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,11 @@ character_c_gl_04_nanortalik = {
 	}
 }
 character_c_gl_11839537_upernavik = {
-	name = "Test"
+	name = Ajorna
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +143,11 @@ character_c_gl_11839537_upernavik = {
 	}
 }
 character_c_gl_11839537_qaanaaq_kommune = {
-	name = "Test"
+	name = Hansigne
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +155,11 @@ character_c_gl_11839537_qaanaaq_kommune = {
 	}
 }
 character_c_gl_11839537_kullorsuaq = {
-	name = "Test"
+	name = Laarsi
 	religion = "unipkaaq"
 	culture = "kalaaleq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +167,11 @@ character_c_gl_11839537_kullorsuaq = {
 	}
 }
 character_c_sj_21_longyearbyen = {
-	name = "Test"
+	name = Per
 	religion = "ilisaijjut"
 	culture = "svalbarder"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +179,11 @@ character_c_sj_21_longyearbyen = {
 	}
 }
 character_c_ca_nu_iqaluit = {
-	name = "Test"
+	name = Pakak
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +191,11 @@ character_c_ca_nu_iqaluit = {
 	}
 }
 character_c_ca_nu_pangnirtung = {
-	name = "Test"
+	name = Qiqituk
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,27 +203,23 @@ character_c_ca_nu_pangnirtung = {
 	}
 }
 character_c_ca_nu_clyde_river = {
-	name = "Test"
+	name = Takpaugni
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_nu_nuwata = {
-	name = "Test"
+character_c_ca_nu_amadjuak = {
+	name = Karoo
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +227,11 @@ character_c_ca_nu_nuwata = {
 	}
 }
 character_c_ca_nt_inuvik = {
-	name = "Test"
+	name = 
 	religion = "ilisaijjut"
 	culture = "inupiat"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +239,11 @@ character_c_ca_nt_inuvik = {
 	}
 }
 character_c_ca_nu_kugluktuk = {
-	name = "Test"
+	name = Amaqjuaq
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,27 +251,11 @@ character_c_ca_nu_kugluktuk = {
 	}
 }
 character_c_ca_nt_stanton = {
-	name = "Test"
+	name = Lusie
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_nt_stanton = {
-	name = "Test"
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +263,11 @@ character_c_ca_nt_stanton = {
 	}
 }
 character_c_ca_nu_rankin_inlet = {
-	name = "Test"
+	name = Kiviaq
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +275,11 @@ character_c_ca_nu_rankin_inlet = {
 	}
 }
 character_c_ca_nu_arviat = {
-	name = "Test"
+	name = Qiqituk
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +287,11 @@ character_c_ca_nu_arviat = {
 	}
 }
 character_c_ca_nu_baker_lake = {
-	name = "Test"
+	name = Ittinuaq
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +299,11 @@ character_c_ca_nu_baker_lake = {
 	}
 }
 character_c_ca_nu_coral_harbour = {
-	name = "Test"
+	name = Kiviaq
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +311,11 @@ character_c_ca_nu_coral_harbour = {
 	}
 }
 character_c_ca_nu_cambridge_bay = {
-	name = "Test"
+	name = Alootook
 	religion = "ilisaijjut"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,41 +323,23 @@ character_c_ca_nu_cambridge_bay = {
 	}
 }
 character_c_ca_nu_gjoa_haven = {
-	name = "Test"
+	name = Jamasie
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_nu_gjoa_haven = {
-	name = "Test"
-	religion = "ilisaijjut"
-	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_nu_thom_bay = {
-	name = "Test"
+character_c_ca_nu_kugaaruk = {
+	name = Charlie
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,27 +347,23 @@ character_c_ca_nu_thom_bay = {
 	}
 }
 character_c_ca_nu_arctic_bay = {
-	name = "Test"
+	name = Jeannie
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_nu_hall_beach = {
-	name = "Test"
+character_c_ca_nu_wager_bay = {
+	name = Anirnik
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,27 +371,23 @@ character_c_ca_nu_hall_beach = {
 	}
 }
 character_c_ca_nu_igloolik = {
-	name = "Test"
+	name = Kadlarjuk
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_nu_resolute = {
-	name = "Test"
+character_c_ca_nu_grise_fiord = {
+	name = Qiqituk
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +395,11 @@ character_c_ca_nu_resolute = {
 	}
 }
 character_c_labrador_west = {
-	name = "Test"
+	name = Chimis
 	religion = "midewiwin"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +407,11 @@ character_c_labrador_west = {
 	}
 }
 character_c_fermont = {
-	name = "Test"
+	name = George
 	religion = "midewiwin"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +419,11 @@ character_c_fermont = {
 	}
 }
 character_c_schefferville = {
-	name = "Test"
+	name = Antuan
 	religion = "unipkaaq"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +431,11 @@ character_c_schefferville = {
 	}
 }
 character_c_melville = {
-	name = "Test"
+	name = Emish
 	religion = "pelagic"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +443,11 @@ character_c_melville = {
 	}
 }
 character_c_cartwright = {
-	name = "Test"
+	name = E_act_lie
 	religion = "pelagic"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +455,11 @@ character_c_cartwright = {
 	}
 }
 character_c_alexis = {
-	name = "Test"
+	name = Antuan
 	religion = "pelagic"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +467,11 @@ character_c_alexis = {
 	}
 }
 character_c_ca_qc_salluit = {
-	name = "Test"
+	name = Alurut
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,55 +479,35 @@ character_c_ca_qc_salluit = {
 	}
 }
 character_c_ca_qc_rivi_re_koksoak = {
-	name = "Test"
+	name = Pauloosie
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_qc_whapmagoostui = {
-	name = "Test"
+character_c_ca_nu_sanikiluaq = {
+	name = Neitin
 	religion = "unipkaaq"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_qc_whapmagoostui = {
-	name = "Test"
+character_c_ca_qc_inukjuak = {
+	name = Ollie
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_qc_puvirnituq = {
-	name = "Test"
-	religion = "unipkaaq"
-	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +515,11 @@ character_c_ca_qc_puvirnituq = {
 	}
 }
 character_c_ca_qc_aupaluk = {
-	name = "Test"
+	name = Tagak
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +527,11 @@ character_c_ca_qc_aupaluk = {
 	}
 }
 character_c_ca_qc_kangiqsujuaq = {
-	name = "Test"
+	name = Lucassie
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,27 +539,23 @@ character_c_ca_qc_kangiqsujuaq = {
 	}
 }
 character_c_ca_nl_hopedale = {
-	name = "Test"
+	name = Enoki
 	religion = "pelagic"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_nl_moores_harbour = {
-	name = "Test"
+character_c_ca_nl_natuashish = {
+	name = Ittinuaq
 	religion = "pelagic"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,12 +563,10 @@ character_c_ca_nl_moores_harbour = {
 	}
 }
 character_c_ca_qc_kangiqsualujjuaq = {
-	name = "Test"
+	name = Karoo
 	religion = "pelagic"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}

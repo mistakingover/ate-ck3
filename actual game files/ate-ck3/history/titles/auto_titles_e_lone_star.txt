@@ -173,15 +173,6 @@ c_comal = {
 	}
 }
 
-c_comal = {
-	2000.1.1 = {
-	 liege = d_balcones
-	}
-	2656.1.1 = {
-		holder = character_c_comal
-	}
-}
-
 c_concho = {
 	2000.1.1 = {
 	 liege = d_balcones
@@ -675,5 +666,147 @@ c_us_ok_guymon = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_ok_guymon
+	}
+}
+
+c_bexar = {
+	2656.1.1 = {
+		holder = character_c_bexar
+	}
+}
+d_alamo = {
+	2656.1.1 = {
+		holder = character_c_bexar
+	}
+}
+k_rio_grande = {
+	2000.1.1 = {
+	 liege = e_lone_star
+	}
+	2656.1.1 = {
+		holder = character_c_bexar
+	}
+}
+
+c_uvalde = {
+	2000.1.1 = {
+	 liege = d_alamo
+	}
+	2656.1.1 = {
+		holder = character_c_uvalde
+	}
+}
+
+c_maverick = {
+	2000.1.1 = {
+	 liege = d_alamo
+	}
+	2656.1.1 = {
+		holder = character_c_maverick
+	}
+}
+
+c_starr = {
+	2656.1.1 = {
+		holder = character_c_starr
+	}
+}
+d_men_in_black = {
+	2000.1.1 = {
+	 liege = k_rio_grande
+	}
+	2656.1.1 = {
+		holder = character_c_starr
+	}
+}
+
+c_cameron = {
+	2000.1.1 = {
+	 liege = d_men_in_black
+	}
+	2656.1.1 = {
+		holder = character_c_cameron
+	}
+}
+
+c_nueces = {
+	2656.1.1 = {
+		holder = character_c_nueces
+	}
+}
+d_corpus_christi = {
+	2000.1.1 = {
+	 liege = k_rio_grande
+	}
+	2656.1.1 = {
+		holder = character_c_nueces
+	}
+}
+
+c_goliad = {
+	2000.1.1 = {
+	 liege = d_corpus_christi
+	}
+	2656.1.1 = {
+		holder = character_c_goliad
+	}
+}
+
+c_live_oak = {
+	2000.1.1 = {
+	 liege = d_corpus_christi
+	}
+	2656.1.1 = {
+		holder = character_c_live_oak
+	}
+}
+
+c_webb = {
+	2000.1.1 = {
+	 liege = d_corpus_christi
+	}
+	2656.1.1 = {
+		holder = character_c_webb
+	}
+}
+
+c_us_tx_pecos = {
+	2656.1.1 = {
+		holder = character_c_us_tx_pecos
+	}
+}
+d_transpecos = {
+	2000.1.1 = {
+	 liege = k_rio_grande
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_pecos
+	}
+}
+
+c_big_bend = {
+	2000.1.1 = {
+	 liege = d_transpecos
+	}
+	2656.1.1 = {
+		holder = character_c_big_bend
+	}
+}
+
+c_us_tx_fort_stockton = {
+	2000.1.1 = {
+	 liege = d_transpecos
+	}
+	2656.1.1 = {
+		holder = character_c_us_tx_fort_stockton
+	}
+}
+
+c_val_verde = {
+	2000.1.1 = {
+	 liege = d_transpecos
+	}
+	2656.1.1 = {
+		holder = character_c_val_verde
 	}
 }

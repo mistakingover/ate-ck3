@@ -525,24 +525,6 @@ d_trinidad_and_tobago = {
 	}
 }
 
-c_tt_cha_chaguanas = {
-	2000.1.1 = {
-	 liege = d_trinidad_and_tobago
-	}
-	2656.1.1 = {
-		holder = character_c_tt_cha_chaguanas
-	}
-}
-
-c_tt_05_port_of_spain = {
-	2000.1.1 = {
-	 liege = d_trinidad_and_tobago
-	}
-	2656.1.1 = {
-		holder = character_c_tt_05_port_of_spain
-	}
-}
-
 c_tt_05_port_of_spain = {
 	2000.1.1 = {
 	 liege = d_trinidad_and_tobago
@@ -651,15 +633,6 @@ c_vi_010_saint_croix = {
 d_leeward_isles = {
 	2000.1.1 = {
 	 liege = k_antilles
-	}
-	2656.1.1 = {
-		holder = character_c_vi_010_saint_croix
-	}
-}
-
-c_vi_010_saint_croix = {
-	2000.1.1 = {
-	 liege = d_leeward_isles
 	}
 	2656.1.1 = {
 		holder = character_c_vi_010_saint_croix

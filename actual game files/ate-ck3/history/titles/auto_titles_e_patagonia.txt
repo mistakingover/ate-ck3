@@ -69,30 +69,21 @@ c_ar_16_el_bols_n = {
 	}
 }
 
-c_ar_16_el_bols_n = {
+c_ar_16_cerro_mesa = {
 	2000.1.1 = {
 	 liege = d_bariloche
 	}
 	2656.1.1 = {
-		holder = character_c_ar_16_el_bols_n
+		holder = character_c_ar_16_cerro_mesa
 	}
 }
 
-c_ar_04_leleque = {
+c_ar_16_aguada_de_guzm_n = {
 	2000.1.1 = {
 	 liege = d_bariloche
 	}
 	2656.1.1 = {
-		holder = character_c_ar_04_leleque
-	}
-}
-
-c_ar_16_las_perlas = {
-	2000.1.1 = {
-	 liege = d_bariloche
-	}
-	2656.1.1 = {
-		holder = character_c_ar_16_las_perlas
+		holder = character_c_ar_16_aguada_de_guzm_n
 	}
 }
 
@@ -266,21 +257,21 @@ c_ar_04_puerto_madryn = {
 	}
 }
 
-c_ar_04_colelache = {
+c_ar_04_gan_gan = {
 	2000.1.1 = {
 	 liege = d_biedma
 	}
 	2656.1.1 = {
-		holder = character_c_ar_04_colelache
+		holder = character_c_ar_04_gan_gan
 	}
 }
 
-c_ar_04_el_corcovado = {
+c_ar_04_chasic_ = {
 	2000.1.1 = {
 	 liege = d_biedma
 	}
 	2656.1.1 = {
-		holder = character_c_ar_04_el_corcovado
+		holder = character_c_ar_04_chasic_
 	}
 }
 
@@ -316,21 +307,21 @@ c_ar_04_camarones = {
 	}
 }
 
-c_ar_04_el_sombrero = {
+c_ar_04_canquel = {
 	2000.1.1 = {
 	 liege = d_escalante
 	}
 	2656.1.1 = {
-		holder = character_c_ar_04_el_sombrero
+		holder = character_c_ar_04_canquel
 	}
 }
 
-c_ar_04_el_mirasol = {
+c_ar_04_laguna_grande = {
 	2000.1.1 = {
 	 liege = d_escalante
 	}
 	2656.1.1 = {
-		holder = character_c_ar_04_el_mirasol
+		holder = character_c_ar_04_laguna_grande
 	}
 }
 
@@ -366,12 +357,12 @@ c_ar_04_r_o_mayo = {
 	}
 }
 
-c_ar_04_esperanza = {
+c_ar_04_la_martha = {
 	2000.1.1 = {
 	 liege = d_esquel
 	}
 	2656.1.1 = {
-		holder = character_c_ar_04_esperanza
+		holder = character_c_ar_04_la_martha
 	}
 }
 
@@ -412,12 +403,12 @@ c_cl_10_natales = {
 	}
 }
 
-c_cl_10_delgada_este = {
+c_cl_10_san_gregorio = {
 	2000.1.1 = {
 	 liege = d_magallanes
 	}
 	2656.1.1 = {
-		holder = character_c_cl_10_delgada_este
+		holder = character_c_cl_10_san_gregorio
 	}
 }
 
@@ -453,12 +444,12 @@ c_cl_10_cabo_de_hornos = {
 	}
 }
 
-c_ar_23_cullen = {
+c_cl_10_porvenir = {
 	2000.1.1 = {
 	 liege = d_tierra_del_fuego
 	}
 	2656.1.1 = {
-		holder = character_c_ar_23_cullen
+		holder = character_c_cl_10_porvenir
 	}
 }
 
@@ -494,21 +485,12 @@ c_cl_02_puerto_cisnes = {
 	}
 }
 
-c_cl_02_puerto_cisnes = {
+c_cl_02_guaitecas = {
 	2000.1.1 = {
 	 liege = d_aysen
 	}
 	2656.1.1 = {
-		holder = character_c_cl_02_puerto_cisnes
-	}
-}
-
-c_cl_02_aisen = {
-	2000.1.1 = {
-	 liege = d_aysen
-	}
-	2656.1.1 = {
-		holder = character_c_cl_02_aisen
+		holder = character_c_cl_02_guaitecas
 	}
 }
 
@@ -532,15 +514,6 @@ c_cl_02_o_higgins = {
 	}
 	2656.1.1 = {
 		holder = character_c_cl_02_o_higgins
-	}
-}
-
-c_cl_02_tortel = {
-	2000.1.1 = {
-	 liege = d_capitan_prat
-	}
-	2656.1.1 = {
-		holder = character_c_cl_02_tortel
 	}
 }
 
@@ -631,12 +604,12 @@ c_ar_20_puerto_deseado = {
 	}
 }
 
-c_ar_20_bah_a_laura = {
+c_ar_20_tres_cerros = {
 	2000.1.1 = {
 	 liege = d_deseado
 	}
 	2656.1.1 = {
-		holder = character_c_ar_20_bah_a_laura
+		holder = character_c_ar_20_tres_cerros
 	}
 }
 
@@ -681,12 +654,12 @@ c_ar_20_el_chonque = {
 	}
 }
 
-c_ar_20_el_volc_n = {
+c_ar_20_gobernador_gregores = {
 	2000.1.1 = {
 	 liege = d_lago_argentino
 	}
 	2656.1.1 = {
-		holder = character_c_ar_20_el_volc_n
+		holder = character_c_ar_20_gobernador_gregores
 	}
 }
 
@@ -709,12 +682,12 @@ k_falkland = {
 	}
 }
 
-c_fk_00_goose_green_settlement = {
+c_fk_00_goose_green = {
 	2000.1.1 = {
 	 liege = d_falkland_islands
 	}
 	2656.1.1 = {
-		holder = character_c_fk_00_goose_green_settlement
+		holder = character_c_fk_00_goose_green
 	}
 }
 

@@ -1,376 +1,326 @@
-c_mx_19_monterrey = {
+c_monterrey = {
 	2656.1.1 = {
-		holder = character_c_mx_19_monterrey
+		holder = character_c_monterrey
 	}
 }
-d_nuevo_leon = {
+d_monterrey = {
 	2656.1.1 = {
-		holder = character_c_mx_19_monterrey
+		holder = character_c_monterrey
 	}
 }
-k_rio_bravo = {
+k_leon = {
 	2656.1.1 = {
-		holder = character_c_mx_19_monterrey
+		holder = character_c_monterrey
 	}
 }
 e_aztlan = {
 	2656.1.1 = {
-		holder = character_c_mx_19_monterrey
+		holder = character_c_monterrey
 	}
 }
 
-c_mx_19_apodaca = {
+c_san_nicolas = {
 	2000.1.1 = {
-	 liege = d_nuevo_leon
+	 liege = d_monterrey
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_apodaca
+		holder = character_c_san_nicolas
 	}
 }
 
-c_mx_19_benito_ju_rez = {
+c_guadelupe = {
 	2000.1.1 = {
-	 liege = d_nuevo_leon
+	 liege = d_monterrey
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_benito_ju_rez
+		holder = character_c_guadelupe
 	}
 }
 
-c_mx_19_garc_a = {
+c_escobedo = {
 	2000.1.1 = {
-	 liege = d_nuevo_leon
+	 liege = d_monterrey
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_garc_a
+		holder = character_c_escobedo
 	}
 }
 
-c_mx_07_torre_n = {
+c_reynosa = {
 	2656.1.1 = {
-		holder = character_c_mx_07_torre_n
+		holder = character_c_reynosa
 	}
 }
-d_mx_10_cuencam_ = {
+d_tamaulipas = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_torre_n
+		holder = character_c_reynosa
 	}
 }
 
-c_mx_10_g_mez_palacio = {
+c_matamoros = {
 	2000.1.1 = {
-	 liege = d_mx_10_cuencam_
+	 liege = d_tamaulipas
 	}
 	2656.1.1 = {
-		holder = character_c_mx_10_g_mez_palacio
+		holder = character_c_matamoros
 	}
 }
 
-c_mx_10_lerdo = {
+c_san_fernando = {
 	2000.1.1 = {
-	 liege = d_mx_10_cuencam_
+	 liege = d_tamaulipas
 	}
 	2656.1.1 = {
-		holder = character_c_mx_10_lerdo
+		holder = character_c_san_fernando
 	}
 }
 
-c_mx_32_r_o_grande = {
+c_padilla = {
 	2000.1.1 = {
-	 liege = d_mx_10_cuencam_
+	 liege = d_tamaulipas
 	}
 	2656.1.1 = {
-		holder = character_c_mx_32_r_o_grande
+		holder = character_c_padilla
 	}
 }
 
-c_mx_07_san_pedro = {
+c_soto_la_marina = {
 	2000.1.1 = {
-	 liege = d_mx_10_cuencam_
+	 liege = d_tamaulipas
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_san_pedro
+		holder = character_c_soto_la_marina
 	}
 }
 
-c_mx_10_tlahualilo_de_zaragoza = {
+c_tampico = {
+	2656.1.1 = {
+		holder = character_c_tampico
+	}
+}
+d_panuco = {
 	2000.1.1 = {
-	 liege = d_mx_10_cuencam_
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_10_tlahualilo_de_zaragoza
+		holder = character_c_tampico
 	}
 }
 
-c_mx_28_reynosa = {
-	2656.1.1 = {
-		holder = character_c_mx_28_reynosa
-	}
-}
-d_mx_28_matamoros = {
+c_ciudad_victoria = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = d_panuco
 	}
 	2656.1.1 = {
-		holder = character_c_mx_28_reynosa
+		holder = character_c_ciudad_victoria
 	}
 }
 
-c_mx_28_heroica_matamoros = {
+c_el_mante = {
 	2000.1.1 = {
-	 liege = d_mx_28_matamoros
+	 liege = d_panuco
 	}
 	2656.1.1 = {
-		holder = character_c_mx_28_heroica_matamoros
+		holder = character_c_el_mante
 	}
 }
 
-c_mx_28_san_fernando = {
+c_el_cielo = {
 	2000.1.1 = {
-	 liege = d_mx_28_matamoros
+	 liege = d_panuco
 	}
 	2656.1.1 = {
-		holder = character_c_mx_28_san_fernando
+		holder = character_c_el_cielo
 	}
 }
 
-c_mx_28_guillermo_z_iga = {
-	2000.1.1 = {
-	 liege = d_mx_28_matamoros
-	}
+c_saltillo = {
 	2656.1.1 = {
-		holder = character_c_mx_28_guillermo_z_iga
-	}
-}
-
-c_mx_28_abasolo = {
-	2000.1.1 = {
-	 liege = d_mx_28_matamoros
-	}
-	2656.1.1 = {
-		holder = character_c_mx_28_abasolo
-	}
-}
-
-c_mx_07_saltillo = {
-	2656.1.1 = {
-		holder = character_c_mx_07_saltillo
+		holder = character_c_saltillo
 	}
 }
 d_coahuila = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_saltillo
+		holder = character_c_saltillo
 	}
 }
 
-c_mx_07_monclova = {
+c_monclova = {
 	2000.1.1 = {
 	 liege = d_coahuila
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_monclova
+		holder = character_c_monclova
 	}
 }
 
-c_mx_07_parras_de_la_fuente = {
+c_parras = {
 	2000.1.1 = {
 	 liege = d_coahuila
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_parras_de_la_fuente
+		holder = character_c_parras
 	}
 }
 
-c_mx_07_pared_n = {
+c_ramos_arizpe = {
 	2000.1.1 = {
 	 liege = d_coahuila
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_pared_n
+		holder = character_c_ramos_arizpe
 	}
 }
 
-c_mx_28_nuevo_laredo = {
+c_nuevo_laredo = {
 	2656.1.1 = {
-		holder = character_c_mx_28_nuevo_laredo
+		holder = character_c_nuevo_laredo
 	}
 }
-d_nueva_extremadura = {
+d_rio_bravo_del_norte = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_28_nuevo_laredo
+		holder = character_c_nuevo_laredo
 	}
 }
 
-c_mx_19_sabinas_hidalgo = {
+c_salinas_victoria = {
 	2000.1.1 = {
-	 liege = d_nueva_extremadura
+	 liege = d_rio_bravo_del_norte
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_sabinas_hidalgo
+		holder = character_c_salinas_victoria
 	}
 }
 
-c_mx_19_an_huac = {
+c_anahuac = {
 	2000.1.1 = {
-	 liege = d_nueva_extremadura
+	 liege = d_rio_bravo_del_norte
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_an_huac
+		holder = character_c_anahuac
 	}
 }
 
-c_mx_19_cerralvo = {
+c_cerralvo = {
 	2000.1.1 = {
-	 liege = d_nueva_extremadura
+	 liege = d_rio_bravo_del_norte
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_cerralvo
+		holder = character_c_cerralvo
 	}
 }
 
-c_mx_07_piedras_negras = {
+c_piedras_negras = {
 	2656.1.1 = {
-		holder = character_c_mx_07_piedras_negras
+		holder = character_c_piedras_negras
 	}
 }
-d_mx_07_piedras_negras = {
+d_escondido = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_piedras_negras
+		holder = character_c_piedras_negras
 	}
 }
 
-c_mx_07_acu_a = {
+c_acuna = {
 	2000.1.1 = {
-	 liege = d_mx_07_piedras_negras
+	 liege = d_escondido
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_acu_a
+		holder = character_c_acuna
 	}
 }
 
-c_mx_07_sabinas = {
+c_sabinas = {
 	2000.1.1 = {
-	 liege = d_mx_07_piedras_negras
+	 liege = d_escondido
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_sabinas
+		holder = character_c_sabinas
 	}
 }
 
-c_mx_07_allende = {
+c_allende = {
 	2000.1.1 = {
-	 liege = d_mx_07_piedras_negras
+	 liege = d_escondido
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_allende
+		holder = character_c_allende
 	}
 }
 
-c_mx_19_cadereyta_jim_nez = {
+c_cadereyta = {
 	2656.1.1 = {
-		holder = character_c_mx_19_cadereyta_jim_nez
+		holder = character_c_cadereyta
 	}
 }
-d_mx_19_montemorelos = {
+d_pilon = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_cadereyta_jim_nez
+		holder = character_c_cadereyta
 	}
 }
 
-c_mx_19_mazatlan = {
+c_montemorelos = {
 	2000.1.1 = {
-	 liege = d_mx_19_montemorelos
+	 liege = d_pilon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_mazatlan
+		holder = character_c_montemorelos
 	}
 }
 
 c_mx_19_linares = {
 	2000.1.1 = {
-	 liege = d_mx_19_montemorelos
+	 liege = d_pilon
 	}
 	2656.1.1 = {
 		holder = character_c_mx_19_linares
 	}
 }
 
-c_mx_19_china = {
+c_china = {
 	2000.1.1 = {
-	 liege = d_mx_19_montemorelos
+	 liege = d_pilon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_19_china
+		holder = character_c_china
 	}
 }
 
-c_mx_07_melchor_m_zquiz = {
+c_galeana = {
 	2656.1.1 = {
-		holder = character_c_mx_07_melchor_m_zquiz
+		holder = character_c_galeana
 	}
 }
-d_mx_07_ocampo = {
+d_san_onofre = {
 	2000.1.1 = {
-	 liege = k_rio_bravo
+	 liege = k_leon
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_melchor_m_zquiz
+		holder = character_c_galeana
 	}
 }
 
-c_mx_07_san_buenaventura = {
+c_doctor_arroyo = {
 	2000.1.1 = {
-	 liege = d_mx_07_ocampo
+	 liege = d_san_onofre
 	}
 	2656.1.1 = {
-		holder = character_c_mx_07_san_buenaventura
-	}
-}
-
-c_mx_07_h_rcules = {
-	2000.1.1 = {
-	 liege = d_mx_07_ocampo
-	}
-	2656.1.1 = {
-		holder = character_c_mx_07_h_rcules
-	}
-}
-
-c_mx_19_galeana = {
-	2656.1.1 = {
-		holder = character_c_mx_19_galeana
-	}
-}
-d_mx_19_galeana = {
-	2000.1.1 = {
-	 liege = k_rio_bravo
-	}
-	2656.1.1 = {
-		holder = character_c_mx_19_galeana
-	}
-}
-
-c_mx_19_doctor_arroyo = {
-	2000.1.1 = {
-	 liege = d_mx_19_galeana
-	}
-	2656.1.1 = {
-		holder = character_c_mx_19_doctor_arroyo
+		holder = character_c_doctor_arroyo
 	}
 }
 
@@ -570,655 +520,549 @@ c_us_az_eagar = {
 	}
 }
 
-c_mx_06_ju_rez = {
+c_paso_del_norte = {
 	2656.1.1 = {
-		holder = character_c_mx_06_ju_rez
+		holder = character_c_paso_del_norte
 	}
 }
 d_chihuahua = {
 	2656.1.1 = {
-		holder = character_c_mx_06_ju_rez
+		holder = character_c_paso_del_norte
 	}
 }
-k_rio_grande = {
+k_nueva_vizcaya = {
 	2000.1.1 = {
 	 liege = e_aztlan
 	}
 	2656.1.1 = {
-		holder = character_c_mx_06_ju_rez
+		holder = character_c_paso_del_norte
 	}
 }
 
-c_mx_06_chihuahua = {
+c_chihuahua = {
 	2000.1.1 = {
 	 liege = d_chihuahua
 	}
 	2656.1.1 = {
-		holder = character_c_mx_06_chihuahua
+		holder = character_c_chihuahua
 	}
 }
 
-c_mx_06_cuauht_moc = {
+c_cuauhtemoc = {
 	2000.1.1 = {
 	 liege = d_chihuahua
 	}
 	2656.1.1 = {
-		holder = character_c_mx_06_cuauht_moc
+		holder = character_c_cuauhtemoc
 	}
 }
 
-c_mx_06_nuevo_casas_grandes = {
+c_casas_grandes = {
 	2000.1.1 = {
 	 liege = d_chihuahua
 	}
 	2656.1.1 = {
-		holder = character_c_mx_06_nuevo_casas_grandes
+		holder = character_c_casas_grandes
 	}
 }
 
-c_mx_06_miguel_ahumada = {
+c_ahumada = {
 	2000.1.1 = {
 	 liege = d_chihuahua
 	}
 	2656.1.1 = {
-		holder = character_c_mx_06_miguel_ahumada
+		holder = character_c_ahumada
 	}
 }
 
-c_bexar = {
+c_torreon = {
 	2656.1.1 = {
-		holder = character_c_bexar
+		holder = character_c_torreon
 	}
 }
-d_alamo = {
+d_lagunera = {
 	2000.1.1 = {
-	 liege = k_rio_grande
+	 liege = k_nueva_vizcaya
 	}
 	2656.1.1 = {
-		holder = character_c_bexar
+		holder = character_c_torreon
 	}
 }
 
-c_uvalde = {
+c_gomez_palacio = {
 	2000.1.1 = {
-	 liege = d_alamo
+	 liege = d_lagunera
 	}
 	2656.1.1 = {
-		holder = character_c_uvalde
+		holder = character_c_gomez_palacio
 	}
 }
 
-c_maverick = {
+c_cuencame = {
 	2000.1.1 = {
-	 liege = d_alamo
+	 liege = d_lagunera
 	}
 	2656.1.1 = {
-		holder = character_c_maverick
+		holder = character_c_cuencame
 	}
 }
 
-c_starr = {
-	2656.1.1 = {
-		holder = character_c_starr
-	}
-}
-d_men_in_black = {
+c_juan_aldama = {
 	2000.1.1 = {
-	 liege = k_rio_grande
+	 liege = d_lagunera
 	}
 	2656.1.1 = {
-		holder = character_c_starr
+		holder = character_c_juan_aldama
 	}
 }
 
-c_cameron = {
+c_mayran = {
 	2000.1.1 = {
-	 liege = d_men_in_black
+	 liege = d_lagunera
 	}
 	2656.1.1 = {
-		holder = character_c_cameron
+		holder = character_c_mayran
 	}
 }
 
-c_nueces = {
-	2656.1.1 = {
-		holder = character_c_nueces
-	}
-}
-d_corpus_christi = {
+c_tlahualilo = {
 	2000.1.1 = {
-	 liege = k_rio_grande
+	 liege = d_lagunera
 	}
 	2656.1.1 = {
-		holder = character_c_nueces
+		holder = character_c_tlahualilo
 	}
 }
 
-c_goliad = {
+c_guadiana = {
+	2656.1.1 = {
+		holder = character_c_guadiana
+	}
+}
+d_durango = {
 	2000.1.1 = {
-	 liege = d_corpus_christi
+	 liege = k_nueva_vizcaya
 	}
 	2656.1.1 = {
-		holder = character_c_goliad
+		holder = character_c_guadiana
 	}
 }
 
-c_live_oak = {
+c_guadalupe_victoria = {
 	2000.1.1 = {
-	 liege = d_corpus_christi
+	 liege = d_durango
 	}
 	2656.1.1 = {
-		holder = character_c_live_oak
+		holder = character_c_guadalupe_victoria
 	}
 }
 
-c_webb = {
+c_pueblo_nuevo = {
 	2000.1.1 = {
-	 liege = d_corpus_christi
+	 liege = d_durango
 	}
 	2656.1.1 = {
-		holder = character_c_webb
+		holder = character_c_pueblo_nuevo
 	}
 }
 
-c_us_tx_pecos = {
-	2656.1.1 = {
-		holder = character_c_us_tx_pecos
-	}
-}
-d_transpecos = {
+c_suchil = {
 	2000.1.1 = {
-	 liege = k_rio_grande
+	 liege = d_durango
 	}
 	2656.1.1 = {
-		holder = character_c_us_tx_pecos
+		holder = character_c_suchil
 	}
 }
 
-c_big_bend = {
+c_papasquiaro = {
 	2000.1.1 = {
-	 liege = d_transpecos
+	 liege = d_durango
 	}
 	2656.1.1 = {
-		holder = character_c_big_bend
+		holder = character_c_papasquiaro
 	}
 }
 
-c_us_tx_fort_stockton = {
+c_el_oro = {
 	2000.1.1 = {
-	 liege = d_transpecos
+	 liege = d_durango
 	}
 	2656.1.1 = {
-		holder = character_c_us_tx_fort_stockton
+		holder = character_c_el_oro
 	}
 }
 
-c_val_verde = {
+c_delicias = {
+	2656.1.1 = {
+		holder = character_c_delicias
+	}
+}
+d_conchos = {
 	2000.1.1 = {
-	 liege = d_transpecos
+	 liege = k_nueva_vizcaya
 	}
 	2656.1.1 = {
-		holder = character_c_val_verde
+		holder = character_c_delicias
 	}
 }
 
-c_mx_25_culiac_n = {
+c_parral = {
+	2000.1.1 = {
+	 liege = d_conchos
+	}
 	2656.1.1 = {
-		holder = character_c_mx_25_culiac_n
+		holder = character_c_parral
 	}
 }
-d_mazatlan = {
+
+c_ojinaga = {
+	2000.1.1 = {
+	 liege = d_conchos
+	}
 	2656.1.1 = {
-		holder = character_c_mx_25_culiac_n
+		holder = character_c_ojinaga
 	}
 }
-k_sinaloa = {
+
+c_camargo = {
+	2000.1.1 = {
+	 liege = d_conchos
+	}
+	2656.1.1 = {
+		holder = character_c_camargo
+	}
+}
+
+c_guachochi = {
+	2656.1.1 = {
+		holder = character_c_guachochi
+	}
+}
+d_tarahumara = {
+	2000.1.1 = {
+	 liege = k_nueva_vizcaya
+	}
+	2656.1.1 = {
+		holder = character_c_guachochi
+	}
+}
+
+c_madera = {
+	2000.1.1 = {
+	 liege = d_tarahumara
+	}
+	2656.1.1 = {
+		holder = character_c_madera
+	}
+}
+
+c_guerrero = {
+	2000.1.1 = {
+	 liege = d_tarahumara
+	}
+	2656.1.1 = {
+		holder = character_c_guerrero
+	}
+}
+
+c_guadalupe_y_calvo = {
+	2000.1.1 = {
+	 liege = d_tarahumara
+	}
+	2656.1.1 = {
+		holder = character_c_guadalupe_y_calvo
+	}
+}
+
+c_muzquiz = {
+	2656.1.1 = {
+		holder = character_c_muzquiz
+	}
+}
+d_nueva_extremadura = {
+	2000.1.1 = {
+	 liege = k_nueva_vizcaya
+	}
+	2656.1.1 = {
+		holder = character_c_muzquiz
+	}
+}
+
+c_cuatrociengas = {
+	2000.1.1 = {
+	 liege = d_nueva_extremadura
+	}
+	2656.1.1 = {
+		holder = character_c_cuatrociengas
+	}
+}
+
+c_ocampo = {
+	2000.1.1 = {
+	 liege = d_nueva_extremadura
+	}
+	2656.1.1 = {
+		holder = character_c_ocampo
+	}
+}
+
+c_culiacan = {
+	2656.1.1 = {
+		holder = character_c_culiacan
+	}
+}
+d_culiacan = {
+	2656.1.1 = {
+		holder = character_c_culiacan
+	}
+}
+k_nueva_navarra = {
 	2000.1.1 = {
 	 liege = e_aztlan
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_culiac_n
+		holder = character_c_culiacan
 	}
 }
 
-c_mx_25_mazatl_n = {
+c_mazatlan = {
 	2000.1.1 = {
-	 liege = d_mazatlan
+	 liege = d_culiacan
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_mazatl_n
+		holder = character_c_mazatlan
 	}
 }
 
-c_mx_25_la_cruz = {
+c_elota = {
 	2000.1.1 = {
-	 liege = d_mazatlan
+	 liege = d_culiacan
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_la_cruz
+		holder = character_c_elota
 	}
 }
 
-c_mx_10_nuevo = {
+c_baluarte = {
 	2000.1.1 = {
-	 liege = d_mazatlan
+	 liege = d_culiacan
 	}
 	2656.1.1 = {
-		holder = character_c_mx_10_nuevo
+		holder = character_c_baluarte
 	}
 }
 
-c_mx_25_escuinapa = {
+c_escuinapa = {
 	2000.1.1 = {
-	 liege = d_mazatlan
+	 liege = d_culiacan
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_escuinapa
+		holder = character_c_escuinapa
 	}
 }
 
-c_mx_18_tepic = {
+c_los_mochis = {
 	2656.1.1 = {
-		holder = character_c_mx_18_tepic
-	}
-}
-d_nayarit = {
-	2000.1.1 = {
-	 liege = k_sinaloa
-	}
-	2656.1.1 = {
-		holder = character_c_mx_18_tepic
-	}
-}
-
-c_mx_18_san_jos_del = {
-	2000.1.1 = {
-	 liege = d_nayarit
-	}
-	2656.1.1 = {
-		holder = character_c_mx_18_san_jos_del
-	}
-}
-
-c_mx_18_tuxpan = {
-	2000.1.1 = {
-	 liege = d_nayarit
-	}
-	2656.1.1 = {
-		holder = character_c_mx_18_tuxpan
-	}
-}
-
-c_mx_18_ixtl_n_del_r_o = {
-	2000.1.1 = {
-	 liege = d_nayarit
-	}
-	2656.1.1 = {
-		holder = character_c_mx_18_ixtl_n_del_r_o
-	}
-}
-
-c_mx_18_acaponeta = {
-	2000.1.1 = {
-	 liege = d_nayarit
-	}
-	2656.1.1 = {
-		holder = character_c_mx_18_acaponeta
-	}
-}
-
-c_mx_25_los_mochis = {
-	2656.1.1 = {
-		holder = character_c_mx_25_los_mochis
+		holder = character_c_los_mochis
 	}
 }
 d_sinaloa = {
 	2000.1.1 = {
-	 liege = k_sinaloa
+	 liege = k_nueva_navarra
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_los_mochis
+		holder = character_c_los_mochis
 	}
 }
 
-c_mx_25_guasave = {
+c_guasave = {
 	2000.1.1 = {
 	 liege = d_sinaloa
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_guasave
+		holder = character_c_guasave
 	}
 }
 
-c_mx_25_guam_chil = {
+c_guamuchil = {
 	2000.1.1 = {
 	 liege = d_sinaloa
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_guam_chil
+		holder = character_c_guamuchil
 	}
 }
 
-c_mx_25_el_fuerte = {
+c_el_fuerte = {
 	2000.1.1 = {
 	 liege = d_sinaloa
 	}
 	2656.1.1 = {
-		holder = character_c_mx_25_el_fuerte
+		holder = character_c_el_fuerte
 	}
 }
 
-c_mx_26_hermosillo = {
+c_hermosillo = {
 	2656.1.1 = {
-		holder = character_c_mx_26_hermosillo
+		holder = character_c_hermosillo
 	}
 }
 d_sonora = {
-	2656.1.1 = {
-		holder = character_c_mx_26_hermosillo
-	}
-}
-k_sonora = {
 	2000.1.1 = {
-	 liege = e_aztlan
+	 liege = k_nueva_navarra
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_hermosillo
+		holder = character_c_hermosillo
 	}
 }
 
-c_mx_26_heroica_guaymas = {
+c_guaymas = {
 	2000.1.1 = {
 	 liege = d_sonora
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_heroica_guaymas
+		holder = character_c_guaymas
 	}
 }
 
-c_mx_26_pesqueira = {
+c_horcasitas = {
 	2000.1.1 = {
 	 liege = d_sonora
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_pesqueira
+		holder = character_c_horcasitas
 	}
 }
 
-c_mx_26_ures = {
+c_ures = {
 	2000.1.1 = {
 	 liege = d_sonora
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_ures
+		holder = character_c_ures
 	}
 }
 
-c_mx_26_obreg_n = {
+c_cajeme = {
 	2656.1.1 = {
-		holder = character_c_mx_26_obreg_n
+		holder = character_c_cajeme
 	}
 }
-d_mx_26_rosario = {
+d_yaqui = {
 	2000.1.1 = {
-	 liege = k_sonora
+	 liege = k_nueva_navarra
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_obreg_n
+		holder = character_c_cajeme
 	}
 }
 
-c_mx_26_navojoa = {
+c_navojoa = {
 	2000.1.1 = {
-	 liege = d_mx_26_rosario
+	 liege = d_yaqui
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_navojoa
+		holder = character_c_navojoa
 	}
 }
 
-c_mx_26_huatabampo = {
+c_huatabampo = {
 	2000.1.1 = {
-	 liege = d_mx_26_rosario
+	 liege = d_yaqui
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_huatabampo
+		holder = character_c_huatabampo
 	}
 }
 
-c_mx_26_sahuaripa = {
+c_sahuaripa = {
 	2000.1.1 = {
-	 liege = d_mx_26_rosario
+	 liege = d_yaqui
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_sahuaripa
+		holder = character_c_sahuaripa
 	}
 }
 
-c_mx_26_nogales = {
+c_ambos_nogales = {
 	2656.1.1 = {
-		holder = character_c_mx_26_nogales
+		holder = character_c_ambos_nogales
 	}
 }
-d_altar = {
+d_caborca = {
 	2000.1.1 = {
-	 liege = k_sonora
+	 liege = k_nueva_navarra
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_nogales
+		holder = character_c_ambos_nogales
 	}
 }
 
-c_mx_26_heroica_caborca = {
+c_caborca = {
 	2000.1.1 = {
-	 liege = d_altar
+	 liege = d_caborca
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_heroica_caborca
+		holder = character_c_caborca
 	}
 }
 
-c_mx_26_puerto_pe_asco = {
+c_gran_altar = {
 	2000.1.1 = {
-	 liege = d_altar
+	 liege = d_caborca
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_puerto_pe_asco
+		holder = character_c_gran_altar
 	}
 }
 
-c_mx_26_santa_ana = {
+c_santa_ana = {
 	2000.1.1 = {
-	 liege = d_altar
+	 liege = d_caborca
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_santa_ana
+		holder = character_c_santa_ana
 	}
 }
 
-c_mx_26_bah_a_de_kino = {
+c_kino = {
 	2000.1.1 = {
-	 liege = d_altar
+	 liege = d_caborca
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_bah_a_de_kino
+		holder = character_c_kino
 	}
 }
 
-c_mx_26_agua_prieta = {
+c_agua_prieta = {
 	2656.1.1 = {
-		holder = character_c_mx_26_agua_prieta
+		holder = character_c_agua_prieta
 	}
 }
-d_mx_26_cananea = {
+d_opata = {
 	2000.1.1 = {
-	 liege = k_sonora
+	 liege = k_nueva_navarra
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_agua_prieta
+		holder = character_c_agua_prieta
 	}
 }
 
-c_mx_26_cananea = {
+c_cananea = {
 	2000.1.1 = {
-	 liege = d_mx_26_cananea
+	 liege = d_opata
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_cananea
+		holder = character_c_cananea
 	}
 }
 
-c_mx_26_nacozari_viejo = {
+c_nacozari = {
 	2000.1.1 = {
-	 liege = d_mx_26_cananea
+	 liege = d_opata
 	}
 	2656.1.1 = {
-		holder = character_c_mx_26_nacozari_viejo
-	}
-}
-
-c_mx_10_victoria_de_durango = {
-	2656.1.1 = {
-		holder = character_c_mx_10_victoria_de_durango
-	}
-}
-d_durango = {
-	2656.1.1 = {
-		holder = character_c_mx_10_victoria_de_durango
-	}
-}
-k_sierra_madre = {
-	2000.1.1 = {
-	 liege = e_aztlan
-	}
-	2656.1.1 = {
-		holder = character_c_mx_10_victoria_de_durango
-	}
-}
-
-c_mx_10_guadalupe_victoria = {
-	2000.1.1 = {
-	 liege = d_durango
-	}
-	2656.1.1 = {
-		holder = character_c_mx_10_guadalupe_victoria
-	}
-}
-
-c_mx_10_el_salto = {
-	2000.1.1 = {
-	 liege = d_durango
-	}
-	2656.1.1 = {
-		holder = character_c_mx_10_el_salto
-	}
-}
-
-c_mx_10_vicente_guerrero = {
-	2000.1.1 = {
-	 liege = d_durango
-	}
-	2656.1.1 = {
-		holder = character_c_mx_10_vicente_guerrero
-	}
-}
-
-c_mx_10_santiago_papasquiaro = {
-	2000.1.1 = {
-	 liege = d_durango
-	}
-	2656.1.1 = {
-		holder = character_c_mx_10_santiago_papasquiaro
-	}
-}
-
-c_mx_10_santa_mar_a_del_oro = {
-	2000.1.1 = {
-	 liege = d_durango
-	}
-	2656.1.1 = {
-		holder = character_c_mx_10_santa_mar_a_del_oro
-	}
-}
-
-c_mx_06_delicias = {
-	2656.1.1 = {
-		holder = character_c_mx_06_delicias
-	}
-}
-d_mx_06_camargo = {
-	2000.1.1 = {
-	 liege = k_sierra_madre
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_delicias
-	}
-}
-
-c_mx_06_parral = {
-	2000.1.1 = {
-	 liege = d_mx_06_camargo
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_parral
-	}
-}
-
-c_mx_06_manuel_ojinaga = {
-	2000.1.1 = {
-	 liege = d_mx_06_camargo
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_manuel_ojinaga
-	}
-}
-
-c_mx_06_jos_mariano_jim_nez = {
-	2000.1.1 = {
-	 liege = d_mx_06_camargo
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_jos_mariano_jim_nez
-	}
-}
-
-c_mx_06_guachochi = {
-	2656.1.1 = {
-		holder = character_c_mx_06_guachochi
-	}
-}
-d_casas_altas = {
-	2000.1.1 = {
-	 liege = k_sierra_madre
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_guachochi
-	}
-}
-
-c_mx_06_madera = {
-	2000.1.1 = {
-	 liege = d_casas_altas
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_madera
-	}
-}
-
-c_mx_06_la_junta = {
-	2000.1.1 = {
-	 liege = d_casas_altas
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_la_junta
-	}
-}
-
-c_mx_06_guadalupe_y_calvo = {
-	2000.1.1 = {
-	 liege = d_casas_altas
-	}
-	2656.1.1 = {
-		holder = character_c_mx_06_guadalupe_y_calvo
+		holder = character_c_nacozari
 	}
 }

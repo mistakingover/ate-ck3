@@ -383,15 +383,6 @@ c_pe_18_cambrune = {
 	}
 }
 
-c_bo_04_chara_a = {
-	2000.1.1 = {
-	 liege = d_vilcanota
-	}
-	2656.1.1 = {
-		holder = character_c_bo_04_chara_a
-	}
-}
-
 c_pe_05_ayacucho = {
 	2656.1.1 = {
 		holder = character_c_pe_05_ayacucho
@@ -543,24 +534,6 @@ c_bo_01_monteagudo = {
 	}
 }
 
-c_bo_07_betanzos = {
-	2000.1.1 = {
-	 liege = d_chuquisaca
-	}
-	2656.1.1 = {
-		holder = character_c_bo_07_betanzos
-	}
-}
-
-c_bo_07_cotagaita = {
-	2000.1.1 = {
-	 liege = d_chuquisaca
-	}
-	2656.1.1 = {
-		holder = character_c_bo_07_cotagaita
-	}
-}
-
 c_bo_08_gutierrez = {
 	2000.1.1 = {
 	 liege = d_chuquisaca
@@ -590,15 +563,6 @@ c_bo_07_potos_ = {
 	}
 	2656.1.1 = {
 		holder = character_c_bo_07_potos_
-	}
-}
-
-c_bo_07_villaz_n = {
-	2000.1.1 = {
-	 liege = d_potosi
-	}
-	2656.1.1 = {
-		holder = character_c_bo_07_villaz_n
 	}
 }
 
@@ -635,6 +599,24 @@ c_bo_07_uyuni = {
 	}
 	2656.1.1 = {
 		holder = character_c_bo_07_uyuni
+	}
+}
+
+c_bo_07_betanzos = {
+	2000.1.1 = {
+	 liege = d_potosi
+	}
+	2656.1.1 = {
+		holder = character_c_bo_07_betanzos
+	}
+}
+
+c_bo_07_cotagaita = {
+	2000.1.1 = {
+	 liege = d_potosi
+	}
+	2656.1.1 = {
+		holder = character_c_bo_07_cotagaita
 	}
 }
 

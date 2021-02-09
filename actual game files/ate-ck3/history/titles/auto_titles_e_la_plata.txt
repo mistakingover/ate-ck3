@@ -133,6 +133,15 @@ c_ar_01_coronel_dorrego = {
 	}
 }
 
+c_ar_01_cristiano_muerto = {
+	2000.1.1 = {
+	 liege = d_blanca
+	}
+	2656.1.1 = {
+		holder = character_c_ar_01_cristiano_muerto
+	}
+}
+
 c_ar_01_olavarr_a = {
 	2656.1.1 = {
 		holder = character_c_ar_01_olavarr_a
@@ -165,12 +174,21 @@ c_ar_01_coronel_su_rez = {
 	}
 }
 
-c_ar_01_cachar_ = {
+c_ar_01_el_parche = {
 	2000.1.1 = {
 	 liege = d_azul
 	}
 	2656.1.1 = {
-		holder = character_c_ar_01_cachar_
+		holder = character_c_ar_01_el_parche
+	}
+}
+
+c_ar_01__lamos = {
+	2000.1.1 = {
+	 liege = d_azul
+	}
+	2656.1.1 = {
+		holder = character_c_ar_01__lamos
 	}
 }
 
@@ -206,30 +224,12 @@ c_ar_01_lincoln = {
 	}
 }
 
-c_ar_01_andant = {
-	2000.1.1 = {
-	 liege = d_junin
-	}
-	2656.1.1 = {
-		holder = character_c_ar_01_andant
-	}
-}
-
 c_ar_01_el_mangrullo = {
 	2000.1.1 = {
 	 liege = d_junin
 	}
 	2656.1.1 = {
 		holder = character_c_ar_01_el_mangrullo
-	}
-}
-
-c_ar_01_bellocq = {
-	2000.1.1 = {
-	 liege = d_junin
-	}
-	2656.1.1 = {
-		holder = character_c_ar_01_bellocq
 	}
 }
 
@@ -247,24 +247,6 @@ d_tandil = {
 	}
 }
 
-c_ar_01_claraz = {
-	2000.1.1 = {
-	 liege = d_tandil
-	}
-	2656.1.1 = {
-		holder = character_c_ar_01_claraz
-	}
-}
-
-c_ar_01_ayacucho = {
-	2000.1.1 = {
-	 liege = d_tandil
-	}
-	2656.1.1 = {
-		holder = character_c_ar_01_ayacucho
-	}
-}
-
 c_ar_01_mercedes = {
 	2656.1.1 = {
 		holder = character_c_ar_01_mercedes
@@ -279,12 +261,12 @@ d_lagunas = {
 	}
 }
 
-c_ar_01_alejandro_peti_n = {
+c_ar_01_francisco_a_berra = {
 	2000.1.1 = {
 	 liege = d_lagunas
 	}
 	2656.1.1 = {
-		holder = character_c_ar_01_alejandro_peti_n
+		holder = character_c_ar_01_francisco_a_berra
 	}
 }
 
@@ -308,6 +290,15 @@ c_ar_01_bonnement = {
 	}
 	2656.1.1 = {
 		holder = character_c_ar_01_bonnement
+	}
+}
+
+c_ar_01_labard_n = {
+	2000.1.1 = {
+	 liege = d_dolores
+	}
+	2656.1.1 = {
+		holder = character_c_ar_01_labard_n
 	}
 }
 
@@ -767,6 +758,15 @@ c_ar_11_quem_quem_ = {
 	}
 }
 
+c_ar_01_berutti = {
+	2000.1.1 = {
+	 liege = d_trenque_lauquen
+	}
+	2656.1.1 = {
+		holder = character_c_ar_01_berutti
+	}
+}
+
 c_ar_11_la_adela = {
 	2656.1.1 = {
 		holder = character_c_ar_11_la_adela
@@ -790,11 +790,11 @@ c_ar_01_hilario_ascasubi = {
 	}
 }
 
-c_ar_01_juan_a_pradere = {
+c_ar_01_bah_a_san_blas = {
 	2000.1.1 = {
 	 liege = d_patagones
 	}
 	2656.1.1 = {
-		holder = character_c_ar_01_juan_a_pradere
+		holder = character_c_ar_01_bah_a_san_blas
 	}
 }

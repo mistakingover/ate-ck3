@@ -19,15 +19,6 @@ e_great_lakes = {
 	}
 }
 
-c_us_il_dupage = {
-	2000.1.1 = {
-	 liege = d_outer_chicagoland
-	}
-	2656.1.1 = {
-		holder = character_c_us_il_dupage
-	}
-}
-
 c_us_il_elgin = {
 	2000.1.1 = {
 	 liege = d_outer_chicagoland
@@ -289,15 +280,6 @@ d_coulee = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_wi_la_crosse
-	}
-}
-
-c_us_il_freeport = {
-	2000.1.1 = {
-	 liege = d_coulee
-	}
-	2656.1.1 = {
-		holder = character_c_us_il_freeport
 	}
 }
 
@@ -975,15 +957,6 @@ c_us_mn_pine_city = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_mn_pine_city
-	}
-}
-
-c_us_mn_silver_bay = {
-	2000.1.1 = {
-	 liege = d_arrowhead
-	}
-	2656.1.1 = {
-		holder = character_c_us_mn_silver_bay
 	}
 }
 

@@ -202,12 +202,12 @@ c_ca_nu_clyde_river = {
 	}
 }
 
-c_ca_nu_nuwata = {
+c_ca_nu_amadjuak = {
 	2000.1.1 = {
 	 liege = d_qikiqtaaluk
 	}
 	2656.1.1 = {
-		holder = character_c_ca_nu_nuwata
+		holder = character_c_ca_nu_amadjuak
 	}
 }
 
@@ -231,15 +231,6 @@ c_ca_nu_kugluktuk = {
 	}
 	2656.1.1 = {
 		holder = character_c_ca_nu_kugluktuk
-	}
-}
-
-c_ca_nt_stanton = {
-	2000.1.1 = {
-	 liege = d_inuvik
-	}
-	2656.1.1 = {
-		holder = character_c_ca_nt_stanton
 	}
 }
 
@@ -316,21 +307,12 @@ c_ca_nu_gjoa_haven = {
 	}
 }
 
-c_ca_nu_gjoa_haven = {
+c_ca_nu_kugaaruk = {
 	2000.1.1 = {
 	 liege = d_kitikmeot
 	}
 	2656.1.1 = {
-		holder = character_c_ca_nu_gjoa_haven
-	}
-}
-
-c_ca_nu_thom_bay = {
-	2000.1.1 = {
-	 liege = d_kitikmeot
-	}
-	2656.1.1 = {
-		holder = character_c_ca_nu_thom_bay
+		holder = character_c_ca_nu_kugaaruk
 	}
 }
 
@@ -348,12 +330,12 @@ d_iglulik = {
 	}
 }
 
-c_ca_nu_hall_beach = {
+c_ca_nu_wager_bay = {
 	2000.1.1 = {
 	 liege = d_iglulik
 	}
 	2656.1.1 = {
-		holder = character_c_ca_nu_hall_beach
+		holder = character_c_ca_nu_wager_bay
 	}
 }
 
@@ -366,9 +348,9 @@ c_ca_nu_igloolik = {
 	}
 }
 
-c_ca_nu_resolute = {
+c_ca_nu_grise_fiord = {
 	2656.1.1 = {
-		holder = character_c_ca_nu_resolute
+		holder = character_c_ca_nu_grise_fiord
 	}
 }
 d_arctic_archipelago = {
@@ -376,7 +358,7 @@ d_arctic_archipelago = {
 	 liege = k_nunavut
 	}
 	2656.1.1 = {
-		holder = character_c_ca_nu_resolute
+		holder = character_c_ca_nu_grise_fiord
 	}
 }
 
@@ -472,30 +454,21 @@ c_ca_qc_rivi_re_koksoak = {
 	}
 }
 
-c_ca_qc_whapmagoostui = {
+c_ca_nu_sanikiluaq = {
 	2000.1.1 = {
 	 liege = d_ungava
 	}
 	2656.1.1 = {
-		holder = character_c_ca_qc_whapmagoostui
+		holder = character_c_ca_nu_sanikiluaq
 	}
 }
 
-c_ca_qc_whapmagoostui = {
+c_ca_qc_inukjuak = {
 	2000.1.1 = {
 	 liege = d_ungava
 	}
 	2656.1.1 = {
-		holder = character_c_ca_qc_whapmagoostui
-	}
-}
-
-c_ca_qc_puvirnituq = {
-	2000.1.1 = {
-	 liege = d_ungava
-	}
-	2656.1.1 = {
-		holder = character_c_ca_qc_puvirnituq
+		holder = character_c_ca_qc_inukjuak
 	}
 }
 
@@ -531,12 +504,12 @@ d_nunatsiavut = {
 	}
 }
 
-c_ca_nl_moores_harbour = {
+c_ca_nl_natuashish = {
 	2000.1.1 = {
 	 liege = d_nunatsiavut
 	}
 	2656.1.1 = {
-		holder = character_c_ca_nl_moores_harbour
+		holder = character_c_ca_nl_natuashish
 	}
 }
 

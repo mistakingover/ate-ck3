@@ -19,24 +19,6 @@ e_gulfcoast = {
 	}
 }
 
-c_us_fl_miami = {
-	2000.1.1 = {
-	 liege = d_miami
-	}
-	2656.1.1 = {
-		holder = character_c_us_fl_miami
-	}
-}
-
-c_us_fl_miami = {
-	2000.1.1 = {
-	 liege = d_miami
-	}
-	2656.1.1 = {
-		holder = character_c_us_fl_miami
-	}
-}
-
 c_us_fl_port_saint_lucie = {
 	2000.1.1 = {
 	 liege = d_miami
@@ -72,15 +54,6 @@ c_tampa = {
 d_suncoast = {
 	2000.1.1 = {
 	 liege = k_florida
-	}
-	2656.1.1 = {
-		holder = character_c_tampa
-	}
-}
-
-c_tampa = {
-	2000.1.1 = {
-	 liege = d_suncoast
 	}
 	2656.1.1 = {
 		holder = character_c_tampa
@@ -163,15 +136,6 @@ c_us_fl_jacksonville = {
 d_first_coast = {
 	2000.1.1 = {
 	 liege = k_florida
-	}
-	2656.1.1 = {
-		holder = character_c_us_fl_jacksonville
-	}
-}
-
-c_us_fl_jacksonville = {
-	2000.1.1 = {
-	 liege = d_first_coast
 	}
 	2656.1.1 = {
 		holder = character_c_us_fl_jacksonville

@@ -814,15 +814,6 @@ d_ferroquadro = {
 	}
 }
 
-c_ouro_preto = {
-	2000.1.1 = {
-	 liege = d_ferroquadro
-	}
-	2656.1.1 = {
-		holder = character_c_ouro_preto
-	}
-}
-
 c_br_15_itabira = {
 	2000.1.1 = {
 	 liege = d_ferroquadro
@@ -1293,15 +1284,6 @@ c_br_08_linhares = {
 d_soorotema = {
 	2000.1.1 = {
 	 liege = k_espirito_santo
-	}
-	2656.1.1 = {
-		holder = character_c_br_08_linhares
-	}
-}
-
-c_br_08_linhares = {
-	2000.1.1 = {
-	 liege = d_soorotema
 	}
 	2656.1.1 = {
 		holder = character_c_br_08_linhares

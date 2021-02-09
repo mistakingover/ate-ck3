@@ -19,15 +19,6 @@ e_dixie = {
 	}
 }
 
-c_us_nc_charlotte = {
-	2000.1.1 = {
-	 liege = d_piedmont_crescent
-	}
-	2656.1.1 = {
-		holder = character_c_us_nc_charlotte
-	}
-}
-
 c_us_nc_greensboro = {
 	2000.1.1 = {
 	 liege = d_piedmont_crescent
@@ -61,15 +52,6 @@ c_us_nc_lenoir = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_nc_lenoir
-	}
-}
-
-c_us_nc_burke = {
-	2000.1.1 = {
-	 liege = d_piedmont_crescent
-	}
-	2656.1.1 = {
-		holder = character_c_us_nc_burke
 	}
 }
 
@@ -333,15 +315,6 @@ d_augusta = {
 	}
 }
 
-c_us_ga_athens = {
-	2000.1.1 = {
-	 liege = d_augusta
-	}
-	2656.1.1 = {
-		holder = character_c_us_ga_athens
-	}
-}
-
 c_us_ga_augusta = {
 	2000.1.1 = {
 	 liege = d_augusta
@@ -366,15 +339,6 @@ c_us_ga_warren = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_ga_warren
-	}
-}
-
-c_us_ga_elberton = {
-	2000.1.1 = {
-	 liege = d_augusta
-	}
-	2656.1.1 = {
-		holder = character_c_us_ga_elberton
 	}
 }
 
@@ -716,30 +680,12 @@ k_palmetto = {
 	}
 }
 
-c_us_sc_pickens = {
-	2000.1.1 = {
-	 liege = d_santee
-	}
-	2656.1.1 = {
-		holder = character_c_us_sc_pickens
-	}
-}
-
 c_us_sc_columbia = {
 	2000.1.1 = {
 	 liege = d_santee
 	}
 	2656.1.1 = {
 		holder = character_c_us_sc_columbia
-	}
-}
-
-c_us_sc_rock_hill = {
-	2000.1.1 = {
-	 liege = d_santee
-	}
-	2656.1.1 = {
-		holder = character_c_us_sc_rock_hill
 	}
 }
 

@@ -60,15 +60,6 @@ d_thunder = {
 	}
 }
 
-c_lakehead = {
-	2000.1.1 = {
-	 liege = d_thunder
-	}
-	2656.1.1 = {
-		holder = character_c_lakehead
-	}
-}
-
 c_greenstone = {
 	2000.1.1 = {
 	 liege = d_thunder
@@ -288,21 +279,26 @@ c_moosonee = {
 	}
 }
 
-c_attawapiskat = {
-	2000.1.1 = {
-	 liege = d_ca_qc_chisasibi
-	}
-	2656.1.1 = {
-		holder = character_c_attawapiskat
-	}
-}
-
 c_ca_on_fort_severn = {
 	2000.1.1 = {
 	 liege = d_ca_qc_chisasibi
 	}
 	2656.1.1 = {
 		holder = character_c_ca_on_fort_severn
+	}
+}
+
+c_attawapiskat = {
+	2656.1.1 = {
+		holder = character_c_attawapiskat
+	}
+}
+d_james_bay = {
+	2000.1.1 = {
+	 liege = k_jamesie
+	}
+	2656.1.1 = {
+		holder = character_c_attawapiskat
 	}
 }
 
@@ -331,6 +327,15 @@ c_paskoyac = {
 	}
 	2656.1.1 = {
 		holder = character_c_paskoyac
+	}
+}
+
+c_ca_mb_moose_lake = {
+	2000.1.1 = {
+	 liege = d_kameesak
+	}
+	2656.1.1 = {
+		holder = character_c_ca_mb_moose_lake
 	}
 }
 
@@ -392,15 +397,6 @@ c_norway_house = {
 d_keewatin = {
 	2000.1.1 = {
 	 liege = k_churchill
-	}
-	2656.1.1 = {
-		holder = character_c_norway_house
-	}
-}
-
-c_norway_house = {
-	2000.1.1 = {
-	 liege = d_keewatin
 	}
 	2656.1.1 = {
 		holder = character_c_norway_house
