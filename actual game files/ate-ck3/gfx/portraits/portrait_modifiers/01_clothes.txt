@@ -2332,4 +2332,75 @@ clothes = {
 			}
 		}
 	}
+	
+	
+############################
+	
+	
+	cowboy_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = clothes
+				template = cowboy_common
+				range = { 0 1 } # For the randomness to work correctly
+			}
+			morph = {
+				mode = modify_multiply
+				gene = gene_bs_bust
+				value = 1.0
+				template = bust_clothes
+			}
+			morph = {
+				mode = modify_multiply
+				gene = gene_bs_body_shape
+				value = 1.0
+				template = body_shape_average_clothed
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 75
+				OR = {
+					portrait_cowboy_clothing_trigger = yes
+					portrait_sa_cowboy_clothing_trigger = yes
+				}
+			}
+		}
+	}
+
+	cowboy_war = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = clothes
+				template = cowboy_war
+				range = { 0 1 } # For the randomness to work correctly
+			}
+			morph = {
+				mode = modify_multiply
+				gene = gene_bs_bust
+				value = 1.0
+				template = bust_clothes
+			}
+			morph = {
+				mode = modify_multiply
+				gene = gene_bs_body_shape
+				value = 1.0
+				template = body_shape_average_clothed
+			}
+		}	
+		weight = {
+			base = 0
+			modifier = {
+				add = 110
+				portrait_wear_armor_trigger = yes
+				OR = {
+					portrait_cowboy_clothing_trigger = yes
+					portrait_sa_cowboy_clothing_trigger = yes
+				}
+			}
+		}
+	}
 }
