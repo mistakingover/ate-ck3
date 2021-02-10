@@ -1,25 +1,9 @@
 character_c_us_il_dupage = {
-	name = "Test"
+	name = Otis
 	religion = "catholic"
 	culture = "motowner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_il_dupage = {
-	name = "Test"
-	religion = "catholic"
-	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +11,11 @@ character_c_us_il_dupage = {
 	}
 }
 character_c_us_il_elgin = {
-	name = "Test"
+	name = Belmont
 	religion = "catholic"
 	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +23,11 @@ character_c_us_il_elgin = {
 	}
 }
 character_c_us_il_rockford = {
-	name = "Test"
+	name = Izaack
 	religion = "catholic"
 	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +35,11 @@ character_c_us_il_rockford = {
 	}
 }
 character_c_us_il_kankakee = {
-	name = "Test"
+	name = Dominick
 	religion = "galvanist"
 	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +47,11 @@ character_c_us_il_kankakee = {
 	}
 }
 character_c_us_il_chicago = {
-	name = "Test"
+	name = Grant
 	religion = "catholic"
 	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +59,11 @@ character_c_us_il_chicago = {
 	}
 }
 character_c_us_wi_milwaukee = {
-	name = "Test"
+	name = Otto
 	religion = "lakeshore"
 	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +71,11 @@ character_c_us_wi_milwaukee = {
 	}
 }
 character_c_us_wi_madison = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +83,11 @@ character_c_us_wi_madison = {
 	}
 }
 character_c_us_wi_appleton = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +95,11 @@ character_c_us_wi_appleton = {
 	}
 }
 character_c_us_wi_sheboygan = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +107,11 @@ character_c_us_wi_sheboygan = {
 	}
 }
 character_c_us_wi_watertown = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +119,11 @@ character_c_us_wi_watertown = {
 	}
 }
 character_c_us_wi_grand_rapids = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +131,11 @@ character_c_us_wi_grand_rapids = {
 	}
 }
 character_c_us_in_indianapolis = {
-	name = "Test"
+	name = Diane
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +143,11 @@ character_c_us_in_indianapolis = {
 	}
 }
 character_c_us_in_muncie = {
-	name = "Test"
+	name = Preston
 	religion = "galvanist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +155,11 @@ character_c_us_in_muncie = {
 	}
 }
 character_c_us_in_kokomo = {
-	name = "Test"
+	name = Jackson
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +167,11 @@ character_c_us_in_kokomo = {
 	}
 }
 character_c_us_in_monroe = {
-	name = "Test"
+	name = Nereus
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +179,11 @@ character_c_us_in_monroe = {
 	}
 }
 character_c_us_il_peoria = {
-	name = "Test"
+	name = Stanford
 	religion = "catholic"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +191,11 @@ character_c_us_il_peoria = {
 	}
 }
 character_c_us_il_springfield = {
-	name = "Test"
+	name = Lewis
 	religion = "catholic"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +203,11 @@ character_c_us_il_springfield = {
 	}
 }
 character_c_us_il_bloomington = {
-	name = "Test"
+	name = Cynthia
 	religion = "catholic"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +215,11 @@ character_c_us_il_bloomington = {
 	}
 }
 character_c_us_il_upper_alton = {
-	name = "Test"
+	name = 
 	religion = "catholic"
 	culture = "gatewayan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +227,11 @@ character_c_us_il_upper_alton = {
 	}
 }
 character_c_us_il_charleston = {
-	name = "Test"
+	name = Lewis
 	religion = "catholic"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +239,11 @@ character_c_us_il_charleston = {
 	}
 }
 character_c_us_il_woodford = {
-	name = "Test"
+	name = Sherod
 	religion = "catholic"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +251,11 @@ character_c_us_il_woodford = {
 	}
 }
 character_c_us_il_champaign = {
-	name = "Test"
+	name = Bentley
 	religion = "catholic"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +263,11 @@ character_c_us_il_champaign = {
 	}
 }
 character_c_us_in_lafayette = {
-	name = "Test"
+	name = Herman
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +275,11 @@ character_c_us_in_lafayette = {
 	}
 }
 character_c_us_in_terre_haute = {
-	name = "Test"
+	name = Gerald
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +287,11 @@ character_c_us_in_terre_haute = {
 	}
 }
 character_c_us_in_cass = {
-	name = "Test"
+	name = Karen
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +299,11 @@ character_c_us_in_cass = {
 	}
 }
 character_c_us_il_rantoul = {
-	name = "Test"
+	name = Ladislaus
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +311,11 @@ character_c_us_il_rantoul = {
 	}
 }
 character_c_us_wi_la_crosse = {
-	name = "Test"
+	name = 
 	religion = "catholic"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,27 +323,11 @@ character_c_us_wi_la_crosse = {
 	}
 }
 character_c_us_il_freeport = {
-	name = "Test"
+	name = Peter
 	religion = "catholic"
 	culture = "heartlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_il_freeport = {
-	name = "Test"
-	religion = "catholic"
-	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +335,11 @@ character_c_us_il_freeport = {
 	}
 }
 character_c_us_wi_baraboo = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +347,11 @@ character_c_us_wi_baraboo = {
 	}
 }
 character_c_us_wi_platteville = {
-	name = "Test"
+	name = 
 	religion = "catholic"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +359,11 @@ character_c_us_wi_platteville = {
 	}
 }
 character_c_us_oh_columbus = {
-	name = "Test"
+	name = Norman
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +371,11 @@ character_c_us_oh_columbus = {
 	}
 }
 character_c_us_oh_akron = {
-	name = "Test"
+	name = Dexter
 	religion = "anabaptist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +383,11 @@ character_c_us_oh_akron = {
 	}
 }
 character_c_us_oh_mansfield = {
-	name = "Test"
+	name = Joan
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +395,11 @@ character_c_us_oh_mansfield = {
 	}
 }
 character_c_us_oh_newark = {
-	name = "Test"
+	name = Hal
 	religion = "anabaptist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +407,11 @@ character_c_us_oh_newark = {
 	}
 }
 character_c_us_oh_cleveland = {
-	name = "Test"
+	name = Marcus
 	religion = "galvanist"
 	culture = "motowner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +419,11 @@ character_c_us_oh_cleveland = {
 	}
 }
 character_c_us_oh_mentor = {
-	name = "Test"
+	name = Dawn
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +431,11 @@ character_c_us_oh_mentor = {
 	}
 }
 character_c_us_oh_cincinnati = {
-	name = "Test"
+	name = Frank
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +443,11 @@ character_c_us_oh_cincinnati = {
 	}
 }
 character_c_us_oh_montgomery = {
-	name = "Test"
+	name = Maynard
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +455,11 @@ character_c_us_oh_montgomery = {
 	}
 }
 character_c_us_oh_lima = {
-	name = "Test"
+	name = Hazard
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +467,11 @@ character_c_us_oh_lima = {
 	}
 }
 character_c_us_oh_springfield = {
-	name = "Test"
+	name = Eileen
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +479,11 @@ character_c_us_oh_springfield = {
 	}
 }
 character_c_us_oh_youngstown = {
-	name = "Test"
+	name = Stanislaus
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +491,11 @@ character_c_us_oh_youngstown = {
 	}
 }
 character_c_us_oh_chillicothe = {
-	name = "Test"
+	name = Pinola
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +503,11 @@ character_c_us_oh_chillicothe = {
 	}
 }
 character_c_us_oh_marietta = {
-	name = "Test"
+	name = Jimmy
 	religion = "galvanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +515,11 @@ character_c_us_oh_marietta = {
 	}
 }
 character_c_us_oh_athens = {
-	name = "Test"
+	name = Webb
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +527,11 @@ character_c_us_oh_athens = {
 	}
 }
 character_c_us_oh_portsmouth = {
-	name = "Test"
+	name = Yadkin
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +539,11 @@ character_c_us_oh_portsmouth = {
 	}
 }
 character_c_us_oh_bowling_green = {
-	name = "Test"
+	name = Ashley
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +551,11 @@ character_c_us_oh_bowling_green = {
 	}
 }
 character_c_us_oh_findlay = {
-	name = "Test"
+	name = Dominick
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +563,11 @@ character_c_us_oh_findlay = {
 	}
 }
 character_c_us_mi_detroit = {
-	name = "Test"
+	name = Isaiah
 	religion = "galvanist"
 	culture = "motowner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +575,11 @@ character_c_us_mi_detroit = {
 	}
 }
 character_c_us_mi_oakland = {
-	name = "Test"
+	name = Roger
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +587,11 @@ character_c_us_mi_oakland = {
 	}
 }
 character_c_us_mi_livonia = {
-	name = "Test"
+	name = Sheila
 	religion = "galvanist"
 	culture = "motowner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +599,11 @@ character_c_us_mi_livonia = {
 	}
 }
 character_c_us_mi_flint = {
-	name = "Test"
+	name = Pete
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +611,11 @@ character_c_us_mi_flint = {
 	}
 }
 character_c_us_mi_ann_arbor = {
-	name = "Test"
+	name = Dorothy
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +623,11 @@ character_c_us_mi_ann_arbor = {
 	}
 }
 character_c_us_mi_port_huron = {
-	name = "Test"
+	name = Cole
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +635,11 @@ character_c_us_mi_port_huron = {
 	}
 }
 character_c_us_in_gary = {
-	name = "Test"
+	name = Wesley
 	religion = "galvanist"
 	culture = "motowner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +647,11 @@ character_c_us_in_gary = {
 	}
 }
 character_c_us_in_fort_wayne = {
-	name = "Test"
+	name = Christian
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +659,11 @@ character_c_us_in_fort_wayne = {
 	}
 }
 character_c_us_in_south_bend = {
-	name = "Test"
+	name = Alexander
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +671,11 @@ character_c_us_in_south_bend = {
 	}
 }
 character_c_us_mi_benton_harbor = {
-	name = "Test"
+	name = John
 	religion = "galvanist"
 	culture = "chicagoan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +683,11 @@ character_c_us_mi_benton_harbor = {
 	}
 }
 character_c_us_mi_grand_rapids = {
-	name = "Test"
+	name = Lazaret
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,13 +695,11 @@ character_c_us_mi_grand_rapids = {
 	}
 }
 character_c_us_mi_kalamazoo = {
-	name = "Test"
+	name = Donald
 	religion = "lakeshore"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -853,13 +707,11 @@ character_c_us_mi_kalamazoo = {
 	}
 }
 character_c_us_mi_muskegon = {
-	name = "Test"
+	name = Charlotte
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +719,11 @@ character_c_us_mi_muskegon = {
 	}
 }
 character_c_us_mi_manistee = {
-	name = "Test"
+	name = Ford
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,13 +731,11 @@ character_c_us_mi_manistee = {
 	}
 }
 character_c_us_mi_lansing = {
-	name = "Test"
+	name = Stanley
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -895,13 +743,11 @@ character_c_us_mi_lansing = {
 	}
 }
 character_c_us_mi_jackson = {
-	name = "Test"
+	name = Cara
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +755,11 @@ character_c_us_mi_jackson = {
 	}
 }
 character_c_us_mi_mount_pleasant = {
-	name = "Test"
+	name = Gybe
 	religion = "galvanist"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +767,11 @@ character_c_us_mi_mount_pleasant = {
 	}
 }
 character_c_us_oh_toledo = {
-	name = "Test"
+	name = Frank
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -937,13 +779,11 @@ character_c_us_oh_toledo = {
 	}
 }
 character_c_us_mi_saginaw = {
-	name = "Test"
+	name = Dorothy
 	religion = "lakeshore"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,13 +791,11 @@ character_c_us_mi_saginaw = {
 	}
 }
 character_c_us_mi_midland = {
-	name = "Test"
+	name = Will
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -965,13 +803,11 @@ character_c_us_mi_midland = {
 	}
 }
 character_c_us_mi_caro = {
-	name = "Test"
+	name = Anders
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -979,13 +815,11 @@ character_c_us_mi_caro = {
 	}
 }
 character_c_us_mi_bay_harbor = {
-	name = "Test"
+	name = Edmund
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -993,13 +827,11 @@ character_c_us_mi_bay_harbor = {
 	}
 }
 character_c_us_mi_traverse_city = {
-	name = "Test"
+	name = Alexander
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1007,13 +839,11 @@ character_c_us_mi_traverse_city = {
 	}
 }
 character_c_us_mi_cadillac = {
-	name = "Test"
+	name = Cyril
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1021,13 +851,11 @@ character_c_us_mi_cadillac = {
 	}
 }
 character_c_us_mi_gaylord = {
-	name = "Test"
+	name = Abram
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1035,13 +863,11 @@ character_c_us_mi_gaylord = {
 	}
 }
 character_c_us_mi_alpena = {
-	name = "Test"
+	name = Casey
 	religion = "lakeshore"
 	culture = "upnorther"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1049,13 +875,11 @@ character_c_us_mi_alpena = {
 	}
 }
 character_c_us_mn_minneapolis = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1063,13 +887,11 @@ character_c_us_mn_minneapolis = {
 	}
 }
 character_c_us_mn_shakopee = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1077,13 +899,11 @@ character_c_us_mn_shakopee = {
 	}
 }
 character_c_us_mn_elk_river = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1091,13 +911,11 @@ character_c_us_mn_elk_river = {
 	}
 }
 character_c_us_wi_green_bay = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1105,13 +923,11 @@ character_c_us_wi_green_bay = {
 	}
 }
 character_c_us_wi_manitowoc = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1119,13 +935,11 @@ character_c_us_wi_manitowoc = {
 	}
 }
 character_c_us_wi_marinette = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1133,13 +947,11 @@ character_c_us_wi_marinette = {
 	}
 }
 character_c_us_wi_shawano = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1147,13 +959,11 @@ character_c_us_wi_shawano = {
 	}
 }
 character_c_us_wi_eau_claire = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1161,13 +971,11 @@ character_c_us_wi_eau_claire = {
 	}
 }
 character_c_us_wi_barron = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1175,13 +983,11 @@ character_c_us_wi_barron = {
 	}
 }
 character_c_us_wi_hayward = {
-	name = "Test"
+	name = 
 	religion = "midewiwin"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1189,13 +995,11 @@ character_c_us_wi_hayward = {
 	}
 }
 character_c_us_wi_wausau = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1203,13 +1007,11 @@ character_c_us_wi_wausau = {
 	}
 }
 character_c_us_wi_wausau = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "uplander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1217,12 +1019,10 @@ character_c_us_wi_wausau = {
 	}
 }
 character_c_us_wi_antigo = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "dairylander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -1231,13 +1031,11 @@ character_c_us_wi_antigo = {
 	}
 }
 character_c_us_mn_duluth = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "northlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1245,13 +1043,11 @@ character_c_us_mn_duluth = {
 	}
 }
 character_c_us_wi_ashland = {
-	name = "Test"
+	name = 
 	religion = "midewiwin"
 	culture = "northlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1259,13 +1055,11 @@ character_c_us_wi_ashland = {
 	}
 }
 character_c_us_mn_hibbing = {
-	name = "Test"
+	name = 
 	religion = "lakeshore"
 	culture = "northlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1273,13 +1067,11 @@ character_c_us_mn_hibbing = {
 	}
 }
 character_c_us_mn_pine_city = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "northlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1287,27 +1079,11 @@ character_c_us_mn_pine_city = {
 	}
 }
 character_c_us_mn_silver_bay = {
-	name = "Test"
+	name = 
 	religion = "viking"
 	culture = "northlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mn_silver_bay = {
-	name = "Test"
-	religion = "viking"
-	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1315,13 +1091,11 @@ character_c_us_mn_silver_bay = {
 	}
 }
 character_c_us_mi_marquette = {
-	name = "Test"
+	name = Gavin
 	religion = "viking"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1329,13 +1103,11 @@ character_c_us_mi_marquette = {
 	}
 }
 character_c_us_mi_escanaba = {
-	name = "Test"
+	name = Martti
 	religion = "viking"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1343,13 +1115,11 @@ character_c_us_mi_escanaba = {
 	}
 }
 character_c_us_mi_munising = {
-	name = "Test"
+	name = Derek
 	religion = "viking"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1357,13 +1127,11 @@ character_c_us_mi_munising = {
 	}
 }
 character_c_us_mi_houghton = {
-	name = "Test"
+	name = Fredrik
 	religion = "lakeshore"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1371,13 +1139,11 @@ character_c_us_mi_houghton = {
 	}
 }
 character_c_us_mi_ironwood = {
-	name = "Test"
+	name = Fredrika
 	religion = "lakeshore"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1385,13 +1151,11 @@ character_c_us_mi_ironwood = {
 	}
 }
 character_c_us_mi_sault_sainte_marie = {
-	name = "Test"
+	name = Jarmo
 	religion = "lakeshore"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1399,13 +1163,11 @@ character_c_us_mi_sault_sainte_marie = {
 	}
 }
 character_c_us_mi_manistique = {
-	name = "Test"
+	name = David
 	religion = "viking"
 	culture = "yooper"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1413,13 +1175,11 @@ character_c_us_mi_manistique = {
 	}
 }
 character_c_us_pa_pittsburgh = {
-	name = "Test"
+	name = Emerick
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1427,13 +1187,11 @@ character_c_us_pa_pittsburgh = {
 	}
 }
 character_c_us_pa_greensburg = {
-	name = "Test"
+	name = Colt
 	religion = "galvanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1441,13 +1199,11 @@ character_c_us_pa_greensburg = {
 	}
 }
 character_c_us_pa_lawrence = {
-	name = "Test"
+	name = Isaac
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1455,13 +1211,11 @@ character_c_us_pa_lawrence = {
 	}
 }
 character_c_us_pa_johnstown = {
-	name = "Test"
+	name = Chuck
 	religion = "galvanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1469,13 +1223,11 @@ character_c_us_pa_johnstown = {
 	}
 }
 character_c_us_pa_dubois = {
-	name = "Test"
+	name = Gilbert
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1483,13 +1235,11 @@ character_c_us_pa_dubois = {
 	}
 }
 character_c_us_ny_buffalo = {
-	name = "Test"
+	name = Giovanni
 	religion = "galvanist"
 	culture = "upstater"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1497,13 +1247,11 @@ character_c_us_ny_buffalo = {
 	}
 }
 character_c_us_pa_erie = {
-	name = "Test"
+	name = Boris
 	religion = "galvanist"
 	culture = "steelfolk"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1511,13 +1259,11 @@ character_c_us_pa_erie = {
 	}
 }
 character_c_us_ny_hamburg = {
-	name = "Test"
+	name = Hasanoanda
 	religion = "galvanist"
 	culture = "iroquois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1525,13 +1271,11 @@ character_c_us_ny_hamburg = {
 	}
 }
 character_c_us_ny_attica = {
-	name = "Test"
+	name = Amenia
 	religion = "galvanist"
 	culture = "upstater"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1539,13 +1283,11 @@ character_c_us_ny_attica = {
 	}
 }
 character_c_us_ny_olean = {
-	name = "Test"
+	name = Horatio
 	religion = "galvanist"
 	culture = "upstater"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1553,13 +1295,11 @@ character_c_us_ny_olean = {
 	}
 }
 character_c_us_pa_shiloh = {
-	name = "Test"
+	name = Vincent
 	religion = "anabaptist"
 	culture = "upstater"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

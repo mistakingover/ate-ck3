@@ -128,12 +128,12 @@ c_ve_02_anaco = {
 	}
 }
 
-c_ve_06_los_frailes = {
+c_ve_02_barrancas = {
 	2000.1.1 = {
 	 liege = d_anzoategui
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_los_frailes
+		holder = character_c_ve_02_barrancas
 	}
 }
 
@@ -160,12 +160,12 @@ c_ve_09_tucupita = {
 	}
 }
 
-c_ve_16_el_cerro_del_chivo = {
+c_ve_16_la = {
 	2000.1.1 = {
 	 liege = d_monagas
 	}
 	2656.1.1 = {
-		holder = character_c_ve_16_el_cerro_del_chivo
+		holder = character_c_ve_16_la
 	}
 }
 
@@ -201,12 +201,12 @@ c_ve_11_chichiriviche = {
 	}
 }
 
-c_ve_11_madre_de_agua = {
+c_ve_11_el_mamito = {
 	2000.1.1 = {
 	 liege = d_falcon
 	}
 	2656.1.1 = {
-		holder = character_c_ve_11_madre_de_agua
+		holder = character_c_ve_11_el_mamito
 	}
 }
 
@@ -279,21 +279,21 @@ c_ve_23_san_carlos_del_zulia = {
 	}
 }
 
-c_ve_14_miraflores = {
+c_ve_14_mesa_esperanza = {
 	2000.1.1 = {
 	 liege = d_zulia
 	}
 	2656.1.1 = {
-		holder = character_c_ve_14_miraflores
+		holder = character_c_ve_14_mesa_esperanza
 	}
 }
 
-c_ve_14_buena_vista = {
+c_ve_23_tive = {
 	2000.1.1 = {
 	 liege = d_zulia
 	}
 	2656.1.1 = {
-		holder = character_c_ve_14_buena_vista
+		holder = character_c_ve_23_tive
 	}
 }
 
@@ -347,12 +347,12 @@ c_co_21_tib_ = {
 	}
 }
 
-c_ve_05_parroquia_puerto_vivas = {
+c_ve_05_parroquia_ram_n_ignacio_m_ndez = {
 	2000.1.1 = {
 	 liege = d_los_andes
 	}
 	2656.1.1 = {
-		holder = character_c_ve_05_parroquia_puerto_vivas
+		holder = character_c_ve_05_parroquia_ram_n_ignacio_m_ndez
 	}
 }
 
@@ -448,21 +448,21 @@ k_zamora = {
 	}
 }
 
-c_ve_03_garcitas = {
+c_ve_05_parroquia_pedro_brice_o_m_ndez = {
 	2000.1.1 = {
 	 liege = d_barinas
 	}
 	2656.1.1 = {
-		holder = character_c_ve_03_garcitas
+		holder = character_c_ve_05_parroquia_pedro_brice_o_m_ndez
 	}
 }
 
-c_ve_05_parroquia_la_uni_n = {
+c_ve_05_parroquia_guadarrama = {
 	2000.1.1 = {
 	 liege = d_barinas
 	}
 	2656.1.1 = {
-		holder = character_c_ve_05_parroquia_la_uni_n
+		holder = character_c_ve_05_parroquia_guadarrama
 	}
 }
 
@@ -475,12 +475,12 @@ c_ve_05_parroquia_andr_s_bello = {
 	}
 }
 
-c_ve_05_parroquia_santa_catalina = {
+c_ve_05_parroquia_sim_n_bol_var = {
 	2000.1.1 = {
 	 liege = d_barinas
 	}
 	2656.1.1 = {
-		holder = character_c_ve_05_parroquia_santa_catalina
+		holder = character_c_ve_05_parroquia_sim_n_bol_var
 	}
 }
 
@@ -548,21 +548,21 @@ c_ve_12_san_juan_de_los_morros = {
 	}
 }
 
-c_ve_04_guayabito = {
+c_ve_04_negra = {
 	2000.1.1 = {
 	 liege = d_calabozo
 	}
 	2656.1.1 = {
-		holder = character_c_ve_04_guayabito
+		holder = character_c_ve_04_negra
 	}
 }
 
-c_ve_12_los_dragos = {
+c_ve_03_la_yagua = {
 	2000.1.1 = {
 	 liege = d_calabozo
 	}
 	2656.1.1 = {
-		holder = character_c_ve_12_los_dragos
+		holder = character_c_ve_03_la_yagua
 	}
 }
 
@@ -598,12 +598,12 @@ c_ve_12_altagracia_de_orituco = {
 	}
 }
 
-c_ve_12_la_veguita = {
+c_ve_03_el_lajero = {
 	2000.1.1 = {
 	 liege = d_guarico
 	}
 	2656.1.1 = {
-		holder = character_c_ve_12_la_veguita
+		holder = character_c_ve_03_el_lajero
 	}
 }
 
@@ -744,12 +744,12 @@ c_ve_03_puerto_infante = {
 	}
 }
 
-c_ve_06_la_ollita = {
+c_ve_03_el_solinero = {
 	2000.1.1 = {
 	 liege = d_apure
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_la_ollita
+		holder = character_c_ve_03_el_solinero
 	}
 }
 
@@ -785,11 +785,11 @@ c_co_31_puerto_carre_o = {
 	}
 }
 
-c_co_31_arebe = {
+c_co_31_puerto_santa_isabel = {
 	2000.1.1 = {
 	 liege = d_vichada
 	}
 	2656.1.1 = {
-		holder = character_c_co_31_arebe
+		holder = character_c_co_31_puerto_santa_isabel
 	}
 }

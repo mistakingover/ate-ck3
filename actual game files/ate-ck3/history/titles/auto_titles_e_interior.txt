@@ -450,6 +450,15 @@ c_ar_17_tartagal = {
 	}
 }
 
+c_bo_07_villaz_n = {
+	2000.1.1 = {
+	 liege = d_salta
+	}
+	2656.1.1 = {
+		holder = character_c_bo_07_villaz_n
+	}
+}
+
 c_ar_17_joaqu_n_v_gonz_lez = {
 	2000.1.1 = {
 	 liege = d_salta
@@ -468,12 +477,12 @@ c_ar_17_san_antonio_de_los_cobres = {
 	}
 }
 
-c_ar_17_el_quimilar = {
+c_ar_17_chaguaral = {
 	2000.1.1 = {
 	 liege = d_salta
 	}
 	2656.1.1 = {
-		holder = character_c_ar_17_el_quimilar
+		holder = character_c_ar_17_chaguaral
 	}
 }
 
@@ -559,12 +568,12 @@ c_ar_19_bajada_nueva = {
 	}
 }
 
-c_ar_13_anc_n = {
+c_ar_13_campo_los_andes = {
 	2000.1.1 = {
 	 liege = d_mendoza
 	}
 	2656.1.1 = {
-		holder = character_c_ar_13_anc_n
+		holder = character_c_ar_13_campo_los_andes
 	}
 }
 
@@ -577,30 +586,39 @@ c_ar_13_jaime_prats = {
 	}
 }
 
-c_ar_13_comandante_salas = {
+c_ar_13_chilecito = {
 	2000.1.1 = {
 	 liege = d_mendoza
 	}
 	2656.1.1 = {
-		holder = character_c_ar_13_comandante_salas
+		holder = character_c_ar_13_chilecito
 	}
 }
 
-c_ar_13_el_algarrobo = {
+c_ar_13_cadetes_de_chile = {
 	2000.1.1 = {
 	 liege = d_mendoza
 	}
 	2656.1.1 = {
-		holder = character_c_ar_13_el_algarrobo
+		holder = character_c_ar_13_cadetes_de_chile
 	}
 }
 
-c_ar_13_arroyito = {
+c_ar_13_el_central = {
 	2000.1.1 = {
 	 liege = d_mendoza
 	}
 	2656.1.1 = {
-		holder = character_c_ar_13_arroyito
+		holder = character_c_ar_13_el_central
+	}
+}
+
+c_ar_13_blanco_encalada = {
+	2000.1.1 = {
+	 liege = d_mendoza
+	}
+	2656.1.1 = {
+		holder = character_c_ar_13_blanco_encalada
 	}
 }
 
@@ -663,12 +681,12 @@ c_ar_12_vinchina = {
 	}
 }
 
-c_ar_18_angualasto = {
+c_ar_18_ba_o_centenario = {
 	2000.1.1 = {
 	 liege = d_san_juan
 	}
 	2656.1.1 = {
-		holder = character_c_ar_18_angualasto
+		holder = character_c_ar_18_ba_o_centenario
 	}
 }
 
@@ -678,15 +696,6 @@ c_ar_12_yegua_quemada = {
 	}
 	2656.1.1 = {
 		holder = character_c_ar_12_yegua_quemada
-	}
-}
-
-c_ar_13_estaci_n_uspallata = {
-	2000.1.1 = {
-	 liege = d_san_juan
-	}
-	2656.1.1 = {
-		holder = character_c_ar_13_estaci_n_uspallata
 	}
 }
 
@@ -790,11 +799,11 @@ c_ar_18_san_agust_n_de_f_rtil = {
 	}
 }
 
-c_ar_12_el_rodeo = {
+c_ar_12_chelcos = {
 	2000.1.1 = {
 	 liege = d_la_rioja
 	}
 	2656.1.1 = {
-		holder = character_c_ar_12_el_rodeo
+		holder = character_c_ar_12_chelcos
 	}
 }

@@ -1,11 +1,9 @@
 character_c_ar_07_buenos_aires = {
-	name = "Test"
+	name = Hector
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_ar_07_buenos_aires = {
 	}
 }
 character_c_ar_01_mor_n = {
-	name = "Test"
+	name = Carlos
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,12 +23,10 @@ character_c_ar_01_mor_n = {
 	}
 }
 character_c_ar_01_jos_c_paz = {
-	name = "Test"
+	name = Francesca
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = yes
 	2600.1.1 = {
 		birth = yes
 	}
@@ -41,13 +35,11 @@ character_c_ar_01_jos_c_paz = {
 	}
 }
 character_c_ar_01_z_rate = {
-	name = "Test"
+	name = Alejandra
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_ar_01_z_rate = {
 	}
 }
 character_c_ar_01_la_plata = {
-	name = "Test"
+	name = Gabriel
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_ar_01_la_plata = {
 	}
 }
 character_c_ar_01__lvarez_jonte = {
-	name = "Test"
+	name = Dinis
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_ar_01__lvarez_jonte = {
 	}
 }
 character_c_ar_01_mar_del_plata = {
-	name = "Test"
+	name = Ulisses
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_ar_01_mar_del_plata = {
 	}
 }
 character_c_ar_01_gesell = {
-	name = "Test"
+	name = Umberto
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_ar_01_gesell = {
 	}
 }
 character_c_ar_01_bah_a_blanca = {
-	name = "Test"
+	name = Donato
 	religion = "gauchada"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_ar_01_bah_a_blanca = {
 	}
 }
 character_c_ar_01_necochea = {
-	name = "Test"
+	name = C_e_act_sar
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +119,11 @@ character_c_ar_01_necochea = {
 	}
 }
 character_c_ar_01_tres_arroyos = {
-	name = "Test"
+	name = Enrico
 	religion = "san_martinean"
 	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,23 @@ character_c_ar_01_tres_arroyos = {
 	}
 }
 character_c_ar_01_coronel_dorrego = {
-	name = "Test"
+	name = Arturo
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_cristiano_muerto = {
+	name = Teod_o_act_sio
+	religion = "san_martinean"
+	culture = "porteno"
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +155,11 @@ character_c_ar_01_coronel_dorrego = {
 	}
 }
 character_c_ar_01_olavarr_a = {
-	name = "Test"
+	name = Virginia
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +167,11 @@ character_c_ar_01_olavarr_a = {
 	}
 }
 character_c_ar_01_azul = {
-	name = "Test"
+	name = Alessandro
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,27 +179,35 @@ character_c_ar_01_azul = {
 	}
 }
 character_c_ar_01_coronel_su_rez = {
-	name = "Test"
+	name = Girolamo
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ar_01_cachar_ = {
-	name = "Test"
+character_c_ar_01_el_parche = {
+	name = Beatrix
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01__lamos = {
+	name = Fillippo
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +215,11 @@ character_c_ar_01_cachar_ = {
 	}
 }
 character_c_ar_01_nueve_de_julio = {
-	name = "Test"
+	name = Facundo
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +227,11 @@ character_c_ar_01_nueve_de_julio = {
 	}
 }
 character_c_ar_01_chivilcoy = {
-	name = "Test"
+	name = U_act_rsula
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,27 +239,11 @@ character_c_ar_01_chivilcoy = {
 	}
 }
 character_c_ar_01_lincoln = {
-	name = "Test"
+	name = Alfonso
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_andant = {
-	name = "Test"
-	religion = "gauchada"
-	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,27 +251,11 @@ character_c_ar_01_andant = {
 	}
 }
 character_c_ar_01_el_mangrullo = {
-	name = "Test"
+	name = Herberto
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_bellocq = {
-	name = "Test"
-	religion = "gauchada"
-	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,41 +263,11 @@ character_c_ar_01_bellocq = {
 	}
 }
 character_c_ar_01_tandil = {
-	name = "Test"
+	name = Costantino
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_claraz = {
-	name = "Test"
-	religion = "san_martinean"
-	culture = "porteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_ayacucho = {
-	name = "Test"
-	religion = "san_martinean"
-	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,27 +275,23 @@ character_c_ar_01_ayacucho = {
 	}
 }
 character_c_ar_01_mercedes = {
-	name = "Test"
+	name = Vittorio
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ar_01_alejandro_peti_n = {
-	name = "Test"
+character_c_ar_01_francisco_a_berra = {
+	name = Susana
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +299,11 @@ character_c_ar_01_alejandro_peti_n = {
 	}
 }
 character_c_ar_01_dolores = {
-	name = "Test"
+	name = Dante
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +311,23 @@ character_c_ar_01_dolores = {
 	}
 }
 character_c_ar_01_bonnement = {
-	name = "Test"
+	name = Enio
 	religion = "san_martinean"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_labard_n = {
+	name = Salvatore
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,12 +335,10 @@ character_c_ar_01_bonnement = {
 	}
 }
 character_c_uy_10_montevideo = {
-	name = "Test"
+	name = Luis
 	religion = "bandean"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -419,13 +347,11 @@ character_c_uy_10_montevideo = {
 	}
 }
 character_c_uy_04_del_sacramento = {
-	name = "Test"
+	name = M_o_act_nica
 	religion = "bandean"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +359,11 @@ character_c_uy_04_del_sacramento = {
 	}
 }
 character_c_uy_16_san_jos_de_mayo = {
-	name = "Test"
+	name = Tamara
 	religion = "bandean"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +371,11 @@ character_c_uy_16_san_jos_de_mayo = {
 	}
 }
 character_c_uy_06_trinidad = {
-	name = "Test"
+	name = Santiago
 	religion = "bandean"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +383,11 @@ character_c_uy_06_trinidad = {
 	}
 }
 character_c_br_23_santana_do_livramento = {
-	name = "Test"
+	name = Jorge
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +395,11 @@ character_c_br_23_santana_do_livramento = {
 	}
 }
 character_c_uy_05_durazno = {
-	name = "Test"
+	name = Alba
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +407,11 @@ character_c_uy_05_durazno = {
 	}
 }
 character_c_uy_03_melo = {
-	name = "Test"
+	name = Jos_e_act__Mar_i_act_a
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +419,11 @@ character_c_uy_03_melo = {
 	}
 }
 character_c_br_23_jaguar_o = {
-	name = "Test"
+	name = Jos_e_act__Mar_i_act_a
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +431,11 @@ character_c_br_23_jaguar_o = {
 	}
 }
 character_c_uy_19_treinta_y_tres = {
-	name = "Test"
+	name = Segundo
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +443,11 @@ character_c_uy_19_treinta_y_tres = {
 	}
 }
 character_c_uy_18_paso_de_los_toros = {
-	name = "Test"
+	name = Pilar
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +455,11 @@ character_c_uy_18_paso_de_los_toros = {
 	}
 }
 character_c_uy_18_curtina = {
-	name = "Test"
+	name = In_e_act_s
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +467,11 @@ character_c_uy_18_curtina = {
 	}
 }
 character_c_uy_15_salto = {
-	name = "Test"
+	name = Ignacio
 	religion = "peace_church"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +479,11 @@ character_c_uy_15_salto = {
 	}
 }
 character_c_uy_11_paysand_ = {
-	name = "Test"
+	name = Rostislava
 	religion = "byzantine_rite"
 	culture = "ruteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +491,11 @@ character_c_uy_11_paysand_ = {
 	}
 }
 character_c_uy_17_mercedes = {
-	name = "Test"
+	name = Miguel
 	religion = "bandean"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +503,11 @@ character_c_uy_17_mercedes = {
 	}
 }
 character_c_uy_12_fray_bentos = {
-	name = "Test"
+	name = Demid
 	religion = "byzantine_rite"
 	culture = "ruteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +515,11 @@ character_c_uy_12_fray_bentos = {
 	}
 }
 character_c_uy_09_maldonado = {
-	name = "Test"
+	name = Conrado
 	religion = "pirrimano"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +527,11 @@ character_c_uy_09_maldonado = {
 	}
 }
 character_c_uy_14_rocha = {
-	name = "Test"
+	name = Cristina
 	religion = "bandean"
 	culture = "urbuguayo"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +539,11 @@ character_c_uy_14_rocha = {
 	}
 }
 character_c_ar_08_paran_ = {
-	name = "Test"
+	name = Gervasio
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +551,11 @@ character_c_ar_08_paran_ = {
 	}
 }
 character_c_ar_08_concordia = {
-	name = "Test"
+	name = Lautaro
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +563,11 @@ character_c_ar_08_concordia = {
 	}
 }
 character_c_ar_08_gualeguaych_ = {
-	name = "Test"
+	name = Miguel
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +575,11 @@ character_c_ar_08_gualeguaych_ = {
 	}
 }
 character_c_ar_08_concepci_n_del_uruguay = {
-	name = "Test"
+	name = Laurencio
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +587,11 @@ character_c_ar_08_concepci_n_del_uruguay = {
 	}
 }
 character_c_ar_08_chajar_ = {
-	name = "Test"
+	name = Juan_Manuel
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +599,11 @@ character_c_ar_08_chajar_ = {
 	}
 }
 character_c_ar_08_victoria = {
-	name = "Test"
+	name = Nahir
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +611,11 @@ character_c_ar_08_victoria = {
 	}
 }
 character_c_ar_08_federal = {
-	name = "Test"
+	name = Alejandro
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +623,11 @@ character_c_ar_08_federal = {
 	}
 }
 character_c_ar_14_posadas = {
-	name = "Test"
+	name = mbya_placeholder_mnames
 	religion = "particularist"
 	culture = "mbya"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +635,11 @@ character_c_ar_14_posadas = {
 	}
 }
 character_c_ar_14_ober_ = {
-	name = "Test"
+	name = mbya_placeholder_mnames
 	religion = "particularist"
 	culture = "mbya"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +647,11 @@ character_c_ar_14_ober_ = {
 	}
 }
 character_c_ar_14_san_vicente = {
-	name = "Test"
+	name = mbya_placeholder_mnames
 	religion = "particularist"
 	culture = "mbya"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +659,11 @@ character_c_ar_14_san_vicente = {
 	}
 }
 character_c_ar_14_puerto_esperanza = {
-	name = "Test"
+	name = mbya_placeholder_mnames
 	religion = "valente"
 	culture = "mbya"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +671,11 @@ character_c_ar_14_puerto_esperanza = {
 	}
 }
 character_c_br_23_uruguaiana = {
-	name = "Test"
+	name = Javier
 	religion = "particularist"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +683,11 @@ character_c_br_23_uruguaiana = {
 	}
 }
 character_c_ar_06_goya = {
-	name = "Test"
+	name = Carolina
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +695,11 @@ character_c_ar_06_goya = {
 	}
 }
 character_c_ar_06_san_lorenzo = {
-	name = "Test"
+	name = Franco
 	religion = "san_martinean"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,13 +707,11 @@ character_c_ar_06_san_lorenzo = {
 	}
 }
 character_c_br_23_itaqui = {
-	name = "Test"
+	name = Horacio
 	religion = "particularist"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -853,13 +719,11 @@ character_c_br_23_itaqui = {
 	}
 }
 character_c_ar_06_gobernador_virasora = {
-	name = "Test"
+	name = mbya_placeholder_mnames
 	religion = "particularist"
 	culture = "mbya"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +731,11 @@ character_c_ar_06_gobernador_virasora = {
 	}
 }
 character_c_ar_06_san_luis_del_palmar = {
-	name = "Test"
+	name = Juan_Cruz
 	religion = "particularist"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,12 +743,10 @@ character_c_ar_06_san_luis_del_palmar = {
 	}
 }
 character_c_ar_06_mburucuy_ = {
-	name = "Test"
+	name = Luis
 	religion = "particularist"
 	culture = "litoraleno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -895,13 +755,11 @@ character_c_ar_06_mburucuy_ = {
 	}
 }
 character_c_ar_11_santa_rosa = {
-	name = "Test"
+	name = Dinis
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +767,11 @@ character_c_ar_11_santa_rosa = {
 	}
 }
 character_c_ar_11_guatrach_ = {
-	name = "Test"
+	name = Giovanni
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +779,11 @@ character_c_ar_11_guatrach_ = {
 	}
 }
 character_c_ar_11_general_acha = {
-	name = "Test"
+	name = Dolores
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -937,13 +791,11 @@ character_c_ar_11_general_acha = {
 	}
 }
 character_c_ar_11_victorica = {
-	name = "Test"
+	name = Benedetto
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,13 +803,11 @@ character_c_ar_11_victorica = {
 	}
 }
 character_c_ar_11_jacinto_arauz = {
-	name = "Test"
+	name = Ignacio
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -965,13 +815,11 @@ character_c_ar_11_jacinto_arauz = {
 	}
 }
 character_c_ar_11_general_pico = {
-	name = "Test"
+	name = H_e_act_ctor
 	religion = "theosophist"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -979,13 +827,11 @@ character_c_ar_11_general_pico = {
 	}
 }
 character_c_ar_05_huinca_renanc_ = {
-	name = "Test"
+	name = Dante
 	religion = "theosophist"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -993,13 +839,11 @@ character_c_ar_05_huinca_renanc_ = {
 	}
 }
 character_c_ar_01_general_villegas = {
-	name = "Test"
+	name = Girolamo
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1007,13 +851,23 @@ character_c_ar_01_general_villegas = {
 	}
 }
 character_c_ar_11_quem_quem_ = {
-	name = "Test"
+	name = Umberto
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_berutti = {
+	name = Ra_u_act_l
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1021,13 +875,11 @@ character_c_ar_11_quem_quem_ = {
 	}
 }
 character_c_ar_11_la_adela = {
-	name = "Test"
+	name = Edmundo
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1035,27 +887,23 @@ character_c_ar_11_la_adela = {
 	}
 }
 character_c_ar_01_hilario_ascasubi = {
-	name = "Test"
+	name = Enrico
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ar_01_juan_a_pradere = {
-	name = "Test"
+character_c_ar_01_bah_a_san_blas = {
+	name = Hans
 	religion = "gauchada"
 	culture = "pampeano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

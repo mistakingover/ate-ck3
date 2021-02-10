@@ -579,15 +579,6 @@ d_clearwater = {
 	}
 }
 
-c_us_mt_butte_silver_bow = {
-	2000.1.1 = {
-	 liege = d_clearwater
-	}
-	2656.1.1 = {
-		holder = character_c_us_mt_butte_silver_bow
-	}
-}
-
 c_us_id_coeur_d_alene = {
 	2000.1.1 = {
 	 liege = d_clearwater
@@ -811,6 +802,15 @@ c_ca_bc_oliver = {
 	}
 }
 
+c_ca_bc_merritt = {
+	2000.1.1 = {
+	 liege = d_okanagan
+	}
+	2656.1.1 = {
+		holder = character_c_ca_bc_merritt
+	}
+}
+
 c_similkameen = {
 	2000.1.1 = {
 	 liege = d_okanagan
@@ -861,6 +861,15 @@ c_kokanee = {
 	}
 }
 
+c_selkirk = {
+	2000.1.1 = {
+	 liege = d_kootenay
+	}
+	2656.1.1 = {
+		holder = character_c_selkirk
+	}
+}
+
 c_yoho = {
 	2000.1.1 = {
 	 liege = d_kootenay
@@ -899,24 +908,6 @@ c_robson = {
 	}
 	2656.1.1 = {
 		holder = character_c_robson
-	}
-}
-
-c_robson = {
-	2000.1.1 = {
-	 liege = d_omineca
-	}
-	2656.1.1 = {
-		holder = character_c_robson
-	}
-}
-
-c_nechako = {
-	2000.1.1 = {
-	 liege = d_omineca
-	}
-	2656.1.1 = {
-		holder = character_c_nechako
 	}
 }
 
@@ -1008,14 +999,5 @@ c_boundary = {
 	}
 	2656.1.1 = {
 		holder = character_c_boundary
-	}
-}
-
-c_selkirk = {
-	2000.1.1 = {
-	 liege = d_monashee
-	}
-	2656.1.1 = {
-		holder = character_c_selkirk
 	}
 }

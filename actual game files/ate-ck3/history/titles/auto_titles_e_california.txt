@@ -539,122 +539,122 @@ c_us_ca_orland = {
 	}
 }
 
-c_mx_02_tijuana = {
+c_tijuana = {
 	2656.1.1 = {
-		holder = character_c_mx_02_tijuana
+		holder = character_c_tijuana
 	}
 }
-d_baja = {
+d_baja_california = {
 	2656.1.1 = {
-		holder = character_c_mx_02_tijuana
+		holder = character_c_tijuana
 	}
 }
-k_baja_california = {
+k_las_bajas = {
 	2000.1.1 = {
 	 liege = e_california
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_tijuana
+		holder = character_c_tijuana
 	}
 }
 
-c_mx_02_ensenada = {
+c_ensenada = {
 	2000.1.1 = {
-	 liege = d_baja
+	 liege = d_baja_california
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_ensenada
+		holder = character_c_ensenada
 	}
 }
 
-c_mx_02_l_zaro_c_rdenas = {
+c_san_quintin = {
 	2000.1.1 = {
-	 liege = d_baja
+	 liege = d_baja_california
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_l_zaro_c_rdenas
+		holder = character_c_san_quintin
 	}
 }
 
-c_mx_02_san_felipe = {
+c_san_pedro_martir = {
 	2000.1.1 = {
-	 liege = d_baja
+	 liege = d_baja_california
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_san_felipe
+		holder = character_c_san_pedro_martir
 	}
 }
 
-c_mx_02_san_luis = {
+c_los_cirios = {
 	2000.1.1 = {
-	 liege = d_baja
+	 liege = d_baja_california
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_san_luis
+		holder = character_c_los_cirios
 	}
 }
 
-c_mx_02_mexicali = {
+c_mexicali = {
 	2656.1.1 = {
-		holder = character_c_mx_02_mexicali
+		holder = character_c_mexicali
 	}
 }
-d_ensenada = {
+d_mexicali = {
 	2000.1.1 = {
-	 liege = k_baja_california
+	 liege = k_las_bajas
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_mexicali
+		holder = character_c_mexicali
 	}
 }
 
-c_mx_03_la_paz = {
+c_la_paz = {
 	2656.1.1 = {
-		holder = character_c_mx_03_la_paz
+		holder = character_c_la_paz
 	}
 }
 d_baja_sur = {
 	2000.1.1 = {
-	 liege = k_baja_california
+	 liege = k_las_bajas
 	}
 	2656.1.1 = {
-		holder = character_c_mx_03_la_paz
+		holder = character_c_la_paz
 	}
 }
 
-c_mx_03_san_jos_del_cabo = {
+c_los_cabos = {
 	2000.1.1 = {
 	 liege = d_baja_sur
 	}
 	2656.1.1 = {
-		holder = character_c_mx_03_san_jos_del_cabo
+		holder = character_c_los_cabos
 	}
 }
 
-c_mx_03_constituci_n = {
+c_comondu = {
 	2000.1.1 = {
 	 liege = d_baja_sur
 	}
 	2656.1.1 = {
-		holder = character_c_mx_03_constituci_n
+		holder = character_c_comondu
 	}
 }
 
-c_mx_02_guerrero_negro = {
+c_el_vizcaino = {
 	2000.1.1 = {
 	 liege = d_baja_sur
 	}
 	2656.1.1 = {
-		holder = character_c_mx_02_guerrero_negro
+		holder = character_c_el_vizcaino
 	}
 }
 
-c_mx_03_santa_rosal_a = {
+c_mulege = {
 	2000.1.1 = {
 	 liege = d_baja_sur
 	}
 	2656.1.1 = {
-		holder = character_c_mx_03_santa_rosal_a
+		holder = character_c_mulege
 	}
 }
 
@@ -999,24 +999,6 @@ c_us_nv_fallon = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_nv_fallon
-	}
-}
-
-c_us_nv_fallon = {
-	2000.1.1 = {
-	 liege = d_us_nv_churchill
-	}
-	2656.1.1 = {
-		holder = character_c_us_nv_fallon
-	}
-}
-
-c_us_nv_ely = {
-	2000.1.1 = {
-	 liege = d_us_nv_churchill
-	}
-	2656.1.1 = {
-		holder = character_c_us_nv_ely
 	}
 }
 

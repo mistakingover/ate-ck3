@@ -1,11 +1,9 @@
 character_c_tarrant = {
-	name = "Test"
+	name = Tessie
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_tarrant = {
 	}
 }
 character_c_dallas = {
-	name = "Test"
+	name = Abner
 	religion = "americanist"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_dallas = {
 	}
 }
 character_c_us_tx_plano = {
-	name = "Test"
+	name = Bragorus
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_us_tx_plano = {
 	}
 }
 character_c_us_tx_killeen = {
-	name = "Test"
+	name = Josh
 	religion = "americanist"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_us_tx_killeen = {
 	}
 }
 character_c_tyler = {
-	name = "Test"
+	name = Weston
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_tyler = {
 	}
 }
 character_c_waxahachie = {
-	name = "Test"
+	name = Austin
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_waxahachie = {
 	}
 }
 character_c_mclennan = {
-	name = "Test"
+	name = Floyd
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_mclennan = {
 	}
 }
 character_c_us_tx_stephenville = {
-	name = "Test"
+	name = Jack
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_us_tx_stephenville = {
 	}
 }
 character_c_brownwood = {
-	name = "Test"
+	name = Bobby
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_brownwood = {
 	}
 }
 character_c_harris = {
-	name = "Test"
+	name = Nichole
 	religion = "americanist"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +119,11 @@ character_c_harris = {
 	}
 }
 character_c_sabine = {
-	name = "Test"
+	name = Rigel
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,11 @@ character_c_sabine = {
 	}
 }
 character_c_matagorda = {
-	name = "Test"
+	name = Holmes
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +143,11 @@ character_c_matagorda = {
 	}
 }
 character_c_brazos = {
-	name = "Test"
+	name = Hadley
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +155,11 @@ character_c_brazos = {
 	}
 }
 character_c_us_tx_brenham = {
-	name = "Test"
+	name = Clay
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +167,11 @@ character_c_us_tx_brenham = {
 	}
 }
 character_c_colorado = {
-	name = "Test"
+	name = Cooper
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +179,11 @@ character_c_colorado = {
 	}
 }
 character_c_travis = {
-	name = "Test"
+	name = Emmett
 	religion = "americanist"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,27 +191,11 @@ character_c_travis = {
 	}
 }
 character_c_comal = {
-	name = "Test"
+	name = Heinrich
 	religion = "catholic"
 	culture = "texaner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_comal = {
-	name = "Test"
-	religion = "americanist"
-	culture = "texaner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +203,11 @@ character_c_comal = {
 	}
 }
 character_c_concho = {
-	name = "Test"
+	name = Ross
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +215,11 @@ character_c_concho = {
 	}
 }
 character_c_us_tx_kyle = {
-	name = "Test"
+	name = Dan
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +227,11 @@ character_c_us_tx_kyle = {
 	}
 }
 character_c_kerr = {
-	name = "Test"
+	name = Anselm
 	religion = "catholic"
 	culture = "texaner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +239,11 @@ character_c_kerr = {
 	}
 }
 character_c_san_saba = {
-	name = "Test"
+	name = Marcus
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +251,11 @@ character_c_san_saba = {
 	}
 }
 character_c_livermore = {
-	name = "Test"
+	name = Burchard
 	religion = "catholic"
 	culture = "texaner"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +263,11 @@ character_c_livermore = {
 	}
 }
 character_c_us_la_shreveport = {
-	name = "Test"
+	name = Johnny
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +275,11 @@ character_c_us_la_shreveport = {
 	}
 }
 character_c_texarkana = {
-	name = "Test"
+	name = Nichole
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +287,11 @@ character_c_texarkana = {
 	}
 }
 character_c_grayson = {
-	name = "Test"
+	name = Libby
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +299,11 @@ character_c_grayson = {
 	}
 }
 character_c_titus = {
-	name = "Test"
+	name = Garett
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +311,11 @@ character_c_titus = {
 	}
 }
 character_c_beaumont = {
-	name = "Test"
+	name = Burkeman
 	religion = "catholic"
 	culture = "cajun"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +323,11 @@ character_c_beaumont = {
 	}
 }
 character_c_san_jacinto = {
-	name = "Test"
+	name = Rob
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +335,11 @@ character_c_san_jacinto = {
 	}
 }
 character_c_el_paso = {
-	name = "Test"
+	name = Mirabeau
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +347,11 @@ character_c_el_paso = {
 	}
 }
 character_c_us_tx_nacogdoches = {
-	name = "Test"
+	name = Sam
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +359,11 @@ character_c_us_tx_nacogdoches = {
 	}
 }
 character_c_us_tx_lumberton = {
-	name = "Test"
+	name = Lantry
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +371,11 @@ character_c_us_tx_lumberton = {
 	}
 }
 character_c_duval = {
-	name = "Test"
+	name = Aurora
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +383,11 @@ character_c_duval = {
 	}
 }
 character_c_us_tx_jasper = {
-	name = "Test"
+	name = Norma
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +395,11 @@ character_c_us_tx_jasper = {
 	}
 }
 character_c_us_ok_oklahoma_city = {
-	name = "Test"
+	name = Wesley
 	religion = "catholic"
 	culture = "okie"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +407,11 @@ character_c_us_ok_oklahoma_city = {
 	}
 }
 character_c_us_ok_stillwater = {
-	name = "Test"
+	name = Mahp_i_act_ya_H_e_act_
 	religion = "catholic"
 	culture = "lakota"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +419,11 @@ character_c_us_ok_stillwater = {
 	}
 }
 character_c_us_ok_enid = {
-	name = "Test"
+	name = Mike
 	religion = "catholic"
 	culture = "okie"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +431,11 @@ character_c_us_ok_enid = {
 	}
 }
 character_c_us_ok_osage = {
-	name = "Test"
+	name = Math_o_act__N_a_act__z_crn_i_eng_
 	religion = "catholic"
 	culture = "lakota"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +443,11 @@ character_c_us_ok_osage = {
 	}
 }
 character_c_us_nm_albuquerque = {
-	name = "Test"
+	name = Baptiste
 	religion = "dustrider"
 	culture = "neomexicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +455,11 @@ character_c_us_nm_albuquerque = {
 	}
 }
 character_c_us_nm_santa_fe = {
-	name = "Test"
+	name = Apash
 	religion = "atomicist"
 	culture = "neomexicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +467,11 @@ character_c_us_nm_santa_fe = {
 	}
 }
 character_c_us_nm_clovis = {
-	name = "Test"
+	name = Dave
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +479,11 @@ character_c_us_nm_clovis = {
 	}
 }
 character_c_us_nm_taos = {
-	name = "Test"
+	name = Moyle
 	religion = "atomicist"
 	culture = "neomexicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +491,11 @@ character_c_us_nm_taos = {
 	}
 }
 character_c_us_nm_edgewood = {
-	name = "Test"
+	name = Gallatin
 	religion = "dustrider"
 	culture = "neomexicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +503,11 @@ character_c_us_nm_edgewood = {
 	}
 }
 character_c_us_nm_ruidoso = {
-	name = "Test"
+	name = Kletha
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +515,11 @@ character_c_us_nm_ruidoso = {
 	}
 }
 character_c_us_nm_tucumcari = {
-	name = "Test"
+	name = Boyd
 	religion = "dustrider"
 	culture = "neomexicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +527,11 @@ character_c_us_nm_tucumcari = {
 	}
 }
 character_c_us_nm_logan = {
-	name = "Test"
+	name = Alice
 	religion = "dustrider"
 	culture = "neomexicano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +539,11 @@ character_c_us_nm_logan = {
 	}
 }
 character_c_us_nm_tokay = {
-	name = "Test"
+	name = Greg
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +551,11 @@ character_c_us_nm_tokay = {
 	}
 }
 character_c_lubbock = {
-	name = "Test"
+	name = Sonny
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +563,11 @@ character_c_lubbock = {
 	}
 }
 character_c_petroplex = {
-	name = "Test"
+	name = Elrod
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +575,11 @@ character_c_petroplex = {
 	}
 }
 character_c_dal_paso = {
-	name = "Test"
+	name = Emory
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +587,11 @@ character_c_dal_paso = {
 	}
 }
 character_c_wichita_falls = {
-	name = "Test"
+	name = Hiram
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +599,11 @@ character_c_wichita_falls = {
 	}
 }
 character_c_abilene = {
-	name = "Test"
+	name = Emory
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +611,11 @@ character_c_abilene = {
 	}
 }
 character_c_possum = {
-	name = "Test"
+	name = Wheeler
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +623,11 @@ character_c_possum = {
 	}
 }
 character_c_childress = {
-	name = "Test"
+	name = Bill
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +635,11 @@ character_c_childress = {
 	}
 }
 character_c_amarillo = {
-	name = "Test"
+	name = Dorie
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +647,11 @@ character_c_amarillo = {
 	}
 }
 character_c_us_tx_dumas = {
-	name = "Test"
+	name = Bobby
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +659,11 @@ character_c_us_tx_dumas = {
 	}
 }
 character_c_plainview = {
-	name = "Test"
+	name = Weldon
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +671,11 @@ character_c_plainview = {
 	}
 }
 character_c_hobbs = {
-	name = "Test"
+	name = Squire
 	religion = "catholic"
 	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +683,11 @@ character_c_hobbs = {
 	}
 }
 character_c_us_nm_las_cruces = {
-	name = "Test"
+	name = Diego
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +695,11 @@ character_c_us_nm_las_cruces = {
 	}
 }
 character_c_us_nm_roswell = {
-	name = "Test"
+	name = Elzy
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,13 +707,11 @@ character_c_us_nm_roswell = {
 	}
 }
 character_c_us_nm_alamogordo = {
-	name = "Test"
+	name = Boone
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -853,13 +719,11 @@ character_c_us_nm_alamogordo = {
 	}
 }
 character_c_us_nm_carlsbad = {
-	name = "Test"
+	name = Emory
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +731,11 @@ character_c_us_nm_carlsbad = {
 	}
 }
 character_c_us_ok_lawton = {
-	name = "Test"
+	name = Huupi-pahati
 	religion = "catholic"
 	culture = "comanche"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,13 +743,11 @@ character_c_us_ok_lawton = {
 	}
 }
 character_c_us_ok_washita = {
-	name = "Test"
+	name = Henry
 	religion = "catholic"
 	culture = "cheyenne"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -895,13 +755,11 @@ character_c_us_ok_washita = {
 	}
 }
 character_c_us_ok_altus = {
-	name = "Test"
+	name = Kiyou
 	religion = "catholic"
 	culture = "comanche"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +767,11 @@ character_c_us_ok_altus = {
 	}
 }
 character_c_us_ok_woodward = {
-	name = "Test"
+	name = T_pst_la-yub
 	religion = "catholic"
 	culture = "okie"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +779,167 @@ character_c_us_ok_woodward = {
 	}
 }
 character_c_us_ok_guymon = {
-	name = "Test"
+	name = Bill
 	religion = "catholic"
 	culture = "okie"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bexar = {
+	name = Santos
+	religion = "americanist"
+	culture = "tejano"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uvalde = {
+	name = Joel
+	religion = "catholic"
+	culture = "tejano"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_maverick = {
+	name = F_e_act_lix
+	religion = "santa_muerte"
+	culture = "tejano"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_starr = {
+	name = Jesse
+	religion = "santa_muerte"
+	culture = "tejano"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cameron = {
+	name = Ra_u_act_l
+	religion = "santa_muerte"
+	culture = "tejano"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_nueces = {
+	name = Roberto
+	religion = "americanist"
+	culture = "tejano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_goliad = {
+	name = Dorie
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_live_oak = {
+	name = Antonio
+	religion = "americanist"
+	culture = "tejano"
+	female = no
 	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_webb = {
+	name = Tim
+	religion = "guadalupan"
+	culture = "tejano"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_pecos = {
+	name = Lydia
+	religion = "dustrider"
+	culture = "tejano"
+	female = yes
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_big_bend = {
+	name = Andr_e_act_s
+	religion = "dustrider"
+	culture = "tejano"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_fort_stockton = {
+	name = Federico
+	religion = "dustrider"
+	culture = "tejano"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_val_verde = {
+	name = Daniela
+	religion = "catholic"
+	culture = "tejano"
+	female = yes
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

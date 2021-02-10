@@ -119,15 +119,6 @@ c_lanark = {
 	}
 }
 
-c_lanark = {
-	2000.1.1 = {
-	 liege = d_rideau
-	}
-	2656.1.1 = {
-		holder = character_c_lanark
-	}
-}
-
 c_middlesex = {
 	2656.1.1 = {
 		holder = character_c_middlesex
@@ -974,15 +965,6 @@ c_fredericton = {
 	}
 	2656.1.1 = {
 		holder = character_c_fredericton
-	}
-}
-
-c_us_me_calais = {
-	2000.1.1 = {
-	 liege = d_new_brunswick
-	}
-	2656.1.1 = {
-		holder = character_c_us_me_calais
 	}
 }
 

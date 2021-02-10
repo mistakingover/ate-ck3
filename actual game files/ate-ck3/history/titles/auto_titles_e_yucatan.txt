@@ -192,6 +192,47 @@ c_mx_31_peto = {
 	}
 }
 
+c_mx_23_chetumal = {
+	2656.1.1 = {
+		holder = character_c_mx_23_chetumal
+	}
+}
+d_chan_santa_cruz = {
+	2000.1.1 = {
+	 liege = k_yucatan
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_chetumal
+	}
+}
+
+c_mx_23_felipe_carrillo_puerto = {
+	2000.1.1 = {
+	 liege = d_chan_santa_cruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_felipe_carrillo_puerto
+	}
+}
+
+c_mx_23_nicol_s_bravo = {
+	2000.1.1 = {
+	 liege = d_chan_santa_cruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_nicol_s_bravo
+	}
+}
+
+c_mx_23_jos_mar_a_morelos = {
+	2000.1.1 = {
+	 liege = d_chan_santa_cruz
+	}
+	2656.1.1 = {
+		holder = character_c_mx_23_jos_mar_a_morelos
+	}
+}
+
 c_mx_04_del_carmen = {
 	2656.1.1 = {
 		holder = character_c_mx_04_del_carmen
@@ -338,60 +379,19 @@ c_mx_05_ocosingo = {
 	}
 }
 
-c_mx_23_chetumal = {
-	2656.1.1 = {
-		holder = character_c_mx_23_chetumal
-	}
-}
-d_chan_santa_cruz = {
-	2656.1.1 = {
-		holder = character_c_mx_23_chetumal
-	}
-}
-k_peten = {
-	2000.1.1 = {
-	 liege = e_yucatan
-	}
-	2656.1.1 = {
-		holder = character_c_mx_23_chetumal
-	}
-}
-
-c_mx_23_felipe_carrillo_puerto = {
-	2000.1.1 = {
-	 liege = d_chan_santa_cruz
-	}
-	2656.1.1 = {
-		holder = character_c_mx_23_felipe_carrillo_puerto
-	}
-}
-
-c_mx_23_nicol_s_bravo = {
-	2000.1.1 = {
-	 liege = d_chan_santa_cruz
-	}
-	2656.1.1 = {
-		holder = character_c_mx_23_nicol_s_bravo
-	}
-}
-
-c_mx_23_jos_mar_a_morelos = {
-	2000.1.1 = {
-	 liege = d_chan_santa_cruz
-	}
-	2656.1.1 = {
-		holder = character_c_mx_23_jos_mar_a_morelos
-	}
-}
-
 c_mx_27_tenosique = {
 	2656.1.1 = {
 		holder = character_c_mx_27_tenosique
 	}
 }
 d_lacandon = {
+	2656.1.1 = {
+		holder = character_c_mx_27_tenosique
+	}
+}
+k_peten = {
 	2000.1.1 = {
-	 liege = k_peten
+	 liege = e_yucatan
 	}
 	2656.1.1 = {
 		holder = character_c_mx_27_tenosique
@@ -475,12 +475,12 @@ c_gt_12_carmelita = {
 	}
 }
 
-c_mx_05_balum_canan = {
+c_gt_12_la_esperancita = {
 	2000.1.1 = {
 	 liege = d_peten
 	}
 	2656.1.1 = {
-		holder = character_c_mx_05_balum_canan
+		holder = character_c_gt_12_la_esperancita
 	}
 }
 

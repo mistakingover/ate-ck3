@@ -320,15 +320,6 @@ d_piedmont = {
 	}
 }
 
-c_us_va_richmond = {
-	2000.1.1 = {
-	 liege = d_piedmont
-	}
-	2656.1.1 = {
-		holder = character_c_us_va_richmond
-	}
-}
-
 c_us_va_centreville = {
 	2000.1.1 = {
 	 liege = d_piedmont
@@ -534,15 +525,6 @@ c_us_ky_pikeville = {
 	}
 }
 
-c_us_ky_pikeville = {
-	2000.1.1 = {
-	 liege = d_cumberland
-	}
-	2656.1.1 = {
-		holder = character_c_us_ky_pikeville
-	}
-}
-
 c_us_ky_somerset = {
 	2000.1.1 = {
 	 liege = d_cumberland
@@ -622,15 +604,6 @@ d_blue_ridge = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_nc_asheville
-	}
-}
-
-c_us_sc_clemson = {
-	2000.1.1 = {
-	 liege = d_blue_ridge
-	}
-	2656.1.1 = {
-		holder = character_c_us_sc_clemson
 	}
 }
 
