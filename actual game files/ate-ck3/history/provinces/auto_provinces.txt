@@ -1,3 +1,4 @@
+
 1 = {	#São Paulo
 	culture = paulistano
 	religion = apostolicism
@@ -6446,7 +6447,7 @@
 1290 = {	#Venetie
 	culture = gwichin
 	religion = anglican
-	holding = none
+	holding = tribal_holding
 }
 1291 = {	#Fort Yukon
 	culture = gwichin
@@ -12031,7 +12032,7 @@
 2407 = {	#Wausau
 	culture = dairylander
 	religion = lakeshore
-	holding = none
+	holding = tribal_holding
 }
 2408 = {	#Minocqua
 	culture = dairylander
@@ -16636,7 +16637,7 @@
 3328 = {	#Laramie
 	culture = mountainer
 	religion = real_road
-	holding = none
+	holding = tribal_holding
 }
 3329 = {	#Casper
 	culture = mountainer
@@ -17244,17 +17245,17 @@
 	holding = none
 }
 3450 = {	#Ocampo
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 3451 = {	#Tula
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 3452 = {	#Jaumave
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
@@ -18039,17 +18040,17 @@
 	holding = church_holding
 }
 3609 = {	#El Salto
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = castle_holding
 }
 3610 = {	#Santa Teresa
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = city_holding
 }
 3611 = {	#Nombre de Dios
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = church_holding
 }
@@ -18284,82 +18285,82 @@
 	holding = none
 }
 3658 = {	#Culiacán
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 3659 = {	#General Ángel Flores
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
 3660 = {	#Quila
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = church_holding
 }
 3661 = {	#Tamazula de Victoria
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = none
 }
 3662 = {	#Mazatlán
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 3663 = {	#Tayoltita
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
 3664 = {	#El Quelite
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = church_holding
 }
 3665 = {	#El Rosario
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 3666 = {	#La Cruz
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
 3667 = {	#Cosalá
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = church_holding
 }
 3668 = {	#Elota
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = none
 }
 3669 = {	#Nuevo
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 3670 = {	#El Rosario
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
 3671 = {	#Concordia
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = church_holding
 }
 3672 = {	#Escuinapa
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 3673 = {	#Isla del Bosque
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
@@ -18379,42 +18380,42 @@
 	holding = none
 }
 3677 = {	#Guasave
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3678 = {	#Estacion Bamoa
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3679 = {	#Sinaloa de Leyva
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3680 = {	#Genaro Estrada
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = none
 }
 3681 = {	#Guamúchil
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3682 = {	#Pericos
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3683 = {	#Badiraguato
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3684 = {	#Mocorito
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = none
 }
@@ -18434,17 +18435,17 @@
 	holding = none
 }
 3688 = {	#Hermosillo
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3689 = {	#Miguel Alemán
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3690 = {	#La Victoria
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
@@ -18464,17 +18465,17 @@
 	holding = none
 }
 3694 = {	#Carbo
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3695 = {	#Pesqueira
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3696 = {	#Baviácora
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
@@ -18499,22 +18500,22 @@
 	holding = none
 }
 3701 = {	#Obregón
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3702 = {	#Juárez
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3703 = {	#Rosario
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3704 = {	#Avícola Grande
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = none
 }
@@ -18564,17 +18565,17 @@
 	holding = none
 }
 3714 = {	#Nogales
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3715 = {	#Magdalena de Kino
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3716 = {	#Imuris
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
@@ -18604,67 +18605,67 @@
 	holding = none
 }
 3722 = {	#Santa Ana
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3723 = {	#Pitiquito
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3724 = {	#Benjamín Hill
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3725 = {	#Bahía de Kino
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3726 = {	#La Libertad
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3727 = {	#La Casa Grande
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3728 = {	#Agua Prieta
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3729 = {	#Naco
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3730 = {	#Esqueda
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3731 = {	#Cananea
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = castle_holding
 }
 3732 = {	#Cumpas
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = city_holding
 }
 3733 = {	#Moctezuma
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = church_holding
 }
 3734 = {	#Arizpe
-	culture = charapa
+	culture = chinola
 	religion = dustrider
 	holding = none
 }
@@ -23073,21 +23074,6 @@
 	religion = catholic
 	holding = church_holding
 }
-4619 = {	#Marshalltown
-	culture = heartlander
-	religion = catholic
-	holding = none
-}
-4620 = {	#Fort Dodge
-	culture = heartlander
-	religion = catholic
-	holding = none
-}
-4621 = {	#Hampton
-	culture = heartlander
-	religion = catholic
-	holding = none
-}
 4616 = {	#Burlington
 	culture = heartlander
 	religion = catholic
@@ -23102,6 +23088,21 @@
 	culture = heartlander
 	religion = catholic
 	holding = church_holding
+}
+4619 = {	#Marshalltown
+	culture = heartlander
+	religion = catholic
+	holding = tribal_holding
+}
+4620 = {	#Fort Dodge
+	culture = heartlander
+	religion = catholic
+	holding = none
+}
+4621 = {	#Hampton
+	culture = heartlander
+	religion = catholic
+	holding = none
 }
 4622 = {	#Rochester
 	culture = uplander
@@ -24079,117 +24080,117 @@
 	holding = none
 }
 4817 = {	#León de los Aldama
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 4818 = {	#San Felipe
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 4819 = {	#Ocampo
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 4820 = {	#Silao
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 4821 = {	#San Francisco del Rincón
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 4822 = {	#Guanajuato
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 4823 = {	#San Miguel de Allende
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 4824 = {	#Dolores Hidalgo Cuna de la Independencia Nacional
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 4825 = {	#San Luis de la Paz
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 4826 = {	#La Sauceda
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = none
 }
 4827 = {	#San José Iturbide
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 4828 = {	#Doctor Mora
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 4829 = {	#Santa Catarina
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 4830 = {	#Celaya
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 4831 = {	#Cortazar
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 4832 = {	#Apaseo el Grande
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 4833 = {	#Apaseo el Alto
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = none
 }
 4834 = {	#Irapuato
-	culture = charapa
+	culture = abajeno
 	religion = jurihiata_ikikunari
 	holding = castle_holding
 }
 4835 = {	#Abasolo
-	culture = charapa
+	culture = abajeno
 	religion = jurihiata_ikikunari
 	holding = city_holding
 }
 4836 = {	#Pénjamo
-	culture = charapa
+	culture = abajeno
 	religion = jurihiata_ikikunari
 	holding = church_holding
 }
 4837 = {	#Uriangato
-	culture = charapa
+	culture = abajeno
 	religion = jurihiata_ikikunari
 	holding = castle_holding
 }
 4838 = {	#Salamanca
-	culture = charapa
+	culture = abajeno
 	religion = jurihiata_ikikunari
 	holding = city_holding
 }
 4839 = {	#de Santiago
-	culture = charapa
+	culture = abajeno
 	religion = jurihiata_ikikunari
 	holding = church_holding
 }
@@ -24209,17 +24210,17 @@
 	holding = church_holding
 }
 4843 = {	#Santiago de Querétaro
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 4844 = {	#Santa Rosa Jauregui
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 4845 = {	#Colón
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
@@ -24254,32 +24255,32 @@
 	holding = church_holding
 }
 4852 = {	#Aguascalientes
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 4853 = {	#Jesús María
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 4854 = {	#Palo Alto
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
 4855 = {	#Pabellón de Arteaga
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 4856 = {	#Rincón de Romos
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 4857 = {	#Calvillo
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
@@ -24304,37 +24305,37 @@
 	holding = none
 }
 4862 = {	#San Juan de los Lagos
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 4863 = {	#Teocaltiche
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 4864 = {	#Encarnación de Díaz
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
 4865 = {	#Jalostotitlán
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = none
 }
 4866 = {	#Lagos de Moreno
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 4867 = {	#Los Azulitos
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 4868 = {	#Matancillas
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
@@ -24354,17 +24355,17 @@
 	holding = church_holding
 }
 4872 = {	#Arandas
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 4873 = {	#San Miguel el Alto
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 4874 = {	#Unión de San Antonio
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
@@ -24459,47 +24460,47 @@
 	holding = church_holding
 }
 4893 = {	#Tuxpan
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 4894 = {	#San Vicente
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
 4895 = {	#Jesús María
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = church_holding
 }
 4896 = {	#Ixtlán del Río
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = castle_holding
 }
 4897 = {	#Santa María del Oro
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = city_holding
 }
 4898 = {	#Jala
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = church_holding
 }
 4899 = {	#Tecuala
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = castle_holding
 }
 4900 = {	#Acaponeta
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = city_holding
 }
 4901 = {	#Huajicori
-	culture = charapa
+	culture = chinola
 	religion = guadalupan
 	holding = church_holding
 }
@@ -24909,22 +24910,22 @@
 	holding = church_holding
 }
 4983 = {	#Benito Juárez
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 4984 = {	#Pánuco
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 4985 = {	#Moralillo
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
 4986 = {	#Nuevo Chicayán
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = none
 }
@@ -25139,282 +25140,282 @@
 	holding = church_holding
 }
 5029 = {	#San Luis Potosí
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5030 = {	#Soledad de Graciano Sánchez
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5031 = {	#Ahualulco del Sonido Trece
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 5032 = {	#Portezuelo
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = none
 }
 5033 = {	#Loreto
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 5034 = {	#Ojuelos de Jalisco
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 5035 = {	#Hidalgo
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
 5036 = {	#Matehuala
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5037 = {	#de Arista
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5038 = {	#Cerritos
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 5039 = {	#de Matehuala
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = none
 }
 5040 = {	#de Reyes
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5041 = {	#Santa María del Río
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5042 = {	#Zaragoza
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 5043 = {	#Dulce Grande
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5044 = {	#Salinas de Hidalgo
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5045 = {	#de Ramos
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 5046 = {	#Santo Domingo
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = none
 }
 5047 = {	#Charcas
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5048 = {	#Moctezuma
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5049 = {	#Venado
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 5050 = {	#Cedral
-	culture = yankee
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5051 = {	#Paz
-	culture = yankee
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5052 = {	#Tamazunchale
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 5053 = {	#Axtla de Terrazas
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 5054 = {	#Xilitla
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
 5055 = {	#Tanquián de Escobedo
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = none
 }
 5056 = {	#Valles
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 5057 = {	#Ébano
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 5058 = {	#Tamuín
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
 5059 = {	#Rioverde
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 5060 = {	#Fernández
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 5061 = {	#Juárez
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
 5062 = {	#del Maíz
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 5063 = {	#Cárdenas
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 5064 = {	#El Naranjo
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
 5065 = {	#Rayón
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = castle_holding
 }
 5066 = {	#San Ciro de Acosta
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = city_holding
 }
 5067 = {	#San Diego
-	culture = charapa
+	culture = huastec
 	religion = guadalupan
 	holding = church_holding
 }
 5068 = {	#Zacatecas
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = castle_holding
 }
 5069 = {	#Guadalupe
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = city_holding
 }
 5070 = {	#Luis Moya
-	culture = charapa
+	culture = abajeno
 	religion = guadalupan
 	holding = church_holding
 }
 5071 = {	#Jerez de García Salinas
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = castle_holding
 }
 5072 = {	#Villanueva
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = city_holding
 }
 5073 = {	#Huejúcar
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = church_holding
 }
 5074 = {	#Nochistlán de Mejía
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = castle_holding
 }
 5075 = {	#Jalpa
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = city_holding
 }
 5076 = {	#Juchipila
-	culture = charapa
+	culture = abajeno
 	religion = el_santo
 	holding = church_holding
 }
 5077 = {	#Tlaltenango de Sánchez Román
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = castle_holding
 }
 5078 = {	#Colotlán
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = city_holding
 }
 5079 = {	#Teúl de González Ortega
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = church_holding
 }
 5080 = {	#Trinidad García de la Cadena
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = none
 }
 5081 = {	#Valparaíso
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = castle_holding
 }
 5082 = {	#Guerrero
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = city_holding
 }
 5083 = {	#Huejuquilla el Alto
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = church_holding
 }
 5084 = {	#Monte Escobedo
-	culture = charapa
+	culture = huichol
 	religion = guadalupan
 	holding = none
 }
@@ -25679,57 +25680,57 @@
 	holding = none
 }
 5137 = {	#Tuxtepec
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = castle_holding
 }
 5138 = {	#Loma Bonita
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = city_holding
 }
 5139 = {	#Nacional
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = church_holding
 }
 5140 = {	#Huautla de Jiménez
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = castle_holding
 }
 5141 = {	#San Felipe Jalapa de Díaz
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = city_holding
 }
 5142 = {	#Xitlama
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = church_holding
 }
 5143 = {	#Teotitlán
-	culture = charapa
+	culture = mazatec
 	religion = guadalupan
 	holding = none
 }
 5144 = {	#Ayotzintepec
-	culture = charapa
+	culture = chinantec
 	religion = guadalupan
 	holding = castle_holding
 }
 5145 = {	#María Lombardo de Caso
-	culture = charapa
+	culture = chinantec
 	religion = guadalupan
 	holding = city_holding
 }
 5146 = {	#San Miguel Quetzaltepec
-	culture = charapa
+	culture = chinantec
 	religion = guadalupan
 	holding = church_holding
 }
 5147 = {	#San Juan Cotzocón
-	culture = charapa
+	culture = chinantec
 	religion = guadalupan
 	holding = none
 }
@@ -25809,22 +25810,22 @@
 	holding = church_holding
 }
 5163 = {	#Matías Romero
-	culture = charapa
+	culture = mixe
 	religion = mictlantec
 	holding = castle_holding
 }
 5164 = {	#Palomares
-	culture = charapa
+	culture = mixe
 	religion = mictlantec
 	holding = city_holding
 }
 5165 = {	#San Juan Mazatlán
-	culture = charapa
+	culture = mixe
 	religion = mictlantec
 	holding = church_holding
 }
 5166 = {	#Cuauhtémoc
-	culture = charapa
+	culture = mixe
 	religion = mictlantec
 	holding = none
 }
@@ -27333,26 +27334,6 @@
 	religion = liberationism
 	holding = none
 }
-5510 = {	#Tucumã
-	culture = kayapo
-	religion = liberationism
-	holding = none
-}
-5511 = {	#Afuá
-	culture = kayapo
-	religion = liberationism
-	holding = none
-}
-5512 = {	#São Francisco
-	culture = kayapo
-	religion = liberationism
-	holding = none
-}
-5513 = {	#Amélia
-	culture = kayapo
-	religion = liberationism
-	holding = none
-}
 5468 = {	#Altamira
 	culture = paraense
 	religion = kardecist
@@ -27560,6 +27541,26 @@
 }
 5509 = {	#Santo Henrique
 	culture = paraense
+	religion = pentecostalism
+	holding = none
+}
+5510 = {	#Tucumã
+	culture = kayapo
+	religion = pentecostalism
+	holding = tribal_holding
+}
+5511 = {	#Afuá
+	culture = kayapo
+	religion = pentecostalism
+	holding = none
+}
+5512 = {	#São Francisco
+	culture = kayapo
+	religion = pentecostalism
+	holding = none
+}
+5513 = {	#Amélia
+	culture = kayapo
 	religion = pentecostalism
 	holding = none
 }
@@ -31941,7 +31942,7 @@
 6389 = {	#Reno
 	culture = battleborn
 	religion = cetic
-	holding = none
+	holding = tribal_holding
 }
 6390 = {	#Lovelock
 	culture = battleborn
@@ -33023,21 +33024,6 @@
 	religion = peyotist
 	holding = none
 }
-6612 = {	#Tioga
-	culture = lakota
-	religion = peyotist
-	holding = none
-}
-6613 = {	#Mandaree
-	culture = lakota
-	religion = peyotist
-	holding = none
-}
-6614 = {	#Williston
-	culture = lakota
-	religion = peyotist
-	holding = none
-}
 6606 = {	#Dickinson
 	culture = mountainer
 	religion = real_road
@@ -33067,6 +33053,21 @@
 	culture = mountainer
 	religion = real_road
 	holding = church_holding
+}
+6612 = {	#Tioga
+	culture = lakota
+	religion = peyotist
+	holding = tribal_holding
+}
+6613 = {	#Mandaree
+	culture = lakota
+	religion = peyotist
+	holding = none
+}
+6614 = {	#Williston
+	culture = lakota
+	religion = peyotist
+	holding = none
 }
 6615 = {	#Valentine
 	culture = lakota
@@ -34121,7 +34122,7 @@
 6825 = {	#Glendive
 	culture = cheyenne
 	religion = peyotist
-	holding = none
+	holding = tribal_holding
 }
 6826 = {	#Circle
 	culture = cheyenne
@@ -36368,21 +36369,6 @@
 	religion = charismaticism
 	holding = church_holding
 }
-7279 = {	#Chattanooga
-	culture = appalachian
-	religion = charismaticism
-	holding = none
-}
-7280 = {	#Crossville
-	culture = appalachian
-	religion = charismaticism
-	holding = none
-}
-7281 = {	#Jasper
-	culture = appalachian
-	religion = charismaticism
-	holding = none
-}
 7275 = {	#Johnson City
 	culture = melungeon
 	religion = charismaticism
@@ -36401,6 +36387,21 @@
 7278 = {	#La Follette
 	culture = melungeon
 	religion = charismaticism
+	holding = none
+}
+7279 = {	#Chattanooga
+	culture = appalachian
+	religion = revelationist
+	holding = tribal_holding
+}
+7280 = {	#Crossville
+	culture = appalachian
+	religion = revelationist
+	holding = none
+}
+7281 = {	#Jasper
+	culture = appalachian
+	religion = revelationist
 	holding = none
 }
 7282 = {	#Meads
@@ -38513,175 +38514,175 @@
 	religion = americanist
 	holding = church_holding
 }
-7704 = {	#Baton Rouge
-	culture = cajun
-	religion = voodoo
-	holding = castle_holding
-}
-7705 = {	#Plaquemine
-	culture = cajun
-	religion = voodoo
-	holding = city_holding
-}
-7706 = {	#Donaldsonville
-	culture = cajun
-	religion = voodoo
-	holding = church_holding
-}
-7707 = {	#Morgan City
-	culture = cajun
-	religion = voodoo
-	holding = none
-}
-7731 = {	#Baton Rouge
-	culture = cajun
-	religion = voodoo
-	holding = none
-}
-7732 = {	#Prairieville
-	culture = cajun
-	religion = voodoo
-	holding = none
-}
-7733 = {	#Zachary
-	culture = cajun
-	religion = voodoo
-	holding = none
-}
-7734 = {	#Centreville
-	culture = cajun
-	religion = voodoo
-	holding = none
-}
-7708 = {	#Lafayette
-	culture = cajun
-	religion = voodoo
-	holding = castle_holding
-}
-7709 = {	#Franklin
-	culture = cajun
-	religion = voodoo
-	holding = city_holding
-}
-7710 = {	#Breaux Bridge
-	culture = cajun
-	religion = voodoo
-	holding = church_holding
-}
-7711 = {	#Houma
-	culture = cajun
-	religion = voodoo
-	holding = castle_holding
-}
-7712 = {	#Luling
-	culture = cajun
-	religion = voodoo
-	holding = city_holding
-}
-7713 = {	#Morgan City
-	culture = cajun
-	religion = voodoo
-	holding = church_holding
-}
-7714 = {	#Grand Isle
-	culture = cajun
-	religion = voodoo
-	holding = none
-}
-7715 = {	#Lake Charles
-	culture = cajun
-	religion = catholic
-	holding = castle_holding
-}
-7716 = {	#Welsh
-	culture = cajun
-	religion = catholic
-	holding = city_holding
-}
-7717 = {	#Hackberry
-	culture = cajun
-	religion = catholic
-	holding = church_holding
-}
-7718 = {	#Crowley
-	culture = cajun
-	religion = catholic
-	holding = castle_holding
-}
-7719 = {	#Abbeville
-	culture = cajun
-	religion = catholic
-	holding = city_holding
-}
-7720 = {	#Lake Arthur
-	culture = cajun
-	religion = catholic
-	holding = church_holding
-}
-7721 = {	#Opelousas
-	culture = creole
-	religion = catholic
-	holding = castle_holding
-}
-7722 = {	#Marksville
-	culture = creole
-	religion = catholic
-	holding = city_holding
-}
-7723 = {	#Ville Platte
-	culture = creole
-	religion = catholic
-	holding = church_holding
-}
-7724 = {	#New Orleans
+7704 = {	#New Orleans
 	culture = creole
 	religion = voodoo
 	holding = castle_holding
 }
-7725 = {	#Poydras
+7705 = {	#Poydras
 	culture = creole
 	religion = voodoo
 	holding = city_holding
 }
-7726 = {	#Marrero
+7706 = {	#Marrero
 	culture = cajun
 	religion = voodoo
+	holding = church_holding
+}
+7707 = {	#Buras
+	culture = cajun
+	religion = voodoo
+	holding = none
+}
+7708 = {	#Baton Rouge
+	culture = cajun
+	religion = catholic
 	holding = castle_holding
 }
-7727 = {	#Buras
+7709 = {	#Centreville
 	culture = cajun
-	religion = voodoo
+	religion = catholic
+	holding = castle_holding
+}
+7710 = {	#Prairieville
+	culture = cajun
+	religion = catholic
 	holding = city_holding
 }
-7728 = {	#Gulfport
-	culture = gulfard
-	religion = voodoo
-	holding = castle_holding
+7711 = {	#Zachary
+	culture = cajun
+	religion = catholic
+	holding = church_holding
 }
-7729 = {	#Pascagoula
+7712 = {	#Gulfport
 	culture = gulfard
 	religion = voodoo
 	holding = city_holding
 }
-7730 = {	#Carriere
+7713 = {	#Pascagoula
 	culture = gulfard
 	religion = voodoo
 	holding = church_holding
 }
-7735 = {	#Slidell
+7714 = {	#Carriere
+	culture = gulfard
+	religion = voodoo
+	holding = none
+}
+7715 = {	#Slidell
 	culture = creole
 	religion = voodoo
 	holding = castle_holding
 }
-7736 = {	#Hammond
+7716 = {	#Hammond
 	culture = creole
 	religion = voodoo
 	holding = city_holding
 }
-7737 = {	#Bogalusa
+7717 = {	#Bogalusa
 	culture = creole
 	religion = voodoo
 	holding = church_holding
+}
+7718 = {	#Lafayette
+	culture = cajun
+	religion = voodoo
+	holding = castle_holding
+}
+7719 = {	#Franklin
+	culture = cajun
+	religion = voodoo
+	holding = city_holding
+}
+7720 = {	#Breaux Bridge
+	culture = cajun
+	religion = voodoo
+	holding = church_holding
+}
+7721 = {	#Houma
+	culture = cajun
+	religion = voodoo
+	holding = castle_holding
+}
+7722 = {	#Grand Isle
+	culture = cajun
+	religion = voodoo
+	holding = castle_holding
+}
+7723 = {	#Luling
+	culture = cajun
+	religion = voodoo
+	holding = city_holding
+}
+7724 = {	#Morgan City
+	culture = cajun
+	religion = voodoo
+	holding = church_holding
+}
+7725 = {	#Welsh
+	culture = cajun
+	religion = catholic
+	holding = castle_holding
+}
+7726 = {	#Lake Charles
+	culture = cajun
+	religion = catholic
+	holding = city_holding
+}
+7727 = {	#Hackberry
+	culture = cajun
+	religion = catholic
+	holding = city_holding
+}
+7728 = {	#Crowley
+	culture = cajun
+	religion = catholic
+	holding = castle_holding
+}
+7729 = {	#Abbeville
+	culture = cajun
+	religion = catholic
+	holding = city_holding
+}
+7730 = {	#Lake Arthur
+	culture = cajun
+	religion = catholic
+	holding = church_holding
+}
+7731 = {	#Opelousas
+	culture = creole
+	religion = catholic
+	holding = tribal_holding
+}
+7732 = {	#Marksville
+	culture = creole
+	religion = catholic
+	holding = none
+}
+7733 = {	#Ville Platte
+	culture = creole
+	religion = catholic
+	holding = none
+}
+7734 = {	#Plaquemine
+	culture = cajun
+	religion = voodoo
+	holding = castle_holding
+}
+7735 = {	#Donaldsonville
+	culture = cajun
+	religion = voodoo
+	holding = city_holding
+}
+7736 = {	#Morgan City
+	culture = cajun
+	religion = voodoo
+	holding = church_holding
+}
+7737 = {	#Port Allen
+	culture = cajun
+	religion = voodoo
+	holding = none
 }
 7738 = {	#Monroe
 	culture = dixie
@@ -43258,16 +43259,6 @@
 	religion = evangelical
 	holding = city_holding
 }
-8694 = {	#Columbus
-	culture = dixie
-	religion = evangelical
-	holding = church_holding
-}
-8695 = {	#Eufaula
-	culture = dixie
-	religion = evangelical
-	holding = none
-}
 8653 = {	#St. Marys
 	culture = gullah
 	religion = revelationist
@@ -43373,21 +43364,6 @@
 	religion = charismaticism
 	holding = none
 }
-8691 = {	#Rome
-	culture = dixie
-	religion = charismaticism
-	holding = none
-}
-8692 = {	#Fort Payne
-	culture = dixie
-	religion = charismaticism
-	holding = none
-}
-8693 = {	#Rainsville
-	culture = dixie
-	religion = charismaticism
-	holding = none
-}
 8674 = {	#Talladega
 	culture = dixie
 	religion = charismaticism
@@ -43472,6 +43448,31 @@
 	culture = appalachian
 	religion = charismaticism
 	holding = church_holding
+}
+8691 = {	#Rome
+	culture = dixie
+	religion = charismaticism
+	holding = tribal_holding
+}
+8692 = {	#Fort Payne
+	culture = dixie
+	religion = charismaticism
+	holding = none
+}
+8693 = {	#Rainsville
+	culture = dixie
+	religion = charismaticism
+	holding = none
+}
+8694 = {	#Columbus
+	culture = dixie
+	religion = revelationist
+	holding = church_holding
+}
+8695 = {	#Eufaula
+	culture = dixie
+	religion = revelationist
+	holding = none
 }
 8696 = {	#Dothan
 	culture = dixie

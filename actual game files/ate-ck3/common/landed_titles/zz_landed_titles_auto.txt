@@ -51655,135 +51655,6 @@ e_gulfcoast = { #Gulfcoast
 		color = { 85 146 213 }
 		color2 = { 255 255 255 }
 
-		d_acadiana = { #Acadiana
-			color = { 168 45 23 }
-			color2 = { 255 255 255 }
-
-			c_us_la_baton_rouge = { #Baton Rouge
-				color = { 116 152 71 }
-				color2 = { 255 255 255 }
-				b_us_la_baton_rouge0 = { #Baton Rouge
-					province = 7704
-					color = { 99 180 61 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_plaquemine = { #Plaquemine
-					province = 7705
-					color = { 107 180 85 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_donaldsonville = { #Donaldsonville
-					province = 7706
-					color = { 91 131 82 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_morgan_city = { #Morgan City
-					province = 7707
-					color = { 81 118 48 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_us_la_lafayette = { #Lafayette
-				color = { 22 63 54 }
-				color2 = { 255 255 255 }
-				b_us_la_lafayette = { #Lafayette
-					province = 7708
-					color = { 43 61 28 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_franklin = { #Franklin
-					province = 7709
-					color = { 11 41 74 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_breaux_bridge = { #Breaux Bridge
-					province = 7710
-					color = { 0 74 19 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_us_la_saint_charles_parish = { #Saint Charles Parish
-				color = { 116 53 40 }
-				color2 = { 255 255 255 }
-				b_us_la_houma = { #Houma
-					province = 7711
-					color = { 95 22 54 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_luling = { #Luling
-					province = 7712
-					color = { 93 71 29 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_morgan_city0 = { #Morgan City
-					province = 7713
-					color = { 84 19 55 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_grand_isle = { #Grand Isle
-					province = 7714
-					color = { 113 54 19 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_us_la_calcasieu_parish = { #Calcasieu Parish
-				color = { 180 81 108 }
-				color2 = { 255 255 255 }
-				b_us_la_lake_charles = { #Lake Charles
-					province = 7715
-					color = { 173 64 126 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_welsh = { #Welsh
-					province = 7716
-					color = { 190 76 102 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_hackberry = { #Hackberry
-					province = 7717
-					color = { 145 83 134 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_us_la_crowley = { #Crowley
-				color = { 64 199 114 }
-				color2 = { 255 255 255 }
-				b_us_la_crowley = { #Crowley
-					province = 7718
-					color = { 67 225 126 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_abbeville = { #Abbeville
-					province = 7719
-					color = { 88 171 105 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_lake_arthur = { #Lake Arthur
-					province = 7720
-					color = { 67 179 95 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_us_la_opelousas = { #Opelousas
-				color = { 105 137 177 }
-				color2 = { 255 255 255 }
-				b_us_la_opelousas = { #Opelousas
-					province = 7721
-					color = { 136 169 180 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_marksville = { #Marksville
-					province = 7722
-					color = { 119 130 198 }
-					color2 = { 255 255 255 }
-				}
-				b_us_la_ville_platte = { #Ville Platte
-					province = 7723
-					color = { 70 142 211 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
 		d_orleans = { #Orleans
 			color = { 46 96 15 }
 			color2 = { 255 255 255 }
@@ -51792,12 +51663,12 @@ e_gulfcoast = { #Gulfcoast
 				color = { 51 172 10 }
 				color2 = { 255 255 255 }
 				b_us_la_new_orleans = { #New Orleans
-					province = 7724
+					province = 7704
 					color = { 84 186 28 }
 					color2 = { 255 255 255 }
 				}
 				b_us_la_poydras = { #Poydras
-					province = 7725
+					province = 7705
 					color = { 66 177 27 }
 					color2 = { 255 255 255 }
 				}
@@ -51806,12 +51677,12 @@ e_gulfcoast = { #Gulfcoast
 				color = { 45 165 146 }
 				color2 = { 255 255 255 }
 				b_us_la_marrero = { #Marrero
-					province = 7726
+					province = 7706
 					color = { 13 164 123 }
 					color2 = { 255 255 255 }
 				}
 				b_us_la_buras = { #Buras
-					province = 7727
+					province = 7707
 					color = { 43 185 136 }
 					color2 = { 255 255 255 }
 				}
@@ -51821,46 +51692,46 @@ e_gulfcoast = { #Gulfcoast
 			color = { 239 228 176 }
 			color2 = { 255 255 255 }
 
-			c_us_ms_gulfport = { #Gulfport
-				color = { 212 188 79 }
-				color2 = { 255 255 255 }
-				b_us_ms_gulfport = { #Gulfport
-					province = 7728
-					color = { 213 170 93 }
-					color2 = { 255 255 255 }
-				}
-				b_us_ms_pascagoula = { #Pascagoula
-					province = 7729
-					color = { 222 209 75 }
-					color2 = { 255 255 255 }
-				}
-				b_us_ms_carriere = { #Carriere
-					province = 7730
-					color = { 232 210 96 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_us_la_baton_rouge_1 = { #Baton Rouge
+			c_us_la_baton_rouge = { #Baton Rouge
 				color = { 76 201 164 }
 				color2 = { 255 255 255 }
 				b_us_la_baton_rouge = { #Baton Rouge
-					province = 7731
+					province = 7708
 					color = { 99 231 149 }
 					color2 = { 255 255 255 }
 				}
+				b_us_ms_centreville = { #Centreville
+					province = 7709
+					color = { 47 217 155 }
+					color2 = { 255 255 255 }
+				}
 				b_us_la_prairieville = { #Prairieville
-					province = 7732
+					province = 7710
 					color = { 93 225 178 }
 					color2 = { 255 255 255 }
 				}
 				b_us_la_zachary = { #Zachary
-					province = 7733
+					province = 7711
 					color = { 64 170 148 }
 					color2 = { 255 255 255 }
 				}
-				b_us_ms_centreville = { #Centreville
-					province = 7734
-					color = { 47 217 155 }
+			}
+			c_us_ms_gulfport = { #Gulfport
+				color = { 212 188 79 }
+				color2 = { 255 255 255 }
+				b_us_ms_gulfport = { #Gulfport
+					province = 7712
+					color = { 213 170 93 }
+					color2 = { 255 255 255 }
+				}
+				b_us_ms_pascagoula = { #Pascagoula
+					province = 7713
+					color = { 222 209 75 }
+					color2 = { 255 255 255 }
+				}
+				b_us_ms_carriere = { #Carriere
+					province = 7714
+					color = { 232 210 96 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -51868,18 +51739,147 @@ e_gulfcoast = { #Gulfcoast
 				color = { 69 46 154 }
 				color2 = { 255 255 255 }
 				b_us_la_slidell = { #Slidell
-					province = 7735
+					province = 7715
 					color = { 95 31 150 }
 					color2 = { 255 255 255 }
 				}
 				b_us_la_hammond = { #Hammond
-					province = 7736
+					province = 7716
 					color = { 94 73 137 }
 					color2 = { 255 255 255 }
 				}
 				b_us_la_bogalusa = { #Bogalusa
-					province = 7737
+					province = 7717
 					color = { 90 18 187 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		d_acadiana = { #Acadiana
+			color = { 168 45 23 }
+			color2 = { 255 255 255 }
+
+			c_us_la_lafayette = { #Lafayette
+				color = { 22 63 54 }
+				color2 = { 255 255 255 }
+				b_us_la_lafayette = { #Lafayette
+					province = 7718
+					color = { 43 61 28 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_franklin = { #Franklin
+					province = 7719
+					color = { 11 41 74 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_breaux_bridge = { #Breaux Bridge
+					province = 7720
+					color = { 0 74 19 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_us_la_saint_charles_parish = { #Saint Charles Parish
+				color = { 116 53 40 }
+				color2 = { 255 255 255 }
+				b_us_la_houma = { #Houma
+					province = 7721
+					color = { 95 22 54 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_grand_isle = { #Grand Isle
+					province = 7722
+					color = { 113 54 19 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_luling = { #Luling
+					province = 7723
+					color = { 93 71 29 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_morgan_city0 = { #Morgan City
+					province = 7724
+					color = { 84 19 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_us_la_calcasieu_parish = { #Calcasieu Parish
+				color = { 180 81 108 }
+				color2 = { 255 255 255 }
+				b_us_la_welsh = { #Welsh
+					province = 7725
+					color = { 190 76 102 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_lake_charles = { #Lake Charles
+					province = 7726
+					color = { 173 64 126 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_hackberry = { #Hackberry
+					province = 7727
+					color = { 145 83 134 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_us_la_crowley = { #Crowley
+				color = { 64 199 114 }
+				color2 = { 255 255 255 }
+				b_us_la_crowley = { #Crowley
+					province = 7728
+					color = { 67 225 126 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_abbeville = { #Abbeville
+					province = 7729
+					color = { 88 171 105 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_lake_arthur = { #Lake Arthur
+					province = 7730
+					color = { 67 179 95 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_us_la_opelousas = { #Opelousas
+				color = { 105 137 177 }
+				color2 = { 255 255 255 }
+				b_us_la_opelousas = { #Opelousas
+					province = 7731
+					color = { 136 169 180 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_marksville = { #Marksville
+					province = 7732
+					color = { 119 130 198 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_ville_platte = { #Ville Platte
+					province = 7733
+					color = { 70 142 211 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_us_la_morgan_city = { #Morgan City
+				color = { 116 152 71 }
+				color2 = { 255 255 255 }
+				b_us_la_plaquemine = { #Plaquemine
+					province = 7734
+					color = { 107 180 85 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_donaldsonville = { #Donaldsonville
+					province = 7735
+					color = { 91 131 82 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_morgan_city = { #Morgan City
+					province = 7736
+					color = { 81 118 48 }
+					color2 = { 255 255 255 }
+				}
+				b_us_la_port_allen = { #Port Allen
+					province = 7737
+					color = { 99 180 61 }
 					color2 = { 255 255 255 }
 				}
 			}
