@@ -1,32 +1,8 @@
 character_c_us_ky_lexington_fayette = {
-	name = Iris
+	name = Martha
 	religion = "revelationist"
 	culture = "riverlander"
 	female = yes
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ky_louisville = {
-	name = May
-	religion = "catholic"
-	culture = "riverlander"
-	female = yes
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ky_covington = {
-	name = Cowin
-	religion = "revelationist"
-	culture = "riverlander"
-	female = no
 	2660.1.1 = {
 		birth = yes
 	}
@@ -34,12 +10,36 @@ character_c_us_ky_covington = {
 		death = yes
 	}
 }
+character_c_us_ky_louisville = {
+	name = Spirea
+	religion = "catholic"
+	culture = "riverlander"
+	female = yes
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ky_covington = {
+	name = Campion
+	religion = "revelationist"
+	culture = "riverlander"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_ky_richmond = {
-	name = Amanda
+	name = Berenice
 	religion = "revelationist"
 	culture = "riverlander"
 	female = yes
-	2634.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_us_ky_richmond = {
 	}
 }
 character_c_us_ky_elizabethtown = {
-	name = Alexander
+	name = Hull
 	religion = "catholic"
 	culture = "riverlander"
 	female = no
-	2595.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_us_ky_elizabethtown = {
 	}
 }
 character_c_us_ky_winchester = {
-	name = Hollis
+	name = Preston
 	religion = "revelationist"
 	culture = "riverlander"
 	female = no
-	2653.1.1 = {
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_us_ky_winchester = {
 	}
 }
 character_c_us_ky_russell = {
-	name = Trigg
+	name = Julia
 	religion = "revelationist"
 	culture = "riverlander"
-	female = no
-	2643.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,7 +83,7 @@ character_c_us_ky_russell = {
 	}
 }
 character_c_us_tn_memphis = {
-	name = Donald
+	name = Dwayne
 	religion = "revelationist"
 	culture = "tuskegean"
 	female = no
@@ -95,127 +95,7 @@ character_c_us_tn_memphis = {
 	}
 }
 character_c_us_tn_jackson = {
-	name = Niphon
-	religion = "revelationist"
-	culture = "riverlander"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_dyersburg = {
-	name = Mary
-	religion = "revelationist"
-	culture = "riverlander"
-	female = yes
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_metropolitan_government_of_nashville_davidson = {
-	name = Linda
-	religion = "revelationist"
-	culture = "riverlander"
-	female = yes
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_maury = {
-	name = Vernon
-	religion = "revelationist"
-	culture = "appalachian"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_warren = {
-	name = Squire
-	religion = "revelationist"
-	culture = "appalachian"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_dickson = {
-	name = William
-	religion = "revelationist"
-	culture = "riverlander"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_lawrenceburg = {
-	name = Jimmy
-	religion = "revelationist"
-	culture = "appalachian"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ky_bowling_green = {
-	name = Mouton
-	religion = "revelationist"
-	culture = "riverlander"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tn_clarksville = {
-	name = Kit
-	religion = "revelationist"
-	culture = "riverlander"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ky_owensboro = {
-	name = Twain
-	religion = "revelationist"
-	culture = "riverlander"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ky_paducah = {
-	name = Benton
+	name = Langhorne
 	religion = "revelationist"
 	culture = "riverlander"
 	female = no
@@ -226,12 +106,132 @@ character_c_us_ky_paducah = {
 		death = yes
 	}
 }
-character_c_us_in_jeffersonville = {
-	name = Dodge
+character_c_us_tn_dyersburg = {
+	name = Stirling
 	religion = "revelationist"
 	culture = "riverlander"
 	female = no
-	2627.1.1 = {
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tn_metropolitan_government_of_nashville_davidson = {
+	name = Fitch
+	religion = "revelationist"
+	culture = "riverlander"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tn_maury = {
+	name = Haywood
+	religion = "revelationist"
+	culture = "appalachian"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tn_warren = {
+	name = Gordon
+	religion = "revelationist"
+	culture = "appalachian"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tn_dickson = {
+	name = Beriah
+	religion = "revelationist"
+	culture = "riverlander"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tn_lawrenceburg = {
+	name = Mike
+	religion = "revelationist"
+	culture = "appalachian"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ky_bowling_green = {
+	name = Nereus
+	religion = "revelationist"
+	culture = "riverlander"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tn_clarksville = {
+	name = Fitch
+	religion = "revelationist"
+	culture = "riverlander"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ky_owensboro = {
+	name = Emma
+	religion = "revelationist"
+	culture = "riverlander"
+	female = yes
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ky_paducah = {
+	name = Minnie
+	religion = "revelationist"
+	culture = "riverlander"
+	female = yes
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_in_jeffersonville = {
+	name = Squire
+	religion = "revelationist"
+	culture = "riverlander"
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_us_in_jeffersonville = {
 	}
 }
 character_c_us_in_evansville = {
-	name = Napoleon
+	name = Fulton
 	religion = "revelationist"
 	culture = "riverlander"
 	female = no
-	2615.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_us_in_evansville = {
 	}
 }
 character_c_us_in_columbus = {
-	name = Clara
+	name = Squire
 	religion = "revelationist"
 	culture = "riverlander"
-	female = yes
-	2611.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_us_in_columbus = {
 	}
 }
 character_c_us_in_vincennes = {
-	name = Louis
+	name = Tritonia
 	religion = "revelationist"
 	culture = "riverlander"
-	female = no
-	2593.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_us_in_vincennes = {
 	}
 }
 character_c_us_il_carbondale = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
-	female = yes
-	2613.1.1 = {
+	female = no
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_us_il_carbondale = {
 	}
 }
 character_c_us_il_mount_vernon = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
-	2622.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_us_il_mount_vernon = {
 	}
 }
 character_c_us_il_olney = {
-	name = Ellis
+	name = Alvin
 	religion = "revelationist"
 	culture = "riverlander"
 	female = no
-	2622.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,68 +311,8 @@ character_c_us_il_olney = {
 	}
 }
 character_c_us_va_virginia_beach = {
-	name = Frances
+	name = Coriolanus
 	religion = "evangelical"
-	culture = "southron"
-	female = yes
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_va_newport_news = {
-	name = Sagramore
-	religion = "americanist"
-	culture = "southron"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_va_franklin = {
-	name = Antigone
-	religion = "evangelical"
-	culture = "southron"
-	female = yes
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_va_richmond = {
-	name = Lucia
-	religion = "americanist"
-	culture = "southron"
-	female = yes
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_va_centreville = {
-	name = Dewey
-	religion = "americanist"
-	culture = "beltway"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_va_charlottesville = {
-	name = Rhett
-	religion = "americanist"
 	culture = "southron"
 	female = no
 	2612.1.1 = {
@@ -382,12 +322,72 @@ character_c_us_va_charlottesville = {
 		death = yes
 	}
 }
-character_c_us_va_fredericksburg = {
-	name = Junius
+character_c_us_va_newport_news = {
+	name = Agnes
+	religion = "americanist"
+	culture = "southron"
+	female = yes
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_va_franklin = {
+	name = Severus
+	religion = "evangelical"
+	culture = "southron"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_va_richmond = {
+	name = Braxton
 	religion = "americanist"
 	culture = "southron"
 	female = no
-	2629.1.1 = {
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_va_centreville = {
+	name = Truman
+	religion = "americanist"
+	culture = "beltway"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_va_charlottesville = {
+	name = Bradley
+	religion = "americanist"
+	culture = "southron"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_va_fredericksburg = {
+	name = Venus
+	religion = "americanist"
+	culture = "southron"
+	female = yes
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_us_va_fredericksburg = {
 	}
 }
 character_c_us_va_culpeper = {
-	name = Dahlia
+	name = Goode
 	religion = "americanist"
 	culture = "southron"
-	female = yes
-	2644.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_us_va_culpeper = {
 	}
 }
 character_c_us_va_roanoke = {
-	name = Patty
+	name = Jesse
 	religion = "evangelical"
 	culture = "appalachian"
-	female = yes
-	2615.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_us_va_roanoke = {
 	}
 }
 character_c_us_va_harrisonburg = {
-	name = Tucker
+	name = Clarence
 	religion = "americanist"
 	culture = "appalachian"
 	female = no
-	2614.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_us_va_harrisonburg = {
 	}
 }
 character_c_us_va_staunton = {
-	name = Buck
+	name = Huff
 	religion = "americanist"
 	culture = "appalachian"
 	female = no
-	2602.1.1 = {
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_us_va_staunton = {
 	}
 }
 character_c_us_md_cumberland = {
-	name = Kenneth
+	name = Anse
 	religion = "galvanist"
 	culture = "appalachian"
 	female = no
-	2620.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_us_md_cumberland = {
 	}
 }
 character_c_us_wv_elkins = {
-	name = Freeland
+	name = Tennis
 	religion = "revelationist"
 	culture = "appalachian"
 	female = no
-	2624.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -471,7 +471,7 @@ character_c_us_wv_moorefield = {
 	religion = "revelationist"
 	culture = "appalachian"
 	female = no
-	2635.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_us_wv_moorefield = {
 	}
 }
 character_c_us_va_lynchburg = {
-	name = Alexandra
+	name = Robert
 	religion = "evangelical"
 	culture = "southron"
-	female = yes
-	2636.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_us_va_lynchburg = {
 	}
 }
 character_c_us_va_danville = {
-	name = Alfred
+	name = Letitia
 	religion = "evangelical"
 	culture = "southron"
-	female = no
-	2651.1.1 = {
+	female = yes
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_us_va_danville = {
 	}
 }
 character_c_us_va_emporia = {
-	name = Grady
+	name = Mary_Louise
 	religion = "evangelical"
 	culture = "tuskegean"
-	female = no
-	2642.1.1 = {
+	female = yes
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_us_va_emporia = {
 	}
 }
 character_c_us_tn_knoxville = {
-	name = Greg
+	name = Nimrod
 	religion = "charismaticism"
 	culture = "appalachian"
 	female = no
-	2619.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_us_tn_knoxville = {
 	}
 }
 character_c_us_tn_chattanooga = {
-	name = Buck
+	name = Sander
 	religion = "charismaticism"
 	culture = "appalachian"
 	female = no
-	2592.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_us_tn_chattanooga = {
 	}
 }
 character_c_us_tn_johnson_city = {
-	name = Kermit
+	name = Micager
 	religion = "charismaticism"
 	culture = "melungeon"
 	female = no
-	2639.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -555,7 +555,7 @@ character_c_us_tn_chattanooga = {
 	religion = "revelationist"
 	culture = "appalachian"
 	female = no
-	2610.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_us_tn_chattanooga = {
 	}
 }
 character_c_us_ky_meads = {
-	name = William
+	name = Mark
 	religion = "revelationist"
 	culture = "riverlander"
 	female = no
-	2650.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_us_ky_meads = {
 	}
 }
 character_c_us_ky_middlesboro = {
-	name = Gale
+	name = Wynnona
 	religion = "charismaticism"
 	culture = "appalachian"
 	female = yes
-	2591.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,9 +587,33 @@ character_c_us_ky_middlesboro = {
 	}
 }
 character_c_us_ky_pikeville = {
-	name = Neal
+	name = Timothy
 	religion = "charismaticism"
 	culture = "melungeon"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ky_somerset = {
+	name = Alison
+	religion = "revelationist"
+	culture = "appalachian"
+	female = yes
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wv_charleston = {
+	name = Merle
+	religion = "revelationist"
+	culture = "appalachian"
 	female = no
 	2611.1.1 = {
 		birth = yes
@@ -598,36 +622,12 @@ character_c_us_ky_pikeville = {
 		death = yes
 	}
 }
-character_c_us_ky_somerset = {
-	name = Haywood
-	religion = "revelationist"
-	culture = "appalachian"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wv_charleston = {
-	name = Colt
-	religion = "revelationist"
-	culture = "appalachian"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_wv_morgantown = {
-	name = Buck
+	name = Calvin
 	religion = "galvanist"
 	culture = "appalachian"
 	female = no
-	2616.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_us_wv_morgantown = {
 	}
 }
 character_c_us_wv_wheeling = {
-	name = Clarence
+	name = Huff
 	religion = "galvanist"
 	culture = "appalachian"
 	female = no
-	2605.1.1 = {
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_us_wv_wheeling = {
 	}
 }
 character_c_us_wv_beckley = {
-	name = Hasil
+	name = Jesco
 	religion = "revelationist"
 	culture = "appalachian"
 	female = no
-	2593.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -659,11 +659,11 @@ character_c_us_wv_beckley = {
 	}
 }
 character_c_us_oh_parkersburg = {
-	name = Diane
+	name = Homer
 	religion = "revelationist"
 	culture = "appalachian"
-	female = yes
-	2642.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_us_oh_parkersburg = {
 	}
 }
 character_c_us_wv_summersville = {
-	name = Roscoe
+	name = Jessie
 	religion = "revelationist"
 	culture = "appalachian"
-	female = no
-	2592.1.1 = {
+	female = yes
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,11 +683,11 @@ character_c_us_wv_summersville = {
 	}
 }
 character_c_us_nc_asheville = {
-	name = Polly-Anne
+	name = Josh
 	religion = "charismaticism"
 	culture = "appalachian"
-	female = yes
-	2628.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -695,11 +695,11 @@ character_c_us_nc_asheville = {
 	}
 }
 character_c_us_sc_clemson = {
-	name = Sterling
+	name = Jeptha
 	religion = "charismaticism"
 	culture = "appalachian"
 	female = no
-	2639.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_us_sc_clemson = {
 	}
 }
 character_c_us_nc_hendersonville = {
-	name = Ginger
+	name = Barnabas
 	religion = "charismaticism"
 	culture = "appalachian"
-	female = yes
-	2624.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,11 +719,11 @@ character_c_us_nc_hendersonville = {
 	}
 }
 character_c_us_nc_cherokee = {
-	name = 
+	name = Test
 	religion = "charismaticism"
 	culture = "cherokee"
 	female = no
-	2621.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,11 +731,11 @@ character_c_us_nc_cherokee = {
 	}
 }
 character_c_us_va_bristol = {
-	name = Henry
+	name = Tandy
 	religion = "charismaticism"
 	culture = "melungeon"
 	female = no
-	2616.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_us_va_bristol = {
 	}
 }
 character_c_us_va_radford = {
-	name = Asa
+	name = Simms
 	religion = "charismaticism"
 	culture = "appalachian"
 	female = no
-	2640.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_us_va_radford = {
 	}
 }
 character_c_us_wv_bluefield = {
-	name = Pharmer
+	name = Gordon
 	religion = "charismaticism"
 	culture = "appalachian"
 	female = no
-	2595.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

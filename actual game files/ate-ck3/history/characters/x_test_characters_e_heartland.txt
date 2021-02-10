@@ -1,9 +1,9 @@
 character_c_us_ks_johnson = {
-	name = Warren
+	name = Roger
 	religion = "catholic"
 	culture = "heartlander"
 	female = no
-	2647.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,67 +11,7 @@ character_c_us_ks_johnson = {
 	}
 }
 character_c_us_mo_columbia = {
-	name = 
-	religion = "catholic"
-	culture = "gatewayan"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_saint_joseph = {
-	name = Jack
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_henry = {
-	name = Colleen
-	religion = "catholic"
-	culture = "heartlander"
-	female = yes
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_jefferson_city = {
-	name = 
-	religion = "catholic"
-	culture = "gatewayan"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_cass = {
-	name = Joel
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_saint_louis = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
@@ -82,12 +22,72 @@ character_c_us_mo_saint_louis = {
 		death = yes
 	}
 }
-character_c_us_il_belleville = {
-	name = 
+character_c_us_mo_saint_joseph = {
+	name = Sheldon
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_henry = {
+	name = Elijah
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_jefferson_city = {
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
-	2611.1.1 = {
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_cass = {
+	name = Bob
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_saint_louis = {
+	name = Test
+	religion = "catholic"
+	culture = "gatewayan"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_il_belleville = {
+	name = Test
+	religion = "catholic"
+	culture = "gatewayan"
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,7 +95,7 @@ character_c_us_il_belleville = {
 	}
 }
 character_c_us_mo_rolla = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
@@ -107,11 +107,11 @@ character_c_us_mo_rolla = {
 	}
 }
 character_c_us_mo_o_fallon = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
-	2655.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_us_mo_o_fallon = {
 	}
 }
 character_c_us_mo_hannibal = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
-	2629.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_us_mo_hannibal = {
 	}
 }
 character_c_us_mo_cape_girardeau = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
-	2611.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,19 +143,7 @@ character_c_us_mo_cape_girardeau = {
 	}
 }
 character_c_us_mo_kennett = {
-	name = 
-	religion = "catholic"
-	culture = "gatewayan"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_farmington = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
@@ -166,12 +154,24 @@ character_c_us_mo_farmington = {
 		death = yes
 	}
 }
+character_c_us_mo_farmington = {
+	name = Test
+	religion = "catholic"
+	culture = "gatewayan"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_mo_chillicothe = {
-	name = Herschel
+	name = Dick
 	religion = "catholic"
 	culture = "heartlander"
 	female = no
-	2590.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_us_mo_chillicothe = {
 	}
 }
 character_c_us_mo_adair = {
-	name = Calvin
+	name = Duane
 	religion = "catholic"
 	culture = "heartlander"
 	female = no
-	2614.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_us_mo_adair = {
 	}
 }
 character_c_us_ia_osceola = {
-	name = Dick
+	name = Cora
 	religion = "catholic"
 	culture = "heartlander"
-	female = no
-	2645.1.1 = {
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_us_ia_osceola = {
 	}
 }
 character_c_us_il_quincy = {
-	name = 
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
 	female = no
-	2645.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,237 +215,9 @@ character_c_us_il_quincy = {
 	}
 }
 character_c_us_il_macomb = {
-	name = Ken
+	name = Mike
 	religion = "catholic"
 	culture = "heartlander"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_poplar_bluff = {
-	name = 
-	religion = "catholic"
-	culture = "gatewayan"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_texas = {
-	name = Hodiah
-	religion = "catholic"
-	culture = "ozark"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_winona = {
-	name = Clark
-	religion = "catholic"
-	culture = "ozark"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ok_tulsa = {
-	name = 
-	religion = "catholic"
-	culture = "cherokee"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ok_ardmore = {
-	name = 
-	religion = "catholic"
-	culture = "muscogee"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ok_mcalester = {
-	name = Dwayne
-	religion = "catholic"
-	culture = "dixie"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ok_hugo = {
-	name = Tecumseh
-	religion = "catholic"
-	culture = "okie"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_little_rock = {
-	name = Wade
-	religion = "catholic"
-	culture = "dixie"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_north_little_rock = {
-	name = Leroy
-	religion = "revelationist"
-	culture = "dixie"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_pine_bluff = {
-	name = Elrod
-	religion = "revelationist"
-	culture = "dixie"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_searcy = {
-	name = Milcah
-	religion = "revelationist"
-	culture = "ozark"
-	female = yes
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_crossett = {
-	name = Douglass
-	religion = "revelationist"
-	culture = "tuskegean"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_stuttgart = {
-	name = Philus
-	religion = "revelationist"
-	culture = "dixie"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_fayetteville = {
-	name = Redbone
-	religion = "catholic"
-	culture = "ozark"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_russellville = {
-	name = Hamutal
-	religion = "catholic"
-	culture = "ozark"
-	female = yes
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_harrison = {
-	name = Hunt
-	religion = "revelationist"
-	culture = "ozark"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_batesville = {
-	name = Guire
-	religion = "revelationist"
-	culture = "ozark"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_mountain_home = {
-	name = Hunt
-	religion = "revelationist"
-	culture = "ozark"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mo_springfield = {
-	name = Milburn
-	religion = "catholic"
-	culture = "ozark"
 	female = no
 	2653.1.1 = {
 		birth = yes
@@ -454,34 +226,46 @@ character_c_us_mo_springfield = {
 		death = yes
 	}
 }
-character_c_us_mo_jasper = {
-	name = Loma
+character_c_us_mo_poplar_bluff = {
+	name = Test
 	religion = "catholic"
-	culture = "ozark"
-	female = yes
-	2615.1.1 = {
+	culture = "gatewayan"
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_mo_fort_leonard_wood = {
-	name = Elvin
+character_c_us_mo_texas = {
+	name = Guire
 	religion = "catholic"
 	culture = "ozark"
 	female = no
-	2655.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_mo_bolivar = {
-	name = Douglas
+character_c_us_mo_winona = {
+	name = Hillel
 	religion = "catholic"
-	culture = "heartlander"
+	culture = "ozark"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ok_tulsa = {
+	name = Test
+	religion = "catholic"
+	culture = "cherokee"
 	female = no
 	2620.1.1 = {
 		birth = yes
@@ -490,70 +274,34 @@ character_c_us_mo_bolivar = {
 		death = yes
 	}
 }
-character_c_us_ar_jonesboro = {
-	name = 
-	religion = "revelationist"
-	culture = "gatewayan"
-	female = no
-	2637.1.1 = {
+character_c_us_ok_ardmore = {
+	name = Test
+	religion = "catholic"
+	culture = "muscogee"
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ar_mississippi = {
-	name = 
-	religion = "revelationist"
-	culture = "gatewayan"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_helena_west_helena = {
-	name = Carmichael
-	religion = "revelationist"
-	culture = "tuskegean"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_wynne = {
-	name = 
-	religion = "revelationist"
-	culture = "gatewayan"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ar_fort_smith = {
-	name = Bill
+character_c_us_ok_mcalester = {
+	name = Eula
 	religion = "catholic"
 	culture = "dixie"
-	female = no
-	2603.1.1 = {
+	female = yes
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ar_el_dorado = {
-	name = Wade
-	religion = "revelationist"
-	culture = "dixie"
+character_c_us_ok_hugo = {
+	name = Lee
+	religion = "catholic"
+	culture = "okie"
 	female = no
 	2653.1.1 = {
 		birth = yes
@@ -562,8 +310,260 @@ character_c_us_ar_el_dorado = {
 		death = yes
 	}
 }
+character_c_us_ar_little_rock = {
+	name = Cooter
+	religion = "catholic"
+	culture = "dixie"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_north_little_rock = {
+	name = Heck
+	religion = "revelationist"
+	culture = "dixie"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_pine_bluff = {
+	name = Diamond
+	religion = "revelationist"
+	culture = "dixie"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_searcy = {
+	name = Zemah
+	religion = "revelationist"
+	culture = "ozark"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_crossett = {
+	name = Grant
+	religion = "revelationist"
+	culture = "tuskegean"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_stuttgart = {
+	name = Philip
+	religion = "revelationist"
+	culture = "dixie"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_fayetteville = {
+	name = Rhoder
+	religion = "catholic"
+	culture = "ozark"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_russellville = {
+	name = Heron
+	religion = "catholic"
+	culture = "ozark"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_harrison = {
+	name = Gether
+	religion = "revelationist"
+	culture = "ozark"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_batesville = {
+	name = Mehetabel
+	religion = "revelationist"
+	culture = "ozark"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_mountain_home = {
+	name = Origer
+	religion = "revelationist"
+	culture = "ozark"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_springfield = {
+	name = Gyges
+	religion = "catholic"
+	culture = "ozark"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_jasper = {
+	name = Herod
+	religion = "catholic"
+	culture = "ozark"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_fort_leonard_wood = {
+	name = Tubal
+	religion = "catholic"
+	culture = "ozark"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mo_bolivar = {
+	name = Henry
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_jonesboro = {
+	name = Test
+	religion = "revelationist"
+	culture = "gatewayan"
+	female = yes
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_mississippi = {
+	name = Test
+	religion = "revelationist"
+	culture = "gatewayan"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_helena_west_helena = {
+	name = Dorothea
+	religion = "revelationist"
+	culture = "tuskegean"
+	female = yes
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_wynne = {
+	name = Test
+	religion = "revelationist"
+	culture = "gatewayan"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_fort_smith = {
+	name = Laralene
+	religion = "catholic"
+	culture = "dixie"
+	female = yes
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ar_el_dorado = {
+	name = Abe
+	religion = "revelationist"
+	culture = "dixie"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_ok_idabel = {
-	name = Gregory
+	name = John
 	religion = "catholic"
 	culture = "dixie"
 	female = no
@@ -575,11 +575,11 @@ character_c_us_ok_idabel = {
 	}
 }
 character_c_us_ia_des_moines = {
-	name = Dean
+	name = Darlene
 	religion = "catholic"
 	culture = "heartlander"
-	female = no
-	2609.1.1 = {
+	female = yes
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_us_ia_des_moines = {
 	}
 }
 character_c_us_ia_sioux_city = {
-	name = Warren
+	name = Morgan
 	religion = "catholic"
 	culture = "heartlander"
 	female = no
-	2641.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,55 +599,7 @@ character_c_us_ia_sioux_city = {
 	}
 }
 character_c_us_ia_council_bluffs = {
-	name = Saul
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_fort_dodge = {
-	name = Julie
-	religion = "catholic"
-	culture = "heartlander"
-	female = yes
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sd_brandon = {
-	name = Todd
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_spencer = {
-	name = Harper
-	religion = "catholic"
-	culture = "heartlander"
-	female = yes
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_guthrie = {
-	name = Ray
+	name = Jacob
 	religion = "catholic"
 	culture = "heartlander"
 	female = no
@@ -658,370 +610,10 @@ character_c_us_ia_guthrie = {
 		death = yes
 	}
 }
-character_c_us_ia_cedar_rapids = {
-	name = Larry
+character_c_us_ia_fort_dodge = {
+	name = Scott
 	religion = "catholic"
 	culture = "heartlander"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_waterloo = {
-	name = Ralph
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_marshalltown = {
-	name = Jeff
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_burlington = {
-	name = Marjorie
-	religion = "catholic"
-	culture = "heartlander"
-	female = yes
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mn_rochester = {
-	name = 
-	religion = "viking"
-	culture = "uplander"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_mason_city = {
-	name = Adam
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_dubuque = {
-	name = Elmer
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mn_winona = {
-	name = 
-	religion = "catholic"
-	culture = "uplander"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ia_davenport = {
-	name = Glenn
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_il_rock_island = {
-	name = Eldon
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_omaha = {
-	name = Julia
-	religion = "catholic"
-	culture = "grangelander"
-	female = yes
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_grand_island = {
-	name = Melville
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_fremont = {
-	name = Jacob
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_columbus = {
-	name = David
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_norfolk = {
-	name = Silas
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_saint_paul = {
-	name = Alex
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_o_neill = {
-	name = Dennis
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_wichita = {
-	name = Morris
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_garden_city = {
-	name = Dell
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_dodge_city = {
-	name = Thaddeus
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_liberal = {
-	name = Glen
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_pratt = {
-	name = Elliot
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_topeka = {
-	name = Dakota
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_manhattan = {
-	name = Pomeroy
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_salina = {
-	name = Calvin
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_beatrice = {
-	name = Dwight
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_emporia = {
-	name = Calvin
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_atchison = {
-	name = Sander
-	religion = "catholic"
-	culture = "grangelander"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ne_north_platte = {
-	name = Ruth
-	religion = "real_road"
-	culture = "grangelander"
-	female = yes
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_hays = {
-	name = Zoe
-	religion = "real_road"
-	culture = "grangelander"
-	female = yes
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_colby = {
-	name = Byrne
-	religion = "real_road"
-	culture = "grangelander"
 	female = no
 	2647.1.1 = {
 		birth = yes
@@ -1030,35 +622,131 @@ character_c_us_ks_colby = {
 		death = yes
 	}
 }
-character_c_us_ks_phillips = {
-	name = Clark
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_oberlin = {
-	name = Horace
-	religion = "real_road"
-	culture = "grangelander"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ks_labette = {
-	name = Diana
+character_c_us_sd_brandon = {
+	name = Margaret
 	religion = "catholic"
-	culture = "grangelander"
+	culture = "heartlander"
 	female = yes
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_spencer = {
+	name = Dale
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_guthrie = {
+	name = Pamela
+	religion = "catholic"
+	culture = "heartlander"
+	female = yes
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_cedar_rapids = {
+	name = Phil
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_waterloo = {
+	name = Ryan
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_marshalltown = {
+	name = Ben
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_burlington = {
+	name = Ruth
+	religion = "catholic"
+	culture = "heartlander"
+	female = yes
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mn_rochester = {
+	name = Test
+	religion = "viking"
+	culture = "uplander"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_mason_city = {
+	name = Ralph
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ia_dubuque = {
+	name = Merle
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mn_winona = {
+	name = Test
+	religion = "catholic"
+	culture = "uplander"
+	female = no
 	2650.1.1 = {
 		birth = yes
 	}
@@ -1066,8 +754,8 @@ character_c_us_ks_labette = {
 		death = yes
 	}
 }
-character_c_us_ks_ottawa = {
-	name = Brandon
+character_c_us_ia_davenport = {
+	name = Delbert
 	religion = "catholic"
 	culture = "heartlander"
 	female = no
@@ -1078,8 +766,320 @@ character_c_us_ks_ottawa = {
 		death = yes
 	}
 }
+character_c_us_il_rock_island = {
+	name = William
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_omaha = {
+	name = Otis
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_grand_island = {
+	name = Leslie
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_fremont = {
+	name = Peter
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_columbus = {
+	name = Adam
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_norfolk = {
+	name = Ezra
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_saint_paul = {
+	name = Byrne
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_o_neill = {
+	name = Billy
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_wichita = {
+	name = Moses
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_garden_city = {
+	name = Ignace
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_dodge_city = {
+	name = Manasseh
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_liberal = {
+	name = Shadrach
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_pratt = {
+	name = Ella
+	religion = "catholic"
+	culture = "grangelander"
+	female = yes
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_topeka = {
+	name = Theophile
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_manhattan = {
+	name = Ronald
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_salina = {
+	name = Jeroboam
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_beatrice = {
+	name = Jerome
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_emporia = {
+	name = Dylan
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_atchison = {
+	name = Colton
+	religion = "catholic"
+	culture = "grangelander"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ne_north_platte = {
+	name = Alyssa
+	religion = "real_road"
+	culture = "grangelander"
+	female = yes
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_hays = {
+	name = Otis
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_colby = {
+	name = Theophile
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_phillips = {
+	name = Joel
+	religion = "real_road"
+	culture = "grangelander"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_oberlin = {
+	name = Allison
+	religion = "real_road"
+	culture = "grangelander"
+	female = yes
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_labette = {
+	name = Lois
+	religion = "catholic"
+	culture = "grangelander"
+	female = yes
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ks_ottawa = {
+	name = Drew
+	religion = "catholic"
+	culture = "heartlander"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_ks_clay_center = {
-	name = Jeconiah
+	name = Simon
 	religion = "catholic"
 	culture = "grangelander"
 	female = no
@@ -1091,11 +1091,11 @@ character_c_us_ks_clay_center = {
 	}
 }
 character_c_us_ne_scottsbluff = {
-	name = Mary
+	name = Phineas
 	religion = "real_road"
 	culture = "grangelander"
-	female = yes
-	2626.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1103,11 +1103,11 @@ character_c_us_ne_scottsbluff = {
 	}
 }
 character_c_us_ne_ogallala = {
-	name = Jeconiah
+	name = Zedekiah
 	religion = "real_road"
 	culture = "grangelander"
 	female = no
-	2620.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1115,11 +1115,11 @@ character_c_us_ne_ogallala = {
 	}
 }
 character_c_us_ne_chadron = {
-	name = Theophile
+	name = Harold
 	religion = "real_road"
 	culture = "grangelander"
 	female = no
-	2656.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1127,11 +1127,11 @@ character_c_us_ne_chadron = {
 	}
 }
 character_c_us_ne_ainsworth = {
-	name = Henrietta
+	name = Horace
 	religion = "real_road"
 	culture = "grangelander"
-	female = yes
-	2625.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

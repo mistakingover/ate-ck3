@@ -1,9 +1,9 @@
 character_c_mexico = {
-	name = Patricio
+	name = In_e_act_s
 	religion = "guadalupan"
 	culture = "chilango"
-	female = no
-	2591.1.1 = {
+	female = yes
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_mexico = {
 	}
 }
 character_c_texcoco = {
-	name = Mar_i_act_a_Luisa
+	name = Pilar
 	religion = "guadalupan"
 	culture = "chilango"
 	female = yes
-	2624.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_texcoco = {
 	}
 }
 character_c_morelos = {
-	name = Ra_u_act_l
+	name = Ad_a_act_n
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2596.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_morelos = {
 	}
 }
 character_c_ecatepec = {
-	name = Itzc_o_act_atl
+	name = Ernesto
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2594.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_ecatepec = {
 	}
 }
 character_c_puebla = {
-	name = Tito
+	name = Dal_i_act_
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2622.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_puebla = {
 	}
 }
 character_c_tlaxcala = {
-	name = Aquiles
+	name = Susana
 	religion = "guadalupan"
 	culture = "chilango"
-	female = no
-	2659.1.1 = {
+	female = yes
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_tlaxcala = {
 	}
 }
 character_c_cholula = {
-	name = Balam
+	name = Am_e_act_rico
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2602.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_cholula = {
 	}
 }
 character_c_tehuacan = {
-	name = 
+	name = Test
 	religion = "guadalupan"
 	culture = "nahua"
 	female = no
-	2655.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,7 +95,115 @@ character_c_tehuacan = {
 	}
 }
 character_c_izucar = {
-	name = Juan_Manuel
+	name = Salvador
+	religion = "guadalupan"
+	culture = "chilango"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chiautla = {
+	name = Test
+	religion = "guadalupan"
+	culture = "nahua"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_toluca = {
+	name = Rita
+	religion = "guadalupan"
+	culture = "chilango"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_nicolas_romero = {
+	name = Gaspar
+	religion = "guadalupan"
+	culture = "chilango"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_altacomulco = {
+	name = Alberto
+	religion = "guadalupan"
+	culture = "chilango"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_valle_de_bravo = {
+	name = Eugenio
+	religion = "mictlantec"
+	culture = "chilango"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pachuca = {
+	name = Chanel
+	religion = "guadalupan"
+	culture = "chilango"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tula = {
+	name = Mar_i_act_a_del_Carmen
+	religion = "guadalupan"
+	culture = "chilango"
+	female = yes
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_huejutla = {
+	name = Test
+	religion = "guadalupan"
+	culture = "nahua"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ixmiquilpan = {
+	name = Ricardo
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
@@ -106,106 +214,10 @@ character_c_izucar = {
 		death = yes
 	}
 }
-character_c_chiautla = {
-	name = 
+character_c_teziutlan = {
+	name = Test
 	religion = "guadalupan"
 	culture = "nahua"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_toluca = {
-	name = Vanessa
-	religion = "guadalupan"
-	culture = "chilango"
-	female = yes
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_nicolas_romero = {
-	name = Juan_Manuel
-	religion = "guadalupan"
-	culture = "chilango"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_altacomulco = {
-	name = Marcos
-	religion = "guadalupan"
-	culture = "chilango"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_valle_de_bravo = {
-	name = Geraldo
-	religion = "mictlantec"
-	culture = "chilango"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pachuca = {
-	name = Fabio
-	religion = "guadalupan"
-	culture = "chilango"
-	female = no
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tula = {
-	name = Nahuel
-	religion = "guadalupan"
-	culture = "chilango"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_huejutla = {
-	name = 
-	religion = "guadalupan"
-	culture = "nahua"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ixmiquilpan = {
-	name = Roque
-	religion = "guadalupan"
-	culture = "chilango"
 	female = no
 	2604.1.1 = {
 		birth = yes
@@ -214,24 +226,12 @@ character_c_ixmiquilpan = {
 		death = yes
 	}
 }
-character_c_teziutlan = {
-	name = 
-	religion = "guadalupan"
-	culture = "nahua"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_huauchinango = {
-	name = 
+	name = Test
 	religion = "guadalupan"
 	culture = "nahua"
 	female = no
-	2608.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_huauchinango = {
 	}
 }
 character_c_chalchicomula = {
-	name = Rafael
+	name = Mariano
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2591.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -255,7 +255,7 @@ character_c_leon = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2627.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -267,7 +267,7 @@ character_c_guanajuato = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2621.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_guanajuato = {
 	}
 }
 character_c_dolores = {
-	name = charapa_placeholder_fnames
+	name = charapa_placeholder_mnames
 	religion = "guadalupan"
 	culture = "charapa"
-	female = yes
-	2657.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -291,7 +291,7 @@ character_c_iturbide = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = yes
-	2628.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -303,7 +303,7 @@ character_c_celaya = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2646.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -315,7 +315,7 @@ character_c_irapuato = {
 	religion = "jurihiata_ikikunari"
 	culture = "charapa"
 	female = yes
-	2659.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -327,7 +327,7 @@ character_c_salamanca = {
 	religion = "jurihiata_ikikunari"
 	culture = "charapa"
 	female = no
-	2648.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,11 +335,11 @@ character_c_salamanca = {
 	}
 }
 character_c_acambaro = {
-	name = 
+	name = Rosa
 	religion = "guadalupan"
 	culture = "purepecha"
-	female = no
-	2627.1.1 = {
+	female = yes
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_acambaro = {
 	}
 }
 character_c_queretaro = {
-	name = charapa_placeholder_fnames
+	name = charapa_placeholder_mnames
 	religion = "guadalupan"
 	culture = "charapa"
-	female = yes
-	2651.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_queretaro = {
 	}
 }
 character_c_san_juan_del_rio = {
-	name = Gonzalo
+	name = Bartolomeo
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2620.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_san_juan_del_rio = {
 	}
 }
 character_c_toliman = {
-	name = Hern_a_act_n
+	name = Octavio
 	religion = "guadalupan"
 	culture = "chilango"
 	female = no
-	2595.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -387,7 +387,7 @@ character_c_aguascalientes = {
 	religion = "el_santo"
 	culture = "charapa"
 	female = no
-	2625.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_aguascalientes = {
 	}
 }
 character_c_rincon = {
-	name = charapa_placeholder_mnames
+	name = charapa_placeholder_fnames
 	religion = "el_santo"
 	culture = "charapa"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_rincon = {
 	}
 }
 character_c_ocotlan = {
-	name = Zeferino
+	name = Asunci_o_act_n
 	religion = "el_santo"
 	culture = "tapatio"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_ocotlan = {
 	}
 }
 character_c_san_juan_de_los_lagos = {
-	name = charapa_placeholder_mnames
+	name = charapa_placeholder_fnames
 	religion = "el_santo"
 	culture = "charapa"
-	female = no
-	2591.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_san_juan_de_los_lagos = {
 	}
 }
 character_c_lagos = {
-	name = charapa_placeholder_mnames
+	name = charapa_placeholder_fnames
 	religion = "el_santo"
 	culture = "charapa"
-	female = no
-	2611.1.1 = {
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_lagos = {
 	}
 }
 character_c_tepatitlan = {
-	name = Humberto
+	name = Roberto
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
-	2636.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -459,7 +459,7 @@ character_c_arandas = {
 	religion = "el_santo"
 	culture = "charapa"
 	female = yes
-	2646.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_arandas = {
 	}
 }
 character_c_guadalajara = {
-	name = Pr_a_act_xedis
+	name = Chucho
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
-	2612.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_guadalajara = {
 	}
 }
 character_c_zapopan = {
-	name = Juana
+	name = A_act_ngela
 	religion = "el_santo"
 	culture = "tapatio"
 	female = yes
-	2658.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_zapopan = {
 	}
 }
 character_c_chapala = {
-	name = Faustina
+	name = Gabriel
 	religion = "el_santo"
 	culture = "tapatio"
-	female = yes
-	2619.1.1 = {
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_chapala = {
 	}
 }
 character_c_zapotlanejo = {
-	name = C_e_act_sar
+	name = Lucio
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
-	2660.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_zapotlanejo = {
 	}
 }
 character_c_tepic = {
-	name = N_e_act_stor
+	name = Minervo
 	religion = "guadalupan"
 	culture = "tapatio"
 	female = no
-	2639.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_tepic = {
 	}
 }
 character_c_compostela = {
-	name = Roque
+	name = Miguel_A_act_ngel
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
-	2653.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -543,7 +543,7 @@ character_c_ixcuintla = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2590.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_ixcuintla = {
 	}
 }
 character_c_ixtlan = {
-	name = charapa_placeholder_mnames
+	name = charapa_placeholder_fnames
 	religion = "guadalupan"
 	culture = "charapa"
-	female = no
-	2629.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_ixtlan = {
 	}
 }
 character_c_acaponeta = {
-	name = charapa_placeholder_fnames
+	name = charapa_placeholder_mnames
 	religion = "guadalupan"
 	culture = "charapa"
-	female = yes
-	2653.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_acaponeta = {
 	}
 }
 character_c_colima = {
-	name = Pascual
+	name = Hip_o_act_lito
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
-	2659.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,22 +587,10 @@ character_c_colima = {
 	}
 }
 character_c_zapotlan_el_grande = {
-	name = Consuelo
+	name = Amada
 	religion = "jurihiata_ikikunari"
 	culture = "tapatio"
 	female = yes
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_manzanillo = {
-	name = Ignacio
-	religion = "el_santo"
-	culture = "tapatio"
-	female = no
 	2648.1.1 = {
 		birth = yes
 	}
@@ -610,44 +598,8 @@ character_c_manzanillo = {
 		death = yes
 	}
 }
-character_c_sayula = {
-	name = Antonio
-	religion = "jurihiata_ikikunari"
-	culture = "tapatio"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_autlan = {
-	name = Isidro
-	religion = "el_santo"
-	culture = "tapatio"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ameca = {
-	name = V_i_act_ctor
-	religion = "el_santo"
-	culture = "tapatio"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tequila = {
-	name = Arqu_i_act_medes
+character_c_manzanillo = {
+	name = Anacleto
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
@@ -658,32 +610,56 @@ character_c_tequila = {
 		death = yes
 	}
 }
+character_c_sayula = {
+	name = Enrique
+	religion = "jurihiata_ikikunari"
+	culture = "tapatio"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_autlan = {
+	name = Arsenio
+	religion = "el_santo"
+	culture = "tapatio"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ameca = {
+	name = Ulises
+	religion = "el_santo"
+	culture = "tapatio"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tequila = {
+	name = Cirilo
+	religion = "el_santo"
+	culture = "tapatio"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_talpa = {
-	name = Marcelino
-	religion = "el_santo"
-	culture = "tapatio"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_vallarta = {
-	name = David
-	religion = "el_santo"
-	culture = "tapatio"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cihuatlan = {
-	name = Sergio
+	name = Rodrigo
 	religion = "el_santo"
 	culture = "tapatio"
 	female = no
@@ -694,22 +670,10 @@ character_c_cihuatlan = {
 		death = yes
 	}
 }
-character_c_orizaba = {
-	name = Ramona
-	religion = "guadalupan"
-	culture = "jarocho"
-	female = yes
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_veracruz = {
-	name = Digna
-	religion = "guadalupan"
-	culture = "jarocho"
+character_c_vallarta = {
+	name = Xiana
+	religion = "el_santo"
+	culture = "tapatio"
 	female = yes
 	2656.1.1 = {
 		birth = yes
@@ -718,12 +682,48 @@ character_c_veracruz = {
 		death = yes
 	}
 }
-character_c_huilango = {
-	name = Daniela
+character_c_cihuatlan = {
+	name = Severo
+	religion = "el_santo"
+	culture = "tapatio"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_orizaba = {
+	name = Gok_u_act_
 	religion = "guadalupan"
 	culture = "jarocho"
-	female = yes
-	2654.1.1 = {
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_veracruz = {
+	name = Cuitl_a_act_huac
+	religion = "guadalupan"
+	culture = "jarocho"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_huilango = {
+	name = Eduardo
+	religion = "guadalupan"
+	culture = "jarocho"
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,7 +731,7 @@ character_c_huilango = {
 	}
 }
 character_c_cosamaloapan = {
-	name = Ger_o_act_nimo
+	name = Armando
 	religion = "guadalupan"
 	culture = "jarocho"
 	female = no
@@ -743,11 +743,11 @@ character_c_cosamaloapan = {
 	}
 }
 character_c_xalapa = {
-	name = Paco
+	name = Dar_i_act_o
 	religion = "guadalupan"
 	culture = "jarocho"
 	female = no
-	2650.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_xalapa = {
 	}
 }
 character_c_poza_rica = {
-	name = Rosenda
+	name = Tadeo
 	religion = "guadalupan"
 	culture = "jarocho"
-	female = yes
-	2640.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_poza_rica = {
 	}
 }
 character_c_martinez = {
-	name = Ezequiel
+	name = Roc_i_act_o
 	religion = "guadalupan"
 	culture = "jarocho"
-	female = no
-	2642.1.1 = {
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_martinez = {
 	}
 }
 character_c_coatzacoalcos = {
-	name = Ernesto
+	name = Salvador
 	religion = "guadalupan"
 	culture = "jarocho"
 	female = no
-	2611.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,11 +791,11 @@ character_c_coatzacoalcos = {
 	}
 }
 character_c_minatitlan = {
-	name = Macario
+	name = Gerardo
 	religion = "guadalupan"
 	culture = "jarocho"
 	female = no
-	2591.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -803,11 +803,11 @@ character_c_minatitlan = {
 	}
 }
 character_c_tuxtla = {
-	name = Urcino
+	name = Genaro
 	religion = "guadalupan"
 	culture = "jarocho"
 	female = no
-	2628.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -815,11 +815,11 @@ character_c_tuxtla = {
 	}
 }
 character_c_acayucan = {
-	name = Josu_e_act_
+	name = Mauricio
 	religion = "neomayan"
 	culture = "jarocho"
 	female = no
-	2621.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -827,11 +827,11 @@ character_c_acayucan = {
 	}
 }
 character_c_las_choapas = {
-	name = Cipriano
+	name = Julia
 	religion = "neomayan"
 	culture = "jarocho"
-	female = no
-	2634.1.1 = {
+	female = yes
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,11 +839,11 @@ character_c_las_choapas = {
 	}
 }
 character_c_tuxpam = {
-	name = Mart_i_act_n
+	name = Jacinto
 	religion = "guadalupan"
 	culture = "jarocho"
 	female = no
-	2634.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -851,11 +851,11 @@ character_c_tuxpam = {
 	}
 }
 character_c_tantoyuca = {
-	name = 
+	name = Test
 	religion = "guadalupan"
 	culture = "nahua"
-	female = yes
-	2648.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,7 +867,7 @@ character_c_tamiahua = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2632.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -875,11 +875,11 @@ character_c_tamiahua = {
 	}
 }
 character_c_morelia = {
-	name = 
+	name = Tzitziqui
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
-	female = no
-	2647.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -887,11 +887,11 @@ character_c_morelia = {
 	}
 }
 character_c_zamora = {
-	name = 
+	name = V_i_act_ctor
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
 	female = no
-	2611.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -899,11 +899,11 @@ character_c_zamora = {
 	}
 }
 character_c_uruapan = {
-	name = 
+	name = Sicuirancha
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
 	female = no
-	2622.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -911,11 +911,11 @@ character_c_uruapan = {
 	}
 }
 character_c_patzcuaro = {
-	name = 
+	name = Jos_e_act_
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
-	female = yes
-	2621.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,11 +923,11 @@ character_c_patzcuaro = {
 	}
 }
 character_c_sahuayo = {
-	name = 
+	name = Juan
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -935,11 +935,11 @@ character_c_sahuayo = {
 	}
 }
 character_c_zacapu = {
-	name = 
+	name = Jos_e_act__Luis
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
-	female = yes
-	2606.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -947,11 +947,11 @@ character_c_zacapu = {
 	}
 }
 character_c_zitacuaro = {
-	name = 
+	name = Gerardo
 	religion = "guadalupan"
 	culture = "purepecha"
 	female = no
-	2641.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -959,11 +959,11 @@ character_c_zitacuaro = {
 	}
 }
 character_c_taximaroa = {
-	name = 
+	name = Aurelio
 	religion = "guadalupan"
 	culture = "purepecha"
 	female = no
-	2634.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -971,11 +971,11 @@ character_c_taximaroa = {
 	}
 }
 character_c_mx_16_tac_mbaro_de_codallos = {
-	name = 
+	name = Gabriela
 	religion = "jurihiata_ikikunari"
 	culture = "purepecha"
-	female = no
-	2656.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -983,11 +983,11 @@ character_c_mx_16_tac_mbaro_de_codallos = {
 	}
 }
 character_c_maravatio = {
-	name = 
+	name = Carlos
 	religion = "guadalupan"
 	culture = "purepecha"
 	female = no
-	2605.1.1 = {
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -995,21 +995,9 @@ character_c_maravatio = {
 	}
 }
 character_c_apatzingan = {
-	name = Jos_e_act_
+	name = Rafa
 	religion = "jurihiata_ikikunari"
 	culture = "tapatio"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_los_llanitos = {
-	name = 
-	religion = "mictlantec"
-	culture = "nahua"
 	female = no
 	2652.1.1 = {
 		birth = yes
@@ -1018,12 +1006,24 @@ character_c_los_llanitos = {
 		death = yes
 	}
 }
-character_c_coahuayana = {
-	name = 
-	religion = "el_santo"
+character_c_los_llanitos = {
+	name = Test
+	religion = "mictlantec"
 	culture = "nahua"
 	female = yes
-	2626.1.1 = {
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_coahuayana = {
+	name = Test
+	religion = "el_santo"
+	culture = "nahua"
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1035,7 +1035,7 @@ character_c_san_luis_potosi = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2615.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1047,7 +1047,7 @@ character_c_loreto = {
 	religion = "el_santo"
 	culture = "charapa"
 	female = no
-	2606.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1059,7 +1059,7 @@ character_c_matehuala = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2635.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1071,7 +1071,7 @@ character_c_reyes = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2630.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1083,7 +1083,7 @@ character_c_salinas = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2630.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1095,7 +1095,7 @@ character_c_charcas = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2593.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1103,11 +1103,11 @@ character_c_charcas = {
 	}
 }
 character_c_cedral = {
-	name = Lemuel
+	name = Abiah
 	religion = "guadalupan"
 	culture = "yankee"
 	female = no
-	2592.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1119,7 +1119,7 @@ character_c_tamazunchale = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2608.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1131,7 +1131,7 @@ character_c_ciudad_valles = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2615.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1143,7 +1143,7 @@ character_c_rioverde = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2637.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1155,7 +1155,7 @@ character_c_maiz = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2631.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1163,11 +1163,11 @@ character_c_maiz = {
 	}
 }
 character_c_cardenas = {
-	name = charapa_placeholder_fnames
+	name = charapa_placeholder_mnames
 	religion = "guadalupan"
 	culture = "charapa"
-	female = yes
-	2651.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1179,7 +1179,7 @@ character_c_zacatecas = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2636.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1187,106 +1187,10 @@ character_c_zacatecas = {
 	}
 }
 character_c_jerez = {
-	name = charapa_placeholder_mnames
-	religion = "guadalupan"
-	culture = "charapa"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_32_nochistl_n_de_mej_a = {
-	name = charapa_placeholder_mnames
-	religion = "el_santo"
-	culture = "charapa"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tlaltenago = {
 	name = charapa_placeholder_fnames
 	religion = "guadalupan"
 	culture = "charapa"
 	female = yes
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lechuguilla = {
-	name = charapa_placeholder_mnames
-	religion = "guadalupan"
-	culture = "charapa"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_fresnillo = {
-	name = Eulalio
-	religion = "guadalupan"
-	culture = "chihuahuense"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sombrerete = {
-	name = Daniel
-	religion = "guadalupan"
-	culture = "chihuahuense"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_rio_grande = {
-	name = Reinaldo
-	religion = "guadalupan"
-	culture = "chihuahuense"
-	female = no
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mazapil = {
-	name = Jon_a_act_s
-	religion = "santa_muerte"
-	culture = "chihuahuense"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_oaxaca = {
-	name = 
-	religion = "mictlantec"
-	culture = "zapotec"
-	female = no
 	2618.1.1 = {
 		birth = yes
 	}
@@ -1294,12 +1198,108 @@ character_c_oaxaca = {
 		death = yes
 	}
 }
+character_c_mx_32_nochistl_n_de_mej_a = {
+	name = charapa_placeholder_fnames
+	religion = "el_santo"
+	culture = "charapa"
+	female = yes
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tlaltenago = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lechuguilla = {
+	name = charapa_placeholder_fnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = yes
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_fresnillo = {
+	name = Amy
+	religion = "guadalupan"
+	culture = "chihuahuense"
+	female = yes
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sombrerete = {
+	name = Bernardo
+	religion = "guadalupan"
+	culture = "chihuahuense"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_rio_grande = {
+	name = Juan_Miguel
+	religion = "guadalupan"
+	culture = "chihuahuense"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mazapil = {
+	name = Zacar_i_act_as
+	religion = "santa_muerte"
+	culture = "chihuahuense"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_oaxaca = {
+	name = Test
+	religion = "mictlantec"
+	culture = "zapotec"
+	female = yes
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_miahuatlan = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "zapotec"
 	female = no
-	2601.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1307,11 +1307,11 @@ character_c_miahuatlan = {
 	}
 }
 character_c_zaachila = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "mixtec"
 	female = no
-	2595.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1319,7 +1319,7 @@ character_c_zaachila = {
 	}
 }
 character_c_yautepec = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "zapotec"
 	female = no
@@ -1331,11 +1331,11 @@ character_c_yautepec = {
 	}
 }
 character_c_huajuapan = {
-	name = 
+	name = Test
 	religion = "guadalupan"
 	culture = "mixtec"
 	female = no
-	2653.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1343,32 +1343,8 @@ character_c_huajuapan = {
 	}
 }
 character_c_jamiltepec = {
-	name = 
+	name = Test
 	religion = "mictlantec"
-	culture = "mixtec"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_juquila = {
-	name = 
-	religion = "mictlantec"
-	culture = "mixtec"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tlaxiaco = {
-	name = 
-	religion = "guadalupan"
 	culture = "mixtec"
 	female = no
 	2641.1.1 = {
@@ -1378,12 +1354,36 @@ character_c_tlaxiaco = {
 		death = yes
 	}
 }
-character_c_putla = {
-	name = 
+character_c_juquila = {
+	name = Test
 	religion = "mictlantec"
 	culture = "mixtec"
 	female = no
-	2596.1.1 = {
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tlaxiaco = {
+	name = Test
+	religion = "guadalupan"
+	culture = "mixtec"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_putla = {
+	name = Test
+	religion = "mictlantec"
+	culture = "mixtec"
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1391,22 +1391,10 @@ character_c_putla = {
 	}
 }
 character_c_asuncion_nochixtlan = {
-	name = 
+	name = Test
 	religion = "guadalupan"
 	culture = "mixtec"
 	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tuxtepec = {
-	name = charapa_placeholder_fnames
-	religion = "guadalupan"
-	culture = "charapa"
-	female = yes
 	2594.1.1 = {
 		birth = yes
 	}
@@ -1414,12 +1402,24 @@ character_c_tuxtepec = {
 		death = yes
 	}
 }
-character_c_canada = {
-	name = charapa_placeholder_fnames
+character_c_tuxtepec = {
+	name = charapa_placeholder_mnames
 	religion = "guadalupan"
 	culture = "charapa"
-	female = yes
-	2632.1.1 = {
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_canada = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1431,7 +1431,7 @@ character_c_mixe = {
 	religion = "guadalupan"
 	culture = "charapa"
 	female = no
-	2660.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1439,11 +1439,11 @@ character_c_mixe = {
 	}
 }
 character_c_sierra_juarez = {
-	name = 
+	name = Test
 	religion = "guadalupan"
 	culture = "zapotec"
 	female = yes
-	2620.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1451,11 +1451,11 @@ character_c_sierra_juarez = {
 	}
 }
 character_c_juchitan = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "zapotec"
 	female = no
-	2658.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1463,9 +1463,33 @@ character_c_juchitan = {
 	}
 }
 character_c_tehuantepec = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "zapotec"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pochutla = {
+	name = Test
+	religion = "mictlantec"
+	culture = "zapotec"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_el_corte = {
+	name = charapa_placeholder_fnames
+	religion = "mictlantec"
+	culture = "charapa"
 	female = yes
 	2606.1.1 = {
 		birth = yes
@@ -1474,36 +1498,12 @@ character_c_tehuantepec = {
 		death = yes
 	}
 }
-character_c_pochutla = {
-	name = 
-	religion = "mictlantec"
-	culture = "zapotec"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_el_corte = {
-	name = charapa_placeholder_mnames
-	religion = "mictlantec"
-	culture = "charapa"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_chilpancingo = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "nahua"
 	female = no
-	2629.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1511,11 +1511,11 @@ character_c_chilpancingo = {
 	}
 }
 character_c_taxco = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "nahua"
 	female = no
-	2592.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1523,9 +1523,69 @@ character_c_taxco = {
 	}
 }
 character_c_iguala = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "nahua"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chilapa = {
+	name = Test
+	religion = "mictlantec"
+	culture = "nahua"
+	female = yes
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_altamirano = {
+	name = Test
+	religion = "mictlantec"
+	culture = "nahua"
+	female = yes
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_arcelia = {
+	name = Test
+	religion = "mictlantec"
+	culture = "nahua"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mx_12_acapulco_de_ju_rez = {
+	name = Test
+	religion = "mictlantec"
+	culture = "nahua"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ayutla = {
+	name = Test
+	religion = "mictlantec"
+	culture = "mixtec"
 	female = yes
 	2659.1.1 = {
 		birth = yes
@@ -1534,44 +1594,8 @@ character_c_iguala = {
 		death = yes
 	}
 }
-character_c_chilapa = {
-	name = 
-	religion = "mictlantec"
-	culture = "nahua"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_altamirano = {
-	name = 
-	religion = "mictlantec"
-	culture = "nahua"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_arcelia = {
-	name = 
-	religion = "mictlantec"
-	culture = "nahua"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_12_acapulco_de_ju_rez = {
-	name = 
+character_c_petatlan = {
+	name = Test
 	religion = "mictlantec"
 	culture = "nahua"
 	female = no
@@ -1582,36 +1606,12 @@ character_c_mx_12_acapulco_de_ju_rez = {
 		death = yes
 	}
 }
-character_c_ayutla = {
-	name = 
-	religion = "mictlantec"
-	culture = "mixtec"
-	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_petatlan = {
-	name = 
-	religion = "mictlantec"
-	culture = "nahua"
-	female = yes
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_zihuatenejo_ixtapa = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "nahua"
 	female = no
-	2598.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1619,11 +1619,11 @@ character_c_zihuatenejo_ixtapa = {
 	}
 }
 character_c_tlapa = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "mixtec"
-	female = yes
-	2604.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1631,11 +1631,11 @@ character_c_tlapa = {
 	}
 }
 character_c_ometepec = {
-	name = 
+	name = Test
 	religion = "mictlantec"
 	culture = "mixtec"
 	female = no
-	2623.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,9 +1,9 @@
 character_c_us_wa_seattle = {
-	name = Shepard
+	name = Wash
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
-	2600.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,43 +11,7 @@ character_c_us_wa_seattle = {
 	}
 }
 character_c_us_wa_mount_vernon = {
-	name = Yael
-	religion = "gaian"
-	culture = "canuck"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_bellingham = {
-	name = Missy
-	religion = "gaian"
-	culture = "canuck"
-	female = yes
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_creek = {
-	name = Zoe
-	religion = "gaian"
-	culture = "canuck"
-	female = yes
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_darrington = {
-	name = Mackenzie
+	name = Sullivan
 	religion = "gaian"
 	culture = "canuck"
 	female = no
@@ -58,12 +22,48 @@ character_c_us_wa_darrington = {
 		death = yes
 	}
 }
+character_c_us_wa_bellingham = {
+	name = Justin
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_creek = {
+	name = Tomekichi
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_darrington = {
+	name = Harcus
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_or_portland = {
-	name = Lilith
+	name = Oak
 	religion = "gaian"
 	culture = "cascadian"
-	female = yes
-	2642.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_us_or_portland = {
 	}
 }
 character_c_us_or_tigard = {
-	name = Pharoah
+	name = Lou
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
-	2607.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,43 +83,7 @@ character_c_us_or_tigard = {
 	}
 }
 character_c_us_or_corvallis = {
-	name = Shale
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_astoria = {
-	name = Laura
-	religion = "gaian"
-	culture = "cascadian"
-	female = yes
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_tillamook = {
-	name = Oscar
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_gresham = {
-	name = Jon
+	name = Lou
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
@@ -130,8 +94,188 @@ character_c_us_or_gresham = {
 		death = yes
 	}
 }
+character_c_us_or_astoria = {
+	name = Stewart
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_tillamook = {
+	name = Lug
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_gresham = {
+	name = Liam
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_wa_vancouver = {
-	name = Curtis
+	name = Shepard
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_keizer = {
+	name = Chuck
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_the_dalles = {
+	name = Casmir
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_government_camp = {
+	name = Andrew
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_salem = {
+	name = Melanie
+	religion = "gaian"
+	culture = "cascadian"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_eugene = {
+	name = Spike
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_cottage_grove = {
+	name = Ponderosa
+	religion = "gaian"
+	culture = "siskiyouan"
+	female = yes
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_sweet_home = {
+	name = Jeff
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_oakridge = {
+	name = Ashton
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_coburg = {
+	name = Powell
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_olympia = {
+	name = Jello
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_graham = {
+	name = Bryn
+	religion = "gaian"
+	culture = "cascadian"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_longview = {
+	name = Liam
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
@@ -142,156 +286,12 @@ character_c_us_wa_vancouver = {
 		death = yes
 	}
 }
-character_c_us_or_keizer = {
-	name = Craig
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_the_dalles = {
-	name = Chopaka
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_government_camp = {
-	name = Cramer
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_salem = {
-	name = Ynez
-	religion = "gaian"
-	culture = "cascadian"
-	female = yes
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_eugene = {
-	name = Tiffeny
-	religion = "gaian"
-	culture = "cascadian"
-	female = yes
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_cottage_grove = {
-	name = Clark
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_sweet_home = {
-	name = Jon
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_oakridge = {
-	name = Becca
-	religion = "gaian"
-	culture = "cascadian"
-	female = yes
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_coburg = {
-	name = Collin
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_olympia = {
-	name = Sean
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_graham = {
-	name = Justin
-	religion = "gaian"
-	culture = "cascadian"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_longview = {
-	name = Arwen
-	religion = "gaian"
-	culture = "cascadian"
-	female = yes
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_wa_aberdeen = {
-	name = Apollo
+	name = Robb
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
-	2617.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_us_wa_aberdeen = {
 	}
 }
 character_c_us_wa_raymond = {
-	name = Tabitha
+	name = Salim
 	religion = "gaian"
 	culture = "cascadian"
-	female = yes
-	2658.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_us_wa_raymond = {
 	}
 }
 character_c_us_wa_woodland = {
-	name = Roe
+	name = Cam
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
-	2626.1.1 = {
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,11 +323,11 @@ character_c_us_wa_woodland = {
 	}
 }
 character_c_us_wa_bremerton = {
-	name = Pietro
+	name = Carr
 	religion = "gaian"
 	culture = "cascadian"
 	female = no
-	2596.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,11 +335,11 @@ character_c_us_wa_bremerton = {
 	}
 }
 character_c_us_wa_port_angeles = {
-	name = Eric
+	name = Diane
 	religion = "gaian"
 	culture = "canuck"
-	female = no
-	2646.1.1 = {
+	female = yes
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_us_wa_port_angeles = {
 	}
 }
 character_c_us_wa_hoquiam = {
-	name = Blossom
+	name = Pietro
 	religion = "gaian"
 	culture = "cascadian"
-	female = yes
-	2593.1.1 = {
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_us_wa_hoquiam = {
 	}
 }
 character_c_us_wa_forks = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "wakashan"
 	female = no
-	2655.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_us_wa_forks = {
 	}
 }
 character_c_ca_bc_vancouver = {
-	name = Yuet
+	name = Sandeep
 	religion = "gaian"
 	culture = "canuck"
 	female = no
-	2626.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_ca_bc_vancouver = {
 	}
 }
 character_c_ca_bc_surrey = {
-	name = Rodney
+	name = Brenna
 	religion = "sikhism"
 	culture = "canuck"
-	female = no
-	2617.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,7 +395,55 @@ character_c_ca_bc_surrey = {
 	}
 }
 character_c_ca_bc_coquitlam = {
-	name = Sawyer
+	name = Harbance
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_chilliwack = {
+	name = Jewel
+	religion = "gaian"
+	culture = "canuck"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_beyond_hope = {
+	name = Hyman
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_victoria = {
+	name = Hussain
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_nanaimo = {
+	name = Rhett
 	religion = "gaian"
 	culture = "canuck"
 	female = no
@@ -406,60 +454,12 @@ character_c_ca_bc_coquitlam = {
 		death = yes
 	}
 }
-character_c_ca_bc_chilliwack = {
-	name = Kaden
-	religion = "gaian"
-	culture = "canuck"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_beyond_hope = {
-	name = Linda
-	religion = "gaian"
-	culture = "canuck"
-	female = yes
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_victoria = {
-	name = Hadley
-	religion = "gaian"
-	culture = "canuck"
-	female = yes
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_nanaimo = {
-	name = Adelaide
-	religion = "gaian"
-	culture = "canuck"
-	female = yes
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_ca_bc_vernon = {
-	name = 
+	name = Test
 	religion = "gaian"
 	culture = "wakashan"
-	female = no
-	2644.1.1 = {
+	female = yes
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,369 +467,9 @@ character_c_ca_bc_vernon = {
 	}
 }
 character_c_ca_bc_campbell_river = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "wakashan"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_san_juan = {
-	name = Luke
-	religion = "gaian"
-	culture = "canuck"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sunshine_coast = {
-	name = Jeremy
-	religion = "gaian"
-	culture = "canuck"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sea_to_sky = {
-	name = Hamish
-	religion = "gaian"
-	culture = "canuck"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_read_island = {
-	name = 
-	religion = "raven_tales"
-	culture = "wakashan"
-	female = no
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_spokane = {
-	name = Galena
-	religion = "gaian"
-	culture = "inlander"
-	female = yes
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_pasco = {
-	name = Neil
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_pullman = {
-	name = Kelso
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_moses_lake = {
-	name = Sotin
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_ephrata = {
-	name = Jeff
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_bridgeport = {
-	name = Emshaw
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_yakima = {
-	name = Steck
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_kennewick = {
-	name = Gladstone
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_wenatchee = {
-	name = Wash
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_sunnyside = {
-	name = Kirk
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_goldendale = {
-	name = Bruce
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mt_butte_silver_bow = {
-	name = Heckla
-	religion = "gaian"
-	culture = "inlander"
-	female = yes
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_id_coeur_d_alene = {
-	name = Garf
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_flathead = {
-	name = Naxni
-	religion = "gaian"
-	culture = "ktunaxa"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_id_sandpoint = {
-	name = Mayuk
-	religion = "gaian"
-	culture = "ktunaxa"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_id_saint_maries = {
-	name = Crosse
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_hermiston = {
-	name = Ted
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_walla_walla = {
-	name = Mack
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_la_grande = {
-	name = Alex
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_enterprise = {
-	name = Andrew
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_john_day = {
-	name = Kully
-	religion = "gaian"
-	culture = "inlander"
-	female = yes
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_bend = {
-	name = Cile
-	religion = "gaian"
-	culture = "inlander"
-	female = yes
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_redmond = {
-	name = Franklin
-	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_deschutes_river = {
-	name = Amun
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_burns = {
-	name = 
-	religion = "gaian"
-	culture = "paiute"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_madras = {
-	name = Friday
-	religion = "gaian"
-	culture = "inlander"
 	female = no
 	2606.1.1 = {
 		birth = yes
@@ -838,34 +478,22 @@ character_c_us_or_madras = {
 		death = yes
 	}
 }
-character_c_us_or_harper = {
-	name = 
+character_c_us_wa_san_juan = {
+	name = Clifford
 	religion = "gaian"
-	culture = "paiute"
+	culture = "canuck"
 	female = no
-	2629.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_id_post_falls = {
-	name = Torial
+character_c_sunshine_coast = {
+	name = Yoshio
 	religion = "gaian"
-	culture = "inlander"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wa_omak = {
-	name = Canfield
-	religion = "gaian"
-	culture = "inlander"
+	culture = "canuck"
 	female = no
 	2620.1.1 = {
 		birth = yes
@@ -874,8 +502,128 @@ character_c_us_wa_omak = {
 		death = yes
 	}
 }
-character_c_us_wa_inchelium = {
-	name = Evelyn
+character_c_sea_to_sky = {
+	name = Jet
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_read_island = {
+	name = Test
+	religion = "raven_tales"
+	culture = "wakashan"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_spokane = {
+	name = Lemhi
+	religion = "gaian"
+	culture = "inlander"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_pasco = {
+	name = Charbonneau
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_pullman = {
+	name = Coulee
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_moses_lake = {
+	name = Grancoulie
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_ephrata = {
+	name = Casmir
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_bridgeport = {
+	name = Dessa
+	religion = "gaian"
+	culture = "inlander"
+	female = yes
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_yakima = {
+	name = Sunshine
+	religion = "gaian"
+	culture = "inlander"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_kennewick = {
+	name = Laner
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_wenatchee = {
+	name = Gem
 	religion = "gaian"
 	culture = "inlander"
 	female = yes
@@ -886,10 +634,70 @@ character_c_us_wa_inchelium = {
 		death = yes
 	}
 }
-character_c_shuswap = {
-	name = Grant
+character_c_us_wa_sunnyside = {
+	name = Larry
 	religion = "gaian"
 	culture = "inlander"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_goldendale = {
+	name = Kilarney
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_mt_butte_silver_bow = {
+	name = Joseph
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_id_coeur_d_alene = {
+	name = Wash
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_flathead = {
+	name = T_pst_anquts
+	religion = "gaian"
+	culture = "ktunaxa"
+	female = yes
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_id_sandpoint = {
+	name = Tsu_Tsu
+	religion = "gaian"
+	culture = "ktunaxa"
 	female = no
 	2591.1.1 = {
 		birth = yes
@@ -898,23 +706,131 @@ character_c_shuswap = {
 		death = yes
 	}
 }
-character_c_kelowna = {
-	name = Marble
+character_c_us_id_saint_maries = {
+	name = James
 	religion = "gaian"
 	culture = "inlander"
-	female = yes
-	2620.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_kamloops = {
-	name = Zhiting
+character_c_us_or_hermiston = {
+	name = Coulee
 	religion = "gaian"
-	culture = "canuck"
+	culture = "inlander"
 	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_walla_walla = {
+	name = Sullivan
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_la_grande = {
+	name = Andrew
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_enterprise = {
+	name = Kilarney
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_john_day = {
+	name = Mack
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_bend = {
+	name = Stuart
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_redmond = {
+	name = Wardner
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_deschutes_river = {
+	name = Jared
+	religion = "gaian"
+	culture = "siskiyouan"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_burns = {
+	name = Test
+	religion = "gaian"
+	culture = "paiute"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_madras = {
+	name = Page
+	religion = "gaian"
+	culture = "inlander"
+	female = yes
 	2641.1.1 = {
 		birth = yes
 	}
@@ -922,12 +838,96 @@ character_c_kamloops = {
 		death = yes
 	}
 }
-character_c_ca_bc_oliver = {
-	name = Laner
+character_c_us_or_harper = {
+	name = Test
+	religion = "gaian"
+	culture = "paiute"
+	female = yes
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_id_post_falls = {
+	name = Gordon
 	religion = "gaian"
 	culture = "inlander"
 	female = no
-	2620.1.1 = {
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_omak = {
+	name = Brian
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wa_inchelium = {
+	name = July
+	religion = "gaian"
+	culture = "inlander"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_shuswap = {
+	name = Canfield
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kelowna = {
+	name = Gordon
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kamloops = {
+	name = Karim
+	religion = "gaian"
+	culture = "canuck"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_oliver = {
+	name = Seaman
+	religion = "gaian"
+	culture = "inlander"
+	female = no
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -935,7 +935,7 @@ character_c_ca_bc_oliver = {
 	}
 }
 character_c_ca_bc_merritt = {
-	name = George
+	name = Ingemar
 	religion = "gaian"
 	culture = "canuck"
 	female = no
@@ -947,11 +947,11 @@ character_c_ca_bc_merritt = {
 	}
 }
 character_c_similkameen = {
-	name = William
+	name = Cile
 	religion = "gaian"
 	culture = "inlander"
-	female = no
-	2657.1.1 = {
+	female = yes
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -959,105 +959,9 @@ character_c_similkameen = {
 	}
 }
 character_c_koocanusa = {
-	name = Aqawxatl
+	name = Kit_pst_ikika
 	religion = "gaian"
 	culture = "ktunaxa"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_banff = {
-	name = Cam
-	religion = "gaian"
-	culture = "prairielander"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_kootenai = {
-	name = Yamakpatl
-	religion = "gaian"
-	culture = "ktunaxa"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_kokanee = {
-	name = Lorne
-	religion = "peace_church"
-	culture = "doukhobor"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_selkirk = {
-	name = 
-	religion = "gaian"
-	culture = "shuswap"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_yoho = {
-	name = Jo
-	religion = "gaian"
-	culture = "ktunaxa"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_prince_george = {
-	name = Yests_pst_e
-	religion = "gaian"
-	culture = "dakelh"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_bulkley = {
-	name = Yests_pst_e
-	religion = "gaian"
-	culture = "dakelh"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_robson = {
-	name = Talook
-	religion = "eversky"
-	culture = "dakelh"
 	female = no
 	2601.1.1 = {
 		birth = yes
@@ -1066,23 +970,23 @@ character_c_robson = {
 		death = yes
 	}
 }
-character_c_nechako = {
-	name = Dora
-	religion = "peace_church"
-	culture = "plautsdeutsch"
-	female = yes
-	2625.1.1 = {
+character_c_banff = {
+	name = Fred
+	religion = "gaian"
+	culture = "prairielander"
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_pine_pass = {
-	name = _pst_Ulhti
+character_c_kootenai = {
+	name = Kili_Kupi
 	religion = "gaian"
-	culture = "dakelh"
-	female = no
+	culture = "ktunaxa"
+	female = yes
 	2658.1.1 = {
 		birth = yes
 	}
@@ -1090,12 +994,108 @@ character_c_pine_pass = {
 		death = yes
 	}
 }
-character_c_ca_bc_williams_lake = {
-	name = 
+character_c_kokanee = {
+	name = Walter
+	religion = "peace_church"
+	culture = "doukhobor"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_selkirk = {
+	name = Test
 	religion = "gaian"
 	culture = "shuswap"
 	female = no
-	2642.1.1 = {
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_yoho = {
+	name = Akinq_pst_uku
+	religion = "gaian"
+	culture = "ktunaxa"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_prince_george = {
+	name = Boos
+	religion = "gaian"
+	culture = "dakelh"
+	female = yes
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bulkley = {
+	name = Clifford
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_robson = {
+	name = Lyle
+	religion = "eversky"
+	culture = "dakelh"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_nechako = {
+	name = Erhart
+	religion = "peace_church"
+	culture = "plautsdeutsch"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pine_pass = {
+	name = Booscho
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_bc_williams_lake = {
+	name = Test
+	religion = "gaian"
+	culture = "shuswap"
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1103,19 +1103,7 @@ character_c_ca_bc_williams_lake = {
 	}
 }
 character_c_cariboo = {
-	name = Chunihcho_John
-	religion = "gaian"
-	culture = "dakelh"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_chilcotin = {
-	name = Susyaz
+	name = Goozih_Ken
 	religion = "gaian"
 	culture = "dakelh"
 	female = no
@@ -1126,12 +1114,24 @@ character_c_chilcotin = {
 		death = yes
 	}
 }
+character_c_chilcotin = {
+	name = _pst_Ulhti
+	religion = "gaian"
+	culture = "dakelh"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_lillooet = {
-	name = Angus
+	name = Bennett
 	religion = "gaian"
 	culture = "canuck"
 	female = no
-	2639.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1139,11 +1139,11 @@ character_c_lillooet = {
 	}
 }
 character_c_thompson_valley = {
-	name = 
+	name = Test
 	religion = "gaian"
 	culture = "shuswap"
 	female = no
-	2610.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1151,11 +1151,11 @@ character_c_thompson_valley = {
 	}
 }
 character_c_ca_bc_trail = {
-	name = Maude
+	name = Stella
 	religion = "peace_church"
 	culture = "doukhobor"
 	female = yes
-	2612.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1163,11 +1163,11 @@ character_c_ca_bc_trail = {
 	}
 }
 character_c_boundary = {
-	name = Cecil
+	name = Pauline
 	religion = "peace_church"
 	culture = "doukhobor"
-	female = no
-	2638.1.1 = {
+	female = yes
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,9 +1,9 @@
 character_c_br_05_salvador = {
-	name = Roberto
+	name = Maria_Formosa
 	religion = "candomble"
 	culture = "reconcavano"
-	female = no
-	2614.1.1 = {
+	female = yes
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_br_05_salvador = {
 	}
 }
 character_c_br_05_cama_ari = {
-	name = Maria_das_Merc_e_hat_s
+	name = Miguel
 	religion = "candomble"
 	culture = "reconcavano"
-	female = yes
-	2635.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,9 +23,69 @@ character_c_br_05_cama_ari = {
 	}
 }
 character_c_br_05_alagoinhas = {
-	name = Aloysio
+	name = Jo_a_tld_o
 	religion = "candomble"
 	culture = "reconcavano"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_conde = {
+	name = L_u_act_cio
+	religion = "candomble"
+	culture = "reconcavano"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_feira_de_santana = {
+	name = Maria_da_Rosa_M_i_act_stica
+	religion = "kardecist"
+	culture = "agrestino"
+	female = yes
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_santo_ant_nio_de_jesus = {
+	name = Maria_da_Vit_o_act_ria
+	religion = "culto_dos_santos"
+	culture = "agrestino"
+	female = yes
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_cruz_das_almas = {
+	name = F_a_act_bio
+	religion = "candomble"
+	culture = "reconcavano"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_ipir_ = {
+	name = Jos_e_act__spc_Tarc_i_act_sio
+	religion = "culto_dos_santos"
+	culture = "agrestino"
 	female = no
 	2660.1.1 = {
 		birth = yes
@@ -34,57 +94,117 @@ character_c_br_05_alagoinhas = {
 		death = yes
 	}
 }
-character_c_br_05_conde = {
-	name = Vit_o_act_ria
-	religion = "candomble"
-	culture = "reconcavano"
+character_c_br_05_serrinha = {
+	name = Maria_do_Loreto
+	religion = "culto_dos_santos"
+	culture = "agrestino"
 	female = yes
-	2646.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_05_feira_de_santana = {
-	name = Jos_e_act__spc_Leonardo
-	religion = "kardecist"
-	culture = "agrestino"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_santo_ant_nio_de_jesus = {
-	name = Jos_e_act__spc_Pedro
+character_c_br_05_senhor_do_bonfim = {
+	name = Jos_e_act__spc_Abel
 	religion = "culto_dos_santos"
 	culture = "agrestino"
 	female = no
-	2618.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_05_cruz_das_almas = {
-	name = R_o_hat_mulo
-	religion = "candomble"
-	culture = "reconcavano"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_ipir_ = {
-	name = Jos_e_act__spc_Ger_a_hat_nio
+character_c_br_05_tucano = {
+	name = Jos_e_act__spc_L_i_act_rio
 	religion = "culto_dos_santos"
+	culture = "agrestino"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_concei_o_do_coit_ = {
+	name = Jos_e_act__spc_Cupido
+	religion = "culto_dos_santos"
+	culture = "agrestino"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_euclides_da_cunha = {
+	name = Jos_e_act__spc_Casimiro
+	religion = "culto_dos_santos"
+	culture = "agrestino"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_itaberaba = {
+	name = Jos_e_act__spc_Arnaldo
+	religion = "culto_dos_santos"
+	culture = "agrestino"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_irec_ = {
+	name = Jos_e_act__spc_Henrique
+	religion = "benzedura"
+	culture = "agrestino"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_jacobina = {
+	name = Maria_do_Pres_e_act_pio
+	religion = "culto_dos_santos"
+	culture = "agrestino"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_caetit_ = {
+	name = Jos_e_act__spc_Gabriel
+	religion = "benzedura"
+	culture = "agrestino"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_barra_da_estiva = {
+	name = Jos_e_act__spc_Estev_a_tld_o
+	religion = "benzedura"
 	culture = "agrestino"
 	female = no
 	2607.1.1 = {
@@ -94,132 +214,12 @@ character_c_br_05_ipir_ = {
 		death = yes
 	}
 }
-character_c_br_05_serrinha = {
-	name = Jos_e_act__spc_Luiz
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_senhor_do_bonfim = {
-	name = Jos_e_act__spc_Augusto
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_tucano = {
-	name = Jos_e_act__spc_Luiz
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_concei_o_do_coit_ = {
-	name = Jos_e_act__spc_Augusto
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_euclides_da_cunha = {
-	name = Jos_e_act__spc_Maria
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_itaberaba = {
-	name = Jos_e_act__spc_Bento
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_irec_ = {
-	name = Maria_da_Guia
-	religion = "benzedura"
-	culture = "agrestino"
-	female = yes
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_jacobina = {
-	name = Jos_e_act__spc_Jo_a_tld_o
-	religion = "culto_dos_santos"
-	culture = "agrestino"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_caetit_ = {
-	name = Jos_e_act__spc_de_spc_Arimat_e_act_ia
-	religion = "benzedura"
-	culture = "agrestino"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_barra_da_estiva = {
-	name = Jos_e_act__spc_Leopoldo
-	religion = "benzedura"
-	culture = "agrestino"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_05_seabra = {
-	name = Jos_e_act__spc_Arcanjo
+	name = Jos_e_act__spc_Bernardo
 	religion = "benzedura"
 	culture = "agrestino"
 	female = no
-	2594.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_br_05_seabra = {
 	}
 }
 character_c_br_05_bom_jesus_da_lapa = {
-	name = Let_i_act_cia
+	name = Teot_o_hat_nio
 	religion = "benzedura"
 	culture = "franciscano"
-	female = yes
-	2647.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,8 +239,20 @@ character_c_br_05_bom_jesus_da_lapa = {
 	}
 }
 character_c_br_05_guanambi = {
-	name = Maria_da_Sa_u_act_de
+	name = Jos_e_act__Ant_o_hat_nio
 	religion = "benzedura"
+	culture = "franciscano"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_ibotirama = {
+	name = Maria_Terceira
+	religion = "neopentecostalism"
 	culture = "franciscano"
 	female = yes
 	2614.1.1 = {
@@ -250,24 +262,12 @@ character_c_br_05_guanambi = {
 		death = yes
 	}
 }
-character_c_br_05_ibotirama = {
-	name = Raimundo_Patr_i_act_cio
-	religion = "neopentecostalism"
-	culture = "franciscano"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_05_paulo_afonso = {
-	name = Benedito
+	name = Jos_e_act__Val_e_act_rio
 	religion = "culto_dos_santos"
 	culture = "franciscano"
 	female = no
-	2628.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_br_05_paulo_afonso = {
 	}
 }
 character_c_br_05_c_cero_dantas = {
-	name = Manuel_V_i_act_tor
+	name = Elza
 	religion = "culto_dos_santos"
 	culture = "franciscano"
-	female = no
-	2608.1.1 = {
+	female = yes
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_br_05_c_cero_dantas = {
 	}
 }
 character_c_br_05_pinh_es = {
-	name = Jos_e_act__Felipe
+	name = Jos_e_act__Francisco
 	religion = "pentecostalism"
 	culture = "franciscano"
 	female = no
-	2613.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_br_05_pinh_es = {
 	}
 }
 character_c_br_05_xique_xique = {
-	name = Jos_e_act__Lino
+	name = Firmo_Jos_e_act_
 	religion = "neopentecostalism"
 	culture = "franciscano"
 	female = no
-	2596.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_br_05_xique_xique = {
 	}
 }
 character_c_br_05_pau_de_colher = {
-	name = Jos_e_act__Ded_e_act_
+	name = Flaviano
 	religion = "neopentecostalism"
 	culture = "franciscano"
 	female = no
-	2646.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,249 +323,9 @@ character_c_br_05_pau_de_colher = {
 	}
 }
 character_c_br_05_itabuna = {
-	name = Jos_e_act__spc_Tarc_i_act_sio
+	name = Jos_e_act__spc_Cec_i_act_lio
 	religion = "culto_dos_santos"
 	culture = "agrestino"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_ilh_us = {
-	name = H_e_act_lvio
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_ipia_ = {
-	name = Washington
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_valen_a = {
-	name = Lucas
-	religion = "candomble"
-	culture = "ilheense"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_ubaitaba = {
-	name = Geraldo
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_vit_ria_da_conquista = {
-	name = Jos_e_act__spc_Casimiro
-	religion = "benzedura"
-	culture = "agrestino"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_jequi_ = {
-	name = Jos_e_act__spc_Carlos
-	religion = "benzedura"
-	culture = "agrestino"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_brumado = {
-	name = Jos_e_act__spc_Filipe
-	religion = "benzedura"
-	culture = "agrestino"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_porto_seguro = {
-	name = Antonio
-	religion = "candomble"
-	culture = "ilheense"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_eun_polis = {
-	name = Jos_e_act__spc_Leonardo
-	religion = "benzedura"
-	culture = "pataxo"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_mucuri = {
-	name = H_e_act_lvio
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_itamaraju = {
-	name = Severina
-	religion = "benzedura"
-	culture = "pataxo"
-	female = yes
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_medeiros_neto = {
-	name = Jos_e_act__spc_Nic_e_foro
-	religion = "benzedura"
-	culture = "pataxo"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_itapetinga = {
-	name = Maria_da_Estrela
-	religion = "benzedura"
-	culture = "agrestino"
-	female = yes
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_una = {
-	name = Jorge
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_canavieiras = {
-	name = Maria_da_Estrela
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = yes
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_barreiras = {
-	name = Maria_do_Natal
-	religion = "veredite"
-	culture = "sertanista"
-	female = yes
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_santa_maria_da_vit_ria = {
-	name = Riobaldo
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_carinhanha = {
-	name = Jo_a_tld_o_Ces_a_act_rio
-	religion = "veredite"
-	culture = "franciscano"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_brejinho = {
-	name = Maria_Esperan_c_ced__a_tld
-	religion = "veredite"
-	culture = "franciscano"
-	female = yes
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_05_barra = {
-	name = Jos_e_act__Ant_o_hat_nio
-	religion = "veredite"
-	culture = "franciscano"
 	female = no
 	2639.1.1 = {
 		birth = yes
@@ -574,12 +334,252 @@ character_c_br_05_barra = {
 		death = yes
 	}
 }
+character_c_br_05_ilh_us = {
+	name = Samuel
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_ipia_ = {
+	name = Luciano
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_valen_a = {
+	name = G_e_act_rson
+	religion = "candomble"
+	culture = "ilheense"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_ubaitaba = {
+	name = Francisco
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_vit_ria_da_conquista = {
+	name = Jos_e_act__spc_Martinho
+	religion = "benzedura"
+	culture = "agrestino"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_jequi_ = {
+	name = Jos_e_act__spc_Tadeu
+	religion = "benzedura"
+	culture = "agrestino"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_brumado = {
+	name = Jos_e_act__spc_Jo_a_tld_o
+	religion = "benzedura"
+	culture = "agrestino"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_porto_seguro = {
+	name = Beatriz
+	religion = "candomble"
+	culture = "ilheense"
+	female = yes
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_eun_polis = {
+	name = Maria_Tr_e_hat_s_Vezes_Admir_a_act_vel
+	religion = "benzedura"
+	culture = "pataxo"
+	female = yes
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_mucuri = {
+	name = Rog_e_act_rio
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_itamaraju = {
+	name = Jos_e_act__spc_A_act_gato
+	religion = "benzedura"
+	culture = "pataxo"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_medeiros_neto = {
+	name = Jos_e_act__spc_Gonzaga
+	religion = "benzedura"
+	culture = "pataxo"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_itapetinga = {
+	name = Maria_da_Purifica_c_ced__a_tld_o
+	religion = "benzedura"
+	culture = "agrestino"
+	female = yes
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_una = {
+	name = H_e_act_lio
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_canavieiras = {
+	name = G_e_act_rson
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_barreiras = {
+	name = Cassimiro
+	religion = "veredite"
+	culture = "sertanista"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_santa_maria_da_vit_ria = {
+	name = Geraldo
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_carinhanha = {
+	name = Saem
+	religion = "veredite"
+	culture = "franciscano"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_brejinho = {
+	name = Pedro_Paulo
+	religion = "veredite"
+	culture = "franciscano"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_05_barra = {
+	name = Andr_e_act_
+	religion = "veredite"
+	culture = "franciscano"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_br_05_tor_o = {
-	name = Jos_e_act__Pedro
+	name = Undino
 	religion = "neopentecostalism"
 	culture = "franciscano"
 	female = no
-	2616.1.1 = {
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

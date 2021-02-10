@@ -40,6 +40,7 @@
 			hostility_override_special_doctrine_mainstream_protestant = 1
 			hostility_override_special_doctrine_catholic_heritage = 1
 			hostility_override_special_doctrine_saintly_spirits = 2
+			hostility_override_special_doctrine_teachings_of_kardec = 2
 		}
 	}
 	
@@ -134,6 +135,7 @@ doctrine_catholic_tolerance = { #put certain tolerance doctrines here
 			hostility_override_special_doctrine_latin_rite = 1
 			hostility_override_special_doctrine_saintly_spirits = 1
 			hostility_override_special_doctrine_juju = 2
+			hostility_override_special_doctrine_teachings_of_kardec = 2
 		}
 	}
 }

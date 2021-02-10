@@ -1,9 +1,9 @@
 character_c_us_ak_anchorage = {
-	name = Sheldon
+	name = Seward
 	religion = "eversky"
 	culture = "alaskan"
 	female = no
-	2613.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,19 +11,7 @@ character_c_us_ak_anchorage = {
 	}
 }
 character_c_us_ak_kalifornsky = {
-	name = Peter
-	religion = "eversky"
-	culture = "alaskan"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_valdez = {
-	name = Prudhoe
+	name = Paul
 	religion = "eversky"
 	culture = "alaskan"
 	female = no
@@ -34,12 +22,24 @@ character_c_us_ak_valdez = {
 		death = yes
 	}
 }
+character_c_us_ak_valdez = {
+	name = George
+	religion = "eversky"
+	culture = "alaskan"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_ak_seward = {
-	name = Christie
+	name = Ursa
 	religion = "eversky"
 	culture = "alaskan"
 	female = yes
-	2621.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_us_ak_seward = {
 	}
 }
 character_c_us_ak_glennallen = {
-	name = Jay
+	name = Will
 	religion = "eversky"
 	culture = "alaskan"
 	female = no
-	2643.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,10 +59,10 @@ character_c_us_ak_glennallen = {
 	}
 }
 character_c_us_ak_healy = {
-	name = Herman
+	name = Christie
 	religion = "eversky"
 	culture = "alaskan"
-	female = no
+	female = yes
 	2616.1.1 = {
 		birth = yes
 	}
@@ -71,11 +71,11 @@ character_c_us_ak_healy = {
 	}
 }
 character_c_us_ak_unalaska = {
-	name = 
+	name = Test
 	religion = "cross_faith"
 	culture = "unangan"
-	female = yes
-	2625.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_us_ak_unalaska = {
 	}
 }
 character_c_us_ak_kodiak = {
-	name = 
+	name = Test
 	religion = "cross_faith"
 	culture = "alutiiq"
 	female = no
-	2614.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,11 +95,11 @@ character_c_us_ak_kodiak = {
 	}
 }
 character_c_us_ak_naknek = {
-	name = 
+	name = Test
 	religion = "cross_faith"
 	culture = "alutiiq"
 	female = no
-	2608.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -107,11 +107,11 @@ character_c_us_ak_naknek = {
 	}
 }
 character_c_us_ak_sand_point = {
-	name = 
+	name = Test
 	religion = "cross_faith"
 	culture = "unangan"
-	female = yes
-	2648.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_us_ak_sand_point = {
 	}
 }
 character_c_us_ak_king_cove = {
-	name = 
+	name = Test
 	religion = "cross_faith"
 	culture = "unangan"
-	female = no
-	2655.1.1 = {
+	female = yes
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_us_ak_king_cove = {
 	}
 }
 character_c_us_ak_atka = {
-	name = 
+	name = Test
 	religion = "cross_faith"
 	culture = "unangan"
 	female = yes
-	2592.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,31 +143,7 @@ character_c_us_ak_atka = {
 	}
 }
 character_c_us_ak_bethel = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "yupik"
-	female = yes
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_dillingham = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "yupik"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_togiak = {
-	name = 
+	name = Test
 	religion = "ilisaijjut"
 	culture = "yupik"
 	female = no
@@ -178,12 +154,36 @@ character_c_us_ak_togiak = {
 		death = yes
 	}
 }
+character_c_us_ak_dillingham = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "yupik"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_togiak = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "yupik"
+	female = yes
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_ak_mcgrath = {
-	name = 
+	name = Test
 	religion = "peace_church"
 	culture = "yupik"
 	female = no
-	2616.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_us_ak_mcgrath = {
 	}
 }
 character_c_us_ak_denali_national_park = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "koyukon"
-	female = no
-	2603.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,7 +203,19 @@ character_c_us_ak_denali_national_park = {
 	}
 }
 character_c_glacier_bay = {
-	name = 
+	name = Test
+	religion = "ilisaijjut"
+	culture = "yupik"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_emmonak = {
+	name = Test
 	religion = "ilisaijjut"
 	culture = "yupik"
 	female = no
@@ -214,24 +226,12 @@ character_c_glacier_bay = {
 		death = yes
 	}
 }
-character_c_us_ak_emmonak = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "yupik"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_ak_unalakleet = {
-	name = 
+	name = Test
 	religion = "ilisaijjut"
 	culture = "yupik"
-	female = no
-	2642.1.1 = {
+	female = yes
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_us_ak_unalakleet = {
 	}
 }
 character_c_us_ak_grayling = {
-	name = 
+	name = Test
 	religion = "ilisaijjut"
 	culture = "yupik"
 	female = no
-	2639.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_us_ak_grayling = {
 	}
 }
 character_c_us_ak_huslia = {
-	name = 
+	name = Test
 	religion = "peace_church"
 	culture = "koyukon"
 	female = no
-	2608.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_us_ak_huslia = {
 	}
 }
 character_c_us_ak_tanana = {
-	name = 
+	name = Test
 	religion = "peace_church"
 	culture = "koyukon"
 	female = no
-	2611.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_us_ak_tanana = {
 	}
 }
 character_c_us_ak_anaktuvuk_pass = {
-	name = 
+	name = Test
 	religion = "anglican"
 	culture = "koyukon"
-	female = no
-	2605.1.1 = {
+	female = yes
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_us_ak_anaktuvuk_pass = {
 	}
 }
 character_c_us_ak_fairbanks = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "klondiker"
 	female = no
-	2595.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_us_ak_fairbanks = {
 	}
 }
 character_c_us_ak_deltana = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "klondiker"
 	female = no
-	2642.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_us_ak_deltana = {
 	}
 }
 character_c_ca_yt_dawson_city = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "klondiker"
 	female = no
-	2629.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,11 +323,11 @@ character_c_ca_yt_dawson_city = {
 	}
 }
 character_c_ca_yt_mayo = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "klondiker"
 	female = no
-	2596.1.1 = {
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,11 +335,11 @@ character_c_ca_yt_mayo = {
 	}
 }
 character_c_whitehorse = {
-	name = Molly
+	name = Doug
 	religion = "eversky"
 	culture = "yukoner"
-	female = yes
-	2653.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_whitehorse = {
 	}
 }
 character_c_ca_yt_pelly_crossing = {
-	name = Jason
+	name = Dan
 	religion = "eversky"
 	culture = "yukoner"
 	female = no
-	2649.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_ca_yt_pelly_crossing = {
 	}
 }
 character_c_atlin = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tlingit"
 	female = no
-	2630.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_atlin = {
 	}
 }
 character_c_ca_yt_ross_river = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "kaska"
 	female = no
-	2646.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_ca_yt_ross_river = {
 	}
 }
 character_c_teslin = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tlingit"
-	female = no
-	2590.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_teslin = {
 	}
 }
 character_c_chilkoot = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "tlingit"
 	female = yes
-	2639.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_chilkoot = {
 	}
 }
 character_c_kluane = {
-	name = Ione
+	name = Tom
 	religion = "eversky"
 	culture = "yukoner"
-	female = yes
-	2608.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_kluane = {
 	}
 }
 character_c_us_ak_alcan_border = {
-	name = Alice
+	name = Stephen
 	religion = "eversky"
 	culture = "yukoner"
-	female = yes
-	2617.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_us_ak_alcan_border = {
 	}
 }
 character_c_ca_nt_fort_mcpherson = {
-	name = 
+	name = Test
 	religion = "anglican"
 	culture = "gwichin"
-	female = no
-	2593.1.1 = {
+	female = yes
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,7 +443,7 @@ character_c_ca_nt_fort_mcpherson = {
 	}
 }
 character_c_us_ak_fort_yukon = {
-	name = 
+	name = Test
 	religion = "anglican"
 	culture = "gwichin"
 	female = no
@@ -455,81 +455,9 @@ character_c_us_ak_fort_yukon = {
 	}
 }
 character_c_us_ak_arctic_village = {
-	name = 
+	name = Test
 	religion = "anglican"
 	culture = "gwichin"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_yt_whitestone_village = {
-	name = 
-	religion = "anglican"
-	culture = "gwichin"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_canyon_village = {
-	name = 
-	religion = "anglican"
-	culture = "gwichin"
-	female = no
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_yt_old_crow = {
-	name = 
-	religion = "anglican"
-	culture = "gwichin"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_juneau = {
-	name = 
-	religion = "cross_faith"
-	culture = "tlingit"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_baranof = {
-	name = 
-	religion = "cross_faith"
-	culture = "tlingit"
-	female = yes
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_chichagof = {
-	name = 
-	religion = "cross_faith"
-	culture = "tlingit"
 	female = no
 	2612.1.1 = {
 		birth = yes
@@ -538,8 +466,68 @@ character_c_chichagof = {
 		death = yes
 	}
 }
-character_c_us_ak_yakutat = {
-	name = 
+character_c_ca_yt_whitestone_village = {
+	name = Test
+	religion = "anglican"
+	culture = "gwichin"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_canyon_village = {
+	name = Test
+	religion = "anglican"
+	culture = "gwichin"
+	female = yes
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_yt_old_crow = {
+	name = Test
+	religion = "anglican"
+	culture = "gwichin"
+	female = yes
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_juneau = {
+	name = Test
+	religion = "cross_faith"
+	culture = "tlingit"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_baranof = {
+	name = Test
+	religion = "cross_faith"
+	culture = "tlingit"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chichagof = {
+	name = Test
 	religion = "cross_faith"
 	culture = "tlingit"
 	female = no
@@ -550,12 +538,24 @@ character_c_us_ak_yakutat = {
 		death = yes
 	}
 }
+character_c_us_ak_yakutat = {
+	name = Test
+	religion = "cross_faith"
+	culture = "tlingit"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_kitimat = {
-	name = 
+	name = Test
 	religion = "gaian"
 	culture = "tsimshianic"
 	female = no
-	2632.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_kitimat = {
 	}
 }
 character_c_prince_rupert = {
-	name = 
+	name = Test
 	religion = "gaian"
 	culture = "tsimshianic"
-	female = no
-	2629.1.1 = {
+	female = yes
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_prince_rupert = {
 	}
 }
 character_c_bella_coola = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "wakashan"
 	female = no
-	2623.1.1 = {
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_bella_coola = {
 	}
 }
 character_c_fiordland = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "wakashan"
-	female = no
-	2624.1.1 = {
+	female = yes
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_fiordland = {
 	}
 }
 character_c_ketchikan = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tlingit"
 	female = no
-	2640.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_ketchikan = {
 	}
 }
 character_c_kupreanof = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tlingit"
 	female = no
-	2642.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_kupreanof = {
 	}
 }
 character_c_klawock = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tlingit"
 	female = no
-	2658.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_klawock = {
 	}
 }
 character_c_wrangell = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tlingit"
-	female = no
-	2592.1.1 = {
+	female = yes
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_wrangell = {
 	}
 }
 character_c_hydaburg = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "haida"
-	female = no
-	2642.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -659,11 +659,11 @@ character_c_hydaburg = {
 	}
 }
 character_c_nass = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "tsimshianic"
-	female = no
-	2595.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_nass = {
 	}
 }
 character_c_cassiar = {
-	name = 
+	name = Test
 	religion = "eversky"
 	culture = "kaska"
 	female = yes
-	2627.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,129 +683,9 @@ character_c_cassiar = {
 	}
 }
 character_c_stikine = {
-	name = 
+	name = Test
 	religion = "raven_tales"
 	culture = "kaska"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gwaii_haanas = {
-	name = 
-	religion = "raven_tales"
-	culture = "haida"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_kiis_gwaii = {
-	name = 
-	religion = "raven_tales"
-	culture = "haida"
-	female = yes
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_nome = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_kotzebue = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_selawik = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_barrow = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_prudhoe_bay = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_point_hope = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "inupiat"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_gambell = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "yupik"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ak_diomede = {
-	name = 
-	religion = "ilisaijjut"
-	culture = "yupik"
 	female = no
 	2651.1.1 = {
 		birth = yes
@@ -814,12 +694,132 @@ character_c_us_ak_diomede = {
 		death = yes
 	}
 }
-character_c_us_al_noname91190202 = {
-	name = 
+character_c_gwaii_haanas = {
+	name = Test
+	religion = "raven_tales"
+	culture = "haida"
+	female = yes
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kiis_gwaii = {
+	name = Test
+	religion = "raven_tales"
+	culture = "haida"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_nome = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "inupiat"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_kotzebue = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "inupiat"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_selawik = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "inupiat"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_barrow = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "inupiat"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_prudhoe_bay = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "inupiat"
+	female = yes
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_point_hope = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "inupiat"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_gambell = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "yupik"
+	female = yes
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ak_diomede = {
+	name = Test
 	religion = "ilisaijjut"
 	culture = "yupik"
 	female = no
-	2604.1.1 = {
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_al_noname91190202 = {
+	name = Test
+	religion = "ilisaijjut"
+	culture = "yupik"
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

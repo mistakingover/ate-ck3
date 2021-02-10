@@ -1,92 +1,8 @@
 character_c_br_27_s_o_paulo = {
-	name = Itamar
+	name = Iara
 	religion = "apostolicism"
 	culture = "paulistano"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_osasco = {
-	name = Ivandro
-	religion = "johrei"
-	culture = "paulistano"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_mogi_das_cruzes = {
-	name = Rafael
-	religion = "neopentecostalism"
-	culture = "paulistano"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_campinas = {
-	name = Dami_a_tld_o
-	religion = "apostolicism"
-	culture = "paulistano"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_jundia_ = {
-	name = Pablo
-	religion = "kardecist"
-	culture = "paulistano"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_bragan_a_paulista = {
-	name = Maria_S_i_act_lvia
-	religion = "apostolicism"
-	culture = "capiau"
 	female = yes
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_amparo = {
-	name = Patr_i_act_cia
-	religion = "apostolicism"
-	culture = "capiau"
-	female = yes
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_ribeir_o_preto = {
-	name = Tidei
-	religion = "apostolicism"
-	culture = "paulista"
-	female = no
 	2652.1.1 = {
 		birth = yes
 	}
@@ -94,178 +10,46 @@ character_c_br_27_ribeir_o_preto = {
 		death = yes
 	}
 }
-character_c_br_27_franca = {
-	name = Jo_a_tld_o_Francisco
-	religion = "apostolicism"
-	culture = "capiau"
+character_c_br_27_osasco = {
+	name = Brendon
+	religion = "johrei"
+	culture = "paulistano"
 	female = no
-	2611.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_barretos = {
-	name = Chica
-	religion = "apostolicism"
-	culture = "caipira"
-	female = yes
-	2623.1.1 = {
+character_c_br_27_mogi_das_cruzes = {
+	name = Ferdinando
+	religion = "neopentecostalism"
+	culture = "paulistano"
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_orl_ndia = {
-	name = Branca
-	religion = "apostolicism"
-	culture = "capiau"
-	female = yes
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_s_o_jos_dos_campos = {
-	name = Eusebio
+character_c_br_27_campinas = {
+	name = Altamiro
 	religion = "apostolicism"
 	culture = "paulistano"
 	female = no
-	2636.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_taubat_ = {
-	name = Pedro
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_guaratinguet_ = {
-	name = Agnes
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = yes
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_campos_do_jord_o = {
-	name = Rafael
-	religion = "apostolicism"
-	culture = "capiau"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_ant_nio_rocha = {
-	name = Dominique
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_s_o_vicente = {
-	name = Pl_a_act_cido
-	religion = "apostolicism"
-	culture = "caicara"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_santos = {
-	name = Agenor
-	religion = "apostolicism"
-	culture = "caicara"
-	female = no
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_sorocaba = {
-	name = Jorge
-	religion = "apostolicism"
-	culture = "paulista"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_tatu_ = {
-	name = Glenda
-	religion = "apostolicism"
-	culture = "paulista"
-	female = yes
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_itapetininga = {
-	name = Samara
-	religion = "apostolicism"
-	culture = "paulista"
-	female = yes
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_limeira = {
-	name = Alfeu
-	religion = "apostolicism"
-	culture = "paulista"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_piracicaba = {
-	name = Mateus
-	religion = "apostolicism"
-	culture = "paulista"
+character_c_br_27_jundia_ = {
+	name = Adilson
+	religion = "kardecist"
+	culture = "paulistano"
 	female = no
 	2608.1.1 = {
 		birth = yes
@@ -274,35 +58,83 @@ character_c_br_27_piracicaba = {
 		death = yes
 	}
 }
-character_c_br_27_s_o_pedro = {
-	name = Carlos
+character_c_br_27_bragan_a_paulista = {
+	name = Michel
 	religion = "apostolicism"
-	culture = "paulista"
+	culture = "capiau"
 	female = no
-	2607.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_s_o_carlos = {
-	name = Adail
+character_c_br_27_amparo = {
+	name = Ulisses
 	religion = "apostolicism"
-	culture = "paulista"
+	culture = "capiau"
 	female = no
-	2656.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_araraquara = {
-	name = Bella
+character_c_br_27_ribeir_o_preto = {
+	name = Moacyr
 	religion = "apostolicism"
 	culture = "paulista"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_franca = {
+	name = Rafael
+	religion = "apostolicism"
+	culture = "capiau"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_barretos = {
+	name = Belina
+	religion = "apostolicism"
+	culture = "caipira"
 	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_orl_ndia = {
+	name = Caetano
+	religion = "apostolicism"
+	culture = "capiau"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_s_o_jos_dos_campos = {
+	name = Ian
+	religion = "apostolicism"
+	culture = "paulistano"
+	female = no
 	2627.1.1 = {
 		birth = yes
 	}
@@ -310,46 +142,58 @@ character_c_br_27_araraquara = {
 		death = yes
 	}
 }
-character_c_br_27_mat_o = {
-	name = Z_e_act__Bento
+character_c_br_27_taubat_ = {
+	name = Macario
 	religion = "apostolicism"
-	culture = "caipira"
+	culture = "paraiba"
 	female = no
-	2647.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_leme = {
-	name = Adib
+character_c_br_27_guaratinguet_ = {
+	name = Claudio
 	religion = "apostolicism"
-	culture = "paulista"
+	culture = "paraiba"
 	female = no
-	2604.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_bauru = {
-	name = Aloysio
+character_c_br_27_campos_do_jord_o = {
+	name = Leandro
 	religion = "apostolicism"
-	culture = "paulista"
+	culture = "capiau"
 	female = no
-	2590.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_27_ja_ = {
-	name = H_e_act_lio
+character_c_br_21_ant_nio_rocha = {
+	name = Arthur
 	religion = "apostolicism"
-	culture = "paulista"
+	culture = "paraiba"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_s_o_vicente = {
+	name = H_e_act_lder
+	religion = "apostolicism"
+	culture = "caicara"
 	female = no
 	2606.1.1 = {
 		birth = yes
@@ -358,12 +202,168 @@ character_c_br_27_ja_ = {
 		death = yes
 	}
 }
-character_c_br_27_botucatu = {
-	name = Aldo
+character_c_br_27_santos = {
+	name = Wendel
+	religion = "apostolicism"
+	culture = "caicara"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_sorocaba = {
+	name = Eduardo
 	religion = "apostolicism"
 	culture = "paulista"
 	female = no
-	2646.1.1 = {
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_tatu_ = {
+	name = Devanir
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_itapetininga = {
+	name = Dimas
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_limeira = {
+	name = Almino
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_piracicaba = {
+	name = Auro
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_s_o_pedro = {
+	name = Israel
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_s_o_carlos = {
+	name = Beatriz
+	religion = "apostolicism"
+	culture = "paulista"
+	female = yes
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_araraquara = {
+	name = Toledo
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_mat_o = {
+	name = Rog_e_act_rio
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_leme = {
+	name = Gumercindo
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_bauru = {
+	name = A_hat_ngela
+	religion = "apostolicism"
+	culture = "paulista"
+	female = yes
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_ja_ = {
+	name = Talmir
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_botucatu = {
+	name = Joaquim
+	religion = "apostolicism"
+	culture = "paulista"
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_br_27_botucatu = {
 	}
 }
 character_c_br_27_len_is_paulista = {
-	name = Francisco
+	name = Emanuel
 	religion = "apostolicism"
 	culture = "paulista"
 	female = no
-	2593.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_br_27_len_is_paulista = {
 	}
 }
 character_c_br_27_mogi_gua_u = {
-	name = Astolfo
+	name = Jesuardo
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
-	2593.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_br_27_mogi_gua_u = {
 	}
 }
 character_c_br_27_s_o_jo_o_da_boa_vista = {
-	name = Bartolomeu
+	name = Selmo
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
-	2604.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_br_27_s_o_jo_o_da_boa_vista = {
 	}
 }
 character_c_br_27_mococa = {
-	name = Paulo_Vitor
+	name = Givanildo
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
-	2599.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,7 +419,7 @@ character_c_br_27_mococa = {
 	}
 }
 character_c_br_27_itapeva = {
-	name = Lu_i_act_s
+	name = Rodrigo
 	religion = "neopentecostalism"
 	culture = "paulista"
 	female = no
@@ -431,11 +431,11 @@ character_c_br_27_itapeva = {
 	}
 }
 character_c_br_27_avar_ = {
-	name = B_a_act_rbara
+	name = M_a_act_rcio
 	religion = "apostolicism"
 	culture = "paulista"
-	female = yes
-	2633.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_br_27_avar_ = {
 	}
 }
 character_c_br_27_ita_ = {
-	name = Geninho
+	name = Vad_a_tld_o
 	religion = "apostolicism"
 	culture = "paulista"
 	female = no
-	2590.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_br_27_ita_ = {
 	}
 }
 character_c_br_27_caraguatatuba = {
-	name = Isaac
+	name = Orlandina
 	religion = "apostolicism"
 	culture = "caicara"
-	female = no
-	2626.1.1 = {
+	female = yes
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_br_27_caraguatatuba = {
 	}
 }
 character_c_br_27_ubatuba = {
-	name = Olavo
+	name = Anastasia
 	religion = "apostolicism"
 	culture = "caicara"
-	female = no
-	2597.1.1 = {
+	female = yes
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_br_27_ubatuba = {
 	}
 }
 character_c_br_27_ilhabela = {
-	name = Reginaldo
+	name = Eusebio
 	religion = "apostolicism"
 	culture = "caicara"
 	female = no
-	2658.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_br_27_ilhabela = {
 	}
 }
 character_c_br_27_registro = {
-	name = Amanda
+	name = Bonif_a_act_cio
 	religion = "neopentecostalism"
 	culture = "caicara"
-	female = yes
-	2617.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_br_27_registro = {
 	}
 }
 character_c_br_27_iguape = {
-	name = Santos
+	name = Rodolfo
 	religion = "apostolicism"
 	culture = "caicara"
 	female = no
-	2653.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_br_27_iguape = {
 	}
 }
 character_c_br_21_rio_de_janeiro = {
-	name = Mac
+	name = Carlota
 	religion = "apostolicism"
 	culture = "carioca"
-	female = no
-	2652.1.1 = {
+	female = yes
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_br_21_rio_de_janeiro = {
 	}
 }
 character_c_br_21_nova_igua_u = {
-	name = Filipe
+	name = Marcela
 	religion = "apostolicism"
 	culture = "carioca"
-	female = no
-	2638.1.1 = {
+	female = yes
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,7 +539,7 @@ character_c_br_21_nova_igua_u = {
 	}
 }
 character_c_br_21_niter_i = {
-	name = M_a_act_rcio
+	name = Walter
 	religion = "neopentecostalism"
 	culture = "carioca"
 	female = no
@@ -551,11 +551,11 @@ character_c_br_21_niter_i = {
 	}
 }
 character_c_br_21_volta_redonda = {
-	name = Levi
+	name = Everton
 	religion = "apostolicism"
 	culture = "paraiba"
 	female = no
-	2601.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_br_21_volta_redonda = {
 	}
 }
 character_c_br_21_japeri = {
-	name = Fernando
+	name = Isadora
 	religion = "apostolicism"
 	culture = "paraiba"
-	female = no
-	2629.1.1 = {
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_br_21_japeri = {
 	}
 }
 character_c_br_21_tr_s_rios = {
-	name = Marcelino
+	name = Ruan
 	religion = "apostolicism"
 	culture = "paraiba"
 	female = no
-	2647.1.1 = {
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,127 +587,7 @@ character_c_br_21_tr_s_rios = {
 	}
 }
 character_c_br_21_resende = {
-	name = Baltasar
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_campos_dos_goytacazes = {
-	name = Gilberto
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_maca_ = {
-	name = Barcelo
-	religion = "neopentecostalism"
-	culture = "paraiba"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_itaperuna = {
-	name = M_a_act_rio
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_santo_ant_nio_de_p_dua = {
-	name = Henrique
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_s_o_fid_lis = {
-	name = Cassio
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_s_o_jo_o_da_barra = {
-	name = Lara
-	religion = "apostolicism"
-	culture = "capixaba"
-	female = yes
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_petr_polis = {
-	name = Edson
-	religion = "neopentecostalism"
-	culture = "carioca"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_teres_polis = {
-	name = Christino
-	religion = "neopentecostalism"
-	culture = "carioca"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_21_nova_friburgo = {
-	name = Wanderley
-	religion = "neopentecostalism"
-	culture = "carioca"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_al_m_para_ba = {
-	name = Dimas
+	name = Reinaldo
 	religion = "apostolicism"
 	culture = "paraiba"
 	female = no
@@ -718,12 +598,132 @@ character_c_br_15_al_m_para_ba = {
 		death = yes
 	}
 }
-character_c_br_21_araruama = {
-	name = Patr_i_act_cia
+character_c_br_21_campos_dos_goytacazes = {
+	name = J_u_act_lio
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_maca_ = {
+	name = Glauco
+	religion = "neopentecostalism"
+	culture = "paraiba"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_itaperuna = {
+	name = Yago
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_santo_ant_nio_de_p_dua = {
+	name = Francisco
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_s_o_fid_lis = {
+	name = Santos
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_s_o_jo_o_da_barra = {
+	name = Gabriela
+	religion = "apostolicism"
+	culture = "capixaba"
+	female = yes
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_petr_polis = {
+	name = Ana
 	religion = "neopentecostalism"
 	culture = "carioca"
 	female = yes
-	2632.1.1 = {
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_teres_polis = {
+	name = Sandra
+	religion = "neopentecostalism"
+	culture = "carioca"
+	female = yes
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_nova_friburgo = {
+	name = Juninho
+	religion = "neopentecostalism"
+	culture = "carioca"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_al_m_para_ba = {
+	name = Dudi
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_21_araruama = {
+	name = Noel
+	religion = "neopentecostalism"
+	culture = "carioca"
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,11 +731,11 @@ character_c_br_21_araruama = {
 	}
 }
 character_c_br_21_cabo_frio = {
-	name = Gustavo
+	name = Eber
 	religion = "neopentecostalism"
 	culture = "carioca"
 	female = no
-	2632.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_br_21_cabo_frio = {
 	}
 }
 character_c_br_21_arma_o_de_b_zios = {
-	name = Bernardo
+	name = F_a_act_bio
 	religion = "neopentecostalism"
 	culture = "carioca"
 	female = no
-	2590.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_br_21_arma_o_de_b_zios = {
 	}
 }
 character_c_br_21_angra_dos_reis = {
-	name = Paulo
+	name = Silvio
 	religion = "apostolicism"
 	culture = "carioca"
 	female = no
-	2592.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_br_21_angra_dos_reis = {
 	}
 }
 character_c_br_21_mangaratiba = {
-	name = Marco
+	name = Rom_a_act_rio
 	religion = "apostolicism"
 	culture = "carioca"
 	female = no
-	2604.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_br_21_mangaratiba = {
 	}
 }
 character_c_br_21_paraty = {
-	name = Teresa
+	name = Laura
 	religion = "apostolicism"
 	culture = "carioca"
 	female = yes
-	2616.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,7 +791,19 @@ character_c_br_21_paraty = {
 	}
 }
 character_c_br_15_belo_horizonte = {
-	name = Rog_e_act_rio
+	name = Guilhermino
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_sete_lagoas = {
+	name = Delson
 	religion = "apostolicism"
 	culture = "mineiro"
 	female = no
@@ -802,20 +814,8 @@ character_c_br_15_belo_horizonte = {
 		death = yes
 	}
 }
-character_c_br_15_sete_lagoas = {
-	name = Palmirinha
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = yes
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_15_varginha = {
-	name = Valmir
+	name = Adelio
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
@@ -827,11 +827,11 @@ character_c_br_15_varginha = {
 	}
 }
 character_c_br_15_pouso_alegre = {
-	name = Z_e_act__Ot_a_act_vio
+	name = L_e_act_nio
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
-	2634.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,11 +839,11 @@ character_c_br_15_pouso_alegre = {
 	}
 }
 character_c_br_15_po_os_de_caldas = {
-	name = Claudio
+	name = Lorenzo
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
-	2646.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -851,211 +851,7 @@ character_c_br_15_po_os_de_caldas = {
 	}
 }
 character_c_br_15_alfenas = {
-	name = Zara
-	religion = "apostolicism"
-	culture = "capiau"
-	female = yes
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_juiz_de_fora = {
-	name = Sauka
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_cataguases = {
-	name = Roberta
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = yes
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_ub_ = {
-	name = Wilson
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ouro_preto = {
-	name = Guilherme
-	religion = "terra_benta"
-	culture = "mineiro"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_itabira = {
-	name = Guilhermina
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = yes
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_conselheiro_lafaiete = {
-	name = A_act_lvaro
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_ipatinga = {
-	name = Raul
-	religion = "terra_benta"
-	culture = "mineiro"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_vi_osa = {
-	name = Ciro
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_caratinga = {
-	name = Franco
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_divin_polis = {
-	name = Trist_a_tld_o
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_par_de_minas = {
-	name = Alexandre
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_s_o_gotardo = {
-	name = Rondon
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_lavras = {
-	name = Emanuela
-	religion = "apostolicism"
-	culture = "capiau"
-	female = yes
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_barbacena = {
-	name = Alexandre
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_s_o_jo_o_del_rei = {
-	name = Jo_a_tld_o
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_oliveira = {
-	name = Gilberto
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_s_o_sebasti_o_do_para_so = {
-	name = Sandro
+	name = Lu_i_act_s
 	religion = "apostolicism"
 	culture = "capiau"
 	female = no
@@ -1066,370 +862,34 @@ character_c_br_15_s_o_sebasti_o_do_para_so = {
 		death = yes
 	}
 }
-character_c_br_15_passos = {
-	name = C_a_act_ssia
+character_c_br_15_juiz_de_fora = {
+	name = Nayara
 	religion = "apostolicism"
-	culture = "capiau"
-	female = yes
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_formiga = {
-	name = J_a_hat_nia
-	religion = "terra_benta"
-	culture = "mineiro"
-	female = yes
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_governador_valadares = {
-	name = Armando
-	religion = "apostolicism"
-	culture = "mineiro"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_08_baixo_guandu = {
-	name = Fernandinha
-	religion = "neopentecostalism"
-	culture = "mineiro"
-	female = yes
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_guanh_es = {
-	name = Carlos
-	religion = "benzedura"
-	culture = "mineiro"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_muria_ = {
-	name = Yuri
-	religion = "terra_benta"
 	culture = "paraiba"
-	female = no
-	2600.1.1 = {
+	female = yes
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_manhua_u = {
-	name = Francis
+character_c_br_15_cataguases = {
+	name = Eug_e_hat_nio
 	religion = "apostolicism"
 	culture = "paraiba"
 	female = no
-	2622.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_s_o_louren_o = {
-	name = Quinto
-	religion = "terra_benta"
-	culture = "capiau"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_itajub_ = {
-	name = Baltasar
-	religion = "terra_benta"
-	culture = "capiau"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_andrel_ndia = {
-	name = Vin_i_act_cius
+character_c_br_15_ub_ = {
+	name = Celso
 	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_s_o_jos_do_rio_preto = {
-	name = Sebasti_a_tld_o
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_catanduva = {
-	name = Omar
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_fernand_polis = {
-	name = Marcelino
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_votuporanga = {
-	name = Renato
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_ilha_solteira = {
-	name = En_e_act_ias
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_mar_lia = {
-	name = Makoto
-	religion = "apostolicism"
-	culture = "burajirujin"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_assis = {
-	name = Am_e_act_lia
-	religion = "apostolicism"
-	culture = "caipira"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_ourinhos = {
-	name = Matias
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_tup_ = {
-	name = Ant_o_hat_nio
-	religion = "johrei"
-	culture = "burajirujin"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_ara_atuba = {
-	name = Felipa
-	religion = "apostolicism"
-	culture = "caipira"
-	female = yes
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_lins = {
-	name = Jo_a_tld_o_Ad_a_tld_o
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_andradina = {
-	name = Celeste
-	religion = "apostolicism"
-	culture = "caipira"
-	female = yes
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_presidente_prudente = {
-	name = Claudio
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_presidente_epit_cio = {
-	name = B_a_act_rbara
-	religion = "apostolicism"
-	culture = "caipira"
-	female = yes
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_27_adamantina = {
-	name = Xavier
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_vitoria = {
-	name = Tales
-	religion = "neopentecostalism"
-	culture = "capixaba"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_08_cachoeiro_de_itapemirim = {
-	name = Sim_a_tld_o
-	religion = "neopentecostalism"
-	culture = "capixaba"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_08_colatina = {
-	name = Brian
-	religion = "neopentecostalism"
-	culture = "capixaba"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_08_gua_u_ = {
-	name = Santos
-	religion = "apostolicism"
-	culture = "paraiba"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_08_afonso_cl_udio = {
-	name = Davi
-	religion = "neopentecostalism"
-	culture = "capixaba"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_08_linhares = {
-	name = Bento
-	religion = "culto_dos_santos"
-	culture = "capixaba"
+	culture = "mineiro"
 	female = no
 	2609.1.1 = {
 		birth = yes
@@ -1438,69 +898,81 @@ character_c_br_08_linhares = {
 		death = yes
 	}
 }
-character_c_br_08_s_o_mateus = {
-	name = Perivaldo
-	religion = "culto_dos_santos"
-	culture = "ilheense"
+character_c_ouro_preto = {
+	name = Vicente
+	religion = "terra_benta"
+	culture = "mineiro"
 	female = no
-	2651.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_08_nova_ven_cia = {
-	name = L_e_act_o
-	religion = "culto_dos_santos"
-	culture = "ilheense"
+character_c_br_15_itabira = {
+	name = Renato
+	religion = "apostolicism"
+	culture = "mineiro"
 	female = no
-	2648.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_08_manten_polis = {
-	name = Maria_do_Si_a_tld_o
-	religion = "culto_dos_santos"
-	culture = "ilheense"
-	female = yes
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_uberl_ndia = {
-	name = Cleber
-	religion = "kardecist"
-	culture = "capiau"
+character_c_br_15_conselheiro_lafaiete = {
+	name = Celso
+	religion = "apostolicism"
+	culture = "mineiro"
 	female = no
-	2627.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_ituiutaba = {
-	name = Kauan
-	religion = "benzedura"
-	culture = "goiano"
+character_c_br_15_ipatinga = {
+	name = Reginaldo
+	religion = "terra_benta"
+	culture = "mineiro"
 	female = no
-	2600.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_monte_carmelo = {
-	name = Athos
-	religion = "benzedura"
+character_c_br_15_vi_osa = {
+	name = Neif
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_caratinga = {
+	name = Alysson
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_divin_polis = {
+	name = Rafael
+	religion = "apostolicism"
 	culture = "mineiro"
 	female = no
 	2602.1.1 = {
@@ -1510,71 +982,35 @@ character_c_br_15_monte_carmelo = {
 		death = yes
 	}
 }
-character_c_br_15_patos_de_minas = {
-	name = Murilo
-	religion = "benzedura"
-	culture = "mineiro"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_arax_ = {
-	name = La_i_act_sa
+character_c_br_15_par_de_minas = {
+	name = Ronan
 	religion = "apostolicism"
 	culture = "mineiro"
-	female = yes
-	2608.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_patroc_nio = {
-	name = Sinval
-	religion = "benzedura"
+character_c_br_15_s_o_gotardo = {
+	name = Franco
+	religion = "apostolicism"
 	culture = "mineiro"
 	female = no
-	2620.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_uberaba = {
-	name = Pio
-	religion = "kardecist"
-	culture = "capiau"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_iturama = {
-	name = Claudia
+character_c_br_15_lavras = {
+	name = Ana_Amelia
 	religion = "apostolicism"
-	culture = "caipira"
-	female = yes
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_frutal = {
-	name = Z_e_act__Bento
-	religion = "kardecist"
 	culture = "capiau"
-	female = no
+	female = yes
 	2625.1.1 = {
 		birth = yes
 	}
@@ -1582,236 +1018,20 @@ character_c_br_15_frutal = {
 		death = yes
 	}
 }
-character_c_br_15_montes_claros = {
-	name = Wilson
-	religion = "benzedura"
-	culture = "geralista"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_jana_ba = {
-	name = Laudivio
-	religion = "benzedura"
-	culture = "geralista"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_espinosa = {
-	name = Walter
-	religion = "benzedura"
-	culture = "geralista"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_bocai_va = {
-	name = Couto
-	religion = "benzedura"
-	culture = "geralista"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_francisco_s_ = {
-	name = Alonso
-	religion = "apostolicism"
-	culture = "geralista"
-	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_te_filo_otoni = {
-	name = Gil
-	religion = "apostolicism"
-	culture = "geralista"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_nanuque = {
-	name = Maria_do_Carmo
-	religion = "apostolicism"
-	culture = "geralista"
-	female = yes
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_padre_para_so = {
-	name = Ciro
-	religion = "apostolicism"
-	culture = "geralista"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15__guas_formosas = {
-	name = Maria_do_Amparo
-	religion = "benzedura"
-	culture = "geralista"
-	female = yes
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_paracatu = {
-	name = Marcos
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_una_ = {
-	name = Lalino
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_jo_o_pinheiro = {
-	name = Ramiro
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_buritis = {
-	name = Maria_do_Monte
-	religion = "veredite"
-	culture = "veredista"
-	female = yes
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_salinas = {
-	name = Silvestre
-	religion = "benzedura"
-	culture = "geralista"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_pedra_azul = {
-	name = Sebasti_a_tld_o
-	religion = "benzedura"
-	culture = "geralista"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_almenara = {
-	name = Vanessa
-	religion = "benzedura"
-	culture = "geralista"
-	female = yes
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_ara_ua_ = {
-	name = Maria_da_Rosa_M_i_act_stica
-	religion = "apostolicism"
-	culture = "geralista"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_pirapora = {
-	name = Pedro
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_15_curvelo = {
-	name = Milton
+character_c_br_15_barbacena = {
+	name = Dario
 	religion = "apostolicism"
 	culture = "mineiro"
 	female = no
-	2647.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_s_o_geraldo_do_salto = {
-	name = Alysson
+character_c_br_15_s_o_jo_o_del_rei = {
+	name = Benedito
 	religion = "apostolicism"
 	culture = "mineiro"
 	female = no
@@ -1822,22 +1042,154 @@ character_c_br_15_s_o_geraldo_do_salto = {
 		death = yes
 	}
 }
-character_c_br_15_capelinha = {
-	name = Hermes
+character_c_br_15_oliveira = {
+	name = Domingos
 	religion = "apostolicism"
-	culture = "geralista"
+	culture = "mineiro"
 	female = no
-	2621.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_15_diamantina = {
-	name = Vicente
+character_c_br_15_s_o_sebasti_o_do_para_so = {
+	name = Paulinho
+	religion = "apostolicism"
+	culture = "capiau"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_passos = {
+	name = Z_e_act__Gabriel
+	religion = "apostolicism"
+	culture = "capiau"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_formiga = {
+	name = Celso
+	religion = "terra_benta"
+	culture = "mineiro"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_governador_valadares = {
+	name = Tatiana
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = yes
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_baixo_guandu = {
+	name = Leopoldo
+	religion = "neopentecostalism"
+	culture = "mineiro"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_guanh_es = {
+	name = Geraldo
 	religion = "benzedura"
-	culture = "geralista"
+	culture = "mineiro"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_muria_ = {
+	name = Josefa
+	religion = "terra_benta"
+	culture = "paraiba"
+	female = yes
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_manhua_u = {
+	name = Paulo
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_s_o_louren_o = {
+	name = Lurdite
+	religion = "terra_benta"
+	culture = "capiau"
+	female = yes
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_itajub_ = {
+	name = Z_e_act__Tom_e_act_
+	religion = "terra_benta"
+	culture = "capiau"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_andrel_ndia = {
+	name = L_i_act_dia
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_s_o_jos_do_rio_preto = {
+	name = H_e_act_lder
+	religion = "apostolicism"
+	culture = "caipira"
 	female = no
 	2623.1.1 = {
 		birth = yes
@@ -1846,12 +1198,660 @@ character_c_br_15_diamantina = {
 		death = yes
 	}
 }
-character_c_br_15_serro = {
-	name = Luiz
+character_c_br_27_catanduva = {
+	name = Jo_a_tld_o_Marcelo
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_fernand_polis = {
+	name = Darcio
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_votuporanga = {
+	name = Jo_a_tld_o_Vitor
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_ilha_solteira = {
+	name = Jo_a_tld_o
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_mar_lia = {
+	name = Mariana
+	religion = "apostolicism"
+	culture = "burajirujin"
+	female = yes
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_assis = {
+	name = H_e_act_lio
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_ourinhos = {
+	name = Amelia
+	religion = "apostolicism"
+	culture = "caipira"
+	female = yes
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_tup_ = {
+	name = Makoto
+	religion = "johrei"
+	culture = "burajirujin"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_ara_atuba = {
+	name = Manuel
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_lins = {
+	name = Leonardo
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_andradina = {
+	name = Garc_i_act_a
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_presidente_prudente = {
+	name = Jasmina
+	religion = "apostolicism"
+	culture = "caipira"
+	female = yes
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_presidente_epit_cio = {
+	name = Sancho
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_27_adamantina = {
+	name = Sa_u_act_l
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_vitoria = {
+	name = Fl_a_act_vio
+	religion = "neopentecostalism"
+	culture = "capixaba"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_cachoeiro_de_itapemirim = {
+	name = Fernando
+	religion = "neopentecostalism"
+	culture = "capixaba"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_colatina = {
+	name = Hemanuel
+	religion = "neopentecostalism"
+	culture = "capixaba"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_gua_u_ = {
+	name = Roseli
+	religion = "apostolicism"
+	culture = "paraiba"
+	female = yes
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_afonso_cl_udio = {
+	name = Anderson
+	religion = "neopentecostalism"
+	culture = "capixaba"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_linhares = {
+	name = Pascoal
+	religion = "culto_dos_santos"
+	culture = "capixaba"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_s_o_mateus = {
+	name = Carlos
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_nova_ven_cia = {
+	name = Lucas
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_08_manten_polis = {
+	name = L_u_act_cia
+	religion = "culto_dos_santos"
+	culture = "ilheense"
+	female = yes
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_uberl_ndia = {
+	name = Hugo
+	religion = "kardecist"
+	culture = "capiau"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_ituiutaba = {
+	name = Rosa
+	religion = "benzedura"
+	culture = "goiano"
+	female = yes
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_monte_carmelo = {
+	name = Feliciano
+	religion = "benzedura"
+	culture = "mineiro"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_patos_de_minas = {
+	name = Anderson
+	religion = "benzedura"
+	culture = "mineiro"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_arax_ = {
+	name = Juarez
 	religion = "apostolicism"
 	culture = "mineiro"
 	female = no
-	2612.1.1 = {
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_patroc_nio = {
+	name = Manoel
+	religion = "benzedura"
+	culture = "mineiro"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_uberaba = {
+	name = Gustavo
+	religion = "kardecist"
+	culture = "capiau"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_iturama = {
+	name = Kiko
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_frutal = {
+	name = Isidro
+	religion = "kardecist"
+	culture = "capiau"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_montes_claros = {
+	name = Luiz
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_jana_ba = {
+	name = Leonardo
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_espinosa = {
+	name = Ailson
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_bocai_va = {
+	name = Terezinha
+	religion = "benzedura"
+	culture = "geralista"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_francisco_s_ = {
+	name = Walter
+	religion = "apostolicism"
+	culture = "geralista"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_te_filo_otoni = {
+	name = Trist_a_tld_o
+	religion = "apostolicism"
+	culture = "geralista"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_nanuque = {
+	name = Joubert
+	religion = "apostolicism"
+	culture = "geralista"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_padre_para_so = {
+	name = Aires
+	religion = "apostolicism"
+	culture = "geralista"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15__guas_formosas = {
+	name = Fl_a_act_vio
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_paracatu = {
+	name = Aur_i_act_cio
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_una_ = {
+	name = Geraldo
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_jo_o_pinheiro = {
+	name = Luciano
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_buritis = {
+	name = Liodoro
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_salinas = {
+	name = Henrique
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_pedra_azul = {
+	name = Ab_i_act_lio
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_almenara = {
+	name = Ab_i_act_lio
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_ara_ua_ = {
+	name = Rodrigo
+	religion = "apostolicism"
+	culture = "geralista"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_pirapora = {
+	name = Riobaldo
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_curvelo = {
+	name = Laura
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_s_o_geraldo_do_salto = {
+	name = Ibrahim
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_capelinha = {
+	name = Maria_da_Assun_c_ced__a_tld_tld_o
+	religion = "apostolicism"
+	culture = "geralista"
+	female = yes
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_diamantina = {
+	name = Lelis
+	religion = "benzedura"
+	culture = "geralista"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_15_serro = {
+	name = Gerardo
+	religion = "apostolicism"
+	culture = "mineiro"
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1863,7 +1863,7 @@ character_c_br_15_janu_ria = {
 	religion = "veredite"
 	culture = "xakriaba"
 	female = no
-	2638.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1871,11 +1871,11 @@ character_c_br_15_janu_ria = {
 	}
 }
 character_c_br_15_s_o_francisco = {
-	name = Ramiro
+	name = Luis
 	religion = "veredite"
 	culture = "veredista"
 	female = no
-	2598.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

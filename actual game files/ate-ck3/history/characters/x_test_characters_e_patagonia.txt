@@ -1,8 +1,8 @@
 character_c_ar_15_neuqu_n = {
-	name = Ceferino
+	name = Huanel
 	religion = "nguillatun"
 	culture = "mapuche"
-	female = no
+	female = yes
 	2639.1.1 = {
 		birth = yes
 	}
@@ -11,7 +11,115 @@ character_c_ar_15_neuqu_n = {
 	}
 }
 character_c_ar_15_san_mart_n_de_los_andes = {
-	name = Alejandro
+	name = Calbu_n_tld_ancu
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_15_zapala = {
+	name = Quepuent_u_act_
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_15_alumin_ = {
+	name = Quepuent_u_act_
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_16_san_carlos_de_bariloche = {
+	name = Epulewfu
+	religion = "animism"
+	culture = "mapuche"
+	female = yes
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_16_el_bols_n = {
+	name = Aurelio
+	religion = "animism"
+	culture = "mapuche"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_16_cerro_mesa = {
+	name = Mainque
+	religion = "animism"
+	culture = "mapuche"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_16_aguada_de_guzm_n = {
+	name = Jos_e_act__Luis
+	religion = "gauchada"
+	culture = "desertico"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_15_chos_malal = {
+	name = Malloquete
+	religion = "animism"
+	culture = "mapuche"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_15_loncopu_ = {
+	name = Vilumilla
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_15_las_lajas = {
+	name = Curi_n_tld_ancu
 	religion = "nguillatun"
 	culture = "mapuche"
 	female = no
@@ -22,120 +130,12 @@ character_c_ar_15_san_mart_n_de_los_andes = {
 		death = yes
 	}
 }
-character_c_ar_15_zapala = {
-	name = Huanel
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = yes
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_15_alumin_ = {
-	name = Mayela
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = yes
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_san_carlos_de_bariloche = {
-	name = Quepuent_u_act_
-	religion = "animism"
-	culture = "mapuche"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_el_bols_n = {
-	name = Ana
-	religion = "animism"
-	culture = "mapuche"
-	female = yes
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_cerro_mesa = {
-	name = Quimey
-	religion = "animism"
-	culture = "mapuche"
-	female = yes
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_aguada_de_guzm_n = {
-	name = Mariano
-	religion = "gauchada"
-	culture = "desertico"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_15_chos_malal = {
-	name = Paiquereu
-	religion = "animism"
-	culture = "mapuche"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_15_loncopu_ = {
-	name = Antumanque
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_15_las_lajas = {
-	name = Federico
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_ar_16_cipolletti = {
-	name = Cristian
+	name = Alfredo
 	religion = "gauchada"
 	culture = "desertico"
 	female = no
-	2628.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,11 +143,11 @@ character_c_ar_16_cipolletti = {
 	}
 }
 character_c_ar_16_choele_choel = {
-	name = Brenda
+	name = Edmundo
 	religion = "gauchada"
 	culture = "desertico"
-	female = yes
-	2643.1.1 = {
+	female = no
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_ar_16_choele_choel = {
 	}
 }
 character_c_ar_16_catriel = {
-	name = Paola
+	name = Ezequiel
 	religion = "gauchada"
 	culture = "desertico"
-	female = yes
-	2643.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_ar_16_catriel = {
 	}
 }
 character_c_ar_16_viedma = {
-	name = Franco
+	name = Mat_i_act_as
 	religion = "gauchada"
 	culture = "desertico"
 	female = no
-	2602.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,19 +179,7 @@ character_c_ar_16_viedma = {
 	}
 }
 character_c_ar_16_san_antonio_oeste = {
-	name = Alfredo
-	religion = "gauchada"
-	culture = "desertico"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_lamarque = {
-	name = Facundo
+	name = Franco
 	religion = "gauchada"
 	culture = "desertico"
 	female = no
@@ -202,12 +190,24 @@ character_c_ar_16_lamarque = {
 		death = yes
 	}
 }
+character_c_ar_16_lamarque = {
+	name = Arturo
+	religion = "gauchada"
+	culture = "desertico"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_ar_16_sierra_grande = {
-	name = Cynrig
+	name = Emrys
 	religion = "nonconformism"
 	culture = "wladfaeg"
 	female = no
-	2647.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,139 +215,7 @@ character_c_ar_16_sierra_grande = {
 	}
 }
 character_c_ar_16_ingeniero_jacobacci = {
-	name = Miguel
-	religion = "gauchada"
-	culture = "desertico"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_los_menucos = {
-	name = Miguel
-	religion = "gauchada"
-	culture = "desertico"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_16_maquinchao = {
-	name = Rafael
-	religion = "gauchada"
-	culture = "desertico"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_trelew = {
-	name = Geraint
-	religion = "nonconformism"
-	culture = "wladfaeg"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_puerto_madryn = {
-	name = Alan
-	religion = "nonconformism"
-	culture = "wladfaeg"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_gan_gan = {
-	name = Paola
-	religion = "gauchada"
-	culture = "desertico"
-	female = yes
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_chasic_ = {
-	name = Agust_i_act_n
-	religion = "nonconformism"
-	culture = "wladfaeg"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_comodoro_rivadavia = {
-	name = Manuel
-	religion = "nonconformism"
-	culture = "desertico"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_sarmiento = {
-	name = Lihuen
-	religion = "calafatist"
-	culture = "aonikenk"
-	female = yes
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_camarones = {
-	name = Mar_i_act_a_Bel_e_act_n
-	religion = "nonconformism"
-	culture = "desertico"
-	female = yes
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_canquel = {
-	name = Facundo
-	religion = "calafatist"
-	culture = "desertico"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_laguna_grande = {
-	name = Ezequiel
+	name = Emiliano
 	religion = "gauchada"
 	culture = "desertico"
 	female = no
@@ -358,70 +226,34 @@ character_c_ar_04_laguna_grande = {
 		death = yes
 	}
 }
-character_c_ar_04_esquel = {
-	name = Jorge
+character_c_ar_16_los_menucos = {
+	name = Luis
+	religion = "gauchada"
+	culture = "desertico"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_16_maquinchao = {
+	name = Sergio
+	religion = "gauchada"
+	culture = "desertico"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_trelew = {
+	name = Sergio
 	religion = "nonconformism"
 	culture = "wladfaeg"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_gobernador_costa = {
-	name = Ev_a_act_n
-	religion = "nonconformism"
-	culture = "wladfaeg"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_r_o_mayo = {
-	name = Pairo
-	religion = "calafatist"
-	culture = "aonikenk"
-	female = yes
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_04_la_martha = {
-	name = Raquel
-	religion = "nonconformism"
-	culture = "wladfaeg"
-	female = yes
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_10_punta_arenas = {
-	name = Antol_i_act_n
-	religion = "xoon"
-	culture = "australino"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_10_puerto_natales = {
-	name = Alfredo
-	religion = "xoon"
-	culture = "australino"
 	female = no
 	2599.1.1 = {
 		birth = yes
@@ -430,12 +262,180 @@ character_c_cl_10_puerto_natales = {
 		death = yes
 	}
 }
+character_c_ar_04_puerto_madryn = {
+	name = Trevor
+	religion = "nonconformism"
+	culture = "wladfaeg"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_gan_gan = {
+	name = Jos_e_act__Mar_i_act_a
+	religion = "gauchada"
+	culture = "desertico"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_chasic_ = {
+	name = Jos_e_act__Luis
+	religion = "nonconformism"
+	culture = "wladfaeg"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_comodoro_rivadavia = {
+	name = Cristian
+	religion = "nonconformism"
+	culture = "desertico"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_sarmiento = {
+	name = Pinc_e_act_n
+	religion = "calafatist"
+	culture = "aonikenk"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_camarones = {
+	name = V_i_act_ctor
+	religion = "nonconformism"
+	culture = "desertico"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_canquel = {
+	name = Mar_i_act_a
+	religion = "calafatist"
+	culture = "desertico"
+	female = yes
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_laguna_grande = {
+	name = Miriam
+	religion = "gauchada"
+	culture = "desertico"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_esquel = {
+	name = Cyn_a_act_n
+	religion = "nonconformism"
+	culture = "wladfaeg"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_gobernador_costa = {
+	name = Bryn
+	religion = "nonconformism"
+	culture = "wladfaeg"
+	female = yes
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_r_o_mayo = {
+	name = Antulaf
+	religion = "calafatist"
+	culture = "aonikenk"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_04_la_martha = {
+	name = Claudia
+	religion = "nonconformism"
+	culture = "wladfaeg"
+	female = yes
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_10_punta_arenas = {
+	name = Fabi_a_act_n
+	religion = "xoon"
+	culture = "australino"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_10_puerto_natales = {
+	name = Tom_a_act_s
+	religion = "xoon"
+	culture = "australino"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_cl_10_natales = {
-	name = Ailk_e_act_
+	name = Carlos
 	religion = "xoon"
 	culture = "kawesqar"
 	female = no
-	2640.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_cl_10_natales = {
 	}
 }
 character_c_cl_10_san_gregorio = {
-	name = Cedomil
+	name = Humberto
 	religion = "xoon"
 	culture = "australino"
 	female = no
-	2609.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_cl_10_san_gregorio = {
 	}
 }
 character_c_ar_23_ushuaia = {
-	name = Sixiol
+	name = Kuanyip
 	religion = "xoon"
 	culture = "selknam"
-	female = no
-	2590.1.1 = {
+	female = yes
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -471,7 +471,7 @@ character_c_ar_23_r_o_grande = {
 	religion = "xoon"
 	culture = "selknam"
 	female = no
-	2656.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_ar_23_r_o_grande = {
 	}
 }
 character_c_cl_10_cabo_de_hornos = {
-	name = Alekatem
+	name = Hema_pst_ny
 	religion = "xoon"
 	culture = "selknam"
-	female = no
-	2595.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_cl_10_cabo_de_hornos = {
 	}
 }
 character_c_cl_10_porvenir = {
-	name = Maiy_e_act_n
+	name = Kelal
 	religion = "xoon"
 	culture = "selknam"
 	female = no
-	2617.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_cl_10_porvenir = {
 	}
 }
 character_c_cl_02_coyhaique = {
-	name = Gary
+	name = Mateo
 	religion = "calafatist"
 	culture = "australino"
 	female = no
-	2654.1.1 = {
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_cl_02_coyhaique = {
 	}
 }
 character_c_cl_02_puerto_ays_n = {
-	name = Juan
+	name = Sim_o_act_n
 	religion = "calafatist"
 	culture = "australino"
 	female = no
-	2592.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_cl_02_puerto_ays_n = {
 	}
 }
 character_c_cl_02_puerto_cisnes = {
-	name = El_i_act_as
+	name = Alfredo
 	religion = "calafatist"
 	culture = "australino"
 	female = no
-	2641.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,19 +539,7 @@ character_c_cl_02_puerto_cisnes = {
 	}
 }
 character_c_cl_02_guaitecas = {
-	name = Manuel
-	religion = "calafatist"
-	culture = "australino"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_02_cochrane = {
-	name = Benjam_i_act_n
+	name = Rodrigo
 	religion = "calafatist"
 	culture = "australino"
 	female = no
@@ -562,12 +550,24 @@ character_c_cl_02_cochrane = {
 		death = yes
 	}
 }
-character_c_cl_02_o_higgins = {
-	name = Florencia
+character_c_cl_02_cochrane = {
+	name = Pablo
 	religion = "calafatist"
 	culture = "australino"
-	female = yes
-	2609.1.1 = {
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_02_o_higgins = {
+	name = Lucas
+	religion = "calafatist"
+	culture = "australino"
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -579,7 +579,7 @@ character_c_cl_02_tortel = {
 	religion = "calafatist"
 	culture = "kawesqar"
 	female = no
-	2656.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_cl_02_tortel = {
 	}
 }
 character_c_ar_20_r_o_gallegos = {
-	name = Nicol_a_act_s
+	name = N_e_act_stor
 	religion = "xoon"
 	culture = "santacruceno"
 	female = no
-	2653.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_ar_20_r_o_gallegos = {
 	}
 }
 character_c_ar_20_comandante_luis_piedra_buena = {
-	name = Orkeke
+	name = Ankatu
 	religion = "calafatist"
 	culture = "aonikenk"
 	female = no
-	2640.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_ar_20_comandante_luis_piedra_buena = {
 	}
 }
 character_c_ar_20_san_juli_n = {
-	name = Miguel
+	name = Mariana
 	religion = "calafatist"
 	culture = "santacruceno"
-	female = no
-	2660.1.1 = {
+	female = yes
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_ar_20_san_juli_n = {
 	}
 }
 character_c_ar_20__de_noviembre = {
-	name = Pire
+	name = Ayilen
 	religion = "xoon"
 	culture = "aonikenk"
 	female = yes
-	2623.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_ar_20__de_noviembre = {
 	}
 }
 character_c_ar_20_esperanza = {
-	name = Juan_Manuel
+	name = Sergio
 	religion = "calafatist"
 	culture = "santacruceno"
 	female = no
-	2638.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_ar_20_esperanza = {
 	}
 }
 character_c_ar_20_caleta_olivia = {
-	name = Gustavo
+	name = Antonio
 	religion = "calafatist"
 	culture = "santacruceno"
 	female = no
-	2623.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -659,7 +659,43 @@ character_c_ar_20_caleta_olivia = {
 	}
 }
 character_c_ar_20_puerto_deseado = {
-	name = Eluney
+	name = Anganamon
+	religion = "calafatist"
+	culture = "aonikenk"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_20_tres_cerros = {
+	name = Linkoyan
+	religion = "calafatist"
+	culture = "aonikenk"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_20_flecha_negra = {
+	name = Santiago
+	religion = "calafatist"
+	culture = "santacruceno"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_20_el_calafate = {
+	name = Pinc_e_act_n
 	religion = "calafatist"
 	culture = "aonikenk"
 	female = no
@@ -670,48 +706,12 @@ character_c_ar_20_puerto_deseado = {
 		death = yes
 	}
 }
-character_c_ar_20_tres_cerros = {
-	name = Rayen
-	religion = "calafatist"
-	culture = "aonikenk"
-	female = yes
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_20_flecha_negra = {
-	name = Ram_o_act_n
-	religion = "calafatist"
-	culture = "santacruceno"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_20_el_calafate = {
-	name = Linkoyan
-	religion = "calafatist"
-	culture = "aonikenk"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_ar_20_perito_moreno = {
-	name = Lautaro
+	name = Cangapol
 	religion = "calafatist"
 	culture = "aonikenk"
 	female = no
-	2618.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,45 +719,9 @@ character_c_ar_20_perito_moreno = {
 	}
 }
 character_c_ar_20_el_chonque = {
-	name = Rosa
+	name = Pinc_e_act_n
 	religion = "calafatist"
 	culture = "aonikenk"
-	female = yes
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_20_gobernador_gregores = {
-	name = Luis
-	religion = "calafatist"
-	culture = "santacruceno"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_fk_00_stanley = {
-	name = James
-	religion = "calafatist"
-	culture = "falklander"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_fk_00_goose_green = {
-	name = Gerald
-	religion = "calafatist"
-	culture = "falklander"
 	female = no
 	2606.1.1 = {
 		birth = yes
@@ -766,12 +730,48 @@ character_c_fk_00_goose_green = {
 		death = yes
 	}
 }
-character_c_fk_00_port_howard = {
+character_c_ar_20_gobernador_gregores = {
+	name = Gabriel
+	religion = "calafatist"
+	culture = "santacruceno"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_fk_00_stanley = {
 	name = Gavin
 	religion = "calafatist"
 	culture = "falklander"
 	female = no
-	2600.1.1 = {
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_fk_00_goose_green = {
+	name = James
+	religion = "calafatist"
+	culture = "falklander"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_fk_00_port_howard = {
+	name = Ross
+	religion = "calafatist"
+	culture = "falklander"
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,5 +1,5 @@
 character_c_gt_07_guatemala_city = {
-	name = Carlos_Antonio
+	name = Rigoberto
 	religion = "qabantajik"
 	culture = "chapin"
 	female = no
@@ -11,11 +11,11 @@ character_c_gt_07_guatemala_city = {
 	}
 }
 character_c_gt_06_escuintla = {
-	name = Jaime
+	name = Carlos
 	religion = "qabantajik"
 	culture = "chapin"
 	female = no
-	2599.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_gt_06_escuintla = {
 	}
 }
 character_c_gt_10_jalapa = {
-	name = 
+	name = Test
 	religion = "qabantajik"
 	culture = "quichean"
-	female = no
-	2653.1.1 = {
+	female = yes
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_gt_10_jalapa = {
 	}
 }
 character_c_gt_11_jutiapa = {
-	name = Carlos_Antonio
+	name = Jacobo
 	religion = "qabantajik"
 	culture = "chapin"
 	female = no
-	2590.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_gt_11_jutiapa = {
 	}
 }
 character_c_gt_13_quetzaltenango = {
-	name = Luis
+	name = Jacobo
 	religion = "qabantajik"
 	culture = "chapin"
 	female = no
-	2614.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_gt_13_quetzaltenango = {
 	}
 }
 character_c_gt_14_chichicastenango = {
-	name = 
+	name = Test
 	religion = "qabantajik"
 	culture = "quichean"
 	female = no
-	2611.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,43 +71,7 @@ character_c_gt_14_chichicastenango = {
 	}
 }
 character_c_gt_08_huehuetenango = {
-	name = 
-	religion = "qabantajik"
-	culture = "quichean"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gt_14_nebaj = {
-	name = 
-	religion = "qabantajik"
-	culture = "quichean"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gt_09_puerto_barrios = {
-	name = Jairo
-	religion = "qabantajik"
-	culture = "garinagu"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gt_01_cob_n = {
-	name = 
+	name = Test
 	religion = "qabantajik"
 	culture = "quichean"
 	female = no
@@ -118,12 +82,48 @@ character_c_gt_01_cob_n = {
 		death = yes
 	}
 }
+character_c_gt_14_nebaj = {
+	name = Test
+	religion = "qabantajik"
+	culture = "quichean"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gt_09_puerto_barrios = {
+	name = Alfonso
+	religion = "qabantajik"
+	culture = "garinagu"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gt_01_cob_n = {
+	name = Test
+	religion = "qabantajik"
+	culture = "quichean"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_ni_10_managua = {
-	name = Claudia
+	name = Lila
 	religion = "falling_star"
 	culture = "nica"
 	female = yes
-	2627.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_ni_10_managua = {
 	}
 }
 character_c_ni_08_le_n = {
-	name = Giovanni
+	name = Horacio
 	religion = "falling_star"
 	culture = "nica"
 	female = no
-	2612.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,11 +143,11 @@ character_c_ni_08_le_n = {
 	}
 }
 character_c_ni_15_rivas = {
-	name = Justo
+	name = Salvador
 	religion = "falling_star"
 	culture = "nica"
 	female = no
-	2642.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,9 +155,189 @@ character_c_ni_15_rivas = {
 	}
 }
 character_c_cr_08_san_jos_ = {
-	name = Luis
+	name = Demetrio
 	religion = "falling_star"
 	culture = "istmeno"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_01_grecia = {
+	name = Eli_e_act_cer
+	religion = "falling_star"
+	culture = "istmeno"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_03_liberia = {
+	name = Cristian
+	religion = "falling_star"
+	culture = "tico"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_08_de_san_jos_ = {
+	name = Gustavo_Adolfo
+	religion = "falling_star"
+	culture = "istmeno"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_06_lim_n = {
+	name = Allan
+	religion = "falling_star"
+	culture = "istmeno"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_01_san_jos_ = {
+	name = Julio
+	religion = "falling_star"
+	culture = "istmeno"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_07_buenos_aires = {
+	name = Luisa
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = yes
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cr_03_nicoya = {
+	name = F_e_act_lix
+	religion = "falling_star"
+	culture = "tico"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_08_tegucigalpa = {
+	name = Jos_e_act__Rodolfo
+	religion = "falling_star"
+	culture = "catracho"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_04_comayagua = {
+	name = Vicente
+	religion = "falling_star"
+	culture = "catracho"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_05_santa_rosa_de_cop_n = {
+	name = Test
+	religion = "qabantajik"
+	culture = "quichean"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_16_santa_b_rbara = {
+	name = Test
+	religion = "qabantajik"
+	culture = "quichean"
+	female = yes
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_07_danl_ = {
+	name = Luisa
+	religion = "falling_star"
+	culture = "catracho"
+	female = yes
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_10_intibuc_ = {
+	name = Alejandro
+	religion = "falling_star"
+	culture = "catracho"
+	female = no
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_15_juticalpa = {
+	name = Juan_A_act_ngel
+	religion = "falling_star"
+	culture = "catracho"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hn_15_san_francisco_de_la_paz = {
+	name = Cristian
+	religion = "falling_star"
+	culture = "catracho"
 	female = no
 	2601.1.1 = {
 		birth = yes
@@ -166,58 +346,46 @@ character_c_cr_08_san_jos_ = {
 		death = yes
 	}
 }
-character_c_cr_01_grecia = {
-	name = Rafael
-	religion = "falling_star"
-	culture = "istmeno"
+character_c_hn_06_san_pedro_sula = {
+	name = Carlos
+	religion = "qabantajik"
+	culture = "garinagu"
 	female = no
-	2615.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cr_03_liberia = {
-	name = Sandra
+character_c_hn_18_el = {
+	name = Marvin
 	religion = "falling_star"
-	culture = "tico"
-	female = yes
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cr_08_de_san_jos_ = {
-	name = El_i_act_as
-	religion = "falling_star"
-	culture = "istmeno"
+	culture = "garinagu"
 	female = no
-	2597.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cr_06_lim_n = {
-	name = Enrique
-	religion = "falling_star"
-	culture = "istmeno"
+character_c_hn_01_la_ceiba = {
+	name = Bryan
+	religion = "qabantajik"
+	culture = "garinagu"
 	female = no
-	2591.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cr_01_san_jos_ = {
-	name = Juan_Carlos
+character_c_hn_03_tocoa = {
+	name = F_e_act_lix
 	religion = "falling_star"
-	culture = "istmeno"
+	culture = "garinagu"
 	female = no
 	2635.1.1 = {
 		birth = yes
@@ -226,58 +394,34 @@ character_c_cr_01_san_jos_ = {
 		death = yes
 	}
 }
-character_c_cr_07_buenos_aires = {
-	name = Kaiser
-	religion = "patria_grande"
-	culture = "istmeno"
+character_c_hn_11_coxen_hole = {
+	name = Roberto
+	religion = "brethren"
+	culture = "garinagu"
 	female = no
-	2597.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cr_03_nicoya = {
-	name = Claudia
+character_c_sv_10_san_salvador = {
+	name = Beatriz
 	religion = "falling_star"
-	culture = "tico"
+	culture = "guanaco"
 	female = yes
-	2634.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_hn_08_tegucigalpa = {
-	name = Dora
+character_c_sv_11_santa_ana = {
+	name = Fabio
 	religion = "falling_star"
-	culture = "catracho"
-	female = yes
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_04_comayagua = {
-	name = Danilo
-	religion = "falling_star"
-	culture = "catracho"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_05_santa_rosa_de_cop_n = {
-	name = 
-	religion = "qabantajik"
-	culture = "quichean"
+	culture = "guanaco"
 	female = no
 	2618.1.1 = {
 		birth = yes
@@ -286,215 +430,11 @@ character_c_hn_05_santa_rosa_de_cop_n = {
 		death = yes
 	}
 }
-character_c_hn_16_santa_b_rbara = {
-	name = 
-	religion = "qabantajik"
-	culture = "quichean"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_07_danl_ = {
-	name = Beatriz
-	religion = "falling_star"
-	culture = "catracho"
-	female = yes
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_10_intibuc_ = {
-	name = Roberto
-	religion = "falling_star"
-	culture = "catracho"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_15_juticalpa = {
-	name = Eliseo
-	religion = "falling_star"
-	culture = "catracho"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_15_san_francisco_de_la_paz = {
-	name = Manuel
-	religion = "falling_star"
-	culture = "catracho"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_06_san_pedro_sula = {
-	name = Sof_i_act_a
-	religion = "qabantajik"
-	culture = "garinagu"
-	female = yes
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_18_el = {
-	name = Henry
-	religion = "falling_star"
-	culture = "garinagu"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_01_la_ceiba = {
-	name = Elizabeth
-	religion = "qabantajik"
-	culture = "garinagu"
-	female = yes
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_03_tocoa = {
-	name = Ram_o_act_n
-	religion = "falling_star"
-	culture = "garinagu"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_11_coxen_hole = {
-	name = Marla
-	religion = "brethren"
-	culture = "garinagu"
-	female = yes
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sv_10_san_salvador = {
-	name = Milton
-	religion = "falling_star"
-	culture = "guanaco"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sv_11_santa_ana = {
-	name = Donato
-	religion = "falling_star"
-	culture = "guanaco"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_sv_09_de_san_miguel = {
-	name = Jos_e_act__Mat_i_act_as
-	religion = "falling_star"
-	culture = "guanaco"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hn_02_choluteca = {
-	name = Jos_e_act__Adolfo
-	religion = "falling_star"
-	culture = "catracho"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sv_04_cojutepeque = {
-	name = Azar_i_act_as
-	religion = "falling_star"
-	culture = "guanaco"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sv_08_san_francisco = {
-	name = Victoria
+	name = Luisa
 	religion = "falling_star"
 	culture = "guanaco"
 	female = yes
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ni_05_estel_ = {
-	name = Gabriela
-	religion = "falling_star"
-	culture = "nica"
-	female = yes
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ni_12_matagalpa = {
-	name = Azar_i_act_as
-	religion = "falling_star"
-	culture = "nica"
-	female = no
 	2654.1.1 = {
 		birth = yes
 	}
@@ -502,8 +442,56 @@ character_c_ni_12_matagalpa = {
 		death = yes
 	}
 }
-character_c_ni_04_juigalpa = {
-	name = Jaime
+character_c_hn_02_choluteca = {
+	name = Jos_e_act__Ram_o_act_n
+	religion = "falling_star"
+	culture = "catracho"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sv_04_cojutepeque = {
+	name = Timoteo
+	religion = "falling_star"
+	culture = "guanaco"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sv_08_san_francisco = {
+	name = Benjam_i_act_n
+	religion = "falling_star"
+	culture = "guanaco"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ni_05_estel_ = {
+	name = Sandino
+	religion = "falling_star"
+	culture = "nica"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ni_12_matagalpa = {
+	name = Ricardo
 	religion = "falling_star"
 	culture = "nica"
 	female = no
@@ -514,12 +502,24 @@ character_c_ni_04_juigalpa = {
 		death = yes
 	}
 }
-character_c_ni_07_jinotega = {
-	name = Octavio
+character_c_ni_04_juigalpa = {
+	name = Manuel
 	religion = "falling_star"
 	culture = "nica"
 	female = no
-	2620.1.1 = {
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ni_07_jinotega = {
+	name = Patricio
+	religion = "falling_star"
+	culture = "nica"
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_ni_07_jinotega = {
 	}
 }
 character_c_ni_18_nueva_guinea = {
-	name = Luttrell
+	name = Gilbert_Robert
 	religion = "falling_star"
 	culture = "miskito"
 	female = no
-	2617.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_ni_18_nueva_guinea = {
 	}
 }
 character_c_ni_17_puerto_cabezas = {
-	name = William_Frederic
+	name = Stephen
 	religion = "falling_star"
 	culture = "miskito"
 	female = no
-	2596.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_ni_17_puerto_cabezas = {
 	}
 }
 character_c_ni_14_san_carlos = {
-	name = Miguel
+	name = Trelawney
 	religion = "falling_star"
 	culture = "miskito"
 	female = no
-	2596.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_ni_14_san_carlos = {
 	}
 }
 character_c_ni_18_corn_island = {
-	name = Erwin
+	name = Bertalina
 	religion = "falling_star"
 	culture = "miskito"
-	female = no
-	2592.1.1 = {
+	female = yes
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_ni_18_corn_island = {
 	}
 }
 character_c_ni_17_siuna = {
-	name = Odili_Sara
+	name = William_Hendy
 	religion = "falling_star"
 	culture = "miskito"
-	female = yes
-	2639.1.1 = {
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_ni_17_siuna = {
 	}
 }
 character_c_ni_17_bonanza = {
-	name = William_Hendy
+	name = Daniel
 	religion = "falling_star"
 	culture = "miskito"
 	female = no
-	2642.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_ni_17_bonanza = {
 	}
 }
 character_c_hn_09_puerto_lempira = {
-	name = Sergio
+	name = Augustus_Charles
 	religion = "falling_star"
 	culture = "miskito"
 	female = no
-	2647.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,9 +1,9 @@
 character_c_ec_10_guayaquil = {
-	name = Manuel
+	name = Gerson
 	religion = "tridentinism"
 	culture = "guayanenese"
 	female = no
-	2648.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_ec_10_guayaquil = {
 	}
 }
 character_c_ec_14_manta = {
-	name = Averroes
+	name = Manuela
 	religion = "tridentinism"
 	culture = "guayanenese"
-	female = no
-	2660.1.1 = {
+	female = yes
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_ec_14_manta = {
 	}
 }
 character_c_ec_09_esmeraldas = {
-	name = Diana
+	name = Medardo
 	religion = "tridentinism"
 	culture = "guayanenese"
-	female = yes
-	2618.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_ec_09_esmeraldas = {
 	}
 }
 character_c_ec_10_la_libertad = {
-	name = M_a_act_ximo
+	name = Ver_o_act_nica
 	religion = "tridentinism"
 	culture = "guayanenese"
-	female = no
-	2602.1.1 = {
+	female = yes
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_ec_10_la_libertad = {
 	}
 }
 character_c_ec_10_naranjal = {
-	name = Carlos
+	name = Eduardo
 	religion = "nonconformism"
 	culture = "guayanenese"
 	female = no
-	2630.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_ec_10_naranjal = {
 	}
 }
 character_c_ec_18_quito = {
-	name = Freddy
+	name = Jonathan
 	religion = "tridentinism"
 	culture = "serrano"
 	female = no
-	2611.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_ec_18_quito = {
 	}
 }
 character_c_ec_11_ibarra = {
-	name = V_i_act_ctor
+	name = Catalina
 	religion = "tridentinism"
 	culture = "pastuso"
-	female = no
-	2624.1.1 = {
+	female = yes
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_ec_11_ibarra = {
 	}
 }
 character_c_ec_13_babahoyo = {
-	name = Mois_e_act_s
+	name = Jos_e_act__Luis
 	religion = "tridentinism"
 	culture = "guayanenese"
 	female = no
-	2654.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,11 +95,11 @@ character_c_ec_13_babahoyo = {
 	}
 }
 character_c_ec_10_milagro = {
-	name = Federico
+	name = Segundo
 	religion = "inkarri_religion"
 	culture = "serrano"
 	female = no
-	2597.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -107,11 +107,11 @@ character_c_ec_10_milagro = {
 	}
 }
 character_c_ec_26_santo_domingo_de_los_colorados = {
-	name = Alfonso
+	name = Evelio
 	religion = "inkarri_religion"
 	culture = "serrano"
 	female = no
-	2619.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_ec_26_santo_domingo_de_los_colorados = {
 	}
 }
 character_c_ec_18_manuel_cornejo_astorga = {
-	name = Sim_o_act_n
+	name = Ana
 	religion = "tridentinism"
 	culture = "serrano"
-	female = no
-	2610.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_ec_18_manuel_cornejo_astorga = {
 	}
 }
 character_c_ec_02_cuenca = {
-	name = Juliana
+	name = Freddy
 	religion = "inkarri_religion"
 	culture = "serrano"
-	female = yes
-	2653.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,11 +143,11 @@ character_c_ec_02_cuenca = {
 	}
 }
 character_c_ec_08_machala = {
-	name = Mar_i_act_a_Cristina
+	name = Isidro
 	religion = "nonconformism"
 	culture = "guayanenese"
-	female = yes
-	2594.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -159,7 +159,7 @@ character_c_ec_12_loja = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2617.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,43 +167,7 @@ character_c_ec_12_loja = {
 	}
 }
 character_c_ec_04_la_troncal = {
-	name = Freddy
-	religion = "inkarri_religion"
-	culture = "serrano"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ec_20_zamora = {
-	name = Renato
-	religion = "inkarri_religion"
-	culture = "serrano"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ec_19_ambato = {
-	name = Evelio
-	religion = "inkarri_religion"
-	culture = "serrano"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ec_13_quevedo = {
-	name = Joaqu_i_act_n
+	name = Jos_e_act__Mar_i_act_a
 	religion = "inkarri_religion"
 	culture = "serrano"
 	female = no
@@ -214,12 +178,48 @@ character_c_ec_13_quevedo = {
 		death = yes
 	}
 }
-character_c_ec_07_latacunga = {
-	name = Marcelo
+character_c_ec_20_zamora = {
+	name = Ramiro
 	religion = "inkarri_religion"
 	culture = "serrano"
 	female = no
-	2609.1.1 = {
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ec_19_ambato = {
+	name = Rafael
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ec_13_quevedo = {
+	name = Wilmer
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ec_07_latacunga = {
+	name = Fernando
+	religion = "inkarri_religion"
+	culture = "serrano"
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_ec_07_latacunga = {
 	}
 }
 character_c_ec_24_puerto_francisco_de_orellana = {
-	name = David
+	name = Diego
 	religion = "inkarri_religion"
 	culture = "serrano"
 	female = no
-	2620.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_ec_24_puerto_francisco_de_orellana = {
 	}
 }
 character_c_ec_17_puyo = {
-	name = Esther
+	name = Galo
 	religion = "inkarri_religion"
 	culture = "serrano"
-	female = yes
-	2647.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_ec_17_puyo = {
 	}
 }
 character_c_ec_15_macas = {
-	name = A_act_lvaro
+	name = Nicol_a_act_s
 	religion = "inkarri_religion"
 	culture = "serrano"
 	female = no
-	2652.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_ec_15_macas = {
 	}
 }
 character_c_pe_16_pantoja = {
-	name = H_o_act_lger
+	name = Bol_i_act_var
 	religion = "santo_daime"
 	culture = "serrano"
 	female = no
-	2621.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_pe_16_pantoja = {
 	}
 }
 character_c_ec_01_puerto_ayora = {
-	name = Mar_i_act_a_Cristina
+	name = Jacinto
 	religion = "camino_estelar"
 	culture = "guayanenese"
-	female = yes
-	2610.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_ec_01_puerto_ayora = {
 	}
 }
 character_c_ec_01_puerto_baquerizo_moreno = {
-	name = Manuel
+	name = Alejandro
 	religion = "undefined_religion_153_135_120"
 	culture = "guayanenese"
 	female = no
-	2646.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_ec_01_puerto_baquerizo_moreno = {
 	}
 }
 character_c_ec_01_puerto_villamil = {
-	name = Jos_e_act__Mar_i_act_a
+	name = Sergio
 	religion = "undefined_religion_153_135_120"
 	culture = "guayanenese"
 	female = no
-	2635.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_ec_01_puerto_villamil = {
 	}
 }
 character_c_ec_01_bellavista = {
-	name = Marcelino
+	name = Rafael
 	religion = "undefined_religion_153_135_120"
 	culture = "guayanenese"
 	female = no
-	2590.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -327,7 +327,7 @@ character_c_pe_20_piura = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2636.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -339,7 +339,7 @@ character_c_pe_20_sullana = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2654.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_pe_20_sullana = {
 	}
 }
 character_c_pe_24_tumbes = {
-	name = costanorteno_placeholder_mnames
+	name = costanorteno_placeholder_fnames
 	religion = "nonconformism"
 	culture = "costanorteno"
-	female = no
-	2594.1.1 = {
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,7 +363,7 @@ character_c_pe_13_trujillo = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2625.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -375,7 +375,7 @@ character_c_pe_06_cajamarca = {
 	religion = "nonconformism"
 	culture = "huascareno"
 	female = no
-	2604.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -387,7 +387,7 @@ character_c_pe_13_chocope = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2591.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_pe_13_chocope = {
 	}
 }
 character_c_pe_13_huamachuco = {
-	name = huascareno_placeholder_fnames
+	name = huascareno_placeholder_mnames
 	religion = "inti_religion"
 	culture = "huascareno"
-	female = yes
-	2606.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -411,7 +411,7 @@ character_c_pe_14_chiclayo = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2617.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_pe_14_chiclayo = {
 	}
 }
 character_c_pe_06_ja_n = {
-	name = huascareno_placeholder_fnames
+	name = huascareno_placeholder_mnames
 	religion = "divina_chicha"
 	culture = "huascareno"
-	female = yes
-	2604.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -435,7 +435,7 @@ character_c_pe_14_motupe = {
 	religion = "nonconformism"
 	culture = "costanorteno"
 	female = no
-	2595.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_pe_14_motupe = {
 	}
 }
 character_c_pe_06_chota = {
-	name = huascareno_placeholder_mnames
+	name = huascareno_placeholder_fnames
 	religion = "divina_chicha"
 	culture = "huascareno"
-	female = no
-	2657.1.1 = {
+	female = yes
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_pe_06_chota = {
 	}
 }
 character_c_pe_02_chimbote = {
-	name = nortechicano_placeholder_mnames
+	name = nortechicano_placeholder_fnames
 	religion = "nonconformism"
 	culture = "nortechicano"
-	female = no
-	2643.1.1 = {
+	female = yes
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -471,7 +471,7 @@ character_c_pe_02_huaraz = {
 	religion = "nonconformism"
 	culture = "nortechicano"
 	female = no
-	2602.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_pe_02_huaraz = {
 	}
 }
 character_c_pe_15_barranca = {
-	name = nortechicano_placeholder_mnames
+	name = nortechicano_placeholder_fnames
 	religion = "liberationism"
 	culture = "nortechicano"
-	female = no
-	2613.1.1 = {
+	female = yes
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_pe_15_barranca = {
 	}
 }
 character_c_pe_02_yauya = {
-	name = huascareno_placeholder_fnames
+	name = huascareno_placeholder_mnames
 	religion = "inti_religion"
 	culture = "huascareno"
-	female = yes
-	2629.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -507,7 +507,7 @@ character_c_pe_10_hu_nuco = {
 	religion = "inti_religion"
 	culture = "wanka"
 	female = no
-	2634.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_pe_10_hu_nuco = {
 	}
 }
 character_c_pe_10_tingo_mar_a = {
-	name = charapa_placeholder_fnames
+	name = charapa_placeholder_mnames
 	religion = "inti_religion"
 	culture = "charapa"
-	female = yes
-	2618.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_pe_10_tingo_mar_a = {
 	}
 }
 character_c_pe_16_iquitos = {
-	name = trifinio_placeholder_mnames
+	name = trifinio_placeholder_fnames
 	religion = "santo_daime"
 	culture = "trifinio"
-	female = no
-	2610.1.1 = {
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -543,7 +543,7 @@ character_c_pe_16_yurimaguas = {
 	religion = "santo_daime"
 	culture = "charapa"
 	female = no
-	2628.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -555,7 +555,7 @@ character_c_pe_16_barranca = {
 	religion = "inkarri_religion"
 	culture = "charapa"
 	female = no
-	2622.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_pe_16_barranca = {
 	}
 }
 character_c_pe_16_francisco_de_orellana = {
-	name = trifinio_placeholder_mnames
+	name = trifinio_placeholder_fnames
 	religion = "santo_daime"
 	culture = "trifinio"
-	female = no
-	2654.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_pe_16_francisco_de_orellana = {
 	}
 }
 character_c_pe_16_saquena = {
-	name = matses_placeholder_mnames
+	name = matses_placeholder_fnames
 	religion = "santo_daime"
 	culture = "matses"
-	female = no
-	2631.1.1 = {
+	female = yes
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -591,7 +591,7 @@ character_c_pe_16_san_jos_de_saramuro = {
 	religion = "santo_daime"
 	culture = "charapa"
 	female = no
-	2635.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -603,7 +603,7 @@ character_c_pe_22_moyobamba = {
 	religion = "inti_religion"
 	culture = "charapa"
 	female = no
-	2616.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,7 +615,7 @@ character_c_pe_01_bagua_grande = {
 	religion = "divina_chicha"
 	culture = "huascareno"
 	female = no
-	2626.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -627,7 +627,7 @@ character_c_pe_01_la_peca = {
 	religion = "inkarri_religion"
 	culture = "charapa"
 	female = no
-	2590.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -639,7 +639,7 @@ character_c_pe_25_pucallpa = {
 	religion = "santo_daime"
 	culture = "charapa"
 	female = no
-	2655.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -651,7 +651,7 @@ character_c_pe_25_puntijao = {
 	religion = "santo_daime"
 	culture = "ashaninka"
 	female = no
-	2601.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -663,7 +663,7 @@ character_c_pe_17_tambopata = {
 	religion = "inti_religion"
 	culture = "charapa"
 	female = no
-	2654.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_pe_17_tambopata = {
 	}
 }
 character_c_pe_21_sandia = {
-	name = C_e_act_sar
+	name = Manuel
 	religion = "pachamama_religion"
 	culture = "kolla"
 	female = no
-	2597.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -687,7 +687,7 @@ character_c_pe_17_huepetuhe = {
 	religion = "inti_religion"
 	culture = "charapa"
 	female = no
-	2613.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -695,11 +695,11 @@ character_c_pe_17_huepetuhe = {
 	}
 }
 character_c_pe_21_coasa = {
-	name = Bernardino
+	name = M_o_act_nica
 	religion = "inti_religion"
 	culture = "aymara"
-	female = no
-	2645.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -711,7 +711,7 @@ character_c_pe_17_grupo_ocho = {
 	religion = "santo_daime"
 	culture = "ashaninka"
 	female = no
-	2627.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

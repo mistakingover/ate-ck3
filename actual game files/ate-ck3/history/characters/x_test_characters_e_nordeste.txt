@@ -1,7 +1,91 @@
 character_c_br_30_recife = {
-	name = Jos_e_act__Henrique
+	name = Otaviano
 	religion = "xango"
 	culture = "recifolindense"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_olinda = {
+	name = Kwan
+	religion = "xango"
+	culture = "recifolindense"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_vit_ria_de_santo_ant_o = {
+	name = Jo_a_tld__Mateus
+	religion = "pentecostalism"
+	culture = "recifolindense"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_caruaru = {
+	name = Maria_da_Assun_c_ced__a_tld_tld_o
+	religion = "ciceritism"
+	culture = "sertanista"
+	female = yes
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_garanhuns = {
+	name = Constantino
+	religion = "ciceritism"
+	culture = "sertanista"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_petrolina = {
+	name = Raimundo_Agostinho
+	religion = "pentecostalism"
+	culture = "franciscano"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_serra_talhada = {
+	name = Rafael
+	religion = "ciceritism"
+	culture = "sertanista"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_30_salgueiro = {
+	name = Deco
+	religion = "ciceritism"
+	culture = "sertanista"
 	female = no
 	2656.1.1 = {
 		birth = yes
@@ -10,80 +94,44 @@ character_c_br_30_recife = {
 		death = yes
 	}
 }
-character_c_br_30_olinda = {
-	name = Maria_do_Natal
-	religion = "xango"
-	culture = "recifolindense"
+character_c_br_30_araripina = {
+	name = Firmo_Jos_e_act_
+	religion = "ciceritism"
+	culture = "sertanista"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_06_fortaleza = {
+	name = Iadviga
+	religion = "kardecist"
+	culture = "semuarense"
 	female = yes
-	2658.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_30_vit_ria_de_santo_ant_o = {
-	name = Teodorico
-	religion = "pentecostalism"
-	culture = "recifolindense"
+character_c_br_06_maracana_ = {
+	name = Nataniel
+	religion = "kardecist"
+	culture = "semuarense"
 	female = no
-	2629.1.1 = {
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_30_caruaru = {
-	name = Raimundo_Constantino
-	religion = "ciceritism"
-	culture = "sertanista"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_30_garanhuns = {
-	name = Z_e_act_
-	religion = "ciceritism"
-	culture = "sertanista"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_30_petrolina = {
-	name = Miguel
-	religion = "pentecostalism"
-	culture = "franciscano"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_30_serra_talhada = {
-	name = Jo_a_tld_o_Ces_a_act_rio
-	religion = "ciceritism"
-	culture = "sertanista"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_30_salgueiro = {
-	name = Guilherme
+character_c_br_06_pacatuba = {
+	name = Manuel
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
@@ -94,60 +142,12 @@ character_c_br_30_salgueiro = {
 		death = yes
 	}
 }
-character_c_br_30_araripina = {
-	name = Maria_da_Anuncia_c_ced__a_tld_tld_o
-	religion = "ciceritism"
-	culture = "sertanista"
-	female = yes
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_06_fortaleza = {
-	name = Herculano
-	religion = "kardecist"
-	culture = "semuarense"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_06_maracana_ = {
-	name = Chiquinho
-	religion = "kardecist"
-	culture = "semuarense"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_06_pacatuba = {
-	name = Morma_c_ced_o
-	religion = "ciceritism"
-	culture = "sertanista"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_06_quixad_ = {
-	name = Raimundo_Patr_i_act_cio
+	name = Vicente
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2604.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_br_06_quixad_ = {
 	}
 }
 character_c_br_06_cascavel = {
-	name = Odorico
+	name = Eduardo
 	religion = "kardecist"
 	culture = "semuarense"
 	female = no
-	2604.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_br_06_cascavel = {
 	}
 }
 character_c_br_06_juazeiro_do_norte = {
-	name = Ven_a_hat_ncio
+	name = Maria_da_Apresenta_c_ced__a_tld_tld_o
 	religion = "ciceritism"
 	culture = "sertanista"
-	female = no
-	2625.1.1 = {
+	female = yes
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_br_06_juazeiro_do_norte = {
 	}
 }
 character_c_br_06_iguatu = {
-	name = Mateus
+	name = Jorge
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2635.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,58 +191,10 @@ character_c_br_06_iguatu = {
 	}
 }
 character_c_br_06_crate_s = {
-	name = Maria_Rachel
-	religion = "ciceritism"
-	culture = "sertanista"
-	female = yes
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_06_campos_sales = {
-	name = Laurindo
+	name = Pedro
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_06_sobral = {
-	name = Colombo
-	religion = "neopentecostalism"
-	culture = "semuarense"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_06_camocim = {
-	name = Ernani
-	religion = "neopentecostalism"
-	culture = "semuarense"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_02_macei_ = {
-	name = Maria_Lampadosa
-	religion = "apostolicism"
-	culture = "alagoano"
-	female = yes
 	2625.1.1 = {
 		birth = yes
 	}
@@ -250,12 +202,60 @@ character_c_br_02_macei_ = {
 		death = yes
 	}
 }
-character_c_br_02_arapiraca = {
-	name = Arnon
-	religion = "culto_dos_santos"
+character_c_br_06_campos_sales = {
+	name = Guilherme
+	religion = "ciceritism"
+	culture = "sertanista"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_06_sobral = {
+	name = H_e_act_rcules
+	religion = "neopentecostalism"
+	culture = "semuarense"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_06_camocim = {
+	name = Wilmiro
+	religion = "neopentecostalism"
+	culture = "semuarense"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_02_macei_ = {
+	name = Fernando
+	religion = "apostolicism"
 	culture = "alagoano"
 	female = no
-	2598.1.1 = {
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_02_arapiraca = {
+	name = Ana
+	religion = "culto_dos_santos"
+	culture = "alagoano"
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_br_02_arapiraca = {
 	}
 }
 character_c_br_02_delmiro_gouveia = {
-	name = Maria_da_Visita_c_ced__a_tld_o
+	name = Pedro
 	religion = "culto_dos_santos"
 	culture = "franciscano"
-	female = yes
-	2593.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,7 +275,7 @@ character_c_br_02_delmiro_gouveia = {
 	}
 }
 character_c_br_02_s_o_miguel_dos_campos = {
-	name = Manoel
+	name = Eurico
 	religion = "apostolicism"
 	culture = "alagoano"
 	female = no
@@ -287,11 +287,11 @@ character_c_br_02_s_o_miguel_dos_campos = {
 	}
 }
 character_c_br_28_aracaju = {
-	name = Jos_e_act__spc_Gonzaga
+	name = Viviane
 	religion = "apostolicism"
 	culture = "sergipano"
-	female = no
-	2653.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_br_28_aracaju = {
 	}
 }
 character_c_br_28_itabaiana = {
-	name = Jos_e_act__spc_Ant_o_hat_nio
+	name = Jo_a_tld_o
 	religion = "culto_dos_santos"
 	culture = "sergipano"
 	female = no
-	2616.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_br_28_itabaiana = {
 	}
 }
 character_c_br_02_penedo = {
-	name = Viviane
+	name = Jos_e_act__spc_Ant_o_hat_nio
 	religion = "apostolicism"
 	culture = "sergipano"
-	female = yes
-	2601.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,11 +323,11 @@ character_c_br_02_penedo = {
 	}
 }
 character_c_br_28_est_ncia = {
-	name = Jos_e_act__spc_Inoc_e_hat_ncio
+	name = Durval
 	religion = "culto_dos_santos"
 	culture = "sergipano"
 	female = no
-	2624.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,11 +335,11 @@ character_c_br_28_est_ncia = {
 	}
 }
 character_c_br_28_nossa_senhora_da_gl_ria = {
-	name = Jos_e_act__Davi
+	name = Domingos
 	religion = "culto_dos_santos"
 	culture = "franciscano"
 	female = no
-	2617.1.1 = {
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_br_28_nossa_senhora_da_gl_ria = {
 	}
 }
 character_c_br_13_s_o_lu_s = {
-	name = Vitorino
+	name = Gast_a_tld_o
 	religion = "apostolicism"
 	culture = "ludovicense"
 	female = no
-	2654.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_br_13_s_o_lu_s = {
 	}
 }
 character_c_br_13_barreirinhas = {
-	name = Sandra
+	name = Rafaela
 	religion = "xango"
 	culture = "ludovicense"
 	female = yes
-	2657.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_br_13_barreirinhas = {
 	}
 }
 character_c_br_13_caxias = {
-	name = Ben_i_act_cio
+	name = Carrasco
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2630.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_br_13_caxias = {
 	}
 }
 character_c_br_13_timon = {
-	name = Manuel
+	name = Maria_do_Loreto
 	religion = "ciceritism"
 	culture = "sertanista"
-	female = no
-	2637.1.1 = {
+	female = yes
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -399,7 +399,7 @@ character_c_br_13_barra_do_corda = {
 	religion = "benzedura"
 	culture = "guajajara"
 	female = no
-	2602.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -411,7 +411,7 @@ character_c_br_13_bacabal = {
 	religion = "benzedura"
 	culture = "guajajara"
 	female = yes
-	2594.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_br_13_bacabal = {
 	}
 }
 character_c_br_13_pinheiro = {
-	name = Oitavo
+	name = Henrique
 	religion = "apostolicism"
 	culture = "ludovicense"
 	female = no
-	2603.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,105 +431,9 @@ character_c_br_13_pinheiro = {
 	}
 }
 character_c_br_13_cururupu = {
-	name = Eug_e_hat_nio
+	name = V_i_act_tor
 	religion = "candomble"
 	culture = "ludovicense"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_13_nova_olina_do_marnhao = {
-	name = Remi
-	religion = "neopentecostalism"
-	culture = "imperatrizense"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_13_balsas = {
-	name = Jaime
-	religion = "benzedura"
-	culture = "imperatrizense"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_13_morros = {
-	name = Andr_e_act_
-	religion = "pentecostalism"
-	culture = "sertanista"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_13_graja_ = {
-	name = Odilon
-	religion = "pentecostalism"
-	culture = "imperatrizense"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_13_amarante_do_maranh_o = {
-	name = Eurico
-	religion = "pentecostalism"
-	culture = "imperatrizense"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_17_jo_o_pessoa = {
-	name = Levi
-	religion = "apostolicism"
-	culture = "potibacaguara"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_17_campina_grande = {
-	name = Maria_da_Anuncia_c_ced__a_tld_tld_o
-	religion = "ciceritism"
-	culture = "potibacaguara"
-	female = yes
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_17_sol_nea = {
-	name = Adriano
-	religion = "anussim"
-	culture = "potibacaguara"
 	female = no
 	2645.1.1 = {
 		birth = yes
@@ -538,34 +442,58 @@ character_c_br_17_sol_nea = {
 		death = yes
 	}
 }
-character_c_br_17_monteiro = {
-	name = Avenzoar
-	religion = "ciceritism"
-	culture = "potibacaguara"
+character_c_br_13_nova_olina_do_marnhao = {
+	name = Weverton
+	religion = "neopentecostalism"
+	culture = "imperatrizense"
 	female = no
-	2636.1.1 = {
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_17_sousa = {
-	name = Juliano
-	religion = "anussim"
-	culture = "potibacaguara"
+character_c_br_13_balsas = {
+	name = Cl_o_act_vis
+	religion = "benzedura"
+	culture = "imperatrizense"
 	female = no
-	2603.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_17_patos = {
-	name = Georgino
-	religion = "anussim"
-	culture = "potibacaguara"
+character_c_br_13_morros = {
+	name = Mariano
+	religion = "pentecostalism"
+	culture = "sertanista"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_13_graja_ = {
+	name = Luciano
+	religion = "pentecostalism"
+	culture = "imperatrizense"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_13_amarante_do_maranh_o = {
+	name = Carlos
+	religion = "pentecostalism"
+	culture = "imperatrizense"
 	female = no
 	2604.1.1 = {
 		birth = yes
@@ -574,12 +502,84 @@ character_c_br_17_patos = {
 		death = yes
 	}
 }
-character_c_br_17_cajazeiras = {
-	name = Joacir
+character_c_br_17_jo_o_pessoa = {
+	name = Zenite
+	religion = "apostolicism"
+	culture = "potibacaguara"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_17_campina_grande = {
+	name = H_e_act_lder
+	religion = "ciceritism"
+	culture = "potibacaguara"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_17_sol_nea = {
+	name = Felipe
 	religion = "anussim"
 	culture = "potibacaguara"
 	female = no
-	2652.1.1 = {
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_17_monteiro = {
+	name = Otac_i_act_lio
+	religion = "ciceritism"
+	culture = "potibacaguara"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_17_sousa = {
+	name = Zarek
+	religion = "anussim"
+	culture = "potibacaguara"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_17_patos = {
+	name = Ulric
+	religion = "anussim"
+	culture = "potibacaguara"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_17_cajazeiras = {
+	name = Gaspar
+	religion = "anussim"
+	culture = "potibacaguara"
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_br_17_cajazeiras = {
 	}
 }
 character_c_br_22_natal = {
-	name = Evaldo
+	name = Carlos
 	religion = "apostolicism"
 	culture = "potibacaguara"
 	female = no
-	2603.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_br_22_natal = {
 	}
 }
 character_c_br_22_mossor_ = {
-	name = Flaviano
+	name = Ulisses
 	religion = "anussim"
 	culture = "potibacaguara"
 	female = no
-	2643.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_br_22_mossor_ = {
 	}
 }
 character_c_br_17_s_o_bento = {
-	name = Ka_i_act_que
+	name = Adem_i_act_r
 	religion = "anussim"
 	culture = "potibacaguara"
 	female = no
-	2618.1.1 = {
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_br_17_s_o_bento = {
 	}
 }
 character_c_br_22_macau = {
-	name = Maria_Rosa
+	name = Ruy
 	religion = "anussim"
 	culture = "potibacaguara"
-	female = yes
-	2635.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_br_22_macau = {
 	}
 }
 character_c_br_22_jo_o_c_mara = {
-	name = Evaldo
+	name = Bento
 	religion = "pentecostalism"
 	culture = "potibacaguara"
 	female = no
-	2657.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_br_22_jo_o_c_mara = {
 	}
 }
 character_c_br_22_currais_novos = {
-	name = Immanuel
+	name = Ad_i_act_lson
 	religion = "anussim"
 	culture = "potibacaguara"
 	female = no
-	2600.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -659,11 +659,11 @@ character_c_br_22_currais_novos = {
 	}
 }
 character_c_br_22_caic_ = {
-	name = Of_e_act_lia
+	name = Bas_i_act_lio
 	religion = "anussim"
 	culture = "potibacaguara"
-	female = yes
-	2644.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,8 +671,44 @@ character_c_br_22_caic_ = {
 	}
 }
 character_c_br_20_teresina = {
-	name = Magno
+	name = Israel
 	religion = "anussim"
+	culture = "piauiense"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_20_parna_ba = {
+	name = Cipriano
+	religion = "xango"
+	culture = "piauiense"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_20_piripiri = {
+	name = Desirr_e_hat_
+	religion = "neopentecostalism"
+	culture = "piauiense"
+	female = yes
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_20_demerval_lob_o = {
+	name = C_a_act_ssio
+	religion = "ciceritism"
 	culture = "piauiense"
 	female = no
 	2655.1.1 = {
@@ -682,48 +718,12 @@ character_c_br_20_teresina = {
 		death = yes
 	}
 }
-character_c_br_20_parna_ba = {
-	name = Jos_e_act_
-	religion = "xango"
-	culture = "piauiense"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_20_piripiri = {
-	name = Renata
-	religion = "neopentecostalism"
-	culture = "piauiense"
-	female = yes
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_20_demerval_lob_o = {
-	name = S_e_act_timo
-	religion = "ciceritism"
-	culture = "piauiense"
-	female = no
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_20_picos = {
-	name = Andr_e_act_
+	name = Jos_e_act__Bernardo
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2640.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,11 +731,11 @@ character_c_br_20_picos = {
 	}
 }
 character_c_br_20_valen_a_do_piau_ = {
-	name = Miguel
+	name = Constantino
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2660.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_br_20_valen_a_do_piau_ = {
 	}
 }
 character_c_br_20_oeiras = {
-	name = Jos_e_act__Davi
+	name = Maria_Quit_e_act_ria_de_Jesus
 	religion = "ciceritism"
 	culture = "sertanista"
-	female = no
-	2626.1.1 = {
+	female = yes
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_br_20_oeiras = {
 	}
 }
 character_c_br_20_s_o_raimundo_nonato = {
-	name = Ant_o_hat_nio
+	name = Am_a_hat_ncio
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2626.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_br_20_s_o_raimundo_nonato = {
 	}
 }
 character_c_br_20_bom_jesus = {
-	name = Raimundo_Agostinho
+	name = Ant_o_hat_nio_Andr_e_act_
 	religion = "veredite"
 	culture = "sertanista"
 	female = no
-	2596.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_br_20_bom_jesus = {
 	}
 }
 character_c_br_20_simpl_cio_mendes = {
-	name = Maria_Cl_a_act_udia
+	name = Flaviano
 	religion = "ciceritism"
 	culture = "sertanista"
-	female = yes
-	2650.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,11 +791,11 @@ character_c_br_20_simpl_cio_mendes = {
 	}
 }
 character_c_br_20_itaueira = {
-	name = Rui
+	name = J_u_act_lio
 	religion = "ciceritism"
 	culture = "sertanista"
 	female = no
-	2630.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
