@@ -1398,7 +1398,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_amazonian_common_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_amazonian_common_01
+			}
 			boy = male
             girl = female
 		}
@@ -1407,7 +1409,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_amazonian_low_nobility_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_amazonian_low_nobility_01
+			}
 			boy = male
             girl = female
 		}
@@ -1416,7 +1420,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_amazonian_high_nobility_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_amazonian_high_nobility_01
+			}
 			boy = male
             girl = female
 		}
@@ -1425,7 +1431,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_amazonian_royalty_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_amazonian_royalty_01
+			}
 			boy = male
             girl = female
 		}
@@ -1434,7 +1442,9 @@ accessory_genes = {
 			male = {
 				10 = male_headgear_secular_amazonian_imperial_01
 			}
-			female = male
+			female = {
+				10 = female_headgear_secular_amazonian_imperial_01
+			}
 			boy = male
             girl = female
 		}

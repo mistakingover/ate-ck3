@@ -50,3 +50,7 @@ portrait_andean_clothing_trigger = {
 		culture = { has_graphical_culture = andino_group_gfx }
 	}
 }
+
+portrait_canadian_clothing_trigger = {
+	culture = { has_graphical_culture = canadian_clothing_gfx }
+}

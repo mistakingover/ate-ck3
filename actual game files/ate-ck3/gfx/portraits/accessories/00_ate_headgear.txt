@@ -215,6 +215,26 @@ male_headgear_secular_amazonian_imperial_01 = {
 	set_tags = "crown"
  	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headgear_secular_amazonian_imperial_01_entity 	 }		
 }
+female_headgear_secular_amazonian_common_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_amazonian_common_01_entity 	 }		
+}
+female_headgear_secular_amazonian_low_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_amazonian_low_nobility_01_entity 	 }		
+}
+female_headgear_secular_amazonian_high_nobility_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_amazonian_high_nobility_01_entity 	 }		
+}
+female_headgear_secular_amazonian_royalty_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_amazonian_royalty_01_entity 	 }		
+}
+female_headgear_secular_amazonian_imperial_01 = {	
+	set_tags = "crown"
+ 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headgear_secular_amazonian_imperial_01_entity 	 }		
+}
 
 
 
