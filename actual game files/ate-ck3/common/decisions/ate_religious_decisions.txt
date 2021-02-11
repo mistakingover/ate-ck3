@@ -146,7 +146,12 @@ meditate_on_the_marquess_decision = {
 	}
 
 	ai_will_do = {
-		base = 10
+		base = 50
+
+		# 100% chance at 50 zeal, 0% chance at -50 zeal.
+		ai_value_modifier = {
+			ai_zeal = 1
+		}		
 	}
 }
 
@@ -206,9 +211,13 @@ draw_geoglyph_decision = {
 	ai_potential = {
 		always = yes
 	}
-
 	ai_will_do = {
-		base = 100
+		base = 50
+
+		# 100% chance at 50 zeal, 0% chance at -50 zeal.
+		ai_value_modifier = {
+			ai_zeal = 1
+		}		
 	}
 }
 
@@ -275,7 +284,12 @@ dedicate_anima_shrine = {
 	}
 
 	ai_will_do = {
-		base = 100
+		base = 50
+
+		# 100% chance at 50 zeal, 0% chance at -50 zeal.
+		ai_value_modifier = {
+			ai_zeal = 1
+		}		
 	}
 }
 
@@ -385,7 +399,12 @@ build_sanctuary_anima = {
 	}
 
 	ai_will_do = {
-		base = 1
+		base = 50
+
+		# 100% chance at 50 zeal, 0% chance at -50 zeal.
+		ai_value_modifier = {
+			ai_zeal = 1
+		}		
 	}
 }
 
@@ -437,6 +456,66 @@ hold_challa_ritual_decision = {
 	}
 
 	ai_will_do = {
-		base = 100
+		base = 50
+
+		# 100% chance at 50 zeal, 0% chance at -50 zeal.
+		ai_value_modifier = {
+			ai_zeal = 1
+		}		
+	}
+}
+
+consult_the_huacas_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = consult_the_huacas_decision_desc
+	selection_tooltip = consult_the_huacas_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = consult_the_huacas_enabled
+		}
+	}
+	cooldown = { 
+		years = 5
+	}
+	is_valid = {
+		custom_description = {
+			text = decision_has_court_chaplain
+			exists = cp:councillor_court_chaplain
+			cp:councillor_court_chaplain = {
+				is_available_adult = yes
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		hidden_effect = {
+			trigger_event = ate_religious_decision.112
+		}
+		custom_tooltip = consult_the_huacas_effect
+	}
+
+	cost = { 
+		gold = standard_activity_cost 
+	}
+
+	ai_check_interval = 36
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 50
+
+		# 100% chance at 50 zeal, 0% chance at -50 zeal.
+		ai_value_modifier = {
+			ai_zeal = 1
+		}		
 	}
 }

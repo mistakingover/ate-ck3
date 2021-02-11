@@ -177,3 +177,63 @@ challa_blessing_3 = {
 	clergy_opinion = 5
 	same_faith_opinion = 10
 }
+
+huaca_great_piety = {
+	icon = piety_positive 
+	learning = 2
+	monthly_piety = 0.1
+}
+huaca_good_piety = {
+	icon = piety_positive 
+	learning = 1
+	monthly_piety = 0.05
+}
+huaca_bad_piety = {
+	icon = piety_negative
+	learning = -1
+	monthly_piety = -0.05
+}
+
+huaca_great_economy = {
+	icon = economy_positive 
+	domain_tax_mult = 0.1
+}
+huaca_good_economy = {
+	icon = economy_positive 
+	domain_tax_mult = 0.05
+}
+huaca_bad_economy = {
+	icon = economy_negative
+	domain_tax_mult = -0.05
+}
+
+huaca_great_war = {
+	icon = martial_positive 
+	martial = 2
+	prowess = 1
+}
+huaca_good_war = {
+	icon = martial_positive 
+	martial = 1
+}
+huaca_bad_war = {
+	icon = martial_negative
+	martial = -1
+	prowess = -1
+}
+
+huaca_great_admin = {
+	icon = stewardship_positive 
+	stewardship = 2
+	tyranny_loss_mult = 0.1
+}
+huaca_good_admin = {
+	icon = stewardship_positive 
+	stewardship = 1
+	tyranny_loss_mult = 0.05
+}
+huaca_bad_admin = {
+	icon = stewardship_negative
+	stewardship = -1
+	tyranny_loss_mult = -0.05
+}
