@@ -120,11 +120,8 @@ entity = {
 }
 
 
-
-############################
-
 entity = {
-	name = "male_clothes_secular_cowboy_nobility_04_entity"
+	name = "male_clothes_secular_sub_saharan_nobility_02_high_entity"
 	pdxmesh = "male_clothes_secular_mena_nobility_02_mesh"
 
 	attribute = { name = "bs_body_infant_1"					blend_shape = "male_clothes_secular_mena_nobility_02_bs_infant" }
@@ -137,7 +134,7 @@ entity = {
 	game_data = {
 		portrait_accessory = {
 			pattern_mask = "gfx/models/portraits/attachments/male_clothes/secular/mena/nobility_02/male_clothes_secular_mena_nobility_02_masks.dds"	#Any 4-channel texture. Each channel will be used to mask a pattern from the variation object
-			variation = "west_anglo_01"	#A "variation" object in gfx/portraits/accessory_variations/
+			variation = "sub_saharan_nobility_high_01"	#A "variation" object in gfx/portraits/accessory_variations/
 		}
 	}
 }

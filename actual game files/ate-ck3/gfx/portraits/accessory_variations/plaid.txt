@@ -69,7 +69,7 @@ pattern_layout = {
 pattern_layout = {
 	name = "plaid_layout_02"	
 	scale 		= { min = 0.05	max = 0.1 }
-	rotation 	= { min = -45	max = 45 }	
+	rotation 	= { min = 0	max = 0 }	
 	offset 		= { x = { min = 0	max = 0 }    y = { min = 0	max = 0 } } 
 }
 
@@ -178,6 +178,9 @@ variation = {
 }
 
 
+
+
+
 variation = {
 	name = "west_anglo_01"
 	
@@ -207,6 +210,28 @@ variation = {
 		b = { textures = "denim_01" layout = "small_trim_layout" }
 		b = { textures = "plaid_rnb_03" layout = "plaid_layout_02" }
 		g = { textures = "western_leather_plain_01" layout = "plain_fabric_layout" }
+	}
+	# Color palette textures are 16-wide and N-high.
+	# Shaders will chose a row in the texture at random, and each column will be sampled once.
+	# First column will be masked by the red channel in the masks, second by the green, etc.
+	# If more than one color palette texture is provided one will be chosen at random (uniformly, no weights)
+	color_palette = { weight = 1		texture = "gfx/portraits/accessory_variations/textures/color_palette_cowboy_plaid.dds" }	
+}
+
+
+variation = {
+	name = "west_anglo_02"
+	
+	# patterns are sampled using UV-set 2
+	# uv-coordinates will be modified with scale, rotation, and offset before the texture is sampled
+	# If more than one pattern_layout is provided one will be chosen at random (uniformly, no weights)
+	pattern = {
+		weight = 1
+		#r,g,b,a here refers to the channels in the pattern_mask scripted in the entity
+		r = { textures = "plaid_rnb_01" layout = "plaid_layout_02" }
+		b = { textures = "plaid_rnb_01" layout = "plaid_layout_02" }
+		b = { textures = "plaid_rnb_01" layout = "plaid_layout_02" }
+		g = { textures = "plaid_rnb_01" layout = "plaid_layout_02" }
 	}
 	# Color palette textures are 16-wide and N-high.
 	# Shaders will chose a row in the texture at random, and each column will be sampled once.

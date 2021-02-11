@@ -4015,7 +4015,7 @@ headgear = {
 			base = 0
 			modifier = {
 				add = 101 # always pick the HRE crown over the western one
-				has_title = title:e_hcc
+				has_title = title:e_dixie
 			}
 			modifier = {
 				add = -100 # always pick the Byzantine Crown if that's your primary title
@@ -4105,7 +4105,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4169,7 +4169,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4228,7 +4228,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4344,19 +4344,19 @@ headgear = {
 		}
 	}
 
-	plain_native_high_nobility = {
+	plains_native_high_nobility = {
 		dna_modifiers = {
 			accessory = {
 				mode = add
 				gene = headgear
-				template = plain_native_high_nobility
+				template = plains_native_high_nobility
 				range = { 0 1 } # For the randomness to work correctly
 			}
 		}	
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4408,19 +4408,19 @@ headgear = {
 		}
 	}
 
-	plain_native_royalty = {
+	plains_native_royalty = {
 		dna_modifiers = {
 			accessory = {
 				mode = add
 				gene = headgear
-				template = plain_native_royalty
+				template = plains_native_royalty
 				range = { 0 1 } # For the randomness to work correctly
 			}
 		}	
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4467,19 +4467,19 @@ headgear = {
 		}
 	}
 	
-	plain_native_imperial = {
+	plains_native_imperial = {
 		dna_modifiers = {
 			accessory = {
 				mode = add
 				gene = headgear
-				template = plain_native_imperial
+				template = plains_native_imperial
 				range = { 0 1 } # For the randomness to work correctly
 			}
 		}	
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4542,7 +4542,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				highest_held_title_tier < tier_county
 				NOR = {
 					AND = {
@@ -4649,7 +4649,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4719,7 +4719,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4784,7 +4784,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -4809,9 +4809,9 @@ headgear = {
 						NOT = { AND = { is_ruler = yes has_government = mercenary_government  } } # Blocked for mercenaries
 						NOT = { has_government = republic_government }
 						OR = {
-					portrait_cowboy_clothing_trigger = yes
-					portrait_sa_cowboy_clothing_trigger = yes
-				}
+							portrait_cowboy_clothing_trigger = yes
+							portrait_sa_cowboy_clothing_trigger = yes
+						}
 					}
 					AND = {
 						exists = primary_spouse
@@ -4827,9 +4827,9 @@ headgear = {
 							NOT = { AND = { is_ruler = yes has_government = mercenary_government  } } # Blocked for mercenaries
 							NOT = { has_government = republic_government }
 							OR = {
-					portrait_cowboy_clothing_trigger = yes
-					portrait_sa_cowboy_clothing_trigger = yes
-				}
+								portrait_cowboy_clothing_trigger = yes
+								portrait_sa_cowboy_clothing_trigger = yes
+							}
 						}
 					}
 				}
@@ -4853,7 +4853,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				highest_held_title_tier < tier_county
 				NOR = {
 					AND = {
@@ -4916,9 +4916,9 @@ headgear = {
 							AND = { is_ruler = yes has_government = theocracy_government }
 						}
 						OR = {
-					portrait_cangaco_clothing_trigger = yes
-					portrait_sa_cowboy_clothing_trigger = yes
-				}
+							portrait_cangaco_clothing_trigger = yes
+							portrait_sa_cowboy_clothing_trigger = yes
+						}
 					}
 					AND = {
 						exists = primary_spouse
@@ -4937,9 +4937,9 @@ headgear = {
 								AND = { is_ruler = yes has_government = theocracy_government }
 							}
 							OR = {
-					portrait_cangaco_clothing_trigger = yes
-					portrait_sa_cowboy_clothing_trigger = yes
-				}
+								portrait_cangaco_clothing_trigger = yes
+								portrait_sa_cowboy_clothing_trigger = yes
+							}
 						}
 					}
 				}
@@ -4959,7 +4959,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5023,7 +5023,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5071,10 +5071,9 @@ headgear = {
 	}
 	
 	
-	###Amazonian
-	## amazonian ##
+	###Amazonian###
 
-	hat_amazonian = {
+	headdress_amazonian = {
 
 		dna_modifiers = {
 			accessory = {
@@ -5087,7 +5086,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				highest_held_title_tier < tier_county
 				NOR = {
 					AND = {
@@ -5119,7 +5118,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 75
+				add = 100
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5184,7 +5183,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 100
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5248,7 +5247,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 100
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5307,7 +5306,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 100
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5370,7 +5369,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				highest_held_title_tier < tier_county
 				NOR = {
 					AND = {
@@ -5467,7 +5466,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5531,7 +5530,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
@@ -5590,7 +5589,7 @@ headgear = {
 		weight = {
 			base = 0
 			modifier = {
-				add = 50
+				add = 75
 				NAND = {
 					has_trait = peasant_leader
 					OR = {
