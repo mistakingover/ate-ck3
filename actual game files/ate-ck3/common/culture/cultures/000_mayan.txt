@@ -105,4 +105,104 @@ graphical_cultures = {
 		mother_name_chance = 0
 
 	}
+	mamean = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 179 211 48 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	chontal = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 194 254 68 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	mopan-itza = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 190 226 4 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	qeqchi = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 123 239 132 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
 }

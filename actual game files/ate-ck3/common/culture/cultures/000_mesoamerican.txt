@@ -1166,4 +1166,392 @@ graphical_cultures = {
 		mother_name_chance = 0
 
 	}
+	totonac = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 21 113 223 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Aguilera"
+			"dynn_Alconedo"
+			"dynn_Aldana"
+			"dynn_Amelco"
+			"dynn_Andr_e_act_s"
+			"dynn_Antonio"
+			"dynn_Arteaga"
+			"dynn_Ausencio"
+			"dynn_Bandala"
+			"dynn_Barqueras"
+			"dynn_Barrera"
+			"dynn_Barrientos"
+			"dynn_Basilio"
+			"dynn_Basti_a_act_n"
+			"dynn_Bautista"
+			"dynn_Becerra"
+			"dynn_Bernab_e_act_"
+			"dynn_C_a_act_rcamo"
+			"dynn_Camilo"
+			"dynn_Campomanes"
+			"dynn_Caraza"
+			"dynn_Carre_o_act_n"
+			"dynn_Casta_n_tld_o"
+			"dynn_Cervantes"
+			"dynn_Cort_e_act_s"
+			"dynn_D_a_act_vila"
+			"dynn_El_i_act_as"
+			"dynn_Escamilla"
+			"dynn_Espinosa"
+			"dynn_Facundo"
+			"dynn_Febronio"
+			"dynn_Ferral"
+			"dynn_Gal_a_act_n"
+			"dynn_Galindo"
+			"dynn_Garrido"
+			"dynn_Gayosso"
+			"dynn_Huidobro"
+			"dynn_I_act__n_tld_iguez"
+			"dynn_Ibarra"
+			"dynn_Isleo"
+			"dynn_Izquierdo"
+			"dynn_Jer_o_act_nimo"
+			"dynn_Ju_a_act_rez"
+			"dynn_Julio"
+			"dynn_Laureano"
+			"dynn_Leal"
+			"dynn_Lechuga"
+			"dynn_Licona"
+			"dynn_Lucas"
+			"dynn_Luis"
+			"dynn_M_a_act_rquez"
+			"dynn_Maldonado"
+			"dynn_Marceliano"
+			"dynn_Martag_o_act_n"
+			"dynn_Moctezuma"
+			"dynn_Moncayo"
+			"dynn_Monroy"
+			"dynn_Monterde"
+			"dynn_Montero"
+			"dynn_Morgado"
+			"dynn_Narv_a_act_ez"
+			"dynn_Nava"
+			"dynn_Nicol_a_act_s"
+			"dynn_Olarte"
+			"dynn_Olgu_i_act_n"
+			"dynn_Olmedo"
+			"dynn_Olmos"
+			"dynn_Palmeros"
+			"dynn_Pati_n_tld_o"
+			"dynn_Peralta"
+			"dynn_Perdomo"
+			"dynn_Platas"
+			"dynn_Posadas"
+			"dynn_Prezas"
+			"dynn_Raga"
+			"dynn_Ramos"
+			"dynn_Ricao"
+			"dynn_Rosado"
+			"dynn_Saavedra"
+			"dynn_Sainos"
+			"dynn_Salanueva"
+			"dynn_Salazar"
+			"dynn_Salvador"
+			"dynn_San_Juan"
+			"dynn_San_Mart_i_act_n"
+			"dynn_Sandria"
+			"dynn_Sant_e_act_s"
+			"dynn_Santa_Ana"
+			"dynn_Santa_Mar_i_act_a"
+			"dynn_Sim_o_act_n"
+			"dynn_Simbr_o_act_n"
+			"dynn_Sosa"
+			"dynn_T_e_act_llez"
+			"dynn_Tejada"
+			"dynn_Tiburcio"
+			"dynn_Ticante"
+			"dynn_Tino"
+			"dynn_Tirzo"
+			"dynn_Tom_a_act_s"
+			"dynn_Toral"
+			"dynn_Urrutia"
+			"dynn_Valencia"
+			"dynn_Valera"
+			"dynn_Varela"
+			"dynn_Vega"
+			"dynn_Verdejo"
+			"dynn_Vicencio"
+			"dynn_Vicente"
+			"dynn_Villanueva"
+			"dynn_Vite"
+			"dynn_Xac_a_act_n"
+			"dynn_Zaleta"
+			"dynn_Zamitiz"
+			"dynn_Zepeta"
+			"dynn_de_Gaona"
+			"dynn_de_Le_o_act_n"
+			"dynn_de_Luna"
+			"dynn_de_la_Calleja"
+			"dynn_del_A_act_ngel"
+			"dynn_del_Valle"
+		}
+		
+		male_names = {
+			Agust_i_act_n
+			Francisco
+			Jos_e_act_
+			L_a_act_zaro
+			Manuel Mariano
+			Seraf_i_act_n
+			U_act_rsulo
+		}
+
+		female_names = {
+			Francisca
+			Gregoria
+			L_a_act_zara
+			Mar_i_act_a
+			U_act_rsula
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	otomi = {
+
+		ethnicities = {
+	25 = med_indigenous
+}
+			color = { 41 51 86 }
+
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		dynasty_names = {
+			"dynn_Aceves"
+			"dynn_Aguazul"
+			"dynn_Albino"
+			"dynn_Alejandro"
+			"dynn_Alonso"
+			"dynn_Amado"
+			"dynn_Ambrocio"
+			"dynn_Anastacio"
+			"dynn_Antonio"
+			"dynn_Anz_u_act_rez"
+			"dynn_Apolinar"
+			"dynn_Apolonio"
+			"dynn_Arana"
+			"dynn_Aristeo"
+			"dynn_Arzate"
+			"dynn_Balderas"
+			"dynn_Baltazar"
+			"dynn_Bartolo"
+			"dynn_Becerril"
+			"dynn_Benito"
+			"dynn_Berm_u_act_dez"
+			"dynn_Bibiano"
+			"dynn_Blanco"
+			"dynn_Blas"
+			"dynn_Bonifacio"
+			"dynn_Bruno"
+			"dynn_Ca_n_tld_as"
+			"dynn_Calixto"
+			"dynn_Canuto"
+			"dynn_Carlos"
+			"dynn_Casiano"
+			"dynn_Castel_a_act_n"
+			"dynn_Cayetano"
+			"dynn_Celestino"
+			"dynn_Cerecedo"
+			"dynn_Cerro"
+			"dynn_Cipriano"
+			"dynn_Cirilo"
+			"dynn_Clemente"
+			"dynn_Coyol"
+			"dynn_Crescencio"
+			"dynn_Crisanto"
+			"dynn_Daju_i_act_"
+			"dynn_Dami_a_act_n"
+			"dynn_Dedho"
+			"dynn_Dionicio"
+			"dynn_Dolores"
+			"dynn_Donato"
+			"dynn_Doth_e_act_"
+			"dynn_Durazno"
+			"dynn_Eleuterio"
+			"dynn_Epigmenio"
+			"dynn_Escobedo"
+			"dynn_Esquila"
+			"dynn_Esquivel"
+			"dynn_Eulogio"
+			"dynn_Evaristo"
+			"dynn_Fabela"
+			"dynn_Fabi_a_act_n"
+			"dynn_Faustico"
+			"dynn_Felipe"
+			"dynn_Fidencio"
+			"dynn_Filomeno"
+			"dynn_Florencio"
+			"dynn_Florentino"
+			"dynn_Flores"
+			"dynn_Francisco"
+			"dynn_Galicia"
+			"dynn_Galv_a_act_n"
+			"dynn_God_i_act_nez"
+			"dynn_Gregorio"
+			"dynn_Guadalupe"
+			"dynn_Hinojosa"
+			"dynn_Huerta"
+			"dynn_Iglesias"
+			"dynn_Irineo"
+			"dynn_Isabel"
+			"dynn_Ja_i_act_n"
+			"dynn_Jacinto"
+			"dynn_Jahuey"
+			"dynn_Jer_o_act_nimo"
+			"dynn_Joaqu_i_act_n"
+			"dynn_Jorge"
+			"dynn_Juan"
+			"dynn_Juan_Jos_e_act_"
+			"dynn_Juli_a_act_n"
+			"dynn_Leocadio"
+			"dynn_Librado"
+			"dynn_Loma"
+			"dynn_Longino"
+			"dynn_Lorenzo"
+			"dynn_Lucio"
+			"dynn_Luis"
+			"dynn_Macario"
+			"dynn_Magdaleno"
+			"dynn_Manrique"
+			"dynn_Marcelino"
+			"dynn_Marcelo"
+			"dynn_Marcial"
+			"dynn_Margarito"
+			"dynn_Marino"
+			"dynn_Maximino"
+			"dynn_Melit_o_act_n"
+			"dynn_Mezquite"
+			"dynn_Miguel"
+			"dynn_Mirafuentes"
+			"dynn_Mireles"
+			"dynn_Moderno"
+			"dynn_Montes_de_Oca"
+			"dynn_Nandho"
+			"dynn_Nopal"
+			"dynn_Noriega"
+			"dynn_Nube"
+			"dynn_Ordu_n_tld_a"
+			"dynn_Palacios"
+			"dynn_Pascual"
+			"dynn_Patricio"
+			"dynn_Paulino"
+			"dynn_Pedraza"
+			"dynn_Portugal"
+			"dynn_Primo"
+			"dynn_Prisciliano"
+			"dynn_Quezada"
+			"dynn_Quirino"
+			"dynn_Raymundo"
+			"dynn_Rivero"
+			"dynn_Rom_a_act_n"
+			"dynn_Roque"
+			"dynn_Rubio"
+			"dynn_Salvador"
+			"dynn_Silverio"
+			"dynn_Silvestre"
+			"dynn_Sotero"
+			"dynn_Tepetate"
+			"dynn_Tenango"
+			"dynn_Tierrablanca"
+			"dynn_Tom_a_act_s"
+			"dynn_Tranquilino"
+			"dynn_Urbano"
+			"dynn_Valle"
+			"dynn_Valent_i_act_n"
+			"dynn_Varona"
+			"dynn_Velasco"
+			"dynn_Venancio"
+			"dynn_Ventura"
+			"dynn_Vicente"
+			"dynn_Victoria"
+			"dynn_Victoriano"
+			"dynn_Vigueras"
+			"dynn_Vixtha"
+			"dynn_Wenceslao"
+			"dynn_Xaxni"
+			"dynn_Zacar_i_act_as"
+			"dynn_Zapote"
+			"dynn_Zenil"
+			"dynn_de_la_Cruz"
+			"dynn_de_la_Luz"
+			"dynn_de_la_Palma"
+			"dynn_de_la_Rosa"
+			"dynn_de_la_Vega"
+		}
+		
+		male_names = {
+			Agust_i_act_n Alberto
+			Diego
+			Emiliano Enrique
+			Fortunato
+			Jos_e_act_ Jos_e_act__Luis Jos_e_act__Manuel
+			L_a_act_zaro
+			Macedonio Miguel
+			Nicol_a_act_s
+			Pedro Porfirio
+			Quint_i_act_n
+		}
+
+		female_names = {
+			Adela
+			Beatriz
+			Diana
+			Juana
+			Macedonia Mar_i_act_a Martina
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
+	zoque = {
+
+		ethnicities = {
+	75 = mesoamerican
+	25 = med_indigenous
+}
+			color = { 49 195 242 }
+
+		male_names = {
+			
+		}
+
+		female_names = {
+			
+		}
+
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+	}
 }
