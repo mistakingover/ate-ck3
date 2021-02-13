@@ -212,6 +212,46 @@
 		}
 	}
 	
+	tenet_capitalist_syncretism = {
+        icon = core_tenet_followers
+
+        piety_cost = {
+            value = faith_tenet_cost_low
+        }
+
+        is_shown = {
+            NOT = { religion_tag = capitalist_religion }
+        }
+        can_pick = {
+            custom_description = {
+                text = incompatible_tenet_other_syncretism_trigger
+                NOR = {
+                    flag:tenet_eastern_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_unreformed_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_christian_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_islamic_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_wisdom_of_gurus = { is_in_list = selected_doctrines }
+                    flag:tenet_israelite_identity = { is_in_list = selected_doctrines }
+                    flag:tenet_columbian_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_capitalist_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_scientific_syncretism = { is_in_list = selected_doctrines }
+                    flag:tenet_industrialist_syncretism = { is_in_list = selected_doctrines }
+                }
+            }
+        }
+
+        parameters = {
+            hostility_override_special_doctrine_is_capitalist_faith = 2
+            capitalist_syncretic_actor_opinion_active = yes
+            opinion_of_capitalist_syncretic_recipient_opinion_active = 30 #Sync this to syncretic_mutual_opinion_bonus_value
+        }
+
+        traits = {
+            virtues = { greedy }
+            sins = { lazy generous }
+        }
+    }
+	
 	tenet_united_in_labor = {
 		icon = core_tenet_followers
 		
