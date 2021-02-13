@@ -1,161 +1,5 @@
 character_c_tarrant = {
-	name = Diana
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_dallas = {
-	name = Dale
-	religion = "americanist"
-	culture = "texan"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_plano = {
-	name = Manson
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_killeen = {
-	name = Chandler
-	religion = "americanist"
-	culture = "texan"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tyler = {
-	name = Bennet
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_waxahachie = {
-	name = Asa
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mclennan = {
-	name = Wiley
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_stephenville = {
-	name = Celeste
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_brownwood = {
-	name = Clovis
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_harris = {
-	name = Bobby
-	religion = "americanist"
-	culture = "texan"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sabine = {
-	name = Toby
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_matagorda = {
-	name = Phil
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_brazos = {
-	name = Justice
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_brenham = {
-	name = Kip
+	name = Cassidy
 	religion = "catholic"
 	culture = "texan"
 	female = no
@@ -166,23 +10,59 @@ character_c_us_tx_brenham = {
 		death = yes
 	}
 }
-character_c_colorado = {
-	name = Libby
-	religion = "catholic"
+character_c_dallas = {
+	name = Charley
+	religion = "americanist"
 	culture = "texan"
 	female = yes
-	2621.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_travis = {
-	name = Micajah
+character_c_us_tx_plano = {
+	name = Marcus
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_killeen = {
+	name = Launcelot
 	religion = "americanist"
 	culture = "texan"
 	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tyler = {
+	name = Wayne
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_waxahachie = {
+	name = Shelby
+	religion = "catholic"
+	culture = "texan"
+	female = yes
 	2592.1.1 = {
 		birth = yes
 	}
@@ -190,8 +70,128 @@ character_c_travis = {
 		death = yes
 	}
 }
+character_c_mclennan = {
+	name = Hollis
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_stephenville = {
+	name = Slim
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_brownwood = {
+	name = Harlan
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_harris = {
+	name = Ridley
+	religion = "americanist"
+	culture = "texan"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sabine = {
+	name = Wheeler
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_matagorda = {
+	name = Bennet
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_brazos = {
+	name = Andy
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_brenham = {
+	name = Ross
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_colorado = {
+	name = Hope
+	religion = "catholic"
+	culture = "texan"
+	female = yes
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_travis = {
+	name = Ridley
+	religion = "americanist"
+	culture = "texan"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_comal = {
-	name = Johann
+	name = Justin
 	religion = "catholic"
 	culture = "texaner"
 	female = no
@@ -203,11 +203,11 @@ character_c_comal = {
 	}
 }
 character_c_concho = {
-	name = Farley
+	name = Laura
 	religion = "catholic"
 	culture = "texan"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,11 +215,11 @@ character_c_concho = {
 	}
 }
 character_c_us_tx_kyle = {
-	name = Freeman
+	name = Bridget
 	religion = "catholic"
 	culture = "texan"
-	female = no
-	2603.1.1 = {
+	female = yes
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_us_tx_kyle = {
 	}
 }
 character_c_kerr = {
-	name = Robert
+	name = Justin
 	religion = "catholic"
 	culture = "texaner"
 	female = no
-	2590.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_kerr = {
 	}
 }
 character_c_san_saba = {
-	name = Colton
+	name = Dustin
 	religion = "catholic"
 	culture = "texan"
 	female = no
-	2605.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,165 +251,9 @@ character_c_san_saba = {
 	}
 }
 character_c_livermore = {
-	name = Suzy
+	name = Edward
 	religion = "catholic"
 	culture = "texaner"
-	female = yes
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_shreveport = {
-	name = Slim
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_texarkana = {
-	name = Faye
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_grayson = {
-	name = Shelby
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_titus = {
-	name = Rusty
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_beaumont = {
-	name = Catherine
-	religion = "catholic"
-	culture = "cajun"
-	female = yes
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_san_jacinto = {
-	name = Alex
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_el_paso = {
-	name = Holly
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_nacogdoches = {
-	name = Ty
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_lumberton = {
-	name = Ross
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_duval = {
-	name = Hollis
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_jasper = {
-	name = Eldon
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ok_oklahoma_city = {
-	name = Trust
-	religion = "catholic"
-	culture = "okie"
-	female = yes
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ok_stillwater = {
-	name = Wagl_u_act_la
-	religion = "catholic"
-	culture = "lakota"
 	female = no
 	2628.1.1 = {
 		birth = yes
@@ -418,10 +262,82 @@ character_c_us_ok_stillwater = {
 		death = yes
 	}
 }
-character_c_us_ok_enid = {
-	name = Tom
+character_c_us_la_shreveport = {
+	name = Ty
 	religion = "catholic"
-	culture = "okie"
+	culture = "texan"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_texarkana = {
+	name = Rick
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_grayson = {
+	name = Bragorus
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_titus = {
+	name = Jesse
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_beaumont = {
+	name = Martin
+	religion = "catholic"
+	culture = "cajun"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_san_jacinto = {
+	name = Red
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_el_paso = {
+	name = Garett
+	religion = "catholic"
+	culture = "texan"
 	female = no
 	2639.1.1 = {
 		birth = yes
@@ -430,12 +346,96 @@ character_c_us_ok_enid = {
 		death = yes
 	}
 }
-character_c_us_ok_osage = {
-	name = I_act__eng_ya_eng__S_a_act_pa
+character_c_us_tx_nacogdoches = {
+	name = Marty
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_lumberton = {
+	name = Woody
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_duval = {
+	name = Weston
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_jasper = {
+	name = Becky
+	religion = "catholic"
+	culture = "texan"
+	female = yes
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ok_oklahoma_city = {
+	name = Dancel
+	religion = "catholic"
+	culture = "okie"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ok_stillwater = {
+	name = Tha_s_crn__u_act__eng_ke_Wan_a_act_htake
 	religion = "catholic"
 	culture = "lakota"
 	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ok_enid = {
+	name = Neil
+	religion = "catholic"
+	culture = "okie"
+	female = no
 	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ok_osage = {
+	name = Math_o_act__C_crn_huth_u_act_hu
+	religion = "catholic"
+	culture = "lakota"
+	female = no
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,7 +447,7 @@ character_c_us_nm_albuquerque = {
 	religion = "dustrider"
 	culture = "neomexicano"
 	female = no
-	2629.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_us_nm_albuquerque = {
 	}
 }
 character_c_us_nm_santa_fe = {
-	name = Clark
+	name = Elaine
 	religion = "atomicist"
 	culture = "neomexicano"
-	female = no
-	2617.1.1 = {
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_us_nm_santa_fe = {
 	}
 }
 character_c_us_nm_clovis = {
-	name = Holly
+	name = Allen
 	religion = "dustrider"
 	culture = "arixan"
-	female = yes
-	2607.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_us_nm_clovis = {
 	}
 }
 character_c_us_nm_taos = {
-	name = Kit
+	name = Mike
 	religion = "atomicist"
 	culture = "neomexicano"
 	female = no
-	2613.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_us_nm_taos = {
 	}
 }
 character_c_us_nm_edgewood = {
-	name = Kurt
+	name = Lincoln
 	religion = "dustrider"
 	culture = "neomexicano"
 	female = no
-	2605.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,9 +503,21 @@ character_c_us_nm_edgewood = {
 	}
 }
 character_c_us_nm_ruidoso = {
-	name = Garland
+	name = Etta
 	religion = "dustrider"
 	culture = "arixan"
+	female = yes
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nm_tucumcari = {
+	name = Patrick
+	religion = "dustrider"
+	culture = "neomexicano"
 	female = no
 	2650.1.1 = {
 		birth = yes
@@ -514,22 +526,82 @@ character_c_us_nm_ruidoso = {
 		death = yes
 	}
 }
-character_c_us_nm_tucumcari = {
-	name = Jim
+character_c_us_nm_logan = {
+	name = Ferris
 	religion = "dustrider"
 	culture = "neomexicano"
 	female = no
-	2655.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_nm_logan = {
-	name = Russell
+character_c_us_nm_tokay = {
+	name = Dowell
 	religion = "dustrider"
-	culture = "neomexicano"
+	culture = "arixan"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lubbock = {
+	name = Neil
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_petroplex = {
+	name = Dustin
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_dal_paso = {
+	name = Clementine
+	religion = "catholic"
+	culture = "texan"
+	female = yes
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_wichita_falls = {
+	name = Bright
+	religion = "catholic"
+	culture = "texan"
+	female = yes
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_abilene = {
+	name = Floyd
+	religion = "catholic"
+	culture = "texan"
 	female = no
 	2625.1.1 = {
 		birth = yes
@@ -538,84 +610,12 @@ character_c_us_nm_logan = {
 		death = yes
 	}
 }
-character_c_us_nm_tokay = {
-	name = Dayton
-	religion = "dustrider"
-	culture = "arixan"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lubbock = {
-	name = Johnny
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_petroplex = {
-	name = Cage
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_dal_paso = {
-	name = Carson
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_wichita_falls = {
-	name = Terrell
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_abilene = {
-	name = Mary
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_possum = {
-	name = Preston
+	name = Phil
 	religion = "catholic"
 	culture = "texan"
 	female = no
-	2594.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_possum = {
 	}
 }
 character_c_childress = {
-	name = Bragorus
+	name = Ladybird
 	religion = "catholic"
 	culture = "texan"
-	female = no
-	2616.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_childress = {
 	}
 }
 character_c_amarillo = {
-	name = Cyril
+	name = Daisy
 	religion = "catholic"
 	culture = "texan"
-	female = no
-	2596.1.1 = {
+	female = yes
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,9 +647,45 @@ character_c_amarillo = {
 	}
 }
 character_c_us_tx_dumas = {
-	name = Keith
+	name = Vance
 	religion = "catholic"
 	culture = "texan"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_plainview = {
+	name = Sarah
+	religion = "catholic"
+	culture = "texan"
+	female = yes
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hobbs = {
+	name = Bragorus
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nm_las_cruces = {
+	name = Pat
+	religion = "dustrider"
+	culture = "arixan"
 	female = no
 	2599.1.1 = {
 		birth = yes
@@ -658,48 +694,12 @@ character_c_us_tx_dumas = {
 		death = yes
 	}
 }
-character_c_plainview = {
-	name = Emmett
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hobbs = {
-	name = Jilly
-	religion = "catholic"
-	culture = "texan"
-	female = yes
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nm_las_cruces = {
-	name = Dave
-	religion = "dustrider"
-	culture = "arixan"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_nm_roswell = {
-	name = Beaty
+	name = Reuben
 	religion = "dustrider"
 	culture = "arixan"
 	female = no
-	2619.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_us_nm_roswell = {
 	}
 }
 character_c_us_nm_alamogordo = {
-	name = Aurelia
+	name = Lee
 	religion = "dustrider"
 	culture = "arixan"
-	female = yes
-	2617.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,11 +719,11 @@ character_c_us_nm_alamogordo = {
 	}
 }
 character_c_us_nm_carlsbad = {
-	name = Grusonia
+	name = Neal
 	religion = "dustrider"
 	culture = "arixan"
-	female = yes
-	2604.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,11 +731,11 @@ character_c_us_nm_carlsbad = {
 	}
 }
 character_c_us_ok_lawton = {
-	name = Parker
+	name = Isatai_pst_i
 	religion = "catholic"
 	culture = "comanche"
 	female = no
-	2622.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_us_ok_lawton = {
 	}
 }
 character_c_us_ok_washita = {
-	name = Merlin
+	name = Richard
 	religion = "catholic"
 	culture = "cheyenne"
 	female = no
-	2627.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -759,7 +759,7 @@ character_c_us_ok_altus = {
 	religion = "catholic"
 	culture = "comanche"
 	female = yes
-	2656.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_us_ok_altus = {
 	}
 }
 character_c_us_ok_woodward = {
-	name = Cole
+	name = Aloysius
 	religion = "catholic"
 	culture = "okie"
 	female = no
-	2603.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_us_ok_woodward = {
 	}
 }
 character_c_us_ok_guymon = {
-	name = Rita
+	name = Roy
 	religion = "catholic"
 	culture = "okie"
-	female = yes
-	2607.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,116 +791,8 @@ character_c_us_ok_guymon = {
 	}
 }
 character_c_bexar = {
-	name = Andr_e_act_s
+	name = Rolando
 	religion = "americanist"
-	culture = "tejano"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uvalde = {
-	name = Federico
-	religion = "catholic"
-	culture = "tejano"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_maverick = {
-	name = Ricardo
-	religion = "santa_muerte"
-	culture = "tejano"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_starr = {
-	name = Miguel
-	religion = "santa_muerte"
-	culture = "tejano"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cameron = {
-	name = Sarah
-	religion = "santa_muerte"
-	culture = "tejano"
-	female = yes
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_nueces = {
-	name = Arturo
-	religion = "americanist"
-	culture = "tejano"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_goliad = {
-	name = Cord
-	religion = "catholic"
-	culture = "texan"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_live_oak = {
-	name = Daniel
-	religion = "americanist"
-	culture = "tejano"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_webb = {
-	name = Vicente
-	religion = "guadalupan"
-	culture = "tejano"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_pecos = {
-	name = Diego
-	religion = "dustrider"
 	culture = "tejano"
 	female = no
 	2654.1.1 = {
@@ -910,12 +802,120 @@ character_c_us_tx_pecos = {
 		death = yes
 	}
 }
-character_c_big_bend = {
-	name = Selena
+character_c_uvalde = {
+	name = Chris
+	religion = "catholic"
+	culture = "tejano"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_maverick = {
+	name = Arnoldo
+	religion = "santa_muerte"
+	culture = "tejano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_starr = {
+	name = Roberto
+	religion = "santa_muerte"
+	culture = "tejano"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cameron = {
+	name = David
+	religion = "santa_muerte"
+	culture = "tejano"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_nueces = {
+	name = Carlos
+	religion = "americanist"
+	culture = "tejano"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_goliad = {
+	name = Earl
+	religion = "catholic"
+	culture = "texan"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_live_oak = {
+	name = Doroteo
+	religion = "americanist"
+	culture = "tejano"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_webb = {
+	name = Marcelo
+	religion = "guadalupan"
+	culture = "tejano"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_tx_pecos = {
+	name = Alfredo
 	religion = "dustrider"
 	culture = "tejano"
-	female = yes
-	2623.1.1 = {
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_big_bend = {
+	name = Rico
+	religion = "dustrider"
+	culture = "tejano"
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,11 +923,11 @@ character_c_big_bend = {
 	}
 }
 character_c_us_tx_fort_stockton = {
-	name = Ram_o_act_n
+	name = Tim
 	religion = "dustrider"
 	culture = "tejano"
 	female = no
-	2619.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -935,11 +935,11 @@ character_c_us_tx_fort_stockton = {
 	}
 }
 character_c_val_verde = {
-	name = Abraham
+	name = Vicente
 	religion = "catholic"
 	culture = "tejano"
 	female = no
-	2612.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

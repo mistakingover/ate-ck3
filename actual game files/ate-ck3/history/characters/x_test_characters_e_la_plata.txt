@@ -1,9 +1,9 @@
 character_c_ar_07_buenos_aires = {
-	name = Andr_e_act_s
+	name = Bruno
 	religion = "san_martinean"
 	culture = "porteno"
 	female = no
-	2621.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_ar_07_buenos_aires = {
 	}
 }
 character_c_ar_01_mor_n = {
-	name = Maurizio
+	name = Jos_e_act_
 	religion = "san_martinean"
 	culture = "porteno"
 	female = no
-	2629.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_ar_01_mor_n = {
 	}
 }
 character_c_ar_01_jos_c_paz = {
-	name = Adam
+	name = Jorge
 	religion = "san_martinean"
 	culture = "porteno"
 	female = no
-	2614.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,547 +35,7 @@ character_c_ar_01_jos_c_paz = {
 	}
 }
 character_c_ar_01_z_rate = {
-	name = Francisco
-	religion = "san_martinean"
-	culture = "litoraleno"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_la_plata = {
-	name = Andr_e_act_a
-	religion = "san_martinean"
-	culture = "porteno"
-	female = yes
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01__lvarez_jonte = {
-	name = Jorge_Mario
-	religion = "san_martinean"
-	culture = "porteno"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_mar_del_plata = {
-	name = Emmanuele
-	religion = "san_martinean"
-	culture = "porteno"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_gesell = {
-	name = Alisia
-	religion = "san_martinean"
-	culture = "porteno"
-	female = yes
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_bah_a_blanca = {
-	name = Costantino
-	religion = "gauchada"
-	culture = "porteno"
-	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_necochea = {
-	name = Ulisses
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_tres_arroyos = {
-	name = Paola
-	religion = "san_martinean"
-	culture = "porteno"
-	female = yes
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_coronel_dorrego = {
-	name = Dinis
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_cristiano_muerto = {
-	name = Edmundo
-	religion = "san_martinean"
-	culture = "porteno"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_olavarr_a = {
-	name = Teodora
-	religion = "gauchada"
-	culture = "pampeano"
-	female = yes
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_azul = {
-	name = Guillermo
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_coronel_su_rez = {
-	name = Marcos
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_el_parche = {
-	name = Ezio
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01__lamos = {
-	name = Fausto
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_nueve_de_julio = {
-	name = Simone
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_chivilcoy = {
-	name = Vittorio
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_lincoln = {
-	name = Ulisses
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_el_mangrullo = {
-	name = Benjam_i_act_nm
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_tandil = {
-	name = Dinis
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_mercedes = {
-	name = Ram_o_act_n
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_francisco_a_berra = {
-	name = Pablo
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_dolores = {
-	name = Dante
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_bonnement = {
-	name = Andr_e_act_a
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = yes
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_labard_n = {
-	name = Ricardo
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_10_montevideo = {
-	name = Math_i_act_as
-	religion = "bandean"
-	culture = "urbuguayo"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_04_del_sacramento = {
-	name = Juan_Luis
-	religion = "bandean"
-	culture = "urbuguayo"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_16_san_jos_de_mayo = {
-	name = Manuel
-	religion = "bandean"
-	culture = "urbuguayo"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_06_trinidad = {
-	name = Venancio
-	religion = "bandean"
-	culture = "urbuguayo"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_santana_do_livramento = {
-	name = Miguel
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_05_durazno = {
-	name = Sergio
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_03_melo = {
-	name = Iv_a_act_n
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_jaguar_o = {
-	name = Wifredo
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_19_treinta_y_tres = {
-	name = Carolina
-	religion = "bandean"
-	culture = "guacho"
-	female = yes
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_18_paso_de_los_toros = {
-	name = Wilson
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_18_curtina = {
-	name = Walter
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_15_salto = {
-	name = Juan_Antonio
-	religion = "peace_church"
-	culture = "urbuguayo"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_11_paysand_ = {
-	name = Viacheslav
-	religion = "byzantine_rite"
-	culture = "ruteno"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_17_mercedes = {
-	name = Gervasio
-	religion = "bandean"
-	culture = "urbuguayo"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_12_fray_bentos = {
-	name = Yevstafiy
-	religion = "byzantine_rite"
-	culture = "ruteno"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_09_maldonado = {
-	name = Ubaldo
-	religion = "pirrimano"
-	culture = "urbuguayo"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_14_rocha = {
-	name = Atanasio
-	religion = "bandean"
-	culture = "urbuguayo"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_08_paran_ = {
-	name = Mar_i_act_a
-	religion = "san_martinean"
-	culture = "litoraleno"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_08_concordia = {
-	name = Juan_Pablo
-	religion = "san_martinean"
-	culture = "litoraleno"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_08_gualeguaych_ = {
-	name = Iv_a_act_n
-	religion = "san_martinean"
-	culture = "litoraleno"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_08_concepci_n_del_uruguay = {
-	name = Francisco
+	name = Lucio
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
@@ -586,12 +46,552 @@ character_c_ar_08_concepci_n_del_uruguay = {
 		death = yes
 	}
 }
-character_c_ar_08_chajar_ = {
-	name = Luis_Alberto
+character_c_ar_01_la_plata = {
+	name = Patrizio
+	religion = "san_martinean"
+	culture = "porteno"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01__lvarez_jonte = {
+	name = Alisia
+	religion = "san_martinean"
+	culture = "porteno"
+	female = yes
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_mar_del_plata = {
+	name = Silvana
+	religion = "san_martinean"
+	culture = "porteno"
+	female = yes
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_gesell = {
+	name = Filipe
+	religion = "san_martinean"
+	culture = "porteno"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_bah_a_blanca = {
+	name = Veronica
+	religion = "gauchada"
+	culture = "porteno"
+	female = yes
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_necochea = {
+	name = Andr_e_act_s
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_tres_arroyos = {
+	name = Pedro
+	religion = "san_martinean"
+	culture = "porteno"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_coronel_dorrego = {
+	name = Primaldo
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_cristiano_muerto = {
+	name = Gisela
+	religion = "san_martinean"
+	culture = "porteno"
+	female = yes
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_olavarr_a = {
+	name = Dinis
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_azul = {
+	name = Hans
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_coronel_su_rez = {
+	name = Maurizio
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_el_parche = {
+	name = Miguel
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01__lamos = {
+	name = Julio
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_nueve_de_julio = {
+	name = Benedetto
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_chivilcoy = {
+	name = Germ_a_act_n
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_lincoln = {
+	name = Aurelio
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_el_mangrullo = {
+	name = Gabriela
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = yes
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_tandil = {
+	name = Marcelo
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_mercedes = {
+	name = Ernesto
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_francisco_a_berra = {
+	name = Claudio
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_dolores = {
+	name = Alisia
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_bonnement = {
+	name = Edmundo
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_labard_n = {
+	name = Carlo
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_10_montevideo = {
+	name = Zelmar
+	religion = "bandean"
+	culture = "urbuguayo"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_04_del_sacramento = {
+	name = Gonzalo
+	religion = "bandean"
+	culture = "urbuguayo"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_16_san_jos_de_mayo = {
+	name = Nelson
+	religion = "bandean"
+	culture = "urbuguayo"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_06_trinidad = {
+	name = Rosa
+	religion = "bandean"
+	culture = "urbuguayo"
+	female = yes
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_santana_do_livramento = {
+	name = V_i_act_ctor
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_05_durazno = {
+	name = Rosalba
+	religion = "bandean"
+	culture = "guacho"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_03_melo = {
+	name = Abel
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_jaguar_o = {
+	name = Emilio
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_19_treinta_y_tres = {
+	name = Pedro
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_18_paso_de_los_toros = {
+	name = Elvira
+	religion = "bandean"
+	culture = "guacho"
+	female = yes
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_18_curtina = {
+	name = Artigas
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_15_salto = {
+	name = Tamara
+	religion = "peace_church"
+	culture = "urbuguayo"
+	female = yes
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_11_paysand_ = {
+	name = Yaroslav
+	religion = "byzantine_rite"
+	culture = "ruteno"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_17_mercedes = {
+	name = Fernando
+	religion = "bandean"
+	culture = "urbuguayo"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_12_fray_bentos = {
+	name = Demid
+	religion = "byzantine_rite"
+	culture = "ruteno"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_09_maldonado = {
+	name = Pilar
+	religion = "pirrimano"
+	culture = "urbuguayo"
+	female = yes
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_14_rocha = {
+	name = Roberto
+	religion = "bandean"
+	culture = "urbuguayo"
+	female = no
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_08_paran_ = {
+	name = Pedro
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2598.1.1 = {
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_08_concordia = {
+	name = Iv_a_act_n
+	religion = "san_martinean"
+	culture = "litoraleno"
+	female = no
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_08_gualeguaych_ = {
+	name = Esmeralda
+	religion = "san_martinean"
+	culture = "litoraleno"
+	female = yes
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_08_concepci_n_del_uruguay = {
+	name = Iv_a_act_n
+	religion = "san_martinean"
+	culture = "litoraleno"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_08_chajar_ = {
+	name = Alberto
+	religion = "san_martinean"
+	culture = "litoraleno"
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_ar_08_chajar_ = {
 	}
 }
 character_c_ar_08_victoria = {
-	name = Adolfo
+	name = Hern_a_act_n
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2642.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_ar_08_victoria = {
 	}
 }
 character_c_ar_08_federal = {
-	name = Jon_a_act_s
+	name = Marcelo
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2602.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -627,7 +627,7 @@ character_c_ar_14_posadas = {
 	religion = "particularist"
 	culture = "mbya"
 	female = no
-	2617.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -639,7 +639,7 @@ character_c_ar_14_ober_ = {
 	religion = "particularist"
 	culture = "mbya"
 	female = yes
-	2646.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_ar_14_ober_ = {
 	}
 }
 character_c_ar_14_san_vicente = {
-	name = mbya_placeholder_fnames
+	name = mbya_placeholder_mnames
 	religion = "particularist"
 	culture = "mbya"
-	female = yes
-	2626.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -663,7 +663,7 @@ character_c_ar_14_puerto_esperanza = {
 	religion = "valente"
 	culture = "mbya"
 	female = no
-	2637.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_ar_14_puerto_esperanza = {
 	}
 }
 character_c_br_23_uruguaiana = {
-	name = Francisco
+	name = Griselda
 	religion = "particularist"
 	culture = "litoraleno"
-	female = no
-	2594.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,11 +683,11 @@ character_c_br_23_uruguaiana = {
 	}
 }
 character_c_ar_06_goya = {
-	name = Mar_i_act_a
+	name = Pablo
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2658.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -695,11 +695,11 @@ character_c_ar_06_goya = {
 	}
 }
 character_c_ar_06_san_lorenzo = {
-	name = Andr_e_act_s
+	name = Hern_a_act_n
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2609.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_ar_06_san_lorenzo = {
 	}
 }
 character_c_br_23_itaqui = {
-	name = Gervasio
+	name = Rosa
 	religion = "particularist"
 	culture = "litoraleno"
-	female = no
-	2643.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,11 +719,11 @@ character_c_br_23_itaqui = {
 	}
 }
 character_c_ar_06_gobernador_virasora = {
-	name = mbya_placeholder_fnames
+	name = mbya_placeholder_mnames
 	religion = "particularist"
 	culture = "mbya"
-	female = yes
-	2590.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,166 +731,10 @@ character_c_ar_06_gobernador_virasora = {
 	}
 }
 character_c_ar_06_san_luis_del_palmar = {
-	name = Marcelo
-	religion = "particularist"
-	culture = "litoraleno"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_06_mburucuy_ = {
-	name = Pilar
+	name = Ofelia
 	religion = "particularist"
 	culture = "litoraleno"
 	female = yes
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_santa_rosa = {
-	name = Bruno
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_guatrach_ = {
-	name = Nicol_a_act_s
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_general_acha = {
-	name = Fausto
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_victorica = {
-	name = Fausto
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_jacinto_arauz = {
-	name = Leonello
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_general_pico = {
-	name = Bruno
-	religion = "theosophist"
-	culture = "pampeano"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_huinca_renanc_ = {
-	name = Fernando
-	religion = "theosophist"
-	culture = "pampeano"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_general_villegas = {
-	name = Hugo
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_quem_quem_ = {
-	name = Rafael
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_berutti = {
-	name = Hannah
-	religion = "gauchada"
-	culture = "pampeano"
-	female = yes
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_11_la_adela = {
-	name = Adam
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_hilario_ascasubi = {
-	name = Fabio
-	religion = "gauchada"
-	culture = "pampeano"
-	female = no
 	2656.1.1 = {
 		birth = yes
 	}
@@ -898,12 +742,168 @@ character_c_ar_01_hilario_ascasubi = {
 		death = yes
 	}
 }
-character_c_ar_01_bah_a_san_blas = {
-	name = Am_e_act_lia
+character_c_ar_06_mburucuy_ = {
+	name = Anastasia
+	religion = "particularist"
+	culture = "litoraleno"
+	female = yes
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_santa_rosa = {
+	name = Leonello
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_guatrach_ = {
+	name = Ra_u_act_l
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_general_acha = {
+	name = Susana
 	religion = "gauchada"
 	culture = "pampeano"
 	female = yes
-	2622.1.1 = {
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_victorica = {
+	name = Simone
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_jacinto_arauz = {
+	name = Enio
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_general_pico = {
+	name = Juan
+	religion = "theosophist"
+	culture = "pampeano"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_huinca_renanc_ = {
+	name = Domenico
+	religion = "theosophist"
+	culture = "pampeano"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_general_villegas = {
+	name = Patrizio
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_quem_quem_ = {
+	name = Gregorio
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_berutti = {
+	name = Ana_Mar_i_act_a
+	religion = "gauchada"
+	culture = "pampeano"
+	female = yes
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_11_la_adela = {
+	name = Pedro
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_hilario_ascasubi = {
+	name = Lando
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_bah_a_san_blas = {
+	name = Mir_o_act_n
+	religion = "gauchada"
+	culture = "pampeano"
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

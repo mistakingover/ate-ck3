@@ -1,9 +1,9 @@
 character_c_co_34_bogot_ = {
-	name = Benjam_i_act_n
+	name = Yuyeimi
 	religion = "patria_grande"
 	culture = "cachaco"
-	female = no
-	2601.1.1 = {
+	female = yes
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_co_34_bogot_ = {
 	}
 }
 character_c_co_33_soacha = {
-	name = Rodrigo
+	name = Jos_e_act_
 	religion = "patria_grande"
 	culture = "cachaco"
 	female = no
-	2613.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,7 +23,115 @@ character_c_co_33_soacha = {
 	}
 }
 character_c_co_33_zipaquir_ = {
-	name = Javier
+	name = Guillermo
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = no
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_33_girardot_city = {
+	name = Breiner
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_33_fusagasug_ = {
+	name = Sarah
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = yes
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_33_guaduas = {
+	name = Gavy
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = yes
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_33_c_queza = {
+	name = Julieth
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = yes
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_26_bucaramanga = {
+	name = Nicol_a_act_s
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_26_barrancabermeja = {
+	name = Laureano
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_21_pamplona = {
+	name = Layneker
+	religion = "patria_grande"
+	culture = "gocho"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_26_cimitarra = {
+	name = Mar_i_act_a
+	religion = "patria_grande"
+	culture = "cachaco"
+	female = yes
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_36_sogamoso = {
+	name = A_act_lvaro
 	religion = "patria_grande"
 	culture = "cachaco"
 	female = no
@@ -34,120 +142,12 @@ character_c_co_33_zipaquir_ = {
 		death = yes
 	}
 }
-character_c_co_33_girardot_city = {
-	name = Leandro
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_33_fusagasug_ = {
-	name = Hernando
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_33_guaduas = {
-	name = Jos_e_act_
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_33_c_queza = {
-	name = Rodrigo
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_26_bucaramanga = {
-	name = Arturo
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_26_barrancabermeja = {
-	name = Cristi_a_act_n
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_21_pamplona = {
-	name = Alberto
-	religion = "patria_grande"
-	culture = "gocho"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_26_cimitarra = {
-	name = Ayron
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_36_sogamoso = {
-	name = Teresa
-	religion = "patria_grande"
-	culture = "cachaco"
-	female = yes
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_co_36_tunja = {
-	name = Dinnia
+	name = Hansel
 	religion = "patria_grande"
 	culture = "cachaco"
-	female = yes
-	2605.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_co_36_tunja = {
 	}
 }
 character_c_co_36_chiquinquir_ = {
-	name = Leidy
+	name = Benjam_i_act_n
 	religion = "patria_grande"
 	culture = "cachaco"
-	female = yes
-	2609.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_co_36_chiquinquir_ = {
 	}
 }
 character_c_co_26_san_gil = {
-	name = Hernando
+	name = Claudio
 	religion = "patria_grande"
 	culture = "cachaco"
 	female = no
-	2634.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_co_26_san_gil = {
 	}
 }
 character_c_co_36_garagoa = {
-	name = Rufino
+	name = O_act_scar
 	religion = "patria_grande"
 	culture = "cachaco"
 	female = no
-	2617.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,58 +191,10 @@ character_c_co_36_garagoa = {
 	}
 }
 character_c_co_04_barranquilla = {
-	name = John_Jairo
+	name = Fermina
 	religion = "patria_grande"
 	culture = "costeno"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_35_cartagena = {
-	name = Arturo
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_27_sincelejo = {
-	name = Omar
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_35_magangu_ = {
-	name = Gregorio
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_12_monter_a = {
-	name = Luis_Alberto
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
+	female = yes
 	2647.1.1 = {
 		birth = yes
 	}
@@ -250,8 +202,32 @@ character_c_co_12_monter_a = {
 		death = yes
 	}
 }
-character_c_co_02_apartad_ = {
-	name = Juan_David
+character_c_co_35_cartagena = {
+	name = Yessica
+	religion = "patria_grande"
+	culture = "costeno"
+	female = yes
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_27_sincelejo = {
+	name = Juan_Carlos
+	religion = "patria_grande"
+	culture = "costeno"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_35_magangu_ = {
+	name = Luis
 	religion = "patria_grande"
 	culture = "costeno"
 	female = no
@@ -262,71 +238,11 @@ character_c_co_02_apartad_ = {
 		death = yes
 	}
 }
-character_c_co_12_montel_bano = {
-	name = Asdr_u_act_bal
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_27_san_marcos = {
-	name = Francisco
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_38_santa_marta = {
-	name = Sof_i_act_a
+character_c_co_12_monter_a = {
+	name = Mar_i_act_a_Jos_e_act_
 	religion = "patria_grande"
 	culture = "costeno"
 	female = yes
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_38_el_banco = {
-	name = Fernando
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_38_fundaci_n = {
-	name = E_act_dgar
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_38_plato = {
-	name = Carlos
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
 	2592.1.1 = {
 		birth = yes
 	}
@@ -334,20 +250,56 @@ character_c_co_38_plato = {
 		death = yes
 	}
 }
-character_c_co_10_valledupar = {
-	name = Juan_Manuel
+character_c_co_02_apartad_ = {
+	name = Diomedes
 	religion = "patria_grande"
 	culture = "costeno"
 	female = no
-	2609.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_co_10_aguachica = {
-	name = Aquiles
+character_c_co_12_montel_bano = {
+	name = C_e_act_sar
+	religion = "patria_grande"
+	culture = "costeno"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_27_san_marcos = {
+	name = Fabio
+	religion = "patria_grande"
+	culture = "costeno"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_38_santa_marta = {
+	name = Julio
+	religion = "patria_grande"
+	culture = "costeno"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_38_el_banco = {
+	name = Aureliano
 	religion = "patria_grande"
 	culture = "costeno"
 	female = no
@@ -358,34 +310,10 @@ character_c_co_10_aguachica = {
 		death = yes
 	}
 }
-character_c_co_21_oca_a = {
-	name = Tulio
-	religion = "patria_grande"
-	culture = "gocho"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_10_curuman_ = {
-	name = Prudencio
+character_c_co_38_fundaci_n = {
+	name = Mauricio
 	religion = "patria_grande"
 	culture = "costeno"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_medell_n = {
-	name = Epifanio
-	religion = "patria_grande"
-	culture = "paisa"
 	female = no
 	2613.1.1 = {
 		birth = yes
@@ -394,226 +322,22 @@ character_c_co_02_medell_n = {
 		death = yes
 	}
 }
-character_c_co_02_itag_ = {
-	name = Gaston
+character_c_co_38_plato = {
+	name = Jorge
 	religion = "patria_grande"
-	culture = "paisa"
+	culture = "costeno"
 	female = no
-	2616.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_co_02_caldas = {
-	name = Nelson
+character_c_co_10_valledupar = {
+	name = Aquiles
 	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_caucasia = {
-	name = Pedro
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_segovia = {
-	name = N_e_act_stor
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_dabeiba = {
-	name = Francisco
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_barbosa = {
-	name = Pal_e_act_fato
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_24_pereira = {
-	name = Herodoto
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_37_manizales = {
-	name = Leonel
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_23_armenia = {
-	name = Jeison
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_28_l_bano = {
-	name = Yuli_a_act_n
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_37_la_dorada = {
-	name = Heliodoro
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_carmen_de_viboral = {
-	name = Argiro
-	religion = "patria_grande"
-	culture = "paisa"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_02_puerto_berr_o = {
-	name = Despena
-	religion = "patria_grande"
-	culture = "paisa"
-	female = yes
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_29_cali = {
-	name = Abel
-	religion = "patria_grande"
-	culture = "valluno"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_29_tulu_ = {
-	name = Gabriel
-	religion = "patria_grande"
-	culture = "valluno"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_29_palmira = {
-	name = A_act_lex
-	religion = "patria_grande"
-	culture = "valluno"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_09_popay_n = {
-	name = Jessica
-	religion = "patria_grande"
-	culture = "valluno"
-	female = yes
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_29_darien = {
-	name = Daniel
-	religion = "patria_grande"
-	culture = "valluno"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_29_buenaventura = {
-	name = C_e_act_sar
-	religion = "patria_grande"
-	culture = "chocoano"
+	culture = "costeno"
 	female = no
 	2643.1.1 = {
 		birth = yes
@@ -622,94 +346,58 @@ character_c_co_29_buenaventura = {
 		death = yes
 	}
 }
-character_c_co_20_tumaco = {
-	name = Gaspara
+character_c_co_10_aguachica = {
+	name = Clit_o_act_maco
 	religion = "patria_grande"
-	culture = "chocoano"
-	female = yes
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_09_guap_ = {
-	name = Leicy
-	religion = "patria_grande"
-	culture = "chocoano"
-	female = yes
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_co_11_quibd_ = {
-	name = A_act_ngel
-	religion = "patria_grande"
-	culture = "chocoano"
+	culture = "costeno"
 	female = no
-	2658.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_co_11_istmina = {
-	name = Alexis
+character_c_co_21_oca_a = {
+	name = Marcos
 	religion = "patria_grande"
-	culture = "chocoano"
+	culture = "gocho"
 	female = no
-	2596.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_co_11_riosucio = {
-	name = Juan
+character_c_co_10_curuman_ = {
+	name = Baltazar
 	religion = "patria_grande"
-	culture = "chocoano"
+	culture = "costeno"
 	female = no
-	2602.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_pa_08_panam_ = {
-	name = Melva
+character_c_co_02_medell_n = {
+	name = O_act_scar
 	religion = "patria_grande"
-	culture = "istmeno"
-	female = yes
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pa_04_col_n = {
-	name = Genaro
-	religion = "patria_grande"
-	culture = "istmeno"
+	culture = "paisa"
 	female = no
-	2634.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_pa_08_corregimiento_chepo = {
-	name = Leopoldo
+character_c_co_02_itag_ = {
+	name = S_o_act_crates
 	religion = "patria_grande"
-	culture = "istmeno"
+	culture = "paisa"
 	female = no
 	2591.1.1 = {
 		birth = yes
@@ -718,46 +406,262 @@ character_c_pa_08_corregimiento_chepo = {
 		death = yes
 	}
 }
-character_c_pa_09_nargana = {
-	name = Juan_Sebasti_a_act_n
+character_c_co_02_caldas = {
+	name = Agapito
 	religion = "patria_grande"
-	culture = "costeno"
+	culture = "paisa"
 	female = no
-	2629.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_pa_05_meteti = {
-	name = Wolfgang
-	religion = "patria_grande"
-	culture = "costeno"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pa_13_arraij_n = {
+character_c_co_02_caucasia = {
 	name = Belisario
 	religion = "patria_grande"
-	culture = "istmeno"
+	culture = "paisa"
 	female = no
-	2618.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_pa_06_corregimiento_monagrillo = {
-	name = Joaqu_i_act_n
+character_c_co_02_segovia = {
+	name = Sabino
 	religion = "patria_grande"
-	culture = "istmeno"
+	culture = "paisa"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_02_dabeiba = {
+	name = Jos_e_act_
+	religion = "patria_grande"
+	culture = "paisa"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_02_barbosa = {
+	name = Daniel
+	religion = "patria_grande"
+	culture = "paisa"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_24_pereira = {
+	name = Piedad
+	religion = "patria_grande"
+	culture = "paisa"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_37_manizales = {
+	name = Sabino
+	religion = "patria_grande"
+	culture = "paisa"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_23_armenia = {
+	name = Plutarco
+	religion = "patria_grande"
+	culture = "paisa"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_28_l_bano = {
+	name = Albira
+	religion = "patria_grande"
+	culture = "paisa"
+	female = yes
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_37_la_dorada = {
+	name = Montrel
+	religion = "patria_grande"
+	culture = "paisa"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_02_carmen_de_viboral = {
+	name = Rosa
+	religion = "patria_grande"
+	culture = "paisa"
+	female = yes
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_02_puerto_berr_o = {
+	name = S_o_act_crates
+	religion = "patria_grande"
+	culture = "paisa"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_29_cali = {
+	name = Kevin
+	religion = "patria_grande"
+	culture = "valluno"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_29_tulu_ = {
+	name = Nayerly
+	religion = "patria_grande"
+	culture = "valluno"
+	female = yes
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_29_palmira = {
+	name = Cristian
+	religion = "patria_grande"
+	culture = "valluno"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_09_popay_n = {
+	name = Rodrigo
+	religion = "patria_grande"
+	culture = "valluno"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_29_darien = {
+	name = Luis
+	religion = "patria_grande"
+	culture = "valluno"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_29_buenaventura = {
+	name = Marco
+	religion = "patria_grande"
+	culture = "chocoano"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_20_tumaco = {
+	name = Carlomagno
+	religion = "patria_grande"
+	culture = "chocoano"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_09_guap_ = {
+	name = Luciana
+	religion = "patria_grande"
+	culture = "chocoano"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_11_quibd_ = {
+	name = Aquivaldo
+	religion = "patria_grande"
+	culture = "chocoano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_co_11_istmina = {
+	name = Sebasti_a_act_n
+	religion = "patria_grande"
+	culture = "chocoano"
 	female = no
 	2615.1.1 = {
 		birth = yes
@@ -766,11 +670,11 @@ character_c_pa_06_corregimiento_monagrillo = {
 		death = yes
 	}
 }
-character_c_pa_03_corregimiento_penonom_ = {
-	name = Enriqueta
+character_c_co_11_riosucio = {
+	name = Edixon
 	religion = "patria_grande"
-	culture = "istmeno"
-	female = yes
+	culture = "chocoano"
+	female = no
 	2610.1.1 = {
 		birth = yes
 	}
@@ -778,12 +682,108 @@ character_c_pa_03_corregimiento_penonom_ = {
 		death = yes
 	}
 }
-character_c_pa_10_santiago_de_veraguas = {
-	name = Davis
+character_c_pa_08_panam_ = {
+	name = Jordan
 	religion = "patria_grande"
 	culture = "istmeno"
 	female = no
-	2590.1.1 = {
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_04_col_n = {
+	name = Oziel
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_08_corregimiento_chepo = {
+	name = Ariel
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_09_nargana = {
+	name = Omar
+	religion = "patria_grande"
+	culture = "costeno"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_05_meteti = {
+	name = Mauren
+	religion = "patria_grande"
+	culture = "costeno"
+	female = yes
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_13_arraij_n = {
+	name = Azmahar
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_06_corregimiento_monagrillo = {
+	name = Ildefonso
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_03_corregimiento_penonom_ = {
+	name = Marlon
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pa_10_santiago_de_veraguas = {
+	name = Petita
+	religion = "patria_grande"
+	culture = "istmeno"
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,11 +791,11 @@ character_c_pa_10_santiago_de_veraguas = {
 	}
 }
 character_c_pa_02_corregimiento_david = {
-	name = Arsenio
+	name = Balbina
 	religion = "patria_grande"
 	culture = "istmeno"
-	female = no
-	2595.1.1 = {
+	female = yes
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -803,11 +803,11 @@ character_c_pa_02_corregimiento_david = {
 	}
 }
 character_c_pa_01_corregimiento_de_changuinola = {
-	name = Amarelis
+	name = R_o_act_mulo
 	religion = "patria_grande"
 	culture = "istmeno"
-	female = yes
-	2592.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -815,11 +815,11 @@ character_c_pa_01_corregimiento_de_changuinola = {
 	}
 }
 character_c_pa_12_corregimiento_chichica = {
-	name = Gustavo
+	name = Rolando
 	religion = "patria_grande"
 	culture = "istmeno"
 	female = no
-	2626.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -827,11 +827,11 @@ character_c_pa_12_corregimiento_chichica = {
 	}
 }
 character_c_pa_10_corregimiento_gobernadora = {
-	name = Giselle
+	name = Brian
 	religion = "patria_grande"
 	culture = "istmeno"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,11 +839,11 @@ character_c_pa_10_corregimiento_gobernadora = {
 	}
 }
 character_c_co_28_ibagu_ = {
-	name = Libardo
+	name = Misael
 	religion = "patria_grande"
 	culture = "opitas"
 	female = no
-	2633.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -851,11 +851,11 @@ character_c_co_28_ibagu_ = {
 	}
 }
 character_c_co_16_neiva = {
-	name = Gustavo
+	name = Fabio
 	religion = "patria_grande"
 	culture = "opitas"
 	female = no
-	2652.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -863,11 +863,11 @@ character_c_co_16_neiva = {
 	}
 }
 character_c_co_28_espinal = {
-	name = Juan_Carlos
+	name = Miguel_Dar_i_act_o
 	religion = "patria_grande"
 	culture = "opitas"
 	female = no
-	2657.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -879,7 +879,7 @@ character_c_co_16_pitalito = {
 	religion = "patria_grande"
 	culture = "opitas"
 	female = no
-	2641.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -887,11 +887,11 @@ character_c_co_16_pitalito = {
 	}
 }
 character_c_co_20_pasto = {
-	name = L_e_act_ider
+	name = Humberto
 	religion = "tridentinism"
 	culture = "pastuso"
 	female = no
-	2597.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -899,11 +899,11 @@ character_c_co_20_pasto = {
 	}
 }
 character_c_co_20_ipiales = {
-	name = E_act_dison
+	name = Camilo
 	religion = "tridentinism"
 	culture = "pastuso"
 	female = no
-	2630.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -911,11 +911,11 @@ character_c_co_20_ipiales = {
 	}
 }
 character_c_co_22_puerto_as_s = {
-	name = Johana
+	name = Marina
 	religion = "inkarri_religion"
 	culture = "pastuso"
 	female = yes
-	2611.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,11 +923,11 @@ character_c_co_22_puerto_as_s = {
 	}
 }
 character_c_co_22_mocoa = {
-	name = Luis
+	name = Jos_e_act__Rafael
 	religion = "inkarri_religion"
 	culture = "pastuso"
 	female = no
-	2599.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -935,11 +935,11 @@ character_c_co_22_mocoa = {
 	}
 }
 character_c_co_08_florencia = {
-	name = Orlando
+	name = Rodrigo
 	religion = "madre_patria"
 	culture = "opitas"
 	female = no
-	2608.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -947,11 +947,11 @@ character_c_co_08_florencia = {
 	}
 }
 character_c_co_08_curillo = {
-	name = Luc_i_act_a
+	name = Ramiro
 	religion = "madre_patria"
 	culture = "pastuso"
-	female = yes
-	2658.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -959,11 +959,11 @@ character_c_co_08_curillo = {
 	}
 }
 character_c_co_08_puerto_rico = {
-	name = Miguel_A_act_ngel
+	name = Francisco
 	religion = "madre_patria"
 	culture = "opitas"
 	female = no
-	2660.1.1 = {
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,9 +1,9 @@
 character_c_calgary = {
-	name = Gary
+	name = Rebecca
 	religion = "eversky"
 	culture = "prairielander"
-	female = no
-	2604.1.1 = {
+	female = yes
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_calgary = {
 	}
 }
 character_c_lethbridge = {
-	name = Doug
+	name = Cyril
 	religion = "mormon"
 	culture = "prairielander"
 	female = no
-	2590.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_lethbridge = {
 	}
 }
 character_c_medicine_hat = {
-	name = Virnetta
+	name = Samson
 	religion = "eversky"
 	culture = "prairielander"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -39,7 +39,7 @@ character_c_ca_ab_brooks = {
 	religion = "eversky"
 	culture = "blackfoot"
 	female = no
-	2634.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_ca_ab_brooks = {
 	}
 }
 character_c_foothills = {
-	name = Marshall
+	name = Jens
 	religion = "mormon"
 	culture = "prairielander"
 	female = no
-	2596.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -62,8 +62,8 @@ character_c_cardston = {
 	name = Test
 	religion = "mormon"
 	culture = "blackfoot"
-	female = no
-	2629.1.1 = {
+	female = yes
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_cardston = {
 	}
 }
 character_c_hoodoo = {
-	name = Mark
+	name = Orren
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2590.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_hoodoo = {
 	}
 }
 character_c_taber = {
-	name = Herbert
+	name = Mark
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2593.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,11 +95,11 @@ character_c_taber = {
 	}
 }
 character_c_edmonton = {
-	name = Filip
+	name = John
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2608.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -107,11 +107,11 @@ character_c_edmonton = {
 	}
 }
 character_c_camrose = {
-	name = Ray
+	name = Sam
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2608.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_camrose = {
 	}
 }
 character_c_minburn = {
-	name = Elizabeth
+	name = Brett
 	religion = "eversky"
 	culture = "preiryansky"
-	female = yes
-	2623.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -135,7 +135,7 @@ character_c_athabasca = {
 	religion = "eversky"
 	culture = "plains_cree"
 	female = no
-	2657.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,11 +143,11 @@ character_c_athabasca = {
 	}
 }
 character_c_red_deer = {
-	name = Jens
+	name = Eldon
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2609.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_red_deer = {
 	}
 }
 character_c_wainwright = {
-	name = Filip
+	name = Linda
 	religion = "eversky"
 	culture = "prairielander"
-	female = no
-	2649.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_wainwright = {
 	}
 }
 character_c_stettler = {
-	name = Crowfoot
+	name = Hank
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2617.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_stettler = {
 	}
 }
 character_c_hanna = {
-	name = Willard
+	name = Trevor
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2648.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_hanna = {
 	}
 }
 character_c_oyen = {
-	name = Jay
+	name = Walt
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2642.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_oyen = {
 	}
 }
 character_c_ca_ab_hinton = {
-	name = Brian
+	name = Larissa
 	religion = "eversky"
 	culture = "prairielander"
-	female = no
-	2645.1.1 = {
+	female = yes
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,11 +215,11 @@ character_c_ca_ab_hinton = {
 	}
 }
 character_c_ca_ab_whitecourt = {
-	name = Ken
+	name = Halvar
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2656.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_ca_ab_whitecourt = {
 	}
 }
 character_c_leduc = {
-	name = Dudley
+	name = Lyle
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2642.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_leduc = {
 	}
 }
 character_c_ca_ab_rocky_mountain_house = {
-	name = Leo
+	name = Eldon
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2647.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_ca_ab_rocky_mountain_house = {
 	}
 }
 character_c_ca_ab_grande_cache = {
-	name = Bryan
+	name = Elwin
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = no
-	2617.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_ca_ab_grande_cache = {
 	}
 }
 character_c_ca_ab_fox_creek = {
-	name = Judith
+	name = Matt
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	female = yes
-	2643.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,7 +279,7 @@ character_c_us_mn_saint_cloud = {
 	religion = "viking"
 	culture = "uplander"
 	female = no
-	2602.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_us_mn_saint_cloud = {
 	}
 }
 character_c_us_mn_mankato = {
-	name = Greg
+	name = Harry
 	religion = "real_road"
 	culture = "heartlander"
 	female = no
-	2654.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_us_mn_mankato = {
 	}
 }
 character_c_us_mn_redwood = {
-	name = Clark
+	name = Lowell
 	religion = "real_road"
 	culture = "heartlander"
 	female = no
-	2640.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -315,7 +315,7 @@ character_c_us_mn_brainerd = {
 	religion = "viking"
 	culture = "northlander"
 	female = no
-	2619.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -327,7 +327,7 @@ character_c_us_mn_willmar = {
 	religion = "viking"
 	culture = "uplander"
 	female = no
-	2649.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -339,7 +339,7 @@ character_c_us_mn_alexandria = {
 	religion = "viking"
 	culture = "northlander"
 	female = no
-	2657.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -351,90 +351,6 @@ character_c_us_mn_fergus_falls = {
 	religion = "viking"
 	culture = "northlander"
 	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nd_fargo = {
-	name = S_crn__u_act__eng_ka_I_act__eng_ya_eng_ke
-	religion = "viking"
-	culture = "lakota"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sd_aberdeen = {
-	name = Tha_s_crn__i_act_na_M_a_act_ni
-	religion = "peyotist"
-	culture = "lakota"
-	female = yes
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sd_brookings = {
-	name = Orville
-	religion = "real_road"
-	culture = "heartlander"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sd_watertown = {
-	name = Daisy
-	religion = "real_road"
-	culture = "heartlander"
-	female = yes
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nd_wahpeton = {
-	name = Thath_a_act__eng_ka_Wath_a_act_kpe
-	religion = "peyotist"
-	culture = "lakota"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sd_sioux_falls = {
-	name = Dick
-	religion = "catholic"
-	culture = "heartlander"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sd_mitchell = {
-	name = Tha_o_act_pi__C_crn__i_act_k_pst_ala
-	religion = "catholic"
-	culture = "lakota"
-	female = no
 	2620.1.1 = {
 		birth = yes
 	}
@@ -442,12 +358,96 @@ character_c_us_sd_mitchell = {
 		death = yes
 	}
 }
-character_c_us_sd_pierre = {
-	name = Tha_s_crn__u_act__eng_ke_Naps_i_act_ca
+character_c_us_nd_fargo = {
+	name = Mahp_i_act_ya_Bor_a_act__eng_wi_eng_
+	religion = "viking"
+	culture = "lakota"
+	female = yes
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_sd_aberdeen = {
+	name = Thath_a_act__eng_ka_S_a_act_pa
 	religion = "peyotist"
 	culture = "lakota"
 	female = no
-	2610.1.1 = {
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_sd_brookings = {
+	name = Herschel
+	religion = "real_road"
+	culture = "heartlander"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_sd_watertown = {
+	name = Delbert
+	religion = "real_road"
+	culture = "heartlander"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nd_wahpeton = {
+	name = Ith_u_act__eng_kasa_eng__Wa_s_crn_t_e_act_la
+	religion = "peyotist"
+	culture = "lakota"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_sd_sioux_falls = {
+	name = Gayle
+	religion = "catholic"
+	culture = "heartlander"
+	female = yes
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_sd_mitchell = {
+	name = Tha_s_crn__i_act_na_M_a_act_ni
+	religion = "catholic"
+	culture = "lakota"
+	female = yes
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_sd_pierre = {
+	name = Heh_a_act_ka_S_a_act_pa
+	religion = "peyotist"
+	culture = "lakota"
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_us_sd_pierre = {
 	}
 }
 character_c_us_sd_gettysburg = {
-	name = Tha_s_crn__i_act_na_Hlahl_a_act__Wi_eng_
+	name = Wak_i_act__eng_ya_eng__C_crn__i_act_k_pst_ala
 	religion = "peyotist"
 	culture = "lakota"
-	female = yes
-	2611.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -470,8 +470,8 @@ character_c_us_nd_grand_forks = {
 	name = Test
 	religion = "peyotist"
 	culture = "northlander"
-	female = no
-	2624.1.1 = {
+	female = yes
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -482,8 +482,8 @@ character_c_us_mn_moorhead = {
 	name = Test
 	religion = "viking"
 	culture = "northlander"
-	female = yes
-	2608.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -495,7 +495,7 @@ character_c_us_mn_bemidji = {
 	religion = "viking"
 	culture = "northlander"
 	female = yes
-	2591.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -506,8 +506,8 @@ character_c_us_mn_thief_river_falls = {
 	name = Test
 	religion = "viking"
 	culture = "northlander"
-	female = no
-	2604.1.1 = {
+	female = yes
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_us_mn_thief_river_falls = {
 	}
 }
 character_c_us_mn_red_lake = {
-	name = Pegius
+	name = Joseph
 	religion = "midewiwin"
 	culture = "oji-cree"
 	female = no
-	2610.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_us_mn_red_lake = {
 	}
 }
 character_c_us_mn_baudette = {
-	name = Kinistin
+	name = Kayakatopicicikec
 	religion = "midewiwin"
 	culture = "oji-cree"
-	female = no
-	2604.1.1 = {
+	female = yes
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_us_mn_baudette = {
 	}
 }
 character_c_us_sd_rapid_city = {
-	name = Libbie
+	name = Patrick
 	religion = "peyotist"
 	culture = "mountainer"
-	female = yes
-	2618.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_us_sd_rapid_city = {
 	}
 }
 character_c_us_sd_pine_ridge = {
-	name = C_crn_ha_eng_k_u_act__Wa_s_crn_t_e_act__Wi_eng_
+	name = Wa_eng_bl_i_act__Ki_eng_y_a_act__eng_
 	religion = "peyotist"
 	culture = "lakota"
-	female = yes
-	2638.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_us_sd_pine_ridge = {
 	}
 }
 character_c_us_wy_newcastle = {
-	name = Adularia
+	name = Orville
 	religion = "real_road"
 	culture = "mountainer"
-	female = yes
-	2596.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -575,11 +575,11 @@ character_c_us_wy_newcastle = {
 	}
 }
 character_c_us_sd_newell = {
-	name = John
+	name = Fayola
 	religion = "real_road"
 	culture = "mountainer"
-	female = no
-	2660.1.1 = {
+	female = yes
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_us_sd_newell = {
 	}
 }
 character_c_us_nd_minot = {
-	name = Wa_eng_bd_i_act__Th_a_act__eng_ka
+	name = Thu_eng_k_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_
 	religion = "peyotist"
 	culture = "dakota"
-	female = no
-	2600.1.1 = {
+	female = yes
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -603,7 +603,7 @@ character_c_us_nd_jamestown = {
 	religion = "viking"
 	culture = "northlander"
 	female = no
-	2607.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_us_nd_jamestown = {
 	}
 }
 character_c_us_nd_devils_lake = {
-	name = Tha_s_crn__u_act__eng_ke_Gle_s_crn_k_a_act_
+	name = Tha_s_crn__u_act__eng_ke_L_u_act_ta
 	religion = "peyotist"
 	culture = "lakota"
 	female = no
-	2607.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_us_nd_devils_lake = {
 	}
 }
 character_c_us_nd_rugby = {
-	name = Monkaushka
+	name = Anpetu_Tokeka
 	religion = "peyotist"
 	culture = "dakota"
 	female = no
-	2616.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -639,7 +639,7 @@ character_c_us_nd_valley_city = {
 	religion = "viking"
 	culture = "northlander"
 	female = no
-	2591.1.1 = {
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_us_nd_valley_city = {
 	}
 }
 character_c_us_nd_velva = {
-	name = Wa_eng_bd_i_act__Ok_i_act__c_crn_hize
+	name = Tha_o_act_yate_D_u_act_ta
 	religion = "peyotist"
 	culture = "dakota"
 	female = no
-	2609.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -662,8 +662,8 @@ character_c_us_nd_bismarck = {
 	name = Test
 	religion = "viking"
 	culture = "northlander"
-	female = yes
-	2618.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_us_nd_bismarck = {
 	}
 }
 character_c_us_nd_mandan = {
-	name = Silveranos
+	name = Waugh
 	religion = "peyotist"
 	culture = "mountainer"
 	female = no
-	2620.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,11 +683,11 @@ character_c_us_nd_mandan = {
 	}
 }
 character_c_us_nd_stanley = {
-	name = Thu_eng_k_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_
+	name = Zitk_a_act_la_S_crn__a_act_
 	religion = "peyotist"
 	culture = "dakota"
 	female = yes
-	2638.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -695,11 +695,11 @@ character_c_us_nd_stanley = {
 	}
 }
 character_c_us_nd_williston = {
-	name = W_i_act_gmu_eng_ke_Wa_s_crn_t_e_act__Wi_eng_
+	name = Heh_a_act_ka_Gle_s_crn_k_a_act_
 	religion = "peyotist"
 	culture = "lakota"
-	female = yes
-	2624.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_us_nd_williston = {
 	}
 }
 character_c_us_nd_dickinson = {
-	name = Thomas
+	name = Zirkel
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2592.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,11 +719,11 @@ character_c_us_nd_dickinson = {
 	}
 }
 character_c_us_nd_bowman = {
-	name = Roseanne
+	name = Frank
 	religion = "real_road"
 	culture = "mountainer"
-	female = yes
-	2606.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,11 +731,11 @@ character_c_us_nd_bowman = {
 	}
 }
 character_c_us_nd_williston = {
-	name = Bul_u_act_xaatcheelilish
+	name = Itch_u_act_ua_Ch_i_act_ash
 	religion = "peyotist"
 	culture = "crow"
-	female = yes
-	2642.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_us_nd_williston = {
 	}
 }
 character_c_us_sd_winner = {
-	name = Wagm_e_act_za
+	name = Pheh_i_act__eng__Z_i_act_
 	religion = "peyotist"
 	culture = "lakota"
 	female = no
-	2650.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_us_sd_winner = {
 	}
 }
 character_c_us_sd_fort_pierre = {
-	name = Thath_a_act__eng_ka_Pt_e_act__c_crn_ela
+	name = Heh_a_act_ka_Gle_s_crn_k_a_act_
 	religion = "peyotist"
 	culture = "lakota"
 	female = no
-	2639.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_us_sd_fort_pierre = {
 	}
 }
 character_c_us_sd_mobridge = {
-	name = Khok_i_act_phapiwi_eng_
+	name = Tha_o_act_pi__C_crn__i_act_k_pst_ala
 	religion = "peyotist"
 	culture = "lakota"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -782,8 +782,8 @@ character_c_us_nd_linton = {
 	name = Test
 	religion = "viking"
 	culture = "northlander"
-	female = yes
-	2622.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,11 +791,11 @@ character_c_us_nd_linton = {
 	}
 }
 character_c_winnipeg = {
-	name = Chantell
+	name = John-Bruce
 	religion = "exovedate"
 	culture = "metis"
-	female = yes
-	2590.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -803,11 +803,11 @@ character_c_winnipeg = {
 	}
 }
 character_c_rhineland = {
-	name = Werner
+	name = Gary
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = no
-	2620.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -815,11 +815,11 @@ character_c_rhineland = {
 	}
 }
 character_c_steinbach = {
-	name = Rudolf
+	name = Wanda
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	female = no
-	2636.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -827,11 +827,11 @@ character_c_steinbach = {
 	}
 }
 character_c_beausejour = {
-	name = Pauline
+	name = Clyde
 	religion = "exovedate"
 	culture = "metis"
-	female = yes
-	2643.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,177 +839,9 @@ character_c_beausejour = {
 	}
 }
 character_c_lake_of_the_woods = {
-	name = Thelma
+	name = Bronson
 	religion = "exovedate"
 	culture = "metis"
-	female = yes
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_brandon = {
-	name = Wakan-mani-win
-	religion = "peyotist"
-	culture = "dakota"
-	female = yes
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_portage_la_prairie = {
-	name = Demyan
-	religion = "eversky"
-	culture = "preiryansky"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_dauphin = {
-	name = Demyan
-	religion = "eversky"
-	culture = "preiryansky"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_turtle_mountain = {
-	name = Wa_eng_bd_i_act__Ok_i_act__c_crn_hize
-	religion = "peyotist"
-	culture = "dakota"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_riding_mountain = {
-	name = Wayne
-	religion = "eversky"
-	culture = "preiryansky"
-	female = no
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_swan_valley = {
-	name = Mykola
-	religion = "eversky"
-	culture = "preiryansky"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_kenora = {
-	name = Pesequan
-	religion = "midewiwin"
-	culture = "oji-cree"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lac_seul = {
-	name = Wabanakwut
-	religion = "midewiwin"
-	culture = "oji-cree"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_red_lake = {
-	name = Keeseekoowenin
-	religion = "midewiwin"
-	culture = "oji-cree"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_osnaburgh = {
-	name = Kakakwesic
-	religion = "midewiwin"
-	culture = "oji-cree"
-	female = yes
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_little_iceland = {
-	name = George
-	religion = "eversky"
-	culture = "prairielander"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_winnipegosis = {
-	name = Ryan
-	religion = "exovedate"
-	culture = "metis"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_poplar_river = {
-	name = Okanase
-	religion = "midewiwin"
-	culture = "oji-cree"
-	female = no
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_saskatoon = {
-	name = Anders
-	religion = "eversky"
-	culture = "prairielander"
 	female = no
 	2641.1.1 = {
 		birth = yes
@@ -1018,12 +850,180 @@ character_c_saskatoon = {
 		death = yes
 	}
 }
-character_c_kindersley = {
-	name = Gary
+character_c_brandon = {
+	name = Topah-hde-win
+	religion = "peyotist"
+	culture = "dakota"
+	female = yes
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_portage_la_prairie = {
+	name = Osyp
+	religion = "eversky"
+	culture = "preiryansky"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_dauphin = {
+	name = Roman
+	religion = "eversky"
+	culture = "preiryansky"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_turtle_mountain = {
+	name = Mahpiya_Wica_s_crn_ta
+	religion = "peyotist"
+	culture = "dakota"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_riding_mountain = {
+	name = Robert
+	religion = "eversky"
+	culture = "preiryansky"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_swan_valley = {
+	name = Jaroslaw
+	religion = "eversky"
+	culture = "preiryansky"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kenora = {
+	name = Kinistin
+	religion = "midewiwin"
+	culture = "oji-cree"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lac_seul = {
+	name = Kayakatopicicikec
+	religion = "midewiwin"
+	culture = "oji-cree"
+	female = yes
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_red_lake = {
+	name = Pegius
+	religion = "midewiwin"
+	culture = "oji-cree"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_osnaburgh = {
+	name = Daphne
+	religion = "midewiwin"
+	culture = "oji-cree"
+	female = yes
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_little_iceland = {
+	name = Jens
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2605.1.1 = {
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_winnipegosis = {
+	name = Darcy
+	religion = "exovedate"
+	culture = "metis"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_poplar_river = {
+	name = Pegius
+	religion = "midewiwin"
+	culture = "oji-cree"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_saskatoon = {
+	name = Blaine
+	religion = "eversky"
+	culture = "prairielander"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kindersley = {
+	name = Jens
+	religion = "eversky"
+	culture = "prairielander"
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1031,11 +1031,11 @@ character_c_kindersley = {
 	}
 }
 character_c_battle_river = {
-	name = Ingrid
+	name = Deb
 	religion = "peyotist"
 	culture = "prairielander"
 	female = yes
-	2614.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1047,7 +1047,7 @@ character_c_unity = {
 	religion = "peyotist"
 	culture = "plains_cree"
 	female = no
-	2631.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1055,11 +1055,11 @@ character_c_unity = {
 	}
 }
 character_c_st_andrews = {
-	name = Walt
+	name = Rita
 	religion = "eversky"
 	culture = "prairielander"
-	female = no
-	2630.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1067,11 +1067,11 @@ character_c_st_andrews = {
 	}
 }
 character_c_wascana = {
-	name = Olaf
+	name = Rebecca
 	religion = "eversky"
 	culture = "prairielander"
-	female = no
-	2622.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1079,11 +1079,11 @@ character_c_wascana = {
 	}
 }
 character_c_estevan = {
-	name = Peelatchid_a_act_shkush
+	name = Iich_i_act_ilish
 	religion = "peyotist"
 	culture = "crow"
 	female = no
-	2650.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1091,11 +1091,11 @@ character_c_estevan = {
 	}
 }
 character_c_weyburn = {
-	name = Ich_e_act__Ship_i_act_tish
+	name = Itch_u_act_ua_Ch_i_act_ash
 	religion = "peyotist"
 	culture = "crow"
 	female = no
-	2592.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1103,11 +1103,11 @@ character_c_weyburn = {
 	}
 }
 character_c_arm_river = {
-	name = Jerome
+	name = Claudia
 	religion = "eversky"
 	culture = "prairielander"
-	female = no
-	2613.1.1 = {
+	female = yes
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1115,11 +1115,11 @@ character_c_arm_river = {
 	}
 }
 character_c_moose_jaw = {
-	name = Corrine
+	name = Rhoda
 	religion = "peyotist"
 	culture = "prairielander"
 	female = yes
-	2611.1.1 = {
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1131,7 +1131,7 @@ character_c_swift_current = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2638.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1139,11 +1139,11 @@ character_c_swift_current = {
 	}
 }
 character_c_wood_river = {
-	name = Kaw_i_act_itash
+	name = P_a_act_atchish
 	religion = "peyotist"
 	culture = "crow"
 	female = no
-	2630.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1155,7 +1155,7 @@ character_c_maple_creek = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2604.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1167,7 +1167,7 @@ character_c_shaunavon = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2628.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1175,11 +1175,11 @@ character_c_shaunavon = {
 	}
 }
 character_c_prince_albert = {
-	name = Bohdan
+	name = Iwan
 	religion = "exovedate"
 	culture = "preiryansky"
 	female = no
-	2600.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1191,7 +1191,7 @@ character_c_la_ronge = {
 	religion = "exovedate"
 	culture = "woodland_cree"
 	female = no
-	2650.1.1 = {
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1203,7 +1203,7 @@ character_c_meadow_lake = {
 	religion = "exovedate"
 	culture = "plains_cree"
 	female = no
-	2619.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1215,7 +1215,7 @@ character_c_methye = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = yes
-	2608.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1226,8 +1226,8 @@ character_c_narrow_hills = {
 	name = Test
 	religion = "exovedate"
 	culture = "plains_cree"
-	female = no
-	2620.1.1 = {
+	female = yes
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1238,8 +1238,8 @@ character_c_lloydminster = {
 	name = Test
 	religion = "peyotist"
 	culture = "plains_cree"
-	female = yes
-	2658.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1247,11 +1247,11 @@ character_c_lloydminster = {
 	}
 }
 character_c_north_battleford = {
-	name = Gabriel
+	name = Signa
 	religion = "exovedate"
 	culture = "metis"
-	female = no
-	2596.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1259,11 +1259,11 @@ character_c_north_battleford = {
 	}
 }
 character_c_rosthern = {
-	name = Dudley
+	name = Sean
 	religion = "eversky"
 	culture = "prairielander"
 	female = no
-	2606.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1275,7 +1275,7 @@ character_c_st_walburg = {
 	religion = "exovedate"
 	culture = "plains_cree"
 	female = yes
-	2628.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1287,7 +1287,7 @@ character_c_orkney = {
 	religion = "eversky"
 	culture = "preiryansky"
 	female = yes
-	2618.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1295,11 +1295,11 @@ character_c_orkney = {
 	}
 }
 character_c_virden = {
-	name = C_crn_het_a_act__eng__Wakh_u_act_wa_M_a_act_ni
+	name = Hakadah
 	religion = "peyotist"
 	culture = "dakota"
 	female = no
-	2648.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1307,11 +1307,11 @@ character_c_virden = {
 	}
 }
 character_c_carlyle = {
-	name = W_o_act_winaphe
+	name = Waziyatawin
 	religion = "peyotist"
 	culture = "dakota"
-	female = no
-	2636.1.1 = {
+	female = yes
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1319,11 +1319,11 @@ character_c_carlyle = {
 	}
 }
 character_c_melfort = {
-	name = Ihor
+	name = Lorne
 	religion = "eversky"
 	culture = "preiryansky"
 	female = no
-	2619.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1331,19 +1331,7 @@ character_c_melfort = {
 	}
 }
 character_c_humboldt = {
-	name = Ivan
-	religion = "eversky"
-	culture = "preiryansky"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_doghide = {
-	name = Frank
+	name = Serhiy
 	religion = "eversky"
 	culture = "preiryansky"
 	female = no
@@ -1354,12 +1342,24 @@ character_c_doghide = {
 		death = yes
 	}
 }
-character_c_canora = {
-	name = Slavka
+character_c_doghide = {
+	name = John
 	religion = "eversky"
 	culture = "preiryansky"
-	female = yes
-	2613.1.1 = {
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_canora = {
+	name = Vadim
+	religion = "eversky"
+	culture = "preiryansky"
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1367,11 +1367,11 @@ character_c_canora = {
 	}
 }
 character_c_qu_appelle = {
-	name = Tymofei
+	name = Douglas
 	religion = "eversky"
 	culture = "preiryansky"
 	female = no
-	2612.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1379,21 +1379,9 @@ character_c_qu_appelle = {
 	}
 }
 character_c_etamomi = {
-	name = Kazymyr
+	name = Boris
 	religion = "eversky"
 	culture = "preiryansky"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_mt_billings = {
-	name = Iich_i_act_ildak_u_act_xshish
-	religion = "peyotist"
-	culture = "crow"
 	female = no
 	2600.1.1 = {
 		birth = yes
@@ -1402,12 +1390,24 @@ character_c_us_mt_billings = {
 		death = yes
 	}
 }
+character_c_us_mt_billings = {
+	name = Ch_i_act_ilapchiash
+	religion = "peyotist"
+	culture = "crow"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_mt_livingston = {
-	name = Petrus
+	name = Mineran
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2616.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1418,8 +1418,8 @@ character_c_us_mt_lewistown = {
 	name = Test
 	religion = "real_road"
 	culture = "blackfoot"
-	female = no
-	2613.1.1 = {
+	female = yes
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1427,11 +1427,11 @@ character_c_us_mt_lewistown = {
 	}
 }
 character_c_us_mt_harlowton = {
-	name = Josiah
+	name = Steven
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2590.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1439,11 +1439,11 @@ character_c_us_mt_harlowton = {
 	}
 }
 character_c_us_mt_bozeman = {
-	name = Amanda
+	name = Steven
 	religion = "real_road"
 	culture = "mountainer"
-	female = yes
-	2623.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1455,7 +1455,7 @@ character_c_us_mt_great_falls = {
 	religion = "real_road"
 	culture = "blackfoot"
 	female = no
-	2594.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1467,7 +1467,7 @@ character_c_us_mt_shelby = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2616.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1475,11 +1475,11 @@ character_c_us_mt_shelby = {
 	}
 }
 character_c_us_wy_gillette = {
-	name = Montanos
+	name = Gray
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2605.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1487,11 +1487,11 @@ character_c_us_wy_gillette = {
 	}
 }
 character_c_us_wy_sheridan = {
-	name = Oso
+	name = Scott
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2651.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1499,11 +1499,11 @@ character_c_us_wy_sheridan = {
 	}
 }
 character_c_us_mt_miles_city = {
-	name = Honanisto
+	name = Harvey
 	religion = "peyotist"
 	culture = "cheyenne"
 	female = no
-	2596.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1511,11 +1511,11 @@ character_c_us_mt_miles_city = {
 	}
 }
 character_c_us_mt_colstrip = {
-	name = B_i_act_nnaachish_i_act_ilish
+	name = Il_a_act_hchissash
 	religion = "peyotist"
 	culture = "crow"
 	female = no
-	2613.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1523,11 +1523,11 @@ character_c_us_mt_colstrip = {
 	}
 }
 character_c_us_mt_glendive = {
-	name = Walter
+	name = Merlin
 	religion = "peyotist"
 	culture = "cheyenne"
 	female = no
-	2595.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1535,11 +1535,11 @@ character_c_us_mt_glendive = {
 	}
 }
 character_c_us_mt_glendive = {
-	name = Margaret
+	name = Monahsetah
 	religion = "peyotist"
 	culture = "cheyenne"
 	female = yes
-	2607.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1551,7 +1551,7 @@ character_c_us_mt_glasgow = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2606.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1559,11 +1559,11 @@ character_c_us_mt_glasgow = {
 	}
 }
 character_c_us_mt_plentywood = {
-	name = B_i_act_nnaachichi_a_act_sh
+	name = Peelatchiwaaxp_a_act_ash
 	religion = "peyotist"
 	culture = "crow"
-	female = yes
-	2595.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1574,8 +1574,8 @@ character_c_us_mt_wolf_point = {
 	name = Test
 	religion = "peyotist"
 	culture = "blackfoot"
-	female = no
-	2602.1.1 = {
+	female = yes
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1583,11 +1583,11 @@ character_c_us_mt_wolf_point = {
 	}
 }
 character_c_us_mt_jordan = {
-	name = Henry
+	name = John
 	religion = "peyotist"
 	culture = "cheyenne"
 	female = no
-	2619.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1599,7 +1599,7 @@ character_c_us_mt_havre = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2638.1.1 = {
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1611,7 +1611,7 @@ character_c_us_mt_malta = {
 	religion = "peyotist"
 	culture = "blackfoot"
 	female = no
-	2595.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,91 +1,7 @@
 character_c_us_ca_los_angeles = {
-	name = Chad
+	name = Edward
 	religion = "cetic"
 	culture = "angeleno"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_orange = {
-	name = Yusuf
-	religion = "imamite"
-	culture = "anjalusi"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_avalon = {
-	name = Frank
-	religion = "brethren"
-	culture = "angeleno"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_riverside = {
-	name = Burton
-	religion = "cetic"
-	culture = "angeleno"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_santa_clarita = {
-	name = Oliver
-	religion = "cetic"
-	culture = "angeleno"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_indio = {
-	name = Rafael
-	religion = "cetic"
-	culture = "angeleno"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_twentynine_palms = {
-	name = Fatima
-	religion = "imamite"
-	culture = "anjalusi"
-	female = yes
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_san_diego = {
-	name = Sebasti_a_act_n
-	religion = "cetic"
-	culture = "californiano"
 	female = no
 	2617.1.1 = {
 		birth = yes
@@ -94,58 +10,46 @@ character_c_us_ca_san_diego = {
 		death = yes
 	}
 }
-character_c_us_ca_oceanside = {
-	name = Khalisa
-	religion = "cetic"
+character_c_us_ca_orange = {
+	name = A_isha
+	religion = "imamite"
 	culture = "anjalusi"
 	female = yes
-	2657.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_el_centro = {
-	name = Di_e_act_sel
-	religion = "cetic"
-	culture = "californiano"
+character_c_us_ca_avalon = {
+	name = Julian
+	religion = "brethren"
+	culture = "angeleno"
 	female = no
-	2634.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_blythe = {
-	name = Julieta
+character_c_us_ca_riverside = {
+	name = Dora
 	religion = "cetic"
-	culture = "californiano"
+	culture = "angeleno"
 	female = yes
-	2660.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_nv_las_vegas = {
-	name = Elvis
-	religion = "atomicist"
-	culture = "battleborn"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_needles = {
-	name = Craig
-	religion = "imamite"
-	culture = "battleborn"
+character_c_us_ca_santa_clarita = {
+	name = Stewart
+	religion = "cetic"
+	culture = "angeleno"
 	female = no
 	2603.1.1 = {
 		birth = yes
@@ -154,12 +58,108 @@ character_c_us_ca_needles = {
 		death = yes
 	}
 }
-character_c_us_ca_oxnard = {
-	name = Russel
+character_c_us_ca_indio = {
+	name = Ted
 	religion = "cetic"
 	culture = "angeleno"
 	female = no
-	2611.1.1 = {
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_twentynine_palms = {
+	name = Zakir
+	religion = "imamite"
+	culture = "anjalusi"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_san_diego = {
+	name = Claudia
+	religion = "cetic"
+	culture = "californiano"
+	female = yes
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_oceanside = {
+	name = Farah
+	religion = "cetic"
+	culture = "anjalusi"
+	female = yes
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_el_centro = {
+	name = Jos_e_act__Alberto
+	religion = "cetic"
+	culture = "californiano"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_blythe = {
+	name = Brand_o_act_n
+	religion = "cetic"
+	culture = "californiano"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nv_las_vegas = {
+	name = Blake
+	religion = "atomicist"
+	culture = "battleborn"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_needles = {
+	name = Argyll
+	religion = "imamite"
+	culture = "battleborn"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_oxnard = {
+	name = Jacob
+	religion = "cetic"
+	culture = "angeleno"
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_us_ca_oxnard = {
 	}
 }
 character_c_us_ca_santa_maria = {
-	name = Gregory
+	name = Sonny
 	religion = "cetic"
 	culture = "angeleno"
 	female = no
-	2648.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_us_ca_santa_maria = {
 	}
 }
 character_c_us_ca_san_jose = {
-	name = Ross
+	name = Vera
 	religion = "cetic"
 	culture = "bayfolk"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_us_ca_san_jose = {
 	}
 }
 character_c_us_ca_oakland = {
-	name = Gary
+	name = Kirk
 	religion = "cetic"
 	culture = "bayfolk"
 	female = no
-	2648.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_us_ca_oakland = {
 	}
 }
 character_c_us_ca_antioch = {
-	name = Timothy
+	name = Kathy
 	religion = "cetic"
 	culture = "bayfolk"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,7 +215,67 @@ character_c_us_ca_antioch = {
 	}
 }
 character_c_us_ca_san_francisco = {
-	name = Stanley
+	name = Laird
+	religion = "cetic"
+	culture = "bayfolk"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_redwood_city = {
+	name = Genevieve
+	religion = "cetic"
+	culture = "bayfolk"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_san_rafael = {
+	name = Ruby
+	religion = "cetic"
+	culture = "bayfolk"
+	female = yes
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_vallejo = {
+	name = Daniel
+	religion = "cetic"
+	culture = "bayfolk"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_santa_rosa = {
+	name = Barbara
+	religion = "cetic"
+	culture = "bayfolk"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_napa = {
+	name = Hank
 	religion = "cetic"
 	culture = "bayfolk"
 	female = no
@@ -226,11 +286,11 @@ character_c_us_ca_san_francisco = {
 		death = yes
 	}
 }
-character_c_us_ca_redwood_city = {
-	name = Ari
+character_c_us_ca_clearlake = {
+	name = Genevieve
 	religion = "cetic"
 	culture = "bayfolk"
-	female = no
+	female = yes
 	2660.1.1 = {
 		birth = yes
 	}
@@ -238,58 +298,22 @@ character_c_us_ca_redwood_city = {
 		death = yes
 	}
 }
-character_c_us_ca_san_rafael = {
-	name = Alex
+character_c_us_ca_salinas = {
+	name = Donald
 	religion = "cetic"
 	culture = "bayfolk"
 	female = no
-	2602.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_vallejo = {
-	name = John
+character_c_us_ca_san_luis_obispo = {
+	name = Sonny
 	religion = "cetic"
-	culture = "bayfolk"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_santa_rosa = {
-	name = Lathrop
-	religion = "cetic"
-	culture = "bayfolk"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_napa = {
-	name = Naveen
-	religion = "cetic"
-	culture = "bayfolk"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_clearlake = {
-	name = Yang
-	religion = "cetic"
-	culture = "bayfolk"
+	culture = "angeleno"
 	female = no
 	2599.1.1 = {
 		birth = yes
@@ -298,10 +322,82 @@ character_c_us_ca_clearlake = {
 		death = yes
 	}
 }
-character_c_us_ca_salinas = {
-	name = Mandy
+character_c_us_ca_hollister = {
+	name = Brian
 	religion = "cetic"
-	culture = "bayfolk"
+	culture = "valleyan"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_bakersfield = {
+	name = Gabriel
+	religion = "cetic"
+	culture = "angeleno"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_visalia = {
+	name = Caldwell
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_hanford = {
+	name = Yeng
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_orange_cove = {
+	name = Galen
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_stockton = {
+	name = Isaac
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_modesto = {
+	name = Nicole
+	religion = "cetic"
+	culture = "valleyan"
 	female = yes
 	2599.1.1 = {
 		birth = yes
@@ -310,10 +406,58 @@ character_c_us_ca_salinas = {
 		death = yes
 	}
 }
-character_c_us_ca_san_luis_obispo = {
-	name = Juan
+character_c_us_ca_ione = {
+	name = Greene
 	religion = "cetic"
-	culture = "angeleno"
+	culture = "valleyan"
+	female = yes
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_diamond_springs = {
+	name = Eames
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_sonora = {
+	name = Ashley
+	religion = "cetic"
+	culture = "valleyan"
+	female = yes
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_cool = {
+	name = Percival
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_fresno = {
+	name = Ian
+	religion = "cetic"
+	culture = "valleyan"
 	female = no
 	2619.1.1 = {
 		birth = yes
@@ -322,44 +466,8 @@ character_c_us_ca_san_luis_obispo = {
 		death = yes
 	}
 }
-character_c_us_ca_hollister = {
-	name = Jeffrey
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_bakersfield = {
-	name = Salim
-	religion = "cetic"
-	culture = "angeleno"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_visalia = {
-	name = Natalie
-	religion = "cetic"
-	culture = "valleyan"
-	female = yes
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_hanford = {
-	name = Anthony
+character_c_us_ca_merced = {
+	name = Roger
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
@@ -370,92 +478,68 @@ character_c_us_ca_hanford = {
 		death = yes
 	}
 }
-character_c_us_ca_orange_cove = {
-	name = Norton
+character_c_us_ca_madera = {
+	name = Kent
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
-	2658.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_stockton = {
-	name = Percival
+character_c_us_ca_los_banos = {
+	name = Cory
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
-	2621.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_modesto = {
-	name = Scott
+character_c_us_ca_patterson = {
+	name = Hood
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
-	2651.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_ione = {
-	name = Pheng
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_diamond_springs = {
+character_c_us_ca_mendota = {
 	name = Jessica
 	religion = "cetic"
 	culture = "valleyan"
 	female = yes
-	2630.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_sonora = {
-	name = Hank
+character_c_us_ca_mariposa = {
+	name = Keith
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
-	2640.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_cool = {
-	name = Roxanne
-	religion = "cetic"
-	culture = "valleyan"
-	female = yes
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_fresno = {
-	name = Raymon
+character_c_us_ca_yuba_city = {
+	name = Vincent
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
@@ -466,68 +550,56 @@ character_c_us_ca_fresno = {
 		death = yes
 	}
 }
-character_c_us_ca_merced = {
-	name = Victor
+character_c_us_ca_davis = {
+	name = Laurel
 	religion = "cetic"
-	culture = "valleyan"
+	culture = "bayfolk"
 	female = no
-	2596.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_madera = {
-	name = Morris
+character_c_us_ca_chico = {
+	name = Shirley
 	religion = "cetic"
 	culture = "valleyan"
-	female = no
-	2610.1.1 = {
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_los_banos = {
-	name = Noriyuki
+character_c_us_ca_oroville = {
+	name = Daren
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
-	2628.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_patterson = {
-	name = Hetch
+character_c_us_ca_colusa = {
+	name = Wallace
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
-	2651.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_ca_mendota = {
-	name = Edmond
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_mariposa = {
-	name = Joaquin
+character_c_us_ca_orland = {
+	name = Matthias
 	religion = "cetic"
 	culture = "valleyan"
 	female = no
@@ -538,84 +610,12 @@ character_c_us_ca_mariposa = {
 		death = yes
 	}
 }
-character_c_us_ca_yuba_city = {
-	name = Quinn
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_davis = {
-	name = Abrams
-	religion = "cetic"
-	culture = "bayfolk"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_chico = {
-	name = Chad
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_oroville = {
-	name = Terry
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_colusa = {
-	name = Elton
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_orland = {
-	name = Lyman
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_tijuana = {
-	name = Kevin
+	name = Tom_a_act_s
 	religion = "cetic"
 	culture = "californiano"
 	female = no
-	2597.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,19 +623,7 @@ character_c_tijuana = {
 	}
 }
 character_c_ensenada = {
-	name = Kyle
-	religion = "cetic"
-	culture = "californiano"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_san_quintin = {
-	name = Ponce
+	name = Nicol_a_act_s
 	religion = "cetic"
 	culture = "californiano"
 	female = no
@@ -646,32 +634,20 @@ character_c_san_quintin = {
 		death = yes
 	}
 }
-character_c_san_pedro_martir = {
-	name = Freddy
+character_c_san_quintin = {
+	name = Daniel
 	religion = "cetic"
 	culture = "californiano"
 	female = no
-	2655.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_los_cirios = {
-	name = Irena
-	religion = "cetic"
-	culture = "californiano"
-	female = yes
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mexicali = {
-	name = Pac_i_act_fico
+character_c_san_pedro_martir = {
+	name = Antonio
 	religion = "cetic"
 	culture = "californiano"
 	female = no
@@ -682,8 +658,68 @@ character_c_mexicali = {
 		death = yes
 	}
 }
+character_c_los_cirios = {
+	name = Hugo
+	religion = "cetic"
+	culture = "californiano"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mexicali = {
+	name = Gav_i_act_n
+	religion = "cetic"
+	culture = "californiano"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_la_paz = {
-	name = Pedro
+	name = Yuan
+	religion = "el_santo"
+	culture = "californiano"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_los_cabos = {
+	name = Mar_i_act_a
+	religion = "el_santo"
+	culture = "californiano"
+	female = yes
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_comondu = {
+	name = Juan_Tom_a_act_s
+	religion = "el_santo"
+	culture = "californiano"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_el_vizcaino = {
+	name = Benjam_i_act_n
 	religion = "el_santo"
 	culture = "californiano"
 	female = no
@@ -694,10 +730,22 @@ character_c_la_paz = {
 		death = yes
 	}
 }
-character_c_los_cabos = {
-	name = Diego_Garc_i_act_a
+character_c_mulege = {
+	name = Jonathan
 	religion = "el_santo"
 	culture = "californiano"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_sacramento = {
+	name = Joseph
+	religion = "cetic"
+	culture = "valleyan"
 	female = no
 	2602.1.1 = {
 		birth = yes
@@ -706,58 +754,58 @@ character_c_los_cabos = {
 		death = yes
 	}
 }
-character_c_comondu = {
-	name = Tl_a_act_loc
-	religion = "el_santo"
-	culture = "californiano"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_el_vizcaino = {
-	name = Y_n_tld_igo
-	religion = "el_santo"
-	culture = "californiano"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mulege = {
-	name = Mario
-	religion = "el_santo"
-	culture = "californiano"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_sacramento = {
-	name = Travis
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_ca_roseville = {
-	name = Kia
+	name = William
 	religion = "cetic"
 	culture = "valleyan"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_medford = {
+	name = Silsby
+	religion = "gaian"
+	culture = "siskiyouan"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_roseburg = {
+	name = Jedediah
+	religion = "gaian"
+	culture = "siskiyouan"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_grants_pass = {
+	name = Rainier
+	religion = "gaian"
+	culture = "siskiyouan"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_or_coos_bay = {
+	name = Alice
+	religion = "gaian"
+	culture = "siskiyouan"
 	female = yes
 	2636.1.1 = {
 		birth = yes
@@ -766,58 +814,82 @@ character_c_us_ca_roseville = {
 		death = yes
 	}
 }
-character_c_us_or_medford = {
-	name = Lawrence
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_roseburg = {
-	name = Edward
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_grants_pass = {
-	name = Ukiah
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_coos_bay = {
-	name = Obediah
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_ca_crescent_city = {
-	name = Hood
+	name = Nathaniel
 	religion = "gaian"
 	culture = "siskiyouan"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_redding = {
+	name = Hideo
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_red_bluff = {
+	name = Julius
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_yreka = {
+	name = Opal
+	religion = "cetic"
+	culture = "siskiyouan"
+	female = yes
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_weaverville = {
+	name = Lee
+	religion = "cetic"
+	culture = "valleyan"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_eureka = {
+	name = Ladd
+	religion = "cetic"
+	culture = "siskiyouan"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_ukiah = {
+	name = Kirk
+	religion = "cetic"
+	culture = "bayfolk"
 	female = no
 	2657.1.1 = {
 		birth = yes
@@ -826,10 +898,10 @@ character_c_us_ca_crescent_city = {
 		death = yes
 	}
 }
-character_c_us_ca_redding = {
-	name = Murphy
+character_c_us_ca_fortuna = {
+	name = Clay
 	religion = "cetic"
-	culture = "valleyan"
+	culture = "bayfolk"
 	female = no
 	2648.1.1 = {
 		birth = yes
@@ -838,84 +910,12 @@ character_c_us_ca_redding = {
 		death = yes
 	}
 }
-character_c_us_ca_red_bluff = {
-	name = Daren
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_yreka = {
-	name = Lowell
-	religion = "cetic"
-	culture = "siskiyouan"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_weaverville = {
-	name = Dale
-	religion = "cetic"
-	culture = "valleyan"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_eureka = {
-	name = James
-	religion = "cetic"
-	culture = "siskiyouan"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_ukiah = {
-	name = Ashley
-	religion = "cetic"
-	culture = "bayfolk"
-	female = yes
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_fortuna = {
-	name = Norton
-	religion = "cetic"
-	culture = "bayfolk"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_ca_covelo = {
-	name = David
+	name = Naveen
 	religion = "cetic"
 	culture = "bayfolk"
 	female = no
-	2608.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,11 +923,11 @@ character_c_us_ca_covelo = {
 	}
 }
 character_c_us_ca_truckee = {
-	name = Stephanie
+	name = Henry
 	religion = "cetic"
 	culture = "battleborn"
-	female = yes
-	2629.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -935,11 +935,11 @@ character_c_us_ca_truckee = {
 	}
 }
 character_c_us_ca_susanville = {
-	name = Henry
+	name = Fred
 	religion = "cetic"
 	culture = "battleborn"
 	female = no
-	2614.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -947,11 +947,11 @@ character_c_us_ca_susanville = {
 	}
 }
 character_c_us_ca_alturas = {
-	name = Wash
+	name = Eric
 	religion = "cetic"
 	culture = "siskiyouan"
 	female = no
-	2630.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -959,11 +959,11 @@ character_c_us_ca_alturas = {
 	}
 }
 character_c_us_or_altamont = {
-	name = Molalla
+	name = Pierson
 	religion = "gaian"
 	culture = "siskiyouan"
-	female = yes
-	2635.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -975,66 +975,6 @@ character_c_us_or_lakeview = {
 	religion = "gaian"
 	culture = "paiute"
 	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_or_chiloquin = {
-	name = Glenn
-	religion = "gaian"
-	culture = "siskiyouan"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nv_reno = {
-	name = Buddy
-	religion = "cetic"
-	culture = "battleborn"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nv_fernley = {
-	name = Jessup
-	religion = "cetic"
-	culture = "battleborn"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ca_ridgecrest = {
-	name = Neil
-	religion = "cetic"
-	culture = "battleborn"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nv_pahrump = {
-	name = Gloria
-	religion = "dustrider"
-	culture = "battleborn"
-	female = yes
 	2656.1.1 = {
 		birth = yes
 	}
@@ -1042,67 +982,19 @@ character_c_us_nv_pahrump = {
 		death = yes
 	}
 }
-character_c_us_ca_mammoth_lakes = {
-	name = Veronica
-	religion = "cetic"
-	culture = "battleborn"
+character_c_us_or_chiloquin = {
+	name = Mese
+	religion = "gaian"
+	culture = "siskiyouan"
 	female = yes
-	2630.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_nv_elko = {
-	name = Test
-	religion = "mormon"
-	culture = "paiute"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nv_winnemucca = {
-	name = Test
-	religion = "cetic"
-	culture = "paiute"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_id_homedale = {
-	name = Test
-	religion = "cetic"
-	culture = "paiute"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nv_spring_creek = {
-	name = Test
-	religion = "mormon"
-	culture = "paiute"
-	female = no
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_nv_fallon = {
+character_c_us_nv_reno = {
 	name = Hadrian
 	religion = "cetic"
 	culture = "battleborn"
@@ -1114,12 +1006,120 @@ character_c_us_nv_fallon = {
 		death = yes
 	}
 }
+character_c_us_nv_fernley = {
+	name = Farris
+	religion = "cetic"
+	culture = "battleborn"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_ridgecrest = {
+	name = Jessup
+	religion = "cetic"
+	culture = "battleborn"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nv_pahrump = {
+	name = Eddie
+	religion = "dustrider"
+	culture = "battleborn"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ca_mammoth_lakes = {
+	name = Chauncey
+	religion = "cetic"
+	culture = "battleborn"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nv_elko = {
+	name = Test
+	religion = "mormon"
+	culture = "paiute"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nv_winnemucca = {
+	name = Test
+	religion = "cetic"
+	culture = "paiute"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_id_homedale = {
+	name = Test
+	religion = "cetic"
+	culture = "paiute"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nv_spring_creek = {
+	name = Test
+	religion = "mormon"
+	culture = "paiute"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_nv_fallon = {
+	name = Max
+	religion = "cetic"
+	culture = "battleborn"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_nv_ely = {
 	name = Test
 	religion = "mormon"
 	culture = "paiute"
 	female = no
-	2590.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1127,11 +1127,11 @@ character_c_us_nv_ely = {
 	}
 }
 character_c_us_nv_caliente = {
-	name = Clifford
+	name = Howard
 	religion = "dustrider"
 	culture = "battleborn"
 	female = no
-	2635.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1139,11 +1139,11 @@ character_c_us_nv_caliente = {
 	}
 }
 character_c_us_nv_crescent_valley = {
-	name = Dale
+	name = Frank
 	religion = "cetic"
 	culture = "battleborn"
 	female = no
-	2645.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

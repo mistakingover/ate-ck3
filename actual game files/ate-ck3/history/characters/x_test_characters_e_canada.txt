@@ -1,9 +1,9 @@
 character_c_toronto = {
-	name = Deborah
+	name = Evan
 	religion = "united_church"
 	culture = "sixer"
-	female = yes
-	2649.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_toronto = {
 	}
 }
 character_c_peel = {
-	name = Nathan
+	name = Ibrahim
 	religion = "sikhism"
 	culture = "sixer"
 	female = no
-	2600.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_peel = {
 	}
 }
 character_c_york = {
-	name = Churchill
+	name = Travis
 	religion = "united_church"
 	culture = "sixer"
 	female = no
-	2623.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_york = {
 	}
 }
 character_c_oshawa = {
-	name = Stephanie
+	name = Tracey
 	religion = "galvanist"
 	culture = "sixer"
 	female = yes
-	2631.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_oshawa = {
 	}
 }
 character_c_hamilton = {
-	name = Marshall
+	name = Arvind
 	religion = "galvanist"
 	culture = "sixer"
 	female = no
-	2605.1.1 = {
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_hamilton = {
 	}
 }
 character_c_wellington = {
-	name = Sandford
+	name = Aidan
 	religion = "united_church"
 	culture = "sixer"
 	female = no
-	2609.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_wellington = {
 	}
 }
 character_c_niagara = {
-	name = Neil
+	name = Zulfiqar
 	religion = "united_church"
 	culture = "sixer"
 	female = no
-	2612.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_niagara = {
 	}
 }
 character_c_brant = {
-	name = Stanley
+	name = Onwanonsyshon
 	religion = "united_church"
 	culture = "iroquois"
 	female = no
-	2630.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,115 +95,7 @@ character_c_brant = {
 	}
 }
 character_c_ottawa = {
-	name = Thornton
-	religion = "anglican"
-	culture = "ontarian"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_prescott_russell = {
-	name = Th_e_act_r_e_grv_se
-	religion = "ursuline"
-	culture = "ontarien"
-	female = yes
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lanark = {
-	name = Bernice
-	religion = "anglican"
-	culture = "ontarian"
-	female = yes
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_middlesex = {
-	name = Weluela
-	religion = "united_church"
-	culture = "ontarian"
-	female = yes
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_essex = {
-	name = Foster
-	religion = "galvanist"
-	culture = "ontarian"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_perth = {
-	name = Phoebe
-	religion = "peace_church"
-	culture = "deitsch"
-	female = yes
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lambton = {
-	name = Quincy
-	religion = "united_church"
-	culture = "ontarian"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_simcoe = {
-	name = Hudson
-	religion = "anglican"
-	culture = "ontarian"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_dufferin = {
-	name = Anita
-	religion = "anglican"
-	culture = "ontarian"
-	female = yes
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_grey = {
-	name = Desmond
+	name = Tecumseh
 	religion = "anglican"
 	culture = "ontarian"
 	female = no
@@ -214,12 +106,120 @@ character_c_grey = {
 		death = yes
 	}
 }
-character_c_huron = {
-	name = Pearson
+character_c_prescott_russell = {
+	name = Aur_e_grv_le
+	religion = "ursuline"
+	culture = "ontarien"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lanark = {
+	name = Seymour
 	religion = "anglican"
 	culture = "ontarian"
 	female = no
-	2593.1.1 = {
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_middlesex = {
+	name = Simeon
+	religion = "united_church"
+	culture = "ontarian"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_essex = {
+	name = Bennett
+	religion = "galvanist"
+	culture = "ontarian"
+	female = no
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_perth = {
+	name = Abner
+	religion = "peace_church"
+	culture = "deitsch"
+	female = no
+	2590.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lambton = {
+	name = Laird
+	religion = "united_church"
+	culture = "ontarian"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_simcoe = {
+	name = Lawrence
+	religion = "anglican"
+	culture = "ontarian"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_dufferin = {
+	name = Francis
+	religion = "anglican"
+	culture = "ontarian"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_grey = {
+	name = Wilmot
+	religion = "anglican"
+	culture = "ontarian"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_huron = {
+	name = Camilla
+	religion = "anglican"
+	culture = "ontarian"
+	female = yes
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_huron = {
 	}
 }
 character_c_bruce = {
-	name = Nigonwiweweedun
+	name = Gaadawaabide
 	religion = "lakeshore"
 	culture = "ojibwe"
 	female = no
-	2659.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_bruce = {
 	}
 }
 character_c_thurlow = {
-	name = Raymond
+	name = Ellwood
 	religion = "anglican"
 	culture = "ontarian"
 	female = no
-	2619.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_thurlow = {
 	}
 }
 character_c_peterborough = {
-	name = Sebastian
+	name = Ebenezer
 	religion = "united_church"
 	culture = "ontarian"
 	female = no
-	2613.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_peterborough = {
 	}
 }
 character_c_ganaraska = {
-	name = Janet
+	name = Durham
 	religion = "anglican"
 	culture = "ontarian"
-	female = yes
-	2600.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_ganaraska = {
 	}
 }
 character_c_frontenac = {
-	name = Stephenson
+	name = Isabella
 	religion = "anglican"
 	culture = "ontarian"
-	female = no
-	2622.1.1 = {
+	female = yes
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,19 +287,7 @@ character_c_frontenac = {
 	}
 }
 character_c_stormont = {
-	name = Fraser
-	religion = "anglican"
-	culture = "ontarian"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_thousand_islands = {
-	name = Johnston
+	name = Grover
 	religion = "anglican"
 	culture = "ontarian"
 	female = no
@@ -310,12 +298,24 @@ character_c_thousand_islands = {
 		death = yes
 	}
 }
-character_c_renfrew = {
-	name = Ward
+character_c_thousand_islands = {
+	name = Jasper
 	religion = "anglican"
 	culture = "ontarian"
 	female = no
-	2629.1.1 = {
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_renfrew = {
+	name = Fulvius
+	religion = "anglican"
+	culture = "ontarian"
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,9 +323,93 @@ character_c_renfrew = {
 	}
 }
 character_c_nipissing = {
-	name = Lionel
+	name = Alcide
 	religion = "ursuline"
 	culture = "ontarien"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mattawa = {
+	name = F_e_act_lix
+	religion = "anglican"
+	culture = "ontarien"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_muskoka = {
+	name = Glenda
+	religion = "lakeshore"
+	culture = "bushman"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_parry_sound = {
+	name = Trevor
+	religion = "lakeshore"
+	culture = "bushman"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_haliburton = {
+	name = Julie
+	religion = "anglican"
+	culture = "bushman"
+	female = yes
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hastings = {
+	name = Stan
+	religion = "anglican"
+	culture = "bushman"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kawartha = {
+	name = Edgar
+	religion = "anglican"
+	culture = "bushman"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hochelaga = {
+	name = Hubert
+	religion = "ursuline"
+	culture = "quebecois"
 	female = no
 	2598.1.1 = {
 		birth = yes
@@ -334,96 +418,12 @@ character_c_nipissing = {
 		death = yes
 	}
 }
-character_c_mattawa = {
-	name = Julien
-	religion = "anglican"
-	culture = "ontarien"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_muskoka = {
-	name = Sharon
-	religion = "lakeshore"
-	culture = "bushman"
-	female = yes
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_parry_sound = {
-	name = Gisele
-	religion = "lakeshore"
-	culture = "bushman"
-	female = yes
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_haliburton = {
-	name = Cindy
-	religion = "anglican"
-	culture = "bushman"
-	female = yes
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hastings = {
-	name = Colton
-	religion = "anglican"
-	culture = "bushman"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_kawartha = {
-	name = Garth
-	religion = "anglican"
-	culture = "bushman"
-	female = no
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hochelaga = {
-	name = Yannick
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_grande_ligne = {
-	name = Josselin
+	name = St_e_act_phane
 	religion = "haredi"
 	culture = "quebecois"
 	female = no
-	2654.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,7 +431,235 @@ character_c_grande_ligne = {
 	}
 }
 character_c_lanaudiere = {
-	name = Maurice
+	name = Uld_e_act_ric
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_vaudreuil_soulanges = {
+	name = Marcelline
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_argenteuil = {
+	name = FE_licia
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cap_diamant = {
+	name = Marie
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_portneuf = {
+	name = Francine
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_malbaie = {
+	name = C_e_act_saire
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_jacques_cartier = {
+	name = R_e_act_gis
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_charlevoix = {
+	name = Marcel
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_longueuil = {
+	name = St_e_act_phane
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_haute_yamaska = {
+	name = Camillien
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_les_maskoutains = {
+	name = Camillien
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chateauguay = {
+	name = Joseph
+	religion = "ursuline"
+	culture = "iroquois"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sherbrooke = {
+	name = Gratien
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_drummond = {
+	name = Paul
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_arthabaska = {
+	name = Pierre-E_act_variste
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_memphremagog = {
+	name = Jocelyne
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_le_granit = {
+	name = Dollard
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chicoutimi = {
+	name = Daniel
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lac_saint_jean = {
+	name = Guillaume
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_domaine_du_roy = {
+	name = Rohard
 	religion = "ursuline"
 	culture = "quebecois"
 	female = no
@@ -442,240 +670,12 @@ character_c_lanaudiere = {
 		death = yes
 	}
 }
-character_c_vaudreuil_soulanges = {
-	name = Hector
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_argenteuil = {
-	name = H_e_act_l_e_grv_ne
+character_c_tadoussac = {
+	name = Laurence
 	religion = "ursuline"
 	culture = "quebecois"
 	female = yes
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cap_diamant = {
-	name = Jean-Ren_e_act_
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_portneuf = {
-	name = Hughes
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_malbaie = {
-	name = Maximilien
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_jacques_cartier = {
-	name = Uld_e_act_ric
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_charlevoix = {
-	name = Lucien
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_longueuil = {
-	name = Mathieu
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_haute_yamaska = {
-	name = Barth_e_act_lemy
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_les_maskoutains = {
-	name = M_e_act_d_e_act_ric
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_chateauguay = {
-	name = Delby
-	religion = "ursuline"
-	culture = "iroquois"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sherbrooke = {
-	name = Normand
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_drummond = {
-	name = Mathieu
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_arthabaska = {
-	name = Z_e_act_phyrin
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_memphremagog = {
-	name = Philippe
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_le_granit = {
-	name = PraxE_de
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_chicoutimi = {
-	name = Xavier
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lac_saint_jean = {
-	name = Robert
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_domaine_du_roy = {
-	name = Uld_e_act_ric
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tadoussac = {
-	name = Honor_e_act_
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2619.1.1 = {
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,11 +683,11 @@ character_c_tadoussac = {
 	}
 }
 character_c_hull = {
-	name = Hughes
+	name = Gilbert
 	religion = "ursuline"
 	culture = "ontarien"
 	female = no
-	2619.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -695,11 +695,11 @@ character_c_hull = {
 	}
 }
 character_c_haute_gatineau = {
-	name = Noodin
+	name = Zhinkwaak
 	religion = "ursuline"
 	culture = "algonquin"
 	female = no
-	2598.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_haute_gatineau = {
 	}
 }
 character_c_pontiac = {
-	name = Fran_c_ced_ois
+	name = Olympe
 	religion = "ursuline"
 	culture = "ontarien"
-	female = no
-	2606.1.1 = {
+	female = yes
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,11 +719,11 @@ character_c_pontiac = {
 	}
 }
 character_c_trois_rivieres = {
-	name = Baudouin
+	name = E_act_ve
 	religion = "ursuline"
 	culture = "quebecois"
-	female = no
-	2590.1.1 = {
+	female = yes
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,11 +731,11 @@ character_c_trois_rivieres = {
 	}
 }
 character_c_shawinigan = {
-	name = Pascal
+	name = Louis-Sim_e_act_on
 	religion = "ursuline"
 	culture = "quebecois"
 	female = no
-	2616.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -747,7 +747,7 @@ character_c_matawinia = {
 	religion = "ursuline"
 	culture = "algonquin"
 	female = no
-	2652.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_matawinia = {
 	}
 }
 character_c_saint_maurice = {
-	name = Kaadawaabide
+	name = William
 	religion = "ursuline"
 	culture = "algonquin"
 	female = no
-	2609.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_saint_maurice = {
 	}
 }
 character_c_amiante = {
-	name = Louis
+	name = Paul-Antoine
 	religion = "ursuline"
 	culture = "quebecois"
 	female = no
-	2621.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_amiante = {
 	}
 }
 character_c_beauce = {
-	name = Valpy
+	name = Jean-Georges
 	religion = "ursuline"
 	culture = "quebecois"
 	female = no
-	2650.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,11 +791,11 @@ character_c_beauce = {
 	}
 }
 character_c_levis = {
-	name = Pial
+	name = Elizabeth
 	religion = "ursuline"
 	culture = "abenaki"
-	female = no
-	2633.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -803,67 +803,7 @@ character_c_levis = {
 	}
 }
 character_c_riviere_du_loup = {
-	name = Foulques
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_montmagny = {
-	name = Valpy
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_rimouski = {
-	name = Paul-Antoine
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_outardes = {
-	name = R_e_act_jean
-	religion = "ursuline"
-	culture = "quebecois"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sept_iles = {
-	name = William
-	religion = "ursuline"
-	culture = "innu"
-	female = no
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_haute_cote_nord = {
-	name = E_act_mery
+	name = Raymond
 	religion = "ursuline"
 	culture = "quebecois"
 	female = no
@@ -874,12 +814,72 @@ character_c_haute_cote_nord = {
 		death = yes
 	}
 }
-character_c_mont_tremblant = {
-	name = Mich_e_grv_le
+character_c_montmagny = {
+	name = Maurice
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_rimouski = {
+	name = Andronic
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_outardes = {
+	name = E_act_lise
 	religion = "ursuline"
 	culture = "quebecois"
 	female = yes
-	2598.1.1 = {
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sept_iles = {
+	name = Becky
+	religion = "ursuline"
+	culture = "innu"
+	female = yes
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_haute_cote_nord = {
+	name = Isadora
+	religion = "ursuline"
+	culture = "quebecois"
+	female = yes
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mont_tremblant = {
+	name = R_e_act_gis
+	religion = "ursuline"
+	culture = "quebecois"
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -887,11 +887,11 @@ character_c_mont_tremblant = {
 	}
 }
 character_c_haute_laurentides = {
-	name = Kiniwbine
+	name = Michael
 	religion = "ursuline"
 	culture = "algonquin"
 	female = no
-	2636.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -899,11 +899,11 @@ character_c_haute_laurentides = {
 	}
 }
 character_c_papineau = {
-	name = C_e_act_cil
+	name = Camillien
 	religion = "ursuline"
 	culture = "quebecois"
 	female = no
-	2594.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -911,213 +911,9 @@ character_c_papineau = {
 	}
 }
 character_c_chic_chocs = {
-	name = Odon
+	name = Robert
 	religion = "ursuline"
 	culture = "quebecois"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_matapedia = {
-	name = Mathilde
-	religion = "ursuline"
-	culture = "quebecois"
-	female = yes
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_perce = {
-	name = Ep
-	religion = "pelagic"
-	culture = "mikmaq"
-	female = yes
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_forillon = {
-	name = Moncef
-	religion = "pelagic"
-	culture = "quebecois"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_magdalen_islands = {
-	name = Clovis
-	religion = "pelagic"
-	culture = "acadien"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_netagamiou = {
-	name = Charlie
-	religion = "pelagic"
-	culture = "innu"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mingan = {
-	name = Pitar
-	religion = "pelagic"
-	culture = "innu"
-	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_natashquan = {
-	name = Gilles
-	religion = "pelagic"
-	culture = "innu"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_anticosti = {
-	name = Mise_pst_l
-	religion = "pelagic"
-	culture = "mikmaq"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_halifax = {
-	name = George
-	religion = "anglican"
-	culture = "maritimer"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_hants = {
-	name = Howland
-	religion = "anglican"
-	culture = "maritimer"
-	female = no
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lunenburg = {
-	name = Winifred
-	religion = "anglican"
-	culture = "maritimer"
-	female = yes
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_yarmouth = {
-	name = Winthrop
-	religion = "ursuline"
-	culture = "maritimer"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_annapolis = {
-	name = Arthur
-	religion = "ursuline"
-	culture = "acadien"
-	female = no
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_saint_john = {
-	name = Gordon
-	religion = "anglican"
-	culture = "maritimer"
-	female = no
-	2651.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_fredericton = {
-	name = Upham
-	religion = "anglican"
-	culture = "maritimer"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_me_calais = {
-	name = Az_o_hat_
-	religion = "pelagic"
-	culture = "abenaki"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_westmorland = {
-	name = Irriel
-	religion = "ursuline"
-	culture = "maritimer"
 	female = no
 	2609.1.1 = {
 		birth = yes
@@ -1126,34 +922,34 @@ character_c_westmorland = {
 		death = yes
 	}
 }
-character_c_kent = {
-	name = Antonin
+character_c_matapedia = {
+	name = Julien
 	religion = "ursuline"
-	culture = "acadien"
+	culture = "quebecois"
 	female = no
-	2651.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_fundy = {
-	name = Garrett
-	religion = "anglican"
-	culture = "maritimer"
+character_c_perce = {
+	name = Alvery
+	religion = "pelagic"
+	culture = "mikmaq"
 	female = no
-	2654.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_sydney = {
-	name = Sorley
-	religion = "anglican"
-	culture = "pictonish"
+character_c_forillon = {
+	name = Elz_e_act_ar
+	religion = "pelagic"
+	culture = "quebecois"
 	female = no
 	2644.1.1 = {
 		birth = yes
@@ -1162,80 +958,128 @@ character_c_sydney = {
 		death = yes
 	}
 }
-character_c_antigonish = {
-	name = Roberta
-	religion = "anglican"
-	culture = "pictonish"
-	female = yes
-	2630.1.1 = {
+character_c_magdalen_islands = {
+	name = Rodolphe
+	religion = "pelagic"
+	culture = "acadien"
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_inverness = {
-	name = Anastasia
+character_c_netagamiou = {
+	name = E_act_lie
+	religion = "pelagic"
+	culture = "innu"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mingan = {
+	name = Stanley
+	religion = "pelagic"
+	culture = "innu"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_natashquan = {
+	name = Mike
+	religion = "pelagic"
+	culture = "innu"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_anticosti = {
+	name = Emerson
 	religion = "pelagic"
 	culture = "mikmaq"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_halifax = {
+	name = Creagan
+	religion = "anglican"
+	culture = "maritimer"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hants = {
+	name = Kennedy
+	religion = "anglican"
+	culture = "maritimer"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lunenburg = {
+	name = Ronald
+	religion = "anglican"
+	culture = "maritimer"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_yarmouth = {
+	name = Grace
+	religion = "ursuline"
+	culture = "maritimer"
 	female = yes
-	2603.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_pictou = {
-	name = Sulliman
-	religion = "anglican"
-	culture = "pictonish"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_colchester = {
-	name = Gearalt
-	religion = "anglican"
-	culture = "pictonish"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cumberland = {
-	name = Weldon
-	religion = "anglican"
-	culture = "pictonish"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gloucester = {
-	name = Urbain
+character_c_annapolis = {
+	name = Omer
 	religion = "ursuline"
 	culture = "acadien"
 	female = no
-	2617.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_northumberland = {
-	name = Erskine
+character_c_saint_john = {
+	name = Jonah
 	religion = "anglican"
 	culture = "maritimer"
 	female = no
@@ -1246,10 +1090,34 @@ character_c_northumberland = {
 		death = yes
 	}
 }
-character_c_carleton = {
-	name = Azor
+character_c_fredericton = {
+	name = Quinn
+	religion = "anglican"
+	culture = "maritimer"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_me_calais = {
+	name = Madelan
+	religion = "pelagic"
+	culture = "abenaki"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_westmorland = {
+	name = Gerald
 	religion = "ursuline"
-	culture = "acadien"
+	culture = "maritimer"
 	female = no
 	2631.1.1 = {
 		birth = yes
@@ -1258,47 +1126,119 @@ character_c_carleton = {
 		death = yes
 	}
 }
-character_c_cardigan = {
-	name = Rita
+character_c_kent = {
+	name = Jean-Eudes
+	religion = "ursuline"
+	culture = "acadien"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_fundy = {
+	name = Weston
+	religion = "anglican"
+	culture = "maritimer"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sydney = {
+	name = Manus
 	religion = "anglican"
 	culture = "pictonish"
-	female = yes
-	2611.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_egmont = {
-	name = Murray
-	religion = "pelagic"
+character_c_antigonish = {
+	name = Eoghann
+	religion = "anglican"
 	culture = "pictonish"
 	female = no
-	2652.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_madawaska = {
-	name = Guilmond
-	religion = "ursuline"
-	culture = "acadien"
+character_c_inverness = {
+	name = Ata
+	religion = "pelagic"
+	culture = "mikmaq"
 	female = no
-	2598.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_restigouche = {
-	name = Jean-Baptiste
+character_c_pictou = {
+	name = Neacal
+	religion = "anglican"
+	culture = "pictonish"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_colchester = {
+	name = Manus
+	religion = "anglican"
+	culture = "pictonish"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cumberland = {
+	name = Seumas
+	religion = "anglican"
+	culture = "pictonish"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gloucester = {
+	name = Paul
 	religion = "ursuline"
 	culture = "acadien"
 	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_northumberland = {
+	name = Mercy
+	religion = "anglican"
+	culture = "maritimer"
+	female = yes
 	2613.1.1 = {
 		birth = yes
 	}
@@ -1306,12 +1246,72 @@ character_c_restigouche = {
 		death = yes
 	}
 }
+character_c_carleton = {
+	name = Gaspard
+	religion = "ursuline"
+	culture = "acadien"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cardigan = {
+	name = Stuart
+	religion = "anglican"
+	culture = "pictonish"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_egmont = {
+	name = William
+	religion = "pelagic"
+	culture = "pictonish"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_madawaska = {
+	name = Michel-Ange
+	religion = "ursuline"
+	culture = "acadien"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_restigouche = {
+	name = Nathana_e_uml_l
+	religion = "ursuline"
+	culture = "acadien"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_st_johns = {
-	name = Herbert
+	name = Lloyd
 	religion = "pelagic"
 	culture = "newfoundlander"
 	female = no
-	2642.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1319,11 +1319,11 @@ character_c_st_johns = {
 	}
 }
 character_c_bonavista = {
-	name = Wolfrey
+	name = Frances
 	religion = "pelagic"
 	culture = "newfoundlander"
-	female = no
-	2648.1.1 = {
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1331,11 +1331,11 @@ character_c_bonavista = {
 	}
 }
 character_c_st_marys = {
-	name = Herbert
+	name = Gordon
 	religion = "pelagic"
 	culture = "newfoundlander"
 	female = no
-	2637.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1343,11 +1343,11 @@ character_c_st_marys = {
 	}
 }
 character_c_corner_brook = {
-	name = Everett
+	name = Charles
 	religion = "pelagic"
 	culture = "mikmaq"
 	female = no
-	2629.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1355,11 +1355,11 @@ character_c_corner_brook = {
 	}
 }
 character_c_burin = {
-	name = Winston
+	name = Cavendish
 	religion = "pelagic"
 	culture = "newfoundlander"
 	female = no
-	2643.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1367,11 +1367,11 @@ character_c_burin = {
 	}
 }
 character_c_port_aux_basques = {
-	name = Alegs-So_pst_sep
+	name = Kopit
 	religion = "pelagic"
 	culture = "mikmaq"
 	female = no
-	2632.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1379,11 +1379,11 @@ character_c_port_aux_basques = {
 	}
 }
 character_c_saint_pierre_and_miquelon = {
-	name = Alden
+	name = T_e_act_lesphore
 	religion = "pelagic"
 	culture = "acadien"
 	female = no
-	2649.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1391,11 +1391,11 @@ character_c_saint_pierre_and_miquelon = {
 	}
 }
 character_c_grand_falls = {
-	name = Marmaduke
+	name = Rennie
 	religion = "pelagic"
 	culture = "newfoundlander"
 	female = no
-	2645.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1403,11 +1403,11 @@ character_c_grand_falls = {
 	}
 }
 character_c_gander = {
-	name = Pleaman
+	name = Norman
 	religion = "pelagic"
 	culture = "newfoundlander"
 	female = no
-	2652.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1415,11 +1415,11 @@ character_c_gander = {
 	}
 }
 character_c_ca_nl_st_anthony = {
-	name = Bride
+	name = Murphy
 	religion = "pelagic"
 	culture = "newfoundlander"
-	female = yes
-	2644.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

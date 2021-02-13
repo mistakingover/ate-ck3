@@ -1,9 +1,9 @@
 character_c_greater_sudbury = {
-	name = Ursule
+	name = Vincent
 	religion = "galvanist"
 	culture = "ontarien"
-	female = yes
-	2599.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_greater_sudbury = {
 	}
 }
 character_c_timiskaming = {
-	name = Michael
+	name = Rotrude
 	religion = "ursuline"
 	culture = "ontarien"
-	female = no
-	2622.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_timiskaming = {
 	}
 }
 character_c_elliot_lake = {
-	name = Carl
+	name = Terry
 	religion = "midewiwin"
 	culture = "bushman"
 	female = no
-	2606.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_elliot_lake = {
 	}
 }
 character_c_manitoulin = {
-	name = Nigonwiweweedun
+	name = Giniwbine
 	religion = "midewiwin"
 	culture = "ojibwe"
 	female = no
-	2599.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_manitoulin = {
 	}
 }
 character_c_lakehead = {
-	name = Nicole
+	name = Lee
 	religion = "lakeshore"
 	culture = "bushman"
-	female = yes
-	2639.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_lakehead = {
 	}
 }
 character_c_greenstone = {
-	name = Apitasike
+	name = Gekek
 	religion = "midewiwin"
 	culture = "ojibwe"
 	female = no
-	2624.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_greenstone = {
 	}
 }
 character_c_marathon = {
-	name = Harold
+	name = Tony
 	religion = "lakeshore"
 	culture = "bushman"
 	female = no
-	2636.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,9 +83,21 @@ character_c_marathon = {
 	}
 }
 character_c_quetico = {
-	name = Naaniibawikwe
+	name = Giniwaanakwad
 	religion = "midewiwin"
 	culture = "ojibwe"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_aguasabon = {
+	name = Haley
+	religion = "lakeshore"
+	culture = "bushman"
 	female = yes
 	2631.1.1 = {
 		birth = yes
@@ -94,82 +106,10 @@ character_c_quetico = {
 		death = yes
 	}
 }
-character_c_aguasabon = {
-	name = Ron
-	religion = "lakeshore"
-	culture = "bushman"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_nipigon = {
-	name = Niiosagii
+	name = Maangozid
 	religion = "midewiwin"
 	culture = "ojibwe"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sault_ste_marie = {
-	name = Barclay
-	religion = "ursuline"
-	culture = "bushman"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_wawa = {
-	name = Mamaangeezide
-	religion = "lakeshore"
-	culture = "ojibwe"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ivanhoe = {
-	name = Gaagigebenesi
-	religion = "midewiwin"
-	culture = "ojibwe"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_batchawana = {
-	name = Niigaanibinesi
-	religion = "ursuline"
-	culture = "ojibwe"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cochrane = {
-	name = Norbert
-	religion = "ursuline"
-	culture = "ontarien"
 	female = no
 	2649.1.1 = {
 		birth = yes
@@ -178,10 +118,46 @@ character_c_cochrane = {
 		death = yes
 	}
 }
-character_c_kapuskasing = {
-	name = Gilbert
+character_c_sault_ste_marie = {
+	name = Eric
 	religion = "ursuline"
-	culture = "ontarien"
+	culture = "bushman"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_wawa = {
+	name = Enos
+	religion = "lakeshore"
+	culture = "ojibwe"
+	female = yes
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ivanhoe = {
+	name = Robert
+	religion = "midewiwin"
+	culture = "ojibwe"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_batchawana = {
+	name = Miskwaaki
+	religion = "ursuline"
+	culture = "ojibwe"
 	female = no
 	2616.1.1 = {
 		birth = yes
@@ -190,12 +166,36 @@ character_c_kapuskasing = {
 		death = yes
 	}
 }
-character_c_hearst = {
-	name = Beno_i_hat_t
+character_c_cochrane = {
+	name = Daniel
 	religion = "ursuline"
 	culture = "ontarien"
 	female = no
-	2621.1.1 = {
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kapuskasing = {
+	name = Catherine
+	religion = "ursuline"
+	culture = "ontarien"
+	female = yes
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hearst = {
+	name = Brent
+	religion = "ursuline"
+	culture = "ontarien"
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_hearst = {
 	}
 }
 character_c_osisko = {
-	name = Olympe
+	name = Tybalt
 	religion = "ursuline"
 	culture = "ontarien"
-	female = yes
-	2590.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,7 +215,43 @@ character_c_osisko = {
 	}
 }
 character_c_vallee_de_l_or = {
-	name = Uashkut
+	name = Tehtaapisch
+	religion = "midewiwin"
+	culture = "iyyu"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kipawa = {
+	name = L_e_act_on-Calixte
+	religion = "ursuline"
+	culture = "ontarien"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_chibougamau = {
+	name = Michisuu
+	religion = "midewiwin"
+	culture = "iyyu"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mattagami = {
+	name = Tieikwau
 	religion = "midewiwin"
 	culture = "iyyu"
 	female = no
@@ -226,48 +262,12 @@ character_c_vallee_de_l_or = {
 		death = yes
 	}
 }
-character_c_kipawa = {
-	name = Ryan
-	religion = "ursuline"
-	culture = "ontarien"
-	female = no
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_chibougamau = {
-	name = Kalwaut
-	religion = "midewiwin"
-	culture = "iyyu"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mattagami = {
-	name = Aisik
-	religion = "midewiwin"
-	culture = "iyyu"
-	female = no
-	2647.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_nemaska = {
-	name = Teifit
+	name = Eitiyen
 	religion = "midewiwin"
 	culture = "iyyu"
 	female = no
-	2633.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_nemaska = {
 	}
 }
 character_c_ca_qc_chisasibi = {
-	name = Liuna
+	name = Angutimmarik
 	religion = "unipkaaq"
 	culture = "inuit"
-	female = yes
-	2641.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_ca_qc_chisasibi = {
 	}
 }
 character_c_ca_qc_waskaganish = {
-	name = Waapikon
+	name = Rwaumiyu
 	religion = "midewiwin"
 	culture = "iyyu"
-	female = yes
-	2614.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_ca_qc_waskaganish = {
 	}
 }
 character_c_moosonee = {
-	name = Ishkwaashcheu
+	name = Chisheyaakush
 	religion = "midewiwin"
 	culture = "iyyu"
 	female = no
-	2592.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -314,8 +314,8 @@ character_c_ca_on_fort_severn = {
 	name = Test
 	religion = "midewiwin"
 	culture = "woodland_cree"
-	female = yes
-	2592.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,11 +323,11 @@ character_c_ca_on_fort_severn = {
 	}
 }
 character_c_attawapiskat = {
-	name = Mistaapush
+	name = Miyahkatu
 	religion = "midewiwin"
 	culture = "iyyu"
-	female = yes
-	2598.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,11 +335,11 @@ character_c_attawapiskat = {
 	}
 }
 character_c_flin_flon = {
-	name = Fran_c_ced_ois
+	name = Derrick
 	religion = "exovedate"
 	culture = "metis"
 	female = no
-	2616.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_flin_flon = {
 	}
 }
 character_c_paskoyac = {
-	name = E_act_l_e_act_onore
+	name = Florence
 	religion = "exovedate"
 	culture = "metis"
 	female = yes
-	2638.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_paskoyac = {
 	}
 }
 character_c_ca_mb_moose_lake = {
-	name = Ray
+	name = Axel
 	religion = "exovedate"
 	culture = "metis"
 	female = no
-	2596.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_ca_mb_moose_lake = {
 	}
 }
 character_c_southend = {
-	name = Howard
+	name = Don
 	religion = "exovedate"
 	culture = "metis"
 	female = no
-	2635.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_southend = {
 	}
 }
 character_c_thompson = {
-	name = Louis-Hippolyte
+	name = Ray
 	religion = "exovedate"
 	culture = "metis"
 	female = no
-	2620.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -399,7 +399,7 @@ character_c_gillam = {
 	religion = "exovedate"
 	culture = "woodland_cree"
 	female = no
-	2660.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -411,7 +411,7 @@ character_c_wapusk = {
 	religion = "exovedate"
 	culture = "woodland_cree"
 	female = no
-	2636.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -423,7 +423,7 @@ character_c_amisk = {
 	religion = "exovedate"
 	culture = "woodland_cree"
 	female = no
-	2606.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_amisk = {
 	}
 }
 character_c_norway_house = {
-	name = Victor
+	name = Albert
 	religion = "midewiwin"
 	culture = "metis"
 	female = no
-	2629.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_norway_house = {
 	}
 }
 character_c_gods_lake = {
-	name = Pegius
+	name = Joseph
 	religion = "midewiwin"
 	culture = "oji-cree"
 	female = no
-	2593.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_gods_lake = {
 	}
 }
 character_c_sachigo = {
-	name = Elijah
+	name = Kinistin
 	religion = "midewiwin"
 	culture = "oji-cree"
 	female = no
-	2655.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_sachigo = {
 	}
 }
 character_c_winisk = {
-	name = William
+	name = Joshua
 	religion = "midewiwin"
 	culture = "oji-cree"
 	female = no
-	2596.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_winisk = {
 	}
 }
 character_c_opasquia = {
-	name = Pegius
+	name = Mekis
 	religion = "midewiwin"
 	culture = "oji-cree"
 	female = no
-	2646.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

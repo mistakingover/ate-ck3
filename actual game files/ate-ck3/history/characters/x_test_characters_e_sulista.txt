@@ -1,9 +1,9 @@
 character_c_porto_alegre = {
-	name = Amarante
+	name = Volnei
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2631.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_porto_alegre = {
 	}
 }
 character_c_br_23_canoas = {
-	name = Ab_i_act_lio
+	name = Daniela
 	religion = "farrapo"
 	culture = "gaucho"
-	female = no
-	2609.1.1 = {
+	female = yes
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_br_23_canoas = {
 	}
 }
 character_c_br_23_novo_hamburgo = {
-	name = Kuno
+	name = Adalbert
 	religion = "muckerism"
 	culture = "hunsrickisch"
 	female = no
-	2618.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,7 +35,7 @@ character_c_br_23_novo_hamburgo = {
 	}
 }
 character_c_br_23_viam_o = {
-	name = Volnei
+	name = Lu_i_act_s
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
@@ -47,11 +47,11 @@ character_c_br_23_viam_o = {
 	}
 }
 character_c_br_23_cap_o_da_canoa = {
-	name = Durval
+	name = Jo_a_tld_o
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2617.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,58 +59,10 @@ character_c_br_23_cap_o_da_canoa = {
 	}
 }
 character_c_br_23_gua_ba = {
-	name = Cezar
+	name = Sebasti_a_tld_o
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_torres = {
-	name = Flor_e_hat_ncio
-	religion = "celestism"
-	culture = "gaucho"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_caxias_do_sul = {
-	name = Giovanni
-	religion = "celestism"
-	culture = "talian"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_bento_gon_alves = {
-	name = Ugolino
-	religion = "celestism"
-	culture = "talian"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_lajeado = {
-	name = Helene
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = yes
 	2625.1.1 = {
 		birth = yes
 	}
@@ -118,46 +70,22 @@ character_c_br_23_lajeado = {
 		death = yes
 	}
 }
-character_c_br_23_vacaria = {
-	name = Liutfrid
-	religion = "muckerism"
-	culture = "hunsrickisch"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_lajeado_grande = {
-	name = Heilika
-	religion = "muckerism"
-	culture = "hunsrickisch"
-	female = yes
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_pelotas = {
-	name = Fl_a_act_vio
-	religion = "farrapo"
+character_c_br_23_torres = {
+	name = Ernani
+	religion = "celestism"
 	culture = "gaucho"
 	female = no
-	2644.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_23_rio_grande = {
-	name = Tarc_i_act_sio
-	religion = "farrapo"
-	culture = "gaucho"
+character_c_br_23_caxias_do_sul = {
+	name = Vitale
+	religion = "celestism"
+	culture = "talian"
 	female = no
 	2628.1.1 = {
 		birth = yes
@@ -166,12 +94,84 @@ character_c_br_23_rio_grande = {
 		death = yes
 	}
 }
-character_c_br_23_camaqu_ = {
-	name = Fernanda
+character_c_br_23_bento_gon_alves = {
+	name = Giolio
+	religion = "celestism"
+	culture = "talian"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_lajeado = {
+	name = Ernst
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_vacaria = {
+	name = Lothar
+	religion = "muckerism"
+	culture = "hunsrickisch"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_lajeado_grande = {
+	name = Liutfrid
+	religion = "muckerism"
+	culture = "hunsrickisch"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_pelotas = {
+	name = Dante
 	religion = "farrapo"
 	culture = "gaucho"
-	female = yes
-	2645.1.1 = {
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_rio_grande = {
+	name = Juvir
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_camaqu_ = {
+	name = M_a_act_rio
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_br_23_camaqu_ = {
 	}
 }
 character_c_br_23_palmares_do_sul = {
-	name = Alcides
+	name = Juliano
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2607.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_br_23_palmares_do_sul = {
 	}
 }
 character_c_br_23_passo_fundo = {
-	name = Manfredo
+	name = Chiaffredo
 	religion = "celestism"
 	culture = "talian"
 	female = no
-	2659.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_br_23_passo_fundo = {
 	}
 }
 character_c_br_23_carazinho = {
-	name = Wolfgang
+	name = Luther
 	religion = "nonconformism"
 	culture = "hunsrickisch"
 	female = no
-	2601.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,11 +215,11 @@ character_c_br_23_carazinho = {
 	}
 }
 character_c_br_23_erechim = {
-	name = Vincentello
+	name = Carla
 	religion = "celestism"
 	culture = "talian"
-	female = no
-	2641.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_br_23_erechim = {
 	}
 }
 character_c_br_23_palmeira_das_miss_es = {
-	name = Jader
+	name = Paparico
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2652.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_br_23_palmeira_das_miss_es = {
 	}
 }
 character_c_br_23_lagoa_vermelha = {
-	name = Federigo
+	name = Costante
 	religion = "celestism"
 	culture = "talian"
 	female = no
-	2660.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_br_23_lagoa_vermelha = {
 	}
 }
 character_c_br_23_frederico_westphalen = {
-	name = Waldrada
+	name = Eticho
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	female = yes
-	2615.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_br_23_frederico_westphalen = {
 	}
 }
 character_c_br_23_soledade = {
-	name = Anno
+	name = Ludwig
 	religion = "nonconformism"
 	culture = "hunsrickisch"
 	female = no
-	2611.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,7 +279,7 @@ character_c_br_23_gramado_dos_loureiros = {
 	religion = "celestism"
 	culture = "kaingang"
 	female = no
-	2598.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,154 +287,10 @@ character_c_br_23_gramado_dos_loureiros = {
 	}
 }
 character_c_br_23_santa_maria = {
-	name = Older
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_santiago = {
-	name = Juvenal
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_s_o_sep_ = {
-	name = Joaquim
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_santa_cruz_do_sul = {
-	name = Poppo
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_charqueadas = {
-	name = S_i_act_lvio
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_cachoeira_do_sul = {
-	name = Mateus
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_santo_ngelo = {
-	name = Bernardo
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_santa_rosa = {
-	name = Tor_i_act_bio
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_iju_ = {
-	name = Lya
+	name = Naiara
 	religion = "farrapo"
 	culture = "gaucho"
 	female = yes
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_cruz_alta = {
-	name = Dary
-	religion = "farrapo"
-	culture = "gaucho"
-	female = yes
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_s_o_jo_o_das_miss_es = {
-	name = Erni
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_alegrete = {
-	name = Rodrigo
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_s_o_borja = {
-	name = Enio
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
 	2643.1.1 = {
 		birth = yes
 	}
@@ -442,12 +298,156 @@ character_c_br_23_s_o_borja = {
 		death = yes
 	}
 }
+character_c_br_23_santiago = {
+	name = Beto
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_s_o_sep_ = {
+	name = Arno
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_santa_cruz_do_sul = {
+	name = Eberhard
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_charqueadas = {
+	name = Licurgo
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_cachoeira_do_sul = {
+	name = Nicolau
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_santo_ngelo = {
+	name = An_i_act_bal
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_santa_rosa = {
+	name = Berfran
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_iju_ = {
+	name = Apeles
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_cruz_alta = {
+	name = Rafael
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_s_o_jo_o_das_miss_es = {
+	name = A_act_lvaro
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_alegrete = {
+	name = Gerson
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_s_o_borja = {
+	name = Jer_o_hat_nimo
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_br_23_abreu = {
-	name = Daniela
+	name = Catarina
 	religion = "farrapo"
 	culture = "gaucho"
 	female = yes
-	2597.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_br_23_abreu = {
 	}
 }
 character_c_br_23_encruzilhada = {
-	name = Valter
+	name = Bohn
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2612.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_br_23_encruzilhada = {
 	}
 }
 character_c_br_23_bag_ = {
-	name = Beto
+	name = Baltazar
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
-	2640.1.1 = {
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,43 +479,7 @@ character_c_br_23_bag_ = {
 	}
 }
 character_c_br_23_herval = {
-	name = Ledevino
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2602.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_cangu_u = {
-	name = Wilson
-	religion = "farrapo"
-	culture = "gaucho"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_s_o_gabriel = {
-	name = Manuela
-	religion = "farrapo"
-	culture = "gaucho"
-	female = yes
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_23_ros_rio_do_sul = {
-	name = Jair
+	name = Aderbal
 	religion = "farrapo"
 	culture = "gaucho"
 	female = no
@@ -526,59 +490,11 @@ character_c_br_23_ros_rio_do_sul = {
 		death = yes
 	}
 }
-character_c_br_23_dom_pedrito = {
-	name = Luciane
+character_c_br_23_cangu_u = {
+	name = Angelita
 	religion = "farrapo"
 	culture = "gaucho"
 	female = yes
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_01_artigas = {
-	name = Milton
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uy_01_bella_uni_n = {
-	name = Eber
-	religion = "bandean"
-	culture = "guacho"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_curitiba = {
-	name = Arnaldo
-	religion = "celestism"
-	culture = "paranaense"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_s_o_jos_dos_pinhais = {
-	name = Nestor
-	religion = "celestism"
-	culture = "paranaense"
-	female = no
 	2642.1.1 = {
 		birth = yes
 	}
@@ -586,22 +502,10 @@ character_c_br_18_s_o_jos_dos_pinhais = {
 		death = yes
 	}
 }
-character_c_br_18_ponta_grossa = {
-	name = Ana
-	religion = "celestism"
-	culture = "paranaense"
-	female = yes
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_paranagu_ = {
-	name = David
-	religion = "celestism"
-	culture = "paranaense"
+character_c_br_23_s_o_gabriel = {
+	name = Paulo
+	religion = "farrapo"
+	culture = "gaucho"
 	female = no
 	2623.1.1 = {
 		birth = yes
@@ -610,81 +514,81 @@ character_c_br_18_paranagu_ = {
 		death = yes
 	}
 }
-character_c_br_18_castro = {
-	name = Armando
+character_c_br_23_ros_rio_do_sul = {
+	name = Gilberto
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_23_dom_pedrito = {
+	name = A_hat_ngelo
+	religion = "farrapo"
+	culture = "gaucho"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_01_artigas = {
+	name = Diego
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_uy_01_bella_uni_n = {
+	name = Math_i_act_as
+	religion = "bandean"
+	culture = "guacho"
+	female = no
+	2647.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_curitiba = {
+	name = T_u_act_lio
 	religion = "celestism"
 	culture = "paranaense"
 	female = no
-	2637.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_18_antinha = {
-	name = Ti_a_tld_o
+character_c_br_18_s_o_jos_dos_pinhais = {
+	name = Osmar
 	religion = "celestism"
 	culture = "paranaense"
 	female = no
-	2614.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_18_londrina = {
-	name = Adalberto
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_maring_ = {
-	name = Z_e_act__Juca
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_santo_ant_nio_da_platina = {
-	name = Mituo
-	religion = "johrei"
-	culture = "burajirujin"
-	female = yes
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_jaguaria_va = {
-	name = Paulo_Eduardo
-	religion = "apostolicism"
-	culture = "caipira"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_tel_maco_borba = {
-	name = Almir
-	religion = "neopentecostalism"
+character_c_br_18_ponta_grossa = {
+	name = Miltinho
+	religion = "celestism"
 	culture = "paranaense"
 	female = no
 	2609.1.1 = {
@@ -694,12 +598,108 @@ character_c_br_18_tel_maco_borba = {
 		death = yes
 	}
 }
-character_c_br_18_faxinal = {
-	name = Edgar
+character_c_br_18_paranagu_ = {
+	name = Ney
 	religion = "celestism"
 	culture = "paranaense"
 	female = no
-	2590.1.1 = {
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_castro = {
+	name = Traiano
+	religion = "celestism"
+	culture = "paranaense"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_antinha = {
+	name = C_a_hat_ndido
+	religion = "celestism"
+	culture = "paranaense"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_londrina = {
+	name = Pl_i_act_nio
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_maring_ = {
+	name = Jo_a_tld_o_Alberto
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_santo_ant_nio_da_platina = {
+	name = Jacqueline
+	religion = "johrei"
+	culture = "burajirujin"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_jaguaria_va = {
+	name = Paulo_Henrique
+	religion = "apostolicism"
+	culture = "caipira"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_tel_maco_borba = {
+	name = M_a_act_rio
+	religion = "neopentecostalism"
+	culture = "paranaense"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_faxinal = {
+	name = Francisco
+	religion = "celestism"
+	culture = "paranaense"
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_br_18_faxinal = {
 	}
 }
 character_c_br_18_ortigueira = {
-	name = Dirceu
+	name = Luana
 	religion = "celestism"
 	culture = "paranaense"
-	female = no
-	2630.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,7 +719,7 @@ character_c_br_18_ortigueira = {
 	}
 }
 character_c_br_18_cascavel = {
-	name = Netto
+	name = E_act_den
 	religion = "celestism"
 	culture = "gaucho"
 	female = no
@@ -731,11 +731,11 @@ character_c_br_18_cascavel = {
 	}
 }
 character_c_br_18_foz_do_igua_u = {
-	name = Djalma
+	name = Louren_c_ced_o
 	religion = "valente"
 	culture = "paranaense"
 	female = no
-	2656.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_br_18_foz_do_igua_u = {
 	}
 }
 character_c_br_18_umuarama = {
-	name = Wilson
+	name = Brasil
 	religion = "celestism"
 	culture = "gaucho"
 	female = no
-	2621.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_br_18_umuarama = {
 	}
 }
 character_c_br_18_paranava_ = {
-	name = Elisa
+	name = Borja
 	religion = "celestism"
 	culture = "gaucho"
-	female = yes
-	2598.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,142 +767,10 @@ character_c_br_18_paranava_ = {
 	}
 }
 character_c_br_18_campo_mour_o = {
-	name = Mayana
+	name = Bete
 	religion = "celestism"
 	culture = "gaucho"
 	female = yes
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_marechal_c_ndido_rondon = {
-	name = Marino
-	religion = "celestism"
-	culture = "paranaense"
-	female = no
-	2634.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_moreira_sales = {
-	name = Brunilde
-	religion = "celestism"
-	culture = "talian"
-	female = yes
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_guarapuava = {
-	name = Predslava
-	religion = "byzantine_rite"
-	culture = "ruteno"
-	female = yes
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_irati = {
-	name = Yaropolk
-	religion = "byzantine_rite"
-	culture = "ruteno"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_uni_o_da_vit_ria = {
-	name = Sviatoslav
-	religion = "byzantine_rite"
-	culture = "ruteno"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_pitanga = {
-	name = Predslava
-	religion = "byzantine_rite"
-	culture = "ruteno"
-	female = yes
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_francisco_beltr_o = {
-	name = Marco
-	religion = "celestism"
-	culture = "gaucho"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_pato_branco = {
-	name = Brasil
-	religion = "celestism"
-	culture = "gaucho"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_18_padre_ponciano = {
-	name = F_a_act_bio
-	religion = "celestism"
-	culture = "gaucho"
-	female = no
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_joinville = {
-	name = Rudolf
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_s_o_bento_do_sul = {
-	name = Lampert
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
 	2639.1.1 = {
 		birth = yes
 	}
@@ -910,178 +778,34 @@ character_c_br_26_s_o_bento_do_sul = {
 		death = yes
 	}
 }
-character_c_br_26_jaragu_do_sul = {
-	name = Stephan
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_florian_polis = {
-	name = Vera
-	religion = "kardecist"
-	culture = "barriga-verde"
-	female = yes
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_palho_a = {
-	name = Epit_a_act_cio
+character_c_br_18_marechal_c_ndido_rondon = {
+	name = Luiz
 	religion = "celestism"
-	culture = "barriga-verde"
+	culture = "paranaense"
 	female = no
-	2605.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_26_brusque = {
-	name = Gerhard
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_bigua_u = {
-	name = Eni
-	religion = "celestism"
-	culture = "barriga-verde"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_blumenau = {
-	name = Hartneid
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_itaja_ = {
-	name = Nilson
-	religion = "celestism"
-	culture = "barriga-verde"
-	female = no
-	2616.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_rio_do_sul = {
-	name = Werigand
-	religion = "nonconformism"
-	culture = "hunsrickisch"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_crici_ma = {
-	name = Ismael
-	religion = "celestism"
-	culture = "barriga-verde"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_s_o_jos_ = {
-	name = Vanessa
-	religion = "celestism"
-	culture = "barriga-verde"
-	female = yes
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_imbituba = {
-	name = Fabiano
-	religion = "celestism"
-	culture = "barriga-verde"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_chapec_ = {
-	name = L_e_act_lia
-	religion = "celestism"
-	culture = "gaucho"
-	female = yes
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_26_conc_rdia = {
-	name = Leonardo
+character_c_br_18_moreira_sales = {
+	name = Aurelia
 	religion = "celestism"
 	culture = "talian"
-	female = no
-	2642.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_26_capinzal = {
-	name = Ezio
-	religion = "celestism"
-	culture = "talian"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_14_bernardo_de_irigoyen = {
-	name = Adelmio
-	religion = "celestism"
-	culture = "talian"
+character_c_br_18_guarapuava = {
+	name = Nikita
+	religion = "byzantine_rite"
+	culture = "ruteno"
 	female = no
 	2597.1.1 = {
 		birth = yes
@@ -1090,10 +814,166 @@ character_c_ar_14_bernardo_de_irigoyen = {
 		death = yes
 	}
 }
-character_c_br_26_lages = {
-	name = Rodrigo
+character_c_br_18_irati = {
+	name = Iziaslav
+	religion = "byzantine_rite"
+	culture = "ruteno"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_uni_o_da_vit_ria = {
+	name = Stanislav
+	religion = "byzantine_rite"
+	culture = "ruteno"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_pitanga = {
+	name = Vsevolod
+	religion = "byzantine_rite"
+	culture = "ruteno"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_francisco_beltr_o = {
+	name = Zeca
+	religion = "celestism"
+	culture = "gaucho"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_pato_branco = {
+	name = Lila
+	religion = "celestism"
+	culture = "gaucho"
+	female = yes
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_18_padre_ponciano = {
+	name = Roque
+	religion = "celestism"
+	culture = "gaucho"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_joinville = {
+	name = Gebhard
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_s_o_bento_do_sul = {
+	name = Wolfram
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_jaragu_do_sul = {
+	name = Eilika
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = yes
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_florian_polis = {
+	name = Juarez
+	religion = "kardecist"
+	culture = "barriga-verde"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_palho_a = {
+	name = Andreia
 	religion = "celestism"
 	culture = "barriga-verde"
+	female = yes
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_brusque = {
+	name = Ellenhard
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = no
+	2615.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_bigua_u = {
+	name = Roland
+	religion = "celestism"
+	culture = "barriga-verde"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_blumenau = {
+	name = Anno
+	religion = "nonconformism"
+	culture = "hunsrickisch"
 	female = no
 	2635.1.1 = {
 		birth = yes
@@ -1102,12 +982,132 @@ character_c_br_26_lages = {
 		death = yes
 	}
 }
-character_c_br_26_ca_ador = {
-	name = Adelmo
+character_c_br_26_itaja_ = {
+	name = Cl_e_act_sio
+	religion = "celestism"
+	culture = "barriga-verde"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_rio_do_sul = {
+	name = Anno
+	religion = "nonconformism"
+	culture = "hunsrickisch"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_crici_ma = {
+	name = Camila
+	religion = "celestism"
+	culture = "barriga-verde"
+	female = yes
+	2622.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_s_o_jos_ = {
+	name = Geraldo
+	religion = "celestism"
+	culture = "barriga-verde"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_imbituba = {
+	name = Rodrigo
+	religion = "celestism"
+	culture = "barriga-verde"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_chapec_ = {
+	name = P_e_act_ricles
+	religion = "celestism"
+	culture = "gaucho"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_conc_rdia = {
+	name = Raimondo
 	religion = "celestism"
 	culture = "talian"
 	female = no
-	2619.1.1 = {
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_capinzal = {
+	name = Gianfranco
+	religion = "celestism"
+	culture = "talian"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_14_bernardo_de_irigoyen = {
+	name = Aimone
+	religion = "celestism"
+	culture = "talian"
+	female = no
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_lages = {
+	name = Udo
+	religion = "celestism"
+	culture = "barriga-verde"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_26_ca_ador = {
+	name = Fiorello
+	religion = "celestism"
+	culture = "talian"
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1115,11 +1115,11 @@ character_c_br_26_ca_ador = {
 	}
 }
 character_c_br_26_s_o_joaquim = {
-	name = Otac_i_act_lio
+	name = Neuto
 	religion = "celestism"
 	culture = "barriga-verde"
 	female = no
-	2593.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

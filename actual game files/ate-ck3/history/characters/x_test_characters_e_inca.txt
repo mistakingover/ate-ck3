@@ -1,9 +1,9 @@
 character_c_pe_lma_lima = {
-	name = rimense_placeholder_mnames
+	name = rimense_placeholder_fnames
 	religion = "liberationism"
 	culture = "rimense"
-	female = no
-	2636.1.1 = {
+	female = yes
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_pe_lma_lima = {
 	}
 }
 character_c_pe_15_chosica = {
-	name = rimense_placeholder_fnames
+	name = rimense_placeholder_mnames
 	religion = "liberationism"
 	culture = "rimense"
-	female = yes
-	2625.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,7 +27,7 @@ character_c_pe_15_huacho = {
 	religion = "liberationism"
 	culture = "nortechicano"
 	female = no
-	2600.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -39,7 +39,7 @@ character_c_pe_15_imperial = {
 	religion = "camino_estelar"
 	culture = "rimense"
 	female = yes
-	2592.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -51,7 +51,7 @@ character_c_pe_15_huaral = {
 	religion = "liberationism"
 	culture = "rimense"
 	female = no
-	2635.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_pe_15_huaral = {
 	}
 }
 character_c_pe_12_huancayo = {
-	name = wanka_placeholder_mnames
+	name = Hildebrando
 	religion = "israelite"
 	culture = "wanka"
 	female = no
-	2635.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,46 +71,10 @@ character_c_pe_12_huancayo = {
 	}
 }
 character_c_pe_19_cerro_de_pasco = {
-	name = wanka_placeholder_mnames
+	name = Hern_a_act_n
 	religion = "liberationism"
 	culture = "wanka"
 	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_12_tarma = {
-	name = wanka_placeholder_mnames
-	religion = "divina_chicha"
-	culture = "wanka"
-	female = no
-	2605.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_09_huancavelica = {
-	name = wanka_placeholder_mnames
-	religion = "israelite"
-	culture = "wanka"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_05_santa_rosa = {
-	name = Beatriz
-	religion = "inti_religion"
-	culture = "selvalteno"
-	female = yes
 	2618.1.1 = {
 		birth = yes
 	}
@@ -118,12 +82,48 @@ character_c_pe_05_santa_rosa = {
 		death = yes
 	}
 }
+character_c_pe_12_tarma = {
+	name = Efra_i_act_n
+	religion = "divina_chicha"
+	culture = "wanka"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pe_09_huancavelica = {
+	name = Abelardo
+	religion = "israelite"
+	culture = "wanka"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pe_05_santa_rosa = {
+	name = David
+	religion = "inti_religion"
+	culture = "selvalteno"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_pe_11_ica = {
-	name = iqueno_placeholder_mnames
+	name = iqueno_placeholder_fnames
 	religion = "camino_estelar"
 	culture = "iqueno"
-	female = no
-	2654.1.1 = {
+	female = yes
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -135,7 +135,7 @@ character_c_pe_11_chincha_alta = {
 	religion = "camino_estelar"
 	culture = "iqueno"
 	female = no
-	2596.1.1 = {
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -147,7 +147,7 @@ character_c_pe_11_nazca = {
 	religion = "camino_estelar"
 	culture = "iqueno"
 	female = no
-	2609.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -159,7 +159,7 @@ character_c_pe_11_santiago = {
 	religion = "camino_estelar"
 	culture = "iqueno"
 	female = no
-	2605.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_pe_11_santiago = {
 	}
 }
 character_c_pe_12_santa_rosa = {
-	name = Mois_e_act_s
+	name = N_e_act_stor
 	religion = "israelite"
 	culture = "selvalteno"
 	female = no
-	2654.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_pe_12_santa_rosa = {
 	}
 }
 character_c_pe_12_san_ram_n = {
-	name = wanka_placeholder_mnames
+	name = P_i_act_o
 	religion = "israelite"
 	culture = "wanka"
 	female = no
-	2590.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_pe_12_san_ram_n = {
 	}
 }
 character_c_pe_19_oxapampa = {
-	name = Omar
+	name = Freddy
 	religion = "israelite"
 	culture = "selvalteno"
 	female = no
-	2626.1.1 = {
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -207,7 +207,7 @@ character_c_pe_04_arequipa = {
 	religion = "rosalimense"
 	culture = "arequipeno"
 	female = no
-	2594.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -219,7 +219,7 @@ character_c_pe_21_huancane = {
 	religion = "inti_religion"
 	culture = "arequipeno"
 	female = no
-	2592.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -231,7 +231,7 @@ character_c_pe_04_mollendo = {
 	religion = "rosalimense"
 	culture = "arequipeno"
 	female = no
-	2608.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_pe_04_mollendo = {
 	}
 }
 character_c_pe_04_caman_ = {
-	name = arequipeno_placeholder_mnames
+	name = arequipeno_placeholder_fnames
 	religion = "rosalimense"
 	culture = "arequipeno"
-	female = no
-	2639.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -255,7 +255,7 @@ character_c_pe_04_huaynacotas = {
 	religion = "rosalimense"
 	culture = "arequipeno"
 	female = no
-	2653.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_pe_04_huaynacotas = {
 	}
 }
 character_c_pe_04_acar_ = {
-	name = iqueno_placeholder_fnames
+	name = iqueno_placeholder_mnames
 	religion = "rosalimense"
 	culture = "iqueno"
-	female = yes
-	2591.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,7 +279,7 @@ character_c_pe_04_piuca = {
 	religion = "rosalimense"
 	culture = "arequipeno"
 	female = no
-	2647.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,70 +287,10 @@ character_c_pe_04_piuca = {
 	}
 }
 character_c_pe_08_cusco = {
-	name = Felipe
+	name = Luc_i_act_a
 	religion = "inti_religion"
 	culture = "quechua"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_08_sicuani = {
-	name = Zen_o_act_n
-	religion = "inti_religion"
-	culture = "quechua"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_03_de_apur_mac = {
-	name = Melqu_i_act_ades
-	religion = "inti_religion"
-	culture = "quechua"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_08_santa_ana = {
-	name = Hip_o_act_lito
-	religion = "israelite"
-	culture = "selvalteno"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_21_juliaca = {
-	name = Constancio
-	religion = "inti_religion"
-	culture = "aymara"
-	female = no
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_21_puno = {
-	name = Macario
-	religion = "inti_religion"
-	culture = "aymara"
-	female = no
+	female = yes
 	2660.1.1 = {
 		birth = yes
 	}
@@ -358,12 +298,72 @@ character_c_pe_21_puno = {
 		death = yes
 	}
 }
+character_c_pe_08_sicuani = {
+	name = Valerio
+	religion = "inti_religion"
+	culture = "quechua"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pe_03_de_apur_mac = {
+	name = Te_o_act_filo
+	religion = "inti_religion"
+	culture = "quechua"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pe_08_santa_ana = {
+	name = Julieta
+	religion = "israelite"
+	culture = "selvalteno"
+	female = yes
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pe_21_juliaca = {
+	name = Jos_e_act_
+	religion = "inti_religion"
+	culture = "aymara"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pe_21_puno = {
+	name = N_e_act_lida
+	religion = "inti_religion"
+	culture = "aymara"
+	female = yes
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_pe_21_la = {
-	name = Braulio
+	name = Miguel
 	religion = "inti_religion"
 	culture = "kolla"
 	female = no
-	2605.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_pe_21_la = {
 	}
 }
 character_c_pe_21_ayaviri = {
-	name = Valeriano
+	name = Cupertino
 	religion = "inti_religion"
 	culture = "aymara"
 	female = no
-	2610.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_pe_21_ayaviri = {
 	}
 }
 character_c_pe_21_juli = {
-	name = Mariano
+	name = A_act_ngel
 	religion = "inti_religion"
 	culture = "aymara"
-	female = no
-	2614.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_pe_21_juli = {
 	}
 }
 character_c_pe_23_tacna = {
-	name = ileno_placeholder_mnames
+	name = ileno_placeholder_fnames
 	religion = "rosalimense"
 	culture = "ileno"
-	female = no
-	2636.1.1 = {
+	female = yes
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_pe_23_tacna = {
 	}
 }
 character_c_pe_18_ilo = {
-	name = ileno_placeholder_fnames
+	name = ileno_placeholder_mnames
 	religion = "rosalimense"
 	culture = "ileno"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -423,7 +423,7 @@ character_c_pe_23_chuquitira = {
 	religion = "rosalimense"
 	culture = "ileno"
 	female = no
-	2652.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -435,7 +435,7 @@ character_c_pe_18_cambrune = {
 	religion = "rosalimense"
 	culture = "ileno"
 	female = no
-	2597.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,20 +443,8 @@ character_c_pe_18_cambrune = {
 	}
 }
 character_c_pe_05_ayacucho = {
-	name = Zen_o_act_n
+	name = Vidal
 	religion = "inti_religion"
-	culture = "quechua"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pe_05_puquio = {
-	name = Eufemio
-	religion = "rosalimense"
 	culture = "quechua"
 	female = no
 	2625.1.1 = {
@@ -466,12 +454,24 @@ character_c_pe_05_puquio = {
 		death = yes
 	}
 }
+character_c_pe_05_puquio = {
+	name = Wilbert
+	religion = "rosalimense"
+	culture = "quechua"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_bo_02_cochabamba = {
-	name = Gonzalo
+	name = Jaime
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2593.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_bo_02_cochabamba = {
 	}
 }
 character_c_bo_02_tunari = {
-	name = Yesenia
+	name = Jos_e_act__Manuel
 	religion = "particularist"
 	culture = "camba"
-	female = yes
-	2620.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_bo_02_tunari = {
 	}
 }
 character_c_bo_08_comarapa = {
-	name = Eduardo
+	name = C_e_act_sar
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2603.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_bo_08_comarapa = {
 	}
 }
 character_c_bo_04_el_alto = {
-	name = Enrique
+	name = David
 	religion = "pachamama_religion"
 	culture = "kolla"
 	female = no
-	2627.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_bo_04_el_alto = {
 	}
 }
 character_c_bo_04_patacamaya = {
-	name = M_a_act_ximo
+	name = Jos_e_act__Mar_i_act_a
 	religion = "pachamama_religion"
 	culture = "aymara"
 	female = no
-	2599.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,11 +527,11 @@ character_c_bo_04_patacamaya = {
 	}
 }
 character_c_bo_04_jes_s_de_machaca = {
-	name = Eliodoro
+	name = Carlos
 	religion = "pachamama_religion"
 	culture = "aymara"
 	female = no
-	2609.1.1 = {
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_bo_04_jes_s_de_machaca = {
 	}
 }
 character_c_bo_04_sorata = {
-	name = Andr_e_act_s
+	name = Rosa
 	religion = "santa_diablada"
 	culture = "kolla"
-	female = no
-	2619.1.1 = {
+	female = yes
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_bo_04_sorata = {
 	}
 }
 character_c_bo_01_sucre = {
-	name = Ildefonso
+	name = Fernando
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2626.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_bo_01_sucre = {
 	}
 }
 character_c_bo_09_tarija = {
-	name = Sergio
+	name = Juan
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2618.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -579,7 +579,7 @@ character_c_bo_09_yacuiba = {
 	religion = "pentecostalism"
 	culture = "wichi"
 	female = yes
-	2650.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_bo_09_yacuiba = {
 	}
 }
 character_c_bo_08_camiri = {
-	name = Rodrigo
+	name = Marcela
 	religion = "particularist"
 	culture = "kolla"
-	female = no
-	2610.1.1 = {
+	female = yes
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_bo_08_camiri = {
 	}
 }
 character_c_bo_01_monteagudo = {
-	name = Adela
+	name = Ana_Paula
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = yes
-	2641.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_bo_01_monteagudo = {
 	}
 }
 character_c_bo_08_gutierrez = {
-	name = Ren_e_act_
+	name = Omar
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2618.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_bo_08_gutierrez = {
 	}
 }
 character_c_bo_05_oruro = {
-	name = Juan_Carlos
+	name = Santos
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2645.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_bo_05_oruro = {
 	}
 }
 character_c_bo_07_potos_ = {
-	name = Luis
+	name = Edwin
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2631.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_bo_07_potos_ = {
 	}
 }
 character_c_bo_07_llallagua = {
-	name = C_e_act_sar
+	name = Ronald
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2652.1.1 = {
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -659,11 +659,11 @@ character_c_bo_07_llallagua = {
 	}
 }
 character_c_bo_07_tupiza = {
-	name = Gualberto
+	name = Mario
 	religion = "pachamama_religion"
 	culture = "aymara"
 	female = no
-	2592.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_bo_07_tupiza = {
 	}
 }
 character_c_bo_05_challapata = {
-	name = Ollanta
+	name = Alfredo
 	religion = "santa_diablada"
 	culture = "quechua"
 	female = no
-	2591.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,11 +683,11 @@ character_c_bo_05_challapata = {
 	}
 }
 character_c_bo_07_uyuni = {
-	name = Grimaldo
+	name = Domingo
 	religion = "pachamama_religion"
 	culture = "quechua"
 	female = no
-	2631.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -695,11 +695,11 @@ character_c_bo_07_uyuni = {
 	}
 }
 character_c_bo_07_betanzos = {
-	name = Ildefonso
+	name = Esteban
 	religion = "santa_diablada"
 	culture = "kolla"
 	female = no
-	2619.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,9 +707,33 @@ character_c_bo_07_betanzos = {
 	}
 }
 character_c_bo_07_cotagaita = {
-	name = Jos_e_act_
+	name = Ren_e_act_
 	religion = "santa_diablada"
 	culture = "kolla"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bo_04_san_pedro_de_curahuara = {
+	name = Victoria
+	religion = "pachamama_religion"
+	culture = "aymara"
+	female = yes
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bo_05_turco = {
+	name = Melchor
+	religion = "pachamama_religion"
+	culture = "quechua"
 	female = no
 	2654.1.1 = {
 		birth = yes
@@ -718,36 +742,12 @@ character_c_bo_07_cotagaita = {
 		death = yes
 	}
 }
-character_c_bo_04_san_pedro_de_curahuara = {
-	name = Seferino
-	religion = "pachamama_religion"
-	culture = "aymara"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_bo_05_turco = {
-	name = Oswaldo
-	religion = "pachamama_religion"
-	culture = "quechua"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_bo_05_salinas_de_garc_a_mendoza = {
-	name = Tania
+	name = Francisco
 	religion = "pachamama_religion"
 	culture = "quechua"
-	female = yes
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_bo_05_salinas_de_garc_a_mendoza = {
 	}
 }
 character_c_bo_05_corque = {
-	name = Lorenzo
+	name = Rumi_n_tld_ahui
 	religion = "santa_diablada"
 	culture = "quechua"
 	female = no
-	2612.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_bo_05_corque = {
 	}
 }
 character_c_bo_07_llica = {
-	name = Cristian
+	name = Eugenia
 	religion = "pachamama_religion"
 	culture = "quechua"
-	female = no
-	2636.1.1 = {
+	female = yes
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_bo_07_llica = {
 	}
 }
 character_c_bo_05_sabaya = {
-	name = Esteban
+	name = Ger_o_act_nimo
 	religion = "pachamama_religion"
 	culture = "quechua"
 	female = no
-	2627.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -791,11 +791,11 @@ character_c_bo_05_sabaya = {
 	}
 }
 character_c_bo_02_ayopaya = {
-	name = Julieta
+	name = Griselda
 	religion = "pachamama_religion"
 	culture = "kolla"
 	female = yes
-	2628.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -803,11 +803,11 @@ character_c_bo_02_ayopaya = {
 	}
 }
 character_c_bo_04_caranavi = {
-	name = Mauricio
+	name = Evo
 	religion = "pachamama_religion"
 	culture = "kolla"
 	female = no
-	2633.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -815,11 +815,11 @@ character_c_bo_04_caranavi = {
 	}
 }
 character_c_bo_04_apolo = {
-	name = Jos_e_act__Mar_i_act_a
+	name = Javier
 	religion = "pachamama_religion"
 	culture = "kolla"
 	female = no
-	2612.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -827,11 +827,11 @@ character_c_bo_04_apolo = {
 	}
 }
 character_c_bo_04_ixiamas = {
-	name = Nemesio
+	name = Daniel
 	religion = "santa_diablada"
 	culture = "camba"
 	female = no
-	2599.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

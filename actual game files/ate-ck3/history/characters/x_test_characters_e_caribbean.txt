@@ -3,7 +3,7 @@ character_c_cu_02_havana = {
 	religion = "lucumi"
 	culture = "cubano"
 	female = no
-	2631.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_cu_02_havana = {
 	}
 }
 character_c_cu_ar_g_ira_de_melena = {
-	name = Leopoldo
+	name = Anselmo
 	religion = "insular_carribean"
 	culture = "cubano"
 	female = no
-	2625.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,7 +27,7 @@ character_c_cu_01_pinar_del_r_o = {
 	religion = "lucumi"
 	culture = "cubano"
 	female = no
-	2592.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_cu_01_pinar_del_r_o = {
 	}
 }
 character_c_cu_ma_g_ines = {
-	name = Ana
+	name = Vilma
 	religion = "insular_carribean"
 	culture = "cubano"
 	female = yes
-	2600.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,7 +47,7 @@ character_c_cu_ma_g_ines = {
 	}
 }
 character_c_cu_01_minas_de_matahambre = {
-	name = Gonzalo
+	name = Jorge
 	religion = "lucumi"
 	culture = "cubano"
 	female = no
@@ -59,11 +59,11 @@ character_c_cu_01_minas_de_matahambre = {
 	}
 }
 character_c_cu_04_nueva_gerona = {
-	name = Ram_o_act_n
+	name = Ignacio
 	religion = "insular_carribean"
 	culture = "cubano"
 	female = no
-	2641.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,80 +71,8 @@ character_c_cu_04_nueva_gerona = {
 	}
 }
 character_c_cu_15_santiago_de_cuba = {
-	name = Obdulio
+	name = C_e_act_sar
 	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_12_holgu_n = {
-	name = Servando
-	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_10_guant_namo = {
-	name = Te_o_act_filo
-	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_09_bayamo = {
-	name = O_act_scar
-	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_09_manzanillo = {
-	name = Rodolfo
-	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_12_moa = {
-	name = Nicol_a_act_s
-	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_16_santa_clara = {
-	name = Te_o_act_filo
-	religion = "insular_carribean"
 	culture = "cubano"
 	female = no
 	2647.1.1 = {
@@ -154,12 +82,84 @@ character_c_cu_16_santa_clara = {
 		death = yes
 	}
 }
+character_c_cu_12_holgu_n = {
+	name = Sigfredo
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cu_10_guant_namo = {
+	name = Nelson
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cu_09_bayamo = {
+	name = Rigoberto
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cu_09_manzanillo = {
+	name = Baldomero
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cu_12_moa = {
+	name = Rub_e_act_n
+	religion = "lucumi"
+	culture = "cubano"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cu_16_santa_clara = {
+	name = Yuniel
+	religion = "insular_carribean"
+	culture = "cubano"
+	female = no
+	2644.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_cu_03_matanzas = {
-	name = Lisandra
+	name = Tamara
 	religion = "lucumi"
 	culture = "cubano"
 	female = yes
-	2631.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_cu_03_matanzas = {
 	}
 }
 character_c_cu_14_sancti_sp_ritus = {
-	name = Tom_a_act_s
+	name = Mar_i_act_a_Margarita
 	religion = "insular_carribean"
 	culture = "cubano"
-	female = no
-	2593.1.1 = {
+	female = yes
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_cu_14_sancti_sp_ritus = {
 	}
 }
 character_c_cu_08_cienfuegos = {
-	name = V_i_act_ctor
+	name = Servando
 	religion = "lucumi"
 	culture = "cubano"
 	female = no
-	2621.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_cu_08_cienfuegos = {
 	}
 }
 character_c_cu_03_jag_ey_grande = {
-	name = Matilde
+	name = Octavio
 	religion = "lucumi"
 	culture = "cubano"
-	female = yes
-	2611.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_cu_03_jag_ey_grande = {
 	}
 }
 character_c_cu_05_camag_ey = {
-	name = Alberto
+	name = Yordan
 	religion = "insular_carribean"
 	culture = "cubano"
 	female = no
-	2614.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,118 +215,10 @@ character_c_cu_05_camag_ey = {
 	}
 }
 character_c_cu_13_las_tunas = {
-	name = Fidel
+	name = Isolina
 	religion = "lucumi"
 	culture = "cubano"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_07_ciego_de_vila = {
-	name = Abel
-	religion = "insular_carribean"
-	culture = "cubano"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_07_mor_n = {
-	name = Efra_i_act_n
-	religion = "insular_carribean"
-	culture = "cubano"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cu_05_gu_imaro = {
-	name = Rub_e_act_n
-	religion = "lucumi"
-	culture = "cubano"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_34_santo_domingo = {
-	name = Hugo
-	religion = "insular_carribean"
-	culture = "quisqueyano"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_33_de_san_crist_bal = {
-	name = Tito
-	religion = "insular_carribean"
-	culture = "quisqueyano"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_12_de_la_romana = {
-	name = Juan_Isidro
-	religion = "lucumi"
-	culture = "quisqueyano"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_24_san_pedro_de_macor_s = {
-	name = Sixto
-	religion = "voodoo"
-	culture = "quisqueyano"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_03_de_barahona = {
-	name = Arlenis
-	religion = "vodou"
-	culture = "quisqueyano"
 	female = yes
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_23_de_san_juan = {
-	name = Radam_e_act_s
-	religion = "vodou"
-	culture = "quisqueyano"
-	female = no
 	2624.1.1 = {
 		birth = yes
 	}
@@ -334,45 +226,69 @@ character_c_do_23_de_san_juan = {
 		death = yes
 	}
 }
-character_c_do_25_santiago_de_los_caballeros = {
-	name = Zoila
-	religion = "lucumi"
-	culture = "quisqueyano"
-	female = yes
-	2628.1.1 = {
+character_c_cu_07_ciego_de_vila = {
+	name = L_a_act_zaro
+	religion = "insular_carribean"
+	culture = "cubano"
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_do_30_dominican = {
-	name = Octavio
+character_c_cu_07_mor_n = {
+	name = Margarita
+	religion = "insular_carribean"
+	culture = "cubano"
+	female = yes
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cu_05_gu_imaro = {
+	name = Sandra
 	religion = "lucumi"
+	culture = "cubano"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_do_34_santo_domingo = {
+	name = Esteban
+	religion = "insular_carribean"
 	culture = "quisqueyano"
 	female = no
-	2603.1.1 = {
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_do_06_san_francisco_de_macor_s = {
-	name = Yadira
-	religion = "voodoo"
-	culture = "quisqueyano"
-	female = yes
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_do_26_de_santiago_rodr_guez = {
-	name = Licelott
+character_c_do_33_de_san_crist_bal = {
+	name = Pl_a_act_cido
 	religion = "insular_carribean"
+	culture = "quisqueyano"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_do_12_de_la_romana = {
+	name = B_e_act_lgica
+	religion = "lucumi"
 	culture = "quisqueyano"
 	female = yes
 	2616.1.1 = {
@@ -382,191 +298,11 @@ character_c_do_26_de_santiago_rodr_guez = {
 		death = yes
 	}
 }
-character_c_ht_11_port_au_prince = {
-	name = Nathalie
-	religion = "vodou"
-	culture = "haitian"
-	female = yes
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_14_j_r_mie = {
-	name = Genevieve
-	religion = "vodou"
-	culture = "haitian"
-	female = yes
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_12_les_cayes = {
-	name = Fritz
-	religion = "vodou"
-	culture = "haitian"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_13_jacmel = {
-	name = Louis-Marie
-	religion = "vodou"
-	culture = "haitian"
-	female = no
-	2619.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_11_anse_galets = {
-	name = Michel-Rolph
-	religion = "vodou"
-	culture = "haitian"
-	female = no
-	2612.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_03_port_de_paix = {
-	name = Florvil
-	religion = "vodou"
-	culture = "haitian"
-	female = no
-	2615.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_09_okap = {
-	name = Jean-Fernand
-	religion = "insular_carribean"
-	culture = "haitian"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_06_gona_ves = {
-	name = Golman
-	religion = "vodou"
-	culture = "haitian"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_07_centre = {
-	name = Fritz-William
-	religion = "vodou"
-	culture = "haitian"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ht_03_premi_re_pointe_des_oiseaux = {
-	name = Thomas-Alexandre
-	religion = "brethren"
-	culture = "haitian"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pr_127_san_juan = {
-	name = Iv_a_act_n
-	religion = "insular_carribean"
-	culture = "boricua"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pr_113_ponce = {
-	name = Teodoro
-	religion = "insular_carribean"
-	culture = "boricua"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pr_025_caguas = {
-	name = Augusto
-	religion = "insular_carribean"
-	culture = "boricua"
-	female = no
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_pr_097_mayag_ez = {
-	name = Mayra
-	religion = "insular_carribean"
-	culture = "boricua"
-	female = yes
-	2655.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gp_gp_de_pointe_pitre = {
-	name = Victorin
+character_c_do_24_san_pedro_de_macor_s = {
+	name = Jorge
 	religion = "voodoo"
-	culture = "venteux"
+	culture = "quisqueyano"
 	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mq_mq_de_fort_de_france = {
-	name = Nathalie
-	religion = "voodoo"
-	culture = "venteux"
-	female = yes
 	2651.1.1 = {
 		birth = yes
 	}
@@ -574,202 +310,34 @@ character_c_mq_mq_de_fort_de_france = {
 		death = yes
 	}
 }
-character_c_dm_04_roseau = {
-	name = Malick
-	religion = "voodoo"
-	culture = "venteux"
+character_c_do_03_de_barahona = {
+	name = Jos_e_act__Miguel
+	religion = "vodou"
+	culture = "quisqueyano"
 	female = no
-	2634.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_tt_cha_chaguanas = {
-	name = Anacleto
-	religion = "twelve_tribes"
-	culture = "guayanes"
-	female = no
-	2606.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tt_05_port_of_spain = {
-	name = Modesta
-	religion = "twelve_tribes"
-	culture = "margariteno"
+character_c_do_23_de_san_juan = {
+	name = Natasha
+	religion = "vodou"
+	culture = "quisqueyano"
 	female = yes
-	2633.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_tt_11_scarborough = {
-	name = Wayne
-	religion = "twelve_tribes"
-	culture = "calypsonian"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ve_17_porlamar = {
-	name = Agis
-	religion = "tres_potencias"
-	culture = "margariteno"
-	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_aw_00_oranjestad = {
-	name = Luis
-	religion = "tres_potencias"
-	culture = "guaro"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ve_11_la_florida = {
-	name = Ludwig
-	religion = "brethren"
-	culture = "papiamen"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ve_24_los_roques = {
-	name = Gerrit
-	religion = "brethren"
-	culture = "papiamen"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_bb_08_bridgetown = {
-	name = Chante
-	religion = "brethren"
-	culture = "calypsonian"
-	female = yes
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lc_03_castries = {
-	name = Georges
-	religion = "twelve_tribes"
-	culture = "venteux"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_vc_04_kingstown = {
-	name = Patrick
-	religion = "twelve_tribes"
-	culture = "calypsonian"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gd_03_saint_george_s = {
-	name = Vere
-	religion = "twelve_tribes"
-	culture = "calypsonian"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_vi_010_saint_croix = {
-	name = Ralph
-	religion = "insular_carribean"
-	culture = "calypsonian"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ag_04_saint_john_s = {
-	name = Raheem
-	religion = "twelve_tribes"
-	culture = "calypsonian"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_kn__basseterre = {
-	name = Lloyd
-	religion = "twelve_tribes"
-	culture = "calypsonian"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ai_00_the_valley = {
-	name = Imran
-	religion = "twelve_tribes"
-	culture = "calypsonian"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_jm_08_kingston = {
-	name = Ledley
-	religion = "bobo_ashanti"
-	culture = "west_indian"
+character_c_do_25_santiago_de_los_caballeros = {
+	name = On_e_act_simo
+	religion = "lucumi"
+	culture = "quisqueyano"
 	female = no
 	2601.1.1 = {
 		birth = yes
@@ -778,82 +346,322 @@ character_c_jm_08_kingston = {
 		death = yes
 	}
 }
-character_c_jm_10_spanish_town = {
-	name = Michael
-	religion = "twelve_tribes"
-	culture = "west_indian"
+character_c_do_30_dominican = {
+	name = Milton
+	religion = "lucumi"
+	culture = "quisqueyano"
 	female = no
-	2641.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_jm_12_montego_bay = {
-	name = Hazel
-	religion = "twelve_tribes"
-	culture = "west_indian"
+character_c_do_06_san_francisco_de_macor_s = {
+	name = Zoila
+	religion = "voodoo"
+	culture = "quisqueyano"
 	female = yes
-	2608.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_jm_10_linstead = {
-	name = Wilbert
-	religion = "twelve_tribes"
-	culture = "west_indian"
+character_c_do_26_de_santiago_rodr_guez = {
+	name = Jarlin
+	religion = "insular_carribean"
+	culture = "quisqueyano"
 	female = no
-	2597.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_bs_23_nassau = {
-	name = Duncan
-	religion = "twelve_tribes"
-	culture = "west_indian"
+character_c_ht_11_port_au_prince = {
+	name = Jonathan
+	religion = "vodou"
+	culture = "haitian"
 	female = no
-	2598.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_bs_25_lucaya = {
-	name = Omar
-	religion = "twelve_tribes"
-	culture = "west_indian"
+character_c_ht_14_j_r_mie = {
+	name = Jean-Fernand
+	religion = "vodou"
+	culture = "haitian"
 	female = no
-	2611.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_bs_47_san_andros = {
-	name = Leonard
-	religion = "twelve_tribes"
-	culture = "west_indian"
+character_c_ht_12_les_cayes = {
+	name = Nicole
+	religion = "vodou"
+	culture = "haitian"
+	female = yes
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ht_13_jacmel = {
+	name = Golman
+	religion = "vodou"
+	culture = "haitian"
 	female = no
-	2626.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_tc_00_cockburn_town = {
-	name = Lensley
+character_c_ht_11_anse_galets = {
+	name = Dumas
+	religion = "vodou"
+	culture = "haitian"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ht_03_port_de_paix = {
+	name = Ob_e_act_nard
+	religion = "vodou"
+	culture = "haitian"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ht_09_okap = {
+	name = Robert
+	religion = "insular_carribean"
+	culture = "haitian"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ht_06_gona_ves = {
+	name = Thony
+	religion = "vodou"
+	culture = "haitian"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ht_07_centre = {
+	name = Sylvain
+	religion = "vodou"
+	culture = "haitian"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ht_03_premi_re_pointe_des_oiseaux = {
+	name = Didier
+	religion = "brethren"
+	culture = "haitian"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pr_127_san_juan = {
+	name = V_i_act_ctor
+	religion = "insular_carribean"
+	culture = "boricua"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pr_113_ponce = {
+	name = Concha
+	religion = "insular_carribean"
+	culture = "boricua"
+	female = yes
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pr_025_caguas = {
+	name = Alejandro
+	religion = "insular_carribean"
+	culture = "boricua"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pr_097_mayag_ez = {
+	name = Ernesto
+	religion = "insular_carribean"
+	culture = "boricua"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gp_gp_de_pointe_pitre = {
+	name = David
+	religion = "voodoo"
+	culture = "venteux"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mq_mq_de_fort_de_france = {
+	name = Antoine
+	religion = "voodoo"
+	culture = "venteux"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_dm_04_roseau = {
+	name = Charles
+	religion = "voodoo"
+	culture = "venteux"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tt_cha_chaguanas = {
+	name = Giovanni
 	religion = "twelve_tribes"
-	culture = "west_indian"
+	culture = "guayanes"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tt_05_port_of_spain = {
+	name = Lacedem_o_act_n
+	religion = "twelve_tribes"
+	culture = "margariteno"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tt_11_scarborough = {
+	name = Alfonso
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = no
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ve_17_porlamar = {
+	name = Marta
+	religion = "tres_potencias"
+	culture = "margariteno"
+	female = yes
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_aw_00_oranjestad = {
+	name = M_a_act_ximo
+	religion = "tres_potencias"
+	culture = "guaro"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ve_11_la_florida = {
+	name = Paul
+	religion = "brethren"
+	culture = "papiamen"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ve_24_los_roques = {
+	name = Rutger
+	religion = "brethren"
+	culture = "papiamen"
 	female = no
 	2635.1.1 = {
 		birth = yes
@@ -862,12 +670,204 @@ character_c_tc_00_cockburn_town = {
 		death = yes
 	}
 }
-character_c_ky_10346796_george_town = {
-	name = Justin
+character_c_bb_08_bridgetown = {
+	name = Wendy
+	religion = "brethren"
+	culture = "calypsonian"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_lc_03_castries = {
+	name = Lo_i_uml_c
+	religion = "twelve_tribes"
+	culture = "venteux"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_vc_04_kingstown = {
+	name = Kendall
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gd_03_saint_george_s = {
+	name = Delwayne
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_vi_010_saint_croix = {
+	name = Teyana
+	religion = "insular_carribean"
+	culture = "calypsonian"
+	female = yes
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ag_04_saint_john_s = {
+	name = Pearl
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = yes
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kn__basseterre = {
+	name = Wilmoth
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ai_00_the_valley = {
+	name = Wilmoth
+	religion = "twelve_tribes"
+	culture = "calypsonian"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_jm_08_kingston = {
+	name = Cuthbert
+	religion = "bobo_ashanti"
+	culture = "west_indian"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_jm_10_spanish_town = {
+	name = Paula
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_jm_12_montego_bay = {
+	name = Stanley
 	religion = "twelve_tribes"
 	culture = "west_indian"
 	female = no
-	2594.1.1 = {
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_jm_10_linstead = {
+	name = Joseph
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bs_23_nassau = {
+	name = Clive
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = no
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bs_25_lucaya = {
+	name = Forbes
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bs_47_san_andros = {
+	name = Kim
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = yes
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tc_00_cockburn_town = {
+	name = Duncan
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ky_10346796_george_town = {
+	name = Sheila
+	religion = "twelve_tribes"
+	culture = "west_indian"
+	female = yes
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -875,11 +875,11 @@ character_c_ky_10346796_george_town = {
 	}
 }
 character_c_bs_15_clarence_town = {
-	name = Victor
+	name = James
 	religion = "twelve_tribes"
 	culture = "west_indian"
 	female = no
-	2629.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

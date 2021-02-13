@@ -3,7 +3,7 @@ character_c_us_co_denver = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2629.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -15,7 +15,7 @@ character_c_us_co_colorado_springs = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = yes
-	2643.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_us_co_colorado_springs = {
 	}
 }
 character_c_us_co_sterling = {
-	name = Gage
+	name = Clark
 	religion = "real_road"
 	culture = "grangelander"
 	female = no
-	2607.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_us_co_sterling = {
 	}
 }
 character_c_us_co_lamar = {
-	name = Bartholomew
+	name = Tom
 	religion = "catholic"
 	culture = "grangelander"
 	female = no
-	2643.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_us_co_lamar = {
 	}
 }
 character_c_us_co_yuma = {
-	name = Pelham
+	name = Absalom
 	religion = "real_road"
 	culture = "grangelander"
 	female = no
-	2601.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_us_co_yuma = {
 	}
 }
 character_c_us_co_kit_carson = {
-	name = Hank
+	name = Rehoboam
 	religion = "catholic"
 	culture = "grangelander"
 	female = no
-	2603.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -87,7 +87,7 @@ character_c_us_co_fort_collins = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2616.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -99,7 +99,7 @@ character_c_us_co_breckenridge = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2647.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,7 +111,7 @@ character_c_us_co_grand_junction = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2647.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -123,7 +123,7 @@ character_c_us_co_edwards = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2604.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -135,7 +135,7 @@ character_c_us_co_durango = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2629.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -147,7 +147,7 @@ character_c_us_co_steamboat_springs = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2654.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -158,8 +158,8 @@ character_c_us_co_cortez = {
 	name = Test
 	religion = "neognostic"
 	culture = "coloradan"
-	female = no
-	2648.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -171,7 +171,7 @@ character_c_us_co_telluride = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2646.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -183,7 +183,7 @@ character_c_us_co_pueblo = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2625.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_us_co_pueblo = {
 	}
 }
 character_c_us_co_alamosa = {
-	name = Chad
+	name = Chris
 	religion = "neognostic"
 	culture = "neomexicano"
 	female = no
-	2621.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -207,7 +207,7 @@ character_c_us_co_woodland_park = {
 	religion = "neognostic"
 	culture = "coloradan"
 	female = no
-	2617.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,11 +215,11 @@ character_c_us_co_woodland_park = {
 	}
 }
 character_c_us_co_trinidad = {
-	name = Lanterloo
+	name = Apash
 	religion = "neognostic"
 	culture = "neomexicano"
 	female = no
-	2625.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_us_co_trinidad = {
 	}
 }
 character_c_us_ut_salt_lake_city = {
-	name = Harold
+	name = Mahah
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2654.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_us_ut_salt_lake_city = {
 	}
 }
 character_c_us_ut_ogden = {
-	name = Ken
+	name = Austin
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2591.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_us_ut_ogden = {
 	}
 }
 character_c_us_ut_provo = {
-	name = Lowell
+	name = Abinadi
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2654.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_us_ut_provo = {
 	}
 }
 character_c_us_ut_logan = {
-	name = Benjamin
+	name = Elizabeth
 	religion = "mormon"
 	culture = "utahn"
-	female = no
-	2634.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,70 +275,10 @@ character_c_us_ut_logan = {
 	}
 }
 character_c_us_ut_tooele = {
-	name = Isaiah
-	religion = "mormon"
-	culture = "utahn"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ut_brigham_city = {
-	name = Cynthia
+	name = Jaden
 	religion = "mormon"
 	culture = "utahn"
 	female = yes
-	2650.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ut_saint_george = {
-	name = Neum
-	religion = "mormon"
-	culture = "utahn"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ut_cedar_city = {
-	name = Body
-	religion = "mormon"
-	culture = "utahn"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ut_ephraim = {
-	name = Helaman
-	religion = "mormon"
-	culture = "utahn"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ut_richfield = {
-	name = Aminadab
-	religion = "mormon"
-	culture = "utahn"
-	female = no
 	2609.1.1 = {
 		birth = yes
 	}
@@ -346,12 +286,72 @@ character_c_us_ut_richfield = {
 		death = yes
 	}
 }
-character_c_us_ut_kanab = {
-	name = Jared
+character_c_us_ut_brigham_city = {
+	name = Teomner
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2623.1.1 = {
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ut_saint_george = {
+	name = Chandler
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ut_cedar_city = {
+	name = Douglass
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ut_ephraim = {
+	name = Pahoran
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2607.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ut_richfield = {
+	name = Marla
+	religion = "mormon"
+	culture = "utahn"
+	female = yes
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ut_kanab = {
+	name = Bradley
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_us_ut_kanab = {
 	}
 }
 character_c_us_ut_delta = {
-	name = Kib
+	name = Ronnie
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2639.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_us_ut_delta = {
 	}
 }
 character_c_us_ut_nephi = {
-	name = Amaleki
+	name = Austin
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2642.1.1 = {
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_us_ut_nephi = {
 	}
 }
 character_c_us_ut_beaver = {
-	name = Omner
+	name = Kamryn
 	religion = "mormon"
 	culture = "utahn"
-	female = no
-	2655.1.1 = {
+	female = yes
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_us_ut_beaver = {
 	}
 }
 character_c_us_ut_loa = {
-	name = Elizabeth
+	name = Helam
 	religion = "mormon"
 	culture = "utahn"
-	female = yes
-	2647.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_us_ut_loa = {
 	}
 }
 character_c_us_ut_vernal = {
-	name = Pagag
+	name = Mary
 	religion = "mormon"
 	culture = "utahn"
-	female = no
-	2643.1.1 = {
+	female = yes
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_us_ut_vernal = {
 	}
 }
 character_c_us_ut_price = {
-	name = Antipus
+	name = Cooper
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2603.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_us_ut_price = {
 	}
 }
 character_c_us_ut_moab = {
-	name = Gid
+	name = Jeffrey
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2594.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_us_ut_moab = {
 	}
 }
 character_c_us_ut_roosevelt = {
-	name = Zeram
+	name = Brandon
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2656.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_us_ut_roosevelt = {
 	}
 }
 character_c_us_ut_huntington = {
-	name = Cam
+	name = Madison
 	religion = "mormon"
 	culture = "utahn"
 	female = yes
-	2619.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_us_ut_huntington = {
 	}
 }
 character_c_us_id_boise = {
-	name = Columbia
+	name = Mulie
 	religion = "cetic"
 	culture = "inlander"
 	female = yes
-	2635.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -483,7 +483,7 @@ character_c_us_or_ontario = {
 	religion = "gaian"
 	culture = "paiute"
 	female = no
-	2628.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_us_or_ontario = {
 	}
 }
 character_c_us_id_mountain_home = {
-	name = Evelyn
+	name = Grancoulie
 	religion = "cetic"
 	culture = "inlander"
-	female = yes
-	2656.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_us_id_mountain_home = {
 	}
 }
 character_c_us_id_mccall = {
-	name = Galena
+	name = Emshaw
 	religion = "gaian"
 	culture = "inlander"
-	female = yes
-	2631.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_us_id_mccall = {
 	}
 }
 character_c_us_id_idaho_falls = {
-	name = Karl
+	name = Silveranos
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2605.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,7 +531,7 @@ character_c_us_id_twin_falls = {
 	religion = "mormon"
 	culture = "paiute"
 	female = no
-	2647.1.1 = {
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_us_id_twin_falls = {
 	}
 }
 character_c_us_id_pocatello = {
-	name = Zirkel
+	name = Trey
 	religion = "mormon"
 	culture = "mountainer"
 	female = no
-	2613.1.1 = {
+	2600.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_us_id_pocatello = {
 	}
 }
 character_c_us_id_aberdeen = {
-	name = Gavin
+	name = Buren
 	religion = "mormon"
 	culture = "mountainer"
 	female = no
-	2649.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_us_id_aberdeen = {
 	}
 }
 character_c_us_nv_jackpot = {
-	name = Morris
+	name = Tell
 	religion = "mormon"
 	culture = "mountainer"
 	female = no
-	2656.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -579,7 +579,7 @@ character_c_us_id_lewiston = {
 	religion = "peyotist"
 	culture = "nez_perce"
 	female = no
-	2647.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -591,7 +591,7 @@ character_c_us_id_riggins = {
 	religion = "peyotist"
 	culture = "nez_perce"
 	female = no
-	2635.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_us_id_riggins = {
 	}
 }
 character_c_us_mt_dillon = {
-	name = Jackson
+	name = Argent
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2641.1.1 = {
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_us_mt_dillon = {
 	}
 }
 character_c_us_id_salmon = {
-	name = Gravelle
+	name = Bouldron
 	religion = "real_road"
 	culture = "mountainer"
-	female = yes
-	2656.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_us_id_salmon = {
 	}
 }
 character_c_us_id_dubois = {
-	name = Mineran
+	name = Stonarm
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2602.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -639,7 +639,7 @@ character_c_us_wy_cheyenne = {
 	religion = "real_road"
 	culture = "coloradan"
 	female = yes
-	2597.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_us_wy_cheyenne = {
 	}
 }
 character_c_us_wy_casper = {
-	name = Leland
+	name = Emily
 	religion = "real_road"
 	culture = "mountainer"
-	female = no
-	2594.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -662,8 +662,8 @@ character_c_us_wy_casper = {
 	name = Test
 	religion = "real_road"
 	culture = "coloradan"
-	female = no
-	2614.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -675,7 +675,7 @@ character_c_us_wy_rawlins = {
 	religion = "real_road"
 	culture = "coloradan"
 	female = no
-	2638.1.1 = {
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -687,7 +687,7 @@ character_c_us_wy_douglas = {
 	religion = "real_road"
 	culture = "coloradan"
 	female = no
-	2644.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -698,8 +698,8 @@ character_c_us_wy_wamsutter = {
 	name = Test
 	religion = "real_road"
 	culture = "coloradan"
-	female = yes
-	2627.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -707,11 +707,11 @@ character_c_us_wy_wamsutter = {
 	}
 }
 character_c_us_ut_heber_city = {
-	name = Max
+	name = Jason
 	religion = "mormon"
 	culture = "utahn"
 	female = no
-	2592.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -719,11 +719,11 @@ character_c_us_ut_heber_city = {
 	}
 }
 character_c_us_wy_rock_springs = {
-	name = Angevine
+	name = Garrald
 	religion = "mormon"
 	culture = "mountainer"
-	female = yes
-	2631.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -731,69 +731,9 @@ character_c_us_wy_rock_springs = {
 	}
 }
 character_c_us_wy_evanston = {
-	name = Ammon
+	name = Merrill
 	religion = "mormon"
 	culture = "utahn"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_id_soda_springs = {
-	name = Neil
-	religion = "mormon"
-	culture = "utahn"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wy_cody = {
-	name = Abigail
-	religion = "real_road"
-	culture = "mountainer"
-	female = yes
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wy_riverton = {
-	name = Lykin
-	religion = "real_road"
-	culture = "mountainer"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wy_worland = {
-	name = David
-	religion = "real_road"
-	culture = "mountainer"
-	female = no
-	2594.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_wy_jackson = {
-	name = Ledon
-	religion = "real_road"
-	culture = "mountainer"
 	female = no
 	2635.1.1 = {
 		birth = yes
@@ -802,12 +742,72 @@ character_c_us_wy_jackson = {
 		death = yes
 	}
 }
-character_c_us_id_victor = {
-	name = Orville
+character_c_us_id_soda_springs = {
+	name = Derrick
+	religion = "mormon"
+	culture = "utahn"
+	female = no
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wy_cody = {
+	name = Edward
 	religion = "real_road"
 	culture = "mountainer"
 	female = no
-	2629.1.1 = {
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wy_riverton = {
+	name = Morris
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wy_worland = {
+	name = Brandon
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_wy_jackson = {
+	name = Barnum
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_id_victor = {
+	name = Raton
+	religion = "real_road"
+	culture = "mountainer"
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -815,11 +815,11 @@ character_c_us_id_victor = {
 	}
 }
 character_c_us_wy_pinedale = {
-	name = Hattie
+	name = Leigh
 	religion = "real_road"
 	culture = "mountainer"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -827,11 +827,11 @@ character_c_us_wy_pinedale = {
 	}
 }
 character_c_us_mt_west_yellowstone = {
-	name = Raton
+	name = Wilbur
 	religion = "gaian"
 	culture = "mountainer"
 	female = no
-	2642.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,11 +839,11 @@ character_c_us_mt_west_yellowstone = {
 	}
 }
 character_c_us_nm_enchanted_hills = {
-	name = Malachi
+	name = Morris
 	religion = "atomicist"
 	culture = "arixan"
 	female = no
-	2648.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -851,11 +851,11 @@ character_c_us_nm_enchanted_hills = {
 	}
 }
 character_c_us_nm_los_alamos = {
-	name = Geronimo
+	name = Frank
 	religion = "atomicist"
 	culture = "arixan"
 	female = no
-	2647.1.1 = {
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -866,8 +866,8 @@ character_c_us_nm_grants = {
 	name = Test
 	religion = "dustrider"
 	culture = "apache"
-	female = no
-	2590.1.1 = {
+	female = yes
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -879,7 +879,7 @@ character_c_us_nm_dulce = {
 	religion = "atomicist"
 	culture = "apache"
 	female = no
-	2655.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -891,7 +891,7 @@ character_c_us_nm_zuni = {
 	religion = "mormon"
 	culture = "navajo"
 	female = no
-	2645.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -903,7 +903,7 @@ character_c_us_nm_farmington = {
 	religion = "mormon"
 	culture = "navajo"
 	female = no
-	2657.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -915,7 +915,7 @@ character_c_us_nm_gallup = {
 	religion = "mormon"
 	culture = "navajo"
 	female = no
-	2646.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -926,8 +926,8 @@ character_c_us_az_fort_defiance = {
 	name = Test
 	religion = "mormon"
 	culture = "navajo"
-	female = yes
-	2606.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -939,7 +939,7 @@ character_c_us_az_tuba_city = {
 	religion = "mormon"
 	culture = "navajo"
 	female = no
-	2629.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,7 +951,7 @@ character_c_us_az_page = {
 	religion = "mormon"
 	culture = "navajo"
 	female = no
-	2602.1.1 = {
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -962,8 +962,8 @@ character_c_us_az_chinle = {
 	name = Test
 	religion = "mormon"
 	culture = "navajo"
-	female = yes
-	2614.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -974,7 +974,7 @@ character_c_us_az_kayenta = {
 	name = Test
 	religion = "mormon"
 	culture = "navajo"
-	female = no
+	female = yes
 	2593.1.1 = {
 		birth = yes
 	}
@@ -987,7 +987,7 @@ character_c_us_az_teec_nos_pos = {
 	religion = "mormon"
 	culture = "navajo"
 	female = no
-	2598.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -998,8 +998,8 @@ character_c_us_az_pinon = {
 	name = Test
 	religion = "mormon"
 	culture = "navajo"
-	female = yes
-	2631.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1011,7 +1011,7 @@ character_c_us_az_show_low = {
 	religion = "mormon"
 	culture = "hopi"
 	female = no
-	2598.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

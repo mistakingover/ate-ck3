@@ -1,138 +1,6 @@
 character_c_br_29_goi_nia = {
-	name = Luana
+	name = Marcos
 	religion = "anthropophagic"
-	culture = "goiano"
-	female = yes
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_rio_verde = {
-	name = Pedro_Bento
-	religion = "boiadist"
-	culture = "goiano"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_itumbiara = {
-	name = Juliana
-	religion = "anthropophagic"
-	culture = "goiano"
-	female = yes
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_jata_ = {
-	name = Thiago
-	religion = "boiadist"
-	culture = "goiano"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_s_o_lu_s_de_montes_belos = {
-	name = Osmailson
-	religion = "anthropophagic"
-	culture = "goiano"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_07_bras_lia = {
-	name = Gilson
-	religion = "architecturalist"
-	culture = "candango"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_an_polis = {
-	name = Nanda
-	religion = "architecturalist"
-	culture = "goiano"
-	female = yes
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_luzi_nia = {
-	name = Severino
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2644.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_caldas_novas = {
-	name = Domingos
-	religion = "anthropophagic"
-	culture = "goiano"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_pires_do_rio = {
-	name = Chico
-	religion = "anthropophagic"
-	culture = "goiano"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_goian_sia = {
-	name = Day
-	religion = "anthropophagic"
-	culture = "goiano"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_itapuranga = {
-	name = Abel
-	religion = "apostolicism"
 	culture = "goiano"
 	female = no
 	2609.1.1 = {
@@ -142,12 +10,144 @@ character_c_br_29_itapuranga = {
 		death = yes
 	}
 }
-character_c_br_29_porangatu = {
-	name = Jaqueline
-	religion = "benzedura"
+character_c_br_29_rio_verde = {
+	name = Albano
+	religion = "boiadist"
+	culture = "goiano"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_itumbiara = {
+	name = Marcia
+	religion = "anthropophagic"
 	culture = "goiano"
 	female = yes
-	2616.1.1 = {
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_jata_ = {
+	name = Romair
+	religion = "boiadist"
+	culture = "goiano"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_s_o_lu_s_de_montes_belos = {
+	name = Bia
+	religion = "anthropophagic"
+	culture = "goiano"
+	female = yes
+	2625.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_07_bras_lia = {
+	name = Aroldo
+	religion = "architecturalist"
+	culture = "candango"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_an_polis = {
+	name = Juliano
+	religion = "architecturalist"
+	culture = "goiano"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_luzi_nia = {
+	name = Rafael
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_caldas_novas = {
+	name = Luiz
+	religion = "anthropophagic"
+	culture = "goiano"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_pires_do_rio = {
+	name = Vin_i_act_cius
+	religion = "anthropophagic"
+	culture = "goiano"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_goian_sia = {
+	name = Luciana
+	religion = "anthropophagic"
+	culture = "goiano"
+	female = yes
+	2612.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_itapuranga = {
+	name = Henrique
+	religion = "apostolicism"
+	culture = "goiano"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_porangatu = {
+	name = Di_o_act_genes
+	religion = "benzedura"
+	culture = "goiano"
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_br_29_porangatu = {
 	}
 }
 character_c_br_29_ipor_ = {
-	name = D_e_act_lio
+	name = Jales
 	religion = "apostolicism"
 	culture = "goiano"
 	female = no
-	2603.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,55 +167,7 @@ character_c_br_29_ipor_ = {
 	}
 }
 character_c_br_29_formosa = {
-	name = Mariano
-	religion = "veredite"
-	culture = "veredista"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_urua_u = {
-	name = Lyan
-	religion = "anthropophagic"
-	culture = "goiano"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_mina_u = {
-	name = Joana
-	religion = "veredite"
-	culture = "goiano"
-	female = yes
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_posse = {
-	name = Maria_da_Piedade
-	religion = "veredite"
-	culture = "veredista"
-	female = yes
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_29_campos_belos = {
-	name = Maria_da_Salva_c_ced__a_tld_o
+	name = Maria_Encarna_c_ced__a_tld_o
 	religion = "veredite"
 	culture = "veredista"
 	female = yes
@@ -226,12 +178,60 @@ character_c_br_29_campos_belos = {
 		death = yes
 	}
 }
+character_c_br_29_urua_u = {
+	name = Pedro
+	religion = "anthropophagic"
+	culture = "goiano"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_mina_u = {
+	name = Galeno
+	religion = "veredite"
+	culture = "goiano"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_posse = {
+	name = Andre
+	religion = "veredite"
+	culture = "veredista"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_29_campos_belos = {
+	name = Maria_da_Apresenta_c_ced__a_tld_tld_o
+	religion = "veredite"
+	culture = "veredista"
+	female = yes
+	2608.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_br_29_padre_bernardo = {
-	name = Celestino
+	name = F_a_act_bio
 	religion = "architecturalist"
 	culture = "goiano"
 	female = no
-	2610.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_br_29_padre_bernardo = {
 	}
 }
 character_c_br_11_campo_grande = {
-	name = El_i_act_sio
+	name = Adriano
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2643.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_br_11_campo_grande = {
 	}
 }
 character_c_br_11_campo_verde = {
-	name = Aladim
+	name = Jacozinho
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2621.1.1 = {
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_br_11_campo_verde = {
 	}
 }
 character_c_br_11_sidrol_ndia = {
-	name = Ti_a_tld_o
+	name = Adolfinho
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2645.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_br_11_sidrol_ndia = {
 	}
 }
 character_c_br_11_camapu_ = {
-	name = Rico
+	name = Robertinho
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
-	2631.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_br_11_camapu_ = {
 	}
 }
 character_c_br_11_b_lsamo = {
-	name = Lyan
+	name = Lino
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
-	2660.1.1 = {
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_br_11_b_lsamo = {
 	}
 }
 character_c_br_11_s_o_francisco_de_assisi = {
-	name = V_a_act_lter
+	name = Geraldo
 	religion = "boiadist"
 	culture = "terena"
 	female = no
-	2659.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_br_11_s_o_francisco_de_assisi = {
 	}
 }
 character_c_br_11_alegrete = {
-	name = Mara
+	name = Jo_a_tld_o_Paulo
 	religion = "boiadist"
 	culture = "maracaju"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -327,7 +327,7 @@ character_c_br_11_dourados = {
 	religion = "boiadist"
 	culture = "kaiowa"
 	female = no
-	2600.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,11 +335,11 @@ character_c_br_11_dourados = {
 	}
 }
 character_c_br_11_ponta_por_ = {
-	name = Sandra
+	name = Marcelo
 	religion = "boiadist"
 	culture = "maracaju"
-	female = yes
-	2642.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -347,11 +347,11 @@ character_c_br_11_ponta_por_ = {
 	}
 }
 character_c_br_11_navira_ = {
-	name = Paulinho
+	name = Victor
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2604.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,11 +359,11 @@ character_c_br_11_navira_ = {
 	}
 }
 character_c_br_11_maracaju = {
-	name = Vera
+	name = Giuliano
 	religion = "boiadist"
 	culture = "maracaju"
-	female = yes
-	2642.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -375,7 +375,7 @@ character_c_br_11_costa_rica = {
 	religion = "pombero"
 	culture = "kaiowa"
 	female = no
-	2643.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_br_11_costa_rica = {
 	}
 }
 character_c_br_11_bataipor_ = {
-	name = Juan
+	name = Marquinhos
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2658.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_br_11_bataipor_ = {
 	}
 }
 character_c_br_11_do_casquinha = {
-	name = Jo_a_tld_o_Lucas
+	name = Reginaldo
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2612.1.1 = {
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_br_11_do_casquinha = {
 	}
 }
 character_c_br_11_atafona = {
-	name = kaiowa_placeholder_fnames
+	name = kaiowa_placeholder_mnames
 	religion = "boiadist"
 	culture = "kaiowa"
-	female = yes
-	2617.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -423,7 +423,7 @@ character_c_br_11_corumb_ = {
 	religion = "boiadist"
 	culture = "kadiweu"
 	female = no
-	2648.1.1 = {
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_br_11_corumb_ = {
 	}
 }
 character_c_br_11_aquidauana = {
-	name = Hosne
+	name = Valdir
 	religion = "boiadist"
 	culture = "terena"
 	female = no
-	2640.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_br_11_aquidauana = {
 	}
 }
 character_c_br_11_coxim = {
-	name = Felipe
+	name = Josefa
 	religion = "boiadist"
 	culture = "terena"
-	female = no
-	2648.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,10 +455,10 @@ character_c_br_11_coxim = {
 	}
 }
 character_c_br_11_miranda = {
-	name = Tais
+	name = Fl_a_act_vio
 	religion = "boiadist"
 	culture = "terena"
-	female = yes
+	female = no
 	2648.1.1 = {
 		birth = yes
 	}
@@ -467,11 +467,11 @@ character_c_br_11_miranda = {
 	}
 }
 character_c_br_11_fazenda_barranco_alto = {
-	name = Wilson
+	name = Ezequiel
 	religion = "boiadist"
 	culture = "terena"
 	female = no
-	2649.1.1 = {
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_br_11_fazenda_barranco_alto = {
 	}
 }
 character_c_br_11_todos_os_santos = {
-	name = kadiweu_placeholder_fnames
+	name = kadiweu_placeholder_mnames
 	religion = "boiadist"
 	culture = "kadiweu"
-	female = yes
-	2654.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_br_11_todos_os_santos = {
 	}
 }
 character_c_br_11_tr_s_lagoas = {
-	name = Z_e_act__Ricardo
+	name = A_act_lvaro
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2659.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_br_11_tr_s_lagoas = {
 	}
 }
 character_c_br_11_parana_ba = {
-	name = Duda
+	name = Dino
 	religion = "boiadist"
 	culture = "maracaju"
-	female = yes
-	2629.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_br_11_parana_ba = {
 	}
 }
 character_c_br_11_para_so_das_guas = {
-	name = Samuel
+	name = Romair
 	religion = "boiadist"
 	culture = "maracaju"
 	female = no
-	2601.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,7 +531,7 @@ character_c_br_11_jardim = {
 	religion = "boiadist"
 	culture = "kaiowa"
 	female = no
-	2634.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_br_11_jardim = {
 	}
 }
 character_c_br_11_bonito = {
-	name = Ana
+	name = Cravinho
 	religion = "boiadist"
 	culture = "maracaju"
-	female = yes
-	2652.1.1 = {
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -555,7 +555,7 @@ character_c_br_11_alegria_nova = {
 	religion = "boiadist"
 	culture = "kadiweu"
 	female = no
-	2619.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,7 +563,91 @@ character_c_br_11_alegria_nova = {
 	}
 }
 character_c_br_14_cuiab_ = {
-	name = Almir
+	name = Giovani
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_rondon_polis = {
+	name = Zez_e_act_
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_lucas = {
+	name = Oscar
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_pocon_ = {
+	name = Ata_i_act_de
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_guiratinga = {
+	name = Rosinha
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_sinop = {
+	name = Felipe
+	religion = "xingu_faith"
+	culture = "matogrossense"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_barra_do_bugres = {
+	name = Marcia
+	religion = "boiadist"
+	culture = "matogrossense"
+	female = yes
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_14_diamantino = {
+	name = Miranda
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
@@ -574,96 +658,12 @@ character_c_br_14_cuiab_ = {
 		death = yes
 	}
 }
-character_c_br_14_rondon_polis = {
-	name = Glacial
-	religion = "boiadist"
-	culture = "matogrossense"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_14_lucas = {
-	name = C_e_act_sar
-	religion = "boiadist"
-	culture = "matogrossense"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_14_pocon_ = {
-	name = Milton
-	religion = "boiadist"
-	culture = "matogrossense"
-	female = no
-	2624.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_14_guiratinga = {
-	name = Leo
-	religion = "boiadist"
-	culture = "matogrossense"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_14_sinop = {
-	name = Eduarda
-	religion = "xingu_faith"
-	culture = "matogrossense"
-	female = yes
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_14_barra_do_bugres = {
-	name = Luiz_Gustavo
-	religion = "boiadist"
-	culture = "matogrossense"
-	female = no
-	2648.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_14_diamantino = {
-	name = Sandra
-	religion = "boiadist"
-	culture = "matogrossense"
-	female = yes
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_14_aldeia_ind_gena_man_zde = {
-	name = Terezinha
+	name = Louremberg
 	religion = "boiadist"
 	culture = "matogrossense"
-	female = yes
-	2643.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,11 +671,11 @@ character_c_br_14_aldeia_ind_gena_man_zde = {
 	}
 }
 character_c_br_14_capit_o_carutu = {
-	name = Gilmar
+	name = I_act_trio
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
-	2636.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -683,11 +683,11 @@ character_c_br_14_capit_o_carutu = {
 	}
 }
 character_c_br_29_barra_do_gar_as = {
-	name = Feliciano
+	name = Adilton
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
-	2611.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,7 +699,7 @@ character_c_br_14_santa_terezinha = {
 	religion = "xingu_faith"
 	culture = "xavante"
 	female = no
-	2643.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -711,7 +711,7 @@ character_c_br_14_fazenda_rubi_esmeralda = {
 	religion = "xingu_faith"
 	culture = "xavante"
 	female = no
-	2637.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -723,7 +723,7 @@ character_c_br_14_matinha = {
 	religion = "benzedura"
 	culture = "xavante"
 	female = no
-	2599.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -735,7 +735,7 @@ character_c_br_14_mutum = {
 	religion = "xingu_faith"
 	culture = "munduruku"
 	female = no
-	2598.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -743,11 +743,11 @@ character_c_br_14_mutum = {
 	}
 }
 character_c_br_14_nova_monte_verde = {
-	name = munduruku_placeholder_mnames
+	name = munduruku_placeholder_fnames
 	religion = "xingu_faith"
 	culture = "munduruku"
-	female = no
-	2645.1.1 = {
+	female = yes
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,11 +755,11 @@ character_c_br_14_nova_monte_verde = {
 	}
 }
 character_c_br_14_novo_horizonte_do_norte = {
-	name = Bruninho
+	name = Durval
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
-	2643.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -767,11 +767,11 @@ character_c_br_14_novo_horizonte_do_norte = {
 	}
 }
 character_c_br_14_nova_do_norte = {
-	name = Ruan
+	name = Jo_a_tld_o_Pedro
 	religion = "xingu_faith"
 	culture = "matogrossense"
 	female = no
-	2593.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -779,11 +779,11 @@ character_c_br_14_nova_do_norte = {
 	}
 }
 character_c_br_14_castanheira = {
-	name = Andr_e_act_
+	name = Belarmino
 	religion = "boiadist"
 	culture = "matogrossense"
 	female = no
-	2601.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -795,7 +795,7 @@ character_c_br_14_s_o_jos_do_xingu = {
 	religion = "xingu_faith"
 	culture = "xavante"
 	female = no
-	2618.1.1 = {
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -807,7 +807,7 @@ character_c_br_14_aripuan_ = {
 	religion = "layeredinfinite"
 	culture = "nambikwara"
 	female = no
-	2654.1.1 = {
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -815,11 +815,11 @@ character_c_br_14_aripuan_ = {
 	}
 }
 character_c_br_13_imperatriz = {
-	name = apinaje_placeholder_fnames
+	name = apinaje_placeholder_mnames
 	religion = "pentecostalism"
 	culture = "apinaje"
-	female = yes
-	2655.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -831,7 +831,7 @@ character_c_br_31_aragua_na = {
 	religion = "xingu_faith"
 	culture = "xambioa"
 	female = no
-	2651.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,11 +839,11 @@ character_c_br_31_aragua_na = {
 	}
 }
 character_c_br_13_carolina = {
-	name = apinaje_placeholder_fnames
+	name = apinaje_placeholder_mnames
 	religion = "xingu_faith"
 	culture = "apinaje"
-	female = yes
-	2649.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -855,7 +855,7 @@ character_c_br_31_do_tocantins = {
 	religion = "xingu_faith"
 	culture = "xerente"
 	female = no
-	2626.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,7 +867,7 @@ character_c_br_31_goiani_dos_campos = {
 	religion = "xingu_faith"
 	culture = "xerente"
 	female = no
-	2648.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -879,7 +879,7 @@ character_c_br_31_craol_ndia = {
 	religion = "xingu_faith"
 	culture = "kraho"
 	female = no
-	2592.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -887,11 +887,11 @@ character_c_br_31_craol_ndia = {
 	}
 }
 character_c_br_31_palmas = {
-	name = J_u_act_nior
+	name = Jo_a_tld_o
 	religion = "architecturalist"
 	culture = "tocantinense"
 	female = no
-	2617.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -899,11 +899,11 @@ character_c_br_31_palmas = {
 	}
 }
 character_c_br_31_gurupi = {
-	name = Sebasti_a_tld_o
+	name = Margarida
 	religion = "benzedura"
 	culture = "tocantinense"
-	female = no
-	2653.1.1 = {
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -911,11 +911,11 @@ character_c_br_31_gurupi = {
 	}
 }
 character_c_br_31_taguatinga = {
-	name = Jorge
+	name = Francisco
 	religion = "veredite"
 	culture = "tocantinense"
 	female = no
-	2600.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,11 +923,11 @@ character_c_br_31_taguatinga = {
 	}
 }
 character_c_br_05_faz_s_o_sebasti_o = {
-	name = Fernanda
+	name = Cleiton
 	religion = "ciceritism"
 	culture = "tocantinense"
-	female = yes
-	2616.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -935,11 +935,11 @@ character_c_br_05_faz_s_o_sebasti_o = {
 	}
 }
 character_c_br_31_cangas = {
-	name = C_e_act_sar
+	name = Walfredo
 	religion = "neopentecostalism"
 	culture = "tocantinense"
 	female = no
-	2644.1.1 = {
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,7 +951,7 @@ character_c_br_31_barreira_do_pequi = {
 	religion = "xingu_faith"
 	culture = "tapirape"
 	female = no
-	2615.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -959,11 +959,11 @@ character_c_br_31_barreira_do_pequi = {
 	}
 }
 character_c_br_31_monte_santo_do_tocantins = {
-	name = Raul
+	name = Eudoro
 	religion = "benzedura"
 	culture = "tocantinense"
 	female = no
-	2650.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

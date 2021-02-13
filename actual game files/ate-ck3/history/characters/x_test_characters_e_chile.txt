@@ -1,9 +1,9 @@
 character_c_cl_12_santiago = {
-	name = Francisco
+	name = Roberto
 	religion = "animism"
 	culture = "huaso"
 	female = no
-	2644.1.1 = {
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_cl_12_santiago = {
 	}
 }
 character_c_puente_alto = {
-	name = Isabel
+	name = Fernando
 	religion = "animism"
 	culture = "huaso"
-	female = yes
-	2654.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_puente_alto = {
 	}
 }
 character_c_cl_12_pe_aflor = {
-	name = Ignacio
+	name = Osvaldo
 	religion = "animism"
 	culture = "centrino"
 	female = no
-	2642.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_cl_12_pe_aflor = {
 	}
 }
 character_c_cl_12_melipilla = {
-	name = Gary
+	name = Juan
 	religion = "animism"
 	culture = "centrino"
 	female = no
-	2639.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,21 +47,9 @@ character_c_cl_12_melipilla = {
 	}
 }
 character_c_chacabuco = {
-	name = Manuel
+	name = Enrique
 	religion = "animism"
 	culture = "huaso"
-	female = no
-	2639.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_01_vi_a_del_mar = {
-	name = Teodoro
-	religion = "animism"
-	culture = "centrino"
 	female = no
 	2606.1.1 = {
 		birth = yes
@@ -70,12 +58,24 @@ character_c_cl_01_vi_a_del_mar = {
 		death = yes
 	}
 }
+character_c_cl_01_vi_a_del_mar = {
+	name = Mat_i_act_as
+	religion = "animism"
+	culture = "centrino"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_cl_01_quillota = {
-	name = Custodio
+	name = Carmelo
 	religion = "animism"
 	culture = "huaso"
 	female = no
-	2595.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_cl_01_quillota = {
 	}
 }
 character_c_cl_01_san_felipe = {
-	name = Lisardo
+	name = Tulio
 	religion = "animism"
 	culture = "huaso"
 	female = no
-	2639.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,11 +95,11 @@ character_c_cl_01_san_felipe = {
 	}
 }
 character_c_cl_01_san_antonio = {
-	name = Lucas
+	name = Bernardo
 	religion = "animism"
 	culture = "centrino"
 	female = no
-	2633.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -107,11 +107,11 @@ character_c_cl_01_san_antonio = {
 	}
 }
 character_c_cl_01_la_ligua = {
-	name = Eduardo
+	name = Daniel
 	religion = "animism"
 	culture = "huaso"
 	female = no
-	2600.1.1 = {
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_cl_01_la_ligua = {
 	}
 }
 character_c_cl_11_talca = {
-	name = Zoraida
+	name = Mario
 	religion = "animism"
 	culture = "huaso"
-	female = yes
-	2648.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_cl_11_talca = {
 	}
 }
 character_c_cl_11_curic_ = {
-	name = Federico
+	name = David
 	religion = "animism"
 	culture = "huaso"
 	female = no
-	2649.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,43 +143,7 @@ character_c_cl_11_curic_ = {
 	}
 }
 character_c_cl_11_linares = {
-	name = Bernardo
-	religion = "animism"
-	culture = "huaso"
-	female = no
-	2659.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_11_constituci_n = {
 	name = Filomeno
-	religion = "animism"
-	culture = "huaso"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_11_cauquenes = {
-	name = Teodoro
-	religion = "nonconformism"
-	culture = "huaso"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cachapoal = {
-	name = Hugo
 	religion = "animism"
 	culture = "huaso"
 	female = no
@@ -190,9 +154,21 @@ character_c_cachapoal = {
 		death = yes
 	}
 }
-character_c_colchagua = {
-	name = Enrique
+character_c_cl_11_constituci_n = {
+	name = Pilar
 	religion = "animism"
+	culture = "huaso"
+	female = yes
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_11_cauquenes = {
+	name = Narciso
+	religion = "nonconformism"
 	culture = "huaso"
 	female = no
 	2630.1.1 = {
@@ -202,130 +178,10 @@ character_c_colchagua = {
 		death = yes
 	}
 }
-character_c_cardenal_caro = {
-	name = Marcelo
-	religion = "animism"
-	culture = "centrino"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_18_chill_n = {
-	name = M_o_act_nica
+character_c_cachapoal = {
+	name = Nicol_a_act_s
 	religion = "animism"
 	culture = "huaso"
-	female = yes
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_18_san_carlos = {
-	name = Susana
-	religion = "animism"
-	culture = "huaso"
-	female = yes
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_18_quirihue = {
-	name = Julio
-	religion = "nonconformism"
-	culture = "huaso"
-	female = no
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_06_talcahuano = {
-	name = Camilo
-	religion = "nguillatun"
-	culture = "huaso"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_06_los_ngeles = {
-	name = Elicura
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2592.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_06_curanilahue = {
-	name = Chocor_i_act_
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2641.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_04_temuco = {
-	name = Quillen
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_04_angol = {
-	name = Lientur
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_04_villarrica = {
-	name = Antonio
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_04_nueva_imperial = {
-	name = Federico
-	religion = "nguillatun"
-	culture = "mapuche"
 	female = no
 	2648.1.1 = {
 		birth = yes
@@ -334,44 +190,152 @@ character_c_cl_04_nueva_imperial = {
 		death = yes
 	}
 }
-character_c_cl_14_puerto_montt = {
-	name = Teodoro
+character_c_colchagua = {
+	name = Oriana
 	religion = "animism"
-	culture = "sureno"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_14_osorno = {
-	name = Paul
-	religion = "nguillatun"
-	culture = "sureno"
-	female = no
-	2632.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_14_castro = {
-	name = Karina
-	religion = "animism"
-	culture = "sureno"
+	culture = "huaso"
 	female = yes
-	2645.1.1 = {
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cl_14_calbuco = {
-	name = Federico
+character_c_cardenal_caro = {
+	name = Alonso
+	religion = "animism"
+	culture = "centrino"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_18_chill_n = {
+	name = Fernando
+	religion = "animism"
+	culture = "huaso"
+	female = no
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_18_san_carlos = {
+	name = Mar_i_act_a_Constanza
+	religion = "animism"
+	culture = "huaso"
+	female = yes
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_18_quirihue = {
+	name = David
+	religion = "nonconformism"
+	culture = "huaso"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_06_talcahuano = {
+	name = Daniel
+	religion = "nguillatun"
+	culture = "huaso"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_06_los_ngeles = {
+	name = Kuyenray
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_06_curanilahue = {
+	name = Nehuen
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_04_temuco = {
+	name = Butapich_o_act_n
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_04_angol = {
+	name = Raiquen
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_04_villarrica = {
+	name = Venancio
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_04_nueva_imperial = {
+	name = Illanguil_e_act_n
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_14_puerto_montt = {
+	name = Ernesto
 	religion = "animism"
 	culture = "sureno"
 	female = no
@@ -382,154 +346,10 @@ character_c_cl_14_calbuco = {
 		death = yes
 	}
 }
-character_c_cl_14_chait_n = {
-	name = Mauricio
+character_c_cl_14_osorno = {
+	name = Ernesto
 	religion = "nguillatun"
 	culture = "sureno"
-	female = no
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_17_valdivia = {
-	name = Jorge
-	religion = "nguillatun"
-	culture = "sureno"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_17_la_uni_n = {
-	name = Marcelo
-	religion = "nguillatun"
-	culture = "sureno"
-	female = no
-	2601.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_17_panguipulli = {
-	name = Lebi_a_act_n
-	religion = "nguillatun"
-	culture = "mapuche"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_03_antofagasta = {
-	name = Alberto
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_03_calama = {
-	name = H_e_act_ctor
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_03_tocopilla = {
-	name = Francisco
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = no
-	2643.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_03_taltal = {
-	name = V_i_act_ctor
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_07_coquimbo = {
-	name = Esteban
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = no
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_07_ovalle = {
-	name = Luis
-	religion = "animism"
-	culture = "atacameno"
-	female = no
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_07_illapel = {
-	name = Roberto
-	religion = "animism"
-	culture = "huaso"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_07_monte_patria = {
-	name = Patricio
-	religion = "animism"
-	culture = "atacameno"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_07_vicu_a = {
-	name = Benjam_i_act_n
-	religion = "animism"
-	culture = "atacameno"
 	female = no
 	2604.1.1 = {
 		birth = yes
@@ -538,22 +358,58 @@ character_c_cl_07_vicu_a = {
 		death = yes
 	}
 }
-character_c_cl_15_iquique = {
-	name = Neftal_i_act_
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = no
-	2648.1.1 = {
+character_c_cl_14_castro = {
+	name = Cecilia
+	religion = "animism"
+	culture = "sureno"
+	female = yes
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cl_16_arica = {
-	name = Federico
-	religion = "camino_estelar"
-	culture = "atacameno"
+character_c_cl_14_calbuco = {
+	name = Tonka
+	religion = "animism"
+	culture = "sureno"
+	female = yes
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_14_chait_n = {
+	name = Humberto
+	religion = "nguillatun"
+	culture = "sureno"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_17_valdivia = {
+	name = Ernesto
+	religion = "nguillatun"
+	culture = "sureno"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_17_la_uni_n = {
+	name = Rodolfo
+	religion = "nguillatun"
+	culture = "sureno"
 	female = no
 	2638.1.1 = {
 		birth = yes
@@ -562,9 +418,33 @@ character_c_cl_16_arica = {
 		death = yes
 	}
 }
-character_c_bo_04_chara_a = {
-	name = Rodrigo
-	religion = "pachamama_religion"
+character_c_cl_17_panguipulli = {
+	name = Mainque
+	religion = "nguillatun"
+	culture = "mapuche"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_03_antofagasta = {
+	name = Teodoro
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_03_calama = {
+	name = Federico
+	religion = "camino_estelar"
 	culture = "atacameno"
 	female = no
 	2646.1.1 = {
@@ -574,45 +454,69 @@ character_c_bo_04_chara_a = {
 		death = yes
 	}
 }
-character_c_cl_16_camarones = {
-	name = Natalia
-	religion = "camino_estelar"
-	culture = "atacameno"
-	female = yes
-	2628.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_cl_15_colchane = {
-	name = Neftal_i_act_
+character_c_cl_03_tocopilla = {
+	name = Alberto
 	religion = "camino_estelar"
 	culture = "atacameno"
 	female = no
-	2615.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cl_05_copiap_ = {
-	name = Nicol_a_act_s
+character_c_cl_03_taltal = {
+	name = Teodoro
 	religion = "camino_estelar"
 	culture = "atacameno"
 	female = no
-	2606.1.1 = {
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cl_05_vallenar = {
-	name = Tom_a_act_s
+character_c_cl_07_coquimbo = {
+	name = V_i_act_ctor
 	religion = "camino_estelar"
+	culture = "atacameno"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_07_ovalle = {
+	name = Gary
+	religion = "animism"
+	culture = "atacameno"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_07_illapel = {
+	name = Julio
+	religion = "animism"
+	culture = "huaso"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_07_monte_patria = {
+	name = Arturo
+	religion = "animism"
 	culture = "atacameno"
 	female = no
 	2607.1.1 = {
@@ -622,12 +526,108 @@ character_c_cl_05_vallenar = {
 		death = yes
 	}
 }
-character_c_cl_05_diego_de_almagro = {
-	name = Domingo
+character_c_cl_07_vicu_a = {
+	name = Cristian
+	religion = "animism"
+	culture = "atacameno"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_15_iquique = {
+	name = Nicole
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = yes
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_16_arica = {
+	name = V_i_act_ctor
 	religion = "camino_estelar"
 	culture = "atacameno"
 	female = no
-	2655.1.1 = {
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_bo_04_chara_a = {
+	name = Mateo
+	religion = "pachamama_religion"
+	culture = "atacameno"
+	female = no
+	2618.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_16_camarones = {
+	name = Roc_i_act_o
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = yes
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_15_colchane = {
+	name = Germ_a_act_n
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_05_copiap_ = {
+	name = Ximena
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = yes
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_05_vallenar = {
+	name = Rafael
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cl_05_diego_de_almagro = {
+	name = An_i_act_bal
+	religion = "camino_estelar"
+	culture = "atacameno"
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_cl_05_diego_de_almagro = {
 	}
 }
 character_c_cl_05_huasco = {
-	name = Gary
+	name = Hugo
 	religion = "camino_estelar"
 	culture = "atacameno"
 	female = no
-	2647.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,11 +647,11 @@ character_c_cl_05_huasco = {
 	}
 }
 character_c_cl_05_caldera = {
-	name = Gonzalo
+	name = Daniel
 	religion = "camino_estelar"
 	culture = "atacameno"
 	female = no
-	2606.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

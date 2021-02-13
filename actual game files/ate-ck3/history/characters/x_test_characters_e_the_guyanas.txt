@@ -1,9 +1,9 @@
 character_c_ve_06_guayana = {
-	name = Diego
+	name = Jes_u_act_s
 	religion = "tres_potencias"
 	culture = "guayanes"
 	female = no
-	2595.1.1 = {
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_ve_06_guayana = {
 	}
 }
 character_c_ve_06_upata = {
-	name = Jes_u_act_s
+	name = Conchita
 	religion = "tres_potencias"
 	culture = "guayanes"
-	female = no
-	2609.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_ve_06_upata = {
 	}
 }
 character_c_ve_06_santa_elena_de_uair_n = {
-	name = Nicol_a_act_s
+	name = Marcos
 	religion = "tres_potencias"
 	culture = "guayanes"
 	female = no
-	2653.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_ve_06_santa_elena_de_uair_n = {
 	}
 }
 character_c_ve_06_el_yagual = {
-	name = Daniel
+	name = Narcisa
 	religion = "tres_potencias"
 	culture = "guayanes"
-	female = no
-	2612.1.1 = {
+	female = yes
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_ve_06_el_yagual = {
 	}
 }
 character_c_ve_06_kil_metro_treinta_y_tres = {
-	name = Federico
+	name = Gregorio
 	religion = "tres_potencias"
 	culture = "guayanes"
 	female = no
-	2660.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -59,11 +59,11 @@ character_c_ve_06_kil_metro_treinta_y_tres = {
 	}
 }
 character_c_ve_06_bol_var = {
-	name = Nestor
+	name = Alfonso
 	religion = "tres_potencias"
 	culture = "guayanes"
 	female = no
-	2633.1.1 = {
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -71,11 +71,11 @@ character_c_ve_06_bol_var = {
 	}
 }
 character_c_ve_06_palanc_n = {
-	name = Guadalupe
+	name = Tom_a_act_s
 	religion = "tres_potencias"
 	culture = "guayanes"
-	female = yes
-	2610.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_ve_06_palanc_n = {
 	}
 }
 character_c_ve_06_vuelta_larga = {
-	name = Ram_o_act_n
+	name = Sergio
 	religion = "tres_potencias"
 	culture = "guayanes"
 	female = no
-	2660.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,11 +95,11 @@ character_c_ve_06_vuelta_larga = {
 	}
 }
 character_c_ve_06_uraima = {
-	name = Mar_i_act_a_Soledad
+	name = Paz
 	religion = "tres_potencias"
 	culture = "guayanes"
 	female = yes
-	2652.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -107,11 +107,11 @@ character_c_ve_06_uraima = {
 	}
 }
 character_c_ve_01_travesia_del_marieta = {
-	name = yanomami_placeholder_fnames
+	name = yanomami_placeholder_mnames
 	religion = "hekura"
 	culture = "yanomami"
-	female = yes
-	2597.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_ve_01_travesia_del_marieta = {
 	}
 }
 character_c_ve_01_puerto_ayacucho = {
-	name = Gualberto
+	name = Floramaria
 	religion = "tres_potencias"
 	culture = "guayanes"
-	female = no
-	2633.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_ve_01_puerto_ayacucho = {
 	}
 }
 character_c_co_15_in_rida = {
-	name = Tom_a_act_s
+	name = Te_o_act_filo
 	religion = "aria_de_machete"
 	culture = "llanero"
 	female = no
-	2592.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -147,7 +147,7 @@ character_c_co_15_san_felipe = {
 	religion = "layeredfaith"
 	culture = "tukano"
 	female = no
-	2659.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_co_15_san_felipe = {
 	}
 }
 character_c_ve_09_siawani = {
-	name = Francisca
+	name = Tom_a_act_s
 	religion = "tres_potencias"
 	culture = "guayanes"
-	female = yes
-	2656.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_ve_09_siawani = {
 	}
 }
 character_c_ve_09_geina = {
-	name = Sidney
+	name = Diego
 	religion = "tres_potencias"
 	culture = "lokono"
 	female = no
-	2636.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,11 +179,11 @@ character_c_ve_09_geina = {
 	}
 }
 character_c_gy_12_georgetown = {
-	name = Bertram
+	name = Arthur
 	religion = "pentecostalism"
 	culture = "guyanese"
 	female = no
-	2602.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -191,11 +191,11 @@ character_c_gy_12_georgetown = {
 	}
 }
 character_c_gy_13_new_amsterdam = {
-	name = Kayla
+	name = Abdur
 	religion = "samaj_hinduism"
 	culture = "guyanese"
-	female = yes
-	2612.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_gy_13_new_amsterdam = {
 	}
 }
 character_c_gy_16_anna_regina = {
-	name = Philip
+	name = Della
 	religion = "tres_potencias"
 	culture = "lokono"
-	female = no
-	2656.1.1 = {
+	female = yes
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,9 +215,21 @@ character_c_gy_16_anna_regina = {
 	}
 }
 character_c_gy_10_mabaruma = {
-	name = Joseph
+	name = Aderi
 	religion = "tres_potencias"
 	culture = "lokono"
+	female = yes
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sr_16_paramaribo = {
+	name = Adriaan
+	religion = "jawaid"
+	culture = "sranan"
 	female = no
 	2612.1.1 = {
 		birth = yes
@@ -226,24 +238,12 @@ character_c_gy_10_mabaruma = {
 		death = yes
 	}
 }
-character_c_sr_16_paramaribo = {
-	name = Jasmine
-	religion = "jawaid"
-	culture = "sranan"
-	female = yes
-	2620.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_sr_14_nieuw_nickerie = {
-	name = Maurits
+	name = Frits
 	religion = "samaj_hinduism"
 	culture = "sranan"
 	female = no
-	2604.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,58 +251,10 @@ character_c_sr_14_nieuw_nickerie = {
 	}
 }
 character_c_gf_gf_cayenne = {
-	name = Jacobin
+	name = Thomas
 	religion = "liberationism"
 	culture = "cayennais"
 	female = no
-	2607.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gf_gf_saint_laurent_du_maroni = {
-	name = L_e_act_on
-	religion = "samaj_hinduism"
-	culture = "cayennais"
-	female = no
-	2654.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gf_gf_de_saint_laurent_du_maroni = {
-	name = Lucille
-	religion = "liberationism"
-	culture = "cayennais"
-	female = yes
-	2614.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gf_gf_de_cayenne = {
-	name = Joline
-	religion = "liberationism"
-	culture = "cayennais"
-	female = yes
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sr_10_brokopondo = {
-	name = Annemijn
-	religion = "jawaid"
-	culture = "sranan"
-	female = yes
 	2603.1.1 = {
 		birth = yes
 	}
@@ -310,34 +262,22 @@ character_c_sr_10_brokopondo = {
 		death = yes
 	}
 }
-character_c_sr_18_akoelitatajeprati = {
-	name = Thea
-	religion = "winti"
-	culture = "sranan"
-	female = yes
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_sr_18_appera = {
-	name = Virgil
-	religion = "liberationism"
-	culture = "sranan"
+character_c_gf_gf_saint_laurent_du_maroni = {
+	name = Guy
+	religion = "samaj_hinduism"
+	culture = "cayennais"
 	female = no
-	2606.1.1 = {
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_gy_11_bartica = {
-	name = Winston
-	religion = "pentecostalism"
-	culture = "guyanese"
+character_c_gf_gf_de_saint_laurent_du_maroni = {
+	name = Yann
+	religion = "liberationism"
+	culture = "cayennais"
 	female = no
 	2619.1.1 = {
 		birth = yes
@@ -346,12 +286,72 @@ character_c_gy_11_bartica = {
 		death = yes
 	}
 }
-character_c_gy_17_mahdia = {
-	name = Aftab
+character_c_gf_gf_de_cayenne = {
+	name = Jean-Eudes
+	religion = "liberationism"
+	culture = "cayennais"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sr_10_brokopondo = {
+	name = Clemens
+	religion = "jawaid"
+	culture = "sranan"
+	female = no
+	2609.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sr_18_akoelitatajeprati = {
+	name = Henri-Frans
+	religion = "winti"
+	culture = "sranan"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sr_18_appera = {
+	name = Henk
+	religion = "liberationism"
+	culture = "sranan"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gy_11_bartica = {
+	name = Rahman
 	religion = "pentecostalism"
 	culture = "guyanese"
 	female = no
-	2630.1.1 = {
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gy_17_mahdia = {
+	name = Gajanand
+	religion = "pentecostalism"
+	culture = "guyanese"
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,7 +363,7 @@ character_c_gy_19_lethem = {
 	religion = "layeredfaith"
 	culture = "makushi"
 	female = no
-	2650.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,9 +371,33 @@ character_c_gy_19_lethem = {
 	}
 }
 character_c_gy_19_achiwib = {
-	name = makushi_placeholder_mnames
+	name = makushi_placeholder_fnames
 	religion = "layeredfaith"
 	culture = "makushi"
+	female = yes
+	2637.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gy_13_epira = {
+	name = Karen
+	religion = "pentecostalism"
+	culture = "guyanese"
+	female = yes
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_br_03_marac_ = {
+	name = Arata
+	religion = "pentecostalism"
+	culture = "amapaense"
 	female = no
 	2591.1.1 = {
 		birth = yes
@@ -382,36 +406,12 @@ character_c_gy_19_achiwib = {
 		death = yes
 	}
 }
-character_c_gy_13_epira = {
-	name = Alvin
-	religion = "pentecostalism"
-	culture = "guyanese"
-	female = no
-	2599.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_br_03_marac_ = {
-	name = Virg_i_act_nia
-	religion = "pentecostalism"
-	culture = "amapaense"
-	female = yes
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_br_03_aldeia_palikur = {
-	name = Maur_i_act_cio
+	name = Samuel
 	religion = "liberationism"
 	culture = "amapaense"
 	female = no
-	2627.1.1 = {
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

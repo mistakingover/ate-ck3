@@ -1,5 +1,137 @@
 character_c_gl_07_nuuk = {
-	name = Laarsi
+	name = Maaria
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_06_sisimiut = {
+	name = Nguujuk
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = yes
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_03_maniitsoq_kommune = {
+	name = Paqoq
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = yes
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_03_paamiut_kommuniat = {
+	name = Jenseraq
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_03_ilulissat_kommuniat = {
+	name = Oquna
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2637.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_11839534_aasiaat_kommuniat = {
+	name = Tukuttanngaaq
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2596.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_05_uummannaq_kommune = {
+	name = Qisuk
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_03_qeqertarsuaq_kommune = {
+	name = Ejvind
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_04_qaqortoq = {
+	name = Okalikak
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_04_narsaq = {
+	name = Aaliksi
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = no
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_04_nanortalik = {
+	name = Sanninga
+	religion = "unipkaaq"
+	culture = "kalaaleq"
+	female = yes
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gl_11839537_upernavik = {
+	name = Eertaaq
 	religion = "unipkaaq"
 	culture = "kalaaleq"
 	female = no
@@ -10,32 +142,8 @@ character_c_gl_07_nuuk = {
 		death = yes
 	}
 }
-character_c_gl_06_sisimiut = {
-	name = Aluusaq
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_03_maniitsoq_kommune = {
-	name = Umaamii
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2657.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_03_paamiut_kommuniat = {
-	name = Tappinngaajik
+character_c_gl_11839537_qaanaaq_kommune = {
+	name = Naqqoq
 	religion = "unipkaaq"
 	culture = "kalaaleq"
 	female = no
@@ -46,120 +154,12 @@ character_c_gl_03_paamiut_kommuniat = {
 		death = yes
 	}
 }
-character_c_gl_03_ilulissat_kommuniat = {
-	name = Sikunnguaq
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_11839534_aasiaat_kommuniat = {
-	name = Ernutannquaq
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = yes
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_05_uummannaq_kommune = {
-	name = Lispitsi
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = yes
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_03_qeqertarsuaq_kommune = {
-	name = Laarsi
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_04_qaqortoq = {
-	name = Eqqamaq
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2617.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_04_narsaq = {
-	name = Riinki
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_04_nanortalik = {
-	name = Umaamii
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_11839537_upernavik = {
-	name = Aaja
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = yes
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_gl_11839537_qaanaaq_kommune = {
-	name = Sanngisooq
-	religion = "unipkaaq"
-	culture = "kalaaleq"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_gl_11839537_kullorsuaq = {
-	name = Igimarasussussuaq
+	name = Ortusi
 	religion = "unipkaaq"
 	culture = "kalaaleq"
 	female = no
-	2618.1.1 = {
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_gl_11839537_kullorsuaq = {
 	}
 }
 character_c_sj_21_longyearbyen = {
-	name = Erik
+	name = Daniel
 	religion = "ilisaijjut"
 	culture = "svalbarder"
 	female = no
-	2593.1.1 = {
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -179,7 +179,7 @@ character_c_sj_21_longyearbyen = {
 	}
 }
 character_c_ca_nu_iqaluit = {
-	name = Tulimaq
+	name = Etuangat
 	religion = "ilisaijjut"
 	culture = "inuit"
 	female = no
@@ -191,11 +191,11 @@ character_c_ca_nu_iqaluit = {
 	}
 }
 character_c_ca_nu_pangnirtung = {
-	name = Pakak
+	name = Alasie
 	religion = "ilisaijjut"
 	culture = "inuit"
-	female = no
-	2626.1.1 = {
+	female = yes
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_ca_nu_pangnirtung = {
 	}
 }
 character_c_ca_nu_clyde_river = {
-	name = Orpingalik
+	name = Josephie
 	religion = "ilisaijjut"
 	culture = "inuit"
 	female = no
-	2644.1.1 = {
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,11 +215,11 @@ character_c_ca_nu_clyde_river = {
 	}
 }
 character_c_ca_nu_amadjuak = {
-	name = Laakkuluk
+	name = Simigaq
 	religion = "ilisaijjut"
 	culture = "inuit"
-	female = yes
-	2605.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -231,7 +231,7 @@ character_c_ca_nt_inuvik = {
 	religion = "ilisaijjut"
 	culture = "inupiat"
 	female = no
-	2650.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_ca_nt_inuvik = {
 	}
 }
 character_c_ca_nu_kugluktuk = {
-	name = Tungajuaq
+	name = Apayata
 	religion = "ilisaijjut"
 	culture = "inuit"
 	female = no
-	2614.1.1 = {
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,11 +251,11 @@ character_c_ca_nu_kugluktuk = {
 	}
 }
 character_c_ca_nt_stanton = {
-	name = Kadlarjuk
+	name = Manasie
 	religion = "ilisaijjut"
 	culture = "inuit"
 	female = no
-	2619.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -263,11 +263,11 @@ character_c_ca_nt_stanton = {
 	}
 }
 character_c_ca_nu_rankin_inlet = {
-	name = Agiaq
+	name = Uvavnuk
 	religion = "unipkaaq"
 	culture = "inuit"
-	female = no
-	2626.1.1 = {
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -275,11 +275,11 @@ character_c_ca_nu_rankin_inlet = {
 	}
 }
 character_c_ca_nu_arviat = {
-	name = Suusan
+	name = Auyaluk
 	religion = "ilisaijjut"
 	culture = "inuit"
-	female = yes
-	2639.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -287,11 +287,11 @@ character_c_ca_nu_arviat = {
 	}
 }
 character_c_ca_nu_baker_lake = {
-	name = Lucassie
+	name = Jamasie
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2610.1.1 = {
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -299,11 +299,11 @@ character_c_ca_nu_baker_lake = {
 	}
 }
 character_c_ca_nu_coral_harbour = {
-	name = Mosha
+	name = Charlie
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2645.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -311,11 +311,11 @@ character_c_ca_nu_coral_harbour = {
 	}
 }
 character_c_ca_nu_cambridge_bay = {
-	name = Angutimmarik
+	name = Ollie
 	religion = "ilisaijjut"
 	culture = "inuit"
 	female = no
-	2610.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -323,11 +323,11 @@ character_c_ca_nu_cambridge_bay = {
 	}
 }
 character_c_ca_nu_gjoa_haven = {
-	name = Levi
+	name = Samik
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2591.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,7 +335,19 @@ character_c_ca_nu_gjoa_haven = {
 	}
 }
 character_c_ca_nu_kugaaruk = {
-	name = Markoosie
+	name = Pakak
+	religion = "unipkaaq"
+	culture = "inuit"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_nu_arctic_bay = {
+	name = Etyguyakjua
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
@@ -346,24 +358,12 @@ character_c_ca_nu_kugaaruk = {
 		death = yes
 	}
 }
-character_c_ca_nu_arctic_bay = {
-	name = Elizirie
-	religion = "unipkaaq"
-	culture = "inuit"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_ca_nu_wager_bay = {
-	name = Kiviaq
+	name = Elisapie
 	religion = "unipkaaq"
 	culture = "inuit"
-	female = no
-	2635.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_ca_nu_wager_bay = {
 	}
 }
 character_c_ca_nu_igloolik = {
-	name = Ipirvik
+	name = Simeonie
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2594.1.1 = {
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,11 +383,11 @@ character_c_ca_nu_igloolik = {
 	}
 }
 character_c_ca_nu_grise_fiord = {
-	name = Aviaq
+	name = Samik
 	religion = "unipkaaq"
 	culture = "inuit"
-	female = yes
-	2647.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -395,11 +395,11 @@ character_c_ca_nu_grise_fiord = {
 	}
 }
 character_c_labrador_west = {
-	name = Sunny
+	name = R_e_act_al
 	religion = "midewiwin"
 	culture = "innu"
 	female = no
-	2602.1.1 = {
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,11 +407,11 @@ character_c_labrador_west = {
 	}
 }
 character_c_fermont = {
-	name = Chakip
+	name = Chimis
 	religion = "midewiwin"
 	culture = "innu"
 	female = no
-	2617.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,11 +419,11 @@ character_c_fermont = {
 	}
 }
 character_c_schefferville = {
-	name = Jade
+	name = George
 	religion = "unipkaaq"
 	culture = "innu"
-	female = yes
-	2653.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -431,11 +431,11 @@ character_c_schefferville = {
 	}
 }
 character_c_melville = {
-	name = William
+	name = Gilles
 	religion = "pelagic"
 	culture = "innu"
 	female = no
-	2645.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_melville = {
 	}
 }
 character_c_cartwright = {
-	name = Charlie
+	name = R_e_act_al
 	religion = "pelagic"
 	culture = "innu"
 	female = no
-	2630.1.1 = {
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_cartwright = {
 	}
 }
 character_c_alexis = {
-	name = Sunny
+	name = Matiyuw
 	religion = "pelagic"
 	culture = "innu"
 	female = no
-	2647.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_alexis = {
 	}
 }
 character_c_ca_qc_salluit = {
-	name = Atuat
+	name = Apayata
 	religion = "unipkaaq"
 	culture = "inuit"
-	female = yes
-	2615.1.1 = {
+	female = no
+	2629.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_ca_qc_salluit = {
 	}
 }
 character_c_ca_qc_rivi_re_koksoak = {
-	name = Elizirie
+	name = Tagak
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2621.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -491,11 +491,11 @@ character_c_ca_qc_rivi_re_koksoak = {
 	}
 }
 character_c_ca_nu_sanikiluaq = {
-	name = Sigouneebeesh
+	name = Miyawapin
 	religion = "unipkaaq"
 	culture = "iyyu"
 	female = yes
-	2642.1.1 = {
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,11 +503,11 @@ character_c_ca_nu_sanikiluaq = {
 	}
 }
 character_c_ca_qc_inukjuak = {
-	name = Gideonie
+	name = Ittinuaq
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2650.1.1 = {
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -515,11 +515,11 @@ character_c_ca_qc_inukjuak = {
 	}
 }
 character_c_ca_qc_aupaluk = {
-	name = Kumaglak
+	name = Tungilik
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
-	2647.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -527,7 +527,7 @@ character_c_ca_qc_aupaluk = {
 	}
 }
 character_c_ca_qc_kangiqsujuaq = {
-	name = Sauri
+	name = Simeonie
 	religion = "unipkaaq"
 	culture = "inuit"
 	female = no
@@ -539,11 +539,11 @@ character_c_ca_qc_kangiqsujuaq = {
 	}
 }
 character_c_ca_nl_hopedale = {
-	name = Qulitalik
+	name = Tungilik
 	religion = "pelagic"
 	culture = "inuit"
 	female = no
-	2637.1.1 = {
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_ca_nl_hopedale = {
 	}
 }
 character_c_ca_nl_natuashish = {
-	name = Angutimmarik
+	name = Juatan
 	religion = "pelagic"
 	culture = "inuit"
 	female = no
-	2594.1.1 = {
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_ca_nl_natuashish = {
 	}
 }
 character_c_ca_qc_kangiqsualujjuaq = {
-	name = Osuitok
+	name = Agiaq
 	religion = "pelagic"
 	culture = "inuit"
 	female = no
-	2636.1.1 = {
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

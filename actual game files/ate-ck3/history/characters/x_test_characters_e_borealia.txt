@@ -1,9 +1,9 @@
 character_c_ca_ab_grande_prairie = {
-	name = Mary
+	name = Ingrid
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = yes
-	2631.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -15,7 +15,7 @@ character_c_ca_bc_fort_st_john = {
 	religion = "peace_church"
 	culture = "dane-zaa"
 	female = no
-	2622.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_ca_bc_fort_st_john = {
 	}
 }
 character_c_ca_ab_peace_river = {
-	name = Erich
+	name = Reuben
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = no
-	2596.1.1 = {
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,11 +35,11 @@ character_c_ca_ab_peace_river = {
 	}
 }
 character_c_ca_bc_dawson_creek = {
-	name = Emma
+	name = Reuben
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	female = yes
-	2625.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -47,11 +47,11 @@ character_c_ca_bc_dawson_creek = {
 	}
 }
 character_c_ca_bc_tumbler_ridge = {
-	name = Siegfried
+	name = Alfred
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = no
-	2614.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -63,7 +63,7 @@ character_c_qood_buffalo = {
 	religion = "peyotist"
 	culture = "plains_cree"
 	female = no
-	2621.1.1 = {
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -75,7 +75,7 @@ character_c_cold_lake = {
 	religion = "exovedate"
 	culture = "plains_cree"
 	female = no
-	2609.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,11 +83,11 @@ character_c_cold_lake = {
 	}
 }
 character_c_st_paul = {
-	name = Louis-Hippolyte
+	name = Gis_e_grv_le
 	religion = "exovedate"
 	culture = "metis"
-	female = no
-	2655.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -95,11 +95,11 @@ character_c_st_paul = {
 	}
 }
 character_c_lakeland = {
-	name = Charles
+	name = Laura
 	religion = "exovedate"
 	culture = "metis"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,7 +111,7 @@ character_c_wabasca = {
 	religion = "peyotist"
 	culture = "plains_cree"
 	female = no
-	2601.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -119,11 +119,11 @@ character_c_wabasca = {
 	}
 }
 character_c_slave_lake = {
-	name = Alan
+	name = Joel
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = no
-	2629.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -134,8 +134,8 @@ character_c_high_level = {
 	name = Test
 	religion = "peyotist"
 	culture = "dane-zaa"
-	female = yes
-	2611.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,11 +143,11 @@ character_c_high_level = {
 	}
 }
 character_c_winagami = {
-	name = Simon
+	name = Erhart
 	religion = "peace_church"
 	culture = "plautsdeutsch"
 	female = no
-	2598.1.1 = {
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -158,8 +158,8 @@ character_c_ca_ab_manning = {
 	name = Test
 	religion = "peace_church"
 	culture = "dane-zaa"
-	female = no
-	2659.1.1 = {
+	female = yes
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -170,8 +170,8 @@ character_c_utikuma = {
 	name = Test
 	religion = "peyotist"
 	culture = "plains_cree"
-	female = no
-	2619.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -182,8 +182,8 @@ character_c_ca_nt_yellowknife = {
 	name = Test
 	religion = "eversky"
 	culture = "tlicho"
-	female = no
-	2610.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,7 +195,7 @@ character_c_ca_nt_behchok_ = {
 	religion = "anglican"
 	culture = "tlicho"
 	female = yes
-	2597.1.1 = {
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -207,7 +207,7 @@ character_c_ca_nt__utselk_e = {
 	religion = "peyotist"
 	culture = "tlicho"
 	female = no
-	2611.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -219,7 +219,7 @@ character_c_ca_nt_fort_enterprise = {
 	religion = "anglican"
 	culture = "tlicho"
 	female = no
-	2603.1.1 = {
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -231,7 +231,7 @@ character_c_muskwa = {
 	religion = "peyotist"
 	culture = "deh_cho"
 	female = no
-	2643.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -243,7 +243,7 @@ character_c_watson_lake = {
 	religion = "eversky"
 	culture = "kaska"
 	female = no
-	2601.1.1 = {
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -255,7 +255,7 @@ character_c_sikanni = {
 	religion = "peyotist"
 	culture = "deh_cho"
 	female = no
-	2602.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -267,7 +267,7 @@ character_c_ca_bc_toad_river = {
 	religion = "eversky"
 	culture = "kaska"
 	female = no
-	2660.1.1 = {
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,7 +279,7 @@ character_c_deh_cho = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = yes
-	2628.1.1 = {
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -290,8 +290,8 @@ character_c_admiralty = {
 	name = Test
 	religion = "peyotist"
 	culture = "deh_cho"
-	female = yes
-	2594.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -302,8 +302,8 @@ character_c_ca_nt_kakisa = {
 	name = Test
 	religion = "eversky"
 	culture = "deh_cho"
-	female = yes
-	2596.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -314,8 +314,8 @@ character_c_ca_nt_wrigley = {
 	name = Test
 	religion = "eversky"
 	culture = "deh_cho"
-	female = yes
-	2615.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -327,7 +327,7 @@ character_c_ca_nt_fort_smith = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = no
-	2630.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -339,7 +339,7 @@ character_c_fond_du_lac = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = no
-	2593.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -351,7 +351,7 @@ character_c_resolution = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = no
-	2591.1.1 = {
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,7 +363,7 @@ character_c_ca_ab_sweetgrass_landing = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = no
-	2647.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -375,7 +375,7 @@ character_c_ca_sk_cluff_lake = {
 	religion = "peyotist"
 	culture = "denesuline"
 	female = no
-	2598.1.1 = {
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -387,7 +387,7 @@ character_c_ca_nt_norman_wells = {
 	religion = "anglican"
 	culture = "sahtu"
 	female = no
-	2656.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -398,8 +398,8 @@ character_c_ca_nt_deline = {
 	name = Test
 	religion = "anglican"
 	culture = "sahtu"
-	female = yes
-	2625.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -411,7 +411,7 @@ character_c_ca_nt_fort_good_hope = {
 	religion = "anglican"
 	culture = "sahtu"
 	female = no
-	2628.1.1 = {
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -423,7 +423,7 @@ character_c_ca_nt_echo_bay = {
 	religion = "anglican"
 	culture = "sahtu"
 	female = yes
-	2640.1.1 = {
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,9 +1,9 @@
 character_c_ar_05_c_rdoba = {
-	name = Gustavo
+	name = Carlos
 	religion = "theosophist"
 	culture = "cordobes"
 	female = no
-	2625.1.1 = {
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -11,11 +11,11 @@ character_c_ar_05_c_rdoba = {
 	}
 }
 character_c_ar_05_r_o_cuarto = {
-	name = Norma
+	name = Roque
 	religion = "theosophist"
 	culture = "cordobes"
-	female = yes
-	2618.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_ar_05_r_o_cuarto = {
 	}
 }
 character_c_ar_05_carlos_paz = {
-	name = Elena
+	name = Mar_i_act_a_Alicia
 	religion = "theosophist"
 	culture = "cordobes"
 	female = yes
-	2624.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,105 +35,9 @@ character_c_ar_05_carlos_paz = {
 	}
 }
 character_c_ar_05_mar_a = {
-	name = Mar_i_act_a_Silvia
+	name = Dante
 	religion = "theosophist"
 	culture = "cordobes"
-	female = yes
-	2637.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_bell_ville = {
-	name = Liliana
-	religion = "theosophist"
-	culture = "cordobes"
-	female = yes
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_r_o_tercero = {
-	name = Marcelo
-	religion = "theosophist"
-	culture = "cordobes"
-	female = no
-	2625.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_alta_gracia = {
-	name = Osvaldo
-	religion = "theosophist"
-	culture = "cordobes"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_san_francisco = {
-	name = Tania
-	religion = "theosophist"
-	culture = "cordobes"
-	female = yes
-	2635.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_embalse = {
-	name = Jos_e_act__Severo
-	religion = "theosophist"
-	culture = "cordobes"
-	female = no
-	2591.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_arroyito = {
-	name = O_act_scar
-	religion = "theosophist"
-	culture = "cordobes"
-	female = no
-	2642.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_21_rosario = {
-	name = Jorge_Mario
-	religion = "rosalian"
-	culture = "porteno"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_21_venado_tuerto = {
-	name = Horacio
-	religion = "rosalian"
-	culture = "litoraleno"
 	female = no
 	2603.1.1 = {
 		birth = yes
@@ -142,12 +46,108 @@ character_c_ar_21_venado_tuerto = {
 		death = yes
 	}
 }
-character_c_ar_05_laboulaye = {
-	name = Ana_Mar_i_act_a
+character_c_ar_05_bell_ville = {
+	name = Jos_e_act_
+	religion = "theosophist"
+	culture = "cordobes"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_r_o_tercero = {
+	name = Juan_Fernando
+	religion = "theosophist"
+	culture = "cordobes"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_alta_gracia = {
+	name = Jos_e_act__Roque
+	religion = "theosophist"
+	culture = "cordobes"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_san_francisco = {
+	name = O_act_scar
+	religion = "theosophist"
+	culture = "cordobes"
+	female = no
+	2601.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_embalse = {
+	name = Elvira
 	religion = "theosophist"
 	culture = "cordobes"
 	female = yes
-	2605.1.1 = {
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_arroyito = {
+	name = Roque
+	religion = "theosophist"
+	culture = "cordobes"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_21_rosario = {
+	name = Emmanuele
+	religion = "rosalian"
+	culture = "porteno"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_21_venado_tuerto = {
+	name = Eusebio
+	religion = "rosalian"
+	culture = "litoraleno"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_laboulaye = {
+	name = A_act_ngel
+	religion = "theosophist"
+	culture = "cordobes"
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -159,7 +159,7 @@ character_c_ar_21_g_lvez = {
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2646.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,11 +167,11 @@ character_c_ar_21_g_lvez = {
 	}
 }
 character_c_ar_21_rufino = {
-	name = Miguel
+	name = Juan
 	religion = "gauchada"
 	culture = "litoraleno"
 	female = no
-	2619.1.1 = {
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -183,7 +183,7 @@ character_c_ar_21_santa_fe = {
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2626.1.1 = {
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,7 +195,7 @@ character_c_ar_21_reconquista = {
 	religion = "pentecostalism"
 	culture = "qom"
 	female = no
-	2617.1.1 = {
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -203,11 +203,11 @@ character_c_ar_21_reconquista = {
 	}
 }
 character_c_ar_21_santo_tom_ = {
-	name = Pocho
+	name = El_i_act_as
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2617.1.1 = {
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -215,11 +215,11 @@ character_c_ar_21_santo_tom_ = {
 	}
 }
 character_c_ar_21_rafaela = {
-	name = Facundo
+	name = Lautaro
 	religion = "theosophist"
 	culture = "litoraleno"
 	female = no
-	2597.1.1 = {
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,11 +227,11 @@ character_c_ar_21_rafaela = {
 	}
 }
 character_c_ar_21_vera = {
-	name = Laurencio
+	name = Ezequiel
 	religion = "san_martinean"
 	culture = "litoraleno"
 	female = no
-	2612.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -239,11 +239,11 @@ character_c_ar_21_vera = {
 	}
 }
 character_c_ar_05_morteros = {
-	name = Ignacio
+	name = Sergio
 	religion = "theosophist"
 	culture = "cordobes"
 	female = no
-	2632.1.1 = {
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,9 +251,81 @@ character_c_ar_05_morteros = {
 	}
 }
 character_c_ar_21_ceres = {
-	name = Marcos
+	name = Natalia
 	religion = "animism"
 	culture = "cordobes"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_21_san_crist_bal = {
+	name = Pablo
+	religion = "theosophist"
+	culture = "turco"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_21_tostado = {
+	name = Alejandro
+	religion = "particularist"
+	culture = "turco"
+	female = no
+	2619.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_san_nicol_s_de_los_arroyos = {
+	name = Davide
+	religion = "rosalian"
+	culture = "porteno"
+	female = no
+	2628.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_jun_n = {
+	name = H_e_act_ctor
+	religion = "san_martinean"
+	culture = "pampeano"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_san_pedro = {
+	name = Fausto
+	religion = "san_martinean"
+	culture = "porteno"
+	female = no
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_01_arroyo_dulce = {
+	name = Herberto
+	religion = "san_martinean"
+	culture = "porteno"
 	female = no
 	2654.1.1 = {
 		birth = yes
@@ -262,93 +334,9 @@ character_c_ar_21_ceres = {
 		death = yes
 	}
 }
-character_c_ar_21_san_crist_bal = {
-	name = Jorge
-	religion = "theosophist"
-	culture = "turco"
-	female = no
-	2603.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_21_tostado = {
-	name = Munir
-	religion = "particularist"
-	culture = "turco"
-	female = no
-	2595.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_san_nicol_s_de_los_arroyos = {
-	name = Rebeca
-	religion = "rosalian"
-	culture = "porteno"
-	female = yes
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_jun_n = {
-	name = Matteo
-	religion = "san_martinean"
-	culture = "pampeano"
-	female = no
-	2630.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_san_pedro = {
-	name = Filipe
-	religion = "san_martinean"
-	culture = "porteno"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_01_arroyo_dulce = {
-	name = Ulisses
-	religion = "san_martinean"
-	culture = "porteno"
-	female = no
-	2609.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_ar_05_cruz_del_eje = {
-	name = N_e_act_lida
+	name = Juan_Mart_i_act_n
 	religion = "theosophist"
-	culture = "cordobes"
-	female = yes
-	2645.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_02_recreo = {
-	name = Pablo
-	religion = "animism"
 	culture = "cordobes"
 	female = no
 	2638.1.1 = {
@@ -358,12 +346,24 @@ character_c_ar_02_recreo = {
 		death = yes
 	}
 }
+character_c_ar_02_recreo = {
+	name = Esteban
+	religion = "animism"
+	culture = "cordobes"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_ar_05_de_n_funes = {
-	name = Marcelo
+	name = Aldo
 	religion = "theosophist"
 	culture = "cordobes"
 	female = no
-	2616.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -371,11 +371,11 @@ character_c_ar_05_de_n_funes = {
 	}
 }
 character_c_ar_05_quilino = {
-	name = Mart_i_act_n
+	name = Pablo
 	religion = "theosophist"
 	culture = "cordobes"
 	female = no
-	2621.1.1 = {
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -383,7 +383,7 @@ character_c_ar_05_quilino = {
 	}
 }
 character_c_ar_24_san_miguel_de_tucum_n = {
-	name = Juan_Jos_e_act_
+	name = Pedro
 	religion = "santa_diablada"
 	culture = "norteno"
 	female = no
@@ -395,11 +395,11 @@ character_c_ar_24_san_miguel_de_tucum_n = {
 	}
 }
 character_c_ar_17_salta = {
-	name = Daniel
+	name = Alberto
 	religion = "santa_diablada"
 	culture = "norteno"
 	female = no
-	2610.1.1 = {
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -407,105 +407,9 @@ character_c_ar_17_salta = {
 	}
 }
 character_c_ar_02_san_fernando_del_de_catamarca = {
-	name = Damian
+	name = Jos_e_act__Mar_i_act_a
 	religion = "animism"
 	culture = "cuyano"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_24_aguilares = {
-	name = Sara
-	religion = "animism"
-	culture = "norteno"
-	female = yes
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_24_alderetes = {
-	name = Alejandro
-	religion = "animism"
-	culture = "norteno"
-	female = no
-	2613.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_02_andalgal_ = {
-	name = Lorenzo
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_17_el_galp_n = {
-	name = Juan_Antonio
-	religion = "santa_diablada"
-	culture = "norteno"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_17_cafayate = {
-	name = Virginia
-	religion = "santa_diablada"
-	culture = "norteno"
-	female = yes
-	2646.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_02_londres = {
-	name = Lautaro
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_02_de_corral_quemado = {
-	name = Ram_o_act_n
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_10_san_salvador_de_jujuy = {
-	name = Jos_e_act__Ignacio
-	religion = "santa_diablada"
-	culture = "norteno"
 	female = no
 	2624.1.1 = {
 		birth = yes
@@ -514,12 +418,108 @@ character_c_ar_10_san_salvador_de_jujuy = {
 		death = yes
 	}
 }
+character_c_ar_24_aguilares = {
+	name = Roque
+	religion = "animism"
+	culture = "norteno"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_24_alderetes = {
+	name = Mario
+	religion = "animism"
+	culture = "norteno"
+	female = no
+	2650.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_02_andalgal_ = {
+	name = Felipe
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_17_el_galp_n = {
+	name = Alfredo
+	religion = "santa_diablada"
+	culture = "norteno"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_17_cafayate = {
+	name = Javier
+	religion = "santa_diablada"
+	culture = "norteno"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_02_londres = {
+	name = Antonio
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2591.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_02_de_corral_quemado = {
+	name = Linda
+	religion = "animism"
+	culture = "cuyano"
+	female = yes
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_10_san_salvador_de_jujuy = {
+	name = Mart_i_act_n
+	religion = "santa_diablada"
+	culture = "norteno"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_ar_17_san_ram_n_de_la_nueva_or_n = {
-	name = Ernesto
+	name = Len_i_act_n
 	religion = "santa_diablada"
 	culture = "quechua"
 	female = no
-	2607.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,7 +531,7 @@ character_c_ar_17_tartagal = {
 	religion = "pentecostalism"
 	culture = "wichi"
 	female = no
-	2601.1.1 = {
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -539,11 +539,11 @@ character_c_ar_17_tartagal = {
 	}
 }
 character_c_bo_07_villaz_n = {
-	name = Dalmecio
+	name = Ra_u_act_l
 	religion = "santa_diablada"
 	culture = "quechua"
 	female = no
-	2600.1.1 = {
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -551,11 +551,11 @@ character_c_bo_07_villaz_n = {
 	}
 }
 character_c_ar_17_joaqu_n_v_gonz_lez = {
-	name = Alejandro
+	name = Miguel
 	religion = "santa_diablada"
 	culture = "norteno"
 	female = no
-	2642.1.1 = {
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -563,11 +563,11 @@ character_c_ar_17_joaqu_n_v_gonz_lez = {
 	}
 }
 character_c_ar_17_san_antonio_de_los_cobres = {
-	name = Jacinto
+	name = Lucila
 	religion = "santa_diablada"
 	culture = "quechua"
-	female = no
-	2651.1.1 = {
+	female = yes
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -579,7 +579,7 @@ character_c_ar_17_chaguaral = {
 	religion = "santa_diablada"
 	culture = "nhandeva"
 	female = no
-	2644.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,11 +587,11 @@ character_c_ar_17_chaguaral = {
 	}
 }
 character_c_ar_13_mendoza = {
-	name = Valentino
+	name = Mili
 	religion = "animism"
 	culture = "cuyano"
-	female = no
-	2624.1.1 = {
+	female = yes
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -599,11 +599,11 @@ character_c_ar_13_mendoza = {
 	}
 }
 character_c_ar_13_san_rafael = {
-	name = Tob_i_act_as
+	name = Fernando
 	religion = "animism"
 	culture = "cuyano"
 	female = no
-	2608.1.1 = {
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -611,11 +611,11 @@ character_c_ar_13_san_rafael = {
 	}
 }
 character_c_ar_13_san_mart_n = {
-	name = Lorenzo
+	name = Ulpiano
 	religion = "animism"
 	culture = "cuyano"
 	female = no
-	2635.1.1 = {
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -623,11 +623,11 @@ character_c_ar_13_san_mart_n = {
 	}
 }
 character_c_ar_11_santa_isabel = {
-	name = Javier
+	name = Flor
 	religion = "animism"
 	culture = "cuyano"
-	female = no
-	2607.1.1 = {
+	female = yes
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -635,11 +635,11 @@ character_c_ar_11_santa_isabel = {
 	}
 }
 character_c_ar_13_primero_de_mayo = {
-	name = Luis
+	name = Emilia
 	religion = "animism"
 	culture = "cuyano"
-	female = no
-	2592.1.1 = {
+	female = yes
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -647,7 +647,7 @@ character_c_ar_13_primero_de_mayo = {
 	}
 }
 character_c_ar_13_las_loicas = {
-	name = Omar
+	name = Osvaldo
 	religion = "animism"
 	culture = "cuyano"
 	female = no
@@ -659,11 +659,11 @@ character_c_ar_13_las_loicas = {
 	}
 }
 character_c_ar_13_las_le_as = {
-	name = Manuel
+	name = Sofia
 	religion = "animism"
 	culture = "cuyano"
-	female = no
-	2604.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,7 +671,91 @@ character_c_ar_13_las_le_as = {
 	}
 }
 character_c_ar_19_bajada_nueva = {
-	name = Jos_e_act__Francisco
+	name = Victor
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_13_campo_los_andes = {
+	name = Gabriel
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_13_jaime_prats = {
+	name = Juan_Cruz
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_13_chilecito = {
+	name = Hern_a_act_n
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_13_cadetes_de_chile = {
+	name = I_n_tld_aki
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2646.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_13_el_central = {
+	name = Sara
+	religion = "animism"
+	culture = "cuyano"
+	female = yes
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_13_blanco_encalada = {
+	name = Theo
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_18_san_juan = {
+	name = Victorino
 	religion = "animism"
 	culture = "cuyano"
 	female = no
@@ -682,20 +766,188 @@ character_c_ar_19_bajada_nueva = {
 		death = yes
 	}
 }
-character_c_ar_13_campo_los_andes = {
-	name = Damian
+character_c_ar_18_caucete = {
+	name = Milagros
 	religion = "animism"
 	culture = "cuyano"
-	female = no
-	2637.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ar_13_jaime_prats = {
-	name = Rodolfo
+character_c_ar_18_albard_n = {
+	name = Tom_a_act_s
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_18_san_jos_de_j_chal = {
+	name = Humberto
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2632.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_18_calingasta = {
+	name = Pablo
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_12_vinchina = {
+	name = Jos_e_act_
+	religion = "animism"
+	culture = "turco"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_18_ba_o_centenario = {
+	name = Alan
+	religion = "camino_estelar"
+	culture = "cuyano"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_12_yegua_quemada = {
+	name = Tamer
+	religion = "animism"
+	culture = "turco"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_19_san_luis = {
+	name = Antonio
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2656.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_19_merlo = {
+	name = Mar_i_act_a_Victoria
+	religion = "theosophist"
+	culture = "cordobes"
+	female = yes
+	2623.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_05_dolores = {
+	name = Ciro
+	religion = "theosophist"
+	culture = "cuyano"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_19_san_francisco_del_monte_de_oro = {
+	name = Yep_u_uml_n
+	religion = "animism"
+	culture = "cuyano"
+	female = no
+	2599.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_19_buena_esperanza = {
+	name = Camillo
+	religion = "animism"
+	culture = "pampeano"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_12_la_rioja = {
+	name = Amira
+	religion = "animism"
+	culture = "turco"
+	female = yes
+	2633.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_12_chilecito = {
+	name = Selem
+	religion = "animism"
+	culture = "turco"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_02_tinogasta = {
+	name = Yamil
+	religion = "animism"
+	culture = "turco"
+	female = no
+	2594.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ar_12_chamical = {
+	name = Francisco
 	religion = "animism"
 	culture = "cuyano"
 	female = no
@@ -706,264 +958,12 @@ character_c_ar_13_jaime_prats = {
 		death = yes
 	}
 }
-character_c_ar_13_chilecito = {
-	name = Ulpiano
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_13_cadetes_de_chile = {
-	name = Jos_e_act__Mar_i_act_a
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_13_el_central = {
-	name = Faustino
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2633.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_13_blanco_encalada = {
-	name = Oriana
-	religion = "animism"
-	culture = "cuyano"
-	female = yes
-	2590.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_18_san_juan = {
-	name = Awka
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_18_caucete = {
-	name = Ulises
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_18_albard_n = {
-	name = Mateo
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2652.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_18_san_jos_de_j_chal = {
-	name = Emma
-	religion = "animism"
-	culture = "cuyano"
-	female = yes
-	2621.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_18_calingasta = {
-	name = Pedro
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2604.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_12_vinchina = {
-	name = Ricardo
-	religion = "animism"
-	culture = "turco"
-	female = no
-	2660.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_18_ba_o_centenario = {
-	name = Alma
-	religion = "camino_estelar"
-	culture = "cuyano"
-	female = yes
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_12_yegua_quemada = {
-	name = Alejandro
-	religion = "animism"
-	culture = "turco"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_19_san_luis = {
-	name = Camilo
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2640.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_19_merlo = {
-	name = Marcos
-	religion = "theosophist"
-	culture = "cordobes"
-	female = no
-	2631.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_05_dolores = {
-	name = Juan_Manuel
-	religion = "theosophist"
-	culture = "cuyano"
-	female = no
-	2596.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_19_san_francisco_del_monte_de_oro = {
-	name = Pedro_Jos_e_act_
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_19_buena_esperanza = {
-	name = Juan_Carlos
-	religion = "animism"
-	culture = "pampeano"
-	female = no
-	2597.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_12_la_rioja = {
-	name = Tamer
-	religion = "animism"
-	culture = "turco"
-	female = no
-	2618.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_12_chilecito = {
-	name = Em_i_act_n
-	religion = "animism"
-	culture = "turco"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_02_tinogasta = {
-	name = Amado
-	religion = "animism"
-	culture = "turco"
-	female = no
-	2638.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ar_12_chamical = {
-	name = Kun
-	religion = "animism"
-	culture = "cuyano"
-	female = no
-	2629.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_ar_18_san_agust_n_de_f_rtil = {
-	name = Luis
+	name = Bartolom_e_act_
 	religion = "animism"
 	culture = "cuyano"
 	female = no
-	2647.1.1 = {
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -971,11 +971,11 @@ character_c_ar_18_san_agust_n_de_f_rtil = {
 	}
 }
 character_c_ar_12_chelcos = {
-	name = Pedro
+	name = Alberto
 	religion = "animism"
 	culture = "cuyano"
 	female = no
-	2628.1.1 = {
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

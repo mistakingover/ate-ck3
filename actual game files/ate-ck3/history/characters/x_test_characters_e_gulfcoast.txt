@@ -1,9 +1,9 @@
 character_c_us_fl_miami = {
-	name = Ram_o_act_n
+	name = Yoel
 	religion = "americanist"
 	culture = "cubano"
 	female = no
-	2612.1.1 = {
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -15,7 +15,7 @@ character_c_us_fl_port_saint_lucie = {
 	religion = "reform"
 	culture = "yiddish"
 	female = no
-	2595.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -23,11 +23,11 @@ character_c_us_fl_port_saint_lucie = {
 	}
 }
 character_c_us_fl_homestead = {
-	name = Gregor
+	name = Roxie
 	religion = "americanist"
 	culture = "gulfard"
-	female = no
-	2623.1.1 = {
+	female = yes
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -35,82 +35,10 @@ character_c_us_fl_homestead = {
 	}
 }
 character_c_us_fl_key_west = {
-	name = Park
-	religion = "americanist"
-	culture = "gulfard"
-	female = no
-	2653.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_tampa = {
-	name = Alkindus
-	religion = "misrist"
-	culture = "neomoor"
-	female = no
-	2610.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_cape_coral = {
-	name = Robard
-	religion = "americanist"
-	culture = "gulfard"
-	female = no
-	2593.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_sebring = {
-	name = Macond
-	religion = "americanist"
-	culture = "gulfard"
-	female = no
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_orlando = {
-	name = Beryl
+	name = Aucilla
 	religion = "americanist"
 	culture = "gulfard"
 	female = yes
-	2598.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_palm_bay = {
-	name = Felipe
-	religion = "americanist"
-	culture = "gulfard"
-	female = no
-	2627.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_spring_hill = {
-	name = Bowleg
-	religion = "americanist"
-	culture = "gulfard"
-	female = no
 	2620.1.1 = {
 		birth = yes
 	}
@@ -118,12 +46,84 @@ character_c_us_fl_spring_hill = {
 		death = yes
 	}
 }
-character_c_ocala = {
-	name = Rita
+character_c_tampa = {
+	name = Zafir
+	religion = "misrist"
+	culture = "neomoor"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_cape_coral = {
+	name = Offatt
+	religion = "americanist"
+	culture = "gulfard"
+	female = no
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_sebring = {
+	name = Katrina
 	religion = "americanist"
 	culture = "gulfard"
 	female = yes
-	2627.1.1 = {
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_orlando = {
+	name = Henry
+	religion = "americanist"
+	culture = "gulfard"
+	female = no
+	2613.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_palm_bay = {
+	name = Nautilia
+	religion = "americanist"
+	culture = "gulfard"
+	female = yes
+	2626.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_spring_hill = {
+	name = Rufus
+	religion = "americanist"
+	culture = "gulfard"
+	female = no
+	2592.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ocala = {
+	name = Allen
+	religion = "americanist"
+	culture = "gulfard"
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -131,11 +131,11 @@ character_c_ocala = {
 	}
 }
 character_c_us_fl_saint_cloud = {
-	name = Sebastien
+	name = Mathias
 	religion = "americanist"
 	culture = "gulfard"
 	female = no
-	2651.1.1 = {
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -143,11 +143,11 @@ character_c_us_fl_saint_cloud = {
 	}
 }
 character_c_us_fl_jacksonville = {
-	name = Baker
+	name = Rooney
 	religion = "revelationist"
 	culture = "dixie"
 	female = no
-	2631.1.1 = {
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -155,11 +155,11 @@ character_c_us_fl_jacksonville = {
 	}
 }
 character_c_us_fl_deltona = {
-	name = Carles
+	name = Gilbert
 	religion = "americanist"
 	culture = "gulfard"
 	female = no
-	2624.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,8 +167,44 @@ character_c_us_fl_deltona = {
 	}
 }
 character_c_us_fl_east_pensacola_heights = {
-	name = Dorian
+	name = Paul
 	religion = "evangelical"
+	culture = "gulfard"
+	female = no
+	2655.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_tallahassee = {
+	name = Robard
+	religion = "evangelical"
+	culture = "gulfard"
+	female = no
+	2629.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_fl_bay = {
+	name = Aucilla
+	religion = "evangelical"
+	culture = "gulfard"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_al_mobile = {
+	name = Gregor
+	religion = "voodoo"
 	culture = "gulfard"
 	female = no
 	2657.1.1 = {
@@ -178,48 +214,12 @@ character_c_us_fl_east_pensacola_heights = {
 		death = yes
 	}
 }
-character_c_us_fl_tallahassee = {
-	name = Micanope
-	religion = "evangelical"
-	culture = "gulfard"
-	female = no
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_bay = {
-	name = Jedediah
-	religion = "evangelical"
-	culture = "gulfard"
-	female = no
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_al_mobile = {
-	name = Halpatter
-	religion = "voodoo"
-	culture = "gulfard"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
 character_c_us_fl_alachua = {
-	name = Forrest
+	name = Hermine
 	religion = "americanist"
 	culture = "gulfard"
-	female = no
-	2604.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -227,69 +227,9 @@ character_c_us_fl_alachua = {
 	}
 }
 character_c_us_fl_lake_city = {
-	name = Loribelle
+	name = Otis
 	religion = "revelationist"
 	culture = "dixie"
-	female = yes
-	2636.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_fl_cross_city = {
-	name = Titus
-	religion = "americanist"
-	culture = "gulfard"
-	female = no
-	2649.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_baton_rouge = {
-	name = Antoine
-	religion = "voodoo"
-	culture = "cajun"
-	female = no
-	2611.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_lafayette = {
-	name = Iris
-	religion = "voodoo"
-	culture = "cajun"
-	female = yes
-	2626.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_saint_charles_parish = {
-	name = Burkeman
-	religion = "voodoo"
-	culture = "cajun"
-	female = no
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_calcasieu_parish = {
-	name = Toutant
-	religion = "catholic"
-	culture = "cajun"
 	female = no
 	2651.1.1 = {
 		birth = yes
@@ -298,60 +238,12 @@ character_c_us_la_calcasieu_parish = {
 		death = yes
 	}
 }
-character_c_us_la_crowley = {
-	name = Olivier
-	religion = "catholic"
-	culture = "cajun"
-	female = no
-	2658.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_opelousas = {
-	name = Anne-Marie
-	religion = "catholic"
-	culture = "creole"
-	female = yes
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_new_orleans = {
-	name = Monique
-	religion = "voodoo"
-	culture = "creole"
-	female = yes
-	2608.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_marrero = {
-	name = Catherine
-	religion = "voodoo"
-	culture = "cajun"
-	female = yes
-	2623.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ms_gulfport = {
-	name = Ramon
-	religion = "voodoo"
+character_c_us_fl_cross_city = {
+	name = Gomer
+	religion = "americanist"
 	culture = "gulfard"
 	female = no
-	2645.1.1 = {
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -359,57 +251,69 @@ character_c_us_ms_gulfport = {
 	}
 }
 character_c_us_la_baton_rouge = {
-	name = Leonide
-	religion = "catholic"
-	culture = "creole"
-	female = no
-	2622.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_slidell = {
-	name = Eulalie
+	name = Ren_e_act_
 	religion = "voodoo"
-	culture = "creole"
-	female = yes
-	2656.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_la_monroe = {
-	name = Gregory
-	religion = "revelationist"
-	culture = "dixie"
+	culture = "cajun"
 	female = no
-	2653.1.1 = {
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_la_ruston = {
-	name = Burris
-	religion = "revelationist"
-	culture = "dixie"
+character_c_us_la_lafayette = {
+	name = Lionel
+	religion = "voodoo"
+	culture = "cajun"
 	female = no
-	2623.1.1 = {
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_la_minden = {
-	name = Angel
+character_c_us_la_saint_charles_parish = {
+	name = Claude
+	religion = "voodoo"
+	culture = "cajun"
+	female = no
+	2657.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_calcasieu_parish = {
+	name = Firmin
 	religion = "catholic"
-	culture = "dixie"
+	culture = "cajun"
+	female = no
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_crowley = {
+	name = David
+	religion = "catholic"
+	culture = "cajun"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_opelousas = {
+	name = Edolie
+	religion = "catholic"
+	culture = "creole"
 	female = yes
 	2659.1.1 = {
 		birth = yes
@@ -418,10 +322,10 @@ character_c_us_la_minden = {
 		death = yes
 	}
 }
-character_c_us_la_tallulah = {
-	name = Mike
-	religion = "revelationist"
-	culture = "dixie"
+character_c_us_la_new_orleans = {
+	name = Edwin
+	religion = "voodoo"
+	culture = "creole"
 	female = no
 	2639.1.1 = {
 		birth = yes
@@ -430,12 +334,108 @@ character_c_us_la_tallulah = {
 		death = yes
 	}
 }
+character_c_us_la_marrero = {
+	name = Benjamin
+	religion = "voodoo"
+	culture = "cajun"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_ms_gulfport = {
+	name = Allen
+	religion = "voodoo"
+	culture = "gulfard"
+	female = no
+	2654.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_baton_rouge = {
+	name = Aristide
+	religion = "catholic"
+	culture = "creole"
+	female = no
+	2652.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_slidell = {
+	name = Cyprien
+	religion = "voodoo"
+	culture = "creole"
+	female = no
+	2636.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_monroe = {
+	name = Wilbur
+	religion = "revelationist"
+	culture = "dixie"
+	female = no
+	2651.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_ruston = {
+	name = Bubba
+	religion = "revelationist"
+	culture = "dixie"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_minden = {
+	name = Tammie
+	religion = "catholic"
+	culture = "dixie"
+	female = yes
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_us_la_tallulah = {
+	name = Garth
+	religion = "revelationist"
+	culture = "dixie"
+	female = no
+	2648.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
 character_c_us_la_winnfield = {
-	name = Tyler
+	name = Bodean
 	religion = "catholic"
 	culture = "dixie"
 	female = no
-	2595.1.1 = {
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -443,11 +443,11 @@ character_c_us_la_winnfield = {
 	}
 }
 character_c_us_la_alexandria = {
-	name = Adele
+	name = Nathalie
 	religion = "catholic"
 	culture = "creole"
 	female = yes
-	2644.1.1 = {
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -455,11 +455,11 @@ character_c_us_la_alexandria = {
 	}
 }
 character_c_us_la_natchitoches = {
-	name = Sidney
+	name = Josephine
 	religion = "catholic"
 	culture = "creole"
-	female = no
-	2595.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -467,11 +467,11 @@ character_c_us_la_natchitoches = {
 	}
 }
 character_c_us_la_deridder = {
-	name = Illaire
+	name = Paul
 	religion = "catholic"
 	culture = "cajun"
 	female = no
-	2638.1.1 = {
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -479,11 +479,11 @@ character_c_us_la_deridder = {
 	}
 }
 character_c_us_la_pineville = {
-	name = Albert
+	name = Francis
 	religion = "catholic"
 	culture = "creole"
 	female = no
-	2635.1.1 = {
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
