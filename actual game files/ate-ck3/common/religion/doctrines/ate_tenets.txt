@@ -3,6 +3,28 @@
 	number_of_picks = 3
 
 	################################
+	# UC-Specific Tenets 	       #
+	################################
+	
+	tenet_inter_faith_services = {
+		#WIP - Allows for inter-faith services events
+		icon = core_tenet_altar
+		
+		piety_cost = {
+			value = faith_tenet_cost_low
+		}
+		
+		is_shown = {
+			religion_tag = christianity_religion
+		}
+		
+		parameters = {
+			inter_faith_services_active = yes
+		}
+	}
+	
+	
+	################################
 	# Trailwalker Specific	Tenets #
 	################################
 
@@ -2728,6 +2750,7 @@
 			sins = { cynical greedy }
 		}
 	}
+
 
 	#############################
 	# Custom Faith Tenets		#
