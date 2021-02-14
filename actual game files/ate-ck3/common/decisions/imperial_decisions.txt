@@ -1,0 +1,97 @@
+convert_whole_realm_to_imperial_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_realm.dds"
+	major = yes
+	desc = convert_whole_realm_to_imperial_decision_desc
+
+	ai_check_interval = 36
+
+	is_shown = {
+		has_government = feudal_government
+		is_independent_ruler = yes
+		is_ai = no
+	}
+
+	is_valid = {
+		is_ai = no
+		is_independent_ruler = yes
+		NOT = {
+			has_government = imperial_government
+		}
+	}
+
+	cost = {
+		prestige = 10
+	}
+
+	effect = {
+		trigger_event = imperial_decisions.0001
+		save_scope_as = actor
+		convert_whole_realm_to_imperial_effect = yes
+		hidden_effect = {
+			every_vassal = {
+				trigger_event = {
+					id = imperial_decisions.0002
+					days = 3
+				}
+			}
+		}
+	}
+
+	ai_potential = {
+		NOT = { has_title = title:e_mongol_empire } #Stop the Mongols from slowing their conquest.
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
+
+convert_whole_realm_to_governorate_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_realm.dds"
+	major = yes
+	desc = convert_whole_realm_to_governorate_decision_desc
+
+	ai_check_interval = 3
+
+	is_shown = {
+		NOT = {
+			has_government = governorate_government
+		}
+		is_independent_ruler = no
+		vassal_contract_has_flag = has_governorate_contract 
+	}
+
+	is_valid = {
+		is_independent_ruler = no
+		NOT = {
+			has_government = governorate_government
+		}
+		vassal_contract_has_flag = has_governorate_contract
+	}
+
+	cost = {
+		#prestige = 10
+	}
+
+	effect = {
+		trigger_event = governorate_decisions.0001
+		save_scope_as = actor
+		convert_whole_realm_to_governorate_effect = yes
+		hidden_effect = {
+			every_vassal = {
+				trigger_event = {
+					id = governorate_decisions.0002
+					days = 3
+				}
+			}
+		}
+	}
+
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}

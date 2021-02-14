@@ -1,0 +1,21 @@
+got_imperial_council_position_effect = {
+
+	#If there is a fired opinion remove it
+	if = {
+		limit = {
+			liege = {
+				is_independent_ruler = no
+				OR = {
+					has_government = imperial_government
+					has_government = governorate_government
+					has_government = captaincy_government
+				}
+				OR = {
+					has_realm_law_flag = courtly_court
+					has_realm_law_flag = bureaucratic_court
+				}
+			}
+		}
+		add_unpressed_claim = liege.primary_title
+	}
+}
