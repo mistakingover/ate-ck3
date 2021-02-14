@@ -808,6 +808,18 @@
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 			}
 		}
+
+		nazarene = {
+			color = { 48 27 36 }
+			icon = nazarene
+			graphical_faith = "catholic_gfx"
+						
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_communal_identity
+			doctrine = tenet_wisdom_of_gurus
+		}
+			
 		guadalupan = {
 			color = { 216 178 76 }
 			icon = guadalupe
