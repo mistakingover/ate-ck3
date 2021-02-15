@@ -274,12 +274,12 @@ d_xique_xique = {
 	}
 }
 
-c_br_05_barriguda = {
+c_br_05_pau_de_colher = {
 	2000.1.1 = {
 	 liege = d_xique_xique
 	}
 	2656.1.1 = {
-		holder = character_c_br_05_barriguda
+		holder = character_c_br_05_pau_de_colher
 	}
 }
 
@@ -489,12 +489,12 @@ c_br_05_carinhanha = {
 	}
 }
 
-c_br_05_javi = {
+c_br_05_brejinho = {
 	2000.1.1 = {
 	 liege = d_barreiras
 	}
 	2656.1.1 = {
-		holder = character_c_br_05_javi
+		holder = character_c_br_05_brejinho
 	}
 }
 
@@ -512,11 +512,11 @@ d_remanso = {
 	}
 }
 
-c_br_05_lagoas = {
+c_br_05_tor_o = {
 	2000.1.1 = {
 	 liege = d_remanso
 	}
 	2656.1.1 = {
-		holder = character_c_br_05_lagoas
+		holder = character_c_br_05_tor_o
 	}
 }

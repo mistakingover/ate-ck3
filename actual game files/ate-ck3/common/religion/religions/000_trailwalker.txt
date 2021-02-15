@@ -214,10 +214,10 @@
 		#	icon = tengri
 		#}
 		
-		eversky = {
+		midnight_sun = {
 			color = { 0 51 204 }
-			icon = eversky
-			reformed_icon = eversky
+			icon = midnight_sun
+			reformed_icon = midnight_sun_reformed
 			
 			doctrine = tenet_astrology
 			doctrine = tenet_sanctity_of_nature
@@ -244,22 +244,6 @@
 			
 			localization = {
 				GoodGodNames = { trailwalker_good_god_lewison_clark }
-			}
-
-		}
-		midnight_sun = {
-			color = { 114 6 129 }
-			icon = midnight_sun
-			reformed_icon = midnight_sun
-			
-			doctrine = tenet_ritual_hospitality
-			doctrine = tenet_sanctity_of_nature
-			doctrine = tenet_warmonger
-			
-			doctrine = doctrine_the_marshal
-			
-			localization = {
-				GoodGodNames = { trailwalker_good_god_kelso }
 			}
 
 		}

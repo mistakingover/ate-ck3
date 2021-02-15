@@ -808,6 +808,18 @@
 				NightGodHerHim = CHARACTER_HERHIM_HIM
 			}
 		}
+
+		nazarene = {
+			color = { 48 27 36 }
+			icon = nazarene
+			graphical_faith = "catholic_gfx"
+						
+			#Tenets
+			doctrine = tenet_communion
+			doctrine = tenet_communal_identity
+			doctrine = tenet_wisdom_of_gurus
+		}
+			
 		guadalupan = {
 			color = { 216 178 76 }
 			icon = guadalupe
@@ -3159,8 +3171,39 @@
 			doctrine = special_doctrine_protestant_heritage
 			
 			#tenets
+			doctrine = tenet_inter_faith_services		#To be created: reduces opinion maluses between vassals of different faith in the realm
+			doctrine = tenet_mendicant_preachers	
+			doctrine = tenet_communion
 
 			#Doctrines
+			
+			#Main Group
+			doctrine = doctrine_spiritual_head
+			doctrine = doctrine_gender_equal
+			doctrine = doctrine_pluralism_pluralistic
+			doctrine = doctrine_theocracy_lay_clergy
+
+			#Marriage
+			doctrine = doctrine_monogamy
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_bastardry_legitimization
+			doctrine = doctrine_consanguinity_cousins
+
+			#Crimes
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_adultery_men_shunned
+			doctrine = doctrine_adultery_women_shunned
+			doctrine = doctrine_kinslaying_any_dynasty_member_crime
+			doctrine = doctrine_deviancy_shunned
+			doctrine = doctrine_witchcraft_shunned
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_alms_and_pacification
+			doctrine = doctrine_clerical_gender_either
+			doctrine = doctrine_clerical_marriage_allowed
+			doctrine = doctrine_clerical_succession_spiritual_appointment
+			
+
 		}
 	}
 }

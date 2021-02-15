@@ -1,11 +1,9 @@
 character_c_ca_ab_grande_prairie = {
-	name = "Test"
+	name = Ingrid
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,27 +11,11 @@ character_c_ca_ab_grande_prairie = {
 	}
 }
 character_c_ca_bc_fort_st_john = {
-	name = "Test"
+	name = Test
 	religion = "peace_church"
 	culture = "dane-zaa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_fort_st_john = {
-	name = "Test"
-	religion = "peace_church"
-	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +23,11 @@ character_c_ca_bc_fort_st_john = {
 	}
 }
 character_c_ca_ab_peace_river = {
-	name = "Test"
+	name = Reuben
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +35,11 @@ character_c_ca_ab_peace_river = {
 	}
 }
 character_c_ca_bc_dawson_creek = {
-	name = "Test"
+	name = Reuben
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +47,11 @@ character_c_ca_bc_dawson_creek = {
 	}
 }
 character_c_ca_bc_tumbler_ridge = {
-	name = "Test"
+	name = Alfred
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +59,11 @@ character_c_ca_bc_tumbler_ridge = {
 	}
 }
 character_c_qood_buffalo = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "plains_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +71,11 @@ character_c_qood_buffalo = {
 	}
 }
 character_c_cold_lake = {
-	name = "Test"
+	name = Test
 	religion = "exovedate"
 	culture = "plains_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +83,11 @@ character_c_cold_lake = {
 	}
 }
 character_c_st_paul = {
-	name = "Test"
+	name = Gis_e_grv_le
 	religion = "exovedate"
 	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +95,11 @@ character_c_st_paul = {
 	}
 }
 character_c_lakeland = {
-	name = "Test"
+	name = Laura
 	religion = "exovedate"
 	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +107,11 @@ character_c_lakeland = {
 	}
 }
 character_c_wabasca = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "plains_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +119,11 @@ character_c_wabasca = {
 	}
 }
 character_c_slave_lake = {
-	name = "Test"
+	name = Joel
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +131,11 @@ character_c_slave_lake = {
 	}
 }
 character_c_high_level = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "dane-zaa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +143,11 @@ character_c_high_level = {
 	}
 }
 character_c_winagami = {
-	name = "Test"
+	name = Erhart
 	religion = "peace_church"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +155,11 @@ character_c_winagami = {
 	}
 }
 character_c_ca_ab_manning = {
-	name = "Test"
+	name = Test
 	religion = "peace_church"
 	culture = "dane-zaa"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +167,11 @@ character_c_ca_ab_manning = {
 	}
 }
 character_c_utikuma = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "plains_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +179,11 @@ character_c_utikuma = {
 	}
 }
 character_c_ca_nt_yellowknife = {
-	name = "Test"
+	name = Test
 	religion = "eversky"
 	culture = "tlicho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +191,11 @@ character_c_ca_nt_yellowknife = {
 	}
 }
 character_c_ca_nt_behchok_ = {
-	name = "Test"
+	name = Test
 	religion = "anglican"
 	culture = "tlicho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +203,11 @@ character_c_ca_nt_behchok_ = {
 	}
 }
 character_c_ca_nt__utselk_e = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "tlicho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +215,11 @@ character_c_ca_nt__utselk_e = {
 	}
 }
 character_c_ca_nt_fort_enterprise = {
-	name = "Test"
+	name = Test
 	religion = "anglican"
 	culture = "tlicho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +227,11 @@ character_c_ca_nt_fort_enterprise = {
 	}
 }
 character_c_muskwa = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "deh_cho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +239,11 @@ character_c_muskwa = {
 	}
 }
 character_c_watson_lake = {
-	name = "Test"
+	name = Test
 	religion = "eversky"
 	culture = "kaska"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +251,11 @@ character_c_watson_lake = {
 	}
 }
 character_c_sikanni = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "deh_cho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,27 +263,11 @@ character_c_sikanni = {
 	}
 }
 character_c_ca_bc_toad_river = {
-	name = "Test"
+	name = Test
 	religion = "eversky"
 	culture = "kaska"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_ca_bc_toad_river = {
-	name = "Test"
-	religion = "peyotist"
-	culture = "deh_cho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +275,11 @@ character_c_ca_bc_toad_river = {
 	}
 }
 character_c_deh_cho = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "denesuline"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +287,11 @@ character_c_deh_cho = {
 	}
 }
 character_c_admiralty = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "deh_cho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +299,11 @@ character_c_admiralty = {
 	}
 }
 character_c_ca_nt_kakisa = {
-	name = "Test"
+	name = Test
 	religion = "eversky"
 	culture = "deh_cho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +311,11 @@ character_c_ca_nt_kakisa = {
 	}
 }
 character_c_ca_nt_wrigley = {
-	name = "Test"
+	name = Test
 	religion = "eversky"
 	culture = "deh_cho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +323,11 @@ character_c_ca_nt_wrigley = {
 	}
 }
 character_c_ca_nt_fort_smith = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "denesuline"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +335,11 @@ character_c_ca_nt_fort_smith = {
 	}
 }
 character_c_fond_du_lac = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "denesuline"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,27 +347,23 @@ character_c_fond_du_lac = {
 	}
 }
 character_c_resolution = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "denesuline"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_ca_ab_vermilion_chutes = {
-	name = "Test"
+character_c_ca_ab_sweetgrass_landing = {
+	name = Test
 	religion = "peyotist"
 	culture = "denesuline"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +371,11 @@ character_c_ca_ab_vermilion_chutes = {
 	}
 }
 character_c_ca_sk_cluff_lake = {
-	name = "Test"
+	name = Test
 	religion = "peyotist"
 	culture = "denesuline"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +383,11 @@ character_c_ca_sk_cluff_lake = {
 	}
 }
 character_c_ca_nt_norman_wells = {
-	name = "Test"
+	name = Test
 	religion = "anglican"
 	culture = "sahtu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +395,11 @@ character_c_ca_nt_norman_wells = {
 	}
 }
 character_c_ca_nt_deline = {
-	name = "Test"
+	name = Test
 	religion = "anglican"
 	culture = "sahtu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +407,11 @@ character_c_ca_nt_deline = {
 	}
 }
 character_c_ca_nt_fort_good_hope = {
-	name = "Test"
+	name = Test
 	religion = "anglican"
 	culture = "sahtu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +419,11 @@ character_c_ca_nt_fort_good_hope = {
 	}
 }
 character_c_ca_nt_echo_bay = {
-	name = "Test"
+	name = Test
 	religion = "anglican"
 	culture = "sahtu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

@@ -1,11 +1,9 @@
 character_c_greater_sudbury = {
-	name = "Test"
+	name = Vincent
 	religion = "galvanist"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_greater_sudbury = {
 	}
 }
 character_c_timiskaming = {
-	name = "Test"
+	name = Rotrude
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_timiskaming = {
 	}
 }
 character_c_elliot_lake = {
-	name = "Test"
+	name = Terry
 	religion = "midewiwin"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_elliot_lake = {
 	}
 }
 character_c_manitoulin = {
-	name = "Test"
+	name = Giniwbine
 	religion = "midewiwin"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,27 +47,11 @@ character_c_manitoulin = {
 	}
 }
 character_c_lakehead = {
-	name = "Test"
+	name = Lee
 	religion = "lakeshore"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lakehead = {
-	name = "Test"
-	religion = "nonconformism"
-	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +59,11 @@ character_c_lakehead = {
 	}
 }
 character_c_greenstone = {
-	name = "Test"
+	name = Gekek
 	religion = "midewiwin"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,12 +71,10 @@ character_c_greenstone = {
 	}
 }
 character_c_marathon = {
-	name = "Test"
+	name = Tony
 	religion = "lakeshore"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -111,13 +83,11 @@ character_c_marathon = {
 	}
 }
 character_c_quetico = {
-	name = "Test"
+	name = Giniwaanakwad
 	religion = "midewiwin"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +95,11 @@ character_c_quetico = {
 	}
 }
 character_c_aguasabon = {
-	name = "Test"
+	name = Haley
 	religion = "lakeshore"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +107,11 @@ character_c_aguasabon = {
 	}
 }
 character_c_nipigon = {
-	name = "Test"
+	name = Maangozid
 	religion = "midewiwin"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +119,11 @@ character_c_nipigon = {
 	}
 }
 character_c_sault_ste_marie = {
-	name = "Test"
+	name = Eric
 	religion = "ursuline"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +131,11 @@ character_c_sault_ste_marie = {
 	}
 }
 character_c_wawa = {
-	name = "Test"
+	name = Enos
 	religion = "lakeshore"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +143,11 @@ character_c_wawa = {
 	}
 }
 character_c_ivanhoe = {
-	name = "Test"
+	name = Robert
 	religion = "midewiwin"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +155,11 @@ character_c_ivanhoe = {
 	}
 }
 character_c_batchawana = {
-	name = "Test"
+	name = Miskwaaki
 	religion = "ursuline"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +167,11 @@ character_c_batchawana = {
 	}
 }
 character_c_cochrane = {
-	name = "Test"
+	name = Daniel
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +179,11 @@ character_c_cochrane = {
 	}
 }
 character_c_kapuskasing = {
-	name = "Test"
+	name = Catherine
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +191,11 @@ character_c_kapuskasing = {
 	}
 }
 character_c_hearst = {
-	name = "Test"
+	name = Brent
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +203,11 @@ character_c_hearst = {
 	}
 }
 character_c_osisko = {
-	name = "Test"
+	name = Tybalt
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +215,11 @@ character_c_osisko = {
 	}
 }
 character_c_vallee_de_l_or = {
-	name = "Test"
+	name = Tehtaapisch
 	religion = "midewiwin"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +227,11 @@ character_c_vallee_de_l_or = {
 	}
 }
 character_c_kipawa = {
-	name = "Test"
+	name = L_e_act_on-Calixte
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +239,11 @@ character_c_kipawa = {
 	}
 }
 character_c_chibougamau = {
-	name = "Test"
+	name = Michisuu
 	religion = "midewiwin"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +251,11 @@ character_c_chibougamau = {
 	}
 }
 character_c_mattagami = {
-	name = "Test"
+	name = Tieikwau
 	religion = "midewiwin"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +263,11 @@ character_c_mattagami = {
 	}
 }
 character_c_nemaska = {
-	name = "Test"
+	name = Eitiyen
 	religion = "midewiwin"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +275,11 @@ character_c_nemaska = {
 	}
 }
 character_c_ca_qc_chisasibi = {
-	name = "Test"
+	name = Angutimmarik
 	religion = "unipkaaq"
 	culture = "inuit"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +287,11 @@ character_c_ca_qc_chisasibi = {
 	}
 }
 character_c_ca_qc_waskaganish = {
-	name = "Test"
+	name = Rwaumiyu
 	religion = "midewiwin"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,27 +299,11 @@ character_c_ca_qc_waskaganish = {
 	}
 }
 character_c_moosonee = {
-	name = "Test"
+	name = Chisheyaakush
 	religion = "midewiwin"
 	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_attawapiskat = {
-	name = "Test"
-	religion = "midewiwin"
-	culture = "iyyu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +311,23 @@ character_c_attawapiskat = {
 	}
 }
 character_c_ca_on_fort_severn = {
-	name = "Test"
+	name = Test
 	religion = "midewiwin"
 	culture = "woodland_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_attawapiskat = {
+	name = Miyahkatu
+	religion = "midewiwin"
+	culture = "iyyu"
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +335,11 @@ character_c_ca_on_fort_severn = {
 	}
 }
 character_c_flin_flon = {
-	name = "Test"
+	name = Derrick
 	religion = "exovedate"
 	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +347,23 @@ character_c_flin_flon = {
 	}
 }
 character_c_paskoyac = {
-	name = "Test"
+	name = Florence
 	religion = "exovedate"
 	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2642.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ca_mb_moose_lake = {
+	name = Axel
+	religion = "exovedate"
+	culture = "metis"
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +371,11 @@ character_c_paskoyac = {
 	}
 }
 character_c_southend = {
-	name = "Test"
+	name = Don
 	religion = "exovedate"
-	culture = "woodland_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "metis"
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +383,11 @@ character_c_southend = {
 	}
 }
 character_c_thompson = {
-	name = "Test"
+	name = Ray
 	religion = "exovedate"
 	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +395,11 @@ character_c_thompson = {
 	}
 }
 character_c_gillam = {
-	name = "Test"
+	name = Test
 	religion = "exovedate"
 	culture = "woodland_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +407,11 @@ character_c_gillam = {
 	}
 }
 character_c_wapusk = {
-	name = "Test"
+	name = Test
 	religion = "exovedate"
 	culture = "woodland_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +419,11 @@ character_c_wapusk = {
 	}
 }
 character_c_amisk = {
-	name = "Test"
+	name = Test
 	religion = "exovedate"
 	culture = "woodland_cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,27 +431,11 @@ character_c_amisk = {
 	}
 }
 character_c_norway_house = {
-	name = "Test"
+	name = Albert
 	religion = "midewiwin"
 	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_norway_house = {
-	name = "Test"
-	religion = "exovedate"
-	culture = "metis"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +443,11 @@ character_c_norway_house = {
 	}
 }
 character_c_gods_lake = {
-	name = "Test"
+	name = Joseph
 	religion = "midewiwin"
 	culture = "oji-cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +455,11 @@ character_c_gods_lake = {
 	}
 }
 character_c_sachigo = {
-	name = "Test"
+	name = Kinistin
 	religion = "midewiwin"
 	culture = "oji-cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +467,11 @@ character_c_sachigo = {
 	}
 }
 character_c_winisk = {
-	name = "Test"
+	name = Joshua
 	religion = "midewiwin"
 	culture = "oji-cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +479,11 @@ character_c_winisk = {
 	}
 }
 character_c_opasquia = {
-	name = "Test"
+	name = Mekis
 	religion = "midewiwin"
 	culture = "oji-cree"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

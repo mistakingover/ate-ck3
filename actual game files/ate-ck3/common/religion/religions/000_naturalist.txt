@@ -221,5 +221,15 @@
 			doctrine = tenet_vows_of_poverty
 			doctrine = tenet_communal_identity
 		}
+		
+			darwinian = {
+			color = { 21 81 22 }
+			icon = darwinian
+			
+			#Special doctrine
+			doctrine = tenet_sanctity_of_nature
+			doctrine = tenet_pastoral_isolation
+			doctrine = tenet_sacred_childbirth
+		}
 	}
 }

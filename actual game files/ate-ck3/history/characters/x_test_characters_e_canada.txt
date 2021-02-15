@@ -1,11 +1,9 @@
 character_c_toronto = {
-	name = "Test"
+	name = Evan
 	religion = "united_church"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_toronto = {
 	}
 }
 character_c_peel = {
-	name = "Test"
+	name = Ibrahim
 	religion = "sikhism"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_peel = {
 	}
 }
 character_c_york = {
-	name = "Test"
+	name = Travis
 	religion = "united_church"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,12 +35,10 @@ character_c_york = {
 	}
 }
 character_c_oshawa = {
-	name = "Test"
+	name = Tracey
 	religion = "galvanist"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = yes
 	2600.1.1 = {
 		birth = yes
 	}
@@ -55,13 +47,11 @@ character_c_oshawa = {
 	}
 }
 character_c_hamilton = {
-	name = "Test"
+	name = Arvind
 	religion = "galvanist"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_hamilton = {
 	}
 }
 character_c_wellington = {
-	name = "Test"
+	name = Aidan
 	religion = "united_church"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_wellington = {
 	}
 }
 character_c_niagara = {
-	name = "Test"
+	name = Zulfiqar
 	religion = "united_church"
 	culture = "sixer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_niagara = {
 	}
 }
 character_c_brant = {
-	name = "Test"
+	name = Onwanonsyshon
 	religion = "united_church"
 	culture = "iroquois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_brant = {
 	}
 }
 character_c_ottawa = {
-	name = "Test"
+	name = Tecumseh
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_ottawa = {
 	}
 }
 character_c_prescott_russell = {
-	name = "Test"
+	name = Aur_e_grv_le
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,27 +119,11 @@ character_c_prescott_russell = {
 	}
 }
 character_c_lanark = {
-	name = "Test"
+	name = Seymour
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_lanark = {
-	name = "Test"
-	religion = "anglican"
-	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +131,11 @@ character_c_lanark = {
 	}
 }
 character_c_middlesex = {
-	name = "Test"
+	name = Simeon
 	religion = "united_church"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +143,11 @@ character_c_middlesex = {
 	}
 }
 character_c_essex = {
-	name = "Test"
+	name = Bennett
 	religion = "galvanist"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +155,11 @@ character_c_essex = {
 	}
 }
 character_c_perth = {
-	name = "Test"
+	name = Abner
 	religion = "peace_church"
 	culture = "deitsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +167,11 @@ character_c_perth = {
 	}
 }
 character_c_lambton = {
-	name = "Test"
+	name = Laird
 	religion = "united_church"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +179,11 @@ character_c_lambton = {
 	}
 }
 character_c_simcoe = {
-	name = "Test"
+	name = Lawrence
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +191,11 @@ character_c_simcoe = {
 	}
 }
 character_c_dufferin = {
-	name = "Test"
+	name = Francis
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +203,11 @@ character_c_dufferin = {
 	}
 }
 character_c_grey = {
-	name = "Test"
+	name = Wilmot
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2604.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +215,11 @@ character_c_grey = {
 	}
 }
 character_c_huron = {
-	name = "Test"
+	name = Camilla
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +227,11 @@ character_c_huron = {
 	}
 }
 character_c_bruce = {
-	name = "Test"
+	name = Gaadawaabide
 	religion = "lakeshore"
 	culture = "ojibwe"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +239,11 @@ character_c_bruce = {
 	}
 }
 character_c_thurlow = {
-	name = "Test"
+	name = Ellwood
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +251,11 @@ character_c_thurlow = {
 	}
 }
 character_c_peterborough = {
-	name = "Test"
+	name = Ebenezer
 	religion = "united_church"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +263,11 @@ character_c_peterborough = {
 	}
 }
 character_c_ganaraska = {
-	name = "Test"
+	name = Durham
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +275,11 @@ character_c_ganaraska = {
 	}
 }
 character_c_frontenac = {
-	name = "Test"
+	name = Isabella
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +287,11 @@ character_c_frontenac = {
 	}
 }
 character_c_stormont = {
-	name = "Test"
+	name = Grover
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +299,11 @@ character_c_stormont = {
 	}
 }
 character_c_thousand_islands = {
-	name = "Test"
+	name = Jasper
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +311,11 @@ character_c_thousand_islands = {
 	}
 }
 character_c_renfrew = {
-	name = "Test"
+	name = Fulvius
 	religion = "anglican"
 	culture = "ontarian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +323,11 @@ character_c_renfrew = {
 	}
 }
 character_c_nipissing = {
-	name = "Test"
+	name = Alcide
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +335,11 @@ character_c_nipissing = {
 	}
 }
 character_c_mattawa = {
-	name = "Test"
+	name = F_e_act_lix
 	religion = "anglican"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +347,11 @@ character_c_mattawa = {
 	}
 }
 character_c_muskoka = {
-	name = "Test"
+	name = Glenda
 	religion = "lakeshore"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +359,11 @@ character_c_muskoka = {
 	}
 }
 character_c_parry_sound = {
-	name = "Test"
+	name = Trevor
 	religion = "lakeshore"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +371,11 @@ character_c_parry_sound = {
 	}
 }
 character_c_haliburton = {
-	name = "Test"
+	name = Julie
 	religion = "anglican"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +383,11 @@ character_c_haliburton = {
 	}
 }
 character_c_hastings = {
-	name = "Test"
+	name = Stan
 	religion = "anglican"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +395,11 @@ character_c_hastings = {
 	}
 }
 character_c_kawartha = {
-	name = "Test"
+	name = Edgar
 	religion = "anglican"
 	culture = "bushman"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +407,11 @@ character_c_kawartha = {
 	}
 }
 character_c_hochelaga = {
-	name = "Test"
+	name = Hubert
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +419,11 @@ character_c_hochelaga = {
 	}
 }
 character_c_grande_ligne = {
-	name = "Test"
+	name = St_e_act_phane
 	religion = "haredi"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +431,11 @@ character_c_grande_ligne = {
 	}
 }
 character_c_lanaudiere = {
-	name = "Test"
+	name = Uld_e_act_ric
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +443,11 @@ character_c_lanaudiere = {
 	}
 }
 character_c_vaudreuil_soulanges = {
-	name = "Test"
+	name = Marcelline
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +455,11 @@ character_c_vaudreuil_soulanges = {
 	}
 }
 character_c_argenteuil = {
-	name = "Test"
+	name = FE_licia
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +467,11 @@ character_c_argenteuil = {
 	}
 }
 character_c_cap_diamant = {
-	name = "Test"
+	name = Marie
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +479,11 @@ character_c_cap_diamant = {
 	}
 }
 character_c_portneuf = {
-	name = "Test"
+	name = Francine
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +491,11 @@ character_c_portneuf = {
 	}
 }
 character_c_malbaie = {
-	name = "Test"
+	name = C_e_act_saire
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +503,11 @@ character_c_malbaie = {
 	}
 }
 character_c_jacques_cartier = {
-	name = "Test"
+	name = R_e_act_gis
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +515,11 @@ character_c_jacques_cartier = {
 	}
 }
 character_c_charlevoix = {
-	name = "Test"
+	name = Marcel
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +527,11 @@ character_c_charlevoix = {
 	}
 }
 character_c_longueuil = {
-	name = "Test"
+	name = St_e_act_phane
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +539,11 @@ character_c_longueuil = {
 	}
 }
 character_c_haute_yamaska = {
-	name = "Test"
+	name = Camillien
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +551,11 @@ character_c_haute_yamaska = {
 	}
 }
 character_c_les_maskoutains = {
-	name = "Test"
+	name = Camillien
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +563,11 @@ character_c_les_maskoutains = {
 	}
 }
 character_c_chateauguay = {
-	name = "Test"
+	name = Joseph
 	religion = "ursuline"
 	culture = "iroquois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +575,11 @@ character_c_chateauguay = {
 	}
 }
 character_c_sherbrooke = {
-	name = "Test"
+	name = Gratien
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +587,11 @@ character_c_sherbrooke = {
 	}
 }
 character_c_drummond = {
-	name = "Test"
+	name = Paul
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +599,11 @@ character_c_drummond = {
 	}
 }
 character_c_arthabaska = {
-	name = "Test"
+	name = Pierre-E_act_variste
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +611,11 @@ character_c_arthabaska = {
 	}
 }
 character_c_memphremagog = {
-	name = "Test"
+	name = Jocelyne
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +623,11 @@ character_c_memphremagog = {
 	}
 }
 character_c_le_granit = {
-	name = "Test"
+	name = Dollard
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +635,11 @@ character_c_le_granit = {
 	}
 }
 character_c_chicoutimi = {
-	name = "Test"
+	name = Daniel
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +647,11 @@ character_c_chicoutimi = {
 	}
 }
 character_c_lac_saint_jean = {
-	name = "Test"
+	name = Guillaume
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +659,11 @@ character_c_lac_saint_jean = {
 	}
 }
 character_c_domaine_du_roy = {
-	name = "Test"
+	name = Rohard
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +671,11 @@ character_c_domaine_du_roy = {
 	}
 }
 character_c_tadoussac = {
-	name = "Test"
+	name = Laurence
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +683,11 @@ character_c_tadoussac = {
 	}
 }
 character_c_hull = {
-	name = "Test"
+	name = Gilbert
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +695,11 @@ character_c_hull = {
 	}
 }
 character_c_haute_gatineau = {
-	name = "Test"
+	name = Zhinkwaak
 	religion = "ursuline"
 	culture = "algonquin"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2616.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,13 +707,11 @@ character_c_haute_gatineau = {
 	}
 }
 character_c_pontiac = {
-	name = "Test"
+	name = Olympe
 	religion = "ursuline"
 	culture = "ontarien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2614.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -853,13 +719,11 @@ character_c_pontiac = {
 	}
 }
 character_c_trois_rivieres = {
-	name = "Test"
+	name = E_act_ve
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +731,11 @@ character_c_trois_rivieres = {
 	}
 }
 character_c_shawinigan = {
-	name = "Test"
+	name = Louis-Sim_e_act_on
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,13 +743,11 @@ character_c_shawinigan = {
 	}
 }
 character_c_matawinia = {
-	name = "Test"
+	name = Shakasokiki
 	religion = "ursuline"
 	culture = "algonquin"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -895,13 +755,11 @@ character_c_matawinia = {
 	}
 }
 character_c_saint_maurice = {
-	name = "Test"
+	name = William
 	religion = "ursuline"
 	culture = "algonquin"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +767,11 @@ character_c_saint_maurice = {
 	}
 }
 character_c_amiante = {
-	name = "Test"
+	name = Paul-Antoine
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +779,11 @@ character_c_amiante = {
 	}
 }
 character_c_beauce = {
-	name = "Test"
+	name = Jean-Georges
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -937,13 +791,11 @@ character_c_beauce = {
 	}
 }
 character_c_levis = {
-	name = "Test"
+	name = Elizabeth
 	religion = "ursuline"
 	culture = "abenaki"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,13 +803,11 @@ character_c_levis = {
 	}
 }
 character_c_riviere_du_loup = {
-	name = "Test"
+	name = Raymond
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -965,13 +815,11 @@ character_c_riviere_du_loup = {
 	}
 }
 character_c_montmagny = {
-	name = "Test"
+	name = Maurice
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -979,13 +827,11 @@ character_c_montmagny = {
 	}
 }
 character_c_rimouski = {
-	name = "Test"
+	name = Andronic
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -993,13 +839,11 @@ character_c_rimouski = {
 	}
 }
 character_c_outardes = {
-	name = "Test"
+	name = E_act_lise
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1007,13 +851,11 @@ character_c_outardes = {
 	}
 }
 character_c_sept_iles = {
-	name = "Test"
+	name = Becky
 	religion = "ursuline"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1021,13 +863,11 @@ character_c_sept_iles = {
 	}
 }
 character_c_haute_cote_nord = {
-	name = "Test"
+	name = Isadora
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1035,13 +875,11 @@ character_c_haute_cote_nord = {
 	}
 }
 character_c_mont_tremblant = {
-	name = "Test"
+	name = R_e_act_gis
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1049,13 +887,11 @@ character_c_mont_tremblant = {
 	}
 }
 character_c_haute_laurentides = {
-	name = "Test"
+	name = Michael
 	religion = "ursuline"
 	culture = "algonquin"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1063,12 +899,10 @@ character_c_haute_laurentides = {
 	}
 }
 character_c_papineau = {
-	name = "Test"
+	name = Camillien
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -1077,13 +911,11 @@ character_c_papineau = {
 	}
 }
 character_c_chic_chocs = {
-	name = "Test"
+	name = Robert
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1091,13 +923,11 @@ character_c_chic_chocs = {
 	}
 }
 character_c_matapedia = {
-	name = "Test"
+	name = Julien
 	religion = "ursuline"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1105,13 +935,11 @@ character_c_matapedia = {
 	}
 }
 character_c_perce = {
-	name = "Test"
+	name = Alvery
 	religion = "pelagic"
 	culture = "mikmaq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1119,13 +947,11 @@ character_c_perce = {
 	}
 }
 character_c_forillon = {
-	name = "Test"
+	name = Elz_e_act_ar
 	religion = "pelagic"
 	culture = "quebecois"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1133,13 +959,11 @@ character_c_forillon = {
 	}
 }
 character_c_magdalen_islands = {
-	name = "Test"
+	name = Rodolphe
 	religion = "pelagic"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1147,13 +971,11 @@ character_c_magdalen_islands = {
 	}
 }
 character_c_netagamiou = {
-	name = "Test"
+	name = E_act_lie
 	religion = "pelagic"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1161,13 +983,11 @@ character_c_netagamiou = {
 	}
 }
 character_c_mingan = {
-	name = "Test"
+	name = Stanley
 	religion = "pelagic"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1175,13 +995,11 @@ character_c_mingan = {
 	}
 }
 character_c_natashquan = {
-	name = "Test"
+	name = Mike
 	religion = "pelagic"
 	culture = "innu"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2602.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1189,13 +1007,11 @@ character_c_natashquan = {
 	}
 }
 character_c_anticosti = {
-	name = "Test"
+	name = Emerson
 	religion = "pelagic"
 	culture = "mikmaq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1203,13 +1019,11 @@ character_c_anticosti = {
 	}
 }
 character_c_halifax = {
-	name = "Test"
+	name = Creagan
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1217,13 +1031,11 @@ character_c_halifax = {
 	}
 }
 character_c_hants = {
-	name = "Test"
+	name = Kennedy
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1231,13 +1043,11 @@ character_c_hants = {
 	}
 }
 character_c_lunenburg = {
-	name = "Test"
+	name = Ronald
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1245,13 +1055,11 @@ character_c_lunenburg = {
 	}
 }
 character_c_yarmouth = {
-	name = "Test"
+	name = Grace
 	religion = "ursuline"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1259,13 +1067,11 @@ character_c_yarmouth = {
 	}
 }
 character_c_annapolis = {
-	name = "Test"
+	name = Omer
 	religion = "ursuline"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1273,13 +1079,11 @@ character_c_annapolis = {
 	}
 }
 character_c_saint_john = {
-	name = "Test"
+	name = Jonah
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1287,13 +1091,11 @@ character_c_saint_john = {
 	}
 }
 character_c_fredericton = {
-	name = "Test"
+	name = Quinn
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1301,27 +1103,11 @@ character_c_fredericton = {
 	}
 }
 character_c_us_me_calais = {
-	name = "Test"
+	name = Madelan
 	religion = "pelagic"
 	culture = "abenaki"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_me_calais = {
-	name = "Test"
-	religion = "masonic"
-	culture = "abenaki"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1329,13 +1115,11 @@ character_c_us_me_calais = {
 	}
 }
 character_c_westmorland = {
-	name = "Test"
+	name = Gerald
 	religion = "ursuline"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1343,13 +1127,11 @@ character_c_westmorland = {
 	}
 }
 character_c_kent = {
-	name = "Test"
+	name = Jean-Eudes
 	religion = "ursuline"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1357,13 +1139,11 @@ character_c_kent = {
 	}
 }
 character_c_fundy = {
-	name = "Test"
+	name = Weston
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1371,13 +1151,11 @@ character_c_fundy = {
 	}
 }
 character_c_sydney = {
-	name = "Test"
+	name = Manus
 	religion = "anglican"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1385,13 +1163,11 @@ character_c_sydney = {
 	}
 }
 character_c_antigonish = {
-	name = "Test"
+	name = Eoghann
 	religion = "anglican"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1399,13 +1175,11 @@ character_c_antigonish = {
 	}
 }
 character_c_inverness = {
-	name = "Test"
+	name = Ata
 	religion = "pelagic"
 	culture = "mikmaq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1413,13 +1187,11 @@ character_c_inverness = {
 	}
 }
 character_c_pictou = {
-	name = "Test"
+	name = Neacal
 	religion = "anglican"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1427,13 +1199,11 @@ character_c_pictou = {
 	}
 }
 character_c_colchester = {
-	name = "Test"
+	name = Manus
 	religion = "anglican"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1441,13 +1211,11 @@ character_c_colchester = {
 	}
 }
 character_c_cumberland = {
-	name = "Test"
+	name = Seumas
 	religion = "anglican"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1455,13 +1223,11 @@ character_c_cumberland = {
 	}
 }
 character_c_gloucester = {
-	name = "Test"
+	name = Paul
 	religion = "ursuline"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1469,13 +1235,11 @@ character_c_gloucester = {
 	}
 }
 character_c_northumberland = {
-	name = "Test"
+	name = Mercy
 	religion = "anglican"
 	culture = "maritimer"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1483,13 +1247,11 @@ character_c_northumberland = {
 	}
 }
 character_c_carleton = {
-	name = "Test"
+	name = Gaspard
 	religion = "ursuline"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1497,13 +1259,11 @@ character_c_carleton = {
 	}
 }
 character_c_cardigan = {
-	name = "Test"
+	name = Stuart
 	religion = "anglican"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2631.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1511,13 +1271,11 @@ character_c_cardigan = {
 	}
 }
 character_c_egmont = {
-	name = "Test"
+	name = William
 	religion = "pelagic"
 	culture = "pictonish"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1525,13 +1283,11 @@ character_c_egmont = {
 	}
 }
 character_c_madawaska = {
-	name = "Test"
+	name = Michel-Ange
 	religion = "ursuline"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1539,13 +1295,11 @@ character_c_madawaska = {
 	}
 }
 character_c_restigouche = {
-	name = "Test"
+	name = Nathana_e_uml_l
 	religion = "ursuline"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1553,12 +1307,10 @@ character_c_restigouche = {
 	}
 }
 character_c_st_johns = {
-	name = "Test"
+	name = Lloyd
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -1567,13 +1319,11 @@ character_c_st_johns = {
 	}
 }
 character_c_bonavista = {
-	name = "Test"
+	name = Frances
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1581,13 +1331,11 @@ character_c_bonavista = {
 	}
 }
 character_c_st_marys = {
-	name = "Test"
+	name = Gordon
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1595,13 +1343,11 @@ character_c_st_marys = {
 	}
 }
 character_c_corner_brook = {
-	name = "Test"
+	name = Charles
 	religion = "pelagic"
 	culture = "mikmaq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1609,12 +1355,10 @@ character_c_corner_brook = {
 	}
 }
 character_c_burin = {
-	name = "Test"
+	name = Cavendish
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -1623,13 +1367,11 @@ character_c_burin = {
 	}
 }
 character_c_port_aux_basques = {
-	name = "Test"
+	name = Kopit
 	religion = "pelagic"
 	culture = "mikmaq"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1637,13 +1379,11 @@ character_c_port_aux_basques = {
 	}
 }
 character_c_saint_pierre_and_miquelon = {
-	name = "Test"
+	name = T_e_act_lesphore
 	religion = "pelagic"
 	culture = "acadien"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1651,13 +1391,11 @@ character_c_saint_pierre_and_miquelon = {
 	}
 }
 character_c_grand_falls = {
-	name = "Test"
+	name = Rennie
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1665,13 +1403,11 @@ character_c_grand_falls = {
 	}
 }
 character_c_gander = {
-	name = "Test"
+	name = Norman
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1679,13 +1415,11 @@ character_c_gander = {
 	}
 }
 character_c_ca_nl_st_anthony = {
-	name = "Test"
+	name = Murphy
 	religion = "pelagic"
 	culture = "newfoundlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

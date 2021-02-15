@@ -198,7 +198,7 @@ d_queretaro = {
 	
 }
 
-k_gran_chichimeca = {
+k_chichimeca = {
 	pattern = "pattern_solid.dds"
 	color1 = "blue_light"
 	color2 = "blue_light"
@@ -775,7 +775,7 @@ d_puebla = {
 		instance = { position = { 0.7 0.7 } scale = { 0.4 0.4 }  }
 	}
 }
-d_veracruz = {
+k_veracruz = {
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "green"
 	color2 = "blue"
@@ -844,6 +844,33 @@ d_veracruz = {
 		color2 = "red"
 		mask = {1}
 		instance = { position = { 0.5 0.15 } scale = { 0.35 0.35 }  }
+	}	
+}
+d_veracruz = {
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "green"
+	color2 = "blue"
+	
+	colored_emblem = {
+		texture = "ce_castle.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		mask = {1}
+		instance = { position = { 0.5 0.4 } scale = { 0.3 0.3 }  }
+	}	
+	colored_emblem = {
+		texture = "ce_column.dds"
+		color1 = "white"
+		color2 = "white"
+		mask = {2}
+		instance = { position = { 0.35 0.7 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.65 0.7 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_cross_patty.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.5 0.45 } scale = { 0.7 0.7 }  }
 	}	
 }
 
@@ -997,7 +1024,7 @@ d_tierra_caliente = {
 	}
 }
 
-k_mixteca = {
+k_guerrero = {
 	pattern = "pattern_solid.dds"
 	color1 = "blue_light"
 	color2 = "blue_light"
@@ -1704,7 +1731,7 @@ d_nayarit = {
 }
 
 
-k_sierra_madre = {
+k_nueva_vizcaya = {
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "white"	
@@ -1868,7 +1895,7 @@ d_durango = {
 }
 
 
-k_rio_bravo = {
+k_leon = {
 	pattern = "pattern_checkers_01.dds"
 	color1 = "white"
 	color2 = "blue"
@@ -1964,7 +1991,7 @@ d_coahuila = {
 		instance = { position = { 0.3 0.425 } scale = { 0.3 0.15 }  }
 	}
 }
-d_nuevo_leon = {
+d_leon = {
 	pattern = "pattern_checkers_01.dds"
 	color1 = "yellow"
 	color2 = "white"

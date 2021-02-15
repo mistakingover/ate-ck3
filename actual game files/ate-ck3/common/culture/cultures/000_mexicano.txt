@@ -585,7 +585,7 @@ graphical_cultures = {
 		#A lot of obscure saint names/calender names
 		male_names = {
 			Abel Abraham Abundio Adolfo Aguinaldo Agust_i_act_n Alberto Aldo Alejandro Alfonso Ambrosio Anacleto Andr_e_act_s A_act_ngel Anivdelarev Antonio Armando Arturo Aurelio
-			B_a_act_rbaro Benito Bonifacio Brayan Buenaventura
+			B_a_act_rbaro Benito Bonifacio Brayan Buenaventura Bulmaro
 			Calisto C_a_act_ndido Carlos Casildo Celso Ces_a_act_reo Chavo Cipriano Clemencio Conrado Constancio Crescencio Cristo Cruz Cuauht_e_act_moc Cuitl_a_act_huac
 			Dar_i_act_o David Delfino Diego Domingo Donaldo
 			Edelberto E_act_dgar Eduardo Eliseo Emiliano Emilio Enrique Epifanio Ernesto Eustacio Ezequiel
@@ -601,7 +601,7 @@ graphical_cultures = {
 			Obdulio Oc_e_act_ano Omar O_act_scar Ovidio
 			Pablo Paco P_a_act_nfilo Pantale_o_act_n Patrocinio Pedro Perfecto Piccolo P_i_act_o Plusultra Ponciano Pr_o_act_spero
 			Quirico
-			Rafa Rafael Ranulfo Raymundo Ricardo Roberto R_o_act_mulo Rosendo Rub_e_act_n Rufo Ruperto
+			Rafa Rafael Ranulfo Raymundo Reinaldo Ricardo Roberto R_o_act_mulo Rosendo Rub_e_act_n Rufo Ruperto
 			Salvador Santiago Sa_u_act_l Sebasti_a_act_n Sergio Servando Silverio Silvestre Sim_o_act_n
 			Tadeo Tereso Tom_a_act_s Toribio Trinitario
 			Ubaldo Urcino Uriel
@@ -975,7 +975,7 @@ graphical_cultures = {
 		#mainly just common modern names
 		male_names = {
 			Aar_o_act_n Abraham Ad_a_act_n Adri_a_act_n Agust_i_act_n Alberto Aldo Alfonso Alfredo Alejandro Amado Am_e_act_rico A_act_ngel Aniceto Antonio Aquiles Arcadio Armando Arturo Aurelio Axel
-			Balam Baltasar Bartolomeo Bautista Benito Benjam_i_act_n Brand_o_act_n Brayan Bruno
+			Balam Baltasar Bartolomeo Bautista Benito Benjam_i_act_n Brand_o_act_n Brayan Bruno Bulmaro
 			Carlos C_e_act_sar Ch_a_act_rbel Claudio Crisostomo Crist_o_act_bal Cuauht_e_act_moc Cuitl_a_act_huac
 			Dal_i_act_ Dami_a_act_n Daniel Dar_i_act_o David Demi_a_act_n Diego Diego_Carlos Dionisio Domingo Domitilo
 			E_act_dgar Eduardo Emiliano Emilio Enrique Ernesto Esteban Eugenio Eusebio
@@ -986,17 +986,18 @@ graphical_cultures = {
 			Jaime Javier Jer_o_act_nimo Jes_u_act_s Joaqu_i_act_n Jonathan Jorge Jos_e_act_ Jos_e_act__Luis Jos_e_act__Mar_i_act_a Juan Juan_Carlos Juan_Diego Juan_Manuel Juan_Nepomuceno Juan_Pablo Julio Julio_C_e_act_sar Juli_a_act_n
 			Kalel Kevin
 			L_a_act_zaro Le_o_act_n Leonardo Leopoldo Lorenzo Lucas Lucero Luis
-			Manuel Marco_Antonio Marcos Mariano Mario Mart_i_act_n Mat_i_act_as Mauricio Mauro Maximiliano Melchor Miguel Moctezuma Mois_e_act_s
+			Manuel Marco_Antonio Marcos Mariano Mario Mart_i_act_n Mat_i_act_as Mauricio Mauro Maximiliano Melchor Miguel Miguel_A_act_ngel Moctezuma Mois_e_act_s
 			Nabor Nahuel Nepomuceno Nezahualc_o_act_yotl
 			Octavio Omar O_act_scar Osvaldo Ovidio
 			Pablo P_a_act_nfilo Pascual Patricio Patrocinio Pedro P_i_act_o Ponce Pr_o_act_spero
 			Quirino
-			Rafael Ram_o_act_n Ra_u_act_l Renato Ren_e_act_ Ricardo Rodolfo Rodrigo Roque Rub_e_act_n
+			Rafael Ram_o_act_n Ra_u_act_l Reinaldo Renato Ren_e_act_ Ricardo Rodolfo Rodrigo Roque Rub_e_act_n
 			Salvador Santiago Sebasti_a_act_n Sergio
-			Tadeo Tarciso Tenoch Teodoro Tito Tl_a_act_loc Tom_a_act_s Tonati_u_act_h Trist_a_act_n
+			T_e_act_noch Tadeo Tarciso Teodoro Tito Tl_a_act_loc Tom_a_act_s Tonati_u_act_h Trist_a_act_n
 			Ulises Urbano
 			V_i_act_ctor Vicente Vidal
 			Wenceslao Wigberto
+			Xicot_e_act_ncatl
 			Yandel
 			Zeferino
 		}
@@ -1022,7 +1023,7 @@ graphical_cultures = {
 			Usnavy
 			Valentina Valeria Vanessa Ver_o_act_nica
 			Ximena X_o_act_chitl
-			Yasm_i_act_n Yolanda
+			Y_o_act_lotl Yasm_i_act_n Yolanda
 		}
 		dynasty_of_location_prefix = "dynnp_de"
 

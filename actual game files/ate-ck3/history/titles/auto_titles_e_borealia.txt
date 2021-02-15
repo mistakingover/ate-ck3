@@ -28,15 +28,6 @@ c_ca_bc_fort_st_john = {
 	}
 }
 
-c_ca_bc_fort_st_john = {
-	2000.1.1 = {
-	 liege = d_smoky_river
-	}
-	2656.1.1 = {
-		holder = character_c_ca_bc_fort_st_john
-	}
-}
-
 c_ca_ab_peace_river = {
 	2000.1.1 = {
 	 liege = d_smoky_river
@@ -251,15 +242,6 @@ c_ca_bc_toad_river = {
 	}
 }
 
-c_ca_bc_toad_river = {
-	2000.1.1 = {
-	 liege = d_liard
-	}
-	2656.1.1 = {
-		holder = character_c_ca_bc_toad_river
-	}
-}
-
 c_deh_cho = {
 	2656.1.1 = {
 		holder = character_c_deh_cho
@@ -333,12 +315,12 @@ c_resolution = {
 	}
 }
 
-c_ca_ab_vermilion_chutes = {
+c_ca_ab_sweetgrass_landing = {
 	2000.1.1 = {
 	 liege = d_chipewyan
 	}
 	2656.1.1 = {
-		holder = character_c_ca_ab_vermilion_chutes
+		holder = character_c_ca_ab_sweetgrass_landing
 	}
 }
 

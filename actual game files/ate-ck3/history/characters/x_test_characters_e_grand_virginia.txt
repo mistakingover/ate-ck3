@@ -1,11 +1,9 @@
 character_c_us_ky_lexington_fayette = {
-	name = "Test"
+	name = Connie
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_us_ky_lexington_fayette = {
 	}
 }
 character_c_us_ky_louisville = {
-	name = "Test"
+	name = Caroline
 	religion = "catholic"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_us_ky_louisville = {
 	}
 }
 character_c_us_ky_covington = {
-	name = "Test"
+	name = Tritonia
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_us_ky_covington = {
 	}
 }
 character_c_us_ky_richmond = {
-	name = "Test"
+	name = Twain
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_us_ky_richmond = {
 	}
 }
 character_c_us_ky_elizabethtown = {
-	name = "Test"
+	name = Curtis
 	religion = "catholic"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_us_ky_elizabethtown = {
 	}
 }
 character_c_us_ky_winchester = {
-	name = "Test"
+	name = Burton
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_us_ky_winchester = {
 	}
 }
 character_c_us_ky_russell = {
-	name = "Test"
+	name = Ramses
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_us_ky_russell = {
 	}
 }
 character_c_us_tn_memphis = {
-	name = "Test"
+	name = Donald
 	religion = "revelationist"
 	culture = "tuskegean"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_us_tn_memphis = {
 	}
 }
 character_c_us_tn_jackson = {
-	name = "Test"
+	name = Clifton
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,12 +107,10 @@ character_c_us_tn_jackson = {
 	}
 }
 character_c_us_tn_dyersburg = {
-	name = "Test"
+	name = Cowin
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -139,13 +119,11 @@ character_c_us_tn_dyersburg = {
 	}
 }
 character_c_us_tn_metropolitan_government_of_nashville_davidson = {
-	name = "Test"
+	name = Azalea
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,11 @@ character_c_us_tn_metropolitan_government_of_nashville_davidson = {
 	}
 }
 character_c_us_tn_maury = {
-	name = "Test"
+	name = Shelby
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +143,11 @@ character_c_us_tn_maury = {
 	}
 }
 character_c_us_tn_warren = {
-	name = "Test"
+	name = Ruby
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +155,11 @@ character_c_us_tn_warren = {
 	}
 }
 character_c_us_tn_dickson = {
-	name = "Test"
+	name = Rose
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +167,11 @@ character_c_us_tn_dickson = {
 	}
 }
 character_c_us_tn_lawrenceburg = {
-	name = "Test"
+	name = Jere
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +179,11 @@ character_c_us_tn_lawrenceburg = {
 	}
 }
 character_c_us_ky_bowling_green = {
-	name = "Test"
+	name = Bruce
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +191,11 @@ character_c_us_ky_bowling_green = {
 	}
 }
 character_c_us_tn_clarksville = {
-	name = "Test"
+	name = Nancy
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +203,11 @@ character_c_us_tn_clarksville = {
 	}
 }
 character_c_us_ky_owensboro = {
-	name = "Test"
+	name = Jim
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +215,11 @@ character_c_us_ky_owensboro = {
 	}
 }
 character_c_us_ky_paducah = {
-	name = "Test"
+	name = Campion
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +227,11 @@ character_c_us_ky_paducah = {
 	}
 }
 character_c_us_in_jeffersonville = {
-	name = "Test"
+	name = Webb
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +239,11 @@ character_c_us_in_jeffersonville = {
 	}
 }
 character_c_us_in_evansville = {
-	name = "Test"
+	name = Fitch
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +251,11 @@ character_c_us_in_evansville = {
 	}
 }
 character_c_us_in_columbus = {
-	name = "Test"
+	name = Kit
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,13 +263,11 @@ character_c_us_in_columbus = {
 	}
 }
 character_c_us_in_vincennes = {
-	name = "Test"
+	name = William
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -321,13 +275,11 @@ character_c_us_in_vincennes = {
 	}
 }
 character_c_us_il_carbondale = {
-	name = "Test"
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -335,13 +287,11 @@ character_c_us_il_carbondale = {
 	}
 }
 character_c_us_il_mount_vernon = {
-	name = "Test"
+	name = Test
 	religion = "catholic"
 	culture = "gatewayan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +299,11 @@ character_c_us_il_mount_vernon = {
 	}
 }
 character_c_us_il_olney = {
-	name = "Test"
+	name = Lorton
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +311,11 @@ character_c_us_il_olney = {
 	}
 }
 character_c_us_va_virginia_beach = {
-	name = "Test"
+	name = Ector
 	religion = "evangelical"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +323,11 @@ character_c_us_va_virginia_beach = {
 	}
 }
 character_c_us_va_newport_news = {
-	name = "Test"
+	name = Meleager
 	religion = "americanist"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +335,11 @@ character_c_us_va_newport_news = {
 	}
 }
 character_c_us_va_franklin = {
-	name = "Test"
+	name = Oliver
 	religion = "evangelical"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,27 +347,11 @@ character_c_us_va_franklin = {
 	}
 }
 character_c_us_va_richmond = {
-	name = "Test"
+	name = Samuel
 	religion = "americanist"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_va_richmond = {
-	name = "Test"
-	religion = "evangelical"
-	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +359,11 @@ character_c_us_va_richmond = {
 	}
 }
 character_c_us_va_centreville = {
-	name = "Test"
+	name = Defacta
 	religion = "americanist"
 	culture = "beltway"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +371,11 @@ character_c_us_va_centreville = {
 	}
 }
 character_c_us_va_charlottesville = {
-	name = "Test"
+	name = Raphael
 	religion = "americanist"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,13 +383,11 @@ character_c_us_va_charlottesville = {
 	}
 }
 character_c_us_va_fredericksburg = {
-	name = "Test"
+	name = Plato
 	religion = "americanist"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -475,13 +395,11 @@ character_c_us_va_fredericksburg = {
 	}
 }
 character_c_us_va_culpeper = {
-	name = "Test"
+	name = Daniel
 	religion = "americanist"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +407,11 @@ character_c_us_va_culpeper = {
 	}
 }
 character_c_us_va_roanoke = {
-	name = "Test"
+	name = Ruth
 	religion = "evangelical"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,13 +419,11 @@ character_c_us_va_roanoke = {
 	}
 }
 character_c_us_va_harrisonburg = {
-	name = "Test"
+	name = Vassar
 	religion = "americanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -517,13 +431,11 @@ character_c_us_va_harrisonburg = {
 	}
 }
 character_c_us_va_staunton = {
-	name = "Test"
+	name = Hylo
 	religion = "americanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +443,11 @@ character_c_us_va_staunton = {
 	}
 }
 character_c_us_md_cumberland = {
-	name = "Test"
+	name = Amos
 	religion = "galvanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +455,11 @@ character_c_us_md_cumberland = {
 	}
 }
 character_c_us_wv_elkins = {
-	name = "Test"
+	name = Corky
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2618.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +467,11 @@ character_c_us_wv_elkins = {
 	}
 }
 character_c_us_wv_moorefield = {
-	name = "Test"
+	name = May
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +479,11 @@ character_c_us_wv_moorefield = {
 	}
 }
 character_c_us_va_lynchburg = {
-	name = "Test"
+	name = Pluto
 	religion = "evangelical"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +491,11 @@ character_c_us_va_lynchburg = {
 	}
 }
 character_c_us_va_danville = {
-	name = "Test"
+	name = Antigone
 	religion = "evangelical"
 	culture = "southron"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +503,11 @@ character_c_us_va_danville = {
 	}
 }
 character_c_us_va_emporia = {
-	name = "Test"
+	name = Terrance
 	religion = "evangelical"
 	culture = "tuskegean"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +515,11 @@ character_c_us_va_emporia = {
 	}
 }
 character_c_us_tn_knoxville = {
-	name = "Test"
+	name = Colt
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +527,11 @@ character_c_us_tn_knoxville = {
 	}
 }
 character_c_us_tn_chattanooga = {
-	name = "Test"
+	name = Paul
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +539,11 @@ character_c_us_tn_chattanooga = {
 	}
 }
 character_c_us_tn_johnson_city = {
-	name = "Test"
+	name = Minta
 	religion = "charismaticism"
 	culture = "melungeon"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +551,11 @@ character_c_us_tn_johnson_city = {
 	}
 }
 character_c_us_tn_chattanooga = {
-	name = "Test"
+	name = Grover
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2641.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +563,11 @@ character_c_us_tn_chattanooga = {
 	}
 }
 character_c_us_ky_meads = {
-	name = "Test"
+	name = Cain
 	religion = "revelationist"
 	culture = "riverlander"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +575,11 @@ character_c_us_ky_meads = {
 	}
 }
 character_c_us_ky_middlesboro = {
-	name = "Test"
+	name = Jimmy
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,27 +587,11 @@ character_c_us_ky_middlesboro = {
 	}
 }
 character_c_us_ky_pikeville = {
-	name = "Test"
+	name = Hannah
 	religion = "charismaticism"
 	culture = "melungeon"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_ky_pikeville = {
-	name = "Test"
-	religion = "charismaticism"
-	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +599,11 @@ character_c_us_ky_pikeville = {
 	}
 }
 character_c_us_ky_somerset = {
-	name = "Test"
+	name = Simms
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +611,11 @@ character_c_us_ky_somerset = {
 	}
 }
 character_c_us_wv_charleston = {
-	name = "Test"
+	name = Tryon
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +623,11 @@ character_c_us_wv_charleston = {
 	}
 }
 character_c_us_wv_morgantown = {
-	name = "Test"
+	name = Anse
 	religion = "galvanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +635,11 @@ character_c_us_wv_morgantown = {
 	}
 }
 character_c_us_wv_wheeling = {
-	name = "Test"
+	name = Garth
 	religion = "galvanist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2633.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +647,11 @@ character_c_us_wv_wheeling = {
 	}
 }
 character_c_us_wv_beckley = {
-	name = "Test"
+	name = Jules
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +659,11 @@ character_c_us_wv_beckley = {
 	}
 }
 character_c_us_oh_parkersburg = {
-	name = "Test"
+	name = Bo
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +671,11 @@ character_c_us_oh_parkersburg = {
 	}
 }
 character_c_us_wv_summersville = {
-	name = "Test"
+	name = Jesse
 	religion = "revelationist"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +683,11 @@ character_c_us_wv_summersville = {
 	}
 }
 character_c_us_nc_asheville = {
-	name = "Test"
+	name = Jeffson
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,27 +695,11 @@ character_c_us_nc_asheville = {
 	}
 }
 character_c_us_sc_clemson = {
-	name = "Test"
+	name = Trinvilla
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_sc_clemson = {
-	name = "Test"
-	religion = "evangelical"
-	culture = "dixie"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +707,11 @@ character_c_us_sc_clemson = {
 	}
 }
 character_c_us_nc_hendersonville = {
-	name = "Test"
+	name = Zackquill
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,13 +719,11 @@ character_c_us_nc_hendersonville = {
 	}
 }
 character_c_us_nc_cherokee = {
-	name = "Test"
+	name = Test
 	religion = "charismaticism"
 	culture = "cherokee"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -895,13 +731,11 @@ character_c_us_nc_cherokee = {
 	}
 }
 character_c_us_va_bristol = {
-	name = "Test"
+	name = Joshua
 	religion = "charismaticism"
 	culture = "melungeon"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +743,11 @@ character_c_us_va_bristol = {
 	}
 }
 character_c_us_va_radford = {
-	name = "Test"
+	name = Lester
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +755,11 @@ character_c_us_va_radford = {
 	}
 }
 character_c_us_wv_bluefield = {
-	name = "Test"
+	name = Hap
 	religion = "charismaticism"
 	culture = "appalachian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

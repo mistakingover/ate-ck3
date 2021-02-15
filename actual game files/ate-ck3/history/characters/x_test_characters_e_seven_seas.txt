@@ -1,11 +1,9 @@
 character_c_bm_06_saint_george = {
-	name = "Test"
+	name = James
 	religion = "brethren"
 	culture = "bermudian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

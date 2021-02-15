@@ -498,21 +498,30 @@ c_cl_16_arica = {
 	}
 }
 
-c_cl_15_huara = {
+c_bo_04_chara_a = {
 	2000.1.1 = {
 	 liege = d_tarapaca
 	}
 	2656.1.1 = {
-		holder = character_c_cl_15_huara
+		holder = character_c_bo_04_chara_a
 	}
 }
 
-c_cl_15_almonte = {
+c_cl_16_camarones = {
 	2000.1.1 = {
 	 liege = d_tarapaca
 	}
 	2656.1.1 = {
-		holder = character_c_cl_15_almonte
+		holder = character_c_cl_16_camarones
+	}
+}
+
+c_cl_15_colchane = {
+	2000.1.1 = {
+	 liege = d_tarapaca
+	}
+	2656.1.1 = {
+		holder = character_c_cl_15_colchane
 	}
 }
 
@@ -548,20 +557,20 @@ c_cl_05_diego_de_almagro = {
 	}
 }
 
-c_cl_05_freirina = {
+c_cl_05_huasco = {
 	2000.1.1 = {
 	 liege = d_copiapo
 	}
 	2656.1.1 = {
-		holder = character_c_cl_05_freirina
+		holder = character_c_cl_05_huasco
 	}
 }
 
-c_cl_05_majada_el_tomate = {
+c_cl_05_caldera = {
 	2000.1.1 = {
 	 liege = d_copiapo
 	}
 	2656.1.1 = {
-		holder = character_c_cl_05_majada_el_tomate
+		holder = character_c_cl_05_caldera
 	}
 }

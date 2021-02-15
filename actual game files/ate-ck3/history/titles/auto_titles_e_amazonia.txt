@@ -151,21 +151,21 @@ c_br_16_jacareacanga = {
 	}
 }
 
-c_br_16_linha_ga_cha = {
+c_br_16__gua_boa = {
 	2000.1.1 = {
 	 liege = d_tapajos
 	}
 	2656.1.1 = {
-		holder = character_c_br_16_linha_ga_cha
+		holder = character_c_br_16__gua_boa
 	}
 }
 
-c_br_16_rico = {
+c_br_16_boa_esperan_a = {
 	2000.1.1 = {
 	 liege = d_tapajos
 	}
 	2656.1.1 = {
-		holder = character_c_br_16_rico
+		holder = character_c_br_16_boa_esperan_a
 	}
 }
 
@@ -201,21 +201,12 @@ c_br_16_portel = {
 	}
 }
 
-c_br_16_morada_bom_lugar = {
+c_br_16_aldeia_ind_gena_ipixuna = {
 	2000.1.1 = {
 	 liege = d_altamira
 	}
 	2656.1.1 = {
-		holder = character_c_br_16_morada_bom_lugar
-	}
-}
-
-c_br_16_morada_bom_lugar = {
-	2000.1.1 = {
-	 liege = d_altamira
-	}
-	2656.1.1 = {
-		holder = character_c_br_16_morada_bom_lugar
+		holder = character_c_br_16_aldeia_ind_gena_ipixuna
 	}
 }
 
@@ -251,12 +242,12 @@ c_br_16_mocajuba = {
 	}
 }
 
-c_br_16_liga_o_do_par_ = {
+c_br_16_folha_vinte_e_cinco = {
 	2000.1.1 = {
 	 liege = d_tucuria
 	}
 	2656.1.1 = {
-		holder = character_c_br_16_liga_o_do_par_
+		holder = character_c_br_16_folha_vinte_e_cinco
 	}
 }
 
@@ -361,12 +352,12 @@ c_br_04_manacapuru = {
 	}
 }
 
-c_br_04_s_tio_ant_nio_a_alencar = {
+c_br_04_maravilha = {
 	2000.1.1 = {
 	 liege = d_manaus
 	}
 	2656.1.1 = {
-		holder = character_c_br_04_s_tio_ant_nio_a_alencar
+		holder = character_c_br_04_maravilha
 	}
 }
 
@@ -381,15 +372,6 @@ d_itacotiara = {
 	}
 	2656.1.1 = {
 		holder = character_c_br_04_parintins
-	}
-}
-
-c_br_04_itacoatiara = {
-	2000.1.1 = {
-	 liege = d_itacotiara
-	}
-	2656.1.1 = {
-		holder = character_c_br_04_itacoatiara
 	}
 }
 
@@ -428,15 +410,6 @@ c_br_04_tef_ = {
 d_copea = {
 	2000.1.1 = {
 	 liege = k_amazonas
-	}
-	2656.1.1 = {
-		holder = character_c_br_04_tef_
-	}
-}
-
-c_br_04_tef_ = {
-	2000.1.1 = {
-	 liege = d_copea
 	}
 	2656.1.1 = {
 		holder = character_c_br_04_tef_
@@ -502,15 +475,6 @@ d_vale_do_javari = {
 	}
 }
 
-c_co_01_leticia = {
-	2000.1.1 = {
-	 liege = d_vale_do_javari
-	}
-	2656.1.1 = {
-		holder = character_c_co_01_leticia
-	}
-}
-
 c_br_04_benjamin_constant = {
 	2000.1.1 = {
 	 liege = d_vale_do_javari
@@ -552,15 +516,6 @@ c_br_04_manicor_ = {
 	}
 }
 
-c_br_04_manicor_ = {
-	2000.1.1 = {
-	 liege = d_igarape_mamoria
-	}
-	2656.1.1 = {
-		holder = character_c_br_04_manicor_
-	}
-}
-
 c_br_04_canutama = {
 	2000.1.1 = {
 	 liege = d_igarape_mamoria
@@ -579,30 +534,30 @@ c_br_04_hevel_ndia = {
 	}
 }
 
-c_br_04_falc_o = {
+c_br_04_vera_cruz = {
 	2000.1.1 = {
 	 liege = d_igarape_mamoria
 	}
 	2656.1.1 = {
-		holder = character_c_br_04_falc_o
+		holder = character_c_br_04_vera_cruz
 	}
 }
 
-c_br_04_bela_brisa = {
+c_br_04_preta_do_p_branco = {
 	2000.1.1 = {
 	 liege = d_igarape_mamoria
 	}
 	2656.1.1 = {
-		holder = character_c_br_04_bela_brisa
+		holder = character_c_br_04_preta_do_p_branco
 	}
 }
 
-c_br_04_infern_o = {
+c_br_04_sao_paulo = {
 	2000.1.1 = {
 	 liege = d_igarape_mamoria
 	}
 	2656.1.1 = {
-		holder = character_c_br_04_infern_o
+		holder = character_c_br_04_sao_paulo
 	}
 }
 
@@ -646,15 +601,6 @@ c_br_04_s_o_gabriel_da_cachoeira = {
 d_cabeca_do_cachorro = {
 	2000.1.1 = {
 	 liege = k_amazonas
-	}
-	2656.1.1 = {
-		holder = character_c_br_04_s_o_gabriel_da_cachoeira
-	}
-}
-
-c_br_04_s_o_gabriel_da_cachoeira = {
-	2000.1.1 = {
-	 liege = d_cabeca_do_cachorro
 	}
 	2656.1.1 = {
 		holder = character_c_br_04_s_o_gabriel_da_cachoeira
@@ -720,12 +666,12 @@ c_br_04_mara_ = {
 	}
 }
 
-c_br_04_periquito = {
+c_br_04_alegria = {
 	2000.1.1 = {
 	 liege = d_vale_do_bia
 	}
 	2656.1.1 = {
-		holder = character_c_br_04_periquito
+		holder = character_c_br_04_alegria
 	}
 }
 
@@ -807,21 +753,12 @@ c_br_24_extrema = {
 	}
 }
 
-c_br_24_extrema = {
+c_br_24_alto_para_so = {
 	2000.1.1 = {
 	 liege = d_guapore
 	}
 	2656.1.1 = {
-		holder = character_c_br_24_extrema
-	}
-}
-
-c_br_24_monte_negro = {
-	2000.1.1 = {
-	 liege = d_guapore
-	}
-	2656.1.1 = {
-		holder = character_c_br_24_monte_negro
+		holder = character_c_br_24_alto_para_so
 	}
 }
 
@@ -866,12 +803,12 @@ c_br_24_jaru = {
 	}
 }
 
-c_br_24_s_tio_limoeiro = {
+c_br_24_fazenda_monte_castelo = {
 	2000.1.1 = {
 	 liege = d_ji_parana
 	}
 	2656.1.1 = {
-		holder = character_c_br_24_s_tio_limoeiro
+		holder = character_c_br_24_fazenda_monte_castelo
 	}
 }
 
@@ -930,12 +867,12 @@ c_br_01_manoel_urbano = {
 	}
 }
 
-c_br_04_fortaleza_do_ituxi = {
+c_br_04_serra_verde = {
 	2000.1.1 = {
 	 liege = d_lesser_acre
 	}
 	2656.1.1 = {
-		holder = character_c_br_04_fortaleza_do_ituxi
+		holder = character_c_br_04_serra_verde
 	}
 }
 
@@ -1026,12 +963,12 @@ c_br_25_sao_louis = {
 	}
 }
 
-c_br_25_bacabal = {
+c_br_25_s_o_luiz = {
 	2000.1.1 = {
 	 liege = d_roraima
 	}
 	2656.1.1 = {
-		holder = character_c_br_25_bacabal
+		holder = character_c_br_25_s_o_luiz
 	}
 }
 
@@ -1058,11 +995,11 @@ c_br_25_amajari = {
 	}
 }
 
-c_ve_06_asiasito = {
+c_ve_01_yeisibibeteri = {
 	2000.1.1 = {
 	 liege = d_cabeca_da_raposa
 	}
 	2656.1.1 = {
-		holder = character_c_ve_06_asiasito
+		holder = character_c_ve_01_yeisibibeteri
 	}
 }

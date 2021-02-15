@@ -378,12 +378,12 @@ c_py_24_com_indig_maria_auxiliadora = {
 	}
 }
 
-c_py_24_teniente_pico = {
+c_py_24_com_indig_de_febrero = {
 	2000.1.1 = {
 	 liege = d_chaco_oriental
 	}
 	2656.1.1 = {
-		holder = character_c_py_24_teniente_pico
+		holder = character_c_py_24_com_indig_de_febrero
 	}
 }
 
@@ -537,15 +537,6 @@ c_bo_03_san_ignacio_de_moxos = {
 	}
 }
 
-c_bo_03_magdalena = {
-	2000.1.1 = {
-	 liege = d_beni
-	}
-	2656.1.1 = {
-		holder = character_c_bo_03_magdalena
-	}
-}
-
 c_bo_08_ascencion_de_guarayos = {
 	2656.1.1 = {
 		holder = character_c_bo_08_ascencion_de_guarayos
@@ -575,6 +566,15 @@ c_br_14_pontes_e_lacerda = {
 	}
 	2656.1.1 = {
 		holder = character_c_br_14_pontes_e_lacerda
+	}
+}
+
+c_bo_03_magdalena = {
+	2000.1.1 = {
+	 liege = d_nuflo
+	}
+	2656.1.1 = {
+		holder = character_c_bo_03_magdalena
 	}
 }
 

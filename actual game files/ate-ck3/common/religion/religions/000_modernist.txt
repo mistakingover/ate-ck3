@@ -196,6 +196,8 @@ modernist_religion = {#TODO
 			color = { 168 219 177 }
 			icon = anthropofagian
 			
+			doctrine = unreformed_faith_doctrine
+			
 			doctrine = tenet_ritual_cannibalism
 			doctrine = tenet_adaptive
 			doctrine = tenet_warmonger
@@ -230,6 +232,8 @@ modernist_religion = {#TODO
 		veredite = {#TODO
 			color = { 0 255 144 }
 			icon = veredite
+			
+			doctrine = unreformed_faith_doctrine
 			
 			doctrine = tenet_vereda_worship #TODO replace with Vereda Worship
 			doctrine = tenet_unrelenting_faith

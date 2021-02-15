@@ -96,24 +96,6 @@ c_us_ak_naknek = {
 	}
 }
 
-c_us_ak_naknek = {
-	2000.1.1 = {
-	 liege = d_aleutians
-	}
-	2656.1.1 = {
-		holder = character_c_us_ak_naknek
-	}
-}
-
-c_us_ak_sand_point = {
-	2000.1.1 = {
-	 liege = d_aleutians
-	}
-	2656.1.1 = {
-		holder = character_c_us_ak_sand_point
-	}
-}
-
 c_us_ak_sand_point = {
 	2000.1.1 = {
 	 liege = d_aleutians
@@ -149,15 +131,6 @@ c_us_ak_bethel = {
 d_kuskokwim = {
 	2000.1.1 = {
 	 liege = k_alaska
-	}
-	2656.1.1 = {
-		holder = character_c_us_ak_bethel
-	}
-}
-
-c_us_ak_bethel = {
-	2000.1.1 = {
-	 liege = d_kuskokwim
 	}
 	2656.1.1 = {
 		holder = character_c_us_ak_bethel
@@ -229,15 +202,6 @@ c_us_ak_unalakleet = {
 	}
 	2656.1.1 = {
 		holder = character_c_us_ak_unalakleet
-	}
-}
-
-c_us_ak_grayling = {
-	2000.1.1 = {
-	 liege = d_yukon_delta
-	}
-	2656.1.1 = {
-		holder = character_c_us_ak_grayling
 	}
 }
 
@@ -342,12 +306,12 @@ d_yukon = {
 	}
 }
 
-c_ca_yt_yukon_crossing = {
+c_ca_yt_pelly_crossing = {
 	2000.1.1 = {
 	 liege = d_yukon
 	}
 	2656.1.1 = {
-		holder = character_c_ca_yt_yukon_crossing
+		holder = character_c_ca_yt_pelly_crossing
 	}
 }
 
@@ -758,11 +722,11 @@ c_us_ak_diomede = {
 	}
 }
 
-c_py_04_noname92237204 = {
+c_us_al_noname91190202 = {
 	2000.1.1 = {
 	 liege = d_chukotka
 	}
 	2656.1.1 = {
-		holder = character_c_py_04_noname92237204
+		holder = character_c_us_al_noname91190202
 	}
 }

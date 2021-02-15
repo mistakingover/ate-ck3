@@ -1,403 +1,321 @@
-character_c_mx_19_monterrey = {
-	name = "Test"
+character_c_monterrey = {
+	name = Gregorio
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_19_apodaca = {
-	name = "Test"
+character_c_san_nicolas = {
+	name = Marisela
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = yes
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_19_benito_ju_rez = {
-	name = "Test"
+character_c_guadelupe = {
+	name = Felipe
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_19_garc_a = {
-	name = "Test"
+character_c_escobedo = {
+	name = Ismael
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_torre_n = {
-	name = "Test"
+character_c_reynosa = {
+	name = Sancho
 	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_10_g_mez_palacio = {
-	name = "Test"
-	religion = "jurihiata_ikikunari"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_10_lerdo = {
-	name = "Test"
-	religion = "jurihiata_ikikunari"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_32_r_o_grande = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_07_san_pedro = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_10_tlahualilo_de_zaragoza = {
-	name = "Test"
-	religion = "jurihiata_ikikunari"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_28_reynosa = {
-	name = "Test"
+character_c_matamoros = {
+	name = Adri_a_act_n
 	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_28_heroica_matamoros = {
-	name = "Test"
+character_c_san_fernando = {
+	name = Demita
 	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = yes
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_28_san_fernando = {
-	name = "Test"
+character_c_padilla = {
+	name = O_act_scar
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_soto_la_marina = {
+	name = Gustavo
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2593.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_tampico = {
+	name = Aureliano
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2610.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ciudad_victoria = {
+	name = Eulalio
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2658.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_el_mante = {
+	name = Mauricio
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2639.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_el_cielo = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2643.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_saltillo = {
+	name = Jasm_i_act_n
 	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = yes
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_28_guillermo_z_iga = {
-	name = "Test"
+character_c_monclova = {
+	name = Valencia
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = yes
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_28_abasolo = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_07_saltillo = {
-	name = "Test"
+character_c_parras = {
+	name = Armando
 	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_monclova = {
-	name = "Test"
+character_c_ramos_arizpe = {
+	name = Jos_e_act__Luis
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_parras_de_la_fuente = {
-	name = "Test"
+character_c_nuevo_laredo = {
+	name = Benito
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2659.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_salinas_victoria = {
+	name = Grimaldo
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2611.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_anahuac = {
+	name = Israel
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cerralvo = {
+	name = Margarita
+	religion = "guadalupan"
+	culture = "bravo"
+	female = yes
+	2616.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_piedras_negras = {
+	name = Plutarco
 	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_pared_n = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_28_nuevo_laredo = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_19_sabinas_hidalgo = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_19_an_huac = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_19_cerralvo = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_07_piedras_negras = {
-	name = "Test"
+character_c_acuna = {
+	name = Antonio
 	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_acu_a = {
-	name = "Test"
+character_c_sabinas = {
+	name = Plutarco
 	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_sabinas = {
-	name = "Test"
+character_c_allende = {
+	name = Mart_i_act_n
 	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2648.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_allende = {
-	name = "Test"
-	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_19_cadereyta_jim_nez = {
-	name = "Test"
+character_c_cadereyta = {
+	name = Eulalio
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2608.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_19_mazatlan = {
-	name = "Test"
+character_c_montemorelos = {
+	name = Andrea
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = yes
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,97 +323,47 @@ character_c_mx_19_mazatlan = {
 	}
 }
 character_c_mx_19_linares = {
-	name = "Test"
+	name = Le_o_act_n
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_19_china = {
-	name = "Test"
+character_c_china = {
+	name = Dolores
 	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = yes
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_melchor_m_zquiz = {
-	name = "Test"
-	religion = "santa_muerte"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_07_san_buenaventura = {
-	name = "Test"
+character_c_galeana = {
+	name = Dami_a_act_n
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_07_h_rcules = {
-	name = "Test"
+character_c_doctor_arroyo = {
+	name = Jes_u_act_s
 	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_19_galeana = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_19_doctor_arroyo = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "bravo"
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,12 +371,10 @@ character_c_mx_19_doctor_arroyo = {
 	}
 }
 character_c_us_az_phoenix = {
-	name = "Test"
+	name = Danica
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = yes
 	2600.1.1 = {
 		birth = yes
 	}
@@ -517,13 +383,11 @@ character_c_us_az_phoenix = {
 	}
 }
 character_c_us_az_peoria = {
-	name = "Test"
+	name = Angel
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -531,13 +395,11 @@ character_c_us_az_peoria = {
 	}
 }
 character_c_us_az_flagstaff = {
-	name = "Test"
+	name = May
 	religion = "mormon"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +407,11 @@ character_c_us_az_flagstaff = {
 	}
 }
 character_c_us_az_globe = {
-	name = "Test"
+	name = Rhett
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +419,11 @@ character_c_us_az_globe = {
 	}
 }
 character_c_us_az_tucson = {
-	name = "Test"
+	name = Haley
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +431,11 @@ character_c_us_az_tucson = {
 	}
 }
 character_c_us_az_yuma = {
-	name = "Test"
+	name = Pete
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2652.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +443,11 @@ character_c_us_az_yuma = {
 	}
 }
 character_c_us_az_sierra_vista = {
-	name = "Test"
+	name = Morgan
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +455,11 @@ character_c_us_az_sierra_vista = {
 	}
 }
 character_c_us_az_oro_valley = {
-	name = "Test"
+	name = Shea
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +467,11 @@ character_c_us_az_oro_valley = {
 	}
 }
 character_c_us_az_bisbee = {
-	name = "Test"
+	name = Paria
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +479,11 @@ character_c_us_az_bisbee = {
 	}
 }
 character_c_us_az_sells = {
-	name = "Test"
+	name = Ike
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +491,11 @@ character_c_us_az_sells = {
 	}
 }
 character_c_us_az_ak_chin_village = {
-	name = "Test"
+	name = Veronica
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2613.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +503,11 @@ character_c_us_az_ak_chin_village = {
 	}
 }
 character_c_us_az_lake_havasu_city = {
-	name = "Test"
+	name = Mordecai
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +515,11 @@ character_c_us_az_lake_havasu_city = {
 	}
 }
 character_c_us_nv_mesquite = {
-	name = "Test"
+	name = Justin
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2601.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +527,11 @@ character_c_us_nv_mesquite = {
 	}
 }
 character_c_us_az_quartzsite = {
-	name = "Test"
+	name = Dowell
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +539,11 @@ character_c_us_az_quartzsite = {
 	}
 }
 character_c_us_az_meadview = {
-	name = "Test"
+	name = Valery
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,13 +551,11 @@ character_c_us_az_meadview = {
 	}
 }
 character_c_us_nm_deming = {
-	name = "Test"
+	name = Custer
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -727,13 +563,11 @@ character_c_us_nm_deming = {
 	}
 }
 character_c_mx_06_puerto_palomas = {
-	name = "Test"
+	name = Shea
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +575,11 @@ character_c_mx_06_puerto_palomas = {
 	}
 }
 character_c_us_nm_socorro = {
-	name = "Test"
+	name = Justin
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,866 +587,346 @@ character_c_us_nm_socorro = {
 	}
 }
 character_c_us_az_eagar = {
-	name = "Test"
+	name = Simon
 	religion = "dustrider"
 	culture = "arixan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2603.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_ju_rez = {
-	name = "Test"
+character_c_paso_del_norte = {
+	name = Ver_o_act_nica
 	religion = "dustrider"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = yes
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_chihuahua = {
-	name = "Test"
+character_c_chihuahua = {
+	name = Ignacio
 	religion = "dustrider"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_cuauht_moc = {
-	name = "Test"
+character_c_cuauhtemoc = {
+	name = Anne
 	religion = "anabaptist"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_nuevo_casas_grandes = {
-	name = "Test"
+character_c_casas_grandes = {
+	name = Jerem_i_act_as
 	religion = "atomicist"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2590.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_miguel_ahumada = {
-	name = "Test"
+character_c_ahumada = {
+	name = Gustavito
 	religion = "dustrider"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_bexar = {
-	name = "Test"
-	religion = "americanist"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_uvalde = {
-	name = "Test"
-	religion = "catholic"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_maverick = {
-	name = "Test"
+character_c_torreon = {
+	name = Fernando
 	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2657.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_starr = {
-	name = "Test"
-	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+character_c_gomez_palacio = {
+	name = Lisa
+	religion = "jurihiata_ikikunari"
+	culture = "chihuahuense"
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_cameron = {
-	name = "Test"
-	religion = "santa_muerte"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+character_c_cuencame = {
+	name = Chavo
+	religion = "jurihiata_ikikunari"
+	culture = "chihuahuense"
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_nueces = {
-	name = "Test"
-	religion = "americanist"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_goliad = {
-	name = "Test"
-	religion = "catholic"
-	culture = "texan"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_live_oak = {
-	name = "Test"
-	religion = "americanist"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_webb = {
-	name = "Test"
+character_c_juan_aldama = {
+	name = Donaldo
 	religion = "guadalupan"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_us_tx_pecos = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_big_bend = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_us_tx_fort_stockton = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_val_verde = {
-	name = "Test"
-	religion = "catholic"
-	culture = "tejano"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_25_culiac_n = {
-	name = "Test"
+character_c_mayran = {
+	name = Cristina
 	religion = "guadalupan"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = yes
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_25_mazatl_n = {
-	name = "Test"
+character_c_tlahualilo = {
+	name = Lisa
+	religion = "jurihiata_ikikunari"
+	culture = "chihuahuense"
+	female = yes
+	2620.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guadiana = {
+	name = Jon_a_act_s
+	religion = "jurihiata_ikikunari"
+	culture = "chihuahuense"
+	female = no
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guadalupe_victoria = {
+	name = Ignacio
+	religion = "jurihiata_ikikunari"
+	culture = "chihuahuense"
+	female = no
+	2598.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_pueblo_nuevo = {
+	name = charapa_placeholder_mnames
 	religion = "guadalupan"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "charapa"
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_25_la_cruz = {
-	name = "Test"
+character_c_suchil = {
+	name = Ana
 	religion = "guadalupan"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = yes
+	2617.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_10_nuevo = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_25_escuinapa = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_18_tepic = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "tapatio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_18_san_jos_del = {
-	name = "Test"
-	religion = "el_santo"
-	culture = "tapatio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_18_tuxpan = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "tapatio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_18_ixtl_n_del_r_o = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "tapatio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_18_acaponeta = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "tapatio"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_25_los_mochis = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_25_guasave = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_25_guam_chil = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_25_el_fuerte = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_hermosillo = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_heroica_guaymas = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_pesqueira = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_ures = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_obreg_n = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_navojoa = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_huatabampo = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_sahuaripa = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_nogales = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_heroica_caborca = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_puerto_pe_asco = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_santa_ana = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_bah_a_de_kino = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_agua_prieta = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_cananea = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_26_nacozari_viejo = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_10_victoria_de_durango = {
-	name = "Test"
+character_c_papasquiaro = {
+	name = Atisi
 	religion = "jurihiata_ikikunari"
 	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2636.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_10_guadalupe_victoria = {
-	name = "Test"
-	religion = "jurihiata_ikikunari"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_10_el_salto = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_10_vicente_guerrero = {
-	name = "Test"
-	religion = "guadalupan"
-	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_10_santiago_papasquiaro = {
-	name = "Test"
+character_c_el_oro = {
+	name = Burito
 	religion = "jurihiata_ikikunari"
 	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_10_santa_mar_a_del_oro = {
-	name = "Test"
-	religion = "jurihiata_ikikunari"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_06_delicias = {
-	name = "Test"
+character_c_delicias = {
+	name = Eulalio
 	religion = "dustrider"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_parral = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_06_manuel_ojinaga = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_06_jos_mariano_jim_nez = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "norteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
-		birth = yes
-	}
-	2749.1.1 = {
-		death = yes
-	}
-}
-character_c_mx_06_guachochi = {
-	name = "Test"
+character_c_parral = {
+	name = Wari
 	religion = "dustrider"
 	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_madera = {
-	name = "Test"
+character_c_ojinaga = {
+	name = Margarita
 	religion = "dustrider"
-	culture = "chinola"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	culture = "chihuahuense"
+	female = yes
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_mx_06_la_junta = {
-	name = "Test"
+character_c_camargo = {
+	name = Patricio
+	religion = "dustrider"
+	culture = "chihuahuense"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guachochi = {
+	name = Ac_e_act_nisa
+	religion = "dustrider"
+	culture = "raramuri"
+	female = no
+	2595.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_madera = {
+	name = Joseph
+	religion = "dustrider"
+	culture = "plautsdeutsch"
+	female = no
+	2621.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guerrero = {
+	name = Candice
 	religion = "anabaptist"
 	culture = "plautsdeutsch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = yes
+	2624.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guadalupe_y_calvo = {
+	name = Muripi
+	religion = "dustrider"
+	culture = "raramuri"
+	female = yes
+	2640.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_muzquiz = {
+	name = Gildardo
+	religion = "santa_muerte"
+	culture = "bravo"
+	female = no
+	2631.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cuatrociengas = {
+	name = Jes_u_act_s
+	religion = "guadalupan"
+	culture = "bravo"
+	female = no
+	2617.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ocampo = {
+	name = Nacho
+	religion = "guadalupan"
+	culture = "chihuahuense"
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -1622,14 +934,300 @@ character_c_mx_06_la_junta = {
 		death = yes
 	}
 }
-character_c_mx_06_guadalupe_y_calvo = {
-	name = "Test"
-	religion = "dustrider"
-	culture = "raramuri"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+character_c_culiacan = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_mazatlan = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_elota = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_baluarte = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
 	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_escuinapa = {
+	name = charapa_placeholder_mnames
+	religion = "guadalupan"
+	culture = "charapa"
+	female = no
+	2597.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_los_mochis = {
+	name = Surem
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guasave = {
+	name = charapa_placeholder_fnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = yes
+	2604.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guamuchil = {
+	name = charapa_placeholder_fnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = yes
+	2634.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_el_fuerte = {
+	name = Octaviano
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2630.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_hermosillo = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2641.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_guaymas = {
+	name = Germ_a_act_n
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2638.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_horcasitas = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2602.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ures = {
+	name = Tetabiate
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2653.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cajeme = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2603.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_navojoa = {
+	name = Kaje_pst_eme
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2645.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_huatabampo = {
+	name = Bachi
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2660.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_sahuaripa = {
+	name = Esteban
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_ambos_nogales = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2635.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_caborca = {
+	name = Test
+	religion = "dustrider"
+	culture = "oodham"
+	female = no
+	2627.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_gran_altar = {
+	name = Test
+	religion = "dustrider"
+	culture = "oodham"
+	female = no
+	2649.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_santa_ana = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2605.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_kino = {
+	name = charapa_placeholder_fnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = yes
+	2606.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_agua_prieta = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2614.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_cananea = {
+	name = charapa_placeholder_mnames
+	religion = "dustrider"
+	culture = "charapa"
+	female = no
+	2600.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+character_c_nacozari = {
+	name = Chucho
+	religion = "dustrider"
+	culture = "cahita"
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

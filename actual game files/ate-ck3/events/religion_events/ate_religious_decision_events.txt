@@ -3152,3 +3152,526 @@ ate_religious_decision.111 = {
 		}
 	}
 }
+
+ate_religious_decision.112 = { 
+	type = character_event
+	title = ate_religious_decision.112.t
+	desc = ate_religious_decision.112.desc
+	theme = faith
+	immediate = {
+		cp:councillor_court_chaplain = {
+			save_scope_as = realm_priest
+		}
+		capital_province = { #For loc.
+			barony = { save_scope_as = huaca_place }
+		}
+	}
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	left_portrait = {
+		character = scope:realm_priest
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.112.a
+		remove_short_term_gold = medium_gold_value
+		add_character_flag = {
+			flag = huaca_plusplus
+			months = 6
+		}
+		stress_impact = {
+			greedy = 20
+			zealous = -20
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.113
+				days = 2
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.112.b
+		remove_short_term_gold = minor_gold_value
+		add_character_flag = {
+			flag = huaca_plus
+			months = 6
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.113
+				days = 2
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.112.c
+		add_character_flag = {
+			flag = huaca_base
+			months = 6
+		}
+		stress_impact = {
+			greedy = -20
+			zealous = 40
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = ate_religious_decision.113
+				days = 2
+			}
+		}
+	}
+}
+
+ate_religious_decision.113 = { 
+	type = character_event
+	title = ate_religious_decision.113.t
+	desc = ate_religious_decision.113.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	left_portrait = {
+		character = scope:realm_priest
+		animation = personality_rational
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.113.a
+		custom_tooltip = huaca_consult_economy_effect
+		add_character_flag = {
+			flag = huaca_economy
+			months = 6
+		}
+		stress_impact = {
+			greedy = -20
+		}
+		hidden_effect = {
+			random_list = {
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plusplus
+					}
+					trigger_event = {
+						id = ate_religious_decision.114
+						days = 2
+					}
+				}
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plus
+					}
+					trigger_event = {
+						id = ate_religious_decision.115
+						days = 2
+					}
+				}
+				20 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_base
+					}
+					trigger_event = {
+						id = ate_religious_decision.116
+						days = 2
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.113.b
+		custom_tooltip = huaca_consult_war_effect
+		add_character_flag = {
+			flag = huaca_war
+			months = 6
+		}
+		stress_impact = {
+			calm = 20
+			craven = 20
+		}
+		hidden_effect = {
+			random_list = {
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plusplus
+					}
+					trigger_event = {
+						id = ate_religious_decision.114
+						days = 2
+					}
+				}
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plus
+					}
+					trigger_event = {
+						id = ate_religious_decision.115
+						days = 2
+					}
+				}
+				20 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_base
+					}
+					trigger_event = {
+						id = ate_religious_decision.116
+						days = 2
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.113.c
+		custom_tooltip = huaca_consult_piety_effect
+		add_character_flag = {
+			flag = huaca_piety
+			months = 6
+		}
+		stress_impact = {
+			cynical = 20
+			zealous = -20
+		}
+		hidden_effect = {
+			random_list = {
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plusplus
+					}
+					trigger_event = {
+						id = ate_religious_decision.114
+						days = 2
+					}
+				}
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plus
+					}
+					trigger_event = {
+						id = ate_religious_decision.115
+						days = 2
+					}
+				}
+				20 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_base
+					}
+					trigger_event = {
+						id = ate_religious_decision.116
+						days = 2
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.113.d
+		custom_tooltip = huaca_consult_admin_effect
+		add_character_flag = {
+			flag = huaca_admin
+			months = 6
+		}
+		stress_impact = {
+			lazy = 20
+			diligent = -20
+		}
+		hidden_effect = {
+			random_list = {
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plusplus
+					}
+					trigger_event = {
+						id = ate_religious_decision.114
+						days = 2
+					}
+				}
+				30 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_plus
+					}
+					trigger_event = {
+						id = ate_religious_decision.115
+						days = 2
+					}
+				}
+				20 = {
+					modifier = {
+						add = 20
+						has_character_flag = huaca_base
+					}
+					trigger_event = {
+						id = ate_religious_decision.116
+						days = 2
+					}
+				}
+			}
+		}
+	}
+}
+
+ate_religious_decision.114 = { 
+	type = character_event
+	title = ate_religious_decision.114.t
+	desc = {
+		desc = ate_religious_decision.114.desc.start
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_economy
+				}
+				desc = ate_religious_decision.114.desc.econ
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_war
+				}
+				desc = ate_religious_decision.114.desc.war
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_piety
+				}
+				desc = ate_religious_decision.114.desc.piety
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_admin
+				}
+				desc = ate_religious_decision.114.desc.admin
+			}
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = happiness
+	}
+	left_portrait = {
+		character = scope:realm_priest
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.114.a
+		if = {
+			limit = {
+				has_character_flag = huaca_economy
+			}
+			add_character_modifier = {
+				modifier = huaca_great_economy
+				years = 2
+			}
+		}
+		else_if = {
+			limit = {
+				has_character_flag = huaca_war
+			}
+			add_character_modifier = {
+				modifier = huaca_great_war
+				years = 2
+			}
+		}
+		else_if = {
+			limit = {
+				has_character_flag = huaca_piety
+			}
+			add_character_modifier = {
+				modifier = huaca_great_piety
+				years = 2
+			}
+		}
+		else = {
+			add_character_modifier = {
+				modifier = huaca_great_admin
+				years = 2
+			}
+		}
+	}
+}
+
+ate_religious_decision.115 = { 
+	type = character_event
+	title = ate_religious_decision.115.t
+	desc = {
+		desc = ate_religious_decision.115.desc.start
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_economy
+				}
+				desc = ate_religious_decision.115.desc.econ
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_war
+				}
+				desc = ate_religious_decision.115.desc.war
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_piety
+				}
+				desc = ate_religious_decision.115.desc.piety
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_admin
+				}
+				desc = ate_religious_decision.115.desc.admin
+			}
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	left_portrait = {
+		character = scope:realm_priest
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.115.a
+		if = {
+			limit = {
+				has_character_flag = huaca_economy
+			}
+			add_character_modifier = {
+				modifier = huaca_good_economy
+				years = 2
+			}
+		}
+		else_if = {
+			limit = {
+				has_character_flag = huaca_war
+			}
+			add_character_modifier = {
+				modifier = huaca_good_war
+				years = 2
+			}
+		}
+		else_if = {
+			limit = {
+				has_character_flag = huaca_piety
+			}
+			add_character_modifier = {
+				modifier = huaca_good_piety
+				years = 2
+			}
+		}
+		else = {
+			add_character_modifier = {
+				modifier = huaca_good_admin
+				years = 2
+			}
+		}
+	}
+}
+
+
+ate_religious_decision.116 = { 
+	type = character_event
+	title = ate_religious_decision.116.t
+	desc = {
+		desc = ate_religious_decision.116.desc.start
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_economy
+				}
+				desc = ate_religious_decision.116.desc.econ
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_war
+				}
+				desc = ate_religious_decision.116.desc.war
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_piety
+				}
+				desc = ate_religious_decision.116.desc.piety
+			}
+			triggered_desc = {
+				trigger = {
+					has_character_flag = huaca_admin
+				}
+				desc = ate_religious_decision.116.desc.admin
+			}
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	left_portrait = {
+		character = scope:realm_priest
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.116.a
+		if = {
+			limit = {
+				has_character_flag = huaca_economy
+			}
+			add_character_modifier = {
+				modifier = huaca_bad_economy
+				years = 2
+			}
+		}
+		else_if = {
+			limit = {
+				has_character_flag = huaca_war
+			}
+			add_character_modifier = {
+				modifier = huaca_bad_war
+				years = 2
+			}
+		}
+		else_if = {
+			limit = {
+				has_character_flag = huaca_piety
+			}
+			add_character_modifier = {
+				modifier = huaca_bad_piety
+				years = 2
+			}
+		}
+		else = {
+			add_character_modifier = {
+				modifier = huaca_bad_admin
+				years = 2
+			}
+		}
+	}
+}

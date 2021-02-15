@@ -1,11 +1,9 @@
 character_c_porto_alegre = {
-	name = "Test"
+	name = Volnei
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2630.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -13,13 +11,11 @@ character_c_porto_alegre = {
 	}
 }
 character_c_br_23_canoas = {
-	name = "Test"
+	name = Daniela
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2637.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -27,13 +23,11 @@ character_c_br_23_canoas = {
 	}
 }
 character_c_br_23_novo_hamburgo = {
-	name = "Test"
+	name = Adalbert
 	religion = "muckerism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -41,13 +35,11 @@ character_c_br_23_novo_hamburgo = {
 	}
 }
 character_c_br_23_viam_o = {
-	name = "Test"
+	name = Lu_i_act_s
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -55,13 +47,11 @@ character_c_br_23_viam_o = {
 	}
 }
 character_c_br_23_cap_o_da_canoa = {
-	name = "Test"
+	name = Jo_a_tld_o
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -69,13 +59,11 @@ character_c_br_23_cap_o_da_canoa = {
 	}
 }
 character_c_br_23_gua_ba = {
-	name = "Test"
+	name = Sebasti_a_tld_o
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -83,13 +71,11 @@ character_c_br_23_gua_ba = {
 	}
 }
 character_c_br_23_torres = {
-	name = "Test"
+	name = Ernani
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -97,13 +83,11 @@ character_c_br_23_torres = {
 	}
 }
 character_c_br_23_caxias_do_sul = {
-	name = "Test"
+	name = Vitale
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -111,13 +95,11 @@ character_c_br_23_caxias_do_sul = {
 	}
 }
 character_c_br_23_bento_gon_alves = {
-	name = "Test"
+	name = Giolio
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -125,13 +107,11 @@ character_c_br_23_bento_gon_alves = {
 	}
 }
 character_c_br_23_lajeado = {
-	name = "Test"
+	name = Ernst
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -139,13 +119,11 @@ character_c_br_23_lajeado = {
 	}
 }
 character_c_br_23_vacaria = {
-	name = "Test"
+	name = Lothar
 	religion = "muckerism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -153,13 +131,11 @@ character_c_br_23_vacaria = {
 	}
 }
 character_c_br_23_lajeado_grande = {
-	name = "Test"
+	name = Liutfrid
 	religion = "muckerism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -167,13 +143,11 @@ character_c_br_23_lajeado_grande = {
 	}
 }
 character_c_br_23_pelotas = {
-	name = "Test"
+	name = Dante
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -181,13 +155,11 @@ character_c_br_23_pelotas = {
 	}
 }
 character_c_br_23_rio_grande = {
-	name = "Test"
+	name = Juvir
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -195,13 +167,11 @@ character_c_br_23_rio_grande = {
 	}
 }
 character_c_br_23_camaqu_ = {
-	name = "Test"
+	name = M_a_act_rio
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2593.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -209,13 +179,11 @@ character_c_br_23_camaqu_ = {
 	}
 }
 character_c_br_23_palmares_do_sul = {
-	name = "Test"
+	name = Juliano
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2653.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -223,13 +191,11 @@ character_c_br_23_palmares_do_sul = {
 	}
 }
 character_c_br_23_passo_fundo = {
-	name = "Test"
+	name = Chiaffredo
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2594.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -237,13 +203,11 @@ character_c_br_23_passo_fundo = {
 	}
 }
 character_c_br_23_carazinho = {
-	name = "Test"
+	name = Luther
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -251,13 +215,11 @@ character_c_br_23_carazinho = {
 	}
 }
 character_c_br_23_erechim = {
-	name = "Test"
+	name = Carla
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -265,13 +227,11 @@ character_c_br_23_erechim = {
 	}
 }
 character_c_br_23_palmeira_das_miss_es = {
-	name = "Test"
+	name = Paparico
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -279,13 +239,11 @@ character_c_br_23_palmeira_das_miss_es = {
 	}
 }
 character_c_br_23_lagoa_vermelha = {
-	name = "Test"
+	name = Costante
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2612.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -293,13 +251,11 @@ character_c_br_23_lagoa_vermelha = {
 	}
 }
 character_c_br_23_frederico_westphalen = {
-	name = "Test"
+	name = Eticho
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -307,26 +263,22 @@ character_c_br_23_frederico_westphalen = {
 	}
 }
 character_c_br_23_soledade = {
-	name = "Test"
+	name = Ludwig
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_23_pinhalzinho = {
-	name = "Test"
+character_c_br_23_gramado_dos_loureiros = {
+	name = kaingang_placeholder_mnames
 	religion = "celestism"
 	culture = "kaingang"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -335,13 +287,11 @@ character_c_br_23_pinhalzinho = {
 	}
 }
 character_c_br_23_santa_maria = {
-	name = "Test"
+	name = Naiara
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -349,13 +299,11 @@ character_c_br_23_santa_maria = {
 	}
 }
 character_c_br_23_santiago = {
-	name = "Test"
+	name = Beto
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -363,13 +311,11 @@ character_c_br_23_santiago = {
 	}
 }
 character_c_br_23_s_o_sep_ = {
-	name = "Test"
+	name = Arno
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2605.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -377,13 +323,11 @@ character_c_br_23_s_o_sep_ = {
 	}
 }
 character_c_br_23_santa_cruz_do_sul = {
-	name = "Test"
+	name = Eberhard
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -391,13 +335,11 @@ character_c_br_23_santa_cruz_do_sul = {
 	}
 }
 character_c_br_23_charqueadas = {
-	name = "Test"
+	name = Licurgo
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2634.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -405,13 +347,11 @@ character_c_br_23_charqueadas = {
 	}
 }
 character_c_br_23_cachoeira_do_sul = {
-	name = "Test"
+	name = Nicolau
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2592.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -419,13 +359,11 @@ character_c_br_23_cachoeira_do_sul = {
 	}
 }
 character_c_br_23_santo_ngelo = {
-	name = "Test"
+	name = An_i_act_bal
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2656.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -433,13 +371,11 @@ character_c_br_23_santo_ngelo = {
 	}
 }
 character_c_br_23_santa_rosa = {
-	name = "Test"
+	name = Berfran
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -447,13 +383,11 @@ character_c_br_23_santa_rosa = {
 	}
 }
 character_c_br_23_iju_ = {
-	name = "Test"
+	name = Apeles
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -461,27 +395,23 @@ character_c_br_23_iju_ = {
 	}
 }
 character_c_br_23_cruz_alta = {
-	name = "Test"
+	name = Rafael
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_23_concei_o = {
-	name = "Test"
+character_c_br_23_s_o_jo_o_das_miss_es = {
+	name = A_act_lvaro
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2596.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -489,13 +419,11 @@ character_c_br_23_concei_o = {
 	}
 }
 character_c_br_23_alegrete = {
-	name = "Test"
+	name = Gerson
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -503,41 +431,35 @@ character_c_br_23_alegrete = {
 	}
 }
 character_c_br_23_s_o_borja = {
-	name = "Test"
+	name = Jer_o_hat_nimo
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2626.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_uy_01_cuareim = {
-	name = "Test"
+character_c_br_23_abreu = {
+	name = Catarina
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2638.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_23_charqueada = {
-	name = "Test"
+character_c_br_23_encruzilhada = {
+	name = Bohn
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2610.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -545,13 +467,11 @@ character_c_br_23_charqueada = {
 	}
 }
 character_c_br_23_bag_ = {
-	name = "Test"
+	name = Baltazar
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -559,13 +479,11 @@ character_c_br_23_bag_ = {
 	}
 }
 character_c_br_23_herval = {
-	name = "Test"
+	name = Aderbal
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -573,13 +491,11 @@ character_c_br_23_herval = {
 	}
 }
 character_c_br_23_cangu_u = {
-	name = "Test"
+	name = Angelita
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2642.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -587,13 +503,11 @@ character_c_br_23_cangu_u = {
 	}
 }
 character_c_br_23_s_o_gabriel = {
-	name = "Test"
+	name = Paulo
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -601,13 +515,11 @@ character_c_br_23_s_o_gabriel = {
 	}
 }
 character_c_br_23_ros_rio_do_sul = {
-	name = "Test"
+	name = Gilberto
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2623.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -615,13 +527,11 @@ character_c_br_23_ros_rio_do_sul = {
 	}
 }
 character_c_br_23_dom_pedrito = {
-	name = "Test"
+	name = A_hat_ngelo
 	religion = "farrapo"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2660.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -629,13 +539,11 @@ character_c_br_23_dom_pedrito = {
 	}
 }
 character_c_uy_01_artigas = {
-	name = "Test"
+	name = Diego
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -643,13 +551,11 @@ character_c_uy_01_artigas = {
 	}
 }
 character_c_uy_01_bella_uni_n = {
-	name = "Test"
+	name = Math_i_act_as
 	religion = "bandean"
 	culture = "guacho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2647.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -657,13 +563,11 @@ character_c_uy_01_bella_uni_n = {
 	}
 }
 character_c_br_18_curitiba = {
-	name = "Test"
+	name = T_u_act_lio
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2598.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -671,13 +575,11 @@ character_c_br_18_curitiba = {
 	}
 }
 character_c_br_18_s_o_jos_dos_pinhais = {
-	name = "Test"
+	name = Osmar
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -685,13 +587,11 @@ character_c_br_18_s_o_jos_dos_pinhais = {
 	}
 }
 character_c_br_18_ponta_grossa = {
-	name = "Test"
+	name = Miltinho
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -699,13 +599,11 @@ character_c_br_18_ponta_grossa = {
 	}
 }
 character_c_br_18_paranagu_ = {
-	name = "Test"
+	name = Ney
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -713,27 +611,23 @@ character_c_br_18_paranagu_ = {
 	}
 }
 character_c_br_18_castro = {
-	name = "Test"
+	name = Traiano
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2624.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_18_tatupeba = {
-	name = "Test"
+character_c_br_18_antinha = {
+	name = C_a_hat_ndido
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2619.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -741,13 +635,11 @@ character_c_br_18_tatupeba = {
 	}
 }
 character_c_br_18_londrina = {
-	name = "Test"
+	name = Pl_i_act_nio
 	religion = "apostolicism"
 	culture = "caipira"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2609.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -755,13 +647,11 @@ character_c_br_18_londrina = {
 	}
 }
 character_c_br_18_maring_ = {
-	name = "Test"
+	name = Jo_a_tld_o_Alberto
 	religion = "apostolicism"
 	culture = "caipira"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -769,13 +659,11 @@ character_c_br_18_maring_ = {
 	}
 }
 character_c_br_18_santo_ant_nio_da_platina = {
-	name = "Test"
+	name = Jacqueline
 	religion = "johrei"
 	culture = "burajirujin"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -783,13 +671,11 @@ character_c_br_18_santo_ant_nio_da_platina = {
 	}
 }
 character_c_br_18_jaguaria_va = {
-	name = "Test"
+	name = Paulo_Henrique
 	religion = "apostolicism"
 	culture = "caipira"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2611.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -797,13 +683,11 @@ character_c_br_18_jaguaria_va = {
 	}
 }
 character_c_br_18_tel_maco_borba = {
-	name = "Test"
+	name = M_a_act_rio
 	religion = "neopentecostalism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2646.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -811,13 +695,11 @@ character_c_br_18_tel_maco_borba = {
 	}
 }
 character_c_br_18_faxinal = {
-	name = "Test"
+	name = Francisco
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -825,13 +707,11 @@ character_c_br_18_faxinal = {
 	}
 }
 character_c_br_18_ortigueira = {
-	name = "Test"
+	name = Luana
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2644.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -839,12 +719,10 @@ character_c_br_18_ortigueira = {
 	}
 }
 character_c_br_18_cascavel = {
-	name = "Test"
+	name = E_act_den
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = no
 	2600.1.1 = {
 		birth = yes
 	}
@@ -853,13 +731,11 @@ character_c_br_18_cascavel = {
 	}
 }
 character_c_br_18_foz_do_igua_u = {
-	name = "Test"
+	name = Louren_c_ced_o
 	religion = "valente"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -867,13 +743,11 @@ character_c_br_18_foz_do_igua_u = {
 	}
 }
 character_c_br_18_umuarama = {
-	name = "Test"
+	name = Brasil
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -881,13 +755,11 @@ character_c_br_18_umuarama = {
 	}
 }
 character_c_br_18_paranava_ = {
-	name = "Test"
+	name = Borja
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2620.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -895,13 +767,11 @@ character_c_br_18_paranava_ = {
 	}
 }
 character_c_br_18_campo_mour_o = {
-	name = "Test"
+	name = Bete
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2639.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -909,13 +779,11 @@ character_c_br_18_campo_mour_o = {
 	}
 }
 character_c_br_18_marechal_c_ndido_rondon = {
-	name = "Test"
+	name = Luiz
 	religion = "celestism"
 	culture = "paranaense"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2649.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -923,13 +791,11 @@ character_c_br_18_marechal_c_ndido_rondon = {
 	}
 }
 character_c_br_18_moreira_sales = {
-	name = "Test"
+	name = Aurelia
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2651.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -937,13 +803,11 @@ character_c_br_18_moreira_sales = {
 	}
 }
 character_c_br_18_guarapuava = {
-	name = "Test"
+	name = Nikita
 	religion = "byzantine_rite"
 	culture = "ruteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -951,13 +815,11 @@ character_c_br_18_guarapuava = {
 	}
 }
 character_c_br_18_irati = {
-	name = "Test"
+	name = Iziaslav
 	religion = "byzantine_rite"
 	culture = "ruteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2606.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -965,13 +827,11 @@ character_c_br_18_irati = {
 	}
 }
 character_c_br_18_uni_o_da_vit_ria = {
-	name = "Test"
+	name = Stanislav
 	religion = "byzantine_rite"
 	culture = "ruteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2659.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -979,13 +839,11 @@ character_c_br_18_uni_o_da_vit_ria = {
 	}
 }
 character_c_br_18_pitanga = {
-	name = "Test"
+	name = Vsevolod
 	religion = "byzantine_rite"
 	culture = "ruteno"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2628.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -993,13 +851,11 @@ character_c_br_18_pitanga = {
 	}
 }
 character_c_br_18_francisco_beltr_o = {
-	name = "Test"
+	name = Zeca
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2655.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1007,27 +863,23 @@ character_c_br_18_francisco_beltr_o = {
 	}
 }
 character_c_br_18_pato_branco = {
-	name = "Test"
+	name = Lila
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2627.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
 		death = yes
 	}
 }
-character_c_br_18_cov_ = {
-	name = "Test"
+character_c_br_18_padre_ponciano = {
+	name = Roque
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2658.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1035,13 +887,11 @@ character_c_br_18_cov_ = {
 	}
 }
 character_c_br_26_joinville = {
-	name = "Test"
+	name = Gebhard
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2597.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1049,13 +899,11 @@ character_c_br_26_joinville = {
 	}
 }
 character_c_br_26_s_o_bento_do_sul = {
-	name = "Test"
+	name = Wolfram
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2632.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1063,12 +911,10 @@ character_c_br_26_s_o_bento_do_sul = {
 	}
 }
 character_c_br_26_jaragu_do_sul = {
-	name = "Test"
+	name = Eilika
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
+	female = yes
 	2600.1.1 = {
 		birth = yes
 	}
@@ -1077,13 +923,11 @@ character_c_br_26_jaragu_do_sul = {
 	}
 }
 character_c_br_26_florian_polis = {
-	name = "Test"
+	name = Juarez
 	religion = "kardecist"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1091,13 +935,11 @@ character_c_br_26_florian_polis = {
 	}
 }
 character_c_br_26_palho_a = {
-	name = "Test"
+	name = Andreia
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2643.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1105,13 +947,11 @@ character_c_br_26_palho_a = {
 	}
 }
 character_c_br_26_brusque = {
-	name = "Test"
+	name = Ellenhard
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2615.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1119,13 +959,11 @@ character_c_br_26_brusque = {
 	}
 }
 character_c_br_26_bigua_u = {
-	name = "Test"
+	name = Roland
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1133,13 +971,11 @@ character_c_br_26_bigua_u = {
 	}
 }
 character_c_br_26_blumenau = {
-	name = "Test"
+	name = Anno
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2635.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1147,13 +983,11 @@ character_c_br_26_blumenau = {
 	}
 }
 character_c_br_26_itaja_ = {
-	name = "Test"
+	name = Cl_e_act_sio
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1161,13 +995,11 @@ character_c_br_26_itaja_ = {
 	}
 }
 character_c_br_26_rio_do_sul = {
-	name = "Test"
+	name = Anno
 	religion = "nonconformism"
 	culture = "hunsrickisch"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2595.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1175,13 +1007,11 @@ character_c_br_26_rio_do_sul = {
 	}
 }
 character_c_br_26_crici_ma = {
-	name = "Test"
+	name = Camila
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = yes
+	2622.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1189,13 +1019,11 @@ character_c_br_26_crici_ma = {
 	}
 }
 character_c_br_26_s_o_jos_ = {
-	name = "Test"
+	name = Geraldo
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2650.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1203,13 +1031,11 @@ character_c_br_26_s_o_jos_ = {
 	}
 }
 character_c_br_26_imbituba = {
-	name = "Test"
+	name = Rodrigo
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2607.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1217,13 +1043,11 @@ character_c_br_26_imbituba = {
 	}
 }
 character_c_br_26_chapec_ = {
-	name = "Test"
+	name = P_e_act_ricles
 	religion = "celestism"
 	culture = "gaucho"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2599.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1231,13 +1055,11 @@ character_c_br_26_chapec_ = {
 	}
 }
 character_c_br_26_conc_rdia = {
-	name = "Test"
+	name = Raimondo
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2645.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1245,13 +1067,11 @@ character_c_br_26_conc_rdia = {
 	}
 }
 character_c_br_26_capinzal = {
-	name = "Test"
+	name = Gianfranco
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2591.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1259,13 +1079,11 @@ character_c_br_26_capinzal = {
 	}
 }
 character_c_ar_14_bernardo_de_irigoyen = {
-	name = "Test"
+	name = Aimone
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2625.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1273,13 +1091,11 @@ character_c_ar_14_bernardo_de_irigoyen = {
 	}
 }
 character_c_br_26_lages = {
-	name = "Test"
+	name = Udo
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2654.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1287,13 +1103,11 @@ character_c_br_26_lages = {
 	}
 }
 character_c_br_26_ca_ador = {
-	name = "Test"
+	name = Fiorello
 	religion = "celestism"
 	culture = "talian"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2640.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {
@@ -1301,13 +1115,11 @@ character_c_br_26_ca_ador = {
 	}
 }
 character_c_br_26_s_o_joaquim = {
-	name = "Test"
+	name = Neuto
 	religion = "celestism"
 	culture = "barriga-verde"
-	trait = cancer
-	trait = wounded_3
-	trait = incapable
-	2600.1.1 = {
+	female = no
+	2621.1.1 = {
 		birth = yes
 	}
 	2749.1.1 = {

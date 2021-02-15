@@ -118,3 +118,263 @@ county_colonelate = {
 	culture_groups = { nordestino_group estino_group }
 }
 
+#governorate titles
+baron_judge = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { governorate_government }
+}
+baron_judge_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { governorate_government }
+}
+barony_vara = {
+	type = title
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { governorate_government }
+}
+
+count_prefect = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { governorate_government }
+}
+count_prefect_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { governorate_government }
+}
+county_prefecture = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { governorate_government }
+}
+
+duke_magistrate = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { governorate_government }
+}
+duke_magistrate_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { governorate_government }
+}
+duchy_comarca = {
+	type = title
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { governorate_government }
+}
+
+king_governor = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	top_liege = no
+	governments = { governorate_government }
+}
+king_governor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	top_liege = no
+	governments = { governorate_government }
+}
+kingdom_state = {
+	type = title
+	tier = kingdom
+	priority = 47
+	top_liege = no
+	governments = { governorate_government }
+}
+
+emperor_president = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 57
+	top_liege = no
+	governments = { governorate_government }
+}
+emperor_president_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 57
+	top_liege = no
+	governments = { governorate_government }
+}
+empire_federation = {
+	type = title
+	tier = empire
+	priority = 57
+	top_liege = no
+	governments = { governorate_government }
+}
+
+#captaincy titles
+baron_lieutenant = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { captaincy_government }
+}
+baron_lieutenant_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { captaincy_government }
+}
+barony_junta = {
+	type = title
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { captaincy_government }
+}
+
+count_captain = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { captaincy_government }
+}
+count_captain_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { captaincy_government }
+}
+county_captaincy = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { captaincy_government }
+}
+
+duke_captain_major = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { captaincy_government }
+}
+duke_captain_major_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { captaincy_government }
+}
+duchy_major_captaincy = {
+	type = title
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { captaincy_government }
+}
+
+king_captain_general = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	top_liege = no
+	governments = { captaincy_government }
+}
+king_captain_general_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	top_liege = no
+	governments = { captaincy_government }
+}
+kingdom_general_captaincy = {
+	type = title
+	tier = kingdom
+	priority = 47
+	top_liege = no
+	governments = { captaincy_government }
+}
+emperor_marshal = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 57
+	top_liege = no
+	governments = { captaincy_government }
+}
+emperor_marshal_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 57
+	top_liege = no
+	governments = { captaincy_government }
+}
+empire_federation = {
+	type = title
+	tier = empire
+	priority = 57
+	top_liege = no
+	governments = { captaincy_government }
+}

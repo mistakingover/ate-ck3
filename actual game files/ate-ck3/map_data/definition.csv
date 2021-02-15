@@ -7702,40 +7702,40 @@
 7701;219;145;28;b_us_fl_mayo;x;
 7702;205;94;15;b_us_fl_cross_city;x;
 7703;174;150;48;b_us_fl_day;x;
-7704;99;180;61;b_us_la_baton_rouge0;x;
-7705;107;180;85;b_us_la_plaquemine;x;
-7706;91;131;82;b_us_la_donaldsonville;x;
-7707;81;118;48;b_us_la_morgan_city;x;
-7708;43;61;28;b_us_la_lafayette;x;
-7709;11;41;74;b_us_la_franklin;x;
-7710;0;74;19;b_us_la_breaux_bridge;x;
-7711;95;22;54;b_us_la_houma;x;
-7712;93;71;29;b_us_la_luling;x;
-7713;84;19;55;b_us_la_morgan_city0;x;
-7714;113;54;19;b_us_la_grand_isle;x;
-7715;173;64;126;b_us_la_lake_charles;x;
-7716;190;76;102;b_us_la_welsh;x;
-7717;145;83;134;b_us_la_hackberry;x;
-7718;67;225;126;b_us_la_crowley;x;
-7719;88;171;105;b_us_la_abbeville;x;
-7720;67;179;95;b_us_la_lake_arthur;x;
-7721;136;169;180;b_us_la_opelousas;x;
-7722;119;130;198;b_us_la_marksville;x;
-7723;70;142;211;b_us_la_ville_platte;x;
-7724;84;186;28;b_us_la_new_orleans;x;
-7725;66;177;27;b_us_la_poydras;x;
-7726;13;164;123;b_us_la_marrero;x;
-7727;43;185;136;b_us_la_buras;x;
-7728;213;170;93;b_us_ms_gulfport;x;
-7729;222;209;75;b_us_ms_pascagoula;x;
-7730;232;210;96;b_us_ms_carriere;x;
-7731;99;231;149;b_us_la_baton_rouge;x;
-7732;93;225;178;b_us_la_prairieville;x;
-7733;64;170;148;b_us_la_zachary;x;
-7734;47;217;155;b_us_ms_centreville;x;
-7735;95;31;150;b_us_la_slidell;x;
-7736;94;73;137;b_us_la_hammond;x;
-7737;90;18;187;b_us_la_bogalusa;x;
+7704;84;186;28;b_us_la_new_orleans;x;
+7705;66;177;27;b_us_la_poydras;x;
+7706;13;164;123;b_us_la_marrero;x;
+7707;43;185;136;b_us_la_buras;x;
+7708;99;231;149;b_us_la_baton_rouge;x;
+7709;47;217;155;b_us_ms_centreville;x;
+7710;93;225;178;b_us_la_prairieville;x;
+7711;64;170;148;b_us_la_zachary;x;
+7712;213;170;93;b_us_ms_gulfport;x;
+7713;222;209;75;b_us_ms_pascagoula;x;
+7714;232;210;96;b_us_ms_carriere;x;
+7715;95;31;150;b_us_la_slidell;x;
+7716;94;73;137;b_us_la_hammond;x;
+7717;90;18;187;b_us_la_bogalusa;x;
+7718;43;61;28;b_us_la_lafayette;x;
+7719;11;41;74;b_us_la_franklin;x;
+7720;0;74;19;b_us_la_breaux_bridge;x;
+7721;95;22;54;b_us_la_houma;x;
+7722;113;54;19;b_us_la_grand_isle;x;
+7723;93;71;29;b_us_la_luling;x;
+7724;84;19;55;b_us_la_morgan_city0;x;
+7725;190;76;102;b_us_la_welsh;x;
+7726;173;64;126;b_us_la_lake_charles;x;
+7727;145;83;134;b_us_la_hackberry;x;
+7728;67;225;126;b_us_la_crowley;x;
+7729;88;171;105;b_us_la_abbeville;x;
+7730;67;179;95;b_us_la_lake_arthur;x;
+7731;136;169;180;b_us_la_opelousas;x;
+7732;119;130;198;b_us_la_marksville;x;
+7733;70;142;211;b_us_la_ville_platte;x;
+7734;107;180;85;b_us_la_plaquemine;x;
+7735;91;131;82;b_us_la_donaldsonville;x;
+7736;81;118;48;b_us_la_morgan_city;x;
+7737;99;180;61;b_us_la_port_allen;x;
 7738;207;201;47;b_us_la_monroe;x;
 7739;250;173;57;b_us_la_bastrop;x;
 7740;212;166;82;b_us_la_monticello;x;
@@ -9623,11 +9623,11 @@
 9622;49;163;228;Ocean;x; #Ocean
 9623;90;237;240;Ocean;x; #Ocean
 9624;119;207;244;Ocean;x; #Ocean
-9625;64;150;204;Ocean;x; #Ocean
+9625;64;150;204;ocean_coast_of_haida_gwaii;x; #Coast of Haida Gwaii
 9626;156;246;246;Ocean;x; #Ocean
 9627;160;245;245;Ocean;x; #Ocean
 9628;120;245;250;Ocean;x; #Ocean
-9629;40;183;247;Ocean;x; #Ocean
+9629;40;183;247;ocean_barkley_sound;x; #Barkley Sound
 9630;76;244;245;Ocean;x; #Ocean
 9631;27;190;247;Ocean;x; #Ocean
 9632;84;164;252;Ocean;x; #Ocean
@@ -9722,7 +9722,7 @@
 9721;153;209;254;Ocean;x; #Ocean
 9722;152;209;252;Ocean;x; #Ocean
 9723;132;209;228;Ocean;x; #Ocean
-9724;103;180;234;Ocean;x; #Ocean
+9724;103;180;234;ocean_johnstone_strait;x; #Johnstone Strait
 9725;121;209;249;Ocean;x; #Ocean
 9726;106;209;222;Ocean;x; #Ocean
 9727;58;209;210;Ocean;x; #Ocean
@@ -9746,11 +9746,11 @@
 9745;59;205;235;Ocean;x; #Ocean
 9746;30;205;234;Ocean;x; #Ocean
 9747;69;152;202;Ocean;x; #Ocean
-9748;60;171;235;Ocean;x; #Ocean
+9748;60;171;235;ocean_nootka_sound;x; #Nootka Sound
 9749;148;204;204;Ocean;x; #Ocean
 9750;100;204;210;Ocean;x; #Ocean
 9751;98;163;243;Ocean;x; #Ocean
-9752;53;180;220;Ocean;x; #Ocean
+9752;53;180;220;ocean_strait_of_georgia;x; #Strait of Georgia
 9753;84;163;227;Ocean;x; #Ocean
 9754;55;229;239;Ocean;x; #Ocean
 9755;124;203;221;Ocean;x; #Ocean
@@ -9938,7 +9938,7 @@
 9937;117;168;244;Ocean;x; #Ocean
 9938;61;168;227;Ocean;x; #Ocean
 9939;57;168;205;Ocean;x; #Ocean
-9940;26;168;213;Ocean;x; #Ocean
+9940;26;168;213;ocean_juan_de_fuca_strait;x; #Juan de Fuca Strait
 9941;105;167;206;Ocean;x; #Ocean
 9942;38;202;254;Ocean;x; #Ocean
 9943;41;167;238;Ocean;x; #Ocean
@@ -9954,7 +9954,7 @@
 9953;37;165;218;Ocean;x; #Ocean
 9954;73;164;240;Ocean;x; #Ocean
 9955;51;164;234;Ocean;x; #Ocean
-9956;30;164;208;Ocean;x; #Ocean
+9956;30;164;208;ocean_hecate_strait;x; #Hecate Strait
 9957;24;164;204;Ocean;x; #Ocean
 9958;58;163;233;Ocean;x; #Ocean
 9959;43;163;205;Ocean;x; #Ocean
@@ -10060,7 +10060,7 @@
 10059;74;142;235;Ocean;x; #Ocean
 10060;59;138;207;Ocean;x; #Ocean
 10061;72;157;252;Ocean;x; #Ocean
-10062;85;142;223;Ocean;x; #Ocean
+10062;85;142;223;ocean_puget_sound;x; #Puget Sound
 10063;52;142;238;Ocean;x; #Ocean
 10064;27;142;209;Ocean;x; #Ocean
 10065;40;144;236;Ocean;x; #Ocean
@@ -10078,7 +10078,7 @@
 10077;85;138;206;Ocean;x; #Ocean
 10078;82;138;226;Ocean;x; #Ocean
 10079;64;138;203;Ocean;x; #Ocean
-10080;37;138;217;Ocean;x; #Ocean
+10080;37;138;217;ocean_queen_charlotte_sound;x; #Queen Charlotte Sound
 10081;83;137;209;Ocean;x; #Ocean
 10082;33;137;201;Ocean;x; #Ocean
 10083;84;136;209;Ocean;x; #Ocean
@@ -10122,7 +10122,7 @@
 10121;58;130;238;Ocean;x; #Ocean
 10122;44;130;252;Ocean;x; #Ocean
 10123;26;130;242;Ocean;x; #Ocean
-10124;55;129;209;Ocean;x; #Ocean
+10124;55;129;209;ocean_dixon_entrance;x; #Dixon Entrance
 10125;36;129;221;Ocean;x; #Ocean
 10126;64;128;253;Ocean;x; #Ocean
 10127;50;128;231;Ocean;x; #Ocean
@@ -10133,7 +10133,7 @@
 10132;144;66;240;Lake;x; #Lake
 10133;131;60;205;Lake;x; #Lake
 10134;134;78;221;Lake;x; #Lake
-10135;205;36;251;Lake;x; #Lake
+10135;205;36;251;lake_vancouver_island_lakes;x; #Vancouver Island Lakes
 10136;132;22;209;Lake;x; #Lake
 10137;156;57;251;Lake;x; #Lake
 10138;133;80;230;Lake;x; #Lake
@@ -10156,7 +10156,7 @@
 10155;157;71;231;Lake;x; #Lake
 10156;145;71;208;Lake;x; #Lake
 10157;158;70;232;Lake;x; #Lake
-10158;134;54;230;Lake;x; #Lake
+10158;134;54;230;lake_lower_mainland_lakes;x; #Lower Mainland Lakes
 10159;195;69;245;Lake;x; #Lake
 10160;185;66;241;Lake;x; #Lake
 10161;171;66;249;Lake;x; #Lake
