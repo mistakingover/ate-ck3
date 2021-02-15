@@ -1,0 +1,7 @@
+realm_law_use_court_authority = {
+	OR = {
+		has_government = imperial_government
+		has_government = governorate_government
+		has_government = captaincy_government
+	}
+}

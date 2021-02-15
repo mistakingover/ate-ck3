@@ -1,0 +1,311 @@
+pool_imperial_steward = {
+	valid_character = {
+		is_capable_adult = yes
+		#OR = {
+		#	has_same_culture_as = scope:base
+		#	has_same_culture_as = scope:province
+		#}
+		#sex_same_as = scope:base
+		is_lowborn = no
+		#is_claimant = no
+		is_imprisoned = no
+		#is_landed = yes
+		#is_ruler = yes
+	}
+	
+	character_score = {
+		base = 1
+		
+		modifier = {
+			add = { value = age max = 50 }
+		}
+		modifier = {
+			add = { value = stewardship max = 20 }
+		}
+		modifier = {
+			add = { value = diplomacy max = 20 }
+		}
+		modifier = {
+			add = { value = learning max = 20 }
+		}
+		modifier = {
+			add = 50
+			has_education_stewardship_trigger = yes
+		}
+		modifier = {
+			add = 10
+			has_education_learning_trigger = yes
+		}
+		
+		modifier = {
+			if = {
+				limit = {
+					is_lowborn = no
+				}
+				add = 500
+			}
+		}
+		
+		#modifier = {
+		#	add = 25
+		#	is_lowborn = no
+		#}
+		
+		modifier = {
+			add = 1000
+			is_vassal_or_below_of = scope:base
+		}
+		modifier = {
+			add = 50
+			is_vassal_of = scope:base
+		}
+		modifier = {
+			if = {
+				limit = {
+					stewardship > 10
+				}
+				add = 10
+			}
+			if = {
+				limit = {
+					stewardship > 15
+				}
+				add = 10
+			}
+			if = {
+				limit = {
+					stewardship > 20
+				}
+				add = 50
+			}
+		}
+		
+		modifier = {
+			add = 10
+			has_same_culture_as = scope:base
+		}
+		modifier = {
+			add = 50
+			has_same_culture_group_as = scope:base
+		}
+	}
+	
+	
+	#config = {
+	#	age = { 20 80 }
+	#}
+	
+	selection_count = 50
+	
+	pool = realm
+	
+	#realm = yes #court = yes
+	gender = male
+	#culture = character
+}
+
+pool_imperial_chancellor = {
+	valid_character = {
+		is_capable_adult = yes
+		#OR = {
+		#	has_same_culture_as = scope:base
+		#	has_same_culture_as = scope:province
+		#}
+		#sex_same_as = scope:base
+		is_lowborn = no
+		#is_claimant = no
+		is_imprisoned = no
+		#is_landed = yes
+		#is_ruler = yes
+	}
+	
+	character_score = {
+		base = 1
+		
+		modifier = {
+			add = { value = age max = 50 }
+		}
+		modifier = {
+			add = { value = stewardship max = 20 }
+		}
+		modifier = {
+			add = { value = diplomacy max = 20 }
+		}
+		modifier = {
+			add = { value = learning max = 20 }
+		}
+		modifier = {
+			add = 50
+			has_education_diplomacy_trigger = yes
+		}
+		modifier = {
+			add = 10
+			has_education_learning_trigger = yes
+		}
+		
+		modifier = {
+			if = {
+				limit = {
+					is_lowborn = no
+				}
+				add = 500
+			}
+		}
+		
+		#modifier = {
+		#	add = 25
+		#	is_lowborn = no
+		#}
+		
+		modifier = {
+			add = 1000
+			is_vassal_or_below_of = scope:base
+		}
+		modifier = {
+			add = 50
+			is_vassal_of = scope:base
+		}
+		modifier = {
+			if = {
+				limit = {
+					diplomacy > 10
+				}
+				add = 10
+			}
+			if = {
+				limit = {
+					diplomacy > 15
+				}
+				add = 10
+			}
+			if = {
+				limit = {
+					diplomacy > 20
+				}
+				add = 50
+			}
+		}
+		
+		modifier = {
+			add = 10
+			has_same_culture_as = scope:base
+		}
+		modifier = {
+			add = 50
+			has_same_culture_group_as = scope:base
+		}
+	}
+	
+	
+	#config = {
+	#	age = { 20 80 }
+	#}
+	
+	selection_count = 50
+	
+	pool = realm
+	
+	#realm = yes #court = yes
+	gender = male
+	#culture = character
+}
+
+pool_imperial_marshal = {
+	valid_character = {
+		is_capable_adult = yes
+		#OR = {
+		#	has_same_culture_as = scope:base
+		#	has_same_culture_as = scope:province
+		#}
+		#sex_same_as = scope:base
+		is_lowborn = no
+		#is_claimant = no
+		is_imprisoned = no
+		#is_landed = yes
+		#is_ruler = yes
+	}
+	
+	character_score = {
+		base = 1
+		
+		modifier = {
+			add = { value = age max = 50 }
+		}
+		modifier = {
+			add = { value = martial max = 20 }
+		}
+		modifier = {
+			add = { value = prowess max = 20 }
+		}
+
+		modifier = {
+			add = 50
+			has_education_martial_trigger = yes
+		}
+		
+		modifier = {
+			if = {
+				limit = {
+					is_lowborn = no
+				}
+				add = 500
+			}
+		}
+		
+		#modifier = {
+		#	add = 25
+		#	is_lowborn = no
+		#}
+		
+		modifier = {
+			add = 1000
+			is_vassal_or_below_of = scope:base
+		}
+		modifier = {
+			add = 50
+			is_vassal_of = scope:base
+		}
+		modifier = {
+			if = {
+				limit = {
+					martial > 10
+				}
+				add = 10
+			}
+			if = {
+				limit = {
+					martial > 15
+				}
+				add = 10
+			}
+			if = {
+				limit = {
+					martial > 20
+				}
+				add = 50
+			}
+		}
+		
+		modifier = {
+			add = 10
+			has_same_culture_as = scope:base
+		}
+		modifier = {
+			add = 50
+			has_same_culture_group_as = scope:base
+		}
+	}
+	
+	
+	config = {
+		background = commander
+	}
+	
+	selection_count = 50
+	
+	pool = realm
+	
+	#realm = yes #court = yes
+	gender = commander
+	#culture = character
+}
