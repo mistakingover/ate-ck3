@@ -219,3 +219,108 @@ convert_whole_realm_to_governorate_effect = {
 		
 	}
 }
+
+convert_whole_realm_to_captaincy_effect = {
+	#TOOLTIP INFO
+	#PLAYER EFFECTS
+	##Liege has clan? Convert to clan!
+	if = {
+		limit = {
+			is_independent_ruler = no
+			OR = {
+				liege = { has_government = imperial_government }
+				liege = { has_government = governorate_government }
+				liege = { has_government = captaincy_government }
+			}
+			vassal_contract_has_flag = has_captaincy_contract
+			
+		}
+		change_government = captaincy_government
+		root.primary_title = {
+			add_title_law = martial_succession_law 
+		}
+	}
+	hidden_effect = {
+		#Nuke tribal authorities.
+		if = {
+			limit = { has_realm_law = tribal_authority_0 }
+			remove_realm_law = tribal_authority_0
+		}
+		if = {
+			limit = { has_realm_law = tribal_authority_1 }
+			remove_realm_law = tribal_authority_1
+		}
+		if = {
+			limit = { has_realm_law = tribal_authority_2 }
+			remove_realm_law = tribal_authority_2
+		}
+		if = {
+			limit = { has_realm_law = tribal_authority_3 }
+			remove_realm_law = tribal_authority_3
+		}
+		#Start off crown authorities.
+		if = {
+			limit = {
+				NOT = { has_realm_law = crown_authority_0 }
+			}
+			add_realm_law_skip_effects = crown_authority_0
+		}
+
+		#Also convert every vassal.
+		#Liege has taken clan, so become clan.
+		if = {
+			limit = {
+				OR = {
+					liege = { has_government = imperial_government }
+					liege = { has_government = governorate_government }
+					liege = { has_government = captaincy_government }
+				}
+			}
+			every_vassal_or_below = {
+				limit = {
+					OR = {
+						liege = { has_government = imperial_government }
+						liege = { has_government = governorate_government }
+						liege = { has_government = captaincy_government }
+					}
+				}
+				change_government = captaincy_government
+				
+				if = {
+					limit = {
+						highest_held_title_tier >= duchy
+					}
+					root.primary_title = {
+						add_title_law = martial_succession_law 
+					}
+				}
+				
+				
+				#Nuke tribal authorities.
+				if = {
+					limit = { has_realm_law = tribal_authority_0 }
+					remove_realm_law = tribal_authority_0
+				}
+				if = {
+					limit = { has_realm_law = tribal_authority_1 }
+					remove_realm_law = tribal_authority_1
+				}
+				if = {
+					limit = { has_realm_law = tribal_authority_2 }
+					remove_realm_law = tribal_authority_2
+				}
+				if = {
+					limit = { has_realm_law = tribal_authority_3 }
+					remove_realm_law = tribal_authority_3
+				}
+				if = {
+					limit = {
+						NOT = { has_realm_law = crown_authority_0 }
+					}
+					add_realm_law_skip_effects = crown_authority_0
+				}
+			}
+		}
+		
+	}
+}

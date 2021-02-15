@@ -17,6 +17,9 @@ convert_whole_realm_to_imperial_decision = {
 		NOT = {
 			has_government = imperial_government
 		}
+		NOT = {
+			has_government = republic_government
+		}
 	}
 
 	cost = {
@@ -57,6 +60,9 @@ convert_whole_realm_to_governorate_decision = {
 		NOT = {
 			has_government = governorate_government
 		}
+		NOT = {
+			has_government = republic_government
+		}
 		is_independent_ruler = no
 		vassal_contract_has_flag = has_governorate_contract 
 	}
@@ -65,6 +71,9 @@ convert_whole_realm_to_governorate_decision = {
 		is_independent_ruler = no
 		NOT = {
 			has_government = governorate_government
+		}
+		NOT = {
+			has_government = republic_government
 		}
 		vassal_contract_has_flag = has_governorate_contract
 	}
@@ -81,6 +90,62 @@ convert_whole_realm_to_governorate_decision = {
 			every_vassal = {
 				trigger_event = {
 					id = governorate_decisions.0002
+					days = 3
+				}
+			}
+		}
+	}
+
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
+
+convert_whole_realm_to_captaincy_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_realm.dds"
+	major = yes
+	desc = convert_whole_realm_to_captaincy_decision_desc
+
+	ai_check_interval = 3
+
+	is_shown = {
+		NOT = {
+			has_government = captaincy_government
+		}
+		NOT = {
+			has_government = republic_government
+		}
+		is_independent_ruler = no
+		vassal_contract_has_flag = has_captaincy_contract 
+	}
+
+	is_valid = {
+		is_independent_ruler = no
+		NOT = {
+			has_government = captaincy_government
+		}
+		NOT = {
+			has_government = republic_government
+		}
+		vassal_contract_has_flag = has_captaincy_contract
+	}
+
+	cost = {
+		#prestige = 10
+	}
+
+	effect = {
+		trigger_event = captaincy_decisions.0001
+		save_scope_as = actor
+		convert_whole_realm_to_captaincy_effect = yes
+		hidden_effect = {
+			every_vassal = {
+				trigger_event = {
+					id = captaincy_decisions.0002
 					days = 3
 				}
 			}
