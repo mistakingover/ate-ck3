@@ -1,0 +1,18 @@
+﻿### Miscelaneous Triggers
+
+#is_culture_head - is the character a culture head?
+#is_religious_head - is the character a religious head of their own faith?
+
+is_culture_head = {
+	culture = {
+		save_temporary_scope_as = this_culture
+	}
+	this = scope:this_culture.culture_head
+}
+
+is_religious_head = {
+	faith = {
+		save_temporary_scope_as = this_faith
+	}
+	this = scope:this_faith.religious_head
+}
