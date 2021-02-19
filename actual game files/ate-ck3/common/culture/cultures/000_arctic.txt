@@ -14,6 +14,7 @@ graphical_cultures = {
 			color = { 165 191 229 }
 	
 		cadet_dynasty_names = {
+			"dynn_Aaluk"
 			"dynn_Aariak"
 			"dynn_Adjukak"
 			"dynn_Aglukkaq"
@@ -32,22 +33,28 @@ graphical_cultures = {
 			"dynn_Allooloo"
 			"dynn_Allurut"
 			"dynn_Amagoalik"
+			"dynn_Ammaq"
 			"dynn_Angilirq"
 			"dynn_Angnakak"
+			"dynn_Angnatsiak"
 			"dynn_Angottitauruq"
 			"dynn_Angrnaqquaq"
 			"dynn_Angu"
 			"dynn_Angulalik"
 			"dynn_Angutautuk"
 			"dynn_Appaqaq"
+			"dynn_Aqiaruq"
+			"dynn_Aqilriaq"
 			"dynn_Arlooktoo"
 			"dynn_Arnaktauyok"
 			"dynn_Arnaquq"
 			"dynn_Arnatsiaq"
+			"dynn_Arragutainaq"
 			"dynn_Arvaluk"
 			"dynn_Ashevak"
 			"dynn_Ashoona"
 			"dynn_Atagotaaluk"
+			"dynn_Atqittuq"
 			"dynn_Attagutsiak"
 			"dynn_Aupaluktuq"
 			"dynn_Eetoolook"
@@ -61,27 +68,37 @@ graphical_cultures = {
 			"dynn_Evalik"
 			"dynn_Evaloarjuk"
 			"dynn_Evyagotailak"
+			"dynn_Hummiktuq"
 			"dynn_Idlout"
 			"dynn_Igiu"
 			"dynn_Igloliorte"
 			"dynn_Ikkidluak"
+			"dynn_Ikkutsiluk"
+			"dynn_Ikummaq"
 			"dynn_Illupalik"
 			"dynn_Innuksuk"
+			"dynn_Inuktaluk"
 			"dynn_Ipeelie"
 			"dynn_Ipkarnak"
 			"dynn_Iqalukjuak"
 			"dynn_Iqaqrialu"
 			"dynn_Iqqaqsaq"
+			"dynn_Irkok"
+			"dynn_Irngaut"
 			"dynn_Irniq"
 			"dynn_Irqittuq"
 			"dynn_Ishulutaq"
 			"dynn_Ittinuar"
+			"dynn_Itulu"
 			"dynn_Ivalu"
 			"dynn_Kalluk"
 			"dynn_Kaludjak"
 			"dynn_Kamingoak"
+			"dynn_Kamoolak"
 			"dynn_Kanayuk"
 			"dynn_Karetak"
+			"dynn_Kasudluak"
+			"dynn_Kataoyak"
 			"dynn_Kattuk"
 			"dynn_Kaviok"
 			"dynn_Keenainak"
@@ -90,9 +107,12 @@ graphical_cultures = {
 			"dynn_Kilabuk"
 			"dynn_Kogvik"
 			"dynn_Komoartok"
+			"dynn_Konana"
+			"dynn_Koonoo"
 			"dynn_Kotierk"
 			"dynn_Kritaqliluk"
 			"dynn_Kudloo"
+			"dynn_Kudluarok"
 			"dynn_Kunuk"
 			"dynn_Kusugak"
 			"dynn_Maksagak"
@@ -100,6 +120,7 @@ graphical_cultures = {
 			"dynn_Mapsalak"
 			"dynn_Merkosak"
 			"dynn_Mikkigak"
+			"dynn_Muckpah"
 			"dynn_Nakashuk"
 			"dynn_Nakimayak"
 			"dynn_Nakoolak"
@@ -108,15 +129,19 @@ graphical_cultures = {
 			"dynn_Nuqingaq"
 			"dynn_Nutarak"
 			"dynn_Nutarariaq"
+			"dynn_Nuvaqiq"
 			"dynn_Okalik"
 			"dynn_Okatsiak"
+			"dynn_Okpakok"
 			"dynn_Okpik"
+			"dynn_Oleekataklik"
 			"dynn_Omik"
 			"dynn_Oolateeta"
 			"dynn_Oonark"
 			"dynn_Oshuitoq"
 			"dynn_Oshutapik"
 			"dynn_Oyukuluk"
+			"dynn_Palluq"
 			"dynn_Paneak"
 			"dynn_Panigoniak"
 			"dynn_Paniloo"
@@ -134,6 +159,7 @@ graphical_cultures = {
 			"dynn_Qappik"
 			"dynn_Qaqqaq"
 			"dynn_Qaqqasiq"
+			"dynn_Qattalik"
 			"dynn_Qaulluaryuk"
 			"dynn_Qaunaq"
 			"dynn_Qayuaryuk"
@@ -150,12 +176,16 @@ graphical_cultures = {
 			"dynn_Sammurtok"
 			"dynn_Saumik"
 			"dynn_Savikataaq"
+			"dynn_Saviakjuk"
 			"dynn_Sheutiapik"
 			"dynn_Shooyook"
 			"dynn_Sikkuark"
+			"dynn_Siksik"
 			"dynn_Simailak"
 			"dynn_Sivuarapik"
 			"dynn_Suluk"
+			"dynn_Tagalik"
+			"dynn_Takatak"
 			"dynn_Tagaq"
 			"dynn_Tanuyak"
 			"dynn_Tapardjuk"
@@ -176,6 +206,7 @@ graphical_cultures = {
 			"dynn_Uyarak"
 		}
 		dynasty_names = {
+			"dynn_Aaluk"
 			"dynn_Aariak"
 			"dynn_Adjukak"
 			"dynn_Aglukkaq"
@@ -194,22 +225,28 @@ graphical_cultures = {
 			"dynn_Allooloo"
 			"dynn_Allurut"
 			"dynn_Amagoalik"
+			"dynn_Ammaq"
 			"dynn_Angilirq"
 			"dynn_Angnakak"
+			"dynn_Angnatsiak"
 			"dynn_Angottitauruq"
 			"dynn_Angrnaqquaq"
 			"dynn_Angu"
 			"dynn_Angulalik"
 			"dynn_Angutautuk"
 			"dynn_Appaqaq"
+			"dynn_Aqiaruq"
+			"dynn_Aqilriaq"
 			"dynn_Arlooktoo"
 			"dynn_Arnaktauyok"
 			"dynn_Arnaquq"
 			"dynn_Arnatsiaq"
+			"dynn_Arragutainaq"
 			"dynn_Arvaluk"
 			"dynn_Ashevak"
 			"dynn_Ashoona"
 			"dynn_Atagotaaluk"
+			"dynn_Atqittuq"
 			"dynn_Attagutsiak"
 			"dynn_Aupaluktuq"
 			"dynn_Eetoolook"
@@ -223,27 +260,37 @@ graphical_cultures = {
 			"dynn_Evalik"
 			"dynn_Evaloarjuk"
 			"dynn_Evyagotailak"
+			"dynn_Hummiktuq"
 			"dynn_Idlout"
 			"dynn_Igiu"
 			"dynn_Igloliorte"
 			"dynn_Ikkidluak"
+			"dynn_Ikkutsiluk"
+			"dynn_Ikummaq"
 			"dynn_Illupalik"
 			"dynn_Innuksuk"
+			"dynn_Inuktaluk"
 			"dynn_Ipeelie"
 			"dynn_Ipkarnak"
 			"dynn_Iqalukjuak"
 			"dynn_Iqaqrialu"
 			"dynn_Iqqaqsaq"
+			"dynn_Irkok"
+			"dynn_Irngaut"
 			"dynn_Irniq"
 			"dynn_Irqittuq"
 			"dynn_Ishulutaq"
 			"dynn_Ittinuar"
+			"dynn_Itulu"
 			"dynn_Ivalu"
 			"dynn_Kalluk"
 			"dynn_Kaludjak"
 			"dynn_Kamingoak"
+			"dynn_Kamoolak"
 			"dynn_Kanayuk"
 			"dynn_Karetak"
+			"dynn_Kasudluak"
+			"dynn_Kataoyak"
 			"dynn_Kattuk"
 			"dynn_Kaviok"
 			"dynn_Keenainak"
@@ -252,9 +299,12 @@ graphical_cultures = {
 			"dynn_Kilabuk"
 			"dynn_Kogvik"
 			"dynn_Komoartok"
+			"dynn_Konana"
+			"dynn_Koonoo"
 			"dynn_Kotierk"
 			"dynn_Kritaqliluk"
 			"dynn_Kudloo"
+			"dynn_Kudluarok"
 			"dynn_Kunuk"
 			"dynn_Kusugak"
 			"dynn_Maksagak"
@@ -262,6 +312,7 @@ graphical_cultures = {
 			"dynn_Mapsalak"
 			"dynn_Merkosak"
 			"dynn_Mikkigak"
+			"dynn_Muckpah"
 			"dynn_Nakashuk"
 			"dynn_Nakimayak"
 			"dynn_Nakoolak"
@@ -270,15 +321,19 @@ graphical_cultures = {
 			"dynn_Nuqingaq"
 			"dynn_Nutarak"
 			"dynn_Nutarariaq"
+			"dynn_Nuvaqiq"
 			"dynn_Okalik"
 			"dynn_Okatsiak"
+			"dynn_Okpakok"
 			"dynn_Okpik"
+			"dynn_Oleekataklik"
 			"dynn_Omik"
 			"dynn_Oolateeta"
 			"dynn_Oonark"
 			"dynn_Oshuitoq"
 			"dynn_Oshutapik"
 			"dynn_Oyukuluk"
+			"dynn_Palluq"
 			"dynn_Paneak"
 			"dynn_Panigoniak"
 			"dynn_Paniloo"
@@ -296,6 +351,7 @@ graphical_cultures = {
 			"dynn_Qappik"
 			"dynn_Qaqqaq"
 			"dynn_Qaqqasiq"
+			"dynn_Qattalik"
 			"dynn_Qaulluaryuk"
 			"dynn_Qaunaq"
 			"dynn_Qayuaryuk"
@@ -312,12 +368,16 @@ graphical_cultures = {
 			"dynn_Sammurtok"
 			"dynn_Saumik"
 			"dynn_Savikataaq"
+			"dynn_Saviakjuk"
 			"dynn_Sheutiapik"
 			"dynn_Shooyook"
 			"dynn_Sikkuark"
+			"dynn_Siksik"
 			"dynn_Simailak"
 			"dynn_Sivuarapik"
 			"dynn_Suluk"
+			"dynn_Tagalik"
+			"dynn_Takatak"
 			"dynn_Tagaq"
 			"dynn_Tanuyak"
 			"dynn_Tapardjuk"
@@ -341,34 +401,37 @@ graphical_cultures = {
 		male_names = {
 			Adamie Agiaq Alootook Amaqjuaq Angutimmarik Apayata Atanarjuat Aupilaarjuk Auyaluk
 			Charlie
-			Elizirie Enoki Etuangat Etyguyakjua
+			David
+			Elizirie Enuki Etuangat Etyguyakjua
 			Gideonie Gooteleah
 			Ipirvik Ittinuaq
-			Jamasie Joanassie Jobie Joelie Josephie Juatan
+			Jaipiti Jamasie Joanassie Jobie Joelie Josephie Juatan
 			Kadlarjuk Kananginak Karoo Kenojuak Kiakshuk Kiugak Kiviaq Kumaglak
-			Levi Lootie Lucassie
-			Makik Manasie Markoosie Mosha
-			Nanuq Natar Nutaraaluk
+			Levi Lootie Louie Lucassie
+			Makik Manasie Markoosie Mosesie
+			Nanuq Natar Nathan Nutaraaluk
 			Ohotaq Oki Olayuk Ollie Orpingalik Osuitok
 			Pakak Pauloosie Piita Pudlo
 			Qimuksiraaq Qiqituk Qulitalik
-			Sakiasie Salomonie Samik Sauri Sedluk Simeonie Simigaq
+			Sakiasie Salomonie Samik Samuelie Sauri Sedluk Simeonie Simigaq
 			Tagak Takpaugni Tigianniak Toomasie Tulimaq Tungajuaq Tungilik
 			Unaleq Uqammaq Ushuakjuk
+			Zacharias
 		}
 		female_names = {
 			Aaju Aggeok Alasie Aluki Alurut Anirnik Annie Atuat Aviaq
+			Dinah
 			Ekateelik Elisapie
 			Jeannie
-			Kenojuak Kikkik
-			Laakkuluk Liuna Lusie
+			Kanguq Kenojuak Kikkik
+			Laakkuluk Leonie Liuna Lorraine Lusie
 			Manitok Marie Mitiarjuk Mumilaaq
 			Nanoraq Napachie Natsiq Naullaq Ningeeuga Ningiukulu Niriuniq Nuggasak Nyla
 			Omalluq Oopik Oviloo
 			Paingu Panikpak Pitaloosie Pitseolak Puja
 			Qapik Qaunak Qiqituk
 			Rosie
-			Shuvinai Siasi Silaqi Suusan
+			Shuvinai Siasi Silaqi Susie
 			Ulayu Uluriaq Uvavnuk
 		}
 		
