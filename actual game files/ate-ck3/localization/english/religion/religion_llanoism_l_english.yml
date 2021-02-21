@@ -69,7 +69,7 @@
  aria_devil_name:0 "El Diablo"
  aria_evil_god_satan:0 "Satán"
 
-  #Inti
+  #Aria
  aria_de_machete:0 "Aria de Machete"
  aria_de_machete_adj:0 "Machetero"
  aria_de_machete_adherent:0 "Machetero"
@@ -83,3 +83,26 @@
  tenet_songs_of_machete_desc:0 "It's through lyrics and music that we connect with the spirits and the divine. Instead of striking on our foes physically, we can also strike them lyrically through music."
  doctrine_parameter_select_machete_spells_active:0 "May be initiated in a dark sect, enabling the use of different spells and rituals corresponding to the sect." 
  doctrine_parameter_enable_contrapunteo_interaction:0 "Enables the Challenge to Contrapunteo interaction."
+
+ get_initiated_mystery_cult_decision:0 "Get Initiated Into a Mystery Cult"
+ get_initiated_mystery_cult_decision_desc:0 "Among our people, rulers are expected to get introduced into the sacred mysteries of the herder cults. Women are taught the mysteries of love and death, while men learn the magics of virility and strength.\n\nIf I prepare for a night of dance and sacrifice, the covert powers of the espantos will be at my fingertips."
+ get_initiated_mystery_cult_decision_tooltip:0 "Get initiated into a mystery cult."
+ get_initiated_mystery_cult_effect:0 "You will receive an initiation into one of the mystery cults of the faith, enabling access to different spell interactions."
+ get_initiated_mystery_cult_decision_confirm:0 "I pray to the one who is stallion and dame!"
+
+ night_mare:0 "Night Mare"
+ night_mare_desc:0 "This character is an initiate of the Night Mares cult, enabling access to the dark spells of La Sayona, La Bolefuego, and Rucio Moro."
+ hell_stallion:0 "Hell Stallion"
+ hell_stallion_desc:0 "This character is an initiate of the Hell Stallions cult, enabling access to the dark spells of Juan Machete, Florentino Cazadiablos, and Rucio Moro."
+
+ I_HAVE_MALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a male, just as I am, and is available to perform the ritual"
+ NOT_I_HAVE_MALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! a male or available to perform the ritual"
+ I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a male, just as I am, and is available to perform the ritual"
+ NOT_I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! a male or available to perform the ritual"
+
+ ate_religious_decision.120.t:o "The Initiation"
+ ate_religious_decision.120.desc.female:0 "While the harps roar in frenzied joropo sonatas, the old priestesses encourage me to dance so that the ancient songs bring forth the dark mysteries.\n\nI dance until my feet bleed, and only then am I allowed to enter the ancient temple where fire covers the walls in red. While the old women cover my head with a black cloak, they demand to know my sacrifice before the flames of the dark beings."
+ ate_religious_decision.120.desc.male:0 "An old priest sings an aria while he scratches the strings of a harp in a sound that is somehow as blissful as it is gloomy. I am instructed to punch the walls of the dark temple in which we find ourselves until my knuckles bleed, only when the blood covers my hands am I allowed to approach the old altar where the darkness barely allows to distinguish the shape of the bones of man and beast.\n\nI understand then that you are expected to offer a sacrifice."
+ ate_religious_decision.120.a:o "I offer the flesh of my steed, to gallop with the dark ones."
+ ate_religious_decision.120.b:o "I give the life of a warrior, may their blood nourish the holy."
+ ate_religious_decision.120.c:o "My blood, from the wounds that I have opened tonight."

@@ -1,13 +1,23 @@
-﻿#wrestling_match_interaction_has_been_challenged= {
-#	first_not = wrestling_match_interaction_has_been_challenged
-#}
+﻿wrestling_match_interaction_has_been_challenged= {
+	first_not = wrestling_match_interaction_has_been_challenged
+}
 
-#wrestling_match_timing= {
-#	first = wrestling_match_timing
-#	first_not = not_wrestling_match_timing
-#}
+wrestling_match_timing= {
+	first = wrestling_match_timing
+	first_not = not_wrestling_match_timing
+}
 
 lay_on_hands_interaction_is_healthy={
 	first = not_lay_on_hands_interaction_is_healthy
 	first_not = lay_on_hands_interaction_is_healthy
+}
+
+decision_has_court_chaplain_same_gender_male = {
+	first = I_HAVE_MALE_COURT_CHAPLAIN
+	first_not = NOT_I_HAVE_MALE_COURT_CHAPLAIN
+}
+
+decision_has_court_chaplain_same_gender_female = {
+	first = I_HAVE_FEMALE_COURT_CHAPLAIN
+	first_not = NOT_I_HAVE_FEMALE_COURT_CHAPLAIN
 }
