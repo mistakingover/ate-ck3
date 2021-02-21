@@ -21,3 +21,21 @@ decision_has_court_chaplain_same_gender_female = {
 	first = I_HAVE_FEMALE_COURT_CHAPLAIN
 	first_not = NOT_I_HAVE_FEMALE_COURT_CHAPLAIN
 }
+
+deliverance_ministry_timing = {
+	first = deliverance_ministry_timing
+	first_not = not_deliverance_ministry_timing
+}
+
+deliver_from_evil_interaction_has_been_delivered = {
+	first_not = deliver_from_evil_interaction_has_been_delivered
+}
+
+machete_sayona_timing = {
+	first = machete_sayona_timing
+	first_not = not_machete_sayona_timing
+}
+
+machete_sayona_interaction_has_been_bewitched = {
+	first_not = machete_sayona_interaction_has_been_bewitched 
+}

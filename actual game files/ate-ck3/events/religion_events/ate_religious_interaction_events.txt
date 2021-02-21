@@ -985,7 +985,7 @@ ate_religious_interaction.114 = { #resist-success-them
 				remove_trait_force_tooltip = possessed_1
 			}
 			add_character_modifier = {
-				modifier = delivered_from_evil_modifier
+				modifier = used_deliverance_ministry_modifier
 				years = 2
 			}			
 		}
@@ -1167,6 +1167,158 @@ ate_religious_interaction.120 = { #accept-fail-them
 				modifier = delivered_from_evil_modifier
 				years = 2
 			}			
+		}
+	}
+}
+
+ate_religious_interaction.122 = { #Sayona Love Spell
+	type = character_event
+	title = ate_religious_interaction.122.t
+	desc = ate_religious_interaction.122.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = personality_zealous
+	}
+	option = {
+		name = ate_religious_interaction.122.a
+		hidden_effect = {
+			random_list = {
+				50 = {
+					modifier = {
+						add = 20
+						has_trait = beauty_good_1
+					}
+					modifier = {
+						add = 25
+						has_trait = beauty_good_2
+					}
+					modifier = {
+						add = 30
+						has_trait = beauty_good_3
+					}
+					modifier = {
+						add = 5
+						intrigue >= 8
+					}
+					modifier = {
+						add = 5
+						intrigue >= 11
+					}
+					modifier = {
+						add = 10
+						intrigue >= 14
+					}
+					modifier = {
+						add = 10
+						intrigue >= 17
+					}
+					trigger_event = {
+						id = ate_religious_interaction.123
+						days = 7
+					}
+				}
+				50 = {
+					modifier = {
+						add = 20
+						has_trait = beauty_bad_1
+					}
+					modifier = {
+						add = 25
+						has_trait = beauty_bad_2
+					}
+					modifier = {
+						add = 30
+						has_trait = beauty_bad_3
+					}
+					modifier = {
+						add = 40
+						scope:recipient = {
+							NOT = { has_faith = scope:actor.faith }
+						}
+					}
+					trigger_event = {
+						id = ate_religious_interaction.124
+						days = 7
+					}
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.123 = { #Sayona Love Spell Success
+	type = character_event
+	title = ate_religious_interaction.123.t
+	desc = ate_religious_interaction.123.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = happiness
+	}
+	option = {
+		name = ate_religious_interaction.123.a
+		scope:recipient = {
+			add_opinion = {
+				target = scope:actor
+				modifier = sayona_infatuated
+			}
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.123.a_infatuated
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+	option = {
+		name = ate_religious_interaction.123.b
+		trigger = {
+			scope:actor = {
+				is_attracted_to_gender_of = scope:recipient
+			}
+		}
+		scope:recipient = {
+			set_relation_lover = scope:actor
+		}
+		hidden_effect = {
+			scope:recipient = {
+				send_interface_toast = {
+					title = ate_religious_interaction.123.b_lovers
+					left_icon = scope:actor
+				}
+			}
+		}
+	}
+}
+
+ate_religious_interaction.124 = { #Sayona Love Spell Fail
+	type = character_event
+	title = ate_religious_interaction.124.t
+	desc = ate_religious_interaction.124.desc
+	theme = faith
+	override_background = {
+		event_background = council_chamber
+	}
+	left_portrait =	 { 
+		character = scope:actor
+		animation = sadness
+	}
+	option = {
+		name = ate_religious_interaction.124.a
+		scope:recipient = {
+			add_opinion = {
+				target = scope:actor
+				modifier = sayona_disdain
+			}
 		}
 	}
 }

@@ -3704,9 +3704,6 @@ ate_religious_decision.120 = {
 		character = scope:realm_priest
 		animation = scheme
 	}
-	override_background = {
-		event_background = wilderness
-	}
 	option = {
 		name = ate_religious_decision.120.a
 		remove_short_term_gold = 15
@@ -3791,6 +3788,48 @@ ate_religious_decision.120 = {
 			add_character_modifier = {
 				modifier = night_mare
 			}
+		}
+	}
+}
+
+ate_religious_decision.121 = { 
+	type = character_event
+	title = ate_religious_decision.121.t
+	desc = ate_religious_decision.121.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.121.a
+		add_character_modifier = {
+			modifier = rucio_moro_blessing 
+			years = 5
+		}
+	}
+}
+
+ate_religious_decision.122 = { 
+	type = character_event
+	title = ate_religious_decision.122.t
+	desc = ate_religious_decision.122.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = anger
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.122.a
+		add_character_modifier = {
+			modifier = rucio_moro_not_blessing 
+			years = 3
 		}
 	}
 }

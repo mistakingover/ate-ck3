@@ -86,23 +86,42 @@
 
  get_initiated_mystery_cult_decision:0 "Get Initiated Into a Mystery Cult"
  get_initiated_mystery_cult_decision_desc:0 "Among our people, rulers are expected to get introduced into the sacred mysteries of the herder cults. Women are taught the mysteries of love and death, while men learn the magics of virility and strength.\n\nIf I prepare for a night of dance and sacrifice, the covert powers of the espantos will be at my fingertips."
- get_initiated_mystery_cult_decision_tooltip:0 "Get initiated into a mystery cult."
- get_initiated_mystery_cult_effect:0 "You will receive an initiation into one of the mystery cults of the faith, enabling access to different spell interactions."
+ get_initiated_mystery_cult_decision_tooltip:0 "Get initiated into a mystery cult, accessing the dark spellcraft of the powerful horrors our people believe in."
+ get_initiated_mystery_cult_effect:0 "You will receive an initiation into one of the mystery cults of the faith, #P enabling access to different spell interactions#!."
  get_initiated_mystery_cult_decision_confirm:0 "I pray to the one who is stallion and dame!"
 
  night_mare:0 "Night Mare"
  night_mare_desc:0 "This character is an initiate of the Night Mares cult, enabling access to the dark spells of La Sayona, La Bolefuego, and Rucio Moro."
  hell_stallion:0 "Hell Stallion"
  hell_stallion_desc:0 "This character is an initiate of the Hell Stallions cult, enabling access to the dark spells of Juan Machete, Florentino Cazadiablos, and Rucio Moro."
+ rucio_moro_blessing:0 "Rucio Moro's Blessing"
+ rucio_moro_blessing_desc:0 "This character has been blessed with rains of prosperity, supposedly by Rucio Moro themselves."
+ rucio_moro_not_blessing:0 "Ignored by Rucio Moro"
+ rucio_moro_not_blessing_desc:0 "This character has been not been blessed with rains of prosperity they have asked for, supposedly signaling rejection by Rucio Moro."
 
  I_HAVE_MALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a male, just as I am, and is available to perform the ritual"
  NOT_I_HAVE_MALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! a male or available to perform the ritual"
  I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is a male, just as I am, and is available to perform the ritual"
  NOT_I_HAVE_FEMALE_COURT_CHAPLAIN:0 "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! a male or available to perform the ritual"
 
- ate_religious_decision.120.t:o "The Initiation"
+ ate_religious_decision.120.t:0 "The Initiation"
  ate_religious_decision.120.desc.female:0 "While the harps roar in frenzied joropo sonatas, the old priestesses encourage me to dance so that the ancient songs bring forth the dark mysteries.\n\nI dance until my feet bleed, and only then am I allowed to enter the ancient temple where fire covers the walls in red. While the old women cover my head with a black cloak, they demand to know my sacrifice before the flames of the dark beings."
  ate_religious_decision.120.desc.male:0 "An old priest sings an aria while he scratches the strings of a harp in a sound that is somehow as blissful as it is gloomy. I am instructed to punch the walls of the dark temple in which we find ourselves until my knuckles bleed, only when the blood covers my hands am I allowed to approach the old altar where the darkness barely allows to distinguish the shape of the bones of man and beast.\n\nI understand then that you are expected to offer a sacrifice."
- ate_religious_decision.120.a:o "I offer the flesh of my steed, to gallop with the dark ones."
- ate_religious_decision.120.b:o "I give the life of a warrior, may their blood nourish the holy."
- ate_religious_decision.120.c:o "My blood, from the wounds that I have opened tonight."
+ ate_religious_decision.120.a:0 "I offer the flesh of my steed, to gallop with the dark ones."
+ ate_religious_decision.120.b:0 "I give the life of a warrior, may their blood nourish the holy."
+ ate_religious_decision.120.c:0 "My blood, from the wounds that I have opened tonight."
+
+ machete_pray_for_prosperity_decision:0 "Pray for Prosperity"
+ machete_pray_for_prosperity_decision_desc:0 "Rucio Moro is the espanto of thunder, death and rain. The Rucio is said to die between lightning bolts every time a storm shakes the skies, only to be reborn in a new form. The celestial beast appears alternately as a handsome stallion or as an androgynous figure whose genitals are shaped according to the wishes of the observer.\n\nIf I go out into the open and cry out my wish to the heavens, perhaps the creature will bring me its blessing."
+ machete_pray_for_prosperity_decision_tooltip:0 "Go out into the wilderness and pray for Rucio Moro to signal prosperity with rainfall."
+ machete_pray_for_prosperity_effect:0 "You will go out and pray, asking Rucio Moro for prosperity, and potentially receiving a #P bonus #! or #N malus#!."
+ machete_pray_for_prosperity_decision_confirm:0 "I pray to the one who is stallion and dame!"
+
+ ate_religious_decision.121.t:0 "Rains of Prosperity"
+ ate_religious_decision.121.desc:0 "Last night a thunderstorm erupted, the rains will without a doubt bring a lot of prosperity to my land and my people. As I ride on my horse I see a figure in the distance, I can’t tell if it’s a man or a woman, but it brings great joy to my heart."
+ ate_religious_decision.121.a:0 "Beautiful either way."
+ ate_religious_decision.122.t:0 "Clouds of Famine"
+ ate_religious_decision.122.desc:0 "The sky has being clear for weeks now, there is no sign of rain. If things continue like this the cattle will die and with it the herders. Rusio Moro refuses to answer my prayer."
+ ate_religious_decision.122.a:0 "Just die already, you queer horse!"
+ #I proceed to xD
+

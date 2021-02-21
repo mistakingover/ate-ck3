@@ -74,7 +74,7 @@ clan_government = {
 	
 	create_cadet_branches = yes
 	rulers_should_have_dynasty = yes
-	primary_cultures = { mapuche qom wichi navajo }
+	primary_cultures = { mapuche qom wichi navajo mbya } #mainly organized natives
 	valid_holdings = { castle_holding }
 	required_county_holdings = { castle_holding city_holding church_holding }
 	always_use_patronym = yes
