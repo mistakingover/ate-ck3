@@ -519,3 +519,137 @@ consult_the_huacas_decision = {
 		}		
 	}
 }
+
+get_initiated_mystery_cult_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = get_initiated_mystery_cult_decision_desc
+	selection_tooltip = get_initiated_mystery_cult_decision_tooltip
+
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = select_machete_spells_active
+		}
+		NOR = {
+			has_character_modifier = hell_stallion
+			has_character_modifier = night_mare
+		}
+	}
+	is_valid = {
+		OR = {
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_male
+				exists = cp:councillor_court_chaplain
+				is_male = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_male = yes
+				}
+			}
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_female
+				exists = cp:councillor_court_chaplain
+				is_female = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_female = yes
+				}
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		hidden_effect = {
+			trigger_event = ate_religious_decision.120
+		}
+		custom_tooltip = get_initiated_mystery_cult_effect
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100	
+	}
+}
+
+machete_pray_for_prosperity_decision = {
+	picture = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+
+	desc = machete_pray_for_prosperity_decision_desc
+	selection_tooltip = machete_pray_for_prosperity_decision_tooltip
+	cooldown = { 
+		years = 10
+	}
+	is_shown = {
+		faith = {
+			has_doctrine_parameter = select_machete_spells_active
+		}
+		OR = {
+			has_character_modifier = hell_stallion
+			has_character_modifier = night_mare
+		}
+	}
+	is_valid = {
+		OR = {
+			has_character_modifier = hell_stallion
+			has_character_modifier = night_mare
+		}
+		OR = {
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_male
+				exists = cp:councillor_court_chaplain
+				is_male = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_male = yes
+				}
+			}
+			custom_description = {
+				text = decision_has_court_chaplain_same_gender_female
+				exists = cp:councillor_court_chaplain
+				is_female = yes
+				cp:councillor_court_chaplain = {
+					is_available_adult = yes
+					is_female = yes
+				}
+			}
+		}
+	}
+
+	is_valid_showing_failures_only = {
+
+	}
+
+	effect = {
+		hidden_effect = {
+			random_list = {
+				50 = {
+					trigger_event = ate_religious_decision.121
+				}
+				50 = {
+					trigger_event = ate_religious_decision.122
+				}
+			}
+		}
+		custom_tooltip = machete_pray_for_prosperity_effect
+	}
+
+	ai_check_interval = 12
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100	
+	}
+}
+

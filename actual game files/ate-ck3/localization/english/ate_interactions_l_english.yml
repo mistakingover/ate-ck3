@@ -35,3 +35,23 @@
  lay_on_hands_interaction_has_been_healed:0 "This character has had their health prayed for recently"
  lay_on_hands_interaction_is_healthy:0 "This character is healthy"
  not_lay_on_hands_interaction_is_healthy:0 "This character is not healthy"
+
+ deliver_from_evil_interaction:0 "Deliver from Evil"
+ deliver_from_evil_interaction_desc:0 "You perform a deliverance ministry on this person, fighting the hellish spirits that have taken over their body."
+ deliverance_ministry_timing:0 "You have not performed a deliverance ministry recently"
+ not_deliverance_ministry_timing:0 "You have performed a deliverance ministry recently"
+ deliver_from_evil_interaction_has_been_delivered:0 "This character has received a deliverance ministry recently already"
+ deliver_from_evil_interaction.tt_modifiers:0 "Every #P Higher learning skill#! and being #P zealous#! give additional chance to expel the demon, while being #N cynical#! increases the chance to fail, regardless of learning\n\n@warning_icon! #X You can only perform a deliverance ministry once every 2 years#!"
+ delivered_from_evil_modifier:0 "Delivered from Evil"
+ delivered_from_evil_modifier_desc:0 "This character had evil succesfully delivered from them, cleaning their body of hellish influence, and bringing new light into their soul."
+ used_deliverance_ministry_modifier:0 "Performed Deliverance Ministry"
+ used_deliverance_ministry_modifier_desc:0 "This character has done their part in the spiritual warfare against evil by performing a deliverance ministry recently."
+
+ machete_sayona_interaction:0 "Cast a Love Spell"
+ machete_sayona_interaction_desc:0 "You cast a love spell on this character, using Sayona's magic to win over [recipient.GetHerHis] heart."
+ machete_sayona_timing:0 "You have not conjured a love spell recently"
+ not_machete_sayona_timing:0 "You have conjured a love spell recently"
+ machete_sayona_interaction_has_been_bewitched:0 "This character has been affected by a love spell recently"
+ machete_sayona_interaction.tt_modifiers:0 "Every #P Attractiveness Traits#! as well as #P Intrigue#! give additional chance to win over their heart, while every #N Bad Genetical Attractiveness Traits#! increases the chance to fail, regardless of intrigue\n\n@warning_icon! #X You can only cast a love spell once every 10 years#!\n\n#N The spell's effect is greatly reduced against heretics and heathens#!"
+ machete_sayona.tt_winnings_actor:0 "If you succeed, [recipient.GetTitledFirstNameNoTooltip] #P will fall in love with you#!. If you fail, [recipient.GetSheHe] #N might look at you with disdain#!."
+

@@ -160,20 +160,20 @@ delivered_from_evil_modifier={
 
 challa_blessing_1 = {
 	icon = piety_positive 
-	domain_tax_same_faith_mult = 0.05
+	domain_tax_same_faith_mult = 0.1
 	clergy_opinion = 5
 }
 
 challa_blessing_2 = {
 	icon = piety_positive 
-	domain_tax_same_faith_mult = 0.05
+	domain_tax_same_faith_mult = 0.1
 	clergy_opinion = 5
 	same_faith_opinion = 5
 }
 
 challa_blessing_3 = {
 	icon = piety_positive 
-	domain_tax_same_faith_mult = 0.05
+	domain_tax_same_faith_mult = 0.1
 	clergy_opinion = 5
 	same_faith_opinion = 10
 }
@@ -196,15 +196,15 @@ huaca_bad_piety = {
 
 huaca_great_economy = {
 	icon = economy_positive 
-	domain_tax_mult = 0.1
+	domain_tax_mult = 0.15
 }
 huaca_good_economy = {
 	icon = economy_positive 
-	domain_tax_mult = 0.05
+	domain_tax_mult = 0.1
 }
 huaca_bad_economy = {
 	icon = economy_negative
-	domain_tax_mult = -0.05
+	domain_tax_mult = -0.1
 }
 
 huaca_great_war = {
@@ -236,4 +236,22 @@ huaca_bad_admin = {
 	icon = stewardship_negative
 	stewardship = -1
 	tyranny_loss_mult = -0.05
+}
+
+hell_stallion = {
+	icon = horse_positive 
+}
+
+night_mare = {
+	icon = horse_positive 
+}
+
+rucio_moro_blessing = {
+	icon = magic_positive 
+	domain_tax_mult = 0.1
+}
+
+rucio_moro_not_blessing = {
+	icon = magic_negative
+	domain_tax_mult = -0.05
 }

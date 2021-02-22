@@ -3675,3 +3675,161 @@ ate_religious_decision.116 = {
 		}
 	}
 }
+
+ate_religious_decision.120 = { 
+	type = character_event
+	title = ate_religious_decision.120.t
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					is_female = yes
+				}
+				desc = ate_religious_decision.120.desc.female
+			}
+			triggered_desc = {
+				trigger = {
+					is_male = yes
+				}
+				desc = ate_religious_decision.120.desc.male
+			}
+		}
+	}
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = worry
+	}
+	left_portrait = {
+		character = scope:realm_priest
+		animation = scheme
+	}
+	option = {
+		name = ate_religious_decision.120.a
+		remove_short_term_gold = 15
+		add_piety = 40
+		if = {
+			limit = {
+				is_male = yes
+			}
+			add_character_modifier = {
+				modifier = hell_stallion
+			}
+		}
+		else = {
+			add_character_modifier = {
+				modifier = night_mare
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.120.b
+		trigger = {
+			number_of_knights > 0
+			any_knight = {
+				is_knight_of = root
+				is_landed = no
+			}
+		}
+		random_knight = {
+			limit = {
+				is_knight_of = root
+				is_landed = no
+			}
+			death = { 
+				killer = root
+				death_reason = death_sacrificed_to_gods 
+			}
+		}
+		add_piety = 70
+		if = {
+			limit = {
+				is_male = yes
+			}
+			add_character_modifier = {
+				modifier = hell_stallion
+			}
+		}
+		else = {
+			add_character_modifier = {
+				modifier = night_mare
+			}
+		}
+	}
+	option = {
+		name = ate_religious_decision.120.c
+		trigger = {
+			NOT = {
+				has_trait = wounded_3
+			}
+		}
+		if = {
+			limit = {
+				NOR = {
+					has_trait = wounded_1
+					has_trait = wounded_2
+				}
+			}
+			add_trait = wounded_1
+		}
+		else = {
+			increase_wounds_effect = yes
+		}
+		add_piety = 120
+		if = {
+			limit = {
+				is_male = yes
+			}
+			add_character_modifier = {
+				modifier = hell_stallion
+			}
+		}
+		else = {
+			add_character_modifier = {
+				modifier = night_mare
+			}
+		}
+	}
+}
+
+ate_religious_decision.121 = { 
+	type = character_event
+	title = ate_religious_decision.121.t
+	desc = ate_religious_decision.121.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = personality_zealous
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.121.a
+		add_character_modifier = {
+			modifier = rucio_moro_blessing 
+			years = 5
+		}
+	}
+}
+
+ate_religious_decision.122 = { 
+	type = character_event
+	title = ate_religious_decision.122.t
+	desc = ate_religious_decision.122.desc
+	theme = faith
+	right_portrait = {
+		character = root
+		animation = anger
+	}
+	override_background = {
+		event_background = wilderness
+	}
+	option = {
+		name = ate_religious_decision.122.a
+		add_character_modifier = {
+			modifier = rucio_moro_not_blessing 
+			years = 3
+		}
+	}
+}
